@@ -1,0 +1,169 @@
+[
+  {
+    "site": "Master Sean Chan",
+    "freeChart": true,
+    "trueSolarTime": true,
+    "luckPillars": true,
+    "tenGods": true,
+    "shenSha": true,
+    "consulting": true,
+    "coursesOrMembership": true,
+    "shop": false,
+    "pricing": [
+      "免费"
+    ],
+    "techStack": [
+      "Cloudflare",
+      "Google Analytics",
+      "Google Tag Manager",
+      "WordPress",
+      "jQuery"
+    ],
+    "leadMagnets": [
+      "咨询预约",
+      "课程招生"
+    ],
+    "businessModel": "课程+咨询转化",
+    "trafficStrategy": "课程漏斗驱动",
+    "seoSignals": [
+      "有结构化数据",
+      "有 canonical",
+      "有明确 H1",
+      "有 FAQ 结构化数据"
+    ]
+  },
+  {
+    "site": "MingLi",
+    "freeChart": false,
+    "trueSolarTime": true,
+    "luckPillars": false,
+    "tenGods": true,
+    "shenSha": true,
+    "consulting": true,
+    "coursesOrMembership": true,
+    "shop": true,
+    "pricing": [],
+    "techStack": [
+      "Google Analytics",
+      "Google Tag Manager",
+      "React",
+      "Vue",
+      "jQuery"
+    ],
+    "leadMagnets": [
+      "咨询预约",
+      "课程招生",
+      "注册订阅",
+      "商店导流"
+    ],
+    "businessModel": "平台化商业闭环",
+    "trafficStrategy": "课程漏斗驱动",
+    "seoSignals": [
+      "有 meta keywords",
+      "有 canonical",
+      "有明确 H1"
+    ]
+  },
+  {
+    "site": "Joey Yap",
+    "freeChart": false,
+    "trueSolarTime": false,
+    "luckPillars": false,
+    "tenGods": false,
+    "shenSha": false,
+    "consulting": true,
+    "coursesOrMembership": true,
+    "shop": true,
+    "pricing": [
+      "免费"
+    ],
+    "techStack": [
+      "Elementor",
+      "Google Analytics",
+      "Google Tag Manager",
+      "React",
+      "WordPress",
+      "jQuery"
+    ],
+    "leadMagnets": [
+      "活动引流",
+      "咨询预约",
+      "课程招生",
+      "免费电子书",
+      "商店导流"
+    ],
+    "businessModel": "平台化商业闭环",
+    "trafficStrategy": "内容/活动驱动",
+    "seoSignals": [
+      "有结构化数据",
+      "有 canonical",
+      "有明确 H1"
+    ]
+  },
+  {
+    "site": "Marlyna Consulting",
+    "freeChart": true,
+    "trueSolarTime": false,
+    "luckPillars": false,
+    "tenGods": true,
+    "shenSha": false,
+    "consulting": true,
+    "coursesOrMembership": true,
+    "shop": true,
+    "pricing": [
+      "免费"
+    ],
+    "techStack": [
+      "Elementor",
+      "Google Analytics",
+      "Google Tag Manager",
+      "React",
+      "WordPress",
+      "jQuery"
+    ],
+    "leadMagnets": [
+      "咨询预约",
+      "注册订阅",
+      "课程招生"
+    ],
+    "businessModel": "平台化商业闭环",
+    "trafficStrategy": "课程漏斗驱动",
+    "seoSignals": [
+      "有结构化数据",
+      "有 canonical",
+      "有明确 H1"
+    ]
+  },
+  {
+    "site": "Janet Yung BaZi Calculator",
+    "freeChart": true,
+    "trueSolarTime": false,
+    "luckPillars": false,
+    "tenGods": false,
+    "shenSha": false,
+    "consulting": true,
+    "coursesOrMembership": true,
+    "shop": true,
+    "pricing": [
+      "免费"
+    ],
+    "techStack": [
+      "WordPress",
+      "jQuery"
+    ],
+    "leadMagnets": [
+      "免费电子书",
+      "咨询预约",
+      "商店导流",
+      "会员入口",
+      "报告样本"
+    ],
+    "businessModel": "平台化商业闭环",
+    "trafficStrategy": "课程漏斗驱动",
+    "seoSignals": [
+      "有结构化数据",
+      "有 canonical",
+      "有明确 H1"
+    ]
+  }
+]
