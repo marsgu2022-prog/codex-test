@@ -60,6 +60,7 @@ LOGGER = _configure_logger()
 DAILY_FORTUNE_MODULE = _load_local_module("bazichart_engine_daily_fortune", BASE_DIR / "daily_fortune.py")
 DAYUN_MODULE = _load_local_module("bazichart_engine_dayun", BASE_DIR / "dayun.py")
 DAYUN_DETAIL_MODULE = _load_local_module("bazichart_engine_dayun_detail", BASE_DIR / "dayun_detail.py")
+FAMOUS_MATCH_MODULE = _load_local_module("bazichart_engine_famous_match", BASE_DIR / "famous_match.py")
 HEHUN_MODULE = _load_local_module("bazichart_engine_hehun", BASE_DIR / "hehun.py")
 LIUNIAN_DETAIL_MODULE = _load_local_module("bazichart_engine_liunian_detail", BASE_DIR / "liunian_detail.py")
 PDF_MODULE = _load_local_module("bazichart_engine_pdf_generator", BASE_DIR / "pdf_generator.py")
@@ -169,6 +170,15 @@ class HehunRequest(BaseModel):
         return self
 
 
+class FamousMatchRequest(BaseModel):
+    day_pillar: str = Field(default="")
+
+    @model_validator(mode="after")
+    def validate_fields(self) -> "FamousMatchRequest":
+        self.day_pillar = _normalize_day_pillar(self.day_pillar)
+        return self
+
+
 def _extract_validation_message(exc: RequestValidationError) -> str:
     errors = exc.errors()
     if not errors:
@@ -227,6 +237,13 @@ def _normalize_longitude(value: Any) -> float | None:
         return float(value)
     except (TypeError, ValueError) as exc:
         raise ValueError("经度格式无效") from exc
+
+
+def _normalize_day_pillar(value: Any) -> str:
+    text = str(value or "").strip()
+    if len(text) != 2 or text[0] not in TIANGAN or text[1] not in DIZHI:
+        raise ValueError("日柱格式无效")
+    return text
 
 
 def _validate_date(year: int, month: int, day: int) -> None:
@@ -409,6 +426,7 @@ def generate_interpretation(payload: InterpretRequest, four_pillars: dict[str, A
             "ten_gods": {"比肩": 8, "正印": 7},
         }
     )
+    day_pillar = f"{four_pillars['day']['heavenly_stem']}{four_pillars['day']['earthly_branch']}"
 
     return {
         "input": {
@@ -423,6 +441,7 @@ def generate_interpretation(payload: InterpretRequest, four_pillars: dict[str, A
             "longitude": payload.longitude,
         },
         "four_pillars": four_pillars,
+        "famous_matches": FAMOUS_MATCH_MODULE.get_famous_matches(day_pillar),
         "shensha": SHENSHA_MODULE.calculate_shensha(four_pillars, payload.gender),
         "wuxing_analysis": WUXING_MODULE.analyze_wuxing(four_pillars),
         "dayun": dayun,
@@ -609,6 +628,21 @@ def analyze_hehun(payload: HehunRequest):
         raise
     except Exception as exc:
         raise HTTPException(status_code=500, detail=f"合婚分析失败: {exc}") from exc
+
+
+@app.post("/api/famous-match")
+def famous_match(payload: FamousMatchRequest):
+    try:
+        people = FAMOUS_MATCH_MODULE.get_famous_matches(payload.day_pillar)
+        return {
+            "day_pillar": payload.day_pillar,
+            "count": len(people),
+            "people": people,
+        }
+    except HTTPException:
+        raise
+    except Exception as exc:
+        raise HTTPException(status_code=500, detail=f"名人匹配失败: {exc}") from exc
 
 
 @app.post("/api/interpret")
