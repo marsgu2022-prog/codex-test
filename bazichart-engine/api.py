@@ -56,6 +56,7 @@ def _configure_logger() -> logging.Logger:
 LOGGER = _configure_logger()
 DAILY_FORTUNE_MODULE = _load_local_module("bazichart_engine_daily_fortune", BASE_DIR / "daily_fortune.py")
 DAYUN_MODULE = _load_local_module("bazichart_engine_dayun", BASE_DIR / "dayun.py")
+DAYUN_DETAIL_MODULE = _load_local_module("bazichart_engine_dayun_detail", BASE_DIR / "dayun_detail.py")
 HEHUN_MODULE = _load_local_module("bazichart_engine_hehun", BASE_DIR / "hehun.py")
 PDF_MODULE = _load_local_module("bazichart_engine_pdf_generator", BASE_DIR / "pdf_generator.py")
 SHENSHA_MODULE = _load_local_module("bazichart_engine_shensha", BASE_DIR / "shensha.py")
@@ -303,6 +304,13 @@ def generate_interpretation(payload: InterpretRequest, four_pillars: dict[str, A
     day_master = four_pillars["day"]["heavenly_stem"]
     dominant_gods = ["比肩", "正印"]
     current_year = datetime.now().year
+    dayun = DAYUN_MODULE.calculate_dayun(payload.year, payload.month, payload.day, payload.hour, payload.gender)
+    for item in dayun:
+        item["detail"] = DAYUN_DETAIL_MODULE.generate_dayun_detail(
+            four_pillars,
+            f"{item['tiangan']}{item['dizhi']}",
+            payload.gender,
+        )
     narrative = INTERPRETER_MODULE.post_interpret(
         {
             "lang": "zh",
@@ -327,7 +335,7 @@ def generate_interpretation(payload: InterpretRequest, four_pillars: dict[str, A
         "four_pillars": four_pillars,
         "shensha": SHENSHA_MODULE.calculate_shensha(four_pillars, payload.gender),
         "wuxing_analysis": WUXING_MODULE.analyze_wuxing(four_pillars),
-        "dayun": DAYUN_MODULE.calculate_dayun(payload.year, payload.month, payload.day, payload.hour, payload.gender),
+        "dayun": dayun,
         "liunian": DAYUN_MODULE.calculate_liunian(payload.year, current_year - 5, 10),
         "ten_gods_analysis": {
             "比肩": {
