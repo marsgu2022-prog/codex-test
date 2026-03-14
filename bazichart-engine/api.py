@@ -56,6 +56,7 @@ def _configure_logger() -> logging.Logger:
 LOGGER = _configure_logger()
 DAILY_FORTUNE_MODULE = _load_local_module("bazichart_engine_daily_fortune", BASE_DIR / "daily_fortune.py")
 DAYUN_MODULE = _load_local_module("bazichart_engine_dayun", BASE_DIR / "dayun.py")
+HEHUN_MODULE = _load_local_module("bazichart_engine_hehun", BASE_DIR / "hehun.py")
 PDF_MODULE = _load_local_module("bazichart_engine_pdf_generator", BASE_DIR / "pdf_generator.py")
 SHENSHA_MODULE = _load_local_module("bazichart_engine_shensha", BASE_DIR / "shensha.py")
 SOLAR_TIME_MODULE = _load_local_module("bazichart_engine_solar_time", BASE_DIR / "solar_time.py")
@@ -113,6 +114,35 @@ class InterpretRequest(BaseModel):
         self.timezone = (self.timezone or "Asia/Shanghai").strip() or "Asia/Shanghai"
         self.longitude = _normalize_longitude(self.longitude)
         _validate_date(self.year, self.month, self.day)
+        return self
+
+
+class HehunRequest(BaseModel):
+    male_year: Any = Field(default=None)
+    male_month: Any = Field(default=None)
+    male_day: Any = Field(default=None)
+    male_hour: Any = Field(default=None)
+    male_gender: Any = Field(default=None)
+    female_year: Any = Field(default=None)
+    female_month: Any = Field(default=None)
+    female_day: Any = Field(default=None)
+    female_hour: Any = Field(default=None)
+    female_gender: Any = Field(default=None)
+
+    @model_validator(mode="after")
+    def validate_fields(self) -> "HehunRequest":
+        self.male_year = _validate_int_field(self.male_year, "请输入男方出生年份", "年份范围为1900-2030", 1900, 2030)
+        self.male_month = _validate_int_field(self.male_month, "请输入男方出生月份", "月份范围为1-12", 1, 12)
+        self.male_day = _validate_int_field(self.male_day, "请输入男方出生日期", "日期范围为1-31", 1, 31)
+        self.male_hour = _validate_int_field(self.male_hour, "请输入男方出生时辰", "时辰范围为0-23", 0, 23)
+        self.male_gender = _normalize_gender(self.male_gender)
+        self.female_year = _validate_int_field(self.female_year, "请输入女方出生年份", "年份范围为1900-2030", 1900, 2030)
+        self.female_month = _validate_int_field(self.female_month, "请输入女方出生月份", "月份范围为1-12", 1, 12)
+        self.female_day = _validate_int_field(self.female_day, "请输入女方出生日期", "日期范围为1-31", 1, 31)
+        self.female_hour = _validate_int_field(self.female_hour, "请输入女方出生时辰", "时辰范围为0-23", 0, 23)
+        self.female_gender = _normalize_gender(self.female_gender)
+        _validate_date(self.male_year, self.male_month, self.male_day)
+        _validate_date(self.female_year, self.female_month, self.female_day)
         return self
 
 
@@ -430,6 +460,47 @@ def get_daily_fortune(
         raise HTTPException(status_code=400, detail=str(exc)) from exc
     except Exception as exc:
         raise HTTPException(status_code=500, detail=f"每日运势生成失败: {exc}") from exc
+
+
+@app.post("/api/hehun")
+def analyze_hehun(payload: HehunRequest):
+    try:
+        male_payload = InterpretRequest(
+            year=payload.male_year,
+            month=payload.male_month,
+            day=payload.male_day,
+            hour=payload.male_hour,
+            minute=0,
+            gender=payload.male_gender,
+            city="",
+            timezone="Asia/Shanghai",
+            longitude=None,
+        )
+        female_payload = InterpretRequest(
+            year=payload.female_year,
+            month=payload.female_month,
+            day=payload.female_day,
+            hour=payload.female_hour,
+            minute=0,
+            gender=payload.female_gender,
+            city="",
+            timezone="Asia/Shanghai",
+            longitude=None,
+        )
+        male_pillars = build_four_pillars(male_payload)
+        female_pillars = build_four_pillars(female_payload)
+        male_analysis = WUXING_MODULE.analyze_wuxing(male_pillars)
+        female_analysis = WUXING_MODULE.analyze_wuxing(female_pillars)
+        return HEHUN_MODULE.analyze_hehun(
+            male_pillars,
+            female_pillars,
+            male_analysis=male_analysis,
+            female_analysis=female_analysis,
+        )
+    except HTTPException:
+        raise
+    except Exception as exc:
+        raise HTTPException(status_code=500, detail=f"合婚分析失败: {exc}") from exc
 
 
 @app.post("/api/interpret")
