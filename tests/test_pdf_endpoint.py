@@ -1,0 +1,50 @@
+from importlib.util import module_from_spec, spec_from_file_location
+from pathlib import Path
+import sys
+
+from fastapi.testclient import TestClient
+
+
+MODULE_PATH = Path(__file__).resolve().parents[1] / "bazichart-engine" / "api.py"
+SPEC = spec_from_file_location("bazi_pdf_api", MODULE_PATH)
+MODULE = module_from_spec(SPEC)
+sys.modules["bazi_pdf_api"] = MODULE
+assert SPEC and SPEC.loader
+SPEC.loader.exec_module(MODULE)
+
+client = TestClient(MODULE.app)
+
+
+def test_pdf_endpoint_returns_pdf():
+    response = client.post(
+        "/api/report/pdf",
+        json={
+            "birth_year": 1990,
+            "birth_month": 7,
+            "birth_day": 15,
+            "birth_hour": 9,
+            "gender": "女",
+            "birthplace": "上海",
+        },
+    )
+
+    assert response.status_code == 200
+    assert response.headers["content-type"] == "application/pdf"
+    assert 'attachment; filename="bazi_report.pdf"' == response.headers["content-disposition"]
+    assert len(response.content) > 0
+
+
+def test_pdf_endpoint_missing_required_field_returns_400():
+    response = client.post(
+        "/api/report/pdf",
+        json={
+            "birth_year": 1990,
+            "birth_month": 7,
+            "birth_day": 15,
+            "birth_hour": 9,
+            "gender": "女",
+        },
+    )
+
+    assert response.status_code == 400
+    assert response.headers["content-type"].startswith("application/json")
