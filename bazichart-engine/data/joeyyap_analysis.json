@@ -1,0 +1,139 @@
+{
+  "site": "Joey Yap Home",
+  "generatedAt": "2026-03-14 16:58:17",
+  "pages": [
+    {
+      "url": "https://home.joeyyap.com/",
+      "finalUrl": "https://home.joeyyap.com/",
+      "title": "Home - Joey Yap",
+      "metaDescription": "Uncover your strengths and opportunities through the Chinese zodiac. Start your journey with an insightful BaZi consultation.",
+      "metaKeywords": "",
+      "h1": [
+        "Life doesn't change by chance.\nIt changes with Strategy."
+      ],
+      "canonical": "https://home.joeyyap.com/",
+      "features": [
+        "免费工具",
+        "八字",
+        "风水",
+        "课程或会员",
+        "咨询或解读",
+        "排盘工具"
+      ],
+      "pricing": [
+        "免费"
+      ],
+      "techStack": [
+        "React",
+        "jQuery",
+        "WordPress",
+        "Google Tag Manager",
+        "Google Analytics"
+      ],
+      "socialLinks": [
+        "https://www.facebook.com/datojoeyyap",
+        "https://www.instagram.com/realjoeyyap/",
+        "https://www.linkedin.com/company/joeyyap",
+        "https://www.tiktok.com/@realjoeyyap"
+      ],
+      "externalScripts": [
+        "https://home.joeyyap.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+        "https://home.joeyyap.com/wp-content/litespeed/js/29508c4e70f31bb88afba6695e44388f.js?ver=5853a",
+        "https://www.googletagmanager.com/gtag/js?id=GT-K8F86Z84",
+        "https://home.joeyyap.com/wp-content/litespeed/js/4f0dc5b47bd15f874b425a8d11ab6b5f.js?ver=b6b5f",
+        "https://home.joeyyap.com/wp-content/litespeed/js/4329b6d2cdfb474a6f1c31ce2a8d66d8.js?ver=d66d8",
+        "https://home.joeyyap.com/wp-content/litespeed/js/62847060e2c496179b89b5fb4f6c89cc.js?ver=c89cc",
+        "https://home.joeyyap.com/wp-content/litespeed/js/b2a949622c74ca041143dba5b638ba31.js?ver=8ba31",
+        "https://home.joeyyap.com/wp-content/litespeed/js/6076ddbc620aceb1fe6cc097ccb9058c.js?ver=bc8ef",
+        "https://home.joeyyap.com/wp-content/litespeed/js/9f5a3140de32656ccadd48467a8e979e.js?ver=c4087",
+        "https://home.joeyyap.com/wp-content/litespeed/js/a43657f66b94e606835af10880dd2dac.js?ver=8a4ca",
+        "https://home.joeyyap.com/wp-content/litespeed/js/08822eeec070dbd7e44f778f81ed2b92.js?ver=39241",
+        "https://home.joeyyap.com/wp-content/litespeed/js/42aee01a008ef985640bc7e610f4e800.js?ver=5d2da",
+        "https://home.joeyyap.com/wp-content/litespeed/js/205bb8ebd10505211352f01afed10d4f.js?ver=7271a",
+        "https://home.joeyyap.com/wp-content/litespeed/js/cdf7e07a482d09f3885b847cbbd12782.js?ver=80b18",
+        "https://home.joeyyap.com/wp-content/litespeed/js/28d00d6fd90e7aec0f76adf24f7987ed.js?ver=8dadb",
+        "https://home.joeyyap.com/wp-content/litespeed/js/1bc33648d7e55bf0457adace91dc5399.js?ver=7c96b",
+        "https://home.joeyyap.com/wp-content/litespeed/js/ad843994ea5aeca030643efb0c8f4b2d.js?ver=278d0",
+        "https://home.joeyyap.com/wp-content/litespeed/js/a2c0ebcf4bf421025b3231c63226be33.js?ver=970a0",
+        "https://home.joeyyap.com/wp-content/litespeed/js/817c9d191320e9e0783614f9f35ebeae.js?ver=33fac",
+        "https://home.joeyyap.com/wp-content/litespeed/js/d9cf0e44c6c508a4c6d6b1d26b266887.js?ver=82b4e",
+        "https://home.joeyyap.com/wp-content/litespeed/js/36837d5e82386c4c1d47cdce2d70193b.js?ver=41dcc",
+        "https://home.joeyyap.com/wp-content/litespeed/js/023eb1069efba7883aa3610b1aa08a12.js?ver=aa414",
+        "https://home.joeyyap.com/wp-content/litespeed/js/0063094bee368703d115d652d0782bdb.js?ver=a7193",
+        "https://home.joeyyap.com/wp-content/litespeed/js/f5c450886b1c90029abd3f121b373bd1.js?ver=a11bf",
+        "https://home.joeyyap.com/wp-content/litespeed/js/7be9dfac4734d6fcb70540ac58ce03b7.js?ver=c3448",
+        "https://home.joeyyap.com/wp-content/litespeed/js/e6a504fbbc3677779ee5cf42b461b965.js?ver=a5be4",
+        "https://home.joeyyap.com/wp-content/litespeed/js/b2986e77a6eab86607a83fbe54f14ef5.js?ver=6fcaf",
+        "https://home.joeyyap.com/wp-content/litespeed/js/c6dfccf1953c8f18620d2bc3d0bb8b84.js?ver=0445d",
+        "https://home.joeyyap.com/wp-content/litespeed/js/29f1fd45970f8cb644184c8c5329f7d5.js?ver=ec7ac",
+        "https://home.joeyyap.com/wp-content/litespeed/js/89e142f711e152f3dd6fea883eeeff11.js?ver=d1463",
+        "https://home.joeyyap.com/wp-content/litespeed/js/52e32f5bb93cf04be09bc4466e8b8df5.js?ver=162d8",
+        "https://home.joeyyap.com/wp-content/litespeed/js/3d6c87c77ab4bc8302d9b2e8f394246e.js?ver=84aae"
+      ],
+      "externalStylesheets": [
+        "https://home.joeyyap.com/wp-content/litespeed/css/5105f9221c09b6c72da792519838c5c6.css?ver=07f7a",
+        "https://home.joeyyap.com/wp-content/litespeed/css/3d34503a9b6af4f23fa6b938ef9642e5.css?ver=5cc93",
+        "https://home.joeyyap.com/wp-content/litespeed/css/2dd63e5b69404dbea2ca7aa1d1d78d68.css?ver=0c2f5",
+        "https://home.joeyyap.com/wp-content/litespeed/css/aaa54fe8762af8bd2031f3175b194913.css?ver=3aa28",
+        "https://home.joeyyap.com/wp-content/litespeed/css/df788421538977f2dd68baec8ca7302f.css?ver=fcbfb",
+        "https://home.joeyyap.com/wp-content/litespeed/css/dabc57e5bbe8c8f4e25a6a8a3425f7d2.css?ver=aa49d",
+        "https://home.joeyyap.com/wp-content/litespeed/css/4e889cf2f447f0358f539d42435d772c.css?ver=7ef06",
+        "https://home.joeyyap.com/wp-content/litespeed/css/c8396e03a4d00526eaafe0eb54489ae2.css?ver=62b6f",
+        "https://home.joeyyap.com/wp-content/litespeed/css/58bcc2f0b44ad4c4e4e1f152be51ff67.css?ver=66a07",
+        "https://home.joeyyap.com/wp-content/litespeed/css/3134cbb0bff1ac5638168787f457b9c3.css?ver=67b57",
+        "https://home.joeyyap.com/wp-content/litespeed/css/4ed0577a76d75dad7b6937e639956b86.css?ver=5b600",
+        "https://home.joeyyap.com/wp-content/litespeed/css/88b79ddf96207865715b52864151ea36.css?ver=9b3d1",
+        "https://home.joeyyap.com/wp-content/litespeed/css/14adfd769c0405fe6d20c2a2b03dd5e1.css?ver=4ad5f",
+        "https://home.joeyyap.com/wp-content/litespeed/css/08eb8c346957fea7c2934b8fa703f697.css?ver=ebd4f",
+        "https://home.joeyyap.com/wp-content/litespeed/css/2a7717f2a580f6d501279b410b6bebb6.css?ver=c8e13",
+        "https://home.joeyyap.com/wp-content/litespeed/css/a7cd1944d420a964a3247b494043bea2.css?ver=0287f",
+        "https://home.joeyyap.com/wp-content/litespeed/css/a94133ec810274b1edbbd4c44b00f1b4.css?ver=77969",
+        "https://home.joeyyap.com/wp-content/litespeed/css/b0289f9ea1432c2bc0017d65a270d2ea.css?ver=c9a34",
+        "https://home.joeyyap.com/wp-content/litespeed/css/9a493c83ae3fbb74acdeda8711538c8a.css?ver=31716",
+        "https://home.joeyyap.com/wp-content/litespeed/css/ccea79a4122a1729ee5854a1d0a9aad0.css?ver=b337a",
+        "https://home.joeyyap.com/wp-content/litespeed/css/8a29446b210eabca655a6d5b1e125a4d.css?ver=2e558",
+        "https://home.joeyyap.com/wp-content/litespeed/css/ba78d96d016981f5a1c1affaf4e60001.css?ver=6b927",
+        "https://home.joeyyap.com/wp-content/litespeed/css/2047625201d6160292544b73ad48c2f0.css?ver=6f199",
+        "https://home.joeyyap.com/wp-content/litespeed/css/59fc3f938e8be3be0e2e2e576305dd3f.css?ver=240c9",
+        "https://home.joeyyap.com/wp-content/litespeed/css/75c245b4555de05daecc6e6b4ff56a79.css?ver=012bf",
+        "https://home.joeyyap.com/wp-content/litespeed/css/3918bcff901b5ea32e63852935bab627.css?ver=aa3f7",
+        "https://home.joeyyap.com/wp-content/litespeed/css/39b3d4ea40906faf24919a747a1140bd.css?ver=558fa",
+        "https://home.joeyyap.com/wp-content/litespeed/css/69f660f86a29ff13e93fd3677aae3736.css?ver=28bfa",
+        "https://home.joeyyap.com/wp-content/litespeed/css/d16aab4855bd3e3508c59dd49a22aad4.css?ver=b9099",
+        "https://home.joeyyap.com/wp-content/litespeed/css/133df9ae2d714b172b9de470c0594fd6.css?ver=fab82",
+        "https://home.joeyyap.com/wp-content/litespeed/css/62ed258f94d44cc98437855d1ebe9791.css?ver=2955c",
+        "https://home.joeyyap.com/wp-content/litespeed/css/337380897c8de4b18695d01f1ca70f24.css?ver=12a97",
+        "https://home.joeyyap.com/wp-content/litespeed/css/03ee56d594bf8057930f4b0fd00ebb4f.css?ver=ebb4f",
+        "https://home.joeyyap.com/wp-content/litespeed/css/3071dd56f34186beb63473298406cd5b.css?ver=6cd5b",
+        "https://home.joeyyap.com/wp-content/litespeed/css/8c5f21303d660056a9d0cf8e749cc247.css?ver=cc247",
+        "https://home.joeyyap.com/wp-content/litespeed/css/927f08b0b53e7d13e1bdcff46153bc10.css?ver=3bc10",
+        "https://home.joeyyap.com/wp-content/litespeed/css/c33ec5fab3b489978d474586babc3940.css?ver=c3940",
+        "https://home.joeyyap.com/wp-content/litespeed/css/c67b223fa4c5e6ca037f47da5c914c20.css?ver=14c20",
+        "https://home.joeyyap.com/wp-content/litespeed/css/1312fad074b0782087dca50b5f58777f.css?ver=a09ea",
+        "https://home.joeyyap.com/wp-content/litespeed/css/d5d692b8792b0eb65796069e45bacbe0.css?ver=c1d44"
+      ],
+      "contentSample": "Home - Joey Yap Skip to content Home About Joey Yap’s Journey Joey Yap’s Method Learning QiMen Academy Feng Shui Academy BaZi Academy Resources BaZi Plotter Feng Shui Explorer Flying Star Charts Store News & Events Events Blog Media Coverage Consultations Home About Joey Yap’s Journey Joey Yap’s Method Learning QiMen Academy Feng Shui Academy BaZi Academy Resources BaZi Plotter Feng Shui Explorer Flying Star Charts Store News & Events Events Blog Media Coverage Consultations Contact Us Life doesn't change by chance.\nIt changes with Strategy. Master your timing, environment, and decisions with a proven system rooted in Chinese Metaphysics – without the superstition or fluff. Book Consultation About Joey Yap Experience guided, actionable Transformation Experience guided, actionable Transformation Coming Up Next Limited seats Feng Shui & Astrology 2026 24 - 25 Jan 2026 MITEC, Kuala Lumpur Get practical Feng Shui, BaZi, and Qi Men insights to successfully align your wealth, career, and life with the energy of 2026. View Event All Upcoming Events Feng Shui & Astrology 2026 31 Jan 2026 Resorts World Sentosa, Singapore The Singapore Edition of Feng Shui & Astrology 2026 live event. View E"
+    }
+  ],
+  "highlights": {
+    "homepageTitle": "Home - Joey Yap",
+    "mainFeatures": [
+      "免费工具",
+      "八字",
+      "风水",
+      "课程或会员",
+      "咨询或解读",
+      "排盘工具"
+    ],
+    "pricing": [
+      "免费"
+    ],
+    "techStack": [
+      "React",
+      "jQuery",
+      "WordPress",
+      "Google Tag Manager",
+      "Google Analytics"
+    ]
+  }
+}
