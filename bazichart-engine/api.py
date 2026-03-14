@@ -15,6 +15,7 @@ from fastapi import FastAPI, HTTPException, Request
 from fastapi.exceptions import RequestValidationError
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse, Response
+from lunar_python import Solar
 from pydantic import BaseModel, Field, model_validator
 
 
@@ -64,6 +65,7 @@ LIUNIAN_DETAIL_MODULE = _load_local_module("bazichart_engine_liunian_detail", BA
 PDF_MODULE = _load_local_module("bazichart_engine_pdf_generator", BASE_DIR / "pdf_generator.py")
 SHENSHA_MODULE = _load_local_module("bazichart_engine_shensha", BASE_DIR / "shensha.py")
 SOLAR_TIME_MODULE = _load_local_module("bazichart_engine_solar_time", BASE_DIR / "solar_time.py")
+SOLAR_TERMS_MODULE = _load_local_module("bazichart_engine_solar_terms", BASE_DIR / "solar_terms.py")
 WUXING_MODULE = _load_local_module("bazichart_engine_wuxing_analysis", BASE_DIR / "wuxing_analysis.py")
 INTERPRETER_MODULE = _load_local_module("bazichart_engine_ai_interpreter", BASE_DIR.parent / "src" / "ai_interpreter.py")
 INTERPRETATION_CACHE: OrderedDict[str, dict[str, Any]] = OrderedDict()
@@ -94,6 +96,22 @@ SHICHEN_TO_HOUR = {
     "戌时": 19,
     "亥时": 21,
 }
+TIANGAN = "甲乙丙丁戊己庚辛壬癸"
+DIZHI = "子丑寅卯辰巳午未申酉戌亥"
+YEAR_BASE = 1984
+MONTH_START_STEM_MAP = {
+    "甲": "丙",
+    "己": "丙",
+    "乙": "戊",
+    "庚": "戊",
+    "丙": "庚",
+    "辛": "庚",
+    "丁": "壬",
+    "壬": "壬",
+    "戊": "甲",
+    "癸": "甲",
+}
+MONTH_BRANCHES = "寅卯辰巳午未申酉戌亥子丑"
 
 
 class InterpretRequest(BaseModel):
@@ -316,24 +334,41 @@ def _build_solar_time_info(payload: InterpretRequest) -> dict[str, Any] | None:
     )
 
 
+def _resolve_bazi_datetime(payload: InterpretRequest, solar_time_info: dict[str, Any] | None = None) -> datetime:
+    if solar_time_info and solar_time_info.get("corrected_datetime"):
+        return datetime.fromisoformat(solar_time_info["corrected_datetime"])
+    return datetime(payload.year, payload.month, payload.day, payload.hour, payload.minute)
+
+
+def _ganzhi_for_year(year: int) -> str:
+    offset = year - YEAR_BASE
+    return f"{TIANGAN[offset % 10]}{DIZHI[offset % 12]}"
+
+
+def _month_ganzhi(year_stem: str, month_order: int) -> str:
+    start_stem = MONTH_START_STEM_MAP[year_stem]
+    stem_index = (TIANGAN.index(start_stem) + month_order - 1) % 10
+    branch = MONTH_BRANCHES[month_order - 1]
+    return f"{TIANGAN[stem_index]}{branch}"
+
+
+def _pillar_dict(ganzhi: str) -> dict[str, str]:
+    return {"heavenly_stem": ganzhi[0], "earthly_branch": ganzhi[1]}
+
+
 def build_four_pillars(payload: InterpretRequest, solar_time_info: dict[str, Any] | None = None) -> dict[str, dict[str, str]]:
-    stems = "甲乙丙丁戊己庚辛壬癸"
-    branches = "子丑寅卯辰巳午未申酉戌亥"
-    hour_seed = payload.hour
-    if solar_time_info is not None:
-        hour_seed = SHICHEN_TO_HOUR.get(solar_time_info["corrected_shichen"], payload.hour)
-
-    def pillar(seed: int) -> dict[str, str]:
-        return {
-            "heavenly_stem": stems[seed % len(stems)],
-            "earthly_branch": branches[seed % len(branches)],
-        }
-
+    bazi_dt = _resolve_bazi_datetime(payload, solar_time_info=solar_time_info)
+    solar = Solar.fromYmdHms(bazi_dt.year, bazi_dt.month, bazi_dt.day, bazi_dt.hour, bazi_dt.minute, bazi_dt.second)
+    eight_char = solar.getLunar().getEightChar()
+    bazi_year = SOLAR_TERMS_MODULE.resolve_bazi_year(bazi_dt)
+    year_ganzhi = _ganzhi_for_year(bazi_year)
+    month_order = SOLAR_TERMS_MODULE.resolve_bazi_month_order(bazi_dt)
+    month_ganzhi = _month_ganzhi(year_ganzhi[0], month_order)
     return {
-        "year": pillar(payload.year),
-        "month": pillar(payload.month),
-        "day": pillar(payload.day),
-        "hour": pillar(hour_seed),
+        "year": _pillar_dict(year_ganzhi),
+        "month": _pillar_dict(month_ganzhi),
+        "day": _pillar_dict(eight_char.getDay()),
+        "hour": _pillar_dict(eight_char.getTime()),
     }
 
 

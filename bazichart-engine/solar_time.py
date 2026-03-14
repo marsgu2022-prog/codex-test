@@ -52,6 +52,7 @@ def calculate_true_solar_time(year, month, day, hour, minute, longitude) -> dict
         "equation_of_time": round(equation_of_time, 2),
         "longitude_correction": round(longitude_correction, 2),
         "true_solar_time": _format_time(corrected_time),
+        "corrected_datetime": corrected_time.isoformat(timespec="minutes"),
         "original_shichen": original_shichen,
         "corrected_shichen": corrected_shichen,
         "shichen_changed": original_shichen != corrected_shichen,
