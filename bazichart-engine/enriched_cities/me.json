@@ -1,0 +1,214 @@
+{
+  "country_code": "ME",
+  "country_name": "黑山",
+  "cities": [
+    {
+      "name": "波德戈里察",
+      "name_en": "Podgorica",
+      "province": "Podgorica",
+      "latitude": 42.4412,
+      "longitude": 19.2631,
+      "timezone": "Europe/Podgorica"
+    },
+    {
+      "name": "尼克希奇",
+      "name_en": "Nikšić",
+      "province": "Opština Nikšić",
+      "latitude": 42.7731,
+      "longitude": 18.9445,
+      "timezone": "Europe/Podgorica"
+    },
+    {
+      "name": "",
+      "name_en": "Herceg Novi",
+      "province": "新海尔采格",
+      "latitude": 42.4531,
+      "longitude": 18.5375,
+      "timezone": "Europe/Podgorica"
+    },
+    {
+      "name": "普列夫利亚",
+      "name_en": "Pljevlja",
+      "province": "Pljevlja",
+      "latitude": 43.3567,
+      "longitude": 19.3584,
+      "timezone": "Europe/Podgorica"
+    },
+    {
+      "name": "布德瓦",
+      "name_en": "Budva",
+      "province": "Budva",
+      "latitude": 42.2872,
+      "longitude": 18.8392,
+      "timezone": "Europe/Podgorica"
+    },
+    {
+      "name": "巴尔",
+      "name_en": "Bar",
+      "province": "Bar",
+      "latitude": 42.0937,
+      "longitude": 19.0984,
+      "timezone": "Europe/Podgorica"
+    },
+    {
+      "name": "",
+      "name_en": "Bijelo Polje",
+      "province": "比耶洛波列",
+      "latitude": 43.0383,
+      "longitude": 19.7476,
+      "timezone": "Europe/Podgorica"
+    },
+    {
+      "name": "采蒂涅",
+      "name_en": "Cetinje",
+      "province": "Cetinje",
+      "latitude": 42.3906,
+      "longitude": 18.9142,
+      "timezone": "Europe/Podgorica"
+    },
+    {
+      "name": "贝拉内",
+      "name_en": "Berane",
+      "province": "Berane",
+      "latitude": 42.8433,
+      "longitude": 19.8728,
+      "timezone": "Europe/Podgorica"
+    },
+    {
+      "name": "乌尔齐尼",
+      "name_en": "Ulcinj",
+      "province": "Ulcinj",
+      "latitude": 41.9294,
+      "longitude": 19.2244,
+      "timezone": "Europe/Podgorica"
+    },
+    {
+      "name": "罗扎伊",
+      "name_en": "Rožaje",
+      "province": "罗扎耶市镇",
+      "latitude": 42.833,
+      "longitude": 20.1665,
+      "timezone": "Europe/Podgorica"
+    },
+    {
+      "name": "",
+      "name_en": "Tivat",
+      "province": "Tivat",
+      "latitude": 42.4362,
+      "longitude": 18.6936,
+      "timezone": "Europe/Podgorica"
+    },
+    {
+      "name": "",
+      "name_en": "Dobrota",
+      "province": "科托尔",
+      "latitude": 42.4542,
+      "longitude": 18.7683,
+      "timezone": "Europe/Podgorica"
+    },
+    {
+      "name": "",
+      "name_en": "Kotor",
+      "province": "科托尔",
+      "latitude": 42.4207,
+      "longitude": 18.7682,
+      "timezone": "Europe/Podgorica"
+    },
+    {
+      "name": "达尼洛夫格勒",
+      "name_en": "Danilovgrad",
+      "province": "Danilovgrad",
+      "latitude": 42.5538,
+      "longitude": 19.1461,
+      "timezone": "Europe/Podgorica"
+    },
+    {
+      "name": "",
+      "name_en": "Mojkovac",
+      "province": "莫伊科瓦茨",
+      "latitude": 42.9604,
+      "longitude": 19.5833,
+      "timezone": "Europe/Podgorica"
+    },
+    {
+      "name": "",
+      "name_en": "Tuzi",
+      "province": "图齐市镇",
+      "latitude": 42.3658,
+      "longitude": 19.3297,
+      "timezone": "Europe/Podgorica"
+    },
+    {
+      "name": "普拉夫",
+      "name_en": "Plav",
+      "province": "Opština Plav",
+      "latitude": 42.5969,
+      "longitude": 19.9442,
+      "timezone": "Europe/Podgorica"
+    },
+    {
+      "name": "",
+      "name_en": "Golubovci",
+      "province": "Zeta",
+      "latitude": 42.3352,
+      "longitude": 19.231,
+      "timezone": "Europe/Podgorica"
+    },
+    {
+      "name": "科拉欣",
+      "name_en": "Kolašin",
+      "province": "Opština Kolašin",
+      "latitude": 42.8223,
+      "longitude": 19.5165,
+      "timezone": "Europe/Podgorica"
+    },
+    {
+      "name": "扎布利亚克",
+      "name_en": "Žabljak",
+      "province": "Opština Žabljak",
+      "latitude": 43.1542,
+      "longitude": 19.1232,
+      "timezone": "Europe/Podgorica"
+    },
+    {
+      "name": "",
+      "name_en": "Gusinje",
+      "province": "古西涅市镇",
+      "latitude": 42.5619,
+      "longitude": 19.8339,
+      "timezone": "Europe/Podgorica"
+    },
+    {
+      "name": "普卢日内",
+      "name_en": "Plužine",
+      "province": "Opština Plužine",
+      "latitude": 43.1521,
+      "longitude": 18.839,
+      "timezone": "Europe/Podgorica"
+    },
+    {
+      "name": "",
+      "name_en": "Andrijevica",
+      "province": "Andrijevica",
+      "latitude": 42.7339,
+      "longitude": 19.7919,
+      "timezone": "Europe/Podgorica"
+    },
+    {
+      "name": "",
+      "name_en": "Šavnik",
+      "province": "Opština Šavnik",
+      "latitude": 42.9569,
+      "longitude": 19.0961,
+      "timezone": "Europe/Podgorica"
+    },
+    {
+      "name": "",
+      "name_en": "Petnjica",
+      "province": "佩特尼察市镇",
+      "latitude": 42.9097,
+      "longitude": 19.9636,
+      "timezone": "Europe/Podgorica"
+    }
+  ]
+}

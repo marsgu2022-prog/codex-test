@@ -1,0 +1,1166 @@
+{
+  "country_code": "BD",
+  "country_name": "孟加拉国",
+  "cities": [
+    {
+      "name": "达卡",
+      "name_en": "Dhaka",
+      "province": "达卡专区",
+      "latitude": 23.7104,
+      "longitude": 90.4074,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "吉大港市",
+      "name_en": "Chattogram",
+      "province": "吉大港专区",
+      "latitude": 22.3384,
+      "longitude": 91.8317,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Gazipur",
+      "province": "达卡专区",
+      "latitude": 23.9984,
+      "longitude": 90.4223,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "库尔纳市",
+      "name_en": "Khulna",
+      "province": "库尔纳专区",
+      "latitude": 22.8098,
+      "longitude": 89.5644,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "朗布尔市",
+      "name_en": "Rangpur",
+      "province": "朗布尔专区",
+      "latitude": 25.7466,
+      "longitude": 89.2517,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Comilla",
+      "province": "吉大港专区",
+      "latitude": 23.4619,
+      "longitude": 91.185,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Rajshahi",
+      "province": "拉杰沙希专区",
+      "latitude": 24.374,
+      "longitude": 88.6011,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Pallabi",
+      "province": "达卡专区",
+      "latitude": 23.825,
+      "longitude": 90.37,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Mirpur Model Thana",
+      "province": "达卡专区",
+      "latitude": 23.8093,
+      "longitude": 90.3609,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Mohammadpur",
+      "province": "拉杰沙希专区",
+      "latitude": 24.8984,
+      "longitude": 88.5284,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Hāthazāri",
+      "province": "吉大港专区",
+      "latitude": 22.5052,
+      "longitude": 91.8134,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Bāndarban",
+      "province": "吉大港专区",
+      "latitude": 22.1953,
+      "longitude": 92.2195,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Shibganj",
+      "province": "拉杰沙希专区",
+      "latitude": 25.0015,
+      "longitude": 89.3227,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Natore",
+      "province": "拉杰沙希专区",
+      "latitude": 24.4111,
+      "longitude": 88.9867,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Kafrul",
+      "province": "达卡专区",
+      "latitude": 23.7882,
+      "longitude": 90.3736,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Tungi",
+      "province": "达卡专区",
+      "latitude": 23.8915,
+      "longitude": 90.4023,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Bhatara",
+      "province": "达卡专区",
+      "latitude": 23.8,
+      "longitude": 90.45,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Savar",
+      "province": "达卡专区",
+      "latitude": 23.8486,
+      "longitude": 90.25,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Narsingdi",
+      "province": "达卡专区",
+      "latitude": 23.923,
+      "longitude": 90.7177,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Nagar Naluākot",
+      "province": "达卡专区",
+      "latitude": 24.1561,
+      "longitude": 90.7728,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Bagerhat",
+      "province": "库尔纳专区",
+      "latitude": 22.6566,
+      "longitude": 89.7912,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Brāhmanbāria",
+      "province": "吉大港专区",
+      "latitude": 23.9746,
+      "longitude": 91.1123,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Cox’s Bāzār",
+      "province": "吉大港专区",
+      "latitude": 21.4397,
+      "longitude": 92.0096,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Jessore",
+      "province": "库尔纳专区",
+      "latitude": 23.1697,
+      "longitude": 89.2137,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Nāgarpur",
+      "province": "达卡专区",
+      "latitude": 24.0578,
+      "longitude": 89.877,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "锡尔赫特市",
+      "name_en": "Sylhet",
+      "province": "锡尔赫特专区",
+      "latitude": 24.899,
+      "longitude": 91.872,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Mymensingh",
+      "province": "Mymensingh Division",
+      "latitude": 24.7564,
+      "longitude": 90.4065,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Narayanganj",
+      "province": "达卡专区",
+      "latitude": 23.6135,
+      "longitude": 90.503,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Ashuganj City",
+      "province": "吉大港专区",
+      "latitude": 24.0402,
+      "longitude": 91.0117,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Bogra",
+      "province": "拉杰沙希专区",
+      "latitude": 24.851,
+      "longitude": 89.3711,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Dinajpur",
+      "province": "朗布尔专区",
+      "latitude": 25.6274,
+      "longitude": 88.6378,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Karnaphuli",
+      "province": "吉大港专区",
+      "latitude": 22.6906,
+      "longitude": 92.2347,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Chāndpur",
+      "province": "吉大港专区",
+      "latitude": 23.2271,
+      "longitude": 90.6543,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Motijheel",
+      "province": "达卡专区",
+      "latitude": 23.7277,
+      "longitude": 90.4192,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Barishal",
+      "province": "巴里萨尔专区",
+      "latitude": 22.705,
+      "longitude": 90.3701,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Saidpur",
+      "province": "朗布尔专区",
+      "latitude": 25.7777,
+      "longitude": 88.8917,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Pār Naogaon",
+      "province": "拉杰沙希专区",
+      "latitude": 24.8042,
+      "longitude": 88.9488,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Pābna",
+      "province": "拉杰沙希专区",
+      "latitude": 24.0064,
+      "longitude": 89.2372,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Paltan",
+      "province": "达卡专区",
+      "latitude": 23.7362,
+      "longitude": 90.4143,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Tangail",
+      "province": "达卡专区",
+      "latitude": 24.2498,
+      "longitude": 89.9166,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Jamālpur",
+      "province": "Mymensingh Division",
+      "latitude": 24.9197,
+      "longitude": 89.9481,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Puthia",
+      "province": "拉杰沙希专区",
+      "latitude": 24.3654,
+      "longitude": 88.8343,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Ramna Maidan",
+      "province": "达卡专区",
+      "latitude": 23.7333,
+      "longitude": 90.4,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Nawābganj",
+      "province": "拉杰沙希专区",
+      "latitude": 24.5903,
+      "longitude": 88.2744,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Kushtia",
+      "province": "库尔纳专区",
+      "latitude": 23.9028,
+      "longitude": 89.1194,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Maijdi",
+      "province": "吉大港专区",
+      "latitude": 22.8667,
+      "longitude": 91.1,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Sonārgaon",
+      "province": "达卡专区",
+      "latitude": 23.65,
+      "longitude": 90.6167,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Sātkhira",
+      "province": "库尔纳专区",
+      "latitude": 22.7082,
+      "longitude": 89.0718,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Sirajganj",
+      "province": "拉杰沙希专区",
+      "latitude": 24.4577,
+      "longitude": 89.708,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Tungipara",
+      "province": "达卡专区",
+      "latitude": 22.8998,
+      "longitude": 89.9033,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Farīdpur",
+      "province": "达卡专区",
+      "latitude": 23.6061,
+      "longitude": 89.8406,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Sherpur",
+      "province": "Mymensingh Division",
+      "latitude": 25.0188,
+      "longitude": 90.0175,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Rangamati",
+      "province": "吉大港专区",
+      "latitude": 22.6432,
+      "longitude": 92.1919,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Bhairab Bāzār",
+      "province": "达卡专区",
+      "latitude": 24.0524,
+      "longitude": 90.9764,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Shāhzādpur",
+      "province": "拉杰沙希专区",
+      "latitude": 24.1769,
+      "longitude": 89.5988,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "波拉县",
+      "name_en": "Bhola",
+      "province": "巴里萨尔专区",
+      "latitude": 22.6876,
+      "longitude": 90.644,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Azimpur",
+      "province": "达卡专区",
+      "latitude": 23.7298,
+      "longitude": 90.3854,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Kishorganj",
+      "province": "达卡专区",
+      "latitude": 24.4394,
+      "longitude": 90.7829,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Bibir Hat",
+      "province": "吉大港专区",
+      "latitude": 22.6835,
+      "longitude": 91.7906,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Habiganj",
+      "province": "锡尔赫特专区",
+      "latitude": 24.3804,
+      "longitude": 91.413,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Madaripur",
+      "province": "达卡专区",
+      "latitude": 23.171,
+      "longitude": 90.2094,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Feni",
+      "province": "吉大港专区",
+      "latitude": 23.0144,
+      "longitude": 91.3966,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Lākshām",
+      "province": "吉大港专区",
+      "latitude": 23.2402,
+      "longitude": 91.1214,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Ishwardi",
+      "province": "拉杰沙希专区",
+      "latitude": 24.1286,
+      "longitude": 89.0657,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Sarishābāri",
+      "province": "Mymensingh Division",
+      "latitude": 24.7513,
+      "longitude": 89.8313,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Netrakona",
+      "province": "Mymensingh Division",
+      "latitude": 24.8835,
+      "longitude": 90.729,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Sunāmganj",
+      "province": "锡尔赫特专区",
+      "latitude": 25.0689,
+      "longitude": 91.4024,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Joypur Hāt",
+      "province": "拉杰沙希专区",
+      "latitude": 25.1015,
+      "longitude": 89.0273,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Mānikganj",
+      "province": "达卡专区",
+      "latitude": 23.8577,
+      "longitude": 90.0096,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Thākurgaon",
+      "province": "朗布尔专区",
+      "latitude": 26.031,
+      "longitude": 88.4699,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Pālang",
+      "province": "达卡专区",
+      "latitude": 23.2182,
+      "longitude": 90.3508,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Lalmonirhat",
+      "province": "朗布尔专区",
+      "latitude": 25.9172,
+      "longitude": 89.4459,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Patuakhali",
+      "province": "巴里萨尔专区",
+      "latitude": 22.3683,
+      "longitude": 90.3458,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Rāipur",
+      "province": "吉大港专区",
+      "latitude": 23.0391,
+      "longitude": 90.7681,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Lakshmīpur",
+      "province": "吉大港专区",
+      "latitude": 22.9443,
+      "longitude": 90.83,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Maulavi Bāzār",
+      "province": "锡尔赫特专区",
+      "latitude": 24.4889,
+      "longitude": 91.7708,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Rāmganj",
+      "province": "吉大港专区",
+      "latitude": 23.1006,
+      "longitude": 90.8499,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Narail",
+      "province": "库尔纳专区",
+      "latitude": 23.1551,
+      "longitude": 89.4951,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Pirojpur",
+      "province": "巴里萨尔专区",
+      "latitude": 22.5797,
+      "longitude": 89.9752,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Dhanmondi",
+      "province": "达卡专区",
+      "latitude": 23.74,
+      "longitude": 90.385,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Sandwīp",
+      "province": "吉大港专区",
+      "latitude": 22.5141,
+      "longitude": 91.4549,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Sātkania",
+      "province": "吉大港专区",
+      "latitude": 22.0764,
+      "longitude": 92.0495,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Patiya",
+      "province": "吉大港专区",
+      "latitude": 22.2954,
+      "longitude": 91.979,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Gopālganj",
+      "province": "达卡专区",
+      "latitude": 23.2235,
+      "longitude": 90.0604,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Khagrachhari",
+      "province": "吉大港专区",
+      "latitude": 23.1079,
+      "longitude": 91.9701,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Chilmāri",
+      "province": "朗布尔专区",
+      "latitude": 25.5561,
+      "longitude": 89.671,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Nageswari",
+      "province": "朗布尔专区",
+      "latitude": 25.9682,
+      "longitude": 89.6915,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Panchagarh",
+      "province": "朗布尔专区",
+      "latitude": 26.3334,
+      "longitude": 88.5578,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Uttar Char Fasson",
+      "province": "库尔纳专区",
+      "latitude": 22.2265,
+      "longitude": 90.7127,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Parbatipur",
+      "province": "朗布尔专区",
+      "latitude": 25.6637,
+      "longitude": 88.9309,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Paotana Hat",
+      "province": "朗布尔专区",
+      "latitude": 25.6647,
+      "longitude": 89.5026,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Burhānuddin",
+      "province": "巴里萨尔专区",
+      "latitude": 22.4952,
+      "longitude": 90.7239,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Kālīganj",
+      "province": "库尔纳专区",
+      "latitude": 23.4096,
+      "longitude": 89.138,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Dohār",
+      "province": "达卡专区",
+      "latitude": 23.5931,
+      "longitude": 90.1425,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Hājīganj",
+      "province": "吉大港专区",
+      "latitude": 23.2519,
+      "longitude": 90.8551,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Bhanga",
+      "province": "达卡专区",
+      "latitude": 23.3919,
+      "longitude": 89.9839,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Bhātpāra Abhaynagar",
+      "province": "库尔纳专区",
+      "latitude": 23.0147,
+      "longitude": 89.4394,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Lālmohan",
+      "province": "巴里萨尔专区",
+      "latitude": 22.3377,
+      "longitude": 90.7371,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Jhingergācha",
+      "province": "库尔纳专区",
+      "latitude": 23.1113,
+      "longitude": 89.0906,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Mirzāpur",
+      "province": "达卡专区",
+      "latitude": 24.1029,
+      "longitude": 90.0984,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Sakhipur",
+      "province": "达卡专区",
+      "latitude": 24.3199,
+      "longitude": 90.1694,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Teknāf",
+      "province": "吉大港专区",
+      "latitude": 20.8583,
+      "longitude": 92.2977,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Gaurnadi",
+      "province": "巴里萨尔专区",
+      "latitude": 22.9737,
+      "longitude": 90.2238,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Kālia",
+      "province": "库尔纳专区",
+      "latitude": 23.043,
+      "longitude": 89.6309,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Dohazāri",
+      "province": "吉大港专区",
+      "latitude": 22.1639,
+      "longitude": 92.0733,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Bera",
+      "province": "拉杰沙希专区",
+      "latitude": 24.0782,
+      "longitude": 89.6326,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Mehendiganj",
+      "province": "巴里萨尔专区",
+      "latitude": 22.8226,
+      "longitude": 90.5286,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Chhāgalnāiya",
+      "province": "吉大港专区",
+      "latitude": 23.0248,
+      "longitude": 91.5109,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Chhātak",
+      "province": "锡尔赫特专区",
+      "latitude": 25.0385,
+      "longitude": 91.6696,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Nālchiti",
+      "province": "巴里萨尔专区",
+      "latitude": 22.637,
+      "longitude": 90.272,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Bherāmāra",
+      "province": "库尔纳专区",
+      "latitude": 24.0245,
+      "longitude": 88.9923,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Phultala",
+      "province": "库尔纳专区",
+      "latitude": 22.7167,
+      "longitude": 89.5119,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Dukuria",
+      "province": "达卡专区",
+      "latitude": 23.711,
+      "longitude": 90.3741,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Baniachang",
+      "province": "锡尔赫特专区",
+      "latitude": 24.5186,
+      "longitude": 91.3579,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Sarankhola",
+      "province": "库尔纳专区",
+      "latitude": 22.3101,
+      "longitude": 89.7911,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Shibganj",
+      "province": "拉杰沙希专区",
+      "latitude": 25.0015,
+      "longitude": 89.3227,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Pīrgaaj",
+      "province": "朗布尔专区",
+      "latitude": 25.8559,
+      "longitude": 88.3594,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Bājitpur",
+      "province": "达卡专区",
+      "latitude": 24.2162,
+      "longitude": 90.95,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Char Bhadrāsan",
+      "province": "达卡专区",
+      "latitude": 23.3092,
+      "longitude": 90.227,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Mātuail",
+      "province": "达卡专区",
+      "latitude": 23.7121,
+      "longitude": 90.4598,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Gafargaon",
+      "province": "Mymensingh Division",
+      "latitude": 24.432,
+      "longitude": 90.5585,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Badarganj",
+      "province": "朗布尔专区",
+      "latitude": 25.6742,
+      "longitude": 89.0538,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Nabīnagar",
+      "province": "吉大港专区",
+      "latitude": 23.8879,
+      "longitude": 90.9679,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Morrelgonj",
+      "province": "库尔纳专区",
+      "latitude": 22.4557,
+      "longitude": 89.8558,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Kesabpur",
+      "province": "库尔纳专区",
+      "latitude": 22.9073,
+      "longitude": 89.2195,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Bhāndāria",
+      "province": "巴里萨尔专区",
+      "latitude": 22.489,
+      "longitude": 90.0627,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Mathba",
+      "province": "巴里萨尔专区",
+      "latitude": 22.2862,
+      "longitude": 89.9588,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Shāhbāzpur Town",
+      "province": "吉大港专区",
+      "latitude": 24.053,
+      "longitude": 91.1719,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Burirchar",
+      "province": "巴里萨尔专区",
+      "latitude": 22.1399,
+      "longitude": 90.2064,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Raojān",
+      "province": "吉大港专区",
+      "latitude": 22.5351,
+      "longitude": 91.9192,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Manikchari",
+      "province": "吉大港专区",
+      "latitude": 22.8396,
+      "longitude": 91.8413,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Muktāgācha",
+      "province": "Mymensingh Division",
+      "latitude": 24.7648,
+      "longitude": 90.257,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Taluker Char Doani",
+      "province": "库尔纳专区",
+      "latitude": 22.14,
+      "longitude": 89.9414,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Srimangal",
+      "province": "锡尔赫特专区",
+      "latitude": 24.3065,
+      "longitude": 91.7296,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Ayla Patakata",
+      "province": "巴里萨尔专区",
+      "latitude": 22.2173,
+      "longitude": 90.2096,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Natona",
+      "province": "巴里萨尔专区",
+      "latitude": 22.0513,
+      "longitude": 90.032,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Charāmaddi",
+      "province": "巴里萨尔专区",
+      "latitude": 22.642,
+      "longitude": 90.426,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Phuljhuri",
+      "province": "巴里萨尔专区",
+      "latitude": 22.2,
+      "longitude": 90.0667,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Singārbīl",
+      "province": "吉大港专区",
+      "latitude": 23.907,
+      "longitude": 91.2171,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Nachnapāra",
+      "province": "库尔纳专区",
+      "latitude": 22.172,
+      "longitude": 89.9693,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Nawāb Char",
+      "province": "达卡专区",
+      "latitude": 23.7146,
+      "longitude": 90.3668,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Green Model Town",
+      "province": "达卡专区",
+      "latitude": 23.7283,
+      "longitude": 90.4518,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Samonta Bazar",
+      "province": "库尔纳专区",
+      "latitude": 23.2478,
+      "longitude": 88.7838,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Nalua",
+      "province": "库尔纳专区",
+      "latitude": 22.4929,
+      "longitude": 90.4125,
+      "timezone": "Asia/Dhaka"
+    },
+    {
+      "name": "",
+      "name_en": "Singair",
+      "province": "达卡专区",
+      "latitude": 23.7877,
+      "longitude": 90.1647,
+      "timezone": "Asia/Dhaka"
+    }
+  ]
+}

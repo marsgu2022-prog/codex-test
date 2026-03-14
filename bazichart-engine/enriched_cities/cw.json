@@ -1,0 +1,54 @@
+{
+  "country_code": "CW",
+  "country_name": "库拉索",
+  "cities": [
+    {
+      "name": "威廉斯塔德",
+      "name_en": "Willemstad",
+      "province": "",
+      "latitude": 12.1225,
+      "longitude": -68.8864,
+      "timezone": "America/Curacao"
+    },
+    {
+      "name": "",
+      "name_en": "Bandariba",
+      "province": "",
+      "latitude": 12.0926,
+      "longitude": -68.8309,
+      "timezone": "America/Curacao"
+    },
+    {
+      "name": "",
+      "name_en": "Bandabou",
+      "province": "",
+      "latitude": 12.2718,
+      "longitude": -69.0653,
+      "timezone": "America/Curacao"
+    },
+    {
+      "name": "",
+      "name_en": "St. Michiel",
+      "province": "",
+      "latitude": 12.1433,
+      "longitude": -68.9949,
+      "timezone": "America/Curacao"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Rosa",
+      "province": "",
+      "latitude": 12.1167,
+      "longitude": -68.8833,
+      "timezone": "America/Curacao"
+    },
+    {
+      "name": "",
+      "name_en": "Sint Michiel Liber",
+      "province": "",
+      "latitude": 12.15,
+      "longitude": -68.9833,
+      "timezone": "America/Curacao"
+    }
+  ]
+}

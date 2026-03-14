@@ -1,0 +1,4702 @@
+{
+  "country_code": "ZA",
+  "country_name": "南非",
+  "cities": [
+    {
+      "name": "约翰内斯堡",
+      "name_en": "Johannesburg",
+      "province": "豪登省",
+      "latitude": -26.2023,
+      "longitude": 28.0436,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "开普敦",
+      "name_en": "Cape Town",
+      "province": "西开普省",
+      "latitude": -33.9258,
+      "longitude": 18.4232,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "德班",
+      "name_en": "Durban",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -29.8579,
+      "longitude": 31.0292,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "比勒陀利亚",
+      "name_en": "Pretoria",
+      "province": "豪登省",
+      "latitude": -25.7449,
+      "longitude": 28.1878,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "索韦托",
+      "name_en": "Soweto",
+      "province": "豪登省",
+      "latitude": -26.2678,
+      "longitude": 27.8585,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "伊莉莎白港",
+      "name_en": "Gqeberha",
+      "province": "东开普省",
+      "latitude": -33.9611,
+      "longitude": 25.6149,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Soshanguve",
+      "province": "豪登省",
+      "latitude": -25.4729,
+      "longitude": 28.0992,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "彼得马里茨堡",
+      "name_en": "Pietermaritzburg",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -29.6168,
+      "longitude": 30.3928,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "伊瓦顿",
+      "name_en": "Evaton",
+      "province": "豪登省",
+      "latitude": -26.5333,
+      "longitude": 27.85,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "伯诺尼",
+      "name_en": "Benoni",
+      "province": "豪登省",
+      "latitude": -26.1885,
+      "longitude": 28.3208,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "布隆方丹",
+      "name_en": "Bloemfontein",
+      "province": "自由邦省",
+      "latitude": -29.1211,
+      "longitude": 26.214,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Thembisa",
+      "province": "豪登省",
+      "latitude": -25.9964,
+      "longitude": 28.2268,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "东伦敦",
+      "name_en": "East London",
+      "province": "东开普省",
+      "latitude": -33.0153,
+      "longitude": 27.9116,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "弗里尼欣",
+      "name_en": "Vereeniging",
+      "province": "豪登省",
+      "latitude": -26.6731,
+      "longitude": 27.9261,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Boksburg",
+      "province": "豪登省",
+      "latitude": -26.212,
+      "longitude": 28.2596,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "韦尔科姆",
+      "name_en": "Welkom",
+      "province": "自由邦省",
+      "latitude": -27.9774,
+      "longitude": 26.7351,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Newcastle",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -27.758,
+      "longitude": 29.9318,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "克鲁格斯多普",
+      "name_en": "Krugersdorp",
+      "province": "豪登省",
+      "latitude": -26.0858,
+      "longitude": 27.7752,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "勒斯滕堡",
+      "name_en": "Rustenburg",
+      "province": "西北省",
+      "latitude": -25.6676,
+      "longitude": 27.2421,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "威特班克",
+      "name_en": "Emalahleni",
+      "province": "姆普马兰加省",
+      "latitude": -25.8713,
+      "longitude": 29.2332,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Diepsloot",
+      "province": "豪登省",
+      "latitude": -25.9331,
+      "longitude": 28.0121,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "兰德堡",
+      "name_en": "Randburg",
+      "province": "豪登省",
+      "latitude": -26.0941,
+      "longitude": 28.0012,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "鲁德普特",
+      "name_en": "Roodepoort",
+      "province": "豪登省",
+      "latitude": -26.1625,
+      "longitude": 27.8725,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Botshabelo",
+      "province": "自由邦省",
+      "latitude": -29.2674,
+      "longitude": 26.726,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Brakpan",
+      "province": "豪登省",
+      "latitude": -26.2366,
+      "longitude": 28.3694,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "尤丹赫支",
+      "name_en": "Kariega",
+      "province": "东开普省",
+      "latitude": -33.7556,
+      "longitude": 25.4007,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "波罗克瓦尼",
+      "name_en": "Polokwane",
+      "province": "林波波省",
+      "latitude": -23.9045,
+      "longitude": 29.4688,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "杰米斯顿",
+      "name_en": "Germiston",
+      "province": "豪登省",
+      "latitude": -26.2348,
+      "longitude": 28.1766,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Richards Bay",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -28.783,
+      "longitude": 32.0377,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "范德拜尔帕克",
+      "name_en": "Vanderbijlpark",
+      "province": "豪登省",
+      "latitude": -26.7117,
+      "longitude": 27.8379,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Athlone",
+      "province": "西开普省",
+      "latitude": -33.9672,
+      "longitude": 18.5021,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "帕阿尔",
+      "name_en": "Paarl",
+      "province": "西开普省",
+      "latitude": -33.7338,
+      "longitude": 18.9752,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "杉球恩",
+      "name_en": "Centurion",
+      "province": "豪登省",
+      "latitude": -25.8589,
+      "longitude": 28.1858,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "克莱克斯多普",
+      "name_en": "Klerksdorp",
+      "province": "西北省",
+      "latitude": -26.8521,
+      "longitude": 26.6667,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Somerset West",
+      "province": "西开普省",
+      "latitude": -34.084,
+      "longitude": 18.8211,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Mdantsane",
+      "province": "东开普省",
+      "latitude": -32.9332,
+      "longitude": 27.7766,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "米德尔堡",
+      "name_en": "Middelburg",
+      "province": "姆普马兰加省",
+      "latitude": -25.7751,
+      "longitude": 29.4648,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "乔治",
+      "name_en": "George",
+      "province": "西开普省",
+      "latitude": -33.963,
+      "longitude": 22.4617,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Springs",
+      "province": "豪登省",
+      "latitude": -26.25,
+      "longitude": 28.4,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Ivory Park",
+      "province": "豪登省",
+      "latitude": -25.9957,
+      "longitude": 28.1971,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Carletonville",
+      "province": "豪登省",
+      "latitude": -26.3609,
+      "longitude": 27.3977,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Alexandra",
+      "province": "豪登省",
+      "latitude": -26.1053,
+      "longitude": 28.0988,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "波切夫斯特鲁姆",
+      "name_en": "Potchefstroom",
+      "province": "西北省",
+      "latitude": -26.7167,
+      "longitude": 27.1,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "乌姆塔塔",
+      "name_en": "Mthatha",
+      "province": "东开普省",
+      "latitude": -31.5889,
+      "longitude": 28.7844,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "KwaDukuza",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -29.3282,
+      "longitude": 31.2895,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Westonaria",
+      "province": "豪登省",
+      "latitude": -26.3191,
+      "longitude": 27.6486,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Etwatwa",
+      "province": "豪登省",
+      "latitude": -26.1252,
+      "longitude": 28.4547,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Vryheid",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -27.7695,
+      "longitude": 30.7917,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Pinetown",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -29.8207,
+      "longitude": 30.8867,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Ladysmith",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -28.5587,
+      "longitude": 29.779,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "eMbalenhle",
+      "province": "姆普马兰加省",
+      "latitude": -26.5333,
+      "longitude": 29.0667,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "金伯利",
+      "name_en": "Kimberley",
+      "province": "北开普省",
+      "latitude": -28.7323,
+      "longitude": 24.7623,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Nigel",
+      "province": "豪登省",
+      "latitude": -26.4314,
+      "longitude": 28.4771,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Mpumalanga",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -29.8129,
+      "longitude": 30.6365,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "比绍",
+      "name_en": "Bhisho",
+      "province": "东开普省",
+      "latitude": -32.8472,
+      "longitude": 27.4422,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Sasolburg",
+      "province": "自由邦省",
+      "latitude": -26.8136,
+      "longitude": 27.8169,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "兰德方坦",
+      "name_en": "Randfontein",
+      "province": "豪登省",
+      "latitude": -26.1844,
+      "longitude": 27.702,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "伍斯特",
+      "name_en": "Worcester",
+      "province": "西开普省",
+      "latitude": -33.6465,
+      "longitude": 19.4485,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Ntuzuma",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -29.739,
+      "longitude": 30.949,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Virginia",
+      "province": "自由邦省",
+      "latitude": -28.1039,
+      "longitude": 26.8659,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "布里茨",
+      "name_en": "Brits",
+      "province": "西北省",
+      "latitude": -25.6347,
+      "longitude": 27.7802,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "艾伯顿",
+      "name_en": "Alberton",
+      "province": "豪登省",
+      "latitude": -26.2679,
+      "longitude": 28.1223,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "昆士敦",
+      "name_en": "Queenstown",
+      "province": "东开普省",
+      "latitude": -31.8976,
+      "longitude": 26.8753,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "克龙斯塔德",
+      "name_en": "Kroonstad",
+      "province": "自由邦省",
+      "latitude": -27.6504,
+      "longitude": 27.2349,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Somaroboro",
+      "province": "姆普马兰加省",
+      "latitude": -25.346,
+      "longitude": 28.8343,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Hammanskraal",
+      "province": "西北省",
+      "latitude": -25.4089,
+      "longitude": 28.287,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Mabopane",
+      "province": "豪登省",
+      "latitude": -25.509,
+      "longitude": 28.064,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "内尔斯普雷特",
+      "name_en": "Mbombela",
+      "province": "姆普马兰加省",
+      "latitude": -25.4751,
+      "longitude": 30.9693,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Orkney",
+      "province": "西北省",
+      "latitude": -26.9802,
+      "longitude": 26.6727,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "帕拉博鲁瓦",
+      "name_en": "Phalaborwa",
+      "province": "林波波省",
+      "latitude": -23.943,
+      "longitude": 31.1411,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "索赫燕杜",
+      "name_en": "Thohoyandou",
+      "province": "林波波省",
+      "latitude": -22.9456,
+      "longitude": 30.485,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Tokoza",
+      "province": "豪登省",
+      "latitude": -26.36,
+      "longitude": 28.129,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Standerton",
+      "province": "姆普马兰加省",
+      "latitude": -26.9337,
+      "longitude": 29.2415,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "莫科帕内",
+      "name_en": "Mokopane",
+      "province": "林波波省",
+      "latitude": -24.1944,
+      "longitude": 29.0097,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "埃尔默洛",
+      "name_en": "Ermelo",
+      "province": "姆普马兰加省",
+      "latitude": -26.5333,
+      "longitude": 29.9833,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "斯泰伦博斯",
+      "name_en": "Stellenbosch",
+      "province": "西开普省",
+      "latitude": -33.9346,
+      "longitude": 18.8668,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Kutloanong",
+      "province": "自由邦省",
+      "latitude": -27.8333,
+      "longitude": 26.75,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Stilfontein",
+      "province": "西北省",
+      "latitude": -26.8449,
+      "longitude": 26.7683,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Qonce",
+      "province": "东开普省",
+      "latitude": -32.8808,
+      "longitude": 27.3938,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Delmas",
+      "province": "姆普马兰加省",
+      "latitude": -26.1466,
+      "longitude": 28.6832,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "格拉罕镇",
+      "name_en": "Grahamstown",
+      "province": "东开普省",
+      "latitude": -33.3042,
+      "longitude": 26.5328,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Bethlehem",
+      "province": "自由邦省",
+      "latitude": -28.2308,
+      "longitude": 28.3071,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Ga-Rankuwa",
+      "province": "西北省",
+      "latitude": -25.6169,
+      "longitude": 27.9947,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Bela Bela",
+      "province": "林波波省",
+      "latitude": -24.8833,
+      "longitude": 28.2833,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Midrand",
+      "province": "豪登省",
+      "latitude": -25.976,
+      "longitude": 28.118,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "路易特里哈特",
+      "name_en": "Louis Trichardt",
+      "province": "林波波省",
+      "latitude": -23.0438,
+      "longitude": 29.9032,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Heidelberg",
+      "province": "豪登省",
+      "latitude": -26.5048,
+      "longitude": 28.3592,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Dundee",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -28.1668,
+      "longitude": 30.2337,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Piet Retief",
+      "province": "姆普马兰加省",
+      "latitude": -27.0071,
+      "longitude": 30.8132,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Phuthaditjhaba",
+      "province": "自由邦省",
+      "latitude": -28.5242,
+      "longitude": 28.8158,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "亚特兰提斯",
+      "name_en": "Atlantis",
+      "province": "西开普省",
+      "latitude": -33.5667,
+      "longitude": 18.4834,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "莫塞尔贝",
+      "name_en": "Mossel Bay",
+      "province": "西开普省",
+      "latitude": -34.1831,
+      "longitude": 22.146,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Mafikeng",
+      "province": "西北省",
+      "latitude": -25.8652,
+      "longitude": 25.6442,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Mmabatho",
+      "province": "西北省",
+      "latitude": -25.85,
+      "longitude": 25.6333,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Odendaalsrus",
+      "province": "自由邦省",
+      "latitude": -27.8739,
+      "longitude": 26.6907,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "奥茨胡恩",
+      "name_en": "Oudtshoorn",
+      "province": "西开普省",
+      "latitude": -33.6005,
+      "longitude": 22.1995,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Bethal",
+      "province": "姆普马兰加省",
+      "latitude": -26.4579,
+      "longitude": 29.4655,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Thaba Nchu",
+      "province": "自由邦省",
+      "latitude": -29.2093,
+      "longitude": 26.839,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Bothaville",
+      "province": "自由邦省",
+      "latitude": -27.3887,
+      "longitude": 26.617,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "乌平通",
+      "name_en": "Upington",
+      "province": "北开普省",
+      "latitude": -28.4478,
+      "longitude": 21.2561,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Parys",
+      "province": "自由邦省",
+      "latitude": -26.9033,
+      "longitude": 27.4573,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Schweizer-Reneke",
+      "province": "西北省",
+      "latitude": -27.1887,
+      "longitude": 25.3293,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "克尼斯纳",
+      "name_en": "Knysna",
+      "province": "西开普省",
+      "latitude": -34.0363,
+      "longitude": 23.0471,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Saldanha",
+      "province": "西开普省",
+      "latitude": -33.0117,
+      "longitude": 17.9442,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "巴伯顿",
+      "name_en": "Barberton",
+      "province": "姆普马兰加省",
+      "latitude": -25.7884,
+      "longitude": 31.0532,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Lichtenburg",
+      "province": "西北省",
+      "latitude": -26.152,
+      "longitude": 26.1597,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "通加特",
+      "name_en": "Tongaat",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -29.5737,
+      "longitude": 31.1155,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "格拉夫-里内特",
+      "name_en": "Graaff Reinet",
+      "province": "东开普省",
+      "latitude": -32.2522,
+      "longitude": 24.5308,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Fochville",
+      "province": "西北省",
+      "latitude": -26.4886,
+      "longitude": 27.4939,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Kokstad",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -30.5472,
+      "longitude": 29.4241,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "博福特港",
+      "name_en": "Fort Beaufort",
+      "province": "东开普省",
+      "latitude": -32.7748,
+      "longitude": 26.6338,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Ekangala",
+      "province": "豪登省",
+      "latitude": -25.668,
+      "longitude": 28.73,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Kraaifontein",
+      "province": "西开普省",
+      "latitude": -33.8481,
+      "longitude": 18.7172,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "赫尔马努斯",
+      "name_en": "Hermanus",
+      "province": "西开普省",
+      "latitude": -34.4187,
+      "longitude": 19.2345,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "弗雷堡",
+      "name_en": "Vryburg",
+      "province": "西北省",
+      "latitude": -26.9566,
+      "longitude": 24.7284,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Wellington",
+      "province": "西开普省",
+      "latitude": -33.6398,
+      "longitude": 19.0112,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Viljoenskroon",
+      "province": "自由邦省",
+      "latitude": -27.2084,
+      "longitude": 26.9486,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Durbanville",
+      "province": "西开普省",
+      "latitude": -33.8308,
+      "longitude": 18.6486,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Kwaggafontein",
+      "province": "姆普马兰加省",
+      "latitude": -25.3273,
+      "longitude": 28.9422,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Mondlo",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -27.983,
+      "longitude": 30.7177,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Butterworth",
+      "province": "东开普省",
+      "latitude": -32.3308,
+      "longitude": 28.1498,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "谢普斯敦港",
+      "name_en": "Port Shepstone",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -30.7414,
+      "longitude": 30.455,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Trichardt",
+      "province": "姆普马兰加省",
+      "latitude": -26.4916,
+      "longitude": 29.2288,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Nkowakowa",
+      "province": "林波波省",
+      "latitude": -23.8878,
+      "longitude": 30.2871,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "穆西纳",
+      "name_en": "Musina",
+      "province": "林波波省",
+      "latitude": -22.3488,
+      "longitude": 30.0407,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Modimolle",
+      "province": "林波波省",
+      "latitude": -24.7,
+      "longitude": 28.4,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Letlhabile",
+      "province": "西北省",
+      "latitude": -25.4824,
+      "longitude": 27.8392,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "莱登堡",
+      "name_en": "Lydenburg",
+      "province": "姆普马兰加省",
+      "latitude": -25.096,
+      "longitude": 30.4439,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Mankweng",
+      "province": "林波波省",
+      "latitude": -23.8838,
+      "longitude": 29.7056,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "菲克斯堡",
+      "name_en": "Ficksburg",
+      "province": "自由邦省",
+      "latitude": -28.872,
+      "longitude": 27.8751,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Wolmaransstad",
+      "province": "西北省",
+      "latitude": -27.1974,
+      "longitude": 25.9831,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Edenvale",
+      "province": "豪登省",
+      "latitude": -26.141,
+      "longitude": 28.1525,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "eSikhaleni",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -28.871,
+      "longitude": 31.8996,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Matsulu",
+      "province": "姆普马兰加省",
+      "latitude": -25.523,
+      "longitude": 31.3569,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Balfour",
+      "province": "姆普马兰加省",
+      "latitude": -26.6633,
+      "longitude": 28.5902,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Vredenburg",
+      "province": "西开普省",
+      "latitude": -32.9072,
+      "longitude": 17.99,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "西博福特",
+      "name_en": "Beaufort West",
+      "province": "西开普省",
+      "latitude": -32.3567,
+      "longitude": 22.583,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "北阿利瓦尔",
+      "name_en": "Aliwal North",
+      "province": "东开普省",
+      "latitude": -30.6937,
+      "longitude": 26.7114,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Siyabuswa",
+      "province": "姆普马兰加省",
+      "latitude": -25.1132,
+      "longitude": 29.0445,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "克拉多克",
+      "name_en": "Cradock",
+      "province": "东开普省",
+      "latitude": -32.1642,
+      "longitude": 25.6192,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Volksrust",
+      "province": "姆普马兰加省",
+      "latitude": -27.3654,
+      "longitude": 29.8818,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Malmesbury",
+      "province": "西开普省",
+      "latitude": -33.4608,
+      "longitude": 18.7271,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Mkhuhlu",
+      "province": "姆普马兰加省",
+      "latitude": -24.9878,
+      "longitude": 31.2385,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Wesselsbron",
+      "province": "自由邦省",
+      "latitude": -27.8549,
+      "longitude": 26.3658,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Lebowakgomo",
+      "province": "林波波省",
+      "latitude": -24.3146,
+      "longitude": 29.5008,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "塞雷斯",
+      "name_en": "Ceres",
+      "province": "西开普省",
+      "latitude": -33.3689,
+      "longitude": 19.3109,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Bronkhorstspruit",
+      "province": "豪登省",
+      "latitude": -25.8102,
+      "longitude": 28.7425,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Senekal",
+      "province": "自由邦省",
+      "latitude": -28.3197,
+      "longitude": 27.6208,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Leslie",
+      "province": "姆普马兰加省",
+      "latitude": -26.3674,
+      "longitude": 28.9189,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Phola",
+      "province": "姆普马兰加省",
+      "latitude": -26.002,
+      "longitude": 29.034,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Plettenberg Bay",
+      "province": "西开普省",
+      "latitude": -34.0527,
+      "longitude": 23.3716,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Mandeni",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -29.1469,
+      "longitude": 31.414,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Grabouw",
+      "province": "西开普省",
+      "latitude": -34.1515,
+      "longitude": 19.0151,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Lukwatini",
+      "province": "姆普马兰加省",
+      "latitude": -26.055,
+      "longitude": 30.8229,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Giyani",
+      "province": "林波波省",
+      "latitude": -23.3025,
+      "longitude": 30.7187,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Muizenberg",
+      "province": "西开普省",
+      "latitude": -34.097,
+      "longitude": 18.4797,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Folweni",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -29.9957,
+      "longitude": 30.8072,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Calcutta",
+      "province": "姆普马兰加省",
+      "latitude": -24.9832,
+      "longitude": 31.2349,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Stutterheim",
+      "province": "东开普省",
+      "latitude": -32.5708,
+      "longitude": 27.424,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Dwarsloop",
+      "province": "林波波省",
+      "latitude": -24.7946,
+      "longitude": 31.1028,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Humansdorp",
+      "province": "东开普省",
+      "latitude": -34.029,
+      "longitude": 24.7691,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Theunissen",
+      "province": "自由邦省",
+      "latitude": -28.411,
+      "longitude": 26.7011,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Thabazimbi",
+      "province": "林波波省",
+      "latitude": -24.5917,
+      "longitude": 27.4115,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Margate",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -30.8636,
+      "longitude": 30.3705,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Cullinan",
+      "province": "豪登省",
+      "latitude": -25.6709,
+      "longitude": 28.5236,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Wembesi",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -29.0491,
+      "longitude": 29.7823,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Whittlesea",
+      "province": "东开普省",
+      "latitude": -32.1759,
+      "longitude": 26.8244,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Acornhoek",
+      "province": "林波波省",
+      "latitude": -24.5878,
+      "longitude": 31.0947,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Bloemhof",
+      "province": "西北省",
+      "latitude": -27.6469,
+      "longitude": 25.607,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Harrismith",
+      "province": "自由邦省",
+      "latitude": -28.2728,
+      "longitude": 29.1295,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Robertson",
+      "province": "西开普省",
+      "latitude": -33.8034,
+      "longitude": 19.8854,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Mtubatuba",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -28.4179,
+      "longitude": 32.1848,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Empangeni",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -28.762,
+      "longitude": 31.8933,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Heilbron",
+      "province": "自由邦省",
+      "latitude": -27.2812,
+      "longitude": 27.9709,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "杰弗里斯贝",
+      "name_en": "Jeffreys Bay",
+      "province": "东开普省",
+      "latitude": -34.0453,
+      "longitude": 24.9215,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Howick",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -29.4779,
+      "longitude": 30.2306,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Richmond",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -29.872,
+      "longitude": 30.2723,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "德阿尔",
+      "name_en": "De Aar",
+      "province": "北开普省",
+      "latitude": -30.6497,
+      "longitude": 24.0123,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "乌伦迪",
+      "name_en": "Ulundi",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -28.3352,
+      "longitude": 31.4162,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Allanridge",
+      "province": "自由邦省",
+      "latitude": -27.7543,
+      "longitude": 26.6438,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Hartbeestfontein-A",
+      "province": "西北省",
+      "latitude": -25.4414,
+      "longitude": 27.5111,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Lebohang",
+      "province": "姆普马兰加省",
+      "latitude": -26.3794,
+      "longitude": 28.9211,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Marapong",
+      "province": "林波波省",
+      "latitude": -23.6551,
+      "longitude": 27.6249,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Frankfort",
+      "province": "自由邦省",
+      "latitude": -27.2789,
+      "longitude": 28.497,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "艾尔弗雷德港",
+      "name_en": "Port Alfred",
+      "province": "东开普省",
+      "latitude": -33.586,
+      "longitude": 26.8833,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Ladybrand",
+      "province": "自由邦省",
+      "latitude": -29.1945,
+      "longitude": 27.4574,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Mpophomeni",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -29.5682,
+      "longitude": 30.1862,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Postmasburg",
+      "province": "北开普省",
+      "latitude": -28.3339,
+      "longitude": 23.0654,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Mookgophong",
+      "province": "林波波省",
+      "latitude": -24.5167,
+      "longitude": 28.7167,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Nhlazatje",
+      "province": "姆普马兰加省",
+      "latitude": -26.0403,
+      "longitude": 30.7927,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Driefontein",
+      "province": "姆普马兰加省",
+      "latitude": -26.965,
+      "longitude": 30.4357,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Bultfontein",
+      "province": "自由邦省",
+      "latitude": -28.2876,
+      "longitude": 26.15,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Ballitoville",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -29.539,
+      "longitude": 31.2144,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Shakaskraal",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -29.4493,
+      "longitude": 31.2153,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Hendrina",
+      "province": "姆普马兰加省",
+      "latitude": -26.1588,
+      "longitude": 29.7153,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Hartbeespoort",
+      "province": "西北省",
+      "latitude": -25.7287,
+      "longitude": 27.87,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Praktiseer",
+      "province": "林波波省",
+      "latitude": -24.584,
+      "longitude": 30.3168,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Ventersdorp",
+      "province": "西北省",
+      "latitude": -26.314,
+      "longitude": 26.8222,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "埃斯特科特",
+      "name_en": "Estcourt",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -29.0127,
+      "longitude": 29.8662,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Dimbaza",
+      "province": "东开普省",
+      "latitude": -32.8348,
+      "longitude": 27.2174,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Retreat",
+      "province": "西开普省",
+      "latitude": -34.0551,
+      "longitude": 18.4762,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "White River",
+      "province": "姆普马兰加省",
+      "latitude": -25.3318,
+      "longitude": 31.0117,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Amandelbult",
+      "province": "林波波省",
+      "latitude": -24.8181,
+      "longitude": 27.2966,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Kamaqhekeza",
+      "province": "姆普马兰加省",
+      "latitude": -25.6703,
+      "longitude": 31.8629,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Lady Frere",
+      "province": "东开普省",
+      "latitude": -31.7031,
+      "longitude": 27.2329,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Christiana",
+      "province": "西北省",
+      "latitude": -27.914,
+      "longitude": 25.1611,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Midstream",
+      "province": "豪登省",
+      "latitude": -25.9185,
+      "longitude": 28.1988,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Phomolong",
+      "province": "自由邦省",
+      "latitude": -28.0127,
+      "longitude": 27.0823,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Duiwelskloof",
+      "province": "林波波省",
+      "latitude": -23.6934,
+      "longitude": 30.14,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Reitz",
+      "province": "自由邦省",
+      "latitude": -27.8014,
+      "longitude": 28.4273,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Scottburgh",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -30.2867,
+      "longitude": 30.7532,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Itsoseng",
+      "province": "西北省",
+      "latitude": -26.0816,
+      "longitude": 25.8812,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Gonubie",
+      "province": "东开普省",
+      "latitude": -32.9443,
+      "longitude": 28.015,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Marikana",
+      "province": "西北省",
+      "latitude": -25.699,
+      "longitude": 27.4748,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Koster",
+      "province": "西北省",
+      "latitude": -25.863,
+      "longitude": 26.8976,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Deneysville",
+      "province": "自由邦省",
+      "latitude": -26.8908,
+      "longitude": 28.0971,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Schoemansdal",
+      "province": "姆普马兰加省",
+      "latitude": -25.7087,
+      "longitude": 31.5102,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Redhill",
+      "province": "姆普马兰加省",
+      "latitude": -26.2607,
+      "longitude": 30.8255,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Greytown",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -29.0642,
+      "longitude": 30.5928,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Hennenman",
+      "province": "自由邦省",
+      "latitude": -27.9765,
+      "longitude": 27.0242,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Somerset East",
+      "province": "东开普省",
+      "latitude": -32.7217,
+      "longitude": 25.588,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Middelburg",
+      "province": "东开普省",
+      "latitude": -25.7751,
+      "longitude": 29.4648,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Hartbeesfontein",
+      "province": "西北省",
+      "latitude": -26.7657,
+      "longitude": 26.4202,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Moloto South",
+      "province": "姆普马兰加省",
+      "latitude": -25.4628,
+      "longitude": 28.6504,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Ottosdal",
+      "province": "西北省",
+      "latitude": -26.8091,
+      "longitude": 26.0054,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Vredendal",
+      "province": "西开普省",
+      "latitude": -31.6683,
+      "longitude": 18.5012,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Mooi River",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -29.2082,
+      "longitude": 29.9946,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Pampierstad",
+      "province": "北开普省",
+      "latitude": -27.7832,
+      "longitude": 24.6877,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Hlanganani",
+      "province": "姆普马兰加省",
+      "latitude": -24.9591,
+      "longitude": 31.1702,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Verena",
+      "province": "豪登省",
+      "latitude": -25.4825,
+      "longitude": 29.0276,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Vrede",
+      "province": "自由邦省",
+      "latitude": -27.4257,
+      "longitude": 29.1658,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "莱帕拉莱",
+      "name_en": "Lephalale",
+      "province": "林波波省",
+      "latitude": -23.6661,
+      "longitude": 27.7448,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Hlohlolwane",
+      "province": "自由邦省",
+      "latitude": -28.9159,
+      "longitude": 27.5696,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Glencoe",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -28.1783,
+      "longitude": 30.147,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "斯韦伦丹",
+      "name_en": "Swellendam",
+      "province": "西开普省",
+      "latitude": -34.0226,
+      "longitude": 20.4417,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Villiers",
+      "province": "自由邦省",
+      "latitude": -27.0303,
+      "longitude": 28.6006,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Coligny",
+      "province": "西北省",
+      "latitude": -26.3317,
+      "longitude": 26.3207,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Komatipoort",
+      "province": "姆普马兰加省",
+      "latitude": -25.4332,
+      "longitude": 31.9548,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Secunda",
+      "province": "姆普马兰加省",
+      "latitude": -26.55,
+      "longitude": 29.1667,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "eMkhomazi",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -30.2067,
+      "longitude": 30.7964,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Mafemani",
+      "province": "姆普马兰加省",
+      "latitude": -24.7886,
+      "longitude": 31.0794,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Carolina",
+      "province": "姆普马兰加省",
+      "latitude": -26.0693,
+      "longitude": 30.1149,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Belfast",
+      "province": "姆普马兰加省",
+      "latitude": -25.6899,
+      "longitude": 30.035,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Queensdale",
+      "province": "东开普省",
+      "latitude": -31.871,
+      "longitude": 26.9786,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Franschhoek",
+      "province": "西开普省",
+      "latitude": -33.9108,
+      "longitude": 19.1198,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Vaalwater",
+      "province": "林波波省",
+      "latitude": -24.2957,
+      "longitude": 28.1141,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Ncotshane",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -27.342,
+      "longitude": 31.58,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Vaalbank",
+      "province": "姆普马兰加省",
+      "latitude": -25.1523,
+      "longitude": 28.8556,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "eMuziwezinto",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -30.31,
+      "longitude": 30.6627,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Riversdale",
+      "province": "西开普省",
+      "latitude": -34.0934,
+      "longitude": 21.2572,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Hoopstad",
+      "province": "自由邦省",
+      "latitude": -27.8327,
+      "longitude": 25.9083,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Burgersdorp",
+      "province": "东开普省",
+      "latitude": -30.9977,
+      "longitude": 26.3286,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Zeerust",
+      "province": "西北省",
+      "latitude": -25.537,
+      "longitude": 26.0751,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Tshitereke",
+      "province": "林波波省",
+      "latitude": -22.8842,
+      "longitude": 30.4936,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Kruisfontein",
+      "province": "东开普省",
+      "latitude": -34.0033,
+      "longitude": 24.7314,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Sabie",
+      "province": "姆普马兰加省",
+      "latitude": -25.0999,
+      "longitude": 30.78,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Zastron",
+      "province": "自由邦省",
+      "latitude": -30.3023,
+      "longitude": 27.084,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "布雷达斯多普",
+      "name_en": "Bredasdorp",
+      "province": "西开普省",
+      "latitude": -34.5322,
+      "longitude": 20.0403,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Marquard",
+      "province": "自由邦省",
+      "latitude": -28.6645,
+      "longitude": 27.4305,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Driekoppies",
+      "province": "姆普马兰加省",
+      "latitude": -25.6978,
+      "longitude": 31.564,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Clydesdale",
+      "province": "东开普省",
+      "latitude": -30.2983,
+      "longitude": 29.9377,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Kinross",
+      "province": "姆普马兰加省",
+      "latitude": -26.4166,
+      "longitude": 29.0867,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Kriel",
+      "province": "姆普马兰加省",
+      "latitude": -26.25,
+      "longitude": 29.26,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Montagu",
+      "province": "西开普省",
+      "latitude": -33.7866,
+      "longitude": 20.1211,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Ndevana",
+      "province": "东开普省",
+      "latitude": -32.9077,
+      "longitude": 27.5097,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Alice",
+      "province": "东开普省",
+      "latitude": -32.7875,
+      "longitude": 26.8344,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Groot-Brakrivier",
+      "province": "西开普省",
+      "latitude": -34.0437,
+      "longitude": 22.2257,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Warrenton",
+      "province": "北开普省",
+      "latitude": -28.114,
+      "longitude": 24.8475,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Tekwane",
+      "province": "姆普马兰加省",
+      "latitude": -25.4778,
+      "longitude": 31.1456,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Tshiame",
+      "province": "自由邦省",
+      "latitude": -28.3306,
+      "longitude": 28.9909,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Eshowe",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -28.8865,
+      "longitude": 31.4699,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Vredefort",
+      "province": "自由邦省",
+      "latitude": -27.0081,
+      "longitude": 27.3646,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "察嫩",
+      "name_en": "Tzaneen",
+      "province": "林波波省",
+      "latitude": -23.8332,
+      "longitude": 30.1635,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Le Roux",
+      "province": "西开普省",
+      "latitude": -33.8906,
+      "longitude": 19.1033,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Lansdowne",
+      "province": "西开普省",
+      "latitude": -33.9873,
+      "longitude": 18.4975,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Khowa",
+      "province": "东开普省",
+      "latitude": -31.3331,
+      "longitude": 27.85,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Breyten",
+      "province": "姆普马兰加省",
+      "latitude": -26.3018,
+      "longitude": 29.987,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Ga-Malakhe",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -30.8063,
+      "longitude": 30.3348,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Winburg",
+      "province": "自由邦省",
+      "latitude": -28.518,
+      "longitude": 27.0093,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Caledon",
+      "province": "西开普省",
+      "latitude": -34.23,
+      "longitude": 19.4265,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Koppies",
+      "province": "自由邦省",
+      "latitude": -27.2418,
+      "longitude": 27.5742,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Frischgewaagd",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -27.3898,
+      "longitude": 30.9547,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Ugie",
+      "province": "东开普省",
+      "latitude": -31.1981,
+      "longitude": 28.2335,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Bagale",
+      "province": "豪登省",
+      "latitude": -26.0657,
+      "longitude": 27.6476,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Leeudoringstad",
+      "province": "西北省",
+      "latitude": -27.2371,
+      "longitude": 26.2351,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Makwassie",
+      "province": "西北省",
+      "latitude": -27.3156,
+      "longitude": 25.995,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Thulamahashi",
+      "province": "林波波省",
+      "latitude": -24.7246,
+      "longitude": 31.1994,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Ashton",
+      "province": "西开普省",
+      "latitude": -33.8314,
+      "longitude": 20.0559,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Gansbaai",
+      "province": "西开普省",
+      "latitude": -34.583,
+      "longitude": 19.3505,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Tlokoeng",
+      "province": "东开普省",
+      "latitude": -30.6927,
+      "longitude": 28.5061,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Thubelihle",
+      "province": "姆普马兰加省",
+      "latitude": -26.2155,
+      "longitude": 29.2916,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Daggakraal",
+      "province": "姆普马兰加省",
+      "latitude": -27.1325,
+      "longitude": 29.9764,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Cala",
+      "province": "东开普省",
+      "latitude": -31.5236,
+      "longitude": 27.6952,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Fernie",
+      "province": "姆普马兰加省",
+      "latitude": -26.3901,
+      "longitude": 30.7874,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Malamulele",
+      "province": "林波波省",
+      "latitude": -22.9711,
+      "longitude": 30.6736,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Northam",
+      "province": "林波波省",
+      "latitude": -24.9578,
+      "longitude": 27.2654,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Fouriesburg",
+      "province": "自由邦省",
+      "latitude": -28.6196,
+      "longitude": 28.2097,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Winnie Mandela",
+      "province": "自由邦省",
+      "latitude": -28.7003,
+      "longitude": 26.4581,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Mamafubedu",
+      "province": "自由邦省",
+      "latitude": -27.6661,
+      "longitude": 28.1313,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Moorreesburg",
+      "province": "西开普省",
+      "latitude": -33.1539,
+      "longitude": 18.6603,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "龙德博斯",
+      "name_en": "Rondebosch",
+      "province": "西开普省",
+      "latitude": -33.9633,
+      "longitude": 18.4764,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Dysselsdorp",
+      "province": "西开普省",
+      "latitude": -33.5757,
+      "longitude": 22.4439,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Empuluzu",
+      "province": "姆普马兰加省",
+      "latitude": -26.305,
+      "longitude": 30.7736,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Berea",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -29.8518,
+      "longitude": 30.9934,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Matatiele",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -30.3436,
+      "longitude": 28.8116,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Ixopo",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -30.15,
+      "longitude": 30.0833,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Piketberg",
+      "province": "西开普省",
+      "latitude": -32.9032,
+      "longitude": 18.757,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Fisantekraal",
+      "province": "西开普省",
+      "latitude": -33.7854,
+      "longitude": 18.7141,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Amersfoort",
+      "province": "姆普马兰加省",
+      "latitude": -27.0094,
+      "longitude": 29.8664,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Adelaide",
+      "province": "东开普省",
+      "latitude": -32.7075,
+      "longitude": 26.2956,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Namakgale",
+      "province": "林波波省",
+      "latitude": -23.934,
+      "longitude": 31.0312,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Wolseley",
+      "province": "西开普省",
+      "latitude": -33.414,
+      "longitude": 19.2005,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "克莱蒙",
+      "name_en": "Claremont",
+      "province": "西开普省",
+      "latitude": -33.9806,
+      "longitude": 18.4653,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Lenyenye",
+      "province": "林波波省",
+      "latitude": -23.9706,
+      "longitude": 30.2696,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Lindley",
+      "province": "自由邦省",
+      "latitude": -27.8791,
+      "longitude": 27.9135,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Ekuvukeni",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -28.4675,
+      "longitude": 30.1551,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Hankey",
+      "province": "东开普省",
+      "latitude": -33.8331,
+      "longitude": 24.8836,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Molteno",
+      "province": "东开普省",
+      "latitude": -31.3968,
+      "longitude": 26.3625,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Saint Helena Bay",
+      "province": "西开普省",
+      "latitude": -32.7667,
+      "longitude": 18.0333,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Craigieburn",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -30.1971,
+      "longitude": 30.7522,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Melkbosstrand",
+      "province": "西开普省",
+      "latitude": -33.7261,
+      "longitude": 18.4429,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Kenton",
+      "province": "东开普省",
+      "latitude": -33.6667,
+      "longitude": 26.65,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Ventersburg",
+      "province": "自由邦省",
+      "latitude": -28.0856,
+      "longitude": 27.1381,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Jan Kempdorp",
+      "province": "西北省",
+      "latitude": -27.9225,
+      "longitude": 24.8305,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Tukakgomo",
+      "province": "林波波省",
+      "latitude": -24.7433,
+      "longitude": 30.1076,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Poortje",
+      "province": "豪登省",
+      "latitude": -26.4595,
+      "longitude": 27.7673,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Thulamahashe",
+      "province": "姆普马兰加省",
+      "latitude": -24.7246,
+      "longitude": 31.2118,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Xikhusese",
+      "province": "姆普马兰加省",
+      "latitude": -24.6024,
+      "longitude": 31.1346,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Hopewell",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -29.7917,
+      "longitude": 30.3959,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Dutywa",
+      "province": "东开普省",
+      "latitude": -32.0962,
+      "longitude": 28.3049,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Velddrif",
+      "province": "西开普省",
+      "latitude": -32.7852,
+      "longitude": 18.1786,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Sannieshof",
+      "province": "西北省",
+      "latitude": -26.5295,
+      "longitude": 25.8089,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Warden",
+      "province": "自由邦省",
+      "latitude": -27.8545,
+      "longitude": 28.9653,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Prince Albert",
+      "province": "西开普省",
+      "latitude": -33.2248,
+      "longitude": 22.0267,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Rethabiseng",
+      "province": "豪登省",
+      "latitude": -25.7229,
+      "longitude": 28.7169,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Paulpietersburg",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -27.4243,
+      "longitude": 30.8169,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Ga-Kgapane",
+      "province": "林波波省",
+      "latitude": -23.6438,
+      "longitude": 30.2232,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Mogwase",
+      "province": "西北省",
+      "latitude": -25.1851,
+      "longitude": 27.2665,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Nomathamasanqa",
+      "province": "东开普省",
+      "latitude": -33.5228,
+      "longitude": 25.7104,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Ilinge",
+      "province": "东开普省",
+      "latitude": -31.9768,
+      "longitude": 27.0427,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Maboke",
+      "province": "姆普马兰加省",
+      "latitude": -24.7254,
+      "longitude": 31.0183,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Delareyville",
+      "province": "西北省",
+      "latitude": -26.6864,
+      "longitude": 25.4591,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Tjakastad",
+      "province": "姆普马兰加省",
+      "latitude": -25.989,
+      "longitude": 30.823,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Bolla-Tau",
+      "province": "姆普马兰加省",
+      "latitude": -24.6328,
+      "longitude": 31.1311,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "De Doorns",
+      "province": "西开普省",
+      "latitude": -33.4771,
+      "longitude": 19.6663,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Allemansdrif",
+      "province": "姆普马兰加省",
+      "latitude": -25.114,
+      "longitude": 28.9095,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Swartruggens",
+      "province": "西北省",
+      "latitude": -25.6502,
+      "longitude": 26.6886,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Ka-Mhinga",
+      "province": "林波波省",
+      "latitude": -22.7577,
+      "longitude": 30.8998,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Maclear",
+      "province": "东开普省",
+      "latitude": -31.071,
+      "longitude": 28.3518,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Embhojeni",
+      "province": "姆普马兰加省",
+      "latitude": -25.7179,
+      "longitude": 31.4793,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Mankoeng",
+      "province": "林波波省",
+      "latitude": -23.9,
+      "longitude": 29.8167,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Darling",
+      "province": "西开普省",
+      "latitude": -33.3782,
+      "longitude": 18.3794,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Koffiefontein",
+      "province": "自由邦省",
+      "latitude": -29.4066,
+      "longitude": 25.0031,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Sundumbili",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -29.1337,
+      "longitude": 31.3975,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "科尔斯伯格",
+      "name_en": "Colesberg",
+      "province": "北开普省",
+      "latitude": -30.72,
+      "longitude": 25.0972,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Dordrecht",
+      "province": "东开普省",
+      "latitude": -31.372,
+      "longitude": 27.0488,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Flagstaff",
+      "province": "东开普省",
+      "latitude": -31.0804,
+      "longitude": 29.4952,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Evander",
+      "province": "姆普马兰加省",
+      "latitude": -26.4706,
+      "longitude": 29.1097,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Alexandria",
+      "province": "东开普省",
+      "latitude": -24.9591,
+      "longitude": 31.1702,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Oakley",
+      "province": "姆普马兰加省",
+      "latitude": -24.9268,
+      "longitude": 31.2289,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Bochum",
+      "province": "林波波省",
+      "latitude": -23.2861,
+      "longitude": 29.1396,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Villiersdorp",
+      "province": "西开普省",
+      "latitude": -33.9912,
+      "longitude": 19.2922,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "东巴克利",
+      "name_en": "Barkly East",
+      "province": "东开普省",
+      "latitude": -30.9683,
+      "longitude": 27.5957,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Mount Frere",
+      "province": "东开普省",
+      "latitude": -30.9017,
+      "longitude": 28.9924,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Ngcobo",
+      "province": "东开普省",
+      "latitude": -31.6754,
+      "longitude": 27.9966,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Glenharvie",
+      "province": "豪登省",
+      "latitude": -26.3899,
+      "longitude": 27.6159,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Barkly West",
+      "province": "北开普省",
+      "latitude": -28.5354,
+      "longitude": 24.5215,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Kgwaripe",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -28.3701,
+      "longitude": 32.3488,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Devon",
+      "province": "豪登省",
+      "latitude": -26.3558,
+      "longitude": 28.7784,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Wepener",
+      "province": "自由邦省",
+      "latitude": -29.7287,
+      "longitude": 27.038,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Harding",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -30.5764,
+      "longitude": 29.884,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Dewetsdorp",
+      "province": "自由邦省",
+      "latitude": -29.5827,
+      "longitude": 26.6651,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Emtfuntini",
+      "province": "姆普马兰加省",
+      "latitude": -25.6841,
+      "longitude": 31.637,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Hertzogville",
+      "province": "自由邦省",
+      "latitude": -28.1276,
+      "longitude": 25.5039,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Prieska",
+      "province": "北开普省",
+      "latitude": -29.668,
+      "longitude": 22.7425,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "eNduli",
+      "province": "西开普省",
+      "latitude": -33.3564,
+      "longitude": 19.341,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Sebayeng",
+      "province": "林波波省",
+      "latitude": -23.7583,
+      "longitude": 29.6671,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Steynsrus",
+      "province": "自由邦省",
+      "latitude": -27.9533,
+      "longitude": 27.5639,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Bonnievale",
+      "province": "西开普省",
+      "latitude": -33.9322,
+      "longitude": 20.0992,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Mamre",
+      "province": "西开普省",
+      "latitude": -33.5127,
+      "longitude": 18.4737,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Tulbagh",
+      "province": "西开普省",
+      "latitude": -33.286,
+      "longitude": 19.1412,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Machadodorp",
+      "province": "姆普马兰加省",
+      "latitude": -25.6688,
+      "longitude": 30.2497,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Hazelmere",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -29.5967,
+      "longitude": 31.0436,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Cofimvaba",
+      "province": "东开普省",
+      "latitude": -32.0012,
+      "longitude": 27.5804,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Bedford",
+      "province": "东开普省",
+      "latitude": -32.679,
+      "longitude": 26.0869,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Jacobsdal",
+      "province": "自由邦省",
+      "latitude": -29.1279,
+      "longitude": 24.7738,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Buyisonto",
+      "province": "姆普马兰加省",
+      "latitude": -24.7901,
+      "longitude": 31.1303,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "斯普林博克",
+      "name_en": "Springbok",
+      "province": "北开普省",
+      "latitude": -29.6643,
+      "longitude": 17.8865,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Dannhauser",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -28.0151,
+      "longitude": 30.0566,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Boshof",
+      "province": "自由邦省",
+      "latitude": -28.5391,
+      "longitude": 25.2397,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Kirkwood",
+      "province": "东开普省",
+      "latitude": -33.3983,
+      "longitude": 25.4428,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Daniëlskuil",
+      "province": "北开普省",
+      "latitude": -28.1887,
+      "longitude": 23.5395,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Darnall",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -29.2668,
+      "longitude": 31.3575,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Petrusburg",
+      "province": "自由邦省",
+      "latitude": -29.116,
+      "longitude": 25.4143,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Motetema",
+      "province": "姆普马兰加省",
+      "latitude": -25.0947,
+      "longitude": 29.4619,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Sedgefield",
+      "province": "西开普省",
+      "latitude": -34.0211,
+      "longitude": 22.8055,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Bontrug",
+      "province": "东开普省",
+      "latitude": -33.3979,
+      "longitude": 25.4828,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Inanda",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -29.6139,
+      "longitude": 30.9282,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Maile",
+      "province": "西北省",
+      "latitude": -25.4415,
+      "longitude": 27.2816,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Orange Farm",
+      "province": "豪登省",
+      "latitude": -26.4833,
+      "longitude": 27.8667,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Rosebank",
+      "province": "西开普省",
+      "latitude": -33.9556,
+      "longitude": 18.4742,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Ritchie",
+      "province": "北开普省",
+      "latitude": -29.038,
+      "longitude": 24.6028,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Langebaan",
+      "province": "西开普省",
+      "latitude": -33.0975,
+      "longitude": 18.0315,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Kestell",
+      "province": "自由邦省",
+      "latitude": -28.3109,
+      "longitude": 28.7036,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Heidelberg",
+      "province": "西开普省",
+      "latitude": -26.5048,
+      "longitude": 28.3592,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Leeuwfontein-C",
+      "province": "姆普马兰加省",
+      "latitude": -25.1705,
+      "longitude": 28.9036,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Ilitha",
+      "province": "东开普省",
+      "latitude": -32.8924,
+      "longitude": 27.5305,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Touwsrivier",
+      "province": "西开普省",
+      "latitude": -33.3383,
+      "longitude": 20.0309,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Komga",
+      "province": "东开普省",
+      "latitude": -32.577,
+      "longitude": 27.892,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Monnakato",
+      "province": "西北省",
+      "latitude": -25.3513,
+      "longitude": 27.2738,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Hluvukani",
+      "province": "林波波省",
+      "latitude": -24.6453,
+      "longitude": 31.341,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Bizana",
+      "province": "东开普省",
+      "latitude": -30.8591,
+      "longitude": 29.8538,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Kakamas",
+      "province": "北开普省",
+      "latitude": -28.7734,
+      "longitude": 20.6147,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Indwe",
+      "province": "东开普省",
+      "latitude": -31.4667,
+      "longitude": 27.3333,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Khokhamoya",
+      "province": "姆普马兰加省",
+      "latitude": -24.9537,
+      "longitude": 31.3213,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Mmametlhake",
+      "province": "姆普马兰加省",
+      "latitude": -25.1122,
+      "longitude": 28.5528,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Saron",
+      "province": "西开普省",
+      "latitude": -33.1808,
+      "longitude": 19.0089,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Melmoth",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -28.5866,
+      "longitude": 31.3978,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Klapmuts",
+      "province": "西开普省",
+      "latitude": -33.8111,
+      "longitude": 18.8642,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Kathu",
+      "province": "北开普省",
+      "latitude": -27.6957,
+      "longitude": 23.0493,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Mhlambanyatsi",
+      "province": "姆普马兰加省",
+      "latitude": -25.6621,
+      "longitude": 31.5159,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Willowmore",
+      "province": "东开普省",
+      "latitude": -33.2927,
+      "longitude": 23.4895,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Clanwilliam",
+      "province": "西开普省",
+      "latitude": -32.1817,
+      "longitude": 18.8922,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Morgenzon",
+      "province": "姆普马兰加省",
+      "latitude": -26.737,
+      "longitude": 29.6177,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Shatale",
+      "province": "姆普马兰加省",
+      "latitude": -24.7957,
+      "longitude": 31.0471,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Nongoma",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -27.9097,
+      "longitude": 31.6482,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "库鲁曼",
+      "name_en": "Kuruman",
+      "province": "北开普省",
+      "latitude": -27.4635,
+      "longitude": 23.4355,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Tsakani",
+      "province": "姆普马兰加省",
+      "latitude": -24.6193,
+      "longitude": 31.0513,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Carousel View",
+      "province": "西北省",
+      "latitude": -25.3226,
+      "longitude": 28.2896,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Cathcart",
+      "province": "东开普省",
+      "latitude": -32.2985,
+      "longitude": 27.1436,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Phakamisa",
+      "province": "东开普省",
+      "latitude": -32.9333,
+      "longitude": 27.4571,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Phatsima",
+      "province": "西北省",
+      "latitude": -25.3946,
+      "longitude": 27.0149,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Kamalamule",
+      "province": "姆普马兰加省",
+      "latitude": -24.8758,
+      "longitude": 31.3118,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Rouxville",
+      "province": "自由邦省",
+      "latitude": -30.4183,
+      "longitude": 26.8366,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Marite",
+      "province": "姆普马兰加省",
+      "latitude": -24.9716,
+      "longitude": 31.1125,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Maluti",
+      "province": "东开普省",
+      "latitude": -30.2621,
+      "longitude": 28.7924,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Steynsburg",
+      "province": "东开普省",
+      "latitude": -31.2956,
+      "longitude": 25.8234,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Citrusdal",
+      "province": "西开普省",
+      "latitude": -32.5921,
+      "longitude": 19.0152,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Sterkstroom",
+      "province": "东开普省",
+      "latitude": -31.5571,
+      "longitude": 26.5542,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Aberdeen",
+      "province": "东开普省",
+      "latitude": -32.4759,
+      "longitude": 24.0652,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Memel",
+      "province": "自由邦省",
+      "latitude": -27.6816,
+      "longitude": 29.5669,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Ladismith",
+      "province": "西开普省",
+      "latitude": -33.4933,
+      "longitude": 21.2675,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Kwamhlanga",
+      "province": "豪登省",
+      "latitude": -25.43,
+      "longitude": 28.7122,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Nuwerus NC",
+      "province": "北开普省",
+      "latitude": -28.4744,
+      "longitude": 21.2704,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Utrecht",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -27.6586,
+      "longitude": 30.3217,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Porterville",
+      "province": "西开普省",
+      "latitude": -33.0182,
+      "longitude": 18.9928,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Lady Grey",
+      "province": "东开普省",
+      "latitude": -30.7108,
+      "longitude": 27.2161,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Nthrowane",
+      "province": "姆普马兰加省",
+      "latitude": -26.7478,
+      "longitude": 28.7502,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "eManzana",
+      "province": "姆普马兰加省",
+      "latitude": -25.9541,
+      "longitude": 30.5627,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Victoria West",
+      "province": "北开普省",
+      "latitude": -31.4036,
+      "longitude": 23.1146,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Lehurutshe",
+      "province": "西北省",
+      "latitude": -25.4812,
+      "longitude": 25.9651,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Wakkerstroom",
+      "province": "姆普马兰加省",
+      "latitude": -27.3549,
+      "longitude": 30.1438,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Weenen",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -28.8492,
+      "longitude": 30.0772,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Prince Alfred Hamlet",
+      "province": "西开普省",
+      "latitude": -33.3039,
+      "longitude": 19.3247,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Calvinia",
+      "province": "北开普省",
+      "latitude": -31.4707,
+      "longitude": 19.776,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Gemsbokspruit",
+      "province": "姆普马兰加省",
+      "latitude": -25.4034,
+      "longitude": 28.8786,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "eMvelo",
+      "province": "姆普马兰加省",
+      "latitude": -26.6245,
+      "longitude": 30.6623,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Stilbaai",
+      "province": "西开普省",
+      "latitude": -34.3693,
+      "longitude": 21.4075,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Walkerville",
+      "province": "豪登省",
+      "latitude": -26.4209,
+      "longitude": 27.9525,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Kleinmond",
+      "province": "西开普省",
+      "latitude": -34.3394,
+      "longitude": 19.0341,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Kamhlushwa",
+      "province": "姆普马兰加省",
+      "latitude": -25.6637,
+      "longitude": 31.6834,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Bosfontein",
+      "province": "姆普马兰加省",
+      "latitude": -25.7424,
+      "longitude": 31.618,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Bethulie",
+      "province": "自由邦省",
+      "latitude": -30.4986,
+      "longitude": 25.9746,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Tweeling",
+      "province": "自由邦省",
+      "latitude": -27.5551,
+      "longitude": 28.5161,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Edenburg",
+      "province": "自由邦省",
+      "latitude": -29.7366,
+      "longitude": 25.9364,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Colenso",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -28.7393,
+      "longitude": 29.8258,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Clarens",
+      "province": "自由邦省",
+      "latitude": -28.5154,
+      "longitude": 28.4199,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Albertina",
+      "province": "西开普省",
+      "latitude": -34.2054,
+      "longitude": 21.58,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Bathurst",
+      "province": "东开普省",
+      "latitude": -33.4998,
+      "longitude": 26.8294,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Burgersfort",
+      "province": "姆普马兰加省",
+      "latitude": -24.6755,
+      "longitude": 30.3288,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Magaliesburg",
+      "province": "豪登省",
+      "latitude": -25.9936,
+      "longitude": 27.5562,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Elandskraal",
+      "province": "林波波省",
+      "latitude": -24.7209,
+      "longitude": 29.4078,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Welverdiend",
+      "province": "林波波省",
+      "latitude": -24.5801,
+      "longitude": 31.3256,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Excelsior",
+      "province": "自由邦省",
+      "latitude": -28.9409,
+      "longitude": 27.0607,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Edenville",
+      "province": "自由邦省",
+      "latitude": -27.5518,
+      "longitude": 27.6763,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Vanrhynsdorp",
+      "province": "西开普省",
+      "latitude": -31.6089,
+      "longitude": 18.7397,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Addo",
+      "province": "东开普省",
+      "latitude": -33.5483,
+      "longitude": 25.6899,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Joubertina",
+      "province": "东开普省",
+      "latitude": -33.8255,
+      "longitude": 23.8562,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Klawer",
+      "province": "西开普省",
+      "latitude": -31.7759,
+      "longitude": 18.625,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Hopefield",
+      "province": "西开普省",
+      "latitude": -33.0626,
+      "longitude": 18.3491,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Emgwenya",
+      "province": "姆普马兰加省",
+      "latitude": -25.6368,
+      "longitude": 30.324,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Lusikisiki",
+      "province": "东开普省",
+      "latitude": -31.362,
+      "longitude": 29.5733,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Magogeni",
+      "province": "姆普马兰加省",
+      "latitude": -25.7884,
+      "longitude": 31.6076,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Wilderness",
+      "province": "西开普省",
+      "latitude": -33.9939,
+      "longitude": 22.5757,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Paul Roux",
+      "province": "自由邦省",
+      "latitude": -28.2975,
+      "longitude": 27.9504,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Umzimhle",
+      "province": "西北省",
+      "latitude": -26.935,
+      "longitude": 26.7307,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Eden Glen",
+      "province": "豪登省",
+      "latitude": -26.1323,
+      "longitude": 28.1686,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Lamberts Bay",
+      "province": "西开普省",
+      "latitude": -32.0969,
+      "longitude": 18.3085,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Lothair",
+      "province": "姆普马兰加省",
+      "latitude": -26.3894,
+      "longitude": 30.4353,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Edinburgh A",
+      "province": "姆普马兰加省",
+      "latitude": -24.6898,
+      "longitude": 31.1796,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "KwaThandeka",
+      "province": "姆普马兰加省",
+      "latitude": -26.6537,
+      "longitude": 30.678,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Tarkastad",
+      "province": "东开普省",
+      "latitude": -32.0089,
+      "longitude": 26.2594,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Winterton",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -28.8123,
+      "longitude": 29.5412,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Madyembeni",
+      "province": "姆普马兰加省",
+      "latitude": -24.7697,
+      "longitude": 31.0282,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Glenmore",
+      "province": "姆普马兰加省",
+      "latitude": -26.2647,
+      "longitude": 30.8436,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Eastleigh",
+      "province": "豪登省",
+      "latitude": -26.9802,
+      "longitude": 26.6727,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Mathibela",
+      "province": "林波波省",
+      "latitude": -24.3125,
+      "longitude": 29.3124,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Tweespruit",
+      "province": "自由邦省",
+      "latitude": -29.1852,
+      "longitude": 27.0319,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "康斯坦奇亚",
+      "name_en": "Constantia",
+      "province": "西开普省",
+      "latitude": -34.0314,
+      "longitude": 18.4183,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Merry Pebble Stream",
+      "province": "林波波省",
+      "latitude": -24.7665,
+      "longitude": 31.2187,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Trust Feed",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -29.3997,
+      "longitude": 30.5428,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Port Edward",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -31.0507,
+      "longitude": 30.228,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Jagersfontein",
+      "province": "自由邦省",
+      "latitude": -29.7613,
+      "longitude": 25.4271,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Tsolo",
+      "province": "东开普省",
+      "latitude": -31.3078,
+      "longitude": 28.7554,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Cookhouse",
+      "province": "东开普省",
+      "latitude": -32.7432,
+      "longitude": 25.8004,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Maviljan A",
+      "province": "姆普马兰加省",
+      "latitude": -24.8482,
+      "longitude": 31.0883,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Lillydale",
+      "province": "林波波省",
+      "latitude": -24.8664,
+      "longitude": 31.3689,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Laingsburg",
+      "province": "西开普省",
+      "latitude": -33.1949,
+      "longitude": 20.8587,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Genadendal",
+      "province": "西开普省",
+      "latitude": -34.0378,
+      "longitude": 19.5622,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Itekeng",
+      "province": "西北省",
+      "latitude": -26.3593,
+      "longitude": 25.9069,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Jansenville",
+      "province": "东开普省",
+      "latitude": -32.9431,
+      "longitude": 24.6722,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Kranshoek",
+      "province": "西开普省",
+      "latitude": -34.0878,
+      "longitude": 23.2833,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Nondweni",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -28.1923,
+      "longitude": 30.8195,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Paterson",
+      "province": "东开普省",
+      "latitude": -33.4406,
+      "longitude": 25.9741,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Madras A",
+      "province": "姆普马兰加省",
+      "latitude": -24.9911,
+      "longitude": 31.1484,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Botrivier",
+      "province": "西开普省",
+      "latitude": -34.2257,
+      "longitude": 19.2031,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Simon's Town",
+      "province": "西开普省",
+      "latitude": -34.1934,
+      "longitude": 18.4358,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Amalia",
+      "province": "西北省",
+      "latitude": -27.2484,
+      "longitude": 25.0458,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Nqutu",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -28.2122,
+      "longitude": 30.6754,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Dealesville",
+      "province": "自由邦省",
+      "latitude": -28.6749,
+      "longitude": 25.7668,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Grootvlei",
+      "province": "姆普马兰加省",
+      "latitude": -26.7625,
+      "longitude": 28.4838,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Mount Ayliff",
+      "province": "东开普省",
+      "latitude": -30.8082,
+      "longitude": 29.3664,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Trompsburg",
+      "province": "自由邦省",
+      "latitude": -30.0336,
+      "longitude": 25.7804,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Patensie",
+      "province": "东开普省",
+      "latitude": -33.7601,
+      "longitude": 24.8138,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Godide",
+      "province": "姆普马兰加省",
+      "latitude": -24.729,
+      "longitude": 31.237,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Riviersonderend",
+      "province": "西开普省",
+      "latitude": -34.1498,
+      "longitude": 19.9143,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Lutzville",
+      "province": "西开普省",
+      "latitude": -31.5599,
+      "longitude": 18.344,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Dullstroom",
+      "province": "姆普马兰加省",
+      "latitude": -25.4167,
+      "longitude": 30.1061,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Justicia",
+      "province": "林波波省",
+      "latitude": -24.88,
+      "longitude": 31.4132,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Oranjeville",
+      "province": "自由邦省",
+      "latitude": -26.9938,
+      "longitude": 28.2097,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "eMakhazeni B",
+      "province": "姆普马兰加省",
+      "latitude": -24.9512,
+      "longitude": 31.3717,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Perdekop",
+      "province": "姆普马兰加省",
+      "latitude": -27.1657,
+      "longitude": 29.6236,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Murraysburg",
+      "province": "西开普省",
+      "latitude": -31.9605,
+      "longitude": 23.762,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Doornkop",
+      "province": "姆普马兰加省",
+      "latitude": -25.6083,
+      "longitude": 29.4312,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Venterstad",
+      "province": "东开普省",
+      "latitude": -30.7762,
+      "longitude": 25.7992,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Kareedouw",
+      "province": "东开普省",
+      "latitude": -33.9528,
+      "longitude": 24.2905,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Nthabalala",
+      "province": "林波波省",
+      "latitude": -23.2196,
+      "longitude": 29.9927,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Port Saint John’s",
+      "province": "东开普省",
+      "latitude": -31.6229,
+      "longitude": 29.5448,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Thabakgolo",
+      "province": "姆普马兰加省",
+      "latitude": -24.8005,
+      "longitude": 31.0319,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "St Francis Bay",
+      "province": "东开普省",
+      "latitude": -34.1603,
+      "longitude": 24.8262,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Magabeni",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -30.1724,
+      "longitude": 30.7657,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Qumbu",
+      "province": "东开普省",
+      "latitude": -31.163,
+      "longitude": 28.8706,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Orinoco A",
+      "province": "姆普马兰加省",
+      "latitude": -24.7626,
+      "longitude": 31.0652,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Reddersburg",
+      "province": "自由邦省",
+      "latitude": -29.653,
+      "longitude": 26.1677,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Tshandama",
+      "province": "林波波省",
+      "latitude": -22.7457,
+      "longitude": 30.5093,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Carnarvon",
+      "province": "北开普省",
+      "latitude": -30.9683,
+      "longitude": 22.133,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Louterwater",
+      "province": "东开普省",
+      "latitude": -33.8001,
+      "longitude": 23.6638,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Ludlow",
+      "province": "林波波省",
+      "latitude": -24.6692,
+      "longitude": 31.2793,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Stanford",
+      "province": "西开普省",
+      "latitude": -34.4394,
+      "longitude": 19.4562,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Smithfield",
+      "province": "自由邦省",
+      "latitude": -30.2137,
+      "longitude": 26.5307,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Riebeek-Kasteel",
+      "province": "西开普省",
+      "latitude": -33.3845,
+      "longitude": 18.8995,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Mooinooi",
+      "province": "西北省",
+      "latitude": -25.7489,
+      "longitude": 27.5556,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Stella",
+      "province": "西北省",
+      "latitude": -26.553,
+      "longitude": 24.8668,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "James Calata",
+      "province": "东开普省",
+      "latitude": -31.1214,
+      "longitude": 26.8067,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Ngema Tribal Trust",
+      "province": "姆普马兰加省",
+      "latitude": -27.0731,
+      "longitude": 30.542,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Zoar",
+      "province": "西开普省",
+      "latitude": -33.4956,
+      "longitude": 21.4437,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Peddie",
+      "province": "东开普省",
+      "latitude": -33.2006,
+      "longitude": 27.1138,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Manguzi",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -26.991,
+      "longitude": 32.751,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Oakglen",
+      "province": "北开普省",
+      "latitude": -31.0507,
+      "longitude": 24.4326,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Khaya Mnandi",
+      "province": "东开普省",
+      "latitude": -33.8263,
+      "longitude": 25.4538,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Eden Glen Ext 60",
+      "province": "豪登省",
+      "latitude": -26.1259,
+      "longitude": 28.165,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Libode",
+      "province": "东开普省",
+      "latitude": -31.5433,
+      "longitude": 29.0164,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Albert Falls",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -29.4404,
+      "longitude": 30.4334,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Uniondale",
+      "province": "西开普省",
+      "latitude": -33.6589,
+      "longitude": 23.1232,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Ekulindeni",
+      "province": "姆普马兰加省",
+      "latitude": -26.0461,
+      "longitude": 31.0232,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Lidgetton",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -29.4405,
+      "longitude": 30.1,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Pearston",
+      "province": "东开普省",
+      "latitude": -32.5822,
+      "longitude": 25.1383,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Nababeep",
+      "province": "北开普省",
+      "latitude": -29.5917,
+      "longitude": 17.7862,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Newlands",
+      "province": "西开普省",
+      "latitude": -33.9785,
+      "longitude": 18.4481,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Senwamokgope",
+      "province": "林波波省",
+      "latitude": -23.4092,
+      "longitude": 30.1604,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Struisbaai",
+      "province": "西开普省",
+      "latitude": -34.8036,
+      "longitude": 20.0547,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "eMkhuze",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -27.6205,
+      "longitude": 32.0339,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Cedarville",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -30.3842,
+      "longitude": 29.0416,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Charlestown",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -27.4111,
+      "longitude": 29.8738,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Kumana",
+      "province": "姆普马兰加省",
+      "latitude": -24.7503,
+      "longitude": 31.2211,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "GaSekhaolelo",
+      "province": "林波波省",
+      "latitude": -23.9552,
+      "longitude": 28.9834,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Riebeek West",
+      "province": "西开普省",
+      "latitude": -33.3505,
+      "longitude": 18.8702,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Kylemore",
+      "province": "西开普省",
+      "latitude": -33.9151,
+      "longitude": 18.9503,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Cato Ridge",
+      "province": "夸祖鲁-纳塔尔省",
+      "latitude": -29.7333,
+      "longitude": 30.5833,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Matsavana",
+      "province": "姆普马兰加省",
+      "latitude": -24.8219,
+      "longitude": 31.26,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Languedoc",
+      "province": "西开普省",
+      "latitude": -33.8973,
+      "longitude": 18.9673,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Calitzdorp",
+      "province": "西开普省",
+      "latitude": -33.5275,
+      "longitude": 21.6762,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Hazyview",
+      "province": "姆普马兰加省",
+      "latitude": -25.044,
+      "longitude": 31.1277,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Kgapamadi",
+      "province": "姆普马兰加省",
+      "latitude": -24.6086,
+      "longitude": 31.0177,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Napier",
+      "province": "西开普省",
+      "latitude": -34.4745,
+      "longitude": 19.8981,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Boipelo",
+      "province": "西北省",
+      "latitude": -27.5654,
+      "longitude": 24.1849,
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "name": "",
+      "name_en": "Babirwa",
+      "province": "林波波省",
+      "latitude": -23.4297,
+      "longitude": 28.609,
+      "timezone": "Africa/Johannesburg"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "country_code": "TC",
+  "country_name": "特克斯和凯科斯群岛",
+  "cities": [
+    {
+      "name": "",
+      "name_en": "Providenciales",
+      "province": "",
+      "latitude": 21.7825,
+      "longitude": -72.2521,
+      "timezone": "America/Grand_Turk"
+    },
+    {
+      "name": "科伯恩城",
+      "name_en": "Cockburn Town",
+      "province": "",
+      "latitude": 21.4612,
+      "longitude": -71.1419,
+      "timezone": "America/Grand_Turk"
+    }
+  ]
+}

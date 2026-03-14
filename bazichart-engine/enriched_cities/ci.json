@@ -1,0 +1,6814 @@
+{
+  "country_code": "CI",
+  "country_name": "象牙海岸",
+  "cities": [
+    {
+      "name": "阿比让",
+      "name_en": "Abidjan",
+      "province": "Abidjan Autonomous District",
+      "latitude": 5.3544,
+      "longitude": -4.0017,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Abobo",
+      "province": "Abidjan Autonomous District",
+      "latitude": 5.4161,
+      "longitude": -4.0159,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "布瓦凯",
+      "name_en": "Bouaké",
+      "province": "邦达马河谷区",
+      "latitude": 7.6939,
+      "longitude": -5.0303,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "科霍戈",
+      "name_en": "Korhogo",
+      "province": "萨瓦内区",
+      "latitude": 9.458,
+      "longitude": -5.6296,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "达洛亚",
+      "name_en": "Daloa",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.8773,
+      "longitude": -6.4502,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Koumassi",
+      "province": "Abidjan Autonomous District",
+      "latitude": 5.2972,
+      "longitude": -3.9675,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "圣佩德罗",
+      "name_en": "San-Pédro",
+      "province": "下萨桑德拉区",
+      "latitude": 4.7485,
+      "longitude": -6.6363,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "加尼奥阿",
+      "name_en": "Gagnoa",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.1319,
+      "longitude": -5.9506,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "亚穆苏克罗",
+      "name_en": "Yamoussoukro",
+      "province": "湖泊区",
+      "latitude": 6.8205,
+      "longitude": -5.2767,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Sinfra",
+      "province": "赞赞区",
+      "latitude": 6.621,
+      "longitude": -5.9114,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Man",
+      "province": "Montagnes",
+      "latitude": 7.4125,
+      "longitude": -7.5538,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Marcory",
+      "province": "Abidjan Autonomous District",
+      "latitude": 5.312,
+      "longitude": -3.9936,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "邦杜库",
+      "name_en": "Bondoukou",
+      "province": "赞赞区",
+      "latitude": 8.0402,
+      "longitude": -2.8,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Dabou",
+      "province": "潟湖区",
+      "latitude": 5.3256,
+      "longitude": -4.3769,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "迪沃",
+      "name_en": "Divo",
+      "province": "Gôh-Djiboua",
+      "latitude": 5.8374,
+      "longitude": -5.3572,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Anyama",
+      "province": "Abidjan Autonomous District",
+      "latitude": 5.4946,
+      "longitude": -4.0518,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Soubré",
+      "province": "下萨桑德拉区",
+      "latitude": 5.7838,
+      "longitude": -6.5939,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "阿本古鲁",
+      "name_en": "Abengourou",
+      "province": "Comoé District",
+      "latitude": 6.7297,
+      "longitude": -3.4964,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bonon",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.9268,
+      "longitude": -6.0489,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Duekoué",
+      "province": "Montagnes",
+      "latitude": 6.742,
+      "longitude": -7.3492,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bouaflé",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.9904,
+      "longitude": -5.7442,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Séguéla",
+      "province": "Woroba",
+      "latitude": 7.9611,
+      "longitude": -6.6731,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Daoukro",
+      "province": "湖泊区",
+      "latitude": 7.0591,
+      "longitude": -3.9631,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "大巴萨姆",
+      "name_en": "Grand-Bassam",
+      "province": "Comoé District",
+      "latitude": 5.2118,
+      "longitude": -3.7388,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Vavoua",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.3819,
+      "longitude": -6.4778,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bingerville",
+      "province": "Abidjan Autonomous District",
+      "latitude": 5.3558,
+      "longitude": -3.8854,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "阿博维尔",
+      "name_en": "Agboville",
+      "province": "潟湖区",
+      "latitude": 5.928,
+      "longitude": -4.2132,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Danané",
+      "province": "Montagnes",
+      "latitude": 7.2596,
+      "longitude": -8.155,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Adzopé",
+      "province": "潟湖区",
+      "latitude": 6.1069,
+      "longitude": -3.8619,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Méagui",
+      "province": "下萨桑德拉区",
+      "latitude": 5.4119,
+      "longitude": -6.5603,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Ferkessédougou",
+      "province": "萨瓦内区",
+      "latitude": 9.5928,
+      "longitude": -5.1945,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Dimbokro",
+      "province": "湖泊区",
+      "latitude": 6.6468,
+      "longitude": -4.7052,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "伊西亚",
+      "name_en": "Issia",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.4922,
+      "longitude": -6.5856,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Guiglo",
+      "province": "Montagnes",
+      "latitude": 6.5437,
+      "longitude": -7.4935,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Zagné",
+      "province": "Montagnes",
+      "latitude": 6.2102,
+      "longitude": -7.4828,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Agnibilékrou",
+      "province": "Comoé District",
+      "latitude": 7.1311,
+      "longitude": -3.2041,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Katiola",
+      "province": "邦达马河谷区",
+      "latitude": 8.1373,
+      "longitude": -5.101,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "阿博伊索",
+      "name_en": "Aboisso",
+      "province": "Comoé District",
+      "latitude": 5.4678,
+      "longitude": -3.2071,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Oumé",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.3831,
+      "longitude": -5.4176,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Toumodi",
+      "province": "湖泊区",
+      "latitude": 6.558,
+      "longitude": -5.0177,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "奥迭内",
+      "name_en": "Odienné",
+      "province": "登盖莱区",
+      "latitude": 9.5051,
+      "longitude": -7.5643,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Tengréla",
+      "province": "萨瓦内区",
+      "latitude": 10.4811,
+      "longitude": -6.4069,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "本贾利",
+      "name_en": "Boundiali",
+      "province": "萨瓦内区",
+      "latitude": 9.5217,
+      "longitude": -6.4869,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bonoua",
+      "province": "Comoé District",
+      "latitude": 5.2725,
+      "longitude": -3.5962,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Ouangolodougou",
+      "province": "萨瓦内区",
+      "latitude": 9.9684,
+      "longitude": -5.1488,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Doropo",
+      "province": "赞赞区",
+      "latitude": 9.8095,
+      "longitude": -3.3458,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Affery",
+      "province": "潟湖区",
+      "latitude": 6.3204,
+      "longitude": -3.9524,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Zuénoula",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.4303,
+      "longitude": -6.0505,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Diégonéfla",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.2892,
+      "longitude": -5.5741,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bloléquin",
+      "province": "Montagnes",
+      "latitude": 6.5691,
+      "longitude": -8.0025,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Hiré",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.1888,
+      "longitude": -5.2946,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Djapadji",
+      "province": "下萨桑德拉区",
+      "latitude": 5.2911,
+      "longitude": -6.8202,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Arrah",
+      "province": "Comoé District",
+      "latitude": 6.6734,
+      "longitude": -3.9694,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Fengolo",
+      "province": "Montagnes",
+      "latitude": 6.7863,
+      "longitude": -7.3934,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Grand-Lahou",
+      "province": "潟湖区",
+      "latitude": 5.1383,
+      "longitude": -5.0212,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bongouanou",
+      "province": "Comoé District",
+      "latitude": 6.6517,
+      "longitude": -4.2041,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Akoupé",
+      "province": "潟湖区",
+      "latitude": 6.3842,
+      "longitude": -3.8876,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Tanda",
+      "province": "赞赞区",
+      "latitude": 7.8034,
+      "longitude": -3.1683,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Goya",
+      "province": "Montagnes",
+      "latitude": 6.5649,
+      "longitude": -7.4273,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Ndouci",
+      "province": "潟湖区",
+      "latitude": 5.8638,
+      "longitude": -4.7609,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Tiassalé",
+      "province": "潟湖区",
+      "latitude": 5.8984,
+      "longitude": -4.8229,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Saïoua",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.4854,
+      "longitude": -6.278,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "萨桑德拉",
+      "name_en": "Sassandra",
+      "province": "下萨桑德拉区",
+      "latitude": 4.9538,
+      "longitude": -6.0853,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Ahouanou",
+      "province": "潟湖区",
+      "latitude": 5.5057,
+      "longitude": -4.8588,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Dianra",
+      "province": "Woroba",
+      "latitude": 8.9433,
+      "longitude": -6.2549,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Balakouya",
+      "province": "下萨桑德拉区",
+      "latitude": 5.2077,
+      "longitude": -6.3516,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Béoumi",
+      "province": "邦达马河谷区",
+      "latitude": 7.6739,
+      "longitude": -5.5808,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kahin",
+      "province": "Montagnes",
+      "latitude": 6.9141,
+      "longitude": -7.6312,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Buyo",
+      "province": "下萨桑德拉区",
+      "latitude": 6.2753,
+      "longitude": -6.997,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gligbeuadji",
+      "province": "下萨桑德拉区",
+      "latitude": 5.2,
+      "longitude": -6.7,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Lakota",
+      "province": "Gôh-Djiboua",
+      "latitude": 5.8475,
+      "longitude": -5.682,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Grand-Zattry",
+      "province": "下萨桑德拉区",
+      "latitude": 6.1162,
+      "longitude": -6.536,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Ancien-Prozi",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.6688,
+      "longitude": -6.9688,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bonoufla",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.1291,
+      "longitude": -6.4742,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Konéfla",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.6517,
+      "longitude": -5.605,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Zouan-Hounien",
+      "province": "Montagnes",
+      "latitude": 6.9194,
+      "longitude": -8.2065,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Tabou",
+      "province": "下萨桑德拉区",
+      "latitude": 4.423,
+      "longitude": -7.3528,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Touba",
+      "province": "Woroba",
+      "latitude": 8.2833,
+      "longitude": -7.6833,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "M’Bengué",
+      "province": "萨瓦内区",
+      "latitude": 10.0024,
+      "longitude": -5.9004,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gbapleu",
+      "province": "Montagnes",
+      "latitude": 6.4798,
+      "longitude": -7.1653,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Boboniessoko",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.9659,
+      "longitude": -6.6565,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Zaliohouan",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.7952,
+      "longitude": -6.2355,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Diawala",
+      "province": "萨瓦内区",
+      "latitude": 10.107,
+      "longitude": -5.4729,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kaouara",
+      "province": "萨瓦内区",
+      "latitude": 10.0908,
+      "longitude": -5.1948,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Guépaouo",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.4727,
+      "longitude": -5.7062,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Yabayo",
+      "province": "下萨桑德拉区",
+      "latitude": 5.9388,
+      "longitude": -6.5983,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Luénoufla",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.0724,
+      "longitude": -6.2412,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Zou",
+      "province": "Montagnes",
+      "latitude": 6.9765,
+      "longitude": -7.7983,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gonaté",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.9042,
+      "longitude": -6.2435,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Niellé",
+      "province": "萨瓦内区",
+      "latitude": 10.1981,
+      "longitude": -5.6234,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Adiaké",
+      "province": "Comoé District",
+      "latitude": 5.2863,
+      "longitude": -3.304,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Tiébissou",
+      "province": "湖泊区",
+      "latitude": 7.1577,
+      "longitude": -5.2248,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bouna",
+      "province": "赞赞区",
+      "latitude": 9.2693,
+      "longitude": -2.9951,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Oupoyo",
+      "province": "下萨桑德拉区",
+      "latitude": 5.5605,
+      "longitude": -6.59,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "M’Batto",
+      "province": "Comoé District",
+      "latitude": 6.472,
+      "longitude": -4.3578,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Belleville",
+      "province": "下萨桑德拉区",
+      "latitude": 6.1802,
+      "longitude": -6.9053,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Belleville",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.1802,
+      "longitude": -6.9053,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bangolo Tahouake",
+      "province": "Montagnes",
+      "latitude": 7.0412,
+      "longitude": -7.168,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Guibéroua",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.2387,
+      "longitude": -6.1715,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Biankouma",
+      "province": "Montagnes",
+      "latitude": 7.7391,
+      "longitude": -7.6138,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Mabéhiri",
+      "province": "下萨桑德拉区",
+      "latitude": 5.6667,
+      "longitude": -6.4167,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Para",
+      "province": "下萨桑德拉区",
+      "latitude": 5.5196,
+      "longitude": -7.3275,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gabiadji",
+      "province": "下萨桑德拉区",
+      "latitude": 5.0234,
+      "longitude": -6.5616,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bédiala",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.1601,
+      "longitude": -6.3064,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Tafiré",
+      "province": "邦达马河谷区",
+      "latitude": 9.0688,
+      "longitude": -5.164,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Dagbao I",
+      "province": "下萨桑德拉区",
+      "latitude": 5.5602,
+      "longitude": -6.0211,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gnatroa",
+      "province": "Gôh-Djiboua",
+      "latitude": 5.9227,
+      "longitude": -6.1501,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bangolo",
+      "province": "Montagnes",
+      "latitude": 7.0412,
+      "longitude": -7.168,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gohouo",
+      "province": "Montagnes",
+      "latitude": 7.054,
+      "longitude": -7.4403,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Niakaramandougou",
+      "province": "邦达马河谷区",
+      "latitude": 8.6576,
+      "longitude": -5.2911,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Fronan",
+      "province": "邦达马河谷区",
+      "latitude": 8.2149,
+      "longitude": -5.1255,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Biéby",
+      "province": "潟湖区",
+      "latitude": 6.0787,
+      "longitude": -3.6355,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Dagadji",
+      "province": "下萨桑德拉区",
+      "latitude": 5.1257,
+      "longitude": -6.8148,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Galébré",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.0059,
+      "longitude": -6.294,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Moussadougou",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.154,
+      "longitude": -5.6933,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Sahoua",
+      "province": "下萨桑德拉区",
+      "latitude": 5.0619,
+      "longitude": -6.26,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Watté",
+      "province": "下萨桑德拉区",
+      "latitude": 4.9353,
+      "longitude": -6.7783,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Tortiya",
+      "province": "邦达马河谷区",
+      "latitude": 8.7682,
+      "longitude": -5.6865,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Touih",
+      "province": "下萨桑德拉区",
+      "latitude": 5.256,
+      "longitude": -6.5325,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Aboisso Comoé",
+      "province": "Comoé District",
+      "latitude": 5.7351,
+      "longitude": -3.4034,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Niablé",
+      "province": "Comoé District",
+      "latitude": 6.6613,
+      "longitude": -3.2698,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bécédi-Brignan",
+      "province": "潟湖区",
+      "latitude": 5.9091,
+      "longitude": -4.0128,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Guézon",
+      "province": "Montagnes",
+      "latitude": 6.7418,
+      "longitude": -7.1174,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Guézon",
+      "province": "Montagnes",
+      "latitude": 6.7418,
+      "longitude": -7.1174,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bléniméouin",
+      "province": "Montagnes",
+      "latitude": 7.1333,
+      "longitude": -7.1833,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Mankono",
+      "province": "Woroba",
+      "latitude": 8.0586,
+      "longitude": -6.1897,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gnago",
+      "province": "下萨桑德拉区",
+      "latitude": 5.2403,
+      "longitude": -5.7952,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Ahigbé Koffikro",
+      "province": "Comoé District",
+      "latitude": 5.4075,
+      "longitude": -3.3802,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Mahapleu",
+      "province": "Montagnes",
+      "latitude": 7.2247,
+      "longitude": -7.9312,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "M’Bahiakro",
+      "province": "湖泊区",
+      "latitude": 7.4573,
+      "longitude": -4.3399,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Doukouya",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.4262,
+      "longitude": -5.5592,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Ogoudou",
+      "province": "Gôh-Djiboua",
+      "latitude": 5.8967,
+      "longitude": -5.1579,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Lobakuya",
+      "province": "下萨桑德拉区",
+      "latitude": 5.0905,
+      "longitude": -6.3444,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Ebilassokro",
+      "province": "Comoé District",
+      "latitude": 6.3792,
+      "longitude": -3.3472,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Erémankono",
+      "province": "Gôh-Djiboua",
+      "latitude": 5.9283,
+      "longitude": -5.0225,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Niapidou",
+      "province": "下萨桑德拉区",
+      "latitude": 5.3485,
+      "longitude": -6.056,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Dabakala",
+      "province": "邦达马河谷区",
+      "latitude": 8.3632,
+      "longitude": -4.4286,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Pélézi",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.2817,
+      "longitude": -6.8145,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Mignouré",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.4875,
+      "longitude": -6.7882,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Rubino",
+      "province": "潟湖区",
+      "latitude": 6.07,
+      "longitude": -4.3106,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Dikodougou",
+      "province": "萨瓦内区",
+      "latitude": 9.0676,
+      "longitude": -5.7722,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Azaguié",
+      "province": "潟湖区",
+      "latitude": 5.6298,
+      "longitude": -4.082,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Guéssabo",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.7367,
+      "longitude": -6.9549,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Vrouo",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.6964,
+      "longitude": -6.5535,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Baoutifla",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.2343,
+      "longitude": -6.4748,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gbabam",
+      "province": "下萨桑德拉区",
+      "latitude": 5.4665,
+      "longitude": -5.5868,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bianouan",
+      "province": "Comoé District",
+      "latitude": 6.012,
+      "longitude": -3.1902,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Zaïbo",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.9893,
+      "longitude": -6.6667,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bahé-Blaon",
+      "province": "Montagnes",
+      "latitude": 6.6707,
+      "longitude": -7.3426,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Sakassou",
+      "province": "邦达马河谷区",
+      "latitude": 7.4546,
+      "longitude": -5.2926,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Maféré",
+      "province": "Comoé District",
+      "latitude": 5.4151,
+      "longitude": -3.0301,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Okromodou",
+      "province": "下萨桑德拉区",
+      "latitude": 5.3512,
+      "longitude": -5.6759,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Touagui",
+      "province": "下萨桑德拉区",
+      "latitude": 5.431,
+      "longitude": -6.5595,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Nambingué",
+      "province": "萨瓦内区",
+      "latitude": 10.05,
+      "longitude": -5.3378,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Diourouzon",
+      "province": "Montagnes",
+      "latitude": 6.8892,
+      "longitude": -7.5195,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gadouan",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.6562,
+      "longitude": -6.1661,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kranzadougou",
+      "province": "Montagnes",
+      "latitude": 6.485,
+      "longitude": -7.201,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Petitgoa I",
+      "province": "下萨桑德拉区",
+      "latitude": 6.1202,
+      "longitude": -6.7125,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Andé",
+      "province": "Comoé District",
+      "latitude": 6.7818,
+      "longitude": -4.0852,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Nzianouan",
+      "province": "潟湖区",
+      "latitude": 6.0116,
+      "longitude": -4.8213,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gbolouville",
+      "province": "潟湖区",
+      "latitude": 5.7941,
+      "longitude": -4.6613,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bayota",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.4648,
+      "longitude": -5.9543,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Logoualé",
+      "province": "Montagnes",
+      "latitude": 7.1077,
+      "longitude": -7.5521,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Petit Grabo",
+      "province": "下萨桑德拉区",
+      "latitude": 5.269,
+      "longitude": -7.3142,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Baibli",
+      "province": "Montagnes",
+      "latitude": 7.1762,
+      "longitude": -7.2973,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Loboville",
+      "province": "下萨桑德拉区",
+      "latitude": 6.1366,
+      "longitude": -6.841,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gagny",
+      "province": "下萨桑德拉区",
+      "latitude": 5.0491,
+      "longitude": -6.7448,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Zéaglo",
+      "province": "Montagnes",
+      "latitude": 6.563,
+      "longitude": -7.8172,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Okrouyo",
+      "province": "下萨桑德拉区",
+      "latitude": 5.7644,
+      "longitude": -6.4078,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gnépasso",
+      "province": "下萨桑德拉区",
+      "latitude": 4.9822,
+      "longitude": -7.0602,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Flakièdougou",
+      "province": "赞赞区",
+      "latitude": 8.4827,
+      "longitude": -3.1273,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gaoulou",
+      "province": "下萨桑德拉区",
+      "latitude": 5.0335,
+      "longitude": -6.1514,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kolia",
+      "province": "萨瓦内区",
+      "latitude": 9.7651,
+      "longitude": -6.4637,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Aboka",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.5387,
+      "longitude": -6.8159,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Dignago",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.2916,
+      "longitude": -6.2794,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Zoukougbeu",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.7623,
+      "longitude": -6.8638,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kouibly",
+      "province": "Montagnes",
+      "latitude": 7.256,
+      "longitude": -7.2351,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Borotou-Koro",
+      "province": "Woroba",
+      "latitude": 8.4911,
+      "longitude": -7.1786,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Nizahon II",
+      "province": "Montagnes",
+      "latitude": 6.3722,
+      "longitude": -7.3989,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bognonzra",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.9432,
+      "longitude": -5.9673,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kong",
+      "province": "萨瓦内区",
+      "latitude": 9.1494,
+      "longitude": -4.6098,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Diéhiba",
+      "province": "Montagnes",
+      "latitude": 6.9015,
+      "longitude": -7.4138,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Guéyo",
+      "province": "下萨桑德拉区",
+      "latitude": 5.6882,
+      "longitude": -6.0712,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Songon",
+      "province": "Abidjan Autonomous District",
+      "latitude": 5.3196,
+      "longitude": -4.2542,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Yakassé-Attobrou",
+      "province": "潟湖区",
+      "latitude": 6.1817,
+      "longitude": -3.6511,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Guitry",
+      "province": "Gôh-Djiboua",
+      "latitude": 5.5195,
+      "longitude": -5.2404,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Aboudé",
+      "province": "潟湖区",
+      "latitude": 5.8961,
+      "longitude": -4.5625,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Marahui",
+      "province": "赞赞区",
+      "latitude": 8.6152,
+      "longitude": -2.7508,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Dakpadou",
+      "province": "下萨桑德拉区",
+      "latitude": 5.2566,
+      "longitude": -6.0677,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Luéhouan",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.2992,
+      "longitude": -6.771,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bazré",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.7244,
+      "longitude": -5.4828,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Dokpodon",
+      "province": "潟湖区",
+      "latitude": 5.1895,
+      "longitude": -5.4509,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bogbam",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.3808,
+      "longitude": -6.1926,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Ouragahio",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.3106,
+      "longitude": -5.9347,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Jacqueville",
+      "province": "潟湖区",
+      "latitude": 5.2051,
+      "longitude": -4.4146,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kouto",
+      "province": "萨瓦内区",
+      "latitude": 9.8903,
+      "longitude": -6.4092,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Anonkoua",
+      "province": "Abidjan Autonomous District",
+      "latitude": 5.4273,
+      "longitude": -4.0487,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Toulépleu Gueré",
+      "province": "Montagnes",
+      "latitude": 6.5739,
+      "longitude": -8.4259,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Dianra-Village",
+      "province": "Woroba",
+      "latitude": 8.7644,
+      "longitude": -6.2441,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Dapéoua",
+      "province": "下萨桑德拉区",
+      "latitude": 6.1377,
+      "longitude": -6.8785,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Walébo",
+      "province": "下萨桑德拉区",
+      "latitude": 5.5838,
+      "longitude": -6.8334,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bocanda",
+      "province": "湖泊区",
+      "latitude": 7.0626,
+      "longitude": -4.4995,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Zegban",
+      "province": "下萨桑德拉区",
+      "latitude": 5.1637,
+      "longitude": -5.5888,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Sémien",
+      "province": "Montagnes",
+      "latitude": 7.6142,
+      "longitude": -7.1296,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Scierie",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.3278,
+      "longitude": -5.5223,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bouandougou",
+      "province": "Woroba",
+      "latitude": 8.216,
+      "longitude": -5.6696,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Adjaméné",
+      "province": "下萨桑德拉区",
+      "latitude": 4.7664,
+      "longitude": -6.8433,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Lobogba",
+      "province": "下萨桑德拉区",
+      "latitude": 5.9801,
+      "longitude": -6.7358,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Yaoudé",
+      "province": "Montagnes",
+      "latitude": 6.5588,
+      "longitude": -7.4461,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Abongoua",
+      "province": "Comoé District",
+      "latitude": 6.6527,
+      "longitude": -4.1018,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gbliglo",
+      "province": "下萨桑德拉区",
+      "latitude": 6.1353,
+      "longitude": -7.0258,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bagohouo",
+      "province": "Montagnes",
+      "latitude": 6.8901,
+      "longitude": -7.1928,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Botro",
+      "province": "邦达马河谷区",
+      "latitude": 7.8525,
+      "longitude": -5.3106,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Konédougou",
+      "province": "下萨桑德拉区",
+      "latitude": 6.0399,
+      "longitude": -6.6658,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Butubré I",
+      "province": "下萨桑德拉区",
+      "latitude": 5.5107,
+      "longitude": -6.4484,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Séchi",
+      "province": "潟湖区",
+      "latitude": 6.2514,
+      "longitude": -4.4219,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Manzanoua",
+      "province": "Comoé District",
+      "latitude": 6.8435,
+      "longitude": -3.2862,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bamo",
+      "province": "Gôh-Djiboua",
+      "latitude": 5.805,
+      "longitude": -5.966,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Diangobo",
+      "province": "潟湖区",
+      "latitude": 6.1463,
+      "longitude": -3.6422,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Sinématiali",
+      "province": "萨瓦内区",
+      "latitude": 9.5841,
+      "longitude": -5.3848,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Dafrahinou Darinsala",
+      "province": "下萨桑德拉区",
+      "latitude": 6.4324,
+      "longitude": -7.0885,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Goménébéri",
+      "province": "下萨桑德拉区",
+      "latitude": 5.3789,
+      "longitude": -5.5183,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kanakono",
+      "province": "萨瓦内区",
+      "latitude": 10.355,
+      "longitude": -6.2363,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Monoko Zohi Deux",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.0699,
+      "longitude": -6.8448,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bacon",
+      "province": "潟湖区",
+      "latitude": 6.356,
+      "longitude": -3.9102,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Ananguié",
+      "province": "潟湖区",
+      "latitude": 6.223,
+      "longitude": -3.7733,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Songan",
+      "province": "Comoé District",
+      "latitude": 6.1093,
+      "longitude": -3.2084,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Ouattaradougou",
+      "province": "Montagnes",
+      "latitude": 6.5917,
+      "longitude": -7.1959,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Zouan",
+      "province": "Montagnes",
+      "latitude": 6.545,
+      "longitude": -7.599,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gnato",
+      "province": "下萨桑德拉区",
+      "latitude": 4.4334,
+      "longitude": -7.5403,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gomon",
+      "province": "潟湖区",
+      "latitude": 5.7236,
+      "longitude": -4.4413,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Yakassémé",
+      "province": "潟湖区",
+      "latitude": 5.8105,
+      "longitude": -3.9511,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Zagoréta",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.6756,
+      "longitude": -6.1535,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Zaguiéta",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.7881,
+      "longitude": -6.0629,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Assuéfri",
+      "province": "赞赞区",
+      "latitude": 7.6997,
+      "longitude": -2.9785,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Sankadiokro",
+      "province": "Comoé District",
+      "latitude": 6.8617,
+      "longitude": -3.4856,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gnouboyo",
+      "province": "下萨桑德拉区",
+      "latitude": 5.878,
+      "longitude": -6.4009,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bèfla",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.2119,
+      "longitude": -6.1399,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Damé",
+      "province": "Comoé District",
+      "latitude": 7.0709,
+      "longitude": -3.1488,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gohitafla",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.4908,
+      "longitude": -5.8795,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bédigoazon",
+      "province": "Montagnes",
+      "latitude": 6.5636,
+      "longitude": -7.7775,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gbon",
+      "province": "萨瓦内区",
+      "latitude": 9.8324,
+      "longitude": -6.4472,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Zérégbo",
+      "province": "Montagnes",
+      "latitude": 7.0708,
+      "longitude": -7.9101,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Vaou",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.4436,
+      "longitude": -6.992,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Goudi",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.124,
+      "longitude": -5.1037,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Noé",
+      "province": "Comoé District",
+      "latitude": 5.2939,
+      "longitude": -2.7848,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Goh",
+      "province": "下萨桑德拉区",
+      "latitude": 5.2323,
+      "longitude": -6.6363,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Manfla",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.4113,
+      "longitude": -5.9113,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Appouessou",
+      "province": "Comoé District",
+      "latitude": 6.5485,
+      "longitude": -3.4276,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Pinhou",
+      "province": "Montagnes",
+      "latitude": 6.9212,
+      "longitude": -7.7579,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Zaranou",
+      "province": "Comoé District",
+      "latitude": 6.4265,
+      "longitude": -3.3617,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Grand Berebi",
+      "province": "下萨桑德拉区",
+      "latitude": 4.651,
+      "longitude": -6.9237,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Aniassué",
+      "province": "Comoé District",
+      "latitude": 6.6537,
+      "longitude": -3.681,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Téiri",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.3981,
+      "longitude": -5.9846,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Douagué",
+      "province": "Montagnes",
+      "latitude": 7.4794,
+      "longitude": -7.1334,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Lessiri",
+      "province": "下萨桑德拉区",
+      "latitude": 5.9097,
+      "longitude": -6.489,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Ayaou-Sokpa",
+      "province": "邦达马河谷区",
+      "latitude": 7.4206,
+      "longitude": -5.6141,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bacanda",
+      "province": "潟湖区",
+      "latitude": 5.6333,
+      "longitude": -4.8776,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gbétogo",
+      "province": "Woroba",
+      "latitude": 8.1264,
+      "longitude": -6.9436,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Adahidoukou",
+      "province": "Gôh-Djiboua",
+      "latitude": 5.3108,
+      "longitude": -5.2246,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Alépé",
+      "province": "潟湖区",
+      "latitude": 5.5004,
+      "longitude": -3.6631,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Tchétaly",
+      "province": "下萨桑德拉区",
+      "latitude": 6.1792,
+      "longitude": -7.0712,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Grabo",
+      "province": "下萨桑德拉区",
+      "latitude": 4.9204,
+      "longitude": -7.4956,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kani",
+      "province": "Woroba",
+      "latitude": 8.4781,
+      "longitude": -6.6051,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Sirasso",
+      "province": "萨瓦内区",
+      "latitude": 9.2743,
+      "longitude": -6.099,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Danguira",
+      "province": "潟湖区",
+      "latitude": 5.6703,
+      "longitude": -3.7676,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Guézon-Tahouaké",
+      "province": "Montagnes",
+      "latitude": 7.0761,
+      "longitude": -7.1872,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Sarakagui",
+      "province": "下萨桑德拉区",
+      "latitude": 5.819,
+      "longitude": -6.8044,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Niakoblonyoa",
+      "province": "Gôh-Djiboua",
+      "latitude": 5.718,
+      "longitude": -5.967,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bobosso-Tiénigbé",
+      "province": "Woroba",
+      "latitude": 8.4518,
+      "longitude": -5.7874,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Johin",
+      "province": "下萨桑德拉区",
+      "latitude": 5.8046,
+      "longitude": -6.7844,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Tiégba",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.2328,
+      "longitude": -5.6531,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kouaméfra",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.5921,
+      "longitude": -5.424,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Amélékia",
+      "province": "Comoé District",
+      "latitude": 6.8304,
+      "longitude": -3.5752,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Toumoukro",
+      "province": "萨瓦内区",
+      "latitude": 10.3855,
+      "longitude": -5.7506,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Ayamé",
+      "province": "Comoé District",
+      "latitude": 5.6052,
+      "longitude": -3.1571,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gblétia",
+      "province": "下萨桑德拉区",
+      "latitude": 5.6337,
+      "longitude": -6.6299,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bonaouin",
+      "province": "潟湖区",
+      "latitude": 6.5647,
+      "longitude": -3.7607,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kagbé",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.166,
+      "longitude": -5.3496,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Atrobou",
+      "province": "潟湖区",
+      "latitude": 6.0902,
+      "longitude": -4.0589,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Diabo",
+      "province": "邦达马河谷区",
+      "latitude": 7.7896,
+      "longitude": -5.171,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Béttié",
+      "province": "Comoé District",
+      "latitude": 6.0757,
+      "longitude": -3.4085,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Brou akpaousso",
+      "province": "Comoé District",
+      "latitude": 6.9092,
+      "longitude": -4.0558,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Dahiri",
+      "province": "下萨桑德拉区",
+      "latitude": 5.2621,
+      "longitude": -5.529,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Zata",
+      "province": "Yamoussoukro",
+      "latitude": 6.8791,
+      "longitude": -5.404,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kouétinfla",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.6122,
+      "longitude": -6.0604,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Assié koumassi",
+      "province": "Comoé District",
+      "latitude": 6.7697,
+      "longitude": -4.2895,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Tiémélékro",
+      "province": "Comoé District",
+      "latitude": 6.4921,
+      "longitude": -4.6198,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Abongoua",
+      "province": "潟湖区",
+      "latitude": 6.6527,
+      "longitude": -4.1018,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Grébouo",
+      "province": "下萨桑德拉区",
+      "latitude": 5.6667,
+      "longitude": -6.3333,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Diarabana",
+      "province": "Woroba",
+      "latitude": 8.1867,
+      "longitude": -6.6087,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Madogé",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.0289,
+      "longitude": -6.4725,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Offumpo",
+      "province": "潟湖区",
+      "latitude": 5.9519,
+      "longitude": -4.4567,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Korokaha",
+      "province": "萨瓦内区",
+      "latitude": 9.9006,
+      "longitude": -5.6276,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kamala",
+      "province": "赞赞区",
+      "latitude": 8.4343,
+      "longitude": -2.7211,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kétésso",
+      "province": "Comoé District",
+      "latitude": 5.878,
+      "longitude": -3.1741,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Ouamélhoro",
+      "province": "萨瓦内区",
+      "latitude": 10.3323,
+      "longitude": -5.6211,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Ottawa",
+      "province": "下萨桑德拉区",
+      "latitude": 5.7184,
+      "longitude": -6.2747,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Tobly Bangolo",
+      "province": "Montagnes",
+      "latitude": 6.7428,
+      "longitude": -7.1886,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Diédrou",
+      "province": "Montagnes",
+      "latitude": 6.9914,
+      "longitude": -7.7782,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kokoumbo",
+      "province": "湖泊区",
+      "latitude": 6.5425,
+      "longitude": -5.2592,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kacoukro",
+      "province": "Comoé District",
+      "latitude": 5.2961,
+      "longitude": -3.3775,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Saph",
+      "province": "下萨桑德拉区",
+      "latitude": 5.1329,
+      "longitude": -6.7269,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Nguinou",
+      "province": "Comoé District",
+      "latitude": 6.7505,
+      "longitude": -4.1613,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Zoroyo",
+      "province": "下萨桑德拉区",
+      "latitude": 5.8955,
+      "longitude": -6.6508,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gbabo",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.121,
+      "longitude": -6.7638,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Momiraso",
+      "province": "萨瓦内区",
+      "latitude": 9.7065,
+      "longitude": -5.1689,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Trahé",
+      "province": "下萨桑德拉区",
+      "latitude": 4.7158,
+      "longitude": -7.1757,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Séitifla",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.4393,
+      "longitude": -6.7181,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Broudoukou-Kpenda",
+      "province": "Gôh-Djiboua",
+      "latitude": 5.5231,
+      "longitude": -5.5141,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Siétinfla",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.8276,
+      "longitude": -5.7301,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Zéga",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.5006,
+      "longitude": -6.4213,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Agbaou",
+      "province": "潟湖区",
+      "latitude": 6.3414,
+      "longitude": -3.8543,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Brobo",
+      "province": "邦达马河谷区",
+      "latitude": 7.6403,
+      "longitude": -4.8254,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Complexe",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.6029,
+      "longitude": -6.1439,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Hannié",
+      "province": "下萨桑德拉区",
+      "latitude": 5.194,
+      "longitude": -7.353,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Sangouiné",
+      "province": "Montagnes",
+      "latitude": 7.2747,
+      "longitude": -7.7794,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Zambakro",
+      "province": "Yamoussoukro",
+      "latitude": 6.7332,
+      "longitude": -5.4112,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kétro",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.1826,
+      "longitude": -6.643,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Dibobli",
+      "province": "Montagnes",
+      "latitude": 6.7395,
+      "longitude": -7.0216,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kouta",
+      "province": "Gôh-Djiboua",
+      "latitude": 5.4885,
+      "longitude": -5.2325,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Didiévi",
+      "province": "湖泊区",
+      "latitude": 7.1287,
+      "longitude": -4.898,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kasséré",
+      "province": "萨瓦内区",
+      "latitude": 9.8272,
+      "longitude": -6.2167,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Tomono",
+      "province": "Woroba",
+      "latitude": 8.326,
+      "longitude": -6.104,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bécouéfin",
+      "province": "潟湖区",
+      "latitude": 6.4809,
+      "longitude": -3.8462,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Tacourably",
+      "province": "Montagnes",
+      "latitude": 7.2551,
+      "longitude": -7.179,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Nékédé",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.4639,
+      "longitude": -5.9985,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gnititoigui",
+      "province": "下萨桑德拉区",
+      "latitude": 5.3439,
+      "longitude": -6.482,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kouassi-Kouassikro",
+      "province": "湖泊区",
+      "latitude": 7.3414,
+      "longitude": -4.6771,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Datta",
+      "province": "Gôh-Djiboua",
+      "latitude": 5.9363,
+      "longitude": -5.3247,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Ipouagui",
+      "province": "下萨桑德拉区",
+      "latitude": 5.519,
+      "longitude": -6.8356,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Pogo",
+      "province": "萨瓦内区",
+      "latitude": 10.4367,
+      "longitude": -5.6306,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Tieupleu",
+      "province": "Montagnes",
+      "latitude": 7.0407,
+      "longitude": -8.1532,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gourané",
+      "province": "Montagnes",
+      "latitude": 7.612,
+      "longitude": -7.2986,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Blahou",
+      "province": "下萨桑德拉区",
+      "latitude": 4.9311,
+      "longitude": -6.5578,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Yaou",
+      "province": "Comoé District",
+      "latitude": 5.7977,
+      "longitude": -3.1382,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Floleu",
+      "province": "Montagnes",
+      "latitude": 6.844,
+      "longitude": -8.1255,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Taobly",
+      "province": "Montagnes",
+      "latitude": 7.4139,
+      "longitude": -7.1858,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kami",
+      "province": "Yamoussoukro",
+      "latitude": 6.8829,
+      "longitude": -5.2787,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Yakassé-Feyassé",
+      "province": "Comoé District",
+      "latitude": 6.9557,
+      "longitude": -3.4126,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Diafla",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.4212,
+      "longitude": -6.8675,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Sodesucre Village",
+      "province": "萨瓦内区",
+      "latitude": 9.5065,
+      "longitude": -5.2779,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bin-Houyé",
+      "province": "Montagnes",
+      "latitude": 6.7824,
+      "longitude": -8.3131,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Prikro",
+      "province": "湖泊区",
+      "latitude": 7.6471,
+      "longitude": -3.9963,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Lokbonoun",
+      "province": "邦达马河谷区",
+      "latitude": 8.0667,
+      "longitude": -5.2667,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Sago",
+      "province": "下萨桑德拉区",
+      "latitude": 5.267,
+      "longitude": -5.9161,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Wagana",
+      "province": "Gôh-Djiboua",
+      "latitude": 5.5815,
+      "longitude": -5.3678,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Dahira",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.5414,
+      "longitude": -6.3213,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Tiéningboué",
+      "province": "Woroba",
+      "latitude": 8.1784,
+      "longitude": -5.7215,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Tiébiéssou",
+      "province": "潟湖区",
+      "latitude": 5.3525,
+      "longitude": -4.8906,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Zoukouboué",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.1112,
+      "longitude": -6.781,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Attinguié",
+      "province": "潟湖区",
+      "latitude": 6.0644,
+      "longitude": -4.5485,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Lopou",
+      "province": "潟湖区",
+      "latitude": 5.4218,
+      "longitude": -4.4697,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kanébly",
+      "province": "Montagnes",
+      "latitude": 7.4812,
+      "longitude": -7.0326,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bécédi",
+      "province": "潟湖区",
+      "latitude": 5.6417,
+      "longitude": -4.5822,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Zangué",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.4306,
+      "longitude": -5.3555,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Brouafla-nattis",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.5962,
+      "longitude": -6.5184,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Blaguiéhi",
+      "province": "Montagnes",
+      "latitude": 6.958,
+      "longitude": -7.665,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Nanandy",
+      "province": "Montagnes",
+      "latitude": 6.7425,
+      "longitude": -7.1698,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Blodi",
+      "province": "Montagnes",
+      "latitude": 6.794,
+      "longitude": -7.2972,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Diassa",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.4159,
+      "longitude": -6.6965,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Sikensi",
+      "province": "潟湖区",
+      "latitude": 5.6683,
+      "longitude": -4.5737,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Tonla",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.354,
+      "longitude": -5.644,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Attinguié",
+      "province": "Abidjan Autonomous District",
+      "latitude": 6.0644,
+      "longitude": -4.5485,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Djigbagui",
+      "province": "下萨桑德拉区",
+      "latitude": 5.6144,
+      "longitude": -6.8737,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bakayo",
+      "province": "下萨桑德拉区",
+      "latitude": 5.5327,
+      "longitude": -6.0442,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Boli",
+      "province": "湖泊区",
+      "latitude": 7.2265,
+      "longitude": -4.8067,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Baonfla",
+      "province": "Yamoussoukro",
+      "latitude": 6.8333,
+      "longitude": -5.4985,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Guitrozon",
+      "province": "Montagnes",
+      "latitude": 6.7501,
+      "longitude": -7.3714,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Takoréagui",
+      "province": "下萨桑德拉区",
+      "latitude": 5.7569,
+      "longitude": -6.7909,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bakanou A",
+      "province": "潟湖区",
+      "latitude": 5.5941,
+      "longitude": -4.6345,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gnagboya",
+      "province": "下萨桑德拉区",
+      "latitude": 6.0788,
+      "longitude": -6.931,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bably",
+      "province": "Montagnes",
+      "latitude": 7.0255,
+      "longitude": -7.8734,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Amoriakro",
+      "province": "Comoé District",
+      "latitude": 7.0994,
+      "longitude": -3.5282,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Katiali",
+      "province": "萨瓦内区",
+      "latitude": 9.8227,
+      "longitude": -5.9338,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Assaie-kouassikro",
+      "province": "Comoé District",
+      "latitude": 6.9651,
+      "longitude": -3.9034,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Sagboya",
+      "province": "下萨桑德拉区",
+      "latitude": 5.9657,
+      "longitude": -6.9133,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Didoko",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.0211,
+      "longitude": -5.3121,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Yacoéoua",
+      "province": "下萨桑德拉区",
+      "latitude": 5.9775,
+      "longitude": -6.4876,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Zaadi",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.3332,
+      "longitude": -5.7366,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kohourou",
+      "province": "Comoé District",
+      "latitude": 5.4796,
+      "longitude": -3.3286,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kpotè",
+      "province": "下萨桑德拉区",
+      "latitude": 4.8712,
+      "longitude": -6.534,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Poumbly",
+      "province": "Montagnes",
+      "latitude": 7.359,
+      "longitude": -7.2053,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Tongouolan",
+      "province": "Comoé District",
+      "latitude": 7.165,
+      "longitude": -3.3055,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Brizéboua",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.0095,
+      "longitude": -6.4691,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Nakara",
+      "province": "Woroba",
+      "latitude": 8.2578,
+      "longitude": -5.637,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Tombokro",
+      "province": "Yamoussoukro",
+      "latitude": 6.9267,
+      "longitude": -5.4996,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Troya",
+      "province": "Montagnes",
+      "latitude": 6.2522,
+      "longitude": -7.4952,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Fiassé",
+      "province": "潟湖区",
+      "latitude": 6.1636,
+      "longitude": -3.6362,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Brihi",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.4503,
+      "longitude": -5.9189,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Petit Badien",
+      "province": "潟湖区",
+      "latitude": 5.2567,
+      "longitude": -4.6399,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Dialakoro",
+      "province": "Woroba",
+      "latitude": 8.1921,
+      "longitude": -5.8429,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Sérihio",
+      "province": "Gôh-Djiboua",
+      "latitude": 5.9005,
+      "longitude": -6.1175,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Ouyabli",
+      "province": "Montagnes",
+      "latitude": 7.3272,
+      "longitude": -7.2084,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Amian",
+      "province": "Comoé District",
+      "latitude": 6.4675,
+      "longitude": -3.6404,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Broukro",
+      "province": "Comoé District",
+      "latitude": 6.6464,
+      "longitude": -4.223,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Loviguié I",
+      "province": "潟湖区",
+      "latitude": 5.8076,
+      "longitude": -4.3384,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Ouaninou",
+      "province": "Woroba",
+      "latitude": 8.2379,
+      "longitude": -7.8664,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Garango",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.963,
+      "longitude": -5.8087,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bounta",
+      "province": "Montagnes",
+      "latitude": 7.6467,
+      "longitude": -7.9592,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kaadé",
+      "province": "Montagnes",
+      "latitude": 6.5693,
+      "longitude": -7.7143,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Koziayo II",
+      "province": "下萨桑德拉区",
+      "latitude": 5.9243,
+      "longitude": -6.3438,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Minignan",
+      "province": "登盖莱区",
+      "latitude": 9.9974,
+      "longitude": -7.8359,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Nagadoukou",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.4258,
+      "longitude": -5.7813,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Toulépleu",
+      "province": "Montagnes",
+      "latitude": 6.5797,
+      "longitude": -8.4109,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kotobi",
+      "province": "Comoé District",
+      "latitude": 6.6957,
+      "longitude": -4.1289,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Ziplignan",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.4485,
+      "longitude": -5.8402,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kanoroba",
+      "province": "萨瓦内区",
+      "latitude": 9.1109,
+      "longitude": -6.1224,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Madinani",
+      "province": "登盖莱区",
+      "latitude": 9.6108,
+      "longitude": -6.9421,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Loua",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.4382,
+      "longitude": -5.6055,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kako",
+      "province": "下萨桑德拉区",
+      "latitude": 4.7757,
+      "longitude": -7.0171,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Vaafla",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.4181,
+      "longitude": -6.6486,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Koulaéoué",
+      "province": "Montagnes",
+      "latitude": 7.0443,
+      "longitude": -7.8859,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Doumbiadougou",
+      "province": "Montagnes",
+      "latitude": 6.6025,
+      "longitude": -7.3189,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Aféré",
+      "province": "Comoé District",
+      "latitude": 6.9028,
+      "longitude": -4.0837,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Moapé",
+      "province": "潟湖区",
+      "latitude": 6.1889,
+      "longitude": -3.8037,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Affalikro",
+      "province": "Comoé District",
+      "latitude": 6.6455,
+      "longitude": -3.3838,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bandiay",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.2,
+      "longitude": -6.1833,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kpada",
+      "province": "下萨桑德拉区",
+      "latitude": 5.78,
+      "longitude": -6.4851,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Sononzo",
+      "province": "Woroba",
+      "latitude": 8.6264,
+      "longitude": -6.13,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Zohoa",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.3239,
+      "longitude": -6.1583,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Yapleu",
+      "province": "Montagnes",
+      "latitude": 7.0906,
+      "longitude": -7.7103,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Diby",
+      "province": "Comoé District",
+      "latitude": 5.6577,
+      "longitude": -2.9785,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Affiénou",
+      "province": "Comoé District",
+      "latitude": 5.4112,
+      "longitude": -2.9248,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Moussayo",
+      "province": "下萨桑德拉区",
+      "latitude": 5.9895,
+      "longitude": -6.4371,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kodaya",
+      "province": "下萨桑德拉区",
+      "latitude": 5.9952,
+      "longitude": -6.9726,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Ouellé",
+      "province": "湖泊区",
+      "latitude": 7.2961,
+      "longitude": -4.0136,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Trawaininkro",
+      "province": "下萨桑德拉区",
+      "latitude": 6.0629,
+      "longitude": -6.8805,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Pauli-Brousse",
+      "province": "下萨桑德拉区",
+      "latitude": 4.9629,
+      "longitude": -6.1898,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Soko",
+      "province": "赞赞区",
+      "latitude": 7.9917,
+      "longitude": -2.7443,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gloplou",
+      "province": "Montagnes",
+      "latitude": 7.1126,
+      "longitude": -7.3515,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Grégbeu",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.8068,
+      "longitude": -6.7172,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Wonséaly",
+      "province": "下萨桑德拉区",
+      "latitude": 6.1715,
+      "longitude": -7.0373,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Duférébo",
+      "province": "Comoé District",
+      "latitude": 7.0898,
+      "longitude": -3.4462,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gonié-Tahouaké",
+      "province": "Montagnes",
+      "latitude": 7.1316,
+      "longitude": -7.3,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Samo",
+      "province": "Comoé District",
+      "latitude": 5.284,
+      "longitude": -3.5179,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kadéko",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.0985,
+      "longitude": -5.5844,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Akridou",
+      "province": "Gôh-Djiboua",
+      "latitude": 5.6267,
+      "longitude": -5.6068,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Tiékou-Carrefour",
+      "province": "湖泊区",
+      "latitude": 6.3587,
+      "longitude": -4.286,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Tabo",
+      "province": "潟湖区",
+      "latitude": 6.2361,
+      "longitude": -5.1375,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Dougodou",
+      "province": "Gôh-Djiboua",
+      "latitude": 5.301,
+      "longitude": -5.3514,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Assangbadji",
+      "province": "潟湖区",
+      "latitude": 6.4078,
+      "longitude": -3.8767,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Godélilié",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.0456,
+      "longitude": -5.8434,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Tié-Iné",
+      "province": "Montagnes",
+      "latitude": 6.9014,
+      "longitude": -7.5979,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Sapli",
+      "province": "赞赞区",
+      "latitude": 8.1448,
+      "longitude": -2.9863,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kregbé",
+      "province": "Comoé District",
+      "latitude": 6.9725,
+      "longitude": -3.9842,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Tiéme",
+      "province": "登盖莱区",
+      "latitude": 9.5445,
+      "longitude": -7.3178,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kong",
+      "province": "潟湖区",
+      "latitude": 9.1494,
+      "longitude": -4.6098,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Liliyo",
+      "province": "下萨桑德拉区",
+      "latitude": 5.9947,
+      "longitude": -6.3573,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Djélisso",
+      "province": "萨瓦内区",
+      "latitude": 10.1949,
+      "longitude": -5.391,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "N’deou",
+      "province": "萨瓦内区",
+      "latitude": 9.97,
+      "longitude": -6.6182,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Namane",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.4218,
+      "longitude": -6.682,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bouoissué",
+      "province": "Comoé District",
+      "latitude": 6.9635,
+      "longitude": -3.2324,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Diapé",
+      "province": "潟湖区",
+      "latitude": 6.0142,
+      "longitude": -3.9273,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "N'Douffoukankro",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.8616,
+      "longitude": -5.821,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kouassi-Datékro",
+      "province": "赞赞区",
+      "latitude": 7.8175,
+      "longitude": -3.5256,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gbeya",
+      "province": "登盖莱区",
+      "latitude": 10.3105,
+      "longitude": -6.9351,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kodioussou",
+      "province": "潟湖区",
+      "latitude": 5.7712,
+      "longitude": -3.7559,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Négbatchi",
+      "province": "下萨桑德拉区",
+      "latitude": 4.8997,
+      "longitude": -7.4684,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Boron",
+      "province": "萨瓦内区",
+      "latitude": 8.6944,
+      "longitude": -5.9691,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Zékrézinssou",
+      "province": "湖泊区",
+      "latitude": 7.0716,
+      "longitude": -4.2804,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bohinou",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.1734,
+      "longitude": -6.8312,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Memni",
+      "province": "潟湖区",
+      "latitude": 5.5112,
+      "longitude": -3.7399,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Déma",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.3083,
+      "longitude": -6.4819,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Dania",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.1508,
+      "longitude": -6.8412,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Adaou",
+      "province": "Comoé District",
+      "latitude": 5.4278,
+      "longitude": -3.2644,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Dédifla",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.2851,
+      "longitude": -6.5871,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bagouri",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.1299,
+      "longitude": -6.8146,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Tézié",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.3875,
+      "longitude": -6.3025,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Sran-Bélakro",
+      "province": "邦达马河谷区",
+      "latitude": 7.3514,
+      "longitude": -5.5907,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Raviart",
+      "province": "湖泊区",
+      "latitude": 7.4042,
+      "longitude": -4.8867,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Agou",
+      "province": "潟湖区",
+      "latitude": 5.9829,
+      "longitude": -3.9439,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Manoufla",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.6195,
+      "longitude": -5.6271,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Goudouko",
+      "province": "Gôh-Djiboua",
+      "latitude": 5.7367,
+      "longitude": -5.6158,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Zabré",
+      "province": "下萨桑德拉区",
+      "latitude": 5.3101,
+      "longitude": -6.2754,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Magnéry",
+      "province": "下萨桑德拉区",
+      "latitude": 4.9401,
+      "longitude": -6.9219,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Koulouan",
+      "province": "Montagnes",
+      "latitude": 6.9531,
+      "longitude": -7.6989,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Krinjabo",
+      "province": "Comoé District",
+      "latitude": 5.3973,
+      "longitude": -3.2136,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Grand Morié",
+      "province": "潟湖区",
+      "latitude": 5.9831,
+      "longitude": -4.1354,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Alosso-II",
+      "province": "Comoé District",
+      "latitude": 5.5644,
+      "longitude": -3.5004,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Darakokaha",
+      "province": "邦达马河谷区",
+      "latitude": 8.2892,
+      "longitude": -5.1587,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Guinkin",
+      "province": "Montagnes",
+      "latitude": 6.5667,
+      "longitude": -7.7228,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Néro",
+      "province": "下萨桑德拉区",
+      "latitude": 4.5082,
+      "longitude": -7.5212,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Faraba",
+      "province": "Woroba",
+      "latitude": 8.6546,
+      "longitude": -6.252,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Taï",
+      "province": "Montagnes",
+      "latitude": 5.8737,
+      "longitude": -7.4552,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Sanhoukro",
+      "province": "Comoé District",
+      "latitude": 5.785,
+      "longitude": -3.1297,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Boudépé",
+      "province": "潟湖区",
+      "latitude": 5.9839,
+      "longitude": -3.987,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kéibly",
+      "province": "Montagnes",
+      "latitude": 5.9964,
+      "longitude": -7.4726,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Cfi-Baroko",
+      "province": "Gôh-Djiboua",
+      "latitude": 5.7205,
+      "longitude": -5.1719,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Napié",
+      "province": "萨瓦内区",
+      "latitude": 9.2887,
+      "longitude": -5.5832,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Assaoufoué",
+      "province": "Comoé District",
+      "latitude": 6.5767,
+      "longitude": -4.2241,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Anoumaba",
+      "province": "Comoé District",
+      "latitude": 6.3373,
+      "longitude": -4.5163,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Appouasso",
+      "province": "Comoé District",
+      "latitude": 5.963,
+      "longitude": -3.1761,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Ellibou",
+      "province": "潟湖区",
+      "latitude": 5.6882,
+      "longitude": -4.51,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Anno",
+      "province": "潟湖区",
+      "latitude": 5.8595,
+      "longitude": -4.379,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Nambézaria",
+      "province": "Gôh-Djiboua",
+      "latitude": 5.65,
+      "longitude": -5.75,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Siakakro",
+      "province": "Comoé District",
+      "latitude": 6.9124,
+      "longitude": -3.2447,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Labodougou",
+      "province": "Gôh-Djiboua",
+      "latitude": 5.7143,
+      "longitude": -5.4126,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Oress-Krobou",
+      "province": "潟湖区",
+      "latitude": 5.7324,
+      "longitude": -4.3947,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Mayakoffikro",
+      "province": "下萨桑德拉区",
+      "latitude": 6.275,
+      "longitude": -6.9962,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Assouba",
+      "province": "Comoé District",
+      "latitude": 5.4596,
+      "longitude": -3.2565,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Agbossou",
+      "province": "Comoé District",
+      "latitude": 6.8614,
+      "longitude": -4.0816,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gnipi",
+      "province": "下萨桑德拉区",
+      "latitude": 5.6688,
+      "longitude": -6.6437,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Ledjean",
+      "province": "Montagnes",
+      "latitude": 6.9287,
+      "longitude": -7.1054,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Pakouabo",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.1572,
+      "longitude": -5.7925,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Brozan",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.3987,
+      "longitude": -5.5031,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kazéribéri",
+      "province": "Gôh-Djiboua",
+      "latitude": 5.639,
+      "longitude": -5.6102,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Karié",
+      "province": "下萨桑德拉区",
+      "latitude": 5.437,
+      "longitude": -7.3394,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Talléré",
+      "province": "萨瓦内区",
+      "latitude": 9.2008,
+      "longitude": -6.1481,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Latokaha",
+      "province": "邦达马河谷区",
+      "latitude": 8.6226,
+      "longitude": -5.3873,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Sipilou",
+      "province": "Montagnes",
+      "latitude": 7.8645,
+      "longitude": -8.1014,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Mborou",
+      "province": "潟湖区",
+      "latitude": 5.5947,
+      "longitude": -4.3633,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Lataha",
+      "province": "萨瓦内区",
+      "latitude": 9.5672,
+      "longitude": -5.591,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Booda",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.3608,
+      "longitude": -5.6882,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kanzra",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.3228,
+      "longitude": -6.2224,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Assinie-Mafia",
+      "province": "Comoé District",
+      "latitude": 5.1338,
+      "longitude": -3.291,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Zouhounou",
+      "province": "Comoé District",
+      "latitude": 6.6122,
+      "longitude": -3.2923,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bobi",
+      "province": "Woroba",
+      "latitude": 8.1614,
+      "longitude": -6.5501,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Ayénoua",
+      "province": "Comoé District",
+      "latitude": 5.3668,
+      "longitude": -3.3177,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gbéhigbly",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.2559,
+      "longitude": -7.0597,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Tayo",
+      "province": "下萨桑德拉区",
+      "latitude": 5.6667,
+      "longitude": -6.35,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Zanfouénou",
+      "province": "Comoé District",
+      "latitude": 6.7052,
+      "longitude": -4.1061,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "伊博古埃",
+      "name_en": "Iboguhé",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.5481,
+      "longitude": -6.8442,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Nidrou",
+      "province": "Montagnes",
+      "latitude": 6.902,
+      "longitude": -7.1814,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bangoua",
+      "province": "Comoé District",
+      "latitude": 7.3354,
+      "longitude": -3.473,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Sucaf Ci Village",
+      "province": "邦达马河谷区",
+      "latitude": 9.2984,
+      "longitude": -5.2932,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Wora",
+      "province": "萨瓦内区",
+      "latitude": 10.0841,
+      "longitude": -6.3268,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Akradio",
+      "province": "潟湖区",
+      "latitude": 5.4372,
+      "longitude": -4.3635,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gbalébouo",
+      "province": "下萨桑德拉区",
+      "latitude": 5.737,
+      "longitude": -6.3458,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bolona",
+      "province": "萨瓦内区",
+      "latitude": 10.2967,
+      "longitude": -6.4376,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Biasso",
+      "province": "潟湖区",
+      "latitude": 6.1115,
+      "longitude": -3.7866,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Blésségue",
+      "province": "萨瓦内区",
+      "latitude": 10.1983,
+      "longitude": -6.4078,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Koyékro",
+      "province": "潟湖区",
+      "latitude": 6.1525,
+      "longitude": -4.7457,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Mahra",
+      "province": "萨瓦内区",
+      "latitude": 8.6793,
+      "longitude": -5.9763,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Abradine",
+      "province": "潟湖区",
+      "latitude": 6.1997,
+      "longitude": -3.6113,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Koun-Fao",
+      "province": "赞赞区",
+      "latitude": 7.4876,
+      "longitude": -3.2525,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kounahiri",
+      "province": "Woroba",
+      "latitude": 7.7909,
+      "longitude": -5.8348,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Montézo",
+      "province": "潟湖区",
+      "latitude": 5.4856,
+      "longitude": -3.7403,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Apprompron",
+      "province": "Comoé District",
+      "latitude": 6.2922,
+      "longitude": -3.3153,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Diamarakro",
+      "province": "Comoé District",
+      "latitude": 6.2368,
+      "longitude": -3.3201,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Doké",
+      "province": "Montagnes",
+      "latitude": 6.5928,
+      "longitude": -8.112,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Ziéagui",
+      "province": "下萨桑德拉区",
+      "latitude": 5.564,
+      "longitude": -6.9069,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Diangbanasso",
+      "province": "萨瓦内区",
+      "latitude": 9.0816,
+      "longitude": -4.6415,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Laouda",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.2083,
+      "longitude": -5.702,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Ouandérama-Dioulasso",
+      "province": "邦达马河谷区",
+      "latitude": 8.65,
+      "longitude": -4.4,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Wanéwa",
+      "province": "Gôh-Djiboua",
+      "latitude": 5.8237,
+      "longitude": -6.1118,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Blapleu",
+      "province": "Montagnes",
+      "latitude": 7.6392,
+      "longitude": -7.737,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Tyonlé",
+      "province": "Montagnes",
+      "latitude": 7.0564,
+      "longitude": -7.6665,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kagnénako",
+      "province": "下萨桑德拉区",
+      "latitude": 5.8119,
+      "longitude": -6.349,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Dairo",
+      "province": "Gôh-Djiboua",
+      "latitude": 5.6606,
+      "longitude": -5.4739,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Nzodji",
+      "province": "潟湖区",
+      "latitude": 5.5938,
+      "longitude": -3.8508,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Tankéssi",
+      "province": "赞赞区",
+      "latitude": 7.3491,
+      "longitude": -3.2035,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Toumanguié",
+      "province": "Comoé District",
+      "latitude": 5.327,
+      "longitude": -3.3237,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Tagadi",
+      "province": "赞赞区",
+      "latitude": 8.6315,
+      "longitude": -2.6252,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Nougoua",
+      "province": "Comoé District",
+      "latitude": 5.3418,
+      "longitude": -2.7766,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Dianoufla",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.7993,
+      "longitude": -6.0142,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Nouvel-Ousrou",
+      "province": "潟湖区",
+      "latitude": 5.411,
+      "longitude": -4.5133,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Ebikro-Ndakro",
+      "province": "Comoé District",
+      "latitude": 5.725,
+      "longitude": -3.111,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Chiépo",
+      "province": "Gôh-Djiboua",
+      "latitude": 5.6952,
+      "longitude": -5.0625,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Zépréguhé",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.9062,
+      "longitude": -6.3704,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Tinhou",
+      "province": "Montagnes",
+      "latitude": 6.4383,
+      "longitude": -8.1561,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Amani",
+      "province": "潟湖区",
+      "latitude": 5.6975,
+      "longitude": -4.7225,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Niorouhio",
+      "province": "下萨桑德拉区",
+      "latitude": 5.7684,
+      "longitude": -6.1201,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Benhuafla",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.5953,
+      "longitude": -5.8794,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Koudougou",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.9353,
+      "longitude": -5.6663,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Lobozoa",
+      "province": "下萨桑德拉区",
+      "latitude": 6.2182,
+      "longitude": -6.9555,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Diacohou-Sud",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.7879,
+      "longitude": -5.871,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "San",
+      "province": "萨瓦内区",
+      "latitude": 10.3905,
+      "longitude": -6.4358,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Maminigui",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.4018,
+      "longitude": -5.8408,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Lalogo",
+      "province": "Woroba",
+      "latitude": 8.8333,
+      "longitude": -6.3566,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bricolo",
+      "province": "下萨桑德拉区",
+      "latitude": 5.785,
+      "longitude": -6.452,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kosso",
+      "province": "下萨桑德拉区",
+      "latitude": 5.0497,
+      "longitude": -5.7788,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Santa",
+      "province": "Montagnes",
+      "latitude": 7.6639,
+      "longitude": -7.8478,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kodiébouman",
+      "province": "潟湖区",
+      "latitude": 6.2211,
+      "longitude": -4.5406,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Léléblé",
+      "province": "潟湖区",
+      "latitude": 6.2331,
+      "longitude": -5.2234,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Zaodrou",
+      "province": "Montagnes",
+      "latitude": 7.1584,
+      "longitude": -7.1848,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Toazéo",
+      "province": "Montagnes",
+      "latitude": 6.7994,
+      "longitude": -7.3299,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Benzra",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.3277,
+      "longitude": -6.0085,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Abronambué",
+      "province": "Comoé District",
+      "latitude": 6.7561,
+      "longitude": -3.3414,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gangbapleu",
+      "province": "Montagnes",
+      "latitude": 7.7488,
+      "longitude": -7.893,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Mougnini",
+      "province": "萨瓦内区",
+      "latitude": 10.014,
+      "longitude": -6.6706,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Sahuyé",
+      "province": "潟湖区",
+      "latitude": 5.7325,
+      "longitude": -4.5268,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Zikisso",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.064,
+      "longitude": -5.7024,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Huafla",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.5637,
+      "longitude": -5.7997,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gouméré",
+      "province": "赞赞区",
+      "latitude": 7.8963,
+      "longitude": -2.9801,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bléanianda",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.3072,
+      "longitude": -5.705,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gribouo",
+      "province": "下萨桑德拉区",
+      "latitude": 6.1951,
+      "longitude": -6.9132,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Guiembé",
+      "province": "萨瓦内区",
+      "latitude": 9.233,
+      "longitude": -5.7128,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Tanbi",
+      "province": "赞赞区",
+      "latitude": 8.2334,
+      "longitude": -2.5736,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Grand Alépé",
+      "province": "潟湖区",
+      "latitude": 5.475,
+      "longitude": -3.7642,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kossonoukro",
+      "province": "Comoé District",
+      "latitude": 6.0107,
+      "longitude": -3.3893,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gaouroubré",
+      "province": "下萨桑德拉区",
+      "latitude": 5.2806,
+      "longitude": -6.2461,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Boguédia",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.6343,
+      "longitude": -6.5191,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kpouébo",
+      "province": "湖泊区",
+      "latitude": 6.3344,
+      "longitude": -4.8562,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Séliéguhé",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.6227,
+      "longitude": -6.868,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Nafoungolo",
+      "province": "萨瓦内区",
+      "latitude": 10.3136,
+      "longitude": -5.4475,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Ndjemin",
+      "province": "Abidjan Autonomous District",
+      "latitude": 5.2703,
+      "longitude": -4.2387,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Ono Salci",
+      "province": "Comoé District",
+      "latitude": 5.3814,
+      "longitude": -3.5655,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Adébem",
+      "province": "下萨桑德拉区",
+      "latitude": 5.4735,
+      "longitude": -5.8367,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gan",
+      "province": "Montagnes",
+      "latitude": 7.066,
+      "longitude": -7.8938,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Béablo",
+      "province": "Montagnes",
+      "latitude": 6.3789,
+      "longitude": -7.334,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Nonouan",
+      "province": "下萨桑德拉区",
+      "latitude": 5.023,
+      "longitude": -6.372,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Domobly",
+      "province": "Montagnes",
+      "latitude": 6.5321,
+      "longitude": -7.5741,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Baglo",
+      "province": "下萨桑德拉区",
+      "latitude": 6.3717,
+      "longitude": -7.1439,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Djidoubaye",
+      "province": "Montagnes",
+      "latitude": 6.0857,
+      "longitude": -7.4864,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Diangobo",
+      "province": "Comoé District",
+      "latitude": 6.1463,
+      "longitude": -3.6422,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Glanié",
+      "province": "Montagnes",
+      "latitude": 7.7595,
+      "longitude": -8.0813,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Blédi Diéya",
+      "province": "Montagnes",
+      "latitude": 6.5863,
+      "longitude": -8.0672,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Dahili",
+      "province": "下萨桑德拉区",
+      "latitude": 5.5027,
+      "longitude": -6.7842,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kodjina",
+      "province": "Comoé District",
+      "latitude": 6.7354,
+      "longitude": -3.597,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Satikran",
+      "province": "Comoé District",
+      "latitude": 6.827,
+      "longitude": -3.7432,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bébou",
+      "province": "Comoé District",
+      "latitude": 6.3617,
+      "longitude": -3.4127,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Yokoboué",
+      "province": "Gôh-Djiboua",
+      "latitude": 5.2693,
+      "longitude": -5.1066,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Assié Akpessé",
+      "province": "Comoé District",
+      "latitude": 6.4654,
+      "longitude": -4.3361,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gloleu",
+      "province": "Montagnes",
+      "latitude": 7.129,
+      "longitude": -7.769,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Guéhiébli",
+      "province": "Montagnes",
+      "latitude": 6.8948,
+      "longitude": -7.4314,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Zougouzoa",
+      "province": "下萨桑德拉区",
+      "latitude": 6.2121,
+      "longitude": -6.5918,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Zonlé I",
+      "province": "Montagnes",
+      "latitude": 7.3647,
+      "longitude": -7.7695,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Ahizabré",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.0492,
+      "longitude": -6.0998,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Zéribéri",
+      "province": "下萨桑德拉区",
+      "latitude": 5.3842,
+      "longitude": -5.4437,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Zéalé",
+      "province": "Montagnes",
+      "latitude": 6.9885,
+      "longitude": -8.161,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Diéouzon",
+      "province": "Montagnes",
+      "latitude": 7.1558,
+      "longitude": -7.3222,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bégbessou",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.067,
+      "longitude": -5.5974,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bagoliéoua",
+      "province": "下萨桑德拉区",
+      "latitude": 6.1679,
+      "longitude": -6.5332,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Baléko",
+      "province": "下萨桑德拉区",
+      "latitude": 5.4339,
+      "longitude": -6.0259,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Koréguhé",
+      "province": "下萨桑德拉区",
+      "latitude": 6.1886,
+      "longitude": -6.6589,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Amoriki",
+      "province": "湖泊区",
+      "latitude": 7.0879,
+      "longitude": -4.1616,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kangagui",
+      "province": "下萨桑德拉区",
+      "latitude": 5.7176,
+      "longitude": -6.81,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Tabagné",
+      "province": "赞赞区",
+      "latitude": 7.991,
+      "longitude": -3.0687,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Piébly Un",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.2512,
+      "longitude": -7.083,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kouan Houlé",
+      "province": "Montagnes",
+      "latitude": 7.3928,
+      "longitude": -8.2609,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Badikaha",
+      "province": "邦达马河谷区",
+      "latitude": 9.1917,
+      "longitude": -5.165,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Ouellé",
+      "province": "登盖莱区",
+      "latitude": 7.2961,
+      "longitude": -4.0136,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Wongé",
+      "province": "Woroba",
+      "latitude": 8.3268,
+      "longitude": -6.5745,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Pona-Vahi",
+      "province": "Montagnes",
+      "latitude": 6.9469,
+      "longitude": -7.1609,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bassadzin",
+      "province": "潟湖区",
+      "latitude": 5.9374,
+      "longitude": -3.7382,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gouriniani",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.2036,
+      "longitude": -6.1839,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Yala",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.3778,
+      "longitude": -6.8264,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Zahirogbeu",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.7622,
+      "longitude": -6.8842,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Abié",
+      "province": "潟湖区",
+      "latitude": 5.8665,
+      "longitude": -3.9257,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Waranyéné",
+      "province": "萨瓦内区",
+      "latitude": 9.42,
+      "longitude": -5.6675,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Samatiguila",
+      "province": "登盖莱区",
+      "latitude": 9.8195,
+      "longitude": -7.5609,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Drayo",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.259,
+      "longitude": -6.0403,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Banguié I",
+      "province": "潟湖区",
+      "latitude": 5.9016,
+      "longitude": -4.2005,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gunglo Zia",
+      "province": "Montagnes",
+      "latitude": 6.8206,
+      "longitude": -7.2439,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gotongouiné",
+      "province": "Montagnes",
+      "latitude": 7.1736,
+      "longitude": -7.7496,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Assoumoukro",
+      "province": "Comoé District",
+      "latitude": 6.464,
+      "longitude": -4.3728,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Koro",
+      "province": "Woroba",
+      "latitude": 8.555,
+      "longitude": -7.4635,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Nassian",
+      "province": "赞赞区",
+      "latitude": 8.4527,
+      "longitude": -3.4715,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Saykro",
+      "province": "Comoé District",
+      "latitude": 5.2736,
+      "longitude": -2.7837,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Angagui",
+      "province": "下萨桑德拉区",
+      "latitude": 5.9474,
+      "longitude": -6.8114,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Guéssiguié Un",
+      "province": "潟湖区",
+      "latitude": 5.7385,
+      "longitude": -4.2355,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bidiouan",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.6153,
+      "longitude": -6.237,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Akpessékro",
+      "province": "Yamoussoukro",
+      "latitude": 6.7249,
+      "longitude": -5.306,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Tawara",
+      "province": "萨瓦内区",
+      "latitude": 9.6572,
+      "longitude": -5.6525,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gohouo-Zarabaon",
+      "province": "Montagnes",
+      "latitude": 7.0037,
+      "longitude": -7.7499,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Goulikao",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.5071,
+      "longitude": -5.5241,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Biantouo",
+      "province": "Montagnes",
+      "latitude": 6.9644,
+      "longitude": -8.25,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kokolopozo",
+      "province": "下萨桑德拉区",
+      "latitude": 5.1366,
+      "longitude": -6.0824,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Wataradougou",
+      "province": "萨瓦内区",
+      "latitude": 8.6718,
+      "longitude": -5.8154,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Lomara",
+      "province": "萨瓦内区",
+      "latitude": 10.3517,
+      "longitude": -6.3389,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gnanké",
+      "province": "下萨桑德拉区",
+      "latitude": 5.2985,
+      "longitude": -6.5289,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Nguessankro",
+      "province": "Comoé District",
+      "latitude": 6.6347,
+      "longitude": -4.3035,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kongaso",
+      "province": "Woroba",
+      "latitude": 7.8153,
+      "longitude": -6.0775,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Cosrou",
+      "province": "潟湖区",
+      "latitude": 5.3191,
+      "longitude": -4.6589,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Sépénédyokaha",
+      "province": "萨瓦内区",
+      "latitude": 9.8429,
+      "longitude": -5.1579,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Allangbakro",
+      "province": "湖泊区",
+      "latitude": 6.7531,
+      "longitude": -4.4116,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Dianambroufla",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.6582,
+      "longitude": -5.6232,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Sanégourifla",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.6552,
+      "longitude": -5.8002,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Morokro",
+      "province": "潟湖区",
+      "latitude": 6.0776,
+      "longitude": -4.7031,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bondo-Dioula",
+      "province": "赞赞区",
+      "latitude": 8.2194,
+      "longitude": -3.2004,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Pissékou",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.2865,
+      "longitude": -5.8201,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Irobo",
+      "province": "潟湖区",
+      "latitude": 5.2936,
+      "longitude": -4.796,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kanangonon",
+      "province": "邦达马河谷区",
+      "latitude": 8.2982,
+      "longitude": -5.0563,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Moronou",
+      "province": "湖泊区",
+      "latitude": 6.3204,
+      "longitude": -4.9712,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Diasson",
+      "province": "潟湖区",
+      "latitude": 5.9715,
+      "longitude": -3.7276,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kadioha",
+      "province": "萨瓦内区",
+      "latitude": 8.9682,
+      "longitude": -5.8833,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Yorodougou",
+      "province": "Montagnes",
+      "latitude": 7.7836,
+      "longitude": -7.8802,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Diboké",
+      "province": "Montagnes",
+      "latitude": 6.4443,
+      "longitude": -8.1123,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Dyougoublé",
+      "province": "萨瓦内区",
+      "latitude": 9.5279,
+      "longitude": -5.935,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bessedi Anon",
+      "province": "潟湖区",
+      "latitude": 5.9258,
+      "longitude": -3.9941,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gobroko",
+      "province": "下萨桑德拉区",
+      "latitude": 5.4063,
+      "longitude": -5.9048,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Balayo",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.4401,
+      "longitude": -6.0126,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Mbaoussiéssou",
+      "province": "Comoé District",
+      "latitude": 6.5807,
+      "longitude": -4.2711,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Akoudzin",
+      "province": "潟湖区",
+      "latitude": 6.0264,
+      "longitude": -3.9833,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Zaguinasso",
+      "province": "萨瓦内区",
+      "latitude": 10.0489,
+      "longitude": -6.36,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Baoubli",
+      "province": "Montagnes",
+      "latitude": 6.8057,
+      "longitude": -7.3993,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Tiapoum",
+      "province": "Comoé District",
+      "latitude": 5.1362,
+      "longitude": -3.0231,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Monga",
+      "province": "Comoé District",
+      "latitude": 5.4762,
+      "longitude": -3.6607,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Noumousséria I",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.7098,
+      "longitude": -6.6631,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Ponan",
+      "province": "Montagnes",
+      "latitude": 5.9034,
+      "longitude": -7.4772,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Zakuéoua",
+      "province": "下萨桑德拉区",
+      "latitude": 6.2493,
+      "longitude": -6.5074,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Sérigbangan",
+      "province": "下萨桑德拉区",
+      "latitude": 5.5278,
+      "longitude": -6.7126,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Facobly",
+      "province": "Montagnes",
+      "latitude": 7.3883,
+      "longitude": -7.3764,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Adikokoi",
+      "province": "Comoé District",
+      "latitude": 6.6333,
+      "longitude": -3.7119,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Béoua",
+      "province": "Montagnes",
+      "latitude": 6.5399,
+      "longitude": -7.646,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Yorobodi",
+      "province": "赞赞区",
+      "latitude": 8.1191,
+      "longitude": -3.6819,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Mahino",
+      "province": "下萨桑德拉区",
+      "latitude": 5.1126,
+      "longitude": -7.4149,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Banneu",
+      "province": "Montagnes",
+      "latitude": 7.0734,
+      "longitude": -8.2531,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Fadiadougou",
+      "province": "Woroba",
+      "latitude": 8.7,
+      "longitude": -6.6214,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Yrozon",
+      "province": "Montagnes",
+      "latitude": 6.8404,
+      "longitude": -7.2186,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Sakaouo",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.4638,
+      "longitude": -5.6908,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Duonfla",
+      "province": "Yamoussoukro",
+      "latitude": 6.843,
+      "longitude": -5.4992,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Lasologo",
+      "province": "萨瓦内区",
+      "latitude": 9.5861,
+      "longitude": -5.1009,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gloubli",
+      "province": "Montagnes",
+      "latitude": 6.8984,
+      "longitude": -7.7776,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Koumoudji",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.6445,
+      "longitude": -5.6374,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Katoro",
+      "province": "萨瓦内区",
+      "latitude": 10.1496,
+      "longitude": -6.1287,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Ouréyo",
+      "province": "下萨桑德拉区",
+      "latitude": 6.0197,
+      "longitude": -6.5978,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bouafla",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.2522,
+      "longitude": -5.8499,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Ehuasso",
+      "province": "Comoé District",
+      "latitude": 6.326,
+      "longitude": -3.444,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bagasséhoa",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.1905,
+      "longitude": -6.3625,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Soukourougban",
+      "province": "Woroba",
+      "latitude": 7.8487,
+      "longitude": -5.935,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Tahably Glodé",
+      "province": "Montagnes",
+      "latitude": 6.744,
+      "longitude": -7.2416,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Grand Yapo",
+      "province": "潟湖区",
+      "latitude": 5.8263,
+      "longitude": -4.1545,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kayo",
+      "province": "下萨桑德拉区",
+      "latitude": 5.8098,
+      "longitude": -6.4753,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Didizo",
+      "province": "Gôh-Djiboua",
+      "latitude": 5.651,
+      "longitude": -5.4599,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Mahalé",
+      "province": "萨瓦内区",
+      "latitude": 10.1289,
+      "longitude": -6.5778,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Blotilé",
+      "province": "Montagnes",
+      "latitude": 7.049,
+      "longitude": -7.692,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Mabouo",
+      "province": "Gôh-Djiboua",
+      "latitude": 5.9345,
+      "longitude": -6.0242,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Nandibo Un",
+      "province": "潟湖区",
+      "latitude": 5.2838,
+      "longitude": -4.9212,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Balahio",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.3145,
+      "longitude": -6.4259,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Boka",
+      "province": "潟湖区",
+      "latitude": 5.9429,
+      "longitude": -4.3977,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bielou-carrefour",
+      "province": "Woroba",
+      "latitude": 8.5414,
+      "longitude": -6.2006,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Boboua",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.0194,
+      "longitude": -6.47,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gouriela",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.5305,
+      "longitude": -6.5145,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Sarhala",
+      "province": "Woroba",
+      "latitude": 8.4179,
+      "longitude": -6.1715,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Djidjikro",
+      "province": "潟湖区",
+      "latitude": 5.3099,
+      "longitude": -4.8769,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Zadioa",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.4315,
+      "longitude": -6.3978,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Ahéoua",
+      "province": "潟湖区",
+      "latitude": 6.3606,
+      "longitude": -3.8609,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Angovia",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.0331,
+      "longitude": -5.537,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kreuzokoué",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.0722,
+      "longitude": -5.4436,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Annépé",
+      "province": "潟湖区",
+      "latitude": 5.9061,
+      "longitude": -3.7699,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gogobro",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.1553,
+      "longitude": -5.3209,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kotouagnoa",
+      "province": "Comoé District",
+      "latitude": 5.2161,
+      "longitude": -2.8905,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Lokossou",
+      "province": "Montagnes",
+      "latitude": 6.6012,
+      "longitude": -7.3786,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Akati",
+      "province": "Comoé District",
+      "latitude": 6.3985,
+      "longitude": -3.2147,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Zraluo",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.5724,
+      "longitude": -5.8886,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gouabafla",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.3211,
+      "longitude": -6.561,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Odia",
+      "province": "萨瓦内区",
+      "latitude": 9.3736,
+      "longitude": -6.1689,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kanouan",
+      "province": "邦达马河谷区",
+      "latitude": 7.4169,
+      "longitude": -5.4522,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Komborodougou",
+      "province": "萨瓦内区",
+      "latitude": 9.3263,
+      "longitude": -5.4292,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Offa",
+      "province": "潟湖区",
+      "latitude": 5.9224,
+      "longitude": -4.3469,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Amangbo",
+      "province": "潟湖区",
+      "latitude": 6.0206,
+      "longitude": -4.3714,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Minfla",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.523,
+      "longitude": -6.044,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bodo",
+      "province": "潟湖区",
+      "latitude": 5.9096,
+      "longitude": -4.685,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Taoudi",
+      "province": "赞赞区",
+      "latitude": 8.137,
+      "longitude": -3.4347,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Séman",
+      "province": "Yamoussoukro",
+      "latitude": 6.8936,
+      "longitude": -5.2971,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Godoua",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.5187,
+      "longitude": -6.3032,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Koréagui",
+      "province": "下萨桑德拉区",
+      "latitude": 5.543,
+      "longitude": -6.6017,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Ira",
+      "province": "潟湖区",
+      "latitude": 5.354,
+      "longitude": -4.6589,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Olodio",
+      "province": "下萨桑德拉区",
+      "latitude": 4.7159,
+      "longitude": -7.467,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Mantongouiné",
+      "province": "Montagnes",
+      "latitude": 7.2878,
+      "longitude": -8.0382,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Ondéfidouo",
+      "province": "赞赞区",
+      "latitude": 9.0438,
+      "longitude": -3.083,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Béréblo",
+      "province": "",
+      "latitude": 5.2751,
+      "longitude": -7.4627,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Apron-Pronou",
+      "province": "Comoé District",
+      "latitude": 7.0013,
+      "longitude": -3.3602,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Guintéguéla",
+      "province": "Woroba",
+      "latitude": 8.2904,
+      "longitude": -7.3093,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Brouagui",
+      "province": "下萨桑德拉区",
+      "latitude": 5.6508,
+      "longitude": -6.8242,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Zakarékro",
+      "province": "下萨桑德拉区",
+      "latitude": 5.1097,
+      "longitude": -5.6024,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Yaobou",
+      "province": "潟湖区",
+      "latitude": 5.7115,
+      "longitude": -4.4127,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Léomidouo",
+      "province": "赞赞区",
+      "latitude": 9.0354,
+      "longitude": -2.9044,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gaboua",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.0625,
+      "longitude": -6.4681,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Douékpé",
+      "province": "Montagnes",
+      "latitude": 7.1362,
+      "longitude": -7.3284,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bokéda",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.3615,
+      "longitude": -5.7119,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Inahiri",
+      "province": "下萨桑德拉区",
+      "latitude": 5.1401,
+      "longitude": -6.2135,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Guéoulé",
+      "province": "Montagnes",
+      "latitude": 7.5989,
+      "longitude": -7.9007,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Séguié",
+      "province": "潟湖区",
+      "latitude": 6.0557,
+      "longitude": -4.0942,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Broubrou",
+      "province": "潟湖区",
+      "latitude": 5.7248,
+      "longitude": -4.8237,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Ourouta",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.1422,
+      "longitude": -6.3143,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gbimanan",
+      "province": "Woroba",
+      "latitude": 8.2337,
+      "longitude": -6.7995,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kpangban",
+      "province": "下萨桑德拉区",
+      "latitude": 5.5818,
+      "longitude": -6.7536,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Adiékro",
+      "province": "湖泊区",
+      "latitude": 7.0674,
+      "longitude": -3.6927,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Hallanikro",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.8532,
+      "longitude": -5.6396,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Brouta",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.2495,
+      "longitude": -6.1845,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Suéfla",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.8521,
+      "longitude": -5.7147,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gbeugréhoa",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.2055,
+      "longitude": -6.3382,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kossandji",
+      "province": "潟湖区",
+      "latitude": 5.8246,
+      "longitude": -3.6157,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kélégbala",
+      "province": "萨瓦内区",
+      "latitude": 10.0323,
+      "longitude": -6.7596,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Krokroum",
+      "province": "潟湖区",
+      "latitude": 5.2111,
+      "longitude": -5.4094,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Fiékon",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.0996,
+      "longitude": -6.8455,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Djibrosso",
+      "province": "Woroba",
+      "latitude": 8.7697,
+      "longitude": -6.9992,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Ahouakro",
+      "province": "潟湖区",
+      "latitude": 6.1199,
+      "longitude": -4.8724,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Mibrigué",
+      "province": "萨瓦内区",
+      "latitude": 10.285,
+      "longitude": -5.795,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Tourvré",
+      "province": "萨瓦内区",
+      "latitude": 9.9033,
+      "longitude": -6.5024,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Zahia",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.9167,
+      "longitude": -6.5781,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kétasso",
+      "province": "Gôh-Djiboua",
+      "latitude": 5.7587,
+      "longitude": -5.0338,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Agba-Mbayassou",
+      "province": "湖泊区",
+      "latitude": 7.1152,
+      "longitude": -4.2682,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bodokro",
+      "province": "邦达马河谷区",
+      "latitude": 7.8614,
+      "longitude": -5.4775,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Lolobo",
+      "province": "Yamoussoukro",
+      "latitude": 6.9589,
+      "longitude": -5.2658,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bounafla",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.722,
+      "longitude": -5.5181,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bréguiagui",
+      "province": "下萨桑德拉区",
+      "latitude": 5.2485,
+      "longitude": -6.3791,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Transua",
+      "province": "赞赞区",
+      "latitude": 7.55,
+      "longitude": -3.0143,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Toupah",
+      "province": "潟湖区",
+      "latitude": 5.3189,
+      "longitude": -4.5655,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gaoussoukro",
+      "province": "Comoé District",
+      "latitude": 5.2484,
+      "longitude": -2.9712,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kéiténably",
+      "province": "Montagnes",
+      "latitude": 7.2605,
+      "longitude": -7.3375,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Dainé II",
+      "province": "Montagnes",
+      "latitude": 7.43,
+      "longitude": -7.6052,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Valoua",
+      "province": "Gôh-Djiboua",
+      "latitude": 5.9309,
+      "longitude": -6.1007,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Eboué",
+      "province": "Comoé District",
+      "latitude": 5.3441,
+      "longitude": -3.1255,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bébouo-sibouo",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.8197,
+      "longitude": -6.2378,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Daouo",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.4035,
+      "longitude": -6.6179,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Donsohouo",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.4498,
+      "longitude": -5.6963,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Karamokola",
+      "province": "Woroba",
+      "latitude": 8.0998,
+      "longitude": -6.1826,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Mborla-Dioulasso",
+      "province": "邦达马河谷区",
+      "latitude": 8.4688,
+      "longitude": -4.481,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bawakaha",
+      "province": "萨瓦内区",
+      "latitude": 9.4993,
+      "longitude": -5.4102,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Banoufla",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.12,
+      "longitude": -6.3183,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Blablata",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.2862,
+      "longitude": -6.2456,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Boua",
+      "province": "下萨桑德拉区",
+      "latitude": 5.02,
+      "longitude": -7.0544,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Yopohua",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.396,
+      "longitude": -5.8295,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bounantinfla",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.7545,
+      "longitude": -5.9156,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Koukoguhé",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.9106,
+      "longitude": -6.5657,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Pétyonara",
+      "province": "邦达马河谷区",
+      "latitude": 8.4306,
+      "longitude": -5.1143,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Zogbodoua",
+      "province": "下萨桑德拉区",
+      "latitude": 5.7334,
+      "longitude": -6.3134,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kouénoufla Don",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.3545,
+      "longitude": -6.7515,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Billahio",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.2138,
+      "longitude": -6.1461,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Ouolo",
+      "province": "萨瓦内区",
+      "latitude": 9.5483,
+      "longitude": -5.4246,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Findimanou",
+      "province": "Comoé District",
+      "latitude": 6.8315,
+      "longitude": -4.083,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Pagnébly",
+      "province": "Montagnes",
+      "latitude": 7.2485,
+      "longitude": -7.1325,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gbily",
+      "province": "下萨桑德拉区",
+      "latitude": 6.2296,
+      "longitude": -6.9693,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Amaragui",
+      "province": "下萨桑德拉区",
+      "latitude": 5.8134,
+      "longitude": -6.7158,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Samapleu",
+      "province": "Montagnes",
+      "latitude": 7.7616,
+      "longitude": -7.9378,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Palmindustrie Tamabo",
+      "province": "潟湖区",
+      "latitude": 5.4415,
+      "longitude": -4.7954,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bonzi",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.9167,
+      "longitude": -5.534,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Elenzué",
+      "province": "Comoé District",
+      "latitude": 6.8081,
+      "longitude": -4.0973,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Djékanou",
+      "province": "湖泊区",
+      "latitude": 6.4839,
+      "longitude": -5.1155,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Goazra",
+      "province": "Sassandra-Marahoué",
+      "latitude": 6.9443,
+      "longitude": -5.9688,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Sané-Gazé",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.4586,
+      "longitude": -5.8016,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Boahia",
+      "province": "赞赞区",
+      "latitude": 7.5717,
+      "longitude": -3.5149,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Béréni-Dialla",
+      "province": "Woroba",
+      "latitude": 8.0036,
+      "longitude": -6.8609,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Ebimpe",
+      "province": "Abidjan Autonomous District",
+      "latitude": 5.499,
+      "longitude": -4.0821,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gouéda",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.2144,
+      "longitude": -5.6913,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Néguépié",
+      "province": "萨瓦内区",
+      "latitude": 10.3476,
+      "longitude": -6.5171,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Abéanou",
+      "province": "湖泊区",
+      "latitude": 6.9733,
+      "longitude": -4.2328,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kananwolo",
+      "province": "邦达马河谷区",
+      "latitude": 8.7826,
+      "longitude": -5.3108,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bakro",
+      "province": "Comoé District",
+      "latitude": 5.5068,
+      "longitude": -3.2455,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Dioulabougou-Boléko",
+      "province": "Gôh-Djiboua",
+      "latitude": 5.3544,
+      "longitude": -5.1697,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gazahio",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.2441,
+      "longitude": -6.3546,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gbonkaha",
+      "province": "登盖莱区",
+      "latitude": 9.1169,
+      "longitude": -6.8967,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Tonho",
+      "province": "萨瓦内区",
+      "latitude": 9.9024,
+      "longitude": -5.7285,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Groguida",
+      "province": "潟湖区",
+      "latitude": 5.1325,
+      "longitude": -5.0855,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kiramissé",
+      "province": "赞赞区",
+      "latitude": 8.2218,
+      "longitude": -3.4467,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Zokoguhé-Didéguhé",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.0676,
+      "longitude": -6.459,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Aouabo",
+      "province": "潟湖区",
+      "latitude": 6.2396,
+      "longitude": -3.7922,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Nané",
+      "province": "Montagnes",
+      "latitude": 7.6876,
+      "longitude": -7.1868,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Djidji",
+      "province": "Gôh-Djiboua",
+      "latitude": 6.154,
+      "longitude": -5.6933,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Bandoli",
+      "province": "赞赞区",
+      "latitude": 8.5923,
+      "longitude": -2.7081,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Dananon",
+      "province": "Sassandra-Marahoué",
+      "latitude": 7.6107,
+      "longitude": -6.3633,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Kiémou",
+      "province": "萨瓦内区",
+      "latitude": 9.0605,
+      "longitude": -5.5498,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Béinleu",
+      "province": "Montagnes",
+      "latitude": 7.2284,
+      "longitude": -7.8826,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Assikoun",
+      "province": "潟湖区",
+      "latitude": 6.4175,
+      "longitude": -3.8831,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Babien",
+      "province": "Woroba",
+      "latitude": 7.9534,
+      "longitude": -6.8705,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Gréikro",
+      "province": "Montagnes",
+      "latitude": 6.8169,
+      "longitude": -7.0586,
+      "timezone": "Africa/Abidjan"
+    },
+    {
+      "name": "",
+      "name_en": "Nanbonkaha",
+      "province": "萨瓦内区",
+      "latitude": 9.7407,
+      "longitude": -5.1587,
+      "timezone": "Africa/Abidjan"
+    }
+  ]
+}

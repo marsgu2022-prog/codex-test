@@ -1,0 +1,262 @@
+{
+  "country_code": "GA",
+  "country_name": "加蓬",
+  "cities": [
+    {
+      "name": "利伯维尔",
+      "name_en": "Libreville",
+      "province": "河口省",
+      "latitude": 0.3924,
+      "longitude": 9.4536,
+      "timezone": "Africa/Libreville"
+    },
+    {
+      "name": "让蒂尔港",
+      "name_en": "Port-Gentil",
+      "province": "滨海奥果韦省",
+      "latitude": -0.7193,
+      "longitude": 8.7815,
+      "timezone": "Africa/Libreville"
+    },
+    {
+      "name": "弗朗斯维尔",
+      "name_en": "Franceville",
+      "province": "上奥果韦省",
+      "latitude": -1.6333,
+      "longitude": 13.5836,
+      "timezone": "Africa/Libreville"
+    },
+    {
+      "name": "",
+      "name_en": "Owendo",
+      "province": "河口省",
+      "latitude": 0.2912,
+      "longitude": 9.5046,
+      "timezone": "Africa/Libreville"
+    },
+    {
+      "name": "",
+      "name_en": "Oyem",
+      "province": "沃勒-恩特姆省",
+      "latitude": 1.5995,
+      "longitude": 11.5793,
+      "timezone": "Africa/Libreville"
+    },
+    {
+      "name": "莫安达",
+      "name_en": "Moanda",
+      "province": "上奥果韦省",
+      "latitude": -1.5665,
+      "longitude": 13.1987,
+      "timezone": "Africa/Libreville"
+    },
+    {
+      "name": "",
+      "name_en": "Ntoum",
+      "province": "河口省",
+      "latitude": 0.3905,
+      "longitude": 9.761,
+      "timezone": "Africa/Libreville"
+    },
+    {
+      "name": "兰巴雷内",
+      "name_en": "Lambaréné",
+      "province": "中奥果韦省",
+      "latitude": -0.7001,
+      "longitude": 10.2406,
+      "timezone": "Africa/Libreville"
+    },
+    {
+      "name": "",
+      "name_en": "Mouila",
+      "province": "Ngouni",
+      "latitude": -1.8685,
+      "longitude": 11.0559,
+      "timezone": "Africa/Libreville"
+    },
+    {
+      "name": "",
+      "name_en": "Akanda",
+      "province": "河口省",
+      "latitude": 0.6073,
+      "longitude": 9.3293,
+      "timezone": "Africa/Libreville"
+    },
+    {
+      "name": "",
+      "name_en": "Tchibanga",
+      "province": "尼扬加省",
+      "latitude": -2.9332,
+      "longitude": 10.9818,
+      "timezone": "Africa/Libreville"
+    },
+    {
+      "name": "",
+      "name_en": "Bitam",
+      "province": "沃勒-恩特姆省",
+      "latitude": 2.076,
+      "longitude": 11.5007,
+      "timezone": "Africa/Libreville"
+    },
+    {
+      "name": "",
+      "name_en": "Koulamoutou",
+      "province": "Ogooué-Lolo",
+      "latitude": -1.1367,
+      "longitude": 12.464,
+      "timezone": "Africa/Libreville"
+    },
+    {
+      "name": "",
+      "name_en": "Oyam",
+      "province": "中奥果韦省",
+      "latitude": -0.2,
+      "longitude": 10.6833,
+      "timezone": "Africa/Libreville"
+    },
+    {
+      "name": "",
+      "name_en": "Makokou",
+      "province": "奥果韦-伊温多省",
+      "latitude": 0.5738,
+      "longitude": 12.8642,
+      "timezone": "Africa/Libreville"
+    },
+    {
+      "name": "",
+      "name_en": "Lastoursville",
+      "province": "Ogooué-Lolo",
+      "latitude": -0.8174,
+      "longitude": 12.7082,
+      "timezone": "Africa/Libreville"
+    },
+    {
+      "name": "",
+      "name_en": "Tsogni",
+      "province": "尼扬加省",
+      "latitude": -2.8037,
+      "longitude": 10.1606,
+      "timezone": "Africa/Libreville"
+    },
+    {
+      "name": "",
+      "name_en": "Okondja",
+      "province": "上奥果韦省",
+      "latitude": -0.6549,
+      "longitude": 13.6753,
+      "timezone": "Africa/Libreville"
+    },
+    {
+      "name": "",
+      "name_en": "Gamba",
+      "province": "滨海奥果韦省",
+      "latitude": -2.65,
+      "longitude": 10.0,
+      "timezone": "Africa/Libreville"
+    },
+    {
+      "name": "",
+      "name_en": "Mitzic",
+      "province": "沃勒-恩特姆省",
+      "latitude": 0.7821,
+      "longitude": 11.549,
+      "timezone": "Africa/Libreville"
+    },
+    {
+      "name": "",
+      "name_en": "Lébamba",
+      "province": "Ngouni",
+      "latitude": -2.2121,
+      "longitude": 11.4698,
+      "timezone": "Africa/Libreville"
+    },
+    {
+      "name": "",
+      "name_en": "Lékoni",
+      "province": "上奥果韦省",
+      "latitude": -1.5843,
+      "longitude": 14.2591,
+      "timezone": "Africa/Libreville"
+    },
+    {
+      "name": "",
+      "name_en": "Mounana",
+      "province": "上奥果韦省",
+      "latitude": -1.4085,
+      "longitude": 13.1586,
+      "timezone": "Africa/Libreville"
+    },
+    {
+      "name": "",
+      "name_en": "Fougamou",
+      "province": "Ngouni",
+      "latitude": -1.2154,
+      "longitude": 10.5838,
+      "timezone": "Africa/Libreville"
+    },
+    {
+      "name": "",
+      "name_en": "Ndjolé",
+      "province": "中奥果韦省",
+      "latitude": -0.1783,
+      "longitude": 10.7649,
+      "timezone": "Africa/Libreville"
+    },
+    {
+      "name": "",
+      "name_en": "Akiéni",
+      "province": "上奥果韦省",
+      "latitude": -1.1745,
+      "longitude": 13.8756,
+      "timezone": "Africa/Libreville"
+    },
+    {
+      "name": "",
+      "name_en": "Mékambo",
+      "province": "奥果韦-伊温多省",
+      "latitude": 1.0065,
+      "longitude": 13.9594,
+      "timezone": "Africa/Libreville"
+    },
+    {
+      "name": "",
+      "name_en": "Booué",
+      "province": "奥果韦-伊温多省",
+      "latitude": -0.0921,
+      "longitude": 11.9385,
+      "timezone": "Africa/Libreville"
+    },
+    {
+      "name": "",
+      "name_en": "Ndendé",
+      "province": "Ngouni",
+      "latitude": -2.4008,
+      "longitude": 11.3581,
+      "timezone": "Africa/Libreville"
+    },
+    {
+      "name": "",
+      "name_en": "Mbigou",
+      "province": "Ngouni",
+      "latitude": -1.9005,
+      "longitude": 11.906,
+      "timezone": "Africa/Libreville"
+    },
+    {
+      "name": "",
+      "name_en": "Mayumba",
+      "province": "尼扬加省",
+      "latitude": -3.432,
+      "longitude": 10.6554,
+      "timezone": "Africa/Libreville"
+    },
+    {
+      "name": "",
+      "name_en": "Kango",
+      "province": "河口省",
+      "latitude": 0.1718,
+      "longitude": 10.109,
+      "timezone": "Africa/Libreville"
+    }
+  ]
+}

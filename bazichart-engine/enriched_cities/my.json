@@ -1,0 +1,4246 @@
+{
+  "country_code": "MY",
+  "country_name": "马来西亚",
+  "cities": [
+    {
+      "name": "吉隆坡",
+      "name_en": "Kuala Lumpur",
+      "province": "Kuala Lumpur",
+      "latitude": 3.1412,
+      "longitude": 101.6865,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "新山",
+      "name_en": "Johor Bahru",
+      "province": "柔佛州",
+      "latitude": 1.4655,
+      "longitude": 103.7578,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Baru Subang",
+      "province": "雪兰莪",
+      "latitude": 3.15,
+      "longitude": 101.5333,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "八打灵再也",
+      "name_en": "Petaling Jaya",
+      "province": "雪兰莪",
+      "latitude": 3.1073,
+      "longitude": 101.6067,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "怡保",
+      "name_en": "Ipoh",
+      "province": "霹雳州",
+      "latitude": 4.5841,
+      "longitude": 101.0829,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "莎阿南",
+      "name_en": "Shah Alam",
+      "province": "雪兰莪",
+      "latitude": 3.0851,
+      "longitude": 101.5328,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "梳邦再也",
+      "name_en": "Subang Jaya",
+      "province": "雪兰莪",
+      "latitude": 3.0438,
+      "longitude": 101.5806,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bukit Rahman Putra",
+      "province": "雪兰莪",
+      "latitude": 3.2173,
+      "longitude": 101.5608,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Pelentong",
+      "province": "柔佛州",
+      "latitude": 1.5243,
+      "longitude": 103.824,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "马六甲",
+      "name_en": "Malacca",
+      "province": "Melaka",
+      "latitude": 2.196,
+      "longitude": 102.2405,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "依斯干达公主城",
+      "name_en": "Iskandar Puteri",
+      "province": "柔佛州",
+      "latitude": 1.3932,
+      "longitude": 103.6232,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "哥打巴鲁",
+      "name_en": "Kota Bharu",
+      "province": "吉兰丹",
+      "latitude": 6.1236,
+      "longitude": 102.2433,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "关丹",
+      "name_en": "Kuantan",
+      "province": "彭亨",
+      "latitude": 3.8077,
+      "longitude": 103.326,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kota Kuala Muda",
+      "province": "吉打",
+      "latitude": 5.5882,
+      "longitude": 100.3709,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Sungai Petani",
+      "province": "吉打",
+      "latitude": 5.647,
+      "longitude": 100.4877,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Selayang Baru Utara",
+      "province": "雪兰莪",
+      "latitude": 3.2549,
+      "longitude": 101.6668,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "巴西古当",
+      "name_en": "Pasir Gudang",
+      "province": "柔佛州",
+      "latitude": 1.462,
+      "longitude": 103.9053,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "蒲来",
+      "name_en": "Mukim Pulai",
+      "province": "柔佛州",
+      "latitude": 1.5333,
+      "longitude": 103.6667,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "亚庇",
+      "name_en": "Kota Kinabalu",
+      "province": "沙巴州",
+      "latitude": 5.9749,
+      "longitude": 116.0724,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Larkin Lama",
+      "province": "柔佛州",
+      "latitude": 1.5024,
+      "longitude": 103.744,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kota Damansara",
+      "province": "雪兰莪",
+      "latitude": 3.1545,
+      "longitude": 101.5802,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "山打根",
+      "name_en": "Sandakan",
+      "province": "沙巴州",
+      "latitude": 5.8402,
+      "longitude": 118.1179,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "瓜拉登嘉楼",
+      "name_en": "Kuala Terengganu",
+      "province": "登嘉楼",
+      "latitude": 5.3302,
+      "longitude": 103.1408,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Taman Petaling",
+      "province": "Kuala Lumpur",
+      "latitude": 3.1992,
+      "longitude": 101.6498,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "亚罗士打",
+      "name_en": "Alor Setar",
+      "province": "吉打",
+      "latitude": 6.121,
+      "longitude": 100.3601,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Kangkar Teberau",
+      "province": "柔佛州",
+      "latitude": 1.532,
+      "longitude": 103.7549,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "古晋",
+      "name_en": "Kuching",
+      "province": "砂拉越",
+      "latitude": 1.55,
+      "longitude": 110.3333,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Puchong",
+      "province": "雪兰莪",
+      "latitude": 3.0,
+      "longitude": 101.6167,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "花城",
+      "name_en": "Seremban",
+      "province": "森美兰",
+      "latitude": 2.7297,
+      "longitude": 101.9381,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "斗湖",
+      "name_en": "Tawau",
+      "province": "沙巴州",
+      "latitude": 4.2448,
+      "longitude": 117.8911,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Setapak",
+      "province": "雪兰莪",
+      "latitude": 3.207,
+      "longitude": 101.727,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kluang",
+      "province": "柔佛州",
+      "latitude": 2.0305,
+      "longitude": 103.3169,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "麻坡",
+      "name_en": "Muar",
+      "province": "柔佛州",
+      "latitude": 2.0442,
+      "longitude": 102.5689,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "美里",
+      "name_en": "Miri",
+      "province": "砂拉越",
+      "latitude": 4.3993,
+      "longitude": 113.9916,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "加埔区",
+      "name_en": "Kapar",
+      "province": "雪兰莪",
+      "latitude": 3.1333,
+      "longitude": 101.3833,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Batu Caves",
+      "province": "雪兰莪",
+      "latitude": 3.238,
+      "longitude": 101.682,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "巴生市",
+      "name_en": "Klang",
+      "province": "雪兰莪",
+      "latitude": 3.0367,
+      "longitude": 101.4433,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "加影",
+      "name_en": "Kajang",
+      "province": "雪兰莪",
+      "latitude": 2.9942,
+      "longitude": 101.7887,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "安顺",
+      "name_en": "Teluk Intan",
+      "province": "霹雳州",
+      "latitude": 4.0222,
+      "longitude": 101.0208,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampong Baharu Cheras Batu Sebelas",
+      "province": "雪兰莪",
+      "latitude": 3.05,
+      "longitude": 101.7667,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Pasir Mas",
+      "province": "吉兰丹",
+      "latitude": 6.0493,
+      "longitude": 102.1399,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "垄尾",
+      "name_en": "Paya Terubong",
+      "province": "槟城",
+      "latitude": 5.3728,
+      "longitude": 100.2797,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Sungai Buloh",
+      "province": "雪兰莪",
+      "latitude": 3.21,
+      "longitude": 101.561,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bandar Seri Alam",
+      "province": "柔佛州",
+      "latitude": 1.5043,
+      "longitude": 103.8752,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "太平",
+      "name_en": "Taiping",
+      "province": "霹雳州",
+      "latitude": 4.85,
+      "longitude": 100.7333,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Wangsa Maju",
+      "province": "Kuala Lumpur",
+      "latitude": 3.2006,
+      "longitude": 101.7397,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "大山脚",
+      "name_en": "Bukit Mertajam",
+      "province": "槟城",
+      "latitude": 5.363,
+      "longitude": 100.4667,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "雪邦",
+      "name_en": "Sepang",
+      "province": "雪兰莪",
+      "latitude": 2.6931,
+      "longitude": 101.7498,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bandar Sunway",
+      "province": "雪兰莪",
+      "latitude": 3.0693,
+      "longitude": 101.6074,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bandar Utama",
+      "province": "Kuala Lumpur",
+      "latitude": 3.1482,
+      "longitude": 101.6141,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bukit Jalil",
+      "province": "Kuala Lumpur",
+      "latitude": 3.0491,
+      "longitude": 101.6804,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "万挠",
+      "name_en": "Rawang",
+      "province": "雪兰莪",
+      "latitude": 3.3213,
+      "longitude": 101.5767,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "诗巫",
+      "name_en": "Sibu",
+      "province": "砂拉越",
+      "latitude": 2.3,
+      "longitude": 111.8167,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "新古毛",
+      "name_en": "Kuala Kubu Baharu",
+      "province": "雪兰莪",
+      "latitude": 3.5638,
+      "longitude": 101.6581,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kulim",
+      "province": "吉打",
+      "latitude": 5.365,
+      "longitude": 100.5618,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Skudai",
+      "province": "柔佛州",
+      "latitude": 1.5374,
+      "longitude": 103.6578,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "乔治市",
+      "name_en": "George Town",
+      "province": "槟城",
+      "latitude": 5.4112,
+      "longitude": 100.3354,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Batu Pahat",
+      "province": "柔佛州",
+      "latitude": 1.8548,
+      "longitude": 102.9325,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Sitiawan",
+      "province": "霹雳州",
+      "latitude": 4.2168,
+      "longitude": 100.6996,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "民都鲁",
+      "name_en": "Bintulu",
+      "province": "砂拉越",
+      "latitude": 3.1667,
+      "longitude": 113.0333,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Bandar Tasik Puteri",
+      "province": "雪兰莪",
+      "latitude": 3.2853,
+      "longitude": 101.4741,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bercham",
+      "province": "霹雳州",
+      "latitude": 4.6411,
+      "longitude": 101.1393,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Setia Alam",
+      "province": "雪兰莪",
+      "latitude": 3.1016,
+      "longitude": 101.4557,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bandar Bukit Raja",
+      "province": "雪兰莪",
+      "latitude": 3.0874,
+      "longitude": 101.4334,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Pasir Gudang Baru",
+      "province": "柔佛州",
+      "latitude": 1.4726,
+      "longitude": 103.878,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Sungai Glugur",
+      "province": "槟城",
+      "latitude": 5.3697,
+      "longitude": 100.3135,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Masai",
+      "province": "柔佛州",
+      "latitude": 1.4907,
+      "longitude": 103.8788,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Sungai Ara",
+      "province": "槟城",
+      "latitude": 5.327,
+      "longitude": 100.2735,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Pasir Puteh",
+      "province": "吉兰丹",
+      "latitude": 5.8333,
+      "longitude": 102.4,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "蕉赖",
+      "name_en": "Cheras",
+      "province": "雪兰莪",
+      "latitude": 3.05,
+      "longitude": 101.7667,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "打昔牛汝莪",
+      "name_en": "Tasek Glugor",
+      "province": "槟城",
+      "latitude": 5.4803,
+      "longitude": 100.4985,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bayan Lepas",
+      "province": "槟城",
+      "latitude": 5.2999,
+      "longitude": 100.2605,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Seri Kembangan",
+      "province": "雪兰莪",
+      "latitude": 3.0333,
+      "longitude": 101.7167,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "安邦",
+      "name_en": "Ampang",
+      "province": "Kuala Lumpur",
+      "latitude": 3.15,
+      "longitude": 101.7667,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Titiwangsa",
+      "province": "Kuala Lumpur",
+      "latitude": 3.1782,
+      "longitude": 101.7031,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bukit Bintang",
+      "province": "Kuala Lumpur",
+      "latitude": 3.1466,
+      "longitude": 101.7102,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Port Dickson",
+      "province": "森美兰",
+      "latitude": 2.5246,
+      "longitude": 101.7965,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Maran",
+      "province": "彭亨",
+      "latitude": 3.586,
+      "longitude": 102.773,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "北海槟城",
+      "name_en": "Butterworth",
+      "province": "槟城",
+      "latitude": 5.3991,
+      "longitude": 100.3638,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "拿笃",
+      "name_en": "Lahad Datu",
+      "province": "沙巴州",
+      "latitude": 5.023,
+      "longitude": 118.329,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Kuala Krai",
+      "province": "吉兰丹",
+      "latitude": 5.5313,
+      "longitude": 102.1993,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Perling",
+      "province": "柔佛州",
+      "latitude": 1.4806,
+      "longitude": 103.6838,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Ijok",
+      "province": "雪兰莪",
+      "latitude": 3.3167,
+      "longitude": 101.4,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bandar Mahkota Cheras",
+      "province": "雪兰莪",
+      "latitude": 3.0542,
+      "longitude": 101.7984,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Sentul",
+      "province": "Kuala Lumpur",
+      "latitude": 3.1833,
+      "longitude": 101.6833,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "斯里曼绒",
+      "name_en": "Seri Manjung",
+      "province": "霹雳州",
+      "latitude": 4.1987,
+      "longitude": 100.67,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Taman Melawati",
+      "province": "雪兰莪",
+      "latitude": 3.2108,
+      "longitude": 101.7482,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Pagoh",
+      "province": "柔佛州",
+      "latitude": 2.1495,
+      "longitude": 102.7704,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "纳闽",
+      "name_en": "Labuan",
+      "province": "Labuan",
+      "latitude": 5.2803,
+      "longitude": 115.2475,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "本同",
+      "name_en": "Pendang",
+      "province": "吉打",
+      "latitude": 5.9952,
+      "longitude": 100.4788,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bandar Kinrara",
+      "province": "雪兰莪",
+      "latitude": 3.0493,
+      "longitude": 101.6415,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "瓜拉尼鲁斯县",
+      "name_en": "Kuala Nerus",
+      "province": "登嘉楼",
+      "latitude": 5.3729,
+      "longitude": 103.0205,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "士毛月",
+      "name_en": "Semenyih",
+      "province": "雪兰莪",
+      "latitude": 2.9516,
+      "longitude": 101.843,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Marudi",
+      "province": "砂拉越",
+      "latitude": 4.1833,
+      "longitude": 114.3167,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "华都村",
+      "name_en": "Val Dor",
+      "province": "槟城",
+      "latitude": 5.252,
+      "longitude": 100.4905,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "万锐",
+      "name_en": "Kampung Manjoi",
+      "province": "霹雳州",
+      "latitude": 4.6192,
+      "longitude": 101.0685,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kepong",
+      "province": "Kuala Lumpur",
+      "latitude": 3.214,
+      "longitude": 101.6402,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Damansara Damai",
+      "province": "雪兰莪",
+      "latitude": 3.1989,
+      "longitude": 101.5918,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Sungai Kajang",
+      "province": "雪兰莪",
+      "latitude": 3.4161,
+      "longitude": 101.173,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Cukai",
+      "province": "登嘉楼",
+      "latitude": 4.25,
+      "longitude": 103.4167,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Parit Sulung",
+      "province": "柔佛州",
+      "latitude": 1.976,
+      "longitude": 102.8835,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "赛城",
+      "name_en": "Cyberjaya",
+      "province": "雪兰莪",
+      "latitude": 2.9228,
+      "longitude": 101.6572,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Putatan",
+      "province": "沙巴州",
+      "latitude": 5.9258,
+      "longitude": 116.0609,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "东贡岸",
+      "name_en": "Donggongon",
+      "province": "沙巴州",
+      "latitude": 5.907,
+      "longitude": 116.1015,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "根地咬",
+      "name_en": "Keningau",
+      "province": "沙巴州",
+      "latitude": 5.3378,
+      "longitude": 116.1602,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "乌鲁地南",
+      "name_en": "Ulu Tiram",
+      "province": "柔佛州",
+      "latitude": 1.6,
+      "longitude": 103.8167,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "士乃",
+      "name_en": "Taman Senai",
+      "province": "柔佛州",
+      "latitude": 1.6006,
+      "longitude": 103.6419,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bandar Saujana Utama",
+      "province": "雪兰莪",
+      "latitude": 3.2066,
+      "longitude": 101.4773,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Serendah",
+      "province": "雪兰莪",
+      "latitude": 3.3646,
+      "longitude": 101.6041,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Segamat",
+      "province": "柔佛州",
+      "latitude": 2.5148,
+      "longitude": 102.8158,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Baru Balakong",
+      "province": "雪兰莪",
+      "latitude": 3.0294,
+      "longitude": 101.7471,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Yan Besar",
+      "province": "吉打",
+      "latitude": 5.7989,
+      "longitude": 100.3726,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Tanjong Malim",
+      "province": "霹雳州",
+      "latitude": 3.681,
+      "longitude": 101.5198,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "柔佛再也",
+      "name_en": "Johor Jaya",
+      "province": "柔佛州",
+      "latitude": 1.5392,
+      "longitude": 103.8092,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Perai",
+      "province": "槟城",
+      "latitude": 5.3833,
+      "longitude": 100.3833,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Taman Senawang Indah",
+      "province": "森美兰",
+      "latitude": 2.691,
+      "longitude": 101.989,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Gelang Patah",
+      "province": "柔佛州",
+      "latitude": 1.4484,
+      "longitude": 103.5873,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "加央",
+      "name_en": "Kangar",
+      "province": "玻璃市",
+      "latitude": 6.4414,
+      "longitude": 100.1986,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kulai",
+      "province": "柔佛州",
+      "latitude": 1.6561,
+      "longitude": 103.6032,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Jelutong",
+      "province": "槟城",
+      "latitude": 5.39,
+      "longitude": 100.3188,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "日得拉",
+      "name_en": "Jitra",
+      "province": "吉打",
+      "latitude": 6.2681,
+      "longitude": 100.4217,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "仙本那",
+      "name_en": "Semporna",
+      "province": "沙巴州",
+      "latitude": 4.4818,
+      "longitude": 118.6112,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Kempas",
+      "province": "柔佛州",
+      "latitude": 1.5489,
+      "longitude": 103.6965,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Seremban 2",
+      "province": "森美兰",
+      "latitude": 2.6898,
+      "longitude": 101.9077,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Parit",
+      "province": "霹雳州",
+      "latitude": 4.4833,
+      "longitude": 100.9167,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "西塘",
+      "name_en": "Kampong Sidam",
+      "province": "吉打",
+      "latitude": 5.5333,
+      "longitude": 100.5667,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Setia Tropika",
+      "province": "柔佛州",
+      "latitude": 1.5463,
+      "longitude": 103.7183,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Ara Damansara",
+      "province": "雪兰莪",
+      "latitude": 3.119,
+      "longitude": 101.5866,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bukit Indah",
+      "province": "柔佛州",
+      "latitude": 1.48,
+      "longitude": 103.6596,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Putra Heights",
+      "province": "雪兰莪",
+      "latitude": 2.9936,
+      "longitude": 101.5726,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Temerluh",
+      "province": "彭亨",
+      "latitude": 3.4506,
+      "longitude": 102.4176,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Simpang Renggam",
+      "province": "柔佛州",
+      "latitude": 1.825,
+      "longitude": 103.3107,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampong Dungun",
+      "province": "霹雳州",
+      "latitude": 3.2167,
+      "longitude": 101.3167,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Serian",
+      "province": "砂拉越",
+      "latitude": 1.1667,
+      "longitude": 110.5667,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "十字港",
+      "name_en": "Simpang Empat",
+      "province": "霹雳州",
+      "latitude": 4.95,
+      "longitude": 100.6333,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kuala Selangor",
+      "province": "雪兰莪",
+      "latitude": 3.35,
+      "longitude": 101.25,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Bukit Baharu",
+      "province": "Melaka",
+      "latitude": 2.2152,
+      "longitude": 102.2851,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Hulu Langat",
+      "province": "雪兰莪",
+      "latitude": 3.1137,
+      "longitude": 101.8142,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bandar Labuan",
+      "province": "沙巴州",
+      "latitude": 5.2832,
+      "longitude": 115.2537,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "武吉丁雅",
+      "name_en": "Bukit Tengah",
+      "province": "槟城",
+      "latitude": 5.346,
+      "longitude": 100.4392,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Pandamaran",
+      "province": "雪兰莪",
+      "latitude": 3.0108,
+      "longitude": 101.4208,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kota Tinggi",
+      "province": "柔佛州",
+      "latitude": 1.7381,
+      "longitude": 103.8999,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bau",
+      "province": "砂拉越",
+      "latitude": 1.4167,
+      "longitude": 110.15,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Padang Serai",
+      "province": "吉打",
+      "latitude": 5.5131,
+      "longitude": 100.5536,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kuchai Lama",
+      "province": "Kuala Lumpur",
+      "latitude": 3.0847,
+      "longitude": 101.6909,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Putrajaya",
+      "province": "布城",
+      "latitude": 2.9353,
+      "longitude": 101.6911,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Sri Petaling",
+      "province": "Kuala Lumpur",
+      "latitude": 3.0688,
+      "longitude": 101.6897,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Taman Melati",
+      "province": "Kuala Lumpur",
+      "latitude": 3.2212,
+      "longitude": 101.7232,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bentong Town",
+      "province": "彭亨",
+      "latitude": 3.5223,
+      "longitude": 101.9087,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "直落邦里玛嘉朗",
+      "name_en": "Teluk Panglima Garang",
+      "province": "雪兰莪",
+      "latitude": 2.908,
+      "longitude": 101.4688,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Sungai Siput",
+      "province": "霹雳州",
+      "latitude": 4.3945,
+      "longitude": 101.1947,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Niah",
+      "province": "砂拉越",
+      "latitude": 3.862,
+      "longitude": 113.7152,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Bandar Sri Damansara",
+      "province": "雪兰莪",
+      "latitude": 3.1903,
+      "longitude": 101.6106,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Banting",
+      "province": "雪兰莪",
+      "latitude": 2.8136,
+      "longitude": 101.5019,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bedong",
+      "province": "吉打",
+      "latitude": 5.7274,
+      "longitude": 100.5088,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Sri Aman",
+      "province": "砂拉越",
+      "latitude": 1.2472,
+      "longitude": 111.4528,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Batu Gajah",
+      "province": "霹雳州",
+      "latitude": 4.4692,
+      "longitude": 101.0411,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "万宜",
+      "name_en": "Bangi",
+      "province": "雪兰莪",
+      "latitude": 2.9,
+      "longitude": 101.7833,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Elmina",
+      "province": "雪兰莪",
+      "latitude": 3.1852,
+      "longitude": 101.5246,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Taman Permas Jaya",
+      "province": "柔佛州",
+      "latitude": 1.511,
+      "longitude": 103.8198,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Perak",
+      "province": "彭亨",
+      "latitude": 3.8682,
+      "longitude": 102.5862,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bandar Baharu",
+      "province": "吉打",
+      "latitude": 5.1343,
+      "longitude": 100.4955,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Sarikei",
+      "province": "砂拉越",
+      "latitude": 2.1167,
+      "longitude": 111.5167,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "榴梿洞葛",
+      "name_en": "Durian Tunggal",
+      "province": "Melaka",
+      "latitude": 2.3125,
+      "longitude": 102.2805,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "文德甲",
+      "name_en": "Mentakab",
+      "province": "彭亨",
+      "latitude": 3.4854,
+      "longitude": 102.3484,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Rompin",
+      "province": "森美兰",
+      "latitude": 2.7083,
+      "longitude": 102.5047,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Taman Greenwood",
+      "province": "雪兰莪",
+      "latitude": 3.2321,
+      "longitude": 101.7048,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "笨珍",
+      "name_en": "Pontian Besar",
+      "province": "柔佛州",
+      "latitude": 1.5059,
+      "longitude": 103.3816,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bentung",
+      "province": "彭亨",
+      "latitude": 3.5316,
+      "longitude": 101.9038,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "高渊",
+      "name_en": "Nibong Tebal",
+      "province": "槟城",
+      "latitude": 5.1659,
+      "longitude": 100.4779,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "劳勿",
+      "name_en": "Raub",
+      "province": "彭亨",
+      "latitude": 3.7899,
+      "longitude": 101.857,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bandar Tun Hussein Onn",
+      "province": "雪兰莪",
+      "latitude": 3.0547,
+      "longitude": 101.7594,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bangsar",
+      "province": "Kuala Lumpur",
+      "latitude": 3.1294,
+      "longitude": 101.67,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bukit Gambir",
+      "province": "柔佛州",
+      "latitude": 2.211,
+      "longitude": 102.6546,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Taman Sri Sinar",
+      "province": "Kuala Lumpur",
+      "latitude": 3.1868,
+      "longitude": 101.6509,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampong Pangkal Kalong",
+      "province": "吉兰丹",
+      "latitude": 5.9167,
+      "longitude": 102.2167,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Lumut",
+      "province": "霹雳州",
+      "latitude": 4.2323,
+      "longitude": 100.6298,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "瓜拉江沙",
+      "name_en": "Kuala Kangsar",
+      "province": "霹雳州",
+      "latitude": 4.7667,
+      "longitude": 100.9333,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "实必丹",
+      "name_en": "Sipitang",
+      "province": "沙巴州",
+      "latitude": 5.079,
+      "longitude": 115.5496,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Bandar Country Homes",
+      "province": "雪兰莪",
+      "latitude": 3.3275,
+      "longitude": 101.5311,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Setia",
+      "province": "雪兰莪",
+      "latitude": 3.2418,
+      "longitude": 101.533,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Klebang Besar",
+      "province": "Melaka",
+      "latitude": 2.2186,
+      "longitude": 102.1995,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "汝来",
+      "name_en": "Kampung Baharu Nilai",
+      "province": "森美兰",
+      "latitude": 2.8033,
+      "longitude": 101.7972,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "硝山",
+      "name_en": "Padang Rengas",
+      "province": "霹雳州",
+      "latitude": 4.7667,
+      "longitude": 100.85,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "亚罗孟古都",
+      "name_en": "Kampung Alor Mengkudu",
+      "province": "吉打",
+      "latitude": 6.0884,
+      "longitude": 100.3917,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Limbang",
+      "province": "砂拉越",
+      "latitude": 4.7548,
+      "longitude": 115.0101,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Ayer Keroh",
+      "province": "Melaka",
+      "latitude": 2.2654,
+      "longitude": 102.2801,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Taman Tun Dr Ismail",
+      "province": "Kuala Lumpur",
+      "latitude": 3.1451,
+      "longitude": 101.6262,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Jawi",
+      "province": "槟城",
+      "latitude": 5.2153,
+      "longitude": 100.4921,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "木中",
+      "name_en": "Betong",
+      "province": "砂拉越",
+      "latitude": 1.4,
+      "longitude": 111.5167,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "甘文丁",
+      "name_en": "Kamunting",
+      "province": "霹雳州",
+      "latitude": 4.8833,
+      "longitude": 100.7333,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Petagas",
+      "province": "沙巴州",
+      "latitude": 5.9116,
+      "longitude": 116.0499,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Tangkak",
+      "province": "柔佛州",
+      "latitude": 2.2673,
+      "longitude": 102.5453,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Alam Damai",
+      "province": "Kuala Lumpur",
+      "latitude": 3.0603,
+      "longitude": 101.7408,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bukit Kerinchi",
+      "province": "Kuala Lumpur",
+      "latitude": 3.1063,
+      "longitude": 101.6676,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Denai Alam",
+      "province": "雪兰莪",
+      "latitude": 3.1603,
+      "longitude": 101.515,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Sibu Jaya",
+      "province": "砂拉越",
+      "latitude": 2.2403,
+      "longitude": 111.9714,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Sungai Lalang",
+      "province": "吉打",
+      "latitude": 5.6998,
+      "longitude": 100.5145,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Selama",
+      "province": "霹雳州",
+      "latitude": 5.2236,
+      "longitude": 100.6926,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Dungun",
+      "province": "登嘉楼",
+      "latitude": 3.2167,
+      "longitude": 101.3167,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Jerantut",
+      "province": "彭亨",
+      "latitude": 3.936,
+      "longitude": 102.3626,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Mukah",
+      "province": "砂拉越",
+      "latitude": 2.8944,
+      "longitude": 112.0914,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Gerisek",
+      "province": "柔佛州",
+      "latitude": 2.2097,
+      "longitude": 102.7095,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kapit",
+      "province": "砂拉越",
+      "latitude": 1.9955,
+      "longitude": 112.9325,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "宋溪",
+      "name_en": "Sungkai",
+      "province": "霹雳州",
+      "latitude": 4.0,
+      "longitude": 101.3167,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Sik",
+      "province": "吉打",
+      "latitude": 5.8333,
+      "longitude": 100.75,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kudat",
+      "province": "沙巴州",
+      "latitude": 6.8873,
+      "longitude": 116.8236,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Kawasan Penempatan Ulu Benut Lima",
+      "province": "柔佛州",
+      "latitude": 1.7439,
+      "longitude": 103.3207,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kawasan Penempatan Ulu Benut Tiga",
+      "province": "柔佛州",
+      "latitude": 1.7497,
+      "longitude": 103.277,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kawasan Penempatan Ulu Sungai Benut",
+      "province": "柔佛州",
+      "latitude": 1.7541,
+      "longitude": 103.2798,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Taman Pelangi",
+      "province": "柔佛州",
+      "latitude": 2.428,
+      "longitude": 102.6801,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Kerubong",
+      "province": "Melaka",
+      "latitude": 2.2958,
+      "longitude": 102.2537,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "达岛",
+      "name_en": "Tatau",
+      "province": "砂拉越",
+      "latitude": 2.8833,
+      "longitude": 112.85,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "北根",
+      "name_en": "Pekan",
+      "province": "彭亨",
+      "latitude": 3.4836,
+      "longitude": 103.3996,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bandar Nabawan",
+      "province": "沙巴州",
+      "latitude": 5.0393,
+      "longitude": 116.4274,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Bahau",
+      "province": "森美兰",
+      "latitude": 2.8079,
+      "longitude": 102.4049,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kuala Kurau",
+      "province": "霹雳州",
+      "latitude": 5.0182,
+      "longitude": 100.4282,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "龙城花园",
+      "name_en": "Taman Seremban Jaya",
+      "province": "森美兰",
+      "latitude": 2.6831,
+      "longitude": 101.97,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "宜力",
+      "name_en": "Gerik",
+      "province": "霹雳州",
+      "latitude": 5.4167,
+      "longitude": 101.1333,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Lahat",
+      "province": "霹雳州",
+      "latitude": 4.5388,
+      "longitude": 101.0365,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Mont Kiara",
+      "province": "Kuala Lumpur",
+      "latitude": 3.1687,
+      "longitude": 101.6508,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Chemor",
+      "province": "霹雳州",
+      "latitude": 4.7211,
+      "longitude": 101.1189,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bakri",
+      "province": "柔佛州",
+      "latitude": 2.0441,
+      "longitude": 102.6527,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kuah",
+      "province": "吉打",
+      "latitude": 6.3265,
+      "longitude": 99.8432,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bidur",
+      "province": "霹雳州",
+      "latitude": 4.1167,
+      "longitude": 101.2833,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Taman Scientex",
+      "province": "柔佛州",
+      "latitude": 1.5122,
+      "longitude": 103.9166,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "大学城",
+      "name_en": "Taman Universiti",
+      "province": "柔佛州",
+      "latitude": 1.5331,
+      "longitude": 103.6155,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "多皆",
+      "name_en": "Tokai",
+      "province": "吉打",
+      "latitude": 6.0287,
+      "longitude": 100.4069,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "金马士",
+      "name_en": "Gemas",
+      "province": "森美兰",
+      "latitude": 2.5832,
+      "longitude": 102.6117,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Sebauh",
+      "province": "砂拉越",
+      "latitude": 3.1167,
+      "longitude": 113.2667,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Rembau",
+      "province": "森美兰",
+      "latitude": 2.5897,
+      "longitude": 102.0913,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Tambunan",
+      "province": "沙巴州",
+      "latitude": 5.7167,
+      "longitude": 116.4,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Kampong Masjid Tanah",
+      "province": "Melaka",
+      "latitude": 2.35,
+      "longitude": 102.1167,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Tanah Merah",
+      "province": "吉兰丹",
+      "latitude": 5.8,
+      "longitude": 102.15,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Beluru",
+      "province": "砂拉越",
+      "latitude": 3.9833,
+      "longitude": 114.1,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "半港",
+      "name_en": "Hutan Melintang",
+      "province": "霹雳州",
+      "latitude": 3.8766,
+      "longitude": 100.9328,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Tampin",
+      "province": "森美兰",
+      "latitude": 2.4701,
+      "longitude": 102.2302,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Ulu Kelang",
+      "province": "雪兰莪",
+      "latitude": 3.18,
+      "longitude": 101.773,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Sungai Dua",
+      "province": "槟城",
+      "latitude": 5.4427,
+      "longitude": 100.4297,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "打巴路",
+      "name_en": "Tapah Road",
+      "province": "霹雳州",
+      "latitude": 4.1667,
+      "longitude": 101.2,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Parit Buntar",
+      "province": "霹雳州",
+      "latitude": 5.1267,
+      "longitude": 100.4932,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Siburan",
+      "province": "砂拉越",
+      "latitude": 1.3667,
+      "longitude": 110.4,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Kubang Semang",
+      "province": "槟城",
+      "latitude": 5.4037,
+      "longitude": 100.4574,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Permatang Kuching",
+      "province": "槟城",
+      "latitude": 5.4634,
+      "longitude": 100.3814,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "永平",
+      "name_en": "Yong Peng",
+      "province": "柔佛州",
+      "latitude": 2.0136,
+      "longitude": 103.0659,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "大港",
+      "name_en": "Sungai Besar",
+      "province": "雪兰莪",
+      "latitude": 3.6746,
+      "longitude": 100.9867,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Lundu",
+      "province": "砂拉越",
+      "latitude": 1.6744,
+      "longitude": 109.8517,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Bandar Sri Sendayan",
+      "province": "森美兰",
+      "latitude": 2.6738,
+      "longitude": 101.8721,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "双溪乌浪",
+      "name_en": "Sungai Udang",
+      "province": "Melaka",
+      "latitude": 2.269,
+      "longitude": 102.1427,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "老越",
+      "name_en": "Lawas",
+      "province": "砂拉越",
+      "latitude": 4.8604,
+      "longitude": 115.409,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Taman OUG",
+      "province": "Kuala Lumpur",
+      "latitude": 3.0729,
+      "longitude": 101.6763,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "曾吉容",
+      "name_en": "Cangkat Jong",
+      "province": "霹雳州",
+      "latitude": 3.9851,
+      "longitude": 101.1237,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "SS2",
+      "province": "Kuala Lumpur",
+      "latitude": 3.1204,
+      "longitude": 101.6225,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Tebedu",
+      "province": "砂拉越",
+      "latitude": 1.0266,
+      "longitude": 110.3633,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "峇株安南",
+      "name_en": "Batu Berendam",
+      "province": "Melaka",
+      "latitude": 2.2487,
+      "longitude": 102.246,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bandar Puncak Alam",
+      "province": "雪兰莪",
+      "latitude": 3.2389,
+      "longitude": 101.4279,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Taman Desa",
+      "province": "Kuala Lumpur",
+      "latitude": 3.1059,
+      "longitude": 101.6868,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Jenjarum",
+      "province": "雪兰莪",
+      "latitude": 2.8724,
+      "longitude": 101.4948,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Jelutong Tengah",
+      "province": "柔佛州",
+      "latitude": 1.4714,
+      "longitude": 103.5675,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "加拿逸",
+      "name_en": "Kanowit",
+      "province": "砂拉越",
+      "latitude": 2.1,
+      "longitude": 112.15,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "局茶",
+      "name_en": "Kertih",
+      "province": "登嘉楼",
+      "latitude": 4.5141,
+      "longitude": 103.4483,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "瓜拉班尤",
+      "name_en": "Kuala Penyu",
+      "province": "沙巴州",
+      "latitude": 5.5714,
+      "longitude": 115.5984,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "浮罗山背",
+      "name_en": "Balik Pulau",
+      "province": "槟城",
+      "latitude": 5.3492,
+      "longitude": 100.2394,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Ladang Seri Kundang",
+      "province": "雪兰莪",
+      "latitude": 3.2856,
+      "longitude": 101.519,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Pekan Nenas",
+      "province": "柔佛州",
+      "latitude": 1.51,
+      "longitude": 103.5141,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Peringat",
+      "province": "吉兰丹",
+      "latitude": 6.0333,
+      "longitude": 102.2833,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bandar Tun Razak",
+      "province": "彭亨",
+      "latitude": 2.9029,
+      "longitude": 102.8877,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Tanjung Minyak",
+      "province": "Melaka",
+      "latitude": 2.2666,
+      "longitude": 102.2004,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Simunjan",
+      "province": "砂拉越",
+      "latitude": 1.3833,
+      "longitude": 110.75,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Bukit Tambun",
+      "province": "槟城",
+      "latitude": 5.2718,
+      "longitude": 100.4601,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Batu Arang",
+      "province": "雪兰莪",
+      "latitude": 3.3167,
+      "longitude": 101.4667,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Sedenak",
+      "province": "柔佛州",
+      "latitude": 1.7114,
+      "longitude": 103.5276,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Belaga",
+      "province": "砂拉越",
+      "latitude": 2.7,
+      "longitude": 113.7833,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Tanjung Sepat",
+      "province": "雪兰莪",
+      "latitude": 2.6579,
+      "longitude": 101.5629,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Batu Kurau",
+      "province": "霹雳州",
+      "latitude": 4.9667,
+      "longitude": 100.8,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Mersing",
+      "province": "柔佛州",
+      "latitude": 2.4312,
+      "longitude": 103.8405,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Batu Anam",
+      "province": "柔佛州",
+      "latitude": 2.5825,
+      "longitude": 102.711,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Labis",
+      "province": "柔佛州",
+      "latitude": 2.385,
+      "longitude": 103.021,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Batu Empat",
+      "province": "柔佛州",
+      "latitude": 1.776,
+      "longitude": 103.8736,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bandar Baru Salak Tinggi",
+      "province": "雪兰莪",
+      "latitude": 2.8123,
+      "longitude": 101.7356,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Teluk Kumbar",
+      "province": "槟城",
+      "latitude": 5.289,
+      "longitude": 100.247,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Marang",
+      "province": "登嘉楼",
+      "latitude": 5.2056,
+      "longitude": 103.2059,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kuang",
+      "province": "雪兰莪",
+      "latitude": 3.2594,
+      "longitude": 101.5541,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Dalat",
+      "province": "砂拉越",
+      "latitude": 2.6667,
+      "longitude": 112.0833,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Paka",
+      "province": "登嘉楼",
+      "latitude": 4.6374,
+      "longitude": 103.4368,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bagan Serai",
+      "province": "霹雳州",
+      "latitude": 5.0108,
+      "longitude": 100.541,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Hulu Yam Lama",
+      "province": "雪兰莪",
+      "latitude": 3.4537,
+      "longitude": 101.6413,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Maradong",
+      "province": "砂拉越",
+      "latitude": 2.0833,
+      "longitude": 111.6167,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "亚罗牙也",
+      "name_en": "Alor Gajah",
+      "province": "Melaka",
+      "latitude": 2.3804,
+      "longitude": 102.2089,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bukit Beruntung",
+      "province": "雪兰莪",
+      "latitude": 3.4156,
+      "longitude": 101.5571,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "八丁燕带",
+      "name_en": "Batang Berjuntai",
+      "province": "雪兰莪",
+      "latitude": 3.3833,
+      "longitude": 101.4167,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Batu Feringgi",
+      "province": "槟城",
+      "latitude": 5.4709,
+      "longitude": 100.2453,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Desa Petaling",
+      "province": "Kuala Lumpur",
+      "latitude": 3.0838,
+      "longitude": 101.709,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Hutan Arau",
+      "province": "玻璃市",
+      "latitude": 6.4294,
+      "longitude": 100.2817,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Selang",
+      "province": "柔佛州",
+      "latitude": 2.35,
+      "longitude": 102.876,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Pelabuhan Klang",
+      "province": "雪兰莪",
+      "latitude": 2.9996,
+      "longitude": 101.3929,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Tropicana Indah",
+      "province": "雪兰莪",
+      "latitude": 3.1416,
+      "longitude": 101.5909,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Selangau",
+      "province": "砂拉越",
+      "latitude": 2.5248,
+      "longitude": 112.3254,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Bandar Putra Kulai",
+      "province": "柔佛州",
+      "latitude": 1.6496,
+      "longitude": 103.6266,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Gua Musang",
+      "province": "吉兰丹",
+      "latitude": 4.8844,
+      "longitude": 101.9686,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "士毛月",
+      "name_en": "Seminyih",
+      "province": "雪兰莪",
+      "latitude": 2.9516,
+      "longitude": 101.843,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "波各先那",
+      "name_en": "Pokok Sena",
+      "province": "吉打",
+      "latitude": 6.1706,
+      "longitude": 100.5189,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Sungai Jawi",
+      "province": "槟城",
+      "latitude": 5.1978,
+      "longitude": 100.4924,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kuala Pilah",
+      "province": "森美兰",
+      "latitude": 2.7389,
+      "longitude": 102.2487,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Daro",
+      "province": "砂拉越",
+      "latitude": 2.5169,
+      "longitude": 111.43,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Minyak Beku",
+      "province": "柔佛州",
+      "latitude": 1.7954,
+      "longitude": 102.8971,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Teluk Air Tawar",
+      "province": "槟城",
+      "latitude": 5.4833,
+      "longitude": 100.3833,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Ranau",
+      "province": "沙巴州",
+      "latitude": 5.9538,
+      "longitude": 116.6641,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "吧巴",
+      "name_en": "Papar",
+      "province": "沙巴州",
+      "latitude": 5.7333,
+      "longitude": 115.9333,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Kampong Kadok",
+      "province": "吉兰丹",
+      "latitude": 6.0,
+      "longitude": 102.25,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "吉打港口",
+      "name_en": "Kuala Kedah",
+      "province": "吉打",
+      "latitude": 6.1,
+      "longitude": 100.3,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "瓜拉吉底",
+      "name_en": "Kuala Ketil",
+      "province": "吉打",
+      "latitude": 5.6,
+      "longitude": 100.65,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Cheng",
+      "province": "Melaka",
+      "latitude": 2.2635,
+      "longitude": 102.2179,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kawasan Perindustrian Cheng",
+      "province": "Melaka",
+      "latitude": 2.2618,
+      "longitude": 102.2317,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Pulai",
+      "province": "吉打",
+      "latitude": 1.5333,
+      "longitude": 103.6667,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampar",
+      "province": "霹雳州",
+      "latitude": 4.3,
+      "longitude": 101.15,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "砂拉卓",
+      "name_en": "Saratok",
+      "province": "砂拉越",
+      "latitude": 1.7333,
+      "longitude": 111.3333,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Baru Ulu Melaka",
+      "province": "吉打",
+      "latitude": 6.352,
+      "longitude": 99.7879,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "象隆",
+      "name_en": "Changloon",
+      "province": "吉打",
+      "latitude": 6.4342,
+      "longitude": 100.4313,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Kupang",
+      "province": "吉打",
+      "latitude": 5.6364,
+      "longitude": 100.8452,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Horizon Hills",
+      "province": "柔佛州",
+      "latitude": 1.4577,
+      "longitude": 103.6455,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Relau",
+      "province": "槟城",
+      "latitude": 5.331,
+      "longitude": 100.283,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Glugor",
+      "province": "槟城",
+      "latitude": 5.3697,
+      "longitude": 100.3135,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Merlimau",
+      "province": "Melaka",
+      "latitude": 2.1449,
+      "longitude": 102.4251,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Seputeh",
+      "province": "Kuala Lumpur",
+      "latitude": 3.1167,
+      "longitude": 101.6833,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "FELDA Chini",
+      "province": "彭亨",
+      "latitude": 3.3746,
+      "longitude": 102.9434,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Lunas",
+      "province": "吉打",
+      "latitude": 5.4306,
+      "longitude": 100.5301,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Teloi Kanan",
+      "province": "吉打",
+      "latitude": 5.7168,
+      "longitude": 100.6582,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "日里",
+      "name_en": "Kampung Jeli",
+      "province": "吉兰丹",
+      "latitude": 5.7,
+      "longitude": 101.8333,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Simpang Renggam",
+      "province": "柔佛州",
+      "latitude": 1.8278,
+      "longitude": 103.3,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Parit Raja",
+      "province": "柔佛州",
+      "latitude": 1.8681,
+      "longitude": 103.1124,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bukit Rambai",
+      "province": "Melaka",
+      "latitude": 2.2594,
+      "longitude": 102.1838,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bukit Gemuroh",
+      "province": "槟城",
+      "latitude": 5.2977,
+      "longitude": 100.2115,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "甲抛峇底",
+      "name_en": "Kepala Batas",
+      "province": "槟城",
+      "latitude": 5.5171,
+      "longitude": 100.4265,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Bertam Ulu",
+      "province": "Melaka",
+      "latitude": 2.2898,
+      "longitude": 102.1928,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "华卡峇鲁",
+      "name_en": "Wakaf Baharu",
+      "province": "吉兰丹",
+      "latitude": 6.1167,
+      "longitude": 102.2,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Ayer Itam",
+      "province": "槟城",
+      "latitude": 5.4016,
+      "longitude": 100.2781,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Teluk Kemang",
+      "province": "森美兰",
+      "latitude": 2.4615,
+      "longitude": 101.8595,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Anak Bukit",
+      "province": "吉打",
+      "latitude": 6.184,
+      "longitude": 100.3775,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Desa Parkcity",
+      "province": "Kuala Lumpur",
+      "latitude": 3.1861,
+      "longitude": 101.6287,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "芦骨",
+      "name_en": "Lukut",
+      "province": "森美兰",
+      "latitude": 2.5703,
+      "longitude": 101.833,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Tanjung Karang",
+      "province": "雪兰莪",
+      "latitude": 3.4242,
+      "longitude": 101.1849,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "班台",
+      "name_en": "Pantai Remis",
+      "province": "霹雳州",
+      "latitude": 4.4557,
+      "longitude": 100.6288,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Padang Besar",
+      "province": "吉打",
+      "latitude": 6.3833,
+      "longitude": 100.3,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Machap Baru",
+      "province": "Melaka",
+      "latitude": 2.3829,
+      "longitude": 102.3311,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Gurun",
+      "province": "吉打",
+      "latitude": 5.8172,
+      "longitude": 100.4738,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Beaufort",
+      "province": "沙巴州",
+      "latitude": 5.3473,
+      "longitude": 115.7455,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "京那律",
+      "name_en": "Kinarut",
+      "province": "沙巴州",
+      "latitude": 5.8231,
+      "longitude": 116.0466,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Ayer Molek",
+      "province": "Melaka",
+      "latitude": 2.2139,
+      "longitude": 102.3278,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Pengerang",
+      "province": "柔佛州",
+      "latitude": 1.3651,
+      "longitude": 104.1118,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Pakan",
+      "province": "砂拉越",
+      "latitude": 1.8833,
+      "longitude": 111.6833,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Kuala Lipis",
+      "province": "彭亨",
+      "latitude": 2.7389,
+      "longitude": 102.2487,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "芦楼县",
+      "name_en": "Julau",
+      "province": "砂拉越",
+      "latitude": 2.0167,
+      "longitude": 111.9167,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "东南镇",
+      "name_en": "Bandar Tenggara",
+      "province": "柔佛州",
+      "latitude": 1.87,
+      "longitude": 103.6158,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "英吉利里",
+      "name_en": "Engkilili",
+      "province": "砂拉越",
+      "latitude": 1.1386,
+      "longitude": 111.6667,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Muadzam Shah",
+      "province": "彭亨",
+      "latitude": 3.0627,
+      "longitude": 103.0892,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Pantai Cenang",
+      "province": "吉打",
+      "latitude": 6.2937,
+      "longitude": 99.7279,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Pudu",
+      "province": "Kuala Lumpur",
+      "latitude": 3.1333,
+      "longitude": 101.7167,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Seri Iskandar",
+      "province": "霹雳州",
+      "latitude": 4.3599,
+      "longitude": 100.9849,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Keruh",
+      "province": "霹雳州",
+      "latitude": 5.7167,
+      "longitude": 101.0,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Cherang Ruku",
+      "province": "吉兰丹",
+      "latitude": 5.8706,
+      "longitude": 102.4948,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Padang Endau",
+      "province": "柔佛州",
+      "latitude": 2.6557,
+      "longitude": 103.615,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "朱宾",
+      "name_en": "Kampung Chuping",
+      "province": "玻璃市",
+      "latitude": 6.5013,
+      "longitude": 100.2558,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "望万",
+      "name_en": "Bemban",
+      "province": "Melaka",
+      "latitude": 2.2684,
+      "longitude": 102.3746,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Pusa",
+      "province": "砂拉越",
+      "latitude": 1.5833,
+      "longitude": 111.25,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "丹绒武雅",
+      "name_en": "Tanjung Bungah",
+      "province": "槟城",
+      "latitude": 5.4649,
+      "longitude": 100.2816,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Pengkalan Chepa",
+      "province": "吉兰丹",
+      "latitude": 6.1747,
+      "longitude": 102.288,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "玻璃市港口",
+      "name_en": "Kuala Perlis",
+      "province": "玻璃市",
+      "latitude": 6.4,
+      "longitude": 100.1333,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Sungai Pelek New Village",
+      "province": "雪兰莪",
+      "latitude": 2.65,
+      "longitude": 101.7,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "古纳",
+      "name_en": "Kampung Kunak",
+      "province": "沙巴州",
+      "latitude": 4.6858,
+      "longitude": 118.2491,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "莪占必叻",
+      "name_en": "Guar Chempedak",
+      "province": "吉打",
+      "latitude": 5.8585,
+      "longitude": 100.4593,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bagan Datuk",
+      "province": "霹雳州",
+      "latitude": 3.9899,
+      "longitude": 100.7819,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bagan Tiang",
+      "province": "霹雳州",
+      "latitude": 5.1167,
+      "longitude": 100.4167,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Jertih",
+      "province": "登嘉楼",
+      "latitude": 5.7336,
+      "longitude": 102.4897,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "知知丁宜",
+      "name_en": "Kampung Titi Tinggi",
+      "province": "玻璃市",
+      "latitude": 6.6373,
+      "longitude": 100.2627,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Layang Layang",
+      "province": "柔佛州",
+      "latitude": 1.8154,
+      "longitude": 103.4784,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Sungai Koyan",
+      "province": "彭亨",
+      "latitude": 4.2186,
+      "longitude": 101.8015,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Matu",
+      "province": "砂拉越",
+      "latitude": 2.6833,
+      "longitude": 111.5333,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "万邦刁湾",
+      "name_en": "Mambang Di Awan",
+      "province": "霹雳州",
+      "latitude": 4.2667,
+      "longitude": 101.15,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "加拉巴沙威",
+      "name_en": "Kelapa Sawit",
+      "province": "柔佛州",
+      "latitude": 1.6698,
+      "longitude": 103.5327,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Sekinchan",
+      "province": "雪兰莪",
+      "latitude": 3.5074,
+      "longitude": 101.1041,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "诗巫瑶",
+      "name_en": "Sebuyau",
+      "province": "砂拉越",
+      "latitude": 1.5167,
+      "longitude": 110.9333,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Buloh Kasap",
+      "province": "柔佛州",
+      "latitude": 2.5536,
+      "longitude": 102.764,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Lenggeng",
+      "province": "森美兰",
+      "latitude": 2.8558,
+      "longitude": 101.9424,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampong Datuk Keramat",
+      "province": "Kuala Lumpur",
+      "latitude": 3.1667,
+      "longitude": 101.7333,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "增江",
+      "name_en": "Jinjang",
+      "province": "Kuala Lumpur",
+      "latitude": 3.2088,
+      "longitude": 101.6562,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "中江",
+      "name_en": "Tongkang Pechah",
+      "province": "柔佛州",
+      "latitude": 1.9203,
+      "longitude": 102.9561,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Sintok",
+      "province": "吉打",
+      "latitude": 6.4423,
+      "longitude": 100.5235,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bandar Laguna Merbok",
+      "province": "吉打",
+      "latitude": 5.6892,
+      "longitude": 100.4962,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampong Merbok",
+      "province": "吉打",
+      "latitude": 5.7167,
+      "longitude": 100.4167,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "古打毛律",
+      "name_en": "Kota Belud",
+      "province": "沙巴州",
+      "latitude": 6.351,
+      "longitude": 116.4305,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Kota Samarahan",
+      "province": "砂拉越",
+      "latitude": 1.4603,
+      "longitude": 110.4882,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "玲珑",
+      "name_en": "Lenggong",
+      "province": "霹雳州",
+      "latitude": 5.1063,
+      "longitude": 100.9679,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Paloh",
+      "province": "柔佛州",
+      "latitude": 2.1904,
+      "longitude": 103.1963,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "丹绒道光",
+      "name_en": "Tanjung Tokong",
+      "province": "槟城",
+      "latitude": 5.4606,
+      "longitude": 100.3074,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "瓜拉彭亨",
+      "name_en": "Kuala Pahang",
+      "province": "彭亨",
+      "latitude": 3.5321,
+      "longitude": 103.4619,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kepala Batas",
+      "province": "吉打",
+      "latitude": 5.5171,
+      "longitude": 100.4265,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Bukit Tinggi, Bentong",
+      "province": "彭亨",
+      "latitude": 3.3494,
+      "longitude": 101.8263,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Tumpat",
+      "province": "吉兰丹",
+      "latitude": 6.1978,
+      "longitude": 102.171,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kuala Sungai Baru",
+      "province": "Melaka",
+      "latitude": 2.3594,
+      "longitude": 102.0353,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "柔府",
+      "name_en": "Juru",
+      "province": "槟城",
+      "latitude": 5.312,
+      "longitude": 100.4423,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampong Bakai",
+      "province": "吉打",
+      "latitude": 5.5333,
+      "longitude": 100.7333,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Gemencheh",
+      "province": "森美兰",
+      "latitude": 2.5331,
+      "longitude": 102.3989,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Proton City",
+      "province": "霹雳州",
+      "latitude": 3.7429,
+      "longitude": 101.5352,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bandar 16 Sierra",
+      "province": "雪兰莪",
+      "latitude": 2.9714,
+      "longitude": 101.6546,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Brickfields",
+      "province": "Kuala Lumpur",
+      "latitude": 3.1297,
+      "longitude": 101.6842,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Rengit",
+      "province": "柔佛州",
+      "latitude": 1.6807,
+      "longitude": 103.1478,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Pulau Sebang",
+      "province": "Melaka",
+      "latitude": 2.455,
+      "longitude": 102.2329,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Chaah",
+      "province": "柔佛州",
+      "latitude": 2.249,
+      "longitude": 103.048,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kobang",
+      "province": "沙巴州",
+      "latitude": 4.4419,
+      "longitude": 118.6929,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Bandar Baru Enstek",
+      "province": "森美兰",
+      "latitude": 2.7511,
+      "longitude": 101.7654,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "峇都交湾",
+      "name_en": "Batu Kawan",
+      "province": "槟城",
+      "latitude": 5.2582,
+      "longitude": 100.4288,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Kundassang",
+      "province": "沙巴州",
+      "latitude": 5.9824,
+      "longitude": 116.5712,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Jerlun",
+      "province": "吉打",
+      "latitude": 6.2139,
+      "longitude": 100.2658,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "实巴荷副县",
+      "name_en": "Spaoh",
+      "province": "砂拉越",
+      "latitude": 1.5,
+      "longitude": 111.5,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Bandar Springhill",
+      "province": "森美兰",
+      "latitude": 2.6013,
+      "longitude": 101.8641,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Ayer Molek",
+      "province": "Melaka",
+      "latitude": 2.2028,
+      "longitude": 102.3172,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Sungai Sumun",
+      "province": "霹雳州",
+      "latitude": 3.8915,
+      "longitude": 100.8532,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Tanjung Keling",
+      "province": "Melaka",
+      "latitude": 2.2267,
+      "longitude": 102.1716,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "云冰",
+      "name_en": "Kuala Rompin",
+      "province": "彭亨",
+      "latitude": 2.8167,
+      "longitude": 103.4833,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bandar Baru Ayer Itam",
+      "province": "槟城",
+      "latitude": 5.3891,
+      "longitude": 100.2818,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kinabatangan",
+      "province": "沙巴州",
+      "latitude": 5.586,
+      "longitude": 117.8508,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Kemasik",
+      "province": "登嘉楼",
+      "latitude": 4.4256,
+      "longitude": 103.4538,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Kuala Balah",
+      "province": "吉兰丹",
+      "latitude": 5.4167,
+      "longitude": 101.9167,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Penaga",
+      "province": "槟城",
+      "latitude": 5.5272,
+      "longitude": 100.3841,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Taman Ikan Emas",
+      "province": "Kuala Lumpur",
+      "latitude": 3.1162,
+      "longitude": 101.7202,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "直落埯",
+      "name_en": "Teluk Mas",
+      "province": "Melaka",
+      "latitude": 2.1654,
+      "longitude": 102.322,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Ayer Hangat",
+      "province": "吉打",
+      "latitude": 6.4206,
+      "longitude": 99.822,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bandar Penawar",
+      "province": "柔佛州",
+      "latitude": 1.5513,
+      "longitude": 104.226,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Mutiara Damansara",
+      "province": "Kuala Lumpur",
+      "latitude": 3.1572,
+      "longitude": 101.6082,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Padang Mat Sirat",
+      "province": "吉打",
+      "latitude": 6.3542,
+      "longitude": 99.734,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Pangkor",
+      "province": "霹雳州",
+      "latitude": 4.2134,
+      "longitude": 100.5747,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Parit Jawa",
+      "province": "柔佛州",
+      "latitude": 1.9577,
+      "longitude": 102.6401,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Taman Rajawali",
+      "province": "沙巴州",
+      "latitude": 5.8948,
+      "longitude": 118.0458,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Telaga Batu",
+      "province": "槟城",
+      "latitude": 5.4667,
+      "longitude": 100.2333,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Ketengah Jaya",
+      "province": "登嘉楼",
+      "latitude": 4.5722,
+      "longitude": 103.3188,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Song",
+      "province": "砂拉越",
+      "latitude": 2.0167,
+      "longitude": 112.55,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Pantu",
+      "province": "砂拉越",
+      "latitude": 1.1397,
+      "longitude": 111.1177,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Ulu Kinta",
+      "province": "霹雳州",
+      "latitude": 4.6667,
+      "longitude": 101.2167,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Lubok Antu",
+      "province": "砂拉越",
+      "latitude": 1.0419,
+      "longitude": 111.834,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Kampong Tajar",
+      "province": "吉打",
+      "latitude": 6.1,
+      "longitude": 100.4167,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Siong",
+      "province": "吉打",
+      "latitude": 5.7886,
+      "longitude": 100.9086,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Karak",
+      "province": "彭亨",
+      "latitude": 3.4,
+      "longitude": 102.0333,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Beruas",
+      "province": "霹雳州",
+      "latitude": 4.5,
+      "longitude": 100.7833,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Gunong",
+      "province": "吉打",
+      "latitude": 6.1901,
+      "longitude": 100.3414,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Simpang Empat",
+      "province": "槟城",
+      "latitude": 4.95,
+      "longitude": 100.6333,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Simpang Empat",
+      "province": "吉打",
+      "latitude": 4.95,
+      "longitude": 100.6333,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bagan Datoh",
+      "province": "霹雳州",
+      "latitude": 3.9899,
+      "longitude": 100.7819,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bandar Parklands",
+      "province": "雪兰莪",
+      "latitude": 2.9746,
+      "longitude": 101.4572,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Umbai",
+      "province": "Melaka",
+      "latitude": 2.1586,
+      "longitude": 102.3475,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Laman Permai",
+      "province": "雪兰莪",
+      "latitude": 3.1737,
+      "longitude": 101.542,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Balingian",
+      "province": "砂拉越",
+      "latitude": 2.9306,
+      "longitude": 112.5413,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Sok",
+      "province": "吉打",
+      "latitude": 5.7736,
+      "longitude": 100.7305,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bandau",
+      "province": "沙巴州",
+      "latitude": 6.5205,
+      "longitude": 116.7534,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Sabak Bernam",
+      "province": "雪兰莪",
+      "latitude": 3.7698,
+      "longitude": 100.9879,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bandar Botanic",
+      "province": "雪兰莪",
+      "latitude": 2.9879,
+      "longitude": 101.4397,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Pekan Serkat",
+      "province": "柔佛州",
+      "latitude": 1.3033,
+      "longitude": 103.4894,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Tawar Besar",
+      "province": "吉打",
+      "latitude": 5.5566,
+      "longitude": 100.812,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Bagan",
+      "province": "柔佛州",
+      "latitude": 1.8481,
+      "longitude": 102.8588,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Seremban 3",
+      "province": "森美兰",
+      "latitude": 2.6736,
+      "longitude": 101.9311,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "角头",
+      "name_en": "Tanjung Piandang",
+      "province": "霹雳州",
+      "latitude": 5.0724,
+      "longitude": 100.3811,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Teh",
+      "province": "彭亨",
+      "latitude": 3.9607,
+      "longitude": 102.347,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Tikam Batu",
+      "province": "吉打",
+      "latitude": 5.5872,
+      "longitude": 100.4402,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Pasir Panjang",
+      "province": "森美兰",
+      "latitude": 2.4322,
+      "longitude": 101.9352,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Ringlet",
+      "province": "彭亨",
+      "latitude": 4.4155,
+      "longitude": 101.3836,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Simpang Pulai",
+      "province": "霹雳州",
+      "latitude": 5.7106,
+      "longitude": 100.9965,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Pantai Belimbing",
+      "province": "Melaka",
+      "latitude": 2.3436,
+      "longitude": 102.2567,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Binatang",
+      "province": "砂拉越",
+      "latitude": 2.1667,
+      "longitude": 111.6333,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "宁木",
+      "name_en": "Debak",
+      "province": "砂拉越",
+      "latitude": 1.5667,
+      "longitude": 111.4167,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Kuala Nerang",
+      "province": "吉打",
+      "latitude": 6.2584,
+      "longitude": 100.6126,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Pondok Upih",
+      "province": "槟城",
+      "latitude": 5.3373,
+      "longitude": 100.2325,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "龙溪",
+      "name_en": "Dengkil",
+      "province": "雪兰莪",
+      "latitude": 2.86,
+      "longitude": 101.6806,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Meru",
+      "province": "雪兰莪",
+      "latitude": 3.1362,
+      "longitude": 101.4394,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Alor Merah",
+      "province": "吉打",
+      "latitude": 6.1667,
+      "longitude": 100.3833,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Glenmarie Estate",
+      "province": "雪兰莪",
+      "latitude": 3.0833,
+      "longitude": 101.5833,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Pering",
+      "province": "吉打",
+      "latitude": 6.376,
+      "longitude": 100.3364,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Sematan",
+      "province": "砂拉越",
+      "latitude": 1.8,
+      "longitude": 109.7667,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Tanah Rata",
+      "province": "彭亨",
+      "latitude": 4.4636,
+      "longitude": 101.3763,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Nanga Medamit",
+      "province": "砂拉越",
+      "latitude": 4.4667,
+      "longitude": 114.9167,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "新路口",
+      "name_en": "Kampung Cangkat Jering",
+      "province": "霹雳州",
+      "latitude": 4.7833,
+      "longitude": 100.7167,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Sundar",
+      "province": "砂拉越",
+      "latitude": 4.8895,
+      "longitude": 115.2075,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Serdang",
+      "province": "霹雳州",
+      "latitude": 3.0333,
+      "longitude": 101.7167,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Pusing",
+      "province": "霹雳州",
+      "latitude": 4.4941,
+      "longitude": 101.0079,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Ayer Hitam",
+      "province": "柔佛州",
+      "latitude": 1.915,
+      "longitude": 103.1808,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Batu Lima",
+      "province": "吉打",
+      "latitude": 5.7934,
+      "longitude": 100.6894,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Felda Gugusan Adela",
+      "province": "柔佛州",
+      "latitude": 1.4788,
+      "longitude": 104.1774,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Roban",
+      "province": "砂拉越",
+      "latitude": 1.9167,
+      "longitude": 111.3333,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Templer Bestari",
+      "province": "雪兰莪",
+      "latitude": 3.2911,
+      "longitude": 101.638,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "仕林河",
+      "name_en": "Slim River",
+      "province": "霹雳州",
+      "latitude": 3.8333,
+      "longitude": 101.4,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "都赖",
+      "name_en": "Teras",
+      "province": "彭亨",
+      "latitude": 3.742,
+      "longitude": 101.8112,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kemajuan Tanah Lok Heng Barat",
+      "province": "柔佛州",
+      "latitude": 1.7225,
+      "longitude": 104.0913,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "文庙",
+      "name_en": "Rembia",
+      "province": "Melaka",
+      "latitude": 2.328,
+      "longitude": 102.2101,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Gedangsa",
+      "province": "雪兰莪",
+      "latitude": 3.7333,
+      "longitude": 101.4,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Pulai",
+      "province": "吉打",
+      "latitude": 5.6584,
+      "longitude": 100.8917,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Niyor",
+      "province": "柔佛州",
+      "latitude": 2.0945,
+      "longitude": 103.2807,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "FELDA Soeharto",
+      "province": "雪兰莪",
+      "latitude": 3.6796,
+      "longitude": 101.3926,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kemajuan Tanah Bukit Goh",
+      "province": "彭亨",
+      "latitude": 3.9128,
+      "longitude": 103.2572,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kangkong",
+      "province": "吉打",
+      "latitude": 6.0005,
+      "longitude": 100.3446,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Oya",
+      "province": "砂拉越",
+      "latitude": 2.8667,
+      "longitude": 111.8833,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Olak Lempit",
+      "province": "雪兰莪",
+      "latitude": 2.8356,
+      "longitude": 101.5947,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "金马扬",
+      "name_en": "Kemayan",
+      "province": "彭亨",
+      "latitude": 3.1364,
+      "longitude": 102.362,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Langgar",
+      "province": "吉打",
+      "latitude": 6.1476,
+      "longitude": 100.4324,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Long Lama",
+      "province": "砂拉越",
+      "latitude": 3.7667,
+      "longitude": 114.4,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Bandar Al-Muktafi Billah Shah",
+      "province": "登嘉楼",
+      "latitude": 4.6111,
+      "longitude": 103.2092,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Eco Sanctuary",
+      "province": "雪兰莪",
+      "latitude": 2.937,
+      "longitude": 101.5353,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Wakaf Stan",
+      "province": "吉兰丹",
+      "latitude": 6.0799,
+      "longitude": 102.2897,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampong Gunong",
+      "province": "吉兰丹",
+      "latitude": 5.7167,
+      "longitude": 101.75,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Melor",
+      "province": "吉兰丹",
+      "latitude": 5.9656,
+      "longitude": 102.2942,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Sungai Kob",
+      "province": "吉打",
+      "latitude": 5.43,
+      "longitude": 100.6448,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Machap",
+      "province": "Melaka",
+      "latitude": 2.3862,
+      "longitude": 102.2907,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Ayer Puteh",
+      "province": "吉打",
+      "latitude": 5.1822,
+      "longitude": 100.6019,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampong Sijangkang",
+      "province": "雪兰莪",
+      "latitude": 2.9405,
+      "longitude": 101.4637,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "FELDA Maokil",
+      "province": "柔佛州",
+      "latitude": 2.2956,
+      "longitude": 102.9679,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bongawan",
+      "province": "沙巴州",
+      "latitude": 5.5333,
+      "longitude": 115.85,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Naga Lilit",
+      "province": "吉打",
+      "latitude": 5.4765,
+      "longitude": 100.5509,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Titi",
+      "province": "森美兰",
+      "latitude": 2.9983,
+      "longitude": 102.0765,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Chaah Bahru",
+      "province": "柔佛州",
+      "latitude": 2.0993,
+      "longitude": 103.0222,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampong Tanjong Chat",
+      "province": "吉兰丹",
+      "latitude": 6.15,
+      "longitude": 102.25,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Batu Tiga",
+      "province": "雪兰莪",
+      "latitude": 3.078,
+      "longitude": 101.547,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Tebengau",
+      "province": "吉打",
+      "latitude": 6.046,
+      "longitude": 100.3314,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bagan Samak",
+      "province": "吉打",
+      "latitude": 5.0895,
+      "longitude": 100.5619,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "万加均乐",
+      "name_en": "Pengkalan Kundor",
+      "province": "吉打",
+      "latitude": 6.0779,
+      "longitude": 100.3604,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "裕南副县",
+      "name_en": "Maludam",
+      "province": "砂拉越",
+      "latitude": 1.65,
+      "longitude": 111.0333,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Padang Lalang",
+      "province": "吉打",
+      "latitude": 6.1637,
+      "longitude": 100.3099,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Oran",
+      "province": "玻璃市",
+      "latitude": 6.4653,
+      "longitude": 100.2456,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bukit Damansara",
+      "province": "Kuala Lumpur",
+      "latitude": 3.1505,
+      "longitude": 101.6548,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Tenom",
+      "province": "沙巴州",
+      "latitude": 5.1192,
+      "longitude": 115.9372,
+      "timezone": "Asia/Kuching"
+    },
+    {
+      "name": "",
+      "name_en": "Simpang",
+      "province": "霹雳州",
+      "latitude": 4.8167,
+      "longitude": 100.7,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Kemajuan Tanah Rentam",
+      "province": "彭亨",
+      "latitude": 3.2679,
+      "longitude": 102.6228,
+      "timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+      "name": "",
+      "name_en": "Bukit Pinang",
+      "province": "吉打",
+      "latitude": 5.9333,
+      "longitude": 100.45,
+      "timezone": "Asia/Kuala_Lumpur"
+    }
+  ]
+}

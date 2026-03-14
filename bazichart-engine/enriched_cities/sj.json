@@ -1,0 +1,22 @@
+{
+  "country_code": "SJ",
+  "country_name": "斯瓦尔巴岛和扬马延岛",
+  "cities": [
+    {
+      "name": "朗伊尔城",
+      "name_en": "Longyearbyen",
+      "province": "斯瓦尔巴群岛",
+      "latitude": 78.2233,
+      "longitude": 15.6469,
+      "timezone": "Arctic/Longyearbyen"
+    },
+    {
+      "name": "奥伦金拜恩",
+      "name_en": "Olonkinbyen",
+      "province": "Jan Mayen",
+      "latitude": 70.9221,
+      "longitude": -8.7187,
+      "timezone": "Arctic/Longyearbyen"
+    }
+  ]
+}

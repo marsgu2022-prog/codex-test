@@ -1,0 +1,1990 @@
+{
+  "country_code": "GR",
+  "country_name": "希腊",
+  "cities": [
+    {
+      "name": "雅典",
+      "name_en": "Athens",
+      "province": "Attica",
+      "latitude": 37.9838,
+      "longitude": 23.7278,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "塞萨洛尼基",
+      "name_en": "Thessaloníki",
+      "province": "中马其顿大区",
+      "latitude": 40.6407,
+      "longitude": 22.9349,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "帕特雷",
+      "name_en": "Pátra",
+      "province": "West Greece",
+      "latitude": 38.2462,
+      "longitude": 21.7351,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "比雷埃夫斯",
+      "name_en": "Piraeus",
+      "province": "Attica",
+      "latitude": 37.942,
+      "longitude": 23.6462,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Nomós Chaniás",
+      "province": "Crete",
+      "latitude": 35.3333,
+      "longitude": 24.0,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Lárisa",
+      "province": "Thessaly",
+      "latitude": 39.6285,
+      "longitude": 22.4211,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Peristéri",
+      "province": "Attica",
+      "latitude": 38.0154,
+      "longitude": 23.6919,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "伊拉克利翁",
+      "name_en": "Irákleion",
+      "province": "Crete",
+      "latitude": 35.3279,
+      "longitude": 25.1434,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Kallithéa",
+      "province": "Attica",
+      "latitude": 37.95,
+      "longitude": 23.7,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Acharnés",
+      "province": "Attica",
+      "latitude": 38.0833,
+      "longitude": 23.7333,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Kalamariá",
+      "province": "中马其顿大区",
+      "latitude": 40.5825,
+      "longitude": 22.9503,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Níkaia",
+      "province": "Attica",
+      "latitude": 37.9667,
+      "longitude": 23.65,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Glyfáda",
+      "province": "Attica",
+      "latitude": 37.8629,
+      "longitude": 23.758,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Volos",
+      "province": "Thessaly",
+      "latitude": 39.3692,
+      "longitude": 22.9477,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Ílion",
+      "province": "Attica",
+      "latitude": 38.0333,
+      "longitude": 23.7,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Ilioúpoli",
+      "province": "Attica",
+      "latitude": 37.9315,
+      "longitude": 23.7678,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Keratsíni",
+      "province": "Attica",
+      "latitude": 37.9625,
+      "longitude": 23.6197,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Évosmos",
+      "province": "中马其顿大区",
+      "latitude": 40.6706,
+      "longitude": 22.9083,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Khalándrion",
+      "province": "Attica",
+      "latitude": 38.0237,
+      "longitude": 23.8007,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Néa Smýrni",
+      "province": "Attica",
+      "latitude": 37.945,
+      "longitude": 23.7142,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Maroúsi",
+      "province": "Attica",
+      "latitude": 38.05,
+      "longitude": 23.8,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Agios Dimitrios",
+      "province": "Attica",
+      "latitude": 37.9333,
+      "longitude": 23.7333,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Zográfos",
+      "province": "Attica",
+      "latitude": 37.9757,
+      "longitude": 23.7691,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Aigáleo",
+      "province": "Attica",
+      "latitude": 37.9833,
+      "longitude": 23.6833,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Néa Ionía",
+      "province": "Attica",
+      "latitude": 38.0357,
+      "longitude": 23.7573,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "约阿尼纳",
+      "name_en": "Ioánnina",
+      "province": "Epirus",
+      "latitude": 39.6634,
+      "longitude": 20.8519,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Palaió Fáliro",
+      "province": "Attica",
+      "latitude": 37.9281,
+      "longitude": 23.701,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Korydallós",
+      "province": "Attica",
+      "latitude": 37.9847,
+      "longitude": 23.6471,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Tríkala",
+      "province": "Thessaly",
+      "latitude": 39.5549,
+      "longitude": 21.7684,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Výronas",
+      "province": "Attica",
+      "latitude": 37.9611,
+      "longitude": 23.753,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Agía Paraskeví",
+      "province": "Attica",
+      "latitude": 38.0167,
+      "longitude": 23.8333,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Galátsi",
+      "province": "Attica",
+      "latitude": 38.0167,
+      "longitude": 23.75,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Chalkída",
+      "province": "Central Greece",
+      "latitude": 38.4635,
+      "longitude": 23.6028,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Petroúpolis",
+      "province": "Attica",
+      "latitude": 38.0419,
+      "longitude": 23.6849,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "塞雷",
+      "name_en": "Sérres",
+      "province": "中马其顿大区",
+      "latitude": 41.085,
+      "longitude": 23.5476,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Políchni",
+      "province": "中马其顿大区",
+      "latitude": 40.6667,
+      "longitude": 22.9488,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Ródos",
+      "province": "South Aegean",
+      "latitude": 36.4356,
+      "longitude": 28.222,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Kalamata",
+      "province": "Peloponnese",
+      "latitude": 37.0391,
+      "longitude": 22.1126,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "卡瓦拉",
+      "name_en": "Kavála",
+      "province": "东马其顿和色雷斯大区",
+      "latitude": 40.9396,
+      "longitude": 24.4069,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Chaniá",
+      "province": "Crete",
+      "latitude": 35.3333,
+      "longitude": 24.0,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Kateríni",
+      "province": "中马其顿大区",
+      "latitude": 40.2696,
+      "longitude": 22.5061,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Alexandroupoli",
+      "province": "东马其顿和色雷斯大区",
+      "latitude": 40.8499,
+      "longitude": 25.8764,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Lamía",
+      "province": "Central Greece",
+      "latitude": 38.8995,
+      "longitude": 22.4335,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Irákleio",
+      "province": "Attica",
+      "latitude": 35.3279,
+      "longitude": 25.1434,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Xánthi",
+      "province": "东马其顿和色雷斯大区",
+      "latitude": 41.1349,
+      "longitude": 24.888,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Kifisiá",
+      "province": "Attica",
+      "latitude": 38.0744,
+      "longitude": 23.8111,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Agrínio",
+      "province": "West Greece",
+      "latitude": 38.6214,
+      "longitude": 21.4078,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Stavroúpoli",
+      "province": "中马其顿大区",
+      "latitude": 40.6694,
+      "longitude": 22.9381,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Chaïdári",
+      "province": "Attica",
+      "latitude": 38.0114,
+      "longitude": 23.666,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "科莫蒂尼",
+      "name_en": "Komotiní",
+      "province": "东马其顿和色雷斯大区",
+      "latitude": 41.1176,
+      "longitude": 25.4059,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Sykiés",
+      "province": "中马其顿大区",
+      "latitude": 40.6494,
+      "longitude": 22.9508,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Dráma",
+      "province": "东马其顿和色雷斯大区",
+      "latitude": 41.1528,
+      "longitude": 24.1473,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Véroia",
+      "province": "中马其顿大区",
+      "latitude": 40.5244,
+      "longitude": 22.2024,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Álimos",
+      "province": "Attica",
+      "latitude": 37.9103,
+      "longitude": 23.7236,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "克基拉市",
+      "name_en": "Corfu",
+      "province": "Ionian Islands",
+      "latitude": 39.6244,
+      "longitude": 19.9202,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Kozáni",
+      "province": "西马其顿大区",
+      "latitude": 40.2993,
+      "longitude": 21.7898,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Thívai",
+      "province": "Central Greece",
+      "latitude": 38.325,
+      "longitude": 23.3189,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "皮莱亚",
+      "name_en": "Pylaía",
+      "province": "中马其顿大区",
+      "latitude": 40.5992,
+      "longitude": 22.9861,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Ágioi Anárgyroi",
+      "province": "Attica",
+      "latitude": 38.0301,
+      "longitude": 23.7238,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Argyroúpoli",
+      "province": "Attica",
+      "latitude": 37.9059,
+      "longitude": 23.7504,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Áno Liósia",
+      "province": "Attica",
+      "latitude": 38.0833,
+      "longitude": 23.7,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "卡尔季察",
+      "name_en": "Kardítsa",
+      "province": "Thessaly",
+      "latitude": 39.3648,
+      "longitude": 21.9219,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Néa Ionía",
+      "province": "Thessaly",
+      "latitude": 38.0357,
+      "longitude": 23.7573,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "罗希姆诺",
+      "name_en": "Rethymno",
+      "province": "Crete",
+      "latitude": 35.3655,
+      "longitude": 24.4823,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Cholargós",
+      "province": "Attica",
+      "latitude": 38.0,
+      "longitude": 23.8,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Vrilissia",
+      "province": "Attica",
+      "latitude": 38.0338,
+      "longitude": 23.8296,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Asprópyrgos",
+      "province": "Attica",
+      "latitude": 38.0613,
+      "longitude": 23.5897,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "科林斯",
+      "name_en": "Kórinthos",
+      "province": "Peloponnese",
+      "latitude": 37.9401,
+      "longitude": 22.9513,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Ptolemaḯda",
+      "province": "西马其顿大区",
+      "latitude": 40.5147,
+      "longitude": 21.6786,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Gérakas",
+      "province": "Attica",
+      "latitude": 38.0228,
+      "longitude": 23.8576,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Metamórfosi",
+      "province": "Attica",
+      "latitude": 38.0658,
+      "longitude": 23.7636,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Voúla",
+      "province": "Attica",
+      "latitude": 37.8422,
+      "longitude": 23.7765,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "卡马托罗",
+      "name_en": "Kamaterón",
+      "province": "Attica",
+      "latitude": 38.0559,
+      "longitude": 23.7051,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "米蒂利尼",
+      "name_en": "Mytilene",
+      "province": "North Aegean",
+      "latitude": 39.1077,
+      "longitude": 26.5553,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Giannitsá",
+      "province": "中马其顿大区",
+      "latitude": 40.7919,
+      "longitude": 22.4075,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "奈阿波利",
+      "name_en": "Neapoli",
+      "province": "中马其顿大区",
+      "latitude": 40.6532,
+      "longitude": 22.9416,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Elefthério - Kordelió",
+      "province": "中马其顿大区",
+      "latitude": 40.6639,
+      "longitude": 22.8969,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Trípoli",
+      "province": "Peloponnese",
+      "latitude": 37.5096,
+      "longitude": 22.3788,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Agía Varvára",
+      "province": "Attica",
+      "latitude": 37.9894,
+      "longitude": 23.6601,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Kaisarianí",
+      "province": "Attica",
+      "latitude": 37.9634,
+      "longitude": 23.7652,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Néa Filadélfeia",
+      "province": "Attica",
+      "latitude": 38.0349,
+      "longitude": 23.7381,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Moskháton",
+      "province": "Attica",
+      "latitude": 37.9479,
+      "longitude": 23.6788,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Pérama",
+      "province": "Attica",
+      "latitude": 37.9678,
+      "longitude": 23.5721,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Salamína",
+      "province": "Attica",
+      "latitude": 37.9643,
+      "longitude": 23.4965,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Elefsína",
+      "province": "Attica",
+      "latitude": 38.0414,
+      "longitude": 23.543,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Chios",
+      "province": "North Aegean",
+      "latitude": 38.3687,
+      "longitude": 26.1372,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Mégara",
+      "province": "Attica",
+      "latitude": 37.9947,
+      "longitude": 23.3432,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Kilkís",
+      "province": "中马其顿大区",
+      "latitude": 40.993,
+      "longitude": 22.8743,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Dhafní",
+      "province": "Attica",
+      "latitude": 37.95,
+      "longitude": 23.7344,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Melíssia",
+      "province": "Attica",
+      "latitude": 38.05,
+      "longitude": 23.8333,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Pýrgos",
+      "province": "West Greece",
+      "latitude": 37.6751,
+      "longitude": 21.441,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "阿尔戈斯",
+      "name_en": "Árgos",
+      "province": "Peloponnese",
+      "latitude": 37.6333,
+      "longitude": 22.7333,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Árta",
+      "province": "Epirus",
+      "latitude": 39.1601,
+      "longitude": 20.9856,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "莱瓦贾",
+      "name_en": "Livadeiá",
+      "province": "Central Greece",
+      "latitude": 38.4362,
+      "longitude": 22.8767,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Artémida",
+      "province": "Attica",
+      "latitude": 37.9673,
+      "longitude": 23.9968,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Péfki",
+      "province": "Attica",
+      "latitude": 38.0602,
+      "longitude": 23.7926,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Oraiókastro",
+      "province": "中马其顿大区",
+      "latitude": 40.7308,
+      "longitude": 22.9172,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Aígio",
+      "province": "West Greece",
+      "latitude": 38.2486,
+      "longitude": 22.0819,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Náousa",
+      "province": "中马其顿大区",
+      "latitude": 40.6294,
+      "longitude": 22.0681,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Kos",
+      "province": "South Aegean",
+      "latitude": 36.8929,
+      "longitude": 27.2877,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Koropí",
+      "province": "Attica",
+      "latitude": 37.8989,
+      "longitude": 23.8718,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Édessa",
+      "province": "中马其顿大区",
+      "latitude": 40.8026,
+      "longitude": 22.0475,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Peraía",
+      "province": "中马其顿大区",
+      "latitude": 40.4987,
+      "longitude": 22.9262,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Flórina",
+      "province": "西马其顿大区",
+      "latitude": 40.782,
+      "longitude": 21.4098,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Panórama",
+      "province": "中马其顿大区",
+      "latitude": 40.5878,
+      "longitude": 23.0315,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Néa Erythraía",
+      "province": "Attica",
+      "latitude": 38.0927,
+      "longitude": 23.8222,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Préveza",
+      "province": "Epirus",
+      "latitude": 38.9562,
+      "longitude": 20.7505,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Ellinikó",
+      "province": "Attica",
+      "latitude": 37.8901,
+      "longitude": 23.7441,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Amaliáda",
+      "province": "West Greece",
+      "latitude": 37.7984,
+      "longitude": 21.3507,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Ágios Athanásios",
+      "province": "中马其顿大区",
+      "latitude": 40.716,
+      "longitude": 22.7284,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Sparta",
+      "province": "Peloponnese",
+      "latitude": 37.0745,
+      "longitude": 22.4301,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Orestiáda",
+      "province": "东马其顿和色雷斯大区",
+      "latitude": 41.5031,
+      "longitude": 26.5297,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Agios Ioannis Rentis",
+      "province": "Attica",
+      "latitude": 37.9649,
+      "longitude": 23.6651,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Vári",
+      "province": "Attica",
+      "latitude": 37.8332,
+      "longitude": 23.8031,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Meneméni",
+      "province": "中马其顿大区",
+      "latitude": 40.6583,
+      "longitude": 22.8971,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "新马克立",
+      "name_en": "Néa Mákri",
+      "province": "Attica",
+      "latitude": 38.0873,
+      "longitude": 23.9764,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Távros",
+      "province": "Attica",
+      "latitude": 37.9706,
+      "longitude": 23.6904,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "帕利尼",
+      "name_en": "Pallíni",
+      "province": "Attica",
+      "latitude": 38.0051,
+      "longitude": 23.883,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Paianía",
+      "province": "Attica",
+      "latitude": 37.9553,
+      "longitude": 23.8544,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Náfplio",
+      "province": "Peloponnese",
+      "latitude": 37.5686,
+      "longitude": 22.8069,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Kalývia Thorikoú",
+      "province": "Attica",
+      "latitude": 37.8389,
+      "longitude": 23.925,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Thérmi",
+      "province": "中马其顿大区",
+      "latitude": 40.5471,
+      "longitude": 23.0197,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Drapetsóna",
+      "province": "Attica",
+      "latitude": 37.9499,
+      "longitude": 23.6231,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Efkarpía",
+      "province": "中马其顿大区",
+      "latitude": 40.688,
+      "longitude": 22.9535,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Papágou",
+      "province": "Attica",
+      "latitude": 37.9864,
+      "longitude": 23.7935,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Alexándreia",
+      "province": "中马其顿大区",
+      "latitude": 40.6267,
+      "longitude": 22.4442,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Náfpaktos",
+      "province": "West Greece",
+      "latitude": 38.3917,
+      "longitude": 21.8275,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "卡斯托里亚",
+      "name_en": "Kastoria",
+      "province": "西马其顿大区",
+      "latitude": 40.5217,
+      "longitude": 21.2634,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Péfka",
+      "province": "中马其顿大区",
+      "latitude": 40.6581,
+      "longitude": 22.9938,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Néa Alikarnassós",
+      "province": "Crete",
+      "latitude": 35.3389,
+      "longitude": 25.1597,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Mesolóngi",
+      "province": "West Greece",
+      "latitude": 38.3714,
+      "longitude": 21.4315,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Gázi",
+      "province": "Crete",
+      "latitude": 35.3253,
+      "longitude": 25.0669,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Ierápetra",
+      "province": "Crete",
+      "latitude": 35.0119,
+      "longitude": 25.7423,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Kálymnos",
+      "province": "South Aegean",
+      "latitude": 36.9503,
+      "longitude": 26.9839,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Rafína",
+      "province": "Attica",
+      "latitude": 38.0181,
+      "longitude": 24.006,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Loutráki",
+      "province": "Peloponnese",
+      "latitude": 37.9783,
+      "longitude": 22.9778,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "扎金索斯",
+      "name_en": "Zakynthos",
+      "province": "Ionian Islands",
+      "latitude": 37.7802,
+      "longitude": 20.8956,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Ágios Nikólaos",
+      "province": "Crete",
+      "latitude": 35.1911,
+      "longitude": 25.7152,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Ermoúpolis",
+      "province": "South Aegean",
+      "latitude": 37.4447,
+      "longitude": 24.9429,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Ialysós",
+      "province": "South Aegean",
+      "latitude": 36.4135,
+      "longitude": 28.1552,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Mándra",
+      "province": "Attica",
+      "latitude": 38.0667,
+      "longitude": 23.5,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Diavatá",
+      "province": "中马其顿大区",
+      "latitude": 40.6874,
+      "longitude": 22.858,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Ymittos",
+      "province": "Attica",
+      "latitude": 37.9534,
+      "longitude": 23.749,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Týrnavos",
+      "province": "Thessaly",
+      "latitude": 39.7378,
+      "longitude": 22.2892,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Grevená",
+      "province": "西马其顿大区",
+      "latitude": 40.0845,
+      "longitude": 21.4274,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Fársala",
+      "province": "Thessaly",
+      "latitude": 39.2947,
+      "longitude": 22.3847,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Néo Psychikó",
+      "province": "Attica",
+      "latitude": 38.0062,
+      "longitude": 23.7837,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "波利伊罗斯",
+      "name_en": "Polýgyros",
+      "province": "中马其顿大区",
+      "latitude": 40.377,
+      "longitude": 23.4413,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Triandría",
+      "province": "中马其顿大区",
+      "latitude": 40.622,
+      "longitude": 22.97,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Ágios Stéfanos",
+      "province": "Attica",
+      "latitude": 38.1466,
+      "longitude": 23.8561,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "新哈尔基佐纳",
+      "name_en": "Néa Chalkidóna",
+      "province": "Attica",
+      "latitude": 38.0271,
+      "longitude": 23.7305,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Argostólion",
+      "province": "Ionian Islands",
+      "latitude": 38.1811,
+      "longitude": 20.489,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Kiáto",
+      "province": "Peloponnese",
+      "latitude": 38.0132,
+      "longitude": 22.7484,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Anatolí",
+      "province": "Epirus",
+      "latitude": 39.6353,
+      "longitude": 20.8658,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Limín Mesoyaías",
+      "province": "Attica",
+      "latitude": 37.8911,
+      "longitude": 24.0031,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Lykóvrysi",
+      "province": "Attica",
+      "latitude": 38.0693,
+      "longitude": 23.7822,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Psychikó",
+      "province": "Attica",
+      "latitude": 38.0132,
+      "longitude": 23.7722,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Markópoulo",
+      "province": "Attica",
+      "latitude": 37.8833,
+      "longitude": 23.9333,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Igoumenítsa",
+      "province": "Epirus",
+      "latitude": 39.5034,
+      "longitude": 20.2673,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Néa Artáki",
+      "province": "Central Greece",
+      "latitude": 38.5203,
+      "longitude": 23.633,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Zefyri",
+      "province": "Attica",
+      "latitude": 38.0665,
+      "longitude": 23.717,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Néa Moudhaniá",
+      "province": "中马其顿大区",
+      "latitude": 40.2439,
+      "longitude": 23.2848,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Síndos",
+      "province": "中马其顿大区",
+      "latitude": 40.6705,
+      "longitude": 22.8055,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Spáta",
+      "province": "Attica",
+      "latitude": 37.9616,
+      "longitude": 23.9151,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Epanomí",
+      "province": "中马其顿大区",
+      "latitude": 40.4261,
+      "longitude": 22.9278,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Chrysoúpolis",
+      "province": "东马其顿和色雷斯大区",
+      "latitude": 40.9856,
+      "longitude": 24.6939,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Néa Michanióna",
+      "province": "中马其顿大区",
+      "latitude": 40.4637,
+      "longitude": 22.8617,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "锡蒂亚",
+      "name_en": "Sitia",
+      "province": "Crete",
+      "latitude": 35.2078,
+      "longitude": 26.1047,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "莱夫卡扎",
+      "name_en": "Lefkáda",
+      "province": "Ionian Islands",
+      "latitude": 38.8304,
+      "longitude": 20.7044,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Didymóteicho",
+      "province": "东马其顿和色雷斯大区",
+      "latitude": 41.349,
+      "longitude": 26.4938,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Néa Péramos",
+      "province": "Attica",
+      "latitude": 38.0065,
+      "longitude": 23.4235,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Kalampáka",
+      "province": "Thessaly",
+      "latitude": 39.7044,
+      "longitude": 21.6269,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Gastoúni",
+      "province": "West Greece",
+      "latitude": 37.85,
+      "longitude": 21.25,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Almyrós",
+      "province": "Thessaly",
+      "latitude": 39.1822,
+      "longitude": 22.7594,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Giánnouli",
+      "province": "Thessaly",
+      "latitude": 39.6672,
+      "longitude": 22.396,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Koufália",
+      "province": "中马其顿大区",
+      "latitude": 40.7778,
+      "longitude": 22.5719,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Lagkadás",
+      "province": "中马其顿大区",
+      "latitude": 40.75,
+      "longitude": 23.0667,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Keratéa",
+      "province": "Attica",
+      "latitude": 37.8058,
+      "longitude": 23.9774,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Argos Orestiko",
+      "province": "西马其顿大区",
+      "latitude": 40.4535,
+      "longitude": 21.2589,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Filothéi",
+      "province": "Attica",
+      "latitude": 38.0252,
+      "longitude": 23.7826,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Chalástra",
+      "province": "中马其顿大区",
+      "latitude": 40.6264,
+      "longitude": 22.7329,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Néa Kallikráteia",
+      "province": "中马其顿大区",
+      "latitude": 40.3131,
+      "longitude": 23.0634,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Trílofos",
+      "province": "中马其顿大区",
+      "latitude": 40.469,
+      "longitude": 22.9718,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Néa Pentéli",
+      "province": "Attica",
+      "latitude": 38.0606,
+      "longitude": 23.8593,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Drosiá",
+      "province": "Attica",
+      "latitude": 38.1198,
+      "longitude": 23.8643,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "马拉松",
+      "name_en": "Marathónas",
+      "province": "Attica",
+      "latitude": 38.1532,
+      "longitude": 23.9628,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Lávrio",
+      "province": "Attica",
+      "latitude": 37.7144,
+      "longitude": 24.0565,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Náxos",
+      "province": "South Aegean",
+      "latitude": 37.1056,
+      "longitude": 25.3764,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Polýkastro",
+      "province": "中马其顿大区",
+      "latitude": 40.9944,
+      "longitude": 22.5691,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Elassóna",
+      "province": "Thessaly",
+      "latitude": 39.8947,
+      "longitude": 22.1886,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Filiatrá",
+      "province": "Peloponnese",
+      "latitude": 37.1564,
+      "longitude": 21.5853,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Karpenísi",
+      "province": "Central Greece",
+      "latitude": 38.9122,
+      "longitude": 21.7984,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Aegina",
+      "province": "Attica",
+      "latitude": 37.7467,
+      "longitude": 23.4275,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Ámfissa",
+      "province": "Central Greece",
+      "latitude": 38.5281,
+      "longitude": 22.3771,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Ágios Pávlos",
+      "province": "中马其顿大区",
+      "latitude": 40.6407,
+      "longitude": 22.9604,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Krýa Vrýsi",
+      "province": "中马其顿大区",
+      "latitude": 40.6874,
+      "longitude": 22.3052,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Messíni",
+      "province": "Peloponnese",
+      "latitude": 37.0511,
+      "longitude": 22.0078,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Soúda",
+      "province": "Crete",
+      "latitude": 35.4872,
+      "longitude": 24.0734,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Litóchoro",
+      "province": "中马其顿大区",
+      "latitude": 40.1006,
+      "longitude": 22.4978,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Néon Karlovásion",
+      "province": "North Aegean",
+      "latitude": 37.7921,
+      "longitude": 26.7049,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Vasilikón",
+      "province": "Central Greece",
+      "latitude": 38.4259,
+      "longitude": 23.6719,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Aridaía",
+      "province": "中马其顿大区",
+      "latitude": 40.9731,
+      "longitude": 22.0564,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Áyios Konstandínos",
+      "province": "West Greece",
+      "latitude": 38.0873,
+      "longitude": 23.9764,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Anoixi",
+      "province": "Attica",
+      "latitude": 38.1327,
+      "longitude": 23.8587,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Asvestochóri",
+      "province": "中马其顿大区",
+      "latitude": 40.6412,
+      "longitude": 23.0253,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Moíres",
+      "province": "Crete",
+      "latitude": 35.0514,
+      "longitude": 24.8733,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Paralía",
+      "province": "West Greece",
+      "latitude": 38.1983,
+      "longitude": 21.7026,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Gargaliánoi",
+      "province": "Peloponnese",
+      "latitude": 37.0652,
+      "longitude": 21.6381,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Anávyssos",
+      "province": "Attica",
+      "latitude": 37.7341,
+      "longitude": 23.9439,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Thrakomakedónes",
+      "province": "Attica",
+      "latitude": 38.1296,
+      "longitude": 23.7575,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Faliraki",
+      "province": "South Aegean",
+      "latitude": 36.3398,
+      "longitude": 28.1994,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Néoi Epivátes",
+      "province": "中马其顿大区",
+      "latitude": 40.4986,
+      "longitude": 22.9119,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Ampelóna",
+      "province": "Thessaly",
+      "latitude": 39.7448,
+      "longitude": 22.3657,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Leondárion",
+      "province": "Attica",
+      "latitude": 37.987,
+      "longitude": 23.8552,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Orchomenós",
+      "province": "Central Greece",
+      "latitude": 38.4929,
+      "longitude": 22.9796,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Néa Anchiálos",
+      "province": "Thessaly",
+      "latitude": 39.2801,
+      "longitude": 22.8182,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Zacháro",
+      "province": "West Greece",
+      "latitude": 37.4833,
+      "longitude": 21.65,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Ekáli",
+      "province": "Attica",
+      "latitude": 38.1103,
+      "longitude": 23.835,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Ovriá",
+      "province": "West Greece",
+      "latitude": 38.1887,
+      "longitude": 21.729,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Psachná",
+      "province": "Central Greece",
+      "latitude": 38.5785,
+      "longitude": 23.6433,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Káto Achaḯa",
+      "province": "West Greece",
+      "latitude": 38.15,
+      "longitude": 21.55,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Avlónas",
+      "province": "Attica",
+      "latitude": 38.2515,
+      "longitude": 23.6955,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Palamás",
+      "province": "Thessaly",
+      "latitude": 39.4667,
+      "longitude": 22.0833,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Diónysos",
+      "province": "Attica",
+      "latitude": 38.1046,
+      "longitude": 23.8794,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Siátista",
+      "province": "西马其顿大区",
+      "latitude": 40.2619,
+      "longitude": 21.5442,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Diakoptó",
+      "province": "West Greece",
+      "latitude": 38.1952,
+      "longitude": 22.1999,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Afántou",
+      "province": "South Aegean",
+      "latitude": 36.2935,
+      "longitude": 28.1623,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Agriá",
+      "province": "Thessaly",
+      "latitude": 39.3408,
+      "longitude": 23.0126,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Efpálio",
+      "province": "Central Greece",
+      "latitude": 38.4195,
+      "longitude": 21.9291,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Xylókastro",
+      "province": "Peloponnese",
+      "latitude": 38.0776,
+      "longitude": 22.6317,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Fíliro",
+      "province": "中马其顿大区",
+      "latitude": 40.6915,
+      "longitude": 23.0046,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Mýrina",
+      "province": "North Aegean",
+      "latitude": 39.8748,
+      "longitude": 25.0636,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Féres",
+      "province": "东马其顿和色雷斯大区",
+      "latitude": 40.8931,
+      "longitude": 26.1723,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Archángelos",
+      "province": "South Aegean",
+      "latitude": 36.2149,
+      "longitude": 28.1149,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Plagiári",
+      "province": "中马其顿大区",
+      "latitude": 40.4728,
+      "longitude": 22.9579,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Vrontádos",
+      "province": "North Aegean",
+      "latitude": 38.4088,
+      "longitude": 26.1295,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Mourniés",
+      "province": "Crete",
+      "latitude": 35.4823,
+      "longitude": 24.0125,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Páros",
+      "province": "South Aegean",
+      "latitude": 37.0833,
+      "longitude": 25.15,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Tympáki",
+      "province": "Crete",
+      "latitude": 35.0729,
+      "longitude": 24.7685,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Megalópoli",
+      "province": "Peloponnese",
+      "latitude": 37.4011,
+      "longitude": 22.1422,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Skiáthos",
+      "province": "Thessaly",
+      "latitude": 39.1623,
+      "longitude": 23.4909,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Alivéri",
+      "province": "Central Greece",
+      "latitude": 38.4167,
+      "longitude": 24.0333,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Sidirókastro",
+      "province": "中马其顿大区",
+      "latitude": 41.235,
+      "longitude": 23.389,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Kárystos",
+      "province": "Central Greece",
+      "latitude": 38.0133,
+      "longitude": 24.4161,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Kryonéri",
+      "province": "Attica",
+      "latitude": 38.1371,
+      "longitude": 23.8305,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Kyparissía",
+      "province": "Peloponnese",
+      "latitude": 37.2511,
+      "longitude": 21.6736,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Dhrosiá",
+      "province": "Central Greece",
+      "latitude": 38.1198,
+      "longitude": 23.8643,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "name": "",
+      "name_en": "Karyes",
+      "province": "Mount Athos",
+      "latitude": 37.2912,
+      "longitude": 22.5007,
+      "timezone": "Europe/Athens"
+    }
+  ]
+}

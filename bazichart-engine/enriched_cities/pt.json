@@ -1,0 +1,4358 @@
+{
+  "country_code": "PT",
+  "country_name": "葡萄牙",
+  "cities": [
+    {
+      "name": "里斯本",
+      "name_en": "Lisbon",
+      "province": "里斯本区",
+      "latitude": 38.7251,
+      "longitude": -9.1498,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "波图",
+      "name_en": "Porto",
+      "province": "波尔图区",
+      "latitude": 41.1485,
+      "longitude": -8.611,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Braga",
+      "province": "布拉加区",
+      "latitude": 41.5514,
+      "longitude": -8.4231,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Amadora",
+      "province": "里斯本区",
+      "latitude": 38.7538,
+      "longitude": -9.2308,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "科英布拉",
+      "name_en": "Coimbra",
+      "province": "科英布拉区",
+      "latitude": 40.2069,
+      "longitude": -8.42,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Leiria",
+      "province": "莱里亚区",
+      "latitude": 39.7436,
+      "longitude": -8.8071,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "塞图巴尔",
+      "name_en": "Setúbal",
+      "province": "塞图巴尔区",
+      "latitude": 38.5244,
+      "longitude": -8.8882,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "丰沙尔",
+      "name_en": "Funchal",
+      "province": "马德拉",
+      "latitude": 32.6657,
+      "longitude": -16.9255,
+      "timezone": "Atlantic/Madeira"
+    },
+    {
+      "name": "",
+      "name_en": "Viseu",
+      "province": "维塞乌区",
+      "latitude": 40.6617,
+      "longitude": -7.909,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "克卢什",
+      "name_en": "Queluz",
+      "province": "里斯本区",
+      "latitude": 38.7566,
+      "longitude": -9.2545,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Cacém",
+      "province": "里斯本区",
+      "latitude": 38.767,
+      "longitude": -9.2979,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Aveiro",
+      "province": "Aveiro",
+      "latitude": 40.6457,
+      "longitude": -8.6464,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Vila Nova de Gaia",
+      "province": "波尔图区",
+      "latitude": 41.124,
+      "longitude": -8.6124,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Faro",
+      "province": "法鲁区",
+      "latitude": 37.0187,
+      "longitude": -7.9272,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Algueirão",
+      "province": "里斯本区",
+      "latitude": 38.7976,
+      "longitude": -9.3437,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Loures",
+      "province": "里斯本区",
+      "latitude": 38.8309,
+      "longitude": -9.1684,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Felgueiras",
+      "province": "波尔图区",
+      "latitude": 41.3681,
+      "longitude": -8.194,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Rio de Mouro",
+      "province": "里斯本区",
+      "latitude": 38.7661,
+      "longitude": -9.328,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Odivelas",
+      "province": "里斯本区",
+      "latitude": 38.7927,
+      "longitude": -9.1838,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Évora",
+      "province": "埃武拉区",
+      "latitude": 38.5659,
+      "longitude": -7.904,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Amora",
+      "province": "塞图巴尔区",
+      "latitude": 38.6296,
+      "longitude": -9.1156,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Corroios",
+      "province": "塞图巴尔区",
+      "latitude": 38.64,
+      "longitude": -9.1508,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "巴雷鲁",
+      "name_en": "Barreiro",
+      "province": "塞图巴尔区",
+      "latitude": 38.6631,
+      "longitude": -9.0724,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Monsanto",
+      "province": "圣塔伦区",
+      "latitude": 39.462,
+      "longitude": -8.7118,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "里奥廷托",
+      "name_en": "Rio Tinto",
+      "province": "波尔图区",
+      "latitude": 41.1787,
+      "longitude": -8.5595,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "São Domingos de Rana",
+      "province": "里斯本区",
+      "latitude": 38.7019,
+      "longitude": -9.3408,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "菲盖拉-达福什",
+      "name_en": "Figueira da Foz",
+      "province": "科英布拉区",
+      "latitude": 40.1508,
+      "longitude": -8.8618,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Lumiar",
+      "province": "里斯本区",
+      "latitude": 38.7748,
+      "longitude": -9.156,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "帕拉纽什",
+      "name_en": "Paranhos",
+      "province": "波尔图区",
+      "latitude": 41.1729,
+      "longitude": -8.5993,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Ponte de Lima",
+      "province": "维亚纳堡区",
+      "latitude": 41.7672,
+      "longitude": -8.5839,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Olival",
+      "province": "里斯本区",
+      "latitude": 38.7708,
+      "longitude": -9.2501,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Santo António dos Olivais",
+      "province": "科英布拉区",
+      "latitude": 40.218,
+      "longitude": -8.4052,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Sesimbra",
+      "province": "塞图巴尔区",
+      "latitude": 38.4445,
+      "longitude": -9.1015,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Guimarães",
+      "province": "布拉加区",
+      "latitude": 41.4444,
+      "longitude": -8.2962,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Guarda",
+      "province": "瓜达区",
+      "latitude": 40.5375,
+      "longitude": -7.2663,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Ermesinde",
+      "province": "波尔图区",
+      "latitude": 41.2165,
+      "longitude": -8.5532,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Santo Ovídio",
+      "province": "波尔图区",
+      "latitude": 41.1138,
+      "longitude": -8.6023,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Portimão",
+      "province": "法鲁区",
+      "latitude": 37.1386,
+      "longitude": -8.5378,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Damaia",
+      "province": "里斯本区",
+      "latitude": 38.7514,
+      "longitude": -9.2123,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Cidade Universitária",
+      "province": "里斯本区",
+      "latitude": 38.752,
+      "longitude": -9.1592,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Benfica",
+      "province": "里斯本区",
+      "latitude": 38.7509,
+      "longitude": -9.2028,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "卡斯凯什",
+      "name_en": "Cascais",
+      "province": "里斯本区",
+      "latitude": 38.6968,
+      "longitude": -9.4215,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Maia",
+      "province": "波尔图区",
+      "latitude": 41.2357,
+      "longitude": -8.6199,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Viana do Castelo",
+      "province": "维亚纳堡区",
+      "latitude": 41.6932,
+      "longitude": -8.8329,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Marvila",
+      "province": "里斯本区",
+      "latitude": 38.7398,
+      "longitude": -9.1016,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Bragança",
+      "province": "布拉干萨区",
+      "latitude": 41.8072,
+      "longitude": -6.759,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Oeiras",
+      "province": "里斯本区",
+      "latitude": 38.691,
+      "longitude": -9.3109,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Beja",
+      "province": "贝雅区",
+      "latitude": 38.0147,
+      "longitude": -7.8628,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Esposende",
+      "province": "布拉加区",
+      "latitude": 41.5361,
+      "longitude": -8.782,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Afurada de Baixo",
+      "province": "波尔图区",
+      "latitude": 41.1439,
+      "longitude": -8.6464,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Almada",
+      "province": "塞图巴尔区",
+      "latitude": 38.679,
+      "longitude": -9.1569,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Olivais",
+      "province": "里斯本区",
+      "latitude": 38.7699,
+      "longitude": -9.1067,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Lagos",
+      "province": "法鲁区",
+      "latitude": 37.102,
+      "longitude": -8.6742,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Castelo Branco",
+      "province": "布朗库堡区",
+      "latitude": 39.8236,
+      "longitude": -7.491,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Alcabideche",
+      "province": "里斯本区",
+      "latitude": 38.7337,
+      "longitude": -9.4093,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Bairro Novo",
+      "province": "布拉加区",
+      "latitude": 41.5432,
+      "longitude": -8.4072,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Espinho",
+      "province": "Aveiro",
+      "latitude": 41.0076,
+      "longitude": -8.6412,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "卡马拉-德洛布什",
+      "name_en": "Câmara de Lobos",
+      "province": "马德拉",
+      "latitude": 32.6504,
+      "longitude": -16.9772,
+      "timezone": "Atlantic/Madeira"
+    },
+    {
+      "name": "",
+      "name_en": "Alvalade",
+      "province": "里斯本区",
+      "latitude": 38.7533,
+      "longitude": -9.144,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Arrentela",
+      "province": "塞图巴尔区",
+      "latitude": 38.625,
+      "longitude": -9.1015,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Montijo",
+      "province": "塞图巴尔区",
+      "latitude": 38.7067,
+      "longitude": -8.9739,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Charneca de Caparica",
+      "province": "塞图巴尔区",
+      "latitude": 38.6203,
+      "longitude": -9.1943,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "坎帕尼扬",
+      "name_en": "Campanhã",
+      "province": "波尔图区",
+      "latitude": 41.1571,
+      "longitude": -8.5747,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Santarém",
+      "province": "圣塔伦区",
+      "latitude": 39.2338,
+      "longitude": -8.6862,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Olhão",
+      "province": "法鲁区",
+      "latitude": 37.0286,
+      "longitude": -7.8411,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Aldoar",
+      "province": "波尔图区",
+      "latitude": 41.1671,
+      "longitude": -8.6691,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "波瓦-迪瓦尔津",
+      "name_en": "Póvoa de Varzim",
+      "province": "波尔图区",
+      "latitude": 41.3834,
+      "longitude": -8.7636,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Senhora da Hora",
+      "province": "波尔图区",
+      "latitude": 41.1864,
+      "longitude": -8.6517,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Marinha Grande",
+      "province": "莱里亚区",
+      "latitude": 39.7477,
+      "longitude": -8.9323,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Póvoa de Santa Iria",
+      "province": "里斯本区",
+      "latitude": 38.861,
+      "longitude": -9.0645,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Sequeira",
+      "province": "瓜达区",
+      "latitude": 40.5536,
+      "longitude": -7.2259,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Massamá",
+      "province": "里斯本区",
+      "latitude": 38.7528,
+      "longitude": -9.2811,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Matosinhos",
+      "province": "波尔图区",
+      "latitude": 41.1821,
+      "longitude": -8.6891,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Gondomar",
+      "province": "波尔图区",
+      "latitude": 41.1445,
+      "longitude": -8.5322,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Águas Santas",
+      "province": "波尔图区",
+      "latitude": 41.2102,
+      "longitude": -8.576,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "孔迪镇",
+      "name_en": "Vila do Conde",
+      "province": "波尔图区",
+      "latitude": 41.3533,
+      "longitude": -8.7452,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Caldas da Rainha",
+      "province": "莱里亚区",
+      "latitude": 39.4033,
+      "longitude": -9.1384,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Alfornelos",
+      "province": "里斯本区",
+      "latitude": 38.761,
+      "longitude": -9.2051,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "São Martinho",
+      "province": "马德拉",
+      "latitude": 32.6448,
+      "longitude": -16.9384,
+      "timezone": "Atlantic/Madeira"
+    },
+    {
+      "name": "",
+      "name_en": "Canidelo",
+      "province": "波尔图区",
+      "latitude": 41.1231,
+      "longitude": -8.6465,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "辛特拉",
+      "name_en": "Sintra",
+      "province": "里斯本区",
+      "latitude": 38.801,
+      "longitude": -9.3783,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Paço de Arcos",
+      "province": "里斯本区",
+      "latitude": 38.6957,
+      "longitude": -9.2914,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Santo António",
+      "province": "马德拉",
+      "latitude": 32.6614,
+      "longitude": -16.9348,
+      "timezone": "Atlantic/Madeira"
+    },
+    {
+      "name": "",
+      "name_en": "São Mamede de Infesta",
+      "province": "波尔图区",
+      "latitude": 41.1918,
+      "longitude": -8.6111,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Quinta Do Conde",
+      "province": "塞图巴尔区",
+      "latitude": 38.5653,
+      "longitude": -9.0432,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "托雷斯韦德拉什",
+      "name_en": "Torres Vedras",
+      "province": "里斯本区",
+      "latitude": 39.0911,
+      "longitude": -9.2586,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Quarteira",
+      "province": "法鲁区",
+      "latitude": 37.0695,
+      "longitude": -8.1006,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Oliveira do Douro",
+      "province": "波尔图区",
+      "latitude": 41.1247,
+      "longitude": -8.5846,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Fânzeres",
+      "province": "波尔图区",
+      "latitude": 41.1675,
+      "longitude": -8.5298,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Estoril",
+      "province": "里斯本区",
+      "latitude": 38.7057,
+      "longitude": -9.3977,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Carnaxide",
+      "province": "里斯本区",
+      "latitude": 38.7271,
+      "longitude": -9.2467,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Porto de Mós",
+      "province": "法鲁区",
+      "latitude": 37.0853,
+      "longitude": -8.6837,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Pinhal Novo",
+      "province": "塞图巴尔区",
+      "latitude": 38.6311,
+      "longitude": -8.9138,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Monte Estoril",
+      "province": "里斯本区",
+      "latitude": 38.7064,
+      "longitude": -9.406,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Caniço",
+      "province": "马德拉",
+      "latitude": 32.6508,
+      "longitude": -16.8375,
+      "timezone": "Atlantic/Madeira"
+    },
+    {
+      "name": "",
+      "name_en": "Sete Rios",
+      "province": "里斯本区",
+      "latitude": 38.7413,
+      "longitude": -9.1613,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Pontinha",
+      "province": "里斯本区",
+      "latitude": 38.7677,
+      "longitude": -9.1994,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "São Jorge de Arroios",
+      "province": "里斯本区",
+      "latitude": 38.7289,
+      "longitude": -9.1381,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Bomfim",
+      "province": "波尔图区",
+      "latitude": 41.1542,
+      "longitude": -8.5869,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Arcos de Valdevez",
+      "province": "维亚纳堡区",
+      "latitude": 41.8467,
+      "longitude": -8.4191,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Moscavide e Portela",
+      "province": "里斯本区",
+      "latitude": 38.7793,
+      "longitude": -9.1022,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Parque das Nações",
+      "province": "里斯本区",
+      "latitude": 38.7691,
+      "longitude": -9.0963,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Portalegre",
+      "province": "波塔莱格雷区",
+      "latitude": 39.2938,
+      "longitude": -7.4312,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Valadares",
+      "province": "波尔图区",
+      "latitude": 41.0929,
+      "longitude": -8.6322,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Lordelo do Ouro",
+      "province": "波尔图区",
+      "latitude": 41.1506,
+      "longitude": -8.6485,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Campo De Ourique",
+      "province": "里斯本区",
+      "latitude": 38.7213,
+      "longitude": -9.1674,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "São João da Madeira",
+      "province": "Aveiro",
+      "latitude": 40.9007,
+      "longitude": -8.4902,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Lavradio",
+      "province": "塞图巴尔区",
+      "latitude": 38.6681,
+      "longitude": -9.052,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Bougado",
+      "province": "波尔图区",
+      "latitude": 41.3398,
+      "longitude": -8.5518,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "阿赞布雅",
+      "name_en": "Azambuja",
+      "province": "里斯本区",
+      "latitude": 39.0703,
+      "longitude": -8.8682,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Valongo",
+      "province": "波尔图区",
+      "latitude": 41.1888,
+      "longitude": -8.4986,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Vilar",
+      "province": "Aveiro",
+      "latitude": 40.6273,
+      "longitude": -8.6323,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Caparica",
+      "province": "塞图巴尔区",
+      "latitude": 38.6618,
+      "longitude": -9.2003,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Areeiro",
+      "province": "里斯本区",
+      "latitude": 38.741,
+      "longitude": -9.138,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Arouca",
+      "province": "Aveiro",
+      "latitude": 40.9306,
+      "longitude": -8.2449,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Belas",
+      "province": "里斯本区",
+      "latitude": 38.7767,
+      "longitude": -9.2635,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Laranjeiro",
+      "province": "塞图巴尔区",
+      "latitude": 38.656,
+      "longitude": -9.1538,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Linda-a-Velha",
+      "province": "里斯本区",
+      "latitude": 38.7145,
+      "longitude": -9.2422,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Falagueira",
+      "province": "里斯本区",
+      "latitude": 38.7639,
+      "longitude": -9.228,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Trofa",
+      "province": "波尔图区",
+      "latitude": 41.3373,
+      "longitude": -8.5596,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Baião",
+      "province": "波尔图区",
+      "latitude": 41.1627,
+      "longitude": -8.0347,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Laranjeiro",
+      "province": "法鲁区",
+      "latitude": 38.656,
+      "longitude": -9.1538,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Carcavelos",
+      "province": "里斯本区",
+      "latitude": 38.691,
+      "longitude": -9.3222,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Alcântara",
+      "province": "里斯本区",
+      "latitude": 38.701,
+      "longitude": -9.1715,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Camarate",
+      "province": "里斯本区",
+      "latitude": 38.8036,
+      "longitude": -9.1281,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "蓬塔德尔加达",
+      "name_en": "Ponta Delgada",
+      "province": "Azores",
+      "latitude": 37.7395,
+      "longitude": -25.6687,
+      "timezone": "Atlantic/Azores"
+    },
+    {
+      "name": "",
+      "name_en": "Entroncamento",
+      "province": "圣塔伦区",
+      "latitude": 39.4667,
+      "longitude": -8.4667,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Paredes",
+      "province": "波尔图区",
+      "latitude": 41.2049,
+      "longitude": -8.3315,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Monção",
+      "province": "维亚纳堡区",
+      "latitude": 42.0789,
+      "longitude": -8.4808,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Piedade",
+      "province": "塞图巴尔区",
+      "latitude": 38.6701,
+      "longitude": -9.1585,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Custoias",
+      "province": "瓜达区",
+      "latitude": 41.1053,
+      "longitude": -7.321,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Algés",
+      "province": "里斯本区",
+      "latitude": 38.7024,
+      "longitude": -9.2294,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "托马尔",
+      "name_en": "Tomar",
+      "province": "圣塔伦区",
+      "latitude": 39.602,
+      "longitude": -8.4092,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "巴塞卢什",
+      "name_en": "Barcelos",
+      "province": "布拉加区",
+      "latitude": 41.5317,
+      "longitude": -8.6184,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "São Tiago de Custoias",
+      "province": "波尔图区",
+      "latitude": 41.2,
+      "longitude": -8.6333,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Pedroso",
+      "province": "波尔图区",
+      "latitude": 41.411,
+      "longitude": -8.749,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Vilar de Andorinho",
+      "province": "波尔图区",
+      "latitude": 41.1057,
+      "longitude": -8.5862,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "São João da Talha",
+      "province": "里斯本区",
+      "latitude": 38.8238,
+      "longitude": -9.0972,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Azeitão",
+      "province": "塞图巴尔区",
+      "latitude": 38.5192,
+      "longitude": -9.0139,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Iria da Azóia",
+      "province": "里斯本区",
+      "latitude": 38.8411,
+      "longitude": -9.0991,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Ovar",
+      "province": "Aveiro",
+      "latitude": 40.8586,
+      "longitude": -8.6251,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Vila Franca de Xira",
+      "province": "里斯本区",
+      "latitude": 38.9552,
+      "longitude": -8.9897,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Carnide",
+      "province": "里斯本区",
+      "latitude": 38.7667,
+      "longitude": -9.1833,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Leça da Palmeira",
+      "province": "波尔图区",
+      "latitude": 41.191,
+      "longitude": -8.7003,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Loulé",
+      "province": "法鲁区",
+      "latitude": 37.1377,
+      "longitude": -8.0197,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Moita",
+      "province": "塞图巴尔区",
+      "latitude": 38.6508,
+      "longitude": -8.9904,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "萨卡文",
+      "name_en": "Sacavém",
+      "province": "里斯本区",
+      "latitude": 38.792,
+      "longitude": -9.108,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Covilhã",
+      "province": "布朗库堡区",
+      "latitude": 40.2811,
+      "longitude": -7.505,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Chaves",
+      "province": "雷阿尔城区",
+      "latitude": 41.7402,
+      "longitude": -7.4688,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Ramada",
+      "province": "里斯本区",
+      "latitude": 38.8037,
+      "longitude": -9.1877,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Pombal",
+      "province": "莱里亚区",
+      "latitude": 39.9167,
+      "longitude": -8.6285,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Quelfes",
+      "province": "法鲁区",
+      "latitude": 37.06,
+      "longitude": -7.8216,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Ílhavo",
+      "province": "Aveiro",
+      "latitude": 40.6019,
+      "longitude": -8.6702,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Parede",
+      "province": "里斯本区",
+      "latitude": 38.6928,
+      "longitude": -9.3541,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Eiras",
+      "province": "科英布拉区",
+      "latitude": 40.2483,
+      "longitude": -8.4155,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "São Paulo de Frades",
+      "province": "科英布拉区",
+      "latitude": 40.2468,
+      "longitude": -8.394,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Condeixa-a-Nova",
+      "province": "科英布拉区",
+      "latitude": 40.1128,
+      "longitude": -8.498,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Alfragide",
+      "province": "里斯本区",
+      "latitude": 38.732,
+      "longitude": -9.2192,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "São Pedro da Cova",
+      "province": "波尔图区",
+      "latitude": 41.1433,
+      "longitude": -8.5003,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "雷阿尔城",
+      "name_en": "Vila Real",
+      "province": "雷阿尔城区",
+      "latitude": 41.3001,
+      "longitude": -7.7432,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Palmela",
+      "province": "塞图巴尔区",
+      "latitude": 38.569,
+      "longitude": -8.9013,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Fafe",
+      "province": "布拉加区",
+      "latitude": 41.4508,
+      "longitude": -8.1726,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "卡贝塞拉什德巴什图",
+      "name_en": "Cabeceiras de Basto",
+      "province": "布拉加区",
+      "latitude": 41.5143,
+      "longitude": -7.9894,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "贝伦塔",
+      "name_en": "Belém",
+      "province": "里斯本区",
+      "latitude": 38.6987,
+      "longitude": -9.1929,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Feira",
+      "province": "Aveiro",
+      "latitude": 40.9254,
+      "longitude": -8.5428,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Leça do Bailio",
+      "province": "波尔图区",
+      "latitude": 41.212,
+      "longitude": -8.6342,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Vialonga",
+      "province": "里斯本区",
+      "latitude": 38.8721,
+      "longitude": -9.078,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Buraca",
+      "province": "里斯本区",
+      "latitude": 38.7333,
+      "longitude": -9.2,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Albufeira",
+      "province": "法鲁区",
+      "latitude": 37.0882,
+      "longitude": -8.2503,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Baguim do Monte",
+      "province": "波尔图区",
+      "latitude": 41.192,
+      "longitude": -8.5412,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "阿尔科巴萨",
+      "name_en": "Alcobaça",
+      "province": "莱里亚区",
+      "latitude": 39.5522,
+      "longitude": -8.9775,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Vermoim",
+      "province": "波尔图区",
+      "latitude": 41.2431,
+      "longitude": -8.6065,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Peniche",
+      "province": "莱里亚区",
+      "latitude": 39.3558,
+      "longitude": -9.3811,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Campo Grande",
+      "province": "里斯本区",
+      "latitude": 38.7547,
+      "longitude": -9.1665,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Ribeira de Frades",
+      "province": "科英布拉区",
+      "latitude": 40.205,
+      "longitude": -8.4793,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "São Martinho do Bispo",
+      "province": "科英布拉区",
+      "latitude": 40.2102,
+      "longitude": -8.4569,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Alfena",
+      "province": "波尔图区",
+      "latitude": 41.2367,
+      "longitude": -8.5245,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "塔维拉",
+      "name_en": "Tavira",
+      "province": "法鲁区",
+      "latitude": 37.1273,
+      "longitude": -7.6486,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Torres Novas",
+      "province": "圣塔伦区",
+      "latitude": 39.4758,
+      "longitude": -8.5435,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Póvoa de Santo Adrião",
+      "province": "里斯本区",
+      "latitude": 38.8,
+      "longitude": -9.1667,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Gafanha",
+      "province": "Aveiro",
+      "latitude": 40.6362,
+      "longitude": -8.7134,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Campolide",
+      "province": "里斯本区",
+      "latitude": 38.7295,
+      "longitude": -9.1649,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Vilar do Paraíso",
+      "province": "波尔图区",
+      "latitude": 41.0897,
+      "longitude": -8.6211,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Areosa",
+      "province": "波尔图区",
+      "latitude": 41.1815,
+      "longitude": -8.5878,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Valbom",
+      "province": "波尔图区",
+      "latitude": 41.1292,
+      "longitude": -8.562,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "拉古阿",
+      "name_en": "Lagoa",
+      "province": "Azores",
+      "latitude": 37.7449,
+      "longitude": -25.5718,
+      "timezone": "Atlantic/Azores"
+    },
+    {
+      "name": "",
+      "name_en": "Arcozelo",
+      "province": "波尔图区",
+      "latitude": 41.0619,
+      "longitude": -8.6319,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Ajuda",
+      "province": "里斯本区",
+      "latitude": 38.7003,
+      "longitude": -9.2081,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Canelas",
+      "province": "波尔图区",
+      "latitude": 41.0833,
+      "longitude": -8.6,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Costa de Caparica",
+      "province": "塞图巴尔区",
+      "latitude": 38.6446,
+      "longitude": -9.2356,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Cadaval",
+      "province": "里斯本区",
+      "latitude": 39.243,
+      "longitude": -9.1033,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Valenza",
+      "province": "维亚纳堡区",
+      "latitude": 42.0242,
+      "longitude": -8.6347,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Samora Correia",
+      "province": "圣塔伦区",
+      "latitude": 38.9371,
+      "longitude": -8.8718,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Santo Tirso",
+      "province": "波尔图区",
+      "latitude": 41.3426,
+      "longitude": -8.4775,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Azevedo",
+      "province": "波尔图区",
+      "latitude": 41.15,
+      "longitude": -8.5667,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Contumil",
+      "province": "波尔图区",
+      "latitude": 41.1656,
+      "longitude": -8.5796,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Costa da Caparica",
+      "province": "塞图巴尔区",
+      "latitude": 38.6413,
+      "longitude": -9.2322,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Graça",
+      "province": "里斯本区",
+      "latitude": 38.7176,
+      "longitude": -9.1295,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Porto Salvo",
+      "province": "里斯本区",
+      "latitude": 38.7229,
+      "longitude": -9.3047,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "阿布兰特什",
+      "name_en": "Abrantes",
+      "province": "圣塔伦区",
+      "latitude": 39.4667,
+      "longitude": -8.2,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Esgueira",
+      "province": "Aveiro",
+      "latitude": 40.649,
+      "longitude": -8.6294,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Alhos Vedros",
+      "province": "塞图巴尔区",
+      "latitude": 38.6549,
+      "longitude": -9.0237,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Olhos de Água",
+      "province": "法鲁区",
+      "latitude": 37.0902,
+      "longitude": -8.1917,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Moreira",
+      "province": "波尔图区",
+      "latitude": 41.2476,
+      "longitude": -8.6479,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Montemor-o-Novo",
+      "province": "埃武拉区",
+      "latitude": 38.6481,
+      "longitude": -8.2145,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "锡尼什",
+      "name_en": "Sines",
+      "province": "塞图巴尔区",
+      "latitude": 37.9562,
+      "longitude": -8.8698,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Baixa",
+      "province": "里斯本区",
+      "latitude": 38.7114,
+      "longitude": -9.1372,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Beato António",
+      "province": "里斯本区",
+      "latitude": 38.7333,
+      "longitude": -9.1034,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Ourém",
+      "province": "圣塔伦区",
+      "latitude": 39.6417,
+      "longitude": -8.5919,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Machico",
+      "province": "马德拉",
+      "latitude": 32.7162,
+      "longitude": -16.7676,
+      "timezone": "Atlantic/Madeira"
+    },
+    {
+      "name": "",
+      "name_en": "Pedrouços",
+      "province": "波尔图区",
+      "latitude": 41.1888,
+      "longitude": -8.5862,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Perafita",
+      "province": "波尔图区",
+      "latitude": 41.1825,
+      "longitude": -8.2545,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Mirandela",
+      "province": "布拉干萨区",
+      "latitude": 41.4874,
+      "longitude": -7.187,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Azenha",
+      "province": "波尔图区",
+      "latitude": 41.0765,
+      "longitude": -8.6247,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Mafra",
+      "province": "里斯本区",
+      "latitude": 38.9379,
+      "longitude": -9.3276,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Bairro da Madre de Deus",
+      "province": "里斯本区",
+      "latitude": 38.7354,
+      "longitude": -9.1176,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Aldeia de Paio Pires",
+      "province": "塞图巴尔区",
+      "latitude": 38.6167,
+      "longitude": -9.0833,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Tábua",
+      "province": "科英布拉区",
+      "latitude": 40.3621,
+      "longitude": -8.0294,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Rio Maior",
+      "province": "圣塔伦区",
+      "latitude": 39.3373,
+      "longitude": -8.9391,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "英雄港",
+      "name_en": "Angra do Heroísmo",
+      "province": "Azores",
+      "latitude": 38.6539,
+      "longitude": -27.2184,
+      "timezone": "Atlantic/Azores"
+    },
+    {
+      "name": "",
+      "name_en": "Barcarena",
+      "province": "里斯本区",
+      "latitude": 38.7325,
+      "longitude": -9.28,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Gueifães",
+      "province": "波尔图区",
+      "latitude": 41.2167,
+      "longitude": -8.6,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Alijó",
+      "province": "雷阿尔城区",
+      "latitude": 41.2764,
+      "longitude": -7.4749,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "阿格达",
+      "name_en": "Águeda",
+      "province": "Aveiro",
+      "latitude": 40.5772,
+      "longitude": -8.4444,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Castelo Viegas",
+      "province": "科英布拉区",
+      "latitude": 40.1631,
+      "longitude": -8.4066,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "花地玛",
+      "name_en": "Fátima",
+      "province": "圣塔伦区",
+      "latitude": 39.6207,
+      "longitude": -8.6524,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Oliveira de Azemeis",
+      "province": "Aveiro",
+      "latitude": 40.841,
+      "longitude": -8.4756,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Maria Maior",
+      "province": "马德拉",
+      "latitude": 32.6484,
+      "longitude": -16.8909,
+      "timezone": "Atlantic/Madeira"
+    },
+    {
+      "name": "",
+      "name_en": "Real",
+      "province": "布拉加区",
+      "latitude": 41.5584,
+      "longitude": -8.4433,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Semelhe",
+      "province": "布拉加区",
+      "latitude": 41.5544,
+      "longitude": -8.4628,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "São Félix da Marinha",
+      "province": "波尔图区",
+      "latitude": 41.0356,
+      "longitude": -8.6226,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Comba Dão",
+      "province": "维塞乌区",
+      "latitude": 40.3986,
+      "longitude": -8.1316,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "阿加尼尔",
+      "name_en": "Arganil",
+      "province": "科英布拉区",
+      "latitude": 40.2183,
+      "longitude": -8.054,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Avintes",
+      "province": "波尔图区",
+      "latitude": 41.1071,
+      "longitude": -8.5513,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Vila Real de Santo António",
+      "province": "法鲁区",
+      "latitude": 37.195,
+      "longitude": -7.4177,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Almeirim",
+      "province": "圣塔伦区",
+      "latitude": 39.2084,
+      "longitude": -8.6264,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Rebordosa",
+      "province": "波尔图区",
+      "latitude": 41.224,
+      "longitude": -8.4067,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Lousã",
+      "province": "科英布拉区",
+      "latitude": 40.1167,
+      "longitude": -8.2492,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Esmoriz",
+      "province": "Aveiro",
+      "latitude": 40.9577,
+      "longitude": -8.6275,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Calendário",
+      "province": "布拉加区",
+      "latitude": 41.4036,
+      "longitude": -8.5297,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Moreira",
+      "province": "波尔图区",
+      "latitude": 41.2476,
+      "longitude": -8.6479,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Almancil",
+      "province": "法鲁区",
+      "latitude": 37.0869,
+      "longitude": -8.0307,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Vendas Novas",
+      "province": "埃武拉区",
+      "latitude": 38.6771,
+      "longitude": -8.4579,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Santo André",
+      "province": "波塔莱格雷区",
+      "latitude": 39.0553,
+      "longitude": -8.2441,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "奥比杜什",
+      "name_en": "Óbidos",
+      "province": "莱里亚区",
+      "latitude": 39.3606,
+      "longitude": -9.1567,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "圣布拉什迪阿尔波特尔",
+      "name_en": "São Brás de Alportel",
+      "province": "法鲁区",
+      "latitude": 37.1531,
+      "longitude": -7.8875,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Sobreda",
+      "province": "塞图巴尔区",
+      "latitude": 38.6496,
+      "longitude": -9.1898,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Santo António da Charneca",
+      "province": "塞图巴尔区",
+      "latitude": 38.6256,
+      "longitude": -9.0304,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Cucujães",
+      "province": "Aveiro",
+      "latitude": 40.8741,
+      "longitude": -8.5069,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Ponte de Sôr",
+      "province": "波塔莱格雷区",
+      "latitude": 39.2496,
+      "longitude": -8.0101,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Senhora do Porto",
+      "province": "波尔图区",
+      "latitude": 41.1667,
+      "longitude": -8.6333,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Foz do Douro",
+      "province": "波尔图区",
+      "latitude": 41.1512,
+      "longitude": -8.6713,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Caneças",
+      "province": "里斯本区",
+      "latitude": 38.8132,
+      "longitude": -9.2268,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Anta",
+      "province": "波尔图区",
+      "latitude": 41.2663,
+      "longitude": -8.6284,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Lamego",
+      "province": "维塞乌区",
+      "latitude": 41.0974,
+      "longitude": -7.8099,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Silves",
+      "province": "法鲁区",
+      "latitude": 37.1892,
+      "longitude": -8.4382,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Grijó",
+      "province": "波尔图区",
+      "latitude": 41.0284,
+      "longitude": -8.5802,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Vale da Amoreira",
+      "province": "波塔莱格雷区",
+      "latitude": 39.0697,
+      "longitude": -7.6985,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "格兰杜拉",
+      "name_en": "Grândola",
+      "province": "塞图巴尔区",
+      "latitude": 38.1772,
+      "longitude": -8.5668,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Unhos",
+      "province": "里斯本区",
+      "latitude": 38.8196,
+      "longitude": -9.1201,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Gulpilhares",
+      "province": "波尔图区",
+      "latitude": 41.0829,
+      "longitude": -8.6268,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Margaride",
+      "province": "波尔图区",
+      "latitude": 41.3648,
+      "longitude": -8.2,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Santo André",
+      "province": "塞图巴尔区",
+      "latitude": 39.0553,
+      "longitude": -8.2441,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Madalena",
+      "province": "波尔图区",
+      "latitude": 41.1017,
+      "longitude": -8.6476,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Charneca",
+      "province": "里斯本区",
+      "latitude": 38.6203,
+      "longitude": -9.1943,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Cartaxo",
+      "province": "圣塔伦区",
+      "latitude": 39.1602,
+      "longitude": -8.7874,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Aver-o-Mar",
+      "province": "波尔图区",
+      "latitude": 41.4061,
+      "longitude": -8.7796,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "São João das Lampas",
+      "province": "里斯本区",
+      "latitude": 38.8738,
+      "longitude": -9.3984,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Carregado",
+      "province": "里斯本区",
+      "latitude": 39.0236,
+      "longitude": -8.9769,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Melres",
+      "province": "波尔图区",
+      "latitude": 41.0699,
+      "longitude": -8.4009,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Caldas de Vizela",
+      "province": "布拉加区",
+      "latitude": 41.3821,
+      "longitude": -8.3089,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Selho",
+      "province": "布拉加区",
+      "latitude": 41.4194,
+      "longitude": -8.346,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Moimenta da Beira",
+      "province": "维塞乌区",
+      "latitude": 40.9838,
+      "longitude": -7.6177,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Carvoeiro",
+      "province": "法鲁区",
+      "latitude": 37.0974,
+      "longitude": -8.4685,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Sardão",
+      "province": "波尔图区",
+      "latitude": 41.1184,
+      "longitude": -8.5877,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Aradas",
+      "province": "Aveiro",
+      "latitude": 40.6208,
+      "longitude": -8.6419,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Lordelo",
+      "province": "波尔图区",
+      "latitude": 41.1506,
+      "longitude": -8.6485,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Venda do Pinheiro",
+      "province": "里斯本区",
+      "latitude": 38.9237,
+      "longitude": -9.2318,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Meadela",
+      "province": "维亚纳堡区",
+      "latitude": 41.7065,
+      "longitude": -8.7963,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Elvas",
+      "province": "波塔莱格雷区",
+      "latitude": 38.8815,
+      "longitude": -7.1628,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Maceira",
+      "province": "莱里亚区",
+      "latitude": 39.6885,
+      "longitude": -8.8942,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Ameal",
+      "province": "波尔图区",
+      "latitude": 41.1667,
+      "longitude": -8.6,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Fundão",
+      "province": "布朗库堡区",
+      "latitude": 40.1403,
+      "longitude": -7.5014,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Alcochete",
+      "province": "塞图巴尔区",
+      "latitude": 38.7553,
+      "longitude": -8.9609,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Francos",
+      "province": "波尔图区",
+      "latitude": 41.1676,
+      "longitude": -8.6377,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "里斯本上城",
+      "name_en": "Bairro Alto",
+      "province": "里斯本区",
+      "latitude": 38.7119,
+      "longitude": -9.1441,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Principe Real",
+      "province": "里斯本区",
+      "latitude": 38.7184,
+      "longitude": -9.1525,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Malveira",
+      "province": "里斯本区",
+      "latitude": 38.9321,
+      "longitude": -9.2578,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Clara",
+      "province": "科英布拉区",
+      "latitude": 40.1998,
+      "longitude": -8.4402,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Lavra",
+      "province": "波尔图区",
+      "latitude": 41.2593,
+      "longitude": -8.7185,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Alenquer",
+      "province": "里斯本区",
+      "latitude": 39.0532,
+      "longitude": -9.0093,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Lourosa",
+      "province": "Aveiro",
+      "latitude": 40.9842,
+      "longitude": -8.5514,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Madalena",
+      "province": "波尔图区",
+      "latitude": 41.1017,
+      "longitude": -8.6476,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "São João de Ver",
+      "province": "Aveiro",
+      "latitude": 40.9553,
+      "longitude": -8.5512,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Rio de Loba",
+      "province": "维塞乌区",
+      "latitude": 40.666,
+      "longitude": -7.8778,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Vila Nova de Famalicão",
+      "province": "布拉加区",
+      "latitude": 41.408,
+      "longitude": -8.5198,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Famões",
+      "province": "里斯本区",
+      "latitude": 38.788,
+      "longitude": -9.2103,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "São Roque",
+      "province": "马德拉",
+      "latitude": 32.6667,
+      "longitude": -16.9167,
+      "timezone": "Atlantic/Madeira"
+    },
+    {
+      "name": "",
+      "name_en": "Anjos",
+      "province": "里斯本区",
+      "latitude": 38.7264,
+      "longitude": -9.1353,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "莫拉",
+      "name_en": "Moura",
+      "province": "贝雅区",
+      "latitude": 38.1401,
+      "longitude": -7.4486,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Estremoz",
+      "province": "埃武拉区",
+      "latitude": 38.8443,
+      "longitude": -7.5858,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Estreito de Câmara de Lobos",
+      "province": "马德拉",
+      "latitude": 32.6612,
+      "longitude": -17.0001,
+      "timezone": "Atlantic/Madeira"
+    },
+    {
+      "name": "",
+      "name_en": "Abraveses",
+      "province": "维塞乌区",
+      "latitude": 40.6814,
+      "longitude": -7.921,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Fuzeta",
+      "province": "法鲁区",
+      "latitude": 37.0543,
+      "longitude": -7.747,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Valadares",
+      "province": "波尔图区",
+      "latitude": 41.0929,
+      "longitude": -8.6322,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Guifões",
+      "province": "波尔图区",
+      "latitude": 41.1975,
+      "longitude": -8.669,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Alcácer do Sal",
+      "province": "塞图巴尔区",
+      "latitude": 38.3733,
+      "longitude": -8.5144,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Lourinhã",
+      "province": "里斯本区",
+      "latitude": 39.2417,
+      "longitude": -9.3125,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Gondizalves",
+      "province": "布拉加区",
+      "latitude": 41.5416,
+      "longitude": -8.4557,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Quinta do Anjo",
+      "province": "塞图巴尔区",
+      "latitude": 38.5675,
+      "longitude": -8.9423,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "维尼艾什",
+      "name_en": "Vinhais",
+      "province": "布拉干萨区",
+      "latitude": 41.8351,
+      "longitude": -7.005,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Marco de Canavezes",
+      "province": "波尔图区",
+      "latitude": 41.1839,
+      "longitude": -8.1486,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Caxias",
+      "province": "里斯本区",
+      "latitude": 38.7031,
+      "longitude": -9.2767,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Campo Pequeno",
+      "province": "里斯本区",
+      "latitude": 38.743,
+      "longitude": -9.1442,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Mem Martins",
+      "province": "里斯本区",
+      "latitude": 38.7944,
+      "longitude": -9.3428,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "纳扎雷",
+      "name_en": "Nazaré",
+      "province": "莱里亚区",
+      "latitude": 39.6029,
+      "longitude": -9.0684,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Benavente",
+      "province": "圣塔伦区",
+      "latitude": 38.9792,
+      "longitude": -8.8076,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Campo",
+      "province": "波尔图区",
+      "latitude": 41.1852,
+      "longitude": -8.4649,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Mangualde",
+      "province": "维塞乌区",
+      "latitude": 40.6043,
+      "longitude": -7.7611,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Queijas",
+      "province": "里斯本区",
+      "latitude": 38.7193,
+      "longitude": -9.2625,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Santana",
+      "province": "马德拉",
+      "latitude": 32.8,
+      "longitude": -16.8833,
+      "timezone": "Atlantic/Madeira"
+    },
+    {
+      "name": "通德拉",
+      "name_en": "Tondela",
+      "province": "维塞乌区",
+      "latitude": 40.5168,
+      "longitude": -8.0809,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Coruche",
+      "province": "圣塔伦区",
+      "latitude": 38.9596,
+      "longitude": -8.5252,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Argoncilhe",
+      "province": "Aveiro",
+      "latitude": 41.0254,
+      "longitude": -8.5389,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Ribeirão",
+      "province": "布拉加区",
+      "latitude": 41.3608,
+      "longitude": -8.5677,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Fiães",
+      "province": "Aveiro",
+      "latitude": 40.9945,
+      "longitude": -8.5254,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Coronado",
+      "province": "波尔图区",
+      "latitude": 41.2854,
+      "longitude": -8.5632,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Estômbar",
+      "province": "法鲁区",
+      "latitude": 37.1463,
+      "longitude": -8.485,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Tavarede",
+      "province": "科英布拉区",
+      "latitude": 40.1669,
+      "longitude": -8.8457,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Torre de Moncorvo",
+      "province": "布拉干萨区",
+      "latitude": 41.1745,
+      "longitude": -7.0536,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Benedita",
+      "province": "莱里亚区",
+      "latitude": 39.4247,
+      "longitude": -8.97,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Moncarapacho",
+      "province": "法鲁区",
+      "latitude": 37.0836,
+      "longitude": -7.7876,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Maria de Belém",
+      "province": "里斯本区",
+      "latitude": 38.7,
+      "longitude": -9.2,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Aves",
+      "province": "波尔图区",
+      "latitude": 41.3703,
+      "longitude": -8.4101,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Alpendurada",
+      "province": "波尔图区",
+      "latitude": 41.0894,
+      "longitude": -8.2464,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Soure",
+      "province": "科英布拉区",
+      "latitude": 40.0599,
+      "longitude": -8.626,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Bobadela",
+      "province": "里斯本区",
+      "latitude": 38.8077,
+      "longitude": -9.0992,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "São Bartolomeu de Messines",
+      "province": "法鲁区",
+      "latitude": 37.2565,
+      "longitude": -8.2867,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Silva Escura",
+      "province": "波尔图区",
+      "latitude": 41.2582,
+      "longitude": -8.5808,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Estói",
+      "province": "法鲁区",
+      "latitude": 37.095,
+      "longitude": -7.8944,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Castelões de Cepeda",
+      "province": "波尔图区",
+      "latitude": 41.2026,
+      "longitude": -8.3352,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Vila Viçosa",
+      "province": "埃武拉区",
+      "latitude": 38.7777,
+      "longitude": -7.4179,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Atouguia da Baleia",
+      "province": "莱里亚区",
+      "latitude": 39.3381,
+      "longitude": -9.3263,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Murtosa",
+      "province": "Aveiro",
+      "latitude": 40.737,
+      "longitude": -8.6377,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Almargem",
+      "province": "里斯本区",
+      "latitude": 38.8449,
+      "longitude": -9.2731,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Campo Maior",
+      "province": "波塔莱格雷区",
+      "latitude": 39.0177,
+      "longitude": -7.065,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Beduido",
+      "province": "Aveiro",
+      "latitude": 40.7643,
+      "longitude": -8.5611,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Prazeres",
+      "province": "里斯本区",
+      "latitude": 38.7083,
+      "longitude": -9.1683,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Darque",
+      "province": "维亚纳堡区",
+      "latitude": 41.6833,
+      "longitude": -8.7667,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "佩纳菲耶尔",
+      "name_en": "Penafiel",
+      "province": "波尔图区",
+      "latitude": 41.2084,
+      "longitude": -8.2828,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Quinta do Gato",
+      "province": "Aveiro",
+      "latitude": 40.6299,
+      "longitude": -8.6212,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Sol Posto",
+      "province": "Aveiro",
+      "latitude": 40.6334,
+      "longitude": -8.6179,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Serzedo",
+      "province": "布拉加区",
+      "latitude": 41.405,
+      "longitude": -8.2293,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Camacha",
+      "province": "马德拉",
+      "latitude": 32.6792,
+      "longitude": -16.8446,
+      "timezone": "Atlantic/Madeira"
+    },
+    {
+      "name": "",
+      "name_en": "Freamunde",
+      "province": "波尔图区",
+      "latitude": 41.2884,
+      "longitude": -8.3353,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Albergaria-a-Velha",
+      "province": "Aveiro",
+      "latitude": 40.6932,
+      "longitude": -8.4799,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Chelas",
+      "province": "里斯本区",
+      "latitude": 38.7412,
+      "longitude": -9.1201,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Alpiarça",
+      "province": "圣塔伦区",
+      "latitude": 39.2571,
+      "longitude": -8.5819,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "巴塔利亚",
+      "name_en": "Batalha",
+      "province": "莱里亚区",
+      "latitude": 39.6602,
+      "longitude": -8.8247,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Colares",
+      "province": "里斯本区",
+      "latitude": 38.7992,
+      "longitude": -9.4469,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Serzedo",
+      "province": "波尔图区",
+      "latitude": 41.405,
+      "longitude": -8.2293,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Rosto de Cão",
+      "province": "Azores",
+      "latitude": 37.7445,
+      "longitude": -25.6405,
+      "timezone": "Atlantic/Azores"
+    },
+    {
+      "name": "",
+      "name_en": "São João da Pesqueira",
+      "province": "维塞乌区",
+      "latitude": 41.148,
+      "longitude": -7.4049,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Ferreiros",
+      "province": "布拉加区",
+      "latitude": 41.35,
+      "longitude": -8.55,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Joane",
+      "province": "布拉加区",
+      "latitude": 41.4391,
+      "longitude": -8.4085,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Buarcos",
+      "province": "科英布拉区",
+      "latitude": 40.166,
+      "longitude": -8.8768,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Miranda do Corvo",
+      "province": "科英布拉区",
+      "latitude": 40.0932,
+      "longitude": -8.3326,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Santiago do Cacém",
+      "province": "塞图巴尔区",
+      "latitude": 38.0169,
+      "longitude": -8.6948,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Sande",
+      "province": "布拉加区",
+      "latitude": 41.7019,
+      "longitude": -8.3925,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Pragal",
+      "province": "塞图巴尔区",
+      "latitude": 38.6746,
+      "longitude": -9.1698,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Mira",
+      "province": "科英布拉区",
+      "latitude": 40.4289,
+      "longitude": -8.7375,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Rabo de Peixe",
+      "province": "Azores",
+      "latitude": 37.8102,
+      "longitude": -25.5826,
+      "timezone": "Atlantic/Azores"
+    },
+    {
+      "name": "",
+      "name_en": "Castanheira do Ribatejo",
+      "province": "里斯本区",
+      "latitude": 38.993,
+      "longitude": -8.9735,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Vale de Cambra",
+      "province": "Aveiro",
+      "latitude": 40.8497,
+      "longitude": -8.3939,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Ericeira",
+      "province": "里斯本区",
+      "latitude": 38.9627,
+      "longitude": -9.4156,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Bonjoia",
+      "province": "波尔图区",
+      "latitude": 41.15,
+      "longitude": -8.5833,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Mondim de Basto",
+      "province": "雷阿尔城区",
+      "latitude": 41.4116,
+      "longitude": -7.9544,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Miranda do Douro",
+      "province": "布拉干萨区",
+      "latitude": 41.4969,
+      "longitude": -6.2731,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Nisa",
+      "province": "波塔莱格雷区",
+      "latitude": 39.515,
+      "longitude": -7.6491,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Almodôvar",
+      "province": "贝雅区",
+      "latitude": 37.5128,
+      "longitude": -8.0601,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Nossa Senhora do Monte",
+      "province": "马德拉",
+      "latitude": 32.6667,
+      "longitude": -16.9,
+      "timezone": "Atlantic/Madeira"
+    },
+    {
+      "name": "",
+      "name_en": "Cantanhede",
+      "province": "科英布拉区",
+      "latitude": 40.3467,
+      "longitude": -8.5942,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Vila Nova da Barquinha",
+      "province": "圣塔伦区",
+      "latitude": 39.4608,
+      "longitude": -8.4359,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Vila Nova de Foz Côa",
+      "province": "瓜达区",
+      "latitude": 41.0819,
+      "longitude": -7.1415,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Apúlia e Fão",
+      "province": "布拉加区",
+      "latitude": 41.5119,
+      "longitude": -8.7729,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Restelo",
+      "province": "里斯本区",
+      "latitude": 38.6996,
+      "longitude": -9.2141,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "梅尔图拉",
+      "name_en": "Mértola",
+      "province": "贝雅区",
+      "latitude": 37.643,
+      "longitude": -7.6611,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Ferreiras",
+      "province": "法鲁区",
+      "latitude": 37.1293,
+      "longitude": -8.2376,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Mozelos",
+      "province": "维亚纳堡区",
+      "latitude": 41.8677,
+      "longitude": -8.3978,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Alhandra",
+      "province": "里斯本区",
+      "latitude": 38.9273,
+      "longitude": -9.0086,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Reguengos de Monsaraz",
+      "province": "埃武拉区",
+      "latitude": 38.4253,
+      "longitude": -7.5349,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Silvalde",
+      "province": "Aveiro",
+      "latitude": 40.992,
+      "longitude": -8.6257,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Apelação",
+      "province": "里斯本区",
+      "latitude": 38.8139,
+      "longitude": -9.1323,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Oiã",
+      "province": "Aveiro",
+      "latitude": 40.5426,
+      "longitude": -8.5386,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Seia",
+      "province": "瓜达区",
+      "latitude": 40.4151,
+      "longitude": -7.7086,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Jovim",
+      "province": "波尔图区",
+      "latitude": 41.111,
+      "longitude": -8.519,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Ponte",
+      "province": "布拉加区",
+      "latitude": 41.4706,
+      "longitude": -8.3299,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Válega",
+      "province": "Aveiro",
+      "latitude": 40.8363,
+      "longitude": -8.5806,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Arrifes",
+      "province": "Azores",
+      "latitude": 37.7667,
+      "longitude": -25.7,
+      "timezone": "Atlantic/Azores"
+    },
+    {
+      "name": "",
+      "name_en": "Silveira",
+      "province": "里斯本区",
+      "latitude": 39.1112,
+      "longitude": -9.3643,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Arrifana",
+      "province": "Aveiro",
+      "latitude": 40.9156,
+      "longitude": -8.4966,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Pinheiro Manso",
+      "province": "波尔图区",
+      "latitude": 41.1619,
+      "longitude": -8.6519,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Ramalde do Meio",
+      "province": "波尔图区",
+      "latitude": 41.176,
+      "longitude": -8.6404,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Tunes",
+      "province": "法鲁区",
+      "latitude": 37.1659,
+      "longitude": -8.2592,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Cacia",
+      "province": "Aveiro",
+      "latitude": 40.6844,
+      "longitude": -8.5976,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Arcos",
+      "province": "布拉加区",
+      "latitude": 41.5219,
+      "longitude": -8.4215,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Massarelos",
+      "province": "波尔图区",
+      "latitude": 41.1482,
+      "longitude": -8.6327,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Amarante",
+      "province": "波尔图区",
+      "latitude": 41.2727,
+      "longitude": -8.0824,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Paços de Ferreira",
+      "province": "波尔图区",
+      "latitude": 41.2766,
+      "longitude": -8.3762,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "São João",
+      "province": "Aveiro",
+      "latitude": 40.868,
+      "longitude": -8.6067,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Gualtar",
+      "province": "布拉加区",
+      "latitude": 41.565,
+      "longitude": -8.3855,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Arcos",
+      "province": "Aveiro",
+      "latitude": 41.5219,
+      "longitude": -8.4215,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Sobrado",
+      "province": "波尔图区",
+      "latitude": 41.2104,
+      "longitude": -8.4549,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Aveleda",
+      "province": "布拉加区",
+      "latitude": 41.5211,
+      "longitude": -8.4668,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Negrelos",
+      "province": "波尔图区",
+      "latitude": 41.3495,
+      "longitude": -8.4015,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Fazendas de Almeirim",
+      "province": "圣塔伦区",
+      "latitude": 39.1755,
+      "longitude": -8.5693,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "A dos Cunhados",
+      "province": "里斯本区",
+      "latitude": 39.1524,
+      "longitude": -9.2972,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Serpa",
+      "province": "贝雅区",
+      "latitude": 37.9458,
+      "longitude": -7.5975,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "奥尔塔",
+      "name_en": "Horta",
+      "province": "Azores",
+      "latitude": 38.5374,
+      "longitude": -28.6261,
+      "timezone": "Atlantic/Azores"
+    },
+    {
+      "name": "",
+      "name_en": "Macedo de Cavaleiros",
+      "province": "布拉干萨区",
+      "latitude": 41.5382,
+      "longitude": -6.9611,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Avanca",
+      "province": "Aveiro",
+      "latitude": 40.8077,
+      "longitude": -8.5722,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Pereiro",
+      "province": "波尔图区",
+      "latitude": 41.1738,
+      "longitude": -8.6548,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Prior Velho",
+      "province": "里斯本区",
+      "latitude": 38.7917,
+      "longitude": -9.1212,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "São Romão",
+      "province": "瓜达区",
+      "latitude": 40.4012,
+      "longitude": -7.7146,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Cacilhas",
+      "province": "塞图巴尔区",
+      "latitude": 38.6864,
+      "longitude": -9.1494,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Sandim",
+      "province": "波尔图区",
+      "latitude": 41.0351,
+      "longitude": -8.507,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Carrazeda de Anciães",
+      "province": "布拉干萨区",
+      "latitude": 41.2425,
+      "longitude": -7.3072,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "São Sebastião da Pedreira",
+      "province": "里斯本区",
+      "latitude": 38.7344,
+      "longitude": -9.1539,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Sabrosa",
+      "province": "雷阿尔城区",
+      "latitude": 41.267,
+      "longitude": -7.576,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Tabuaço",
+      "province": "维塞乌区",
+      "latitude": 41.1161,
+      "longitude": -7.5679,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Foz do Sousa",
+      "province": "波尔图区",
+      "latitude": 41.0967,
+      "longitude": -8.5018,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Lagoa",
+      "province": "法鲁区",
+      "latitude": 37.7449,
+      "longitude": -25.5718,
+      "timezone": "Atlantic/Azores"
+    },
+    {
+      "name": "",
+      "name_en": "Pedras Rubras",
+      "province": "波尔图区",
+      "latitude": 41.2436,
+      "longitude": -8.6673,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Perozinho",
+      "province": "波尔图区",
+      "latitude": 41.0651,
+      "longitude": -8.5853,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Oliveira do Bairro",
+      "province": "Aveiro",
+      "latitude": 40.5146,
+      "longitude": -8.4939,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Cruz do Bispo",
+      "province": "波尔图区",
+      "latitude": 41.2146,
+      "longitude": -8.6741,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Oliveira",
+      "province": "布拉加区",
+      "latitude": 41.4782,
+      "longitude": -8.4696,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Eirol",
+      "province": "Aveiro",
+      "latitude": 40.6108,
+      "longitude": -8.5369,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Arruda dos Vinhos",
+      "province": "里斯本区",
+      "latitude": 38.9841,
+      "longitude": -9.0775,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Aljubarrota",
+      "province": "莱里亚区",
+      "latitude": 39.5671,
+      "longitude": -8.9292,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Madalena",
+      "province": "Azores",
+      "latitude": 41.1017,
+      "longitude": -8.6476,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Noeda",
+      "province": "波尔图区",
+      "latitude": 41.15,
+      "longitude": -8.5833,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Vila Cova",
+      "province": "波尔图区",
+      "latitude": 41.3241,
+      "longitude": -8.1571,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "圣维森特",
+      "name_en": "São Vicente",
+      "province": "马德拉",
+      "latitude": 32.7967,
+      "longitude": -17.0432,
+      "timezone": "Atlantic/Madeira"
+    },
+    {
+      "name": "",
+      "name_en": "Praia da Vitória",
+      "province": "Azores",
+      "latitude": 38.7333,
+      "longitude": -27.0667,
+      "timezone": "Atlantic/Azores"
+    },
+    {
+      "name": "",
+      "name_en": "Marinhas",
+      "province": "布拉加区",
+      "latitude": 41.5591,
+      "longitude": -8.783,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Lobão",
+      "province": "Aveiro",
+      "latitude": 40.9866,
+      "longitude": -8.4857,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Gandra",
+      "province": "波尔图区",
+      "latitude": 41.2012,
+      "longitude": -8.4338,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Porto de Mós",
+      "province": "莱里亚区",
+      "latitude": 37.0853,
+      "longitude": -8.6837,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "圣克鲁斯",
+      "name_en": "Santa Cruz",
+      "province": "马德拉",
+      "latitude": 32.6881,
+      "longitude": -16.7939,
+      "timezone": "Atlantic/Madeira"
+    },
+    {
+      "name": "",
+      "name_en": "Vila Nova da Telha",
+      "province": "波尔图区",
+      "latitude": 41.2568,
+      "longitude": -8.6659,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Armação de Pêra",
+      "province": "法鲁区",
+      "latitude": 37.1026,
+      "longitude": -8.3569,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Fontanelas",
+      "province": "里斯本区",
+      "latitude": 38.8481,
+      "longitude": -9.4394,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Cova da Moura",
+      "province": "里斯本区",
+      "latitude": 39.0561,
+      "longitude": -9.3479,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Vila da Lixa",
+      "province": "波尔图区",
+      "latitude": 41.3228,
+      "longitude": -8.1473,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Eixo",
+      "province": "Aveiro",
+      "latitude": 40.6276,
+      "longitude": -8.5692,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Olival Basto",
+      "province": "里斯本区",
+      "latitude": 38.7908,
+      "longitude": -9.1662,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Milharado",
+      "province": "里斯本区",
+      "latitude": 38.9473,
+      "longitude": -9.1991,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Ribeira Brava",
+      "province": "马德拉",
+      "latitude": 32.6748,
+      "longitude": -17.0629,
+      "timezone": "Atlantic/Madeira"
+    },
+    {
+      "name": "",
+      "name_en": "Vidigueira",
+      "province": "贝雅区",
+      "latitude": 38.2099,
+      "longitude": -7.8005,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Arazede",
+      "province": "科英布拉区",
+      "latitude": 40.2863,
+      "longitude": -8.65,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Ribeira de Pena",
+      "province": "雷阿尔城区",
+      "latitude": 41.5215,
+      "longitude": -7.8024,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Aljezur",
+      "province": "法鲁区",
+      "latitude": 37.3175,
+      "longitude": -8.8015,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Bombarral",
+      "province": "莱里亚区",
+      "latitude": 39.2672,
+      "longitude": -9.1579,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Vila Nova da Telha",
+      "province": "波尔图区",
+      "latitude": 41.2568,
+      "longitude": -8.6659,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Redondo",
+      "province": "埃武拉区",
+      "latitude": 38.6487,
+      "longitude": -7.5471,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Odemira",
+      "province": "贝雅区",
+      "latitude": 37.598,
+      "longitude": -8.6397,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Vieira de Leiria",
+      "province": "莱里亚区",
+      "latitude": 39.7436,
+      "longitude": -8.8071,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "São Gonçalo",
+      "province": "马德拉",
+      "latitude": 32.6577,
+      "longitude": -16.8709,
+      "timezone": "Atlantic/Madeira"
+    },
+    {
+      "name": "",
+      "name_en": "Marinhais",
+      "province": "圣塔伦区",
+      "latitude": 39.0473,
+      "longitude": -8.7024,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Monte Real",
+      "province": "莱里亚区",
+      "latitude": 39.8521,
+      "longitude": -8.8635,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Boticas",
+      "province": "雷阿尔城区",
+      "latitude": 41.6894,
+      "longitude": -7.6691,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Caldelas",
+      "province": "布拉加区",
+      "latitude": 41.671,
+      "longitude": -8.3815,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Taipas",
+      "province": "布拉加区",
+      "latitude": 41.4847,
+      "longitude": -8.3485,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Oleiros",
+      "province": "布朗库堡区",
+      "latitude": 39.9189,
+      "longitude": -7.9137,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Vila do Bispo",
+      "province": "法鲁区",
+      "latitude": 37.0832,
+      "longitude": -8.9114,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Olival",
+      "province": "波尔图区",
+      "latitude": 38.7708,
+      "longitude": -9.2501,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Palmeira",
+      "province": "布拉加区",
+      "latitude": 41.5909,
+      "longitude": -8.4275,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Bairro do Loreto",
+      "province": "科英布拉区",
+      "latitude": 40.2333,
+      "longitude": -8.45,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Sernancelhe",
+      "province": "维塞乌区",
+      "latitude": 40.8987,
+      "longitude": -7.4934,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Sertã",
+      "province": "布朗库堡区",
+      "latitude": 39.8021,
+      "longitude": -8.0959,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Branca",
+      "province": "Aveiro",
+      "latitude": 40.7665,
+      "longitude": -8.4826,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Lamas",
+      "province": "Aveiro",
+      "latitude": 40.986,
+      "longitude": -8.5692,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Corujeira de Dentro",
+      "province": "马德拉",
+      "latitude": 32.6667,
+      "longitude": -16.9167,
+      "timezone": "Atlantic/Madeira"
+    },
+    {
+      "name": "",
+      "name_en": "Moreira de Conegos",
+      "province": "布拉加区",
+      "latitude": 41.3868,
+      "longitude": -8.3394,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Trafaria",
+      "province": "塞图巴尔区",
+      "latitude": 38.6722,
+      "longitude": -9.2327,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Carregal do Sal",
+      "province": "维塞乌区",
+      "latitude": 40.4333,
+      "longitude": -8.0,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "São Roque",
+      "province": "Aveiro",
+      "latitude": 32.6667,
+      "longitude": -16.9167,
+      "timezone": "Atlantic/Madeira"
+    },
+    {
+      "name": "",
+      "name_en": "Barrosas",
+      "province": "波尔图区",
+      "latitude": 41.3553,
+      "longitude": -8.2994,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Vilela",
+      "province": "雷阿尔城区",
+      "latitude": 41.2251,
+      "longitude": -7.6034,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Poiares",
+      "province": "科英布拉区",
+      "latitude": 40.2103,
+      "longitude": -8.2575,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Maria de Avioso",
+      "province": "波尔图区",
+      "latitude": 41.2679,
+      "longitude": -8.6059,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Pataias",
+      "province": "莱里亚区",
+      "latitude": 39.6698,
+      "longitude": -8.9958,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Bairro Silva Braga",
+      "province": "波尔图区",
+      "latitude": 41.1749,
+      "longitude": -8.6268,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "São Pedro do Sul",
+      "province": "维塞乌区",
+      "latitude": 40.7554,
+      "longitude": -8.0726,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Luzia",
+      "province": "马德拉",
+      "latitude": 32.65,
+      "longitude": -16.9,
+      "timezone": "Atlantic/Madeira"
+    },
+    {
+      "name": "",
+      "name_en": "Aguiar da Beira",
+      "province": "瓜达区",
+      "latitude": 40.8173,
+      "longitude": -7.5443,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Nogueira",
+      "province": "波尔图区",
+      "latitude": 41.2425,
+      "longitude": -8.5869,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Riachos",
+      "province": "圣塔伦区",
+      "latitude": 39.4447,
+      "longitude": -8.5142,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Urgeses",
+      "province": "布拉加区",
+      "latitude": 41.4272,
+      "longitude": -8.298,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Monchique",
+      "province": "法鲁区",
+      "latitude": 37.3177,
+      "longitude": -8.5553,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "São Mamede",
+      "province": "里斯本区",
+      "latitude": 41.1918,
+      "longitude": -8.6111,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "São Miguel do Couto",
+      "province": "波尔图区",
+      "latitude": 41.3317,
+      "longitude": -8.4619,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Galegos",
+      "province": "布拉加区",
+      "latitude": 41.5627,
+      "longitude": -8.572,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Intendente",
+      "province": "里斯本区",
+      "latitude": 38.7221,
+      "longitude": -9.1354,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Merelim",
+      "province": "布拉加区",
+      "latitude": 41.5857,
+      "longitude": -8.4656,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Miramar",
+      "province": "波尔图区",
+      "latitude": 41.0677,
+      "longitude": -8.6504,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Macieira de Cambra",
+      "province": "Aveiro",
+      "latitude": 40.8594,
+      "longitude": -8.3734,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Aljustrel",
+      "province": "贝雅区",
+      "latitude": 37.8776,
+      "longitude": -8.1652,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Nogueira da Regedoura",
+      "province": "Aveiro",
+      "latitude": 41.0053,
+      "longitude": -8.592,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Assafarge",
+      "province": "科英布拉区",
+      "latitude": 40.1589,
+      "longitude": -8.4317,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Cabo Ruivo",
+      "province": "里斯本区",
+      "latitude": 38.756,
+      "longitude": -9.0967,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Vidago",
+      "province": "雷阿尔城区",
+      "latitude": 41.6401,
+      "longitude": -7.5717,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Gemunde",
+      "province": "波尔图区",
+      "latitude": 41.2677,
+      "longitude": -8.6451,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Barro",
+      "province": "Aveiro",
+      "latitude": 40.6246,
+      "longitude": -8.6228,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Marco da Oliveirinha",
+      "province": "Aveiro",
+      "latitude": 40.6146,
+      "longitude": -8.6194,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Alvor",
+      "province": "法鲁区",
+      "latitude": 37.1299,
+      "longitude": -8.5917,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Caranguejeira",
+      "province": "莱里亚区",
+      "latitude": 39.7462,
+      "longitude": -8.7074,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Ventosa",
+      "province": "里斯本区",
+      "latitude": 39.127,
+      "longitude": -9.0842,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Mêda",
+      "province": "瓜达区",
+      "latitude": 40.9663,
+      "longitude": -7.2616,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Bela Vista",
+      "province": "波尔图区",
+      "latitude": 41.1604,
+      "longitude": -8.5852,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Ribeira Grande",
+      "province": "Azores",
+      "latitude": 38.5167,
+      "longitude": -28.7,
+      "timezone": "Atlantic/Azores"
+    },
+    {
+      "name": "",
+      "name_en": "Árvore",
+      "province": "波尔图区",
+      "latitude": 41.3392,
+      "longitude": -8.7181,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Vila Nova de Paiva",
+      "province": "维塞乌区",
+      "latitude": 40.8529,
+      "longitude": -7.7279,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Salvaterra de Magos",
+      "province": "圣塔伦区",
+      "latitude": 39.0279,
+      "longitude": -8.7935,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Quinta de Santo António",
+      "province": "塞图巴尔区",
+      "latitude": 38.6531,
+      "longitude": -9.2354,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Camacha",
+      "province": "马德拉",
+      "latitude": 32.6792,
+      "longitude": -16.8446,
+      "timezone": "Atlantic/Madeira"
+    },
+    {
+      "name": "",
+      "name_en": "Cruz",
+      "province": "波尔图区",
+      "latitude": 41.1667,
+      "longitude": -8.5833,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Antanhol",
+      "province": "科英布拉区",
+      "latitude": 40.1684,
+      "longitude": -8.4633,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Castro Marim",
+      "province": "法鲁区",
+      "latitude": 37.2207,
+      "longitude": -7.4435,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Louriçal",
+      "province": "莱里亚区",
+      "latitude": 40.0039,
+      "longitude": -8.7374,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Valongo",
+      "province": "Aveiro",
+      "latitude": 41.1888,
+      "longitude": -8.4986,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Brito",
+      "province": "布拉加区",
+      "latitude": 41.4582,
+      "longitude": -8.361,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Peso da Régua",
+      "province": "雷阿尔城区",
+      "latitude": 41.1632,
+      "longitude": -7.789,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Refojos de Basto",
+      "province": "布拉加区",
+      "latitude": 41.5132,
+      "longitude": -7.9952,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Vila Franca do Campo",
+      "province": "Azores",
+      "latitude": 37.716,
+      "longitude": -25.4322,
+      "timezone": "Atlantic/Azores"
+    },
+    {
+      "name": "",
+      "name_en": "Angeiras",
+      "province": "波尔图区",
+      "latitude": 41.2671,
+      "longitude": -8.7108,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Alcanede",
+      "province": "圣塔伦区",
+      "latitude": 39.415,
+      "longitude": -8.8219,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Parchal",
+      "province": "法鲁区",
+      "latitude": 37.1383,
+      "longitude": -8.517,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Nevogilde",
+      "province": "波尔图区",
+      "latitude": 41.1651,
+      "longitude": -8.6792,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Póvoa de Lanhoso",
+      "province": "布拉加区",
+      "latitude": 41.576,
+      "longitude": -8.2701,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Azinhaga",
+      "province": "里斯本区",
+      "latitude": 39.05,
+      "longitude": -9.35,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Nine",
+      "province": "布拉加区",
+      "latitude": 41.4588,
+      "longitude": -8.546,
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "",
+      "name_en": "Paços",
+      "province": "波尔图区",
+      "latitude": 41.1621,
+      "longitude": -8.6705,
+      "timezone": "Europe/Lisbon"
+    }
+  ]
+}

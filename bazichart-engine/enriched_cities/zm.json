@@ -1,0 +1,766 @@
+{
+  "country_code": "ZM",
+  "country_name": "赞比亚",
+  "cities": [
+    {
+      "name": "路沙卡",
+      "name_en": "Lusaka",
+      "province": "卢萨卡省",
+      "latitude": -15.4067,
+      "longitude": 28.2871,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "基特韦",
+      "name_en": "Kitwe",
+      "province": "铜带省",
+      "latitude": -12.8024,
+      "longitude": 28.2132,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "恩多拉",
+      "name_en": "Ndola",
+      "province": "铜带省",
+      "latitude": -12.9587,
+      "longitude": 28.6366,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "奇帕塔",
+      "name_en": "Chipata",
+      "province": "东方省",
+      "latitude": -13.6333,
+      "longitude": 32.65,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "索卢韦齐",
+      "name_en": "Solwezi",
+      "province": "North-Western",
+      "latitude": -12.1688,
+      "longitude": 26.3894,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "卡布韦",
+      "name_en": "Kabwe",
+      "province": "中央省",
+      "latitude": -14.4469,
+      "longitude": 28.4464,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "钦戈拉",
+      "name_en": "Chingola",
+      "province": "铜带省",
+      "latitude": -12.529,
+      "longitude": 27.8838,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "卢安夏",
+      "name_en": "Luanshya",
+      "province": "铜带省",
+      "latitude": -13.1367,
+      "longitude": 28.4166,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "卡萨马",
+      "name_en": "Kasama",
+      "province": "北方省",
+      "latitude": -10.2129,
+      "longitude": 31.1808,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "利文斯顿",
+      "name_en": "Livingstone",
+      "province": "南部省",
+      "latitude": -17.8419,
+      "longitude": 25.8543,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "曼萨",
+      "name_en": "Mansa",
+      "province": "卢阿普拉省",
+      "latitude": -11.1998,
+      "longitude": 28.8943,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Mufulira",
+      "province": "铜带省",
+      "latitude": -12.5498,
+      "longitude": 28.2407,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Chunga",
+      "province": "卢萨卡省",
+      "latitude": -15.3174,
+      "longitude": 28.2687,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Chililabombwe",
+      "province": "铜带省",
+      "latitude": -12.3648,
+      "longitude": 27.8229,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Mongu",
+      "province": "西方省",
+      "latitude": -15.2484,
+      "longitude": 23.1274,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Mazabuka",
+      "province": "南部省",
+      "latitude": -15.856,
+      "longitude": 27.748,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Kafue",
+      "province": "卢萨卡省",
+      "latitude": -15.7691,
+      "longitude": 28.1814,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Kalulushi",
+      "province": "铜带省",
+      "latitude": -12.8415,
+      "longitude": 28.0948,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Choma",
+      "province": "南部省",
+      "latitude": -16.8089,
+      "longitude": 26.9875,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Namalombwe",
+      "province": "卢萨卡省",
+      "latitude": -15.3905,
+      "longitude": 28.1899,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Nakonde",
+      "province": "穆钦加省",
+      "latitude": -9.3421,
+      "longitude": 32.745,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Kapiri Mposhi",
+      "province": "中央省",
+      "latitude": -13.9715,
+      "longitude": 28.6699,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Madido",
+      "province": "卢萨卡省",
+      "latitude": -15.3545,
+      "longitude": 28.3742,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "恩切伦戈",
+      "name_en": "Nchelenge",
+      "province": "卢阿普拉省",
+      "latitude": -9.3451,
+      "longitude": 28.734,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Mpika",
+      "province": "穆钦加省",
+      "latitude": -11.8343,
+      "longitude": 31.4529,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Monze",
+      "province": "南部省",
+      "latitude": -16.2715,
+      "longitude": 27.4772,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "佩陶克",
+      "name_en": "Petauke",
+      "province": "东方省",
+      "latitude": -14.2412,
+      "longitude": 31.3197,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Chongwe",
+      "province": "卢萨卡省",
+      "latitude": -15.3292,
+      "longitude": 28.682,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Mpulungu",
+      "province": "北方省",
+      "latitude": -8.7623,
+      "longitude": 31.114,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Chilanga Township",
+      "province": "卢萨卡省",
+      "latitude": -15.5708,
+      "longitude": 28.2701,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "萨姆菲亚",
+      "name_en": "Samfya",
+      "province": "卢阿普拉省",
+      "latitude": -11.3649,
+      "longitude": 29.5565,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Mumbwa",
+      "province": "中央省",
+      "latitude": -14.9829,
+      "longitude": 27.0619,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "姆库希",
+      "name_en": "Mkushi",
+      "province": "中央省",
+      "latitude": -13.6202,
+      "longitude": 29.3939,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Katete",
+      "province": "东方省",
+      "latitude": -14.05,
+      "longitude": 32.0833,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "隆达济",
+      "name_en": "Lundazi",
+      "province": "东方省",
+      "latitude": -12.2929,
+      "longitude": 33.1782,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "姆巴拉",
+      "name_en": "Mbala",
+      "province": "北方省",
+      "latitude": -8.8402,
+      "longitude": 31.3659,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Chisankane",
+      "province": "卢萨卡省",
+      "latitude": -15.4821,
+      "longitude": 28.351,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Kansanshi",
+      "province": "North-Western",
+      "latitude": -12.0951,
+      "longitude": 26.4273,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Chinsali",
+      "province": "穆钦加省",
+      "latitude": -10.5414,
+      "longitude": 32.0816,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Kaputa",
+      "province": "北方省",
+      "latitude": -8.4689,
+      "longitude": 29.6619,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Chirundu",
+      "province": "南部省",
+      "latitude": -16.0358,
+      "longitude": 28.8431,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Chambishi",
+      "province": "铜带省",
+      "latitude": -12.6325,
+      "longitude": 28.0537,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Kaoma",
+      "province": "西方省",
+      "latitude": -14.7833,
+      "longitude": 24.8,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Isoka",
+      "province": "穆钦加省",
+      "latitude": -10.1606,
+      "longitude": 32.6335,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "卡万布瓦",
+      "name_en": "Kawambwa",
+      "province": "卢阿普拉省",
+      "latitude": -9.7915,
+      "longitude": 29.0791,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "卡洛莫",
+      "name_en": "Kalomo",
+      "province": "南部省",
+      "latitude": -17.0258,
+      "longitude": 26.4837,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Mporokoso",
+      "province": "北方省",
+      "latitude": -9.3727,
+      "longitude": 30.125,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "塞伦杰",
+      "name_en": "Serenje",
+      "province": "中央省",
+      "latitude": -13.2325,
+      "longitude": 30.2352,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Sesheke",
+      "province": "西方省",
+      "latitude": -17.4759,
+      "longitude": 24.2968,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "卡森帕",
+      "name_en": "Kasempa",
+      "province": "North-Western",
+      "latitude": -13.4584,
+      "longitude": 25.8338,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Manyama",
+      "province": "North-Western",
+      "latitude": -12.3148,
+      "longitude": 25.8486,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Luwingu",
+      "province": "北方省",
+      "latitude": -10.2621,
+      "longitude": 29.9271,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Mapalo",
+      "province": "铜带省",
+      "latitude": -12.9369,
+      "longitude": 28.6721,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Siavonga",
+      "province": "南部省",
+      "latitude": -16.5382,
+      "longitude": 28.7088,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "赞比西河",
+      "name_en": "Zambezi",
+      "province": "North-Western",
+      "latitude": -13.5432,
+      "longitude": 23.1047,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Mufumbwe",
+      "province": "North-Western",
+      "latitude": -13.137,
+      "longitude": 25.0065,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Mwinilunga",
+      "province": "North-Western",
+      "latitude": -11.7358,
+      "longitude": 24.4293,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Mpongwe",
+      "province": "铜带省",
+      "latitude": -13.5091,
+      "longitude": 28.155,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Itezhi-Tezhi",
+      "province": "南部省",
+      "latitude": -15.7369,
+      "longitude": 26.0416,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Maamba",
+      "province": "南部省",
+      "latitude": -17.3667,
+      "longitude": 27.15,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Lusaka West",
+      "province": "卢萨卡省",
+      "latitude": -15.3186,
+      "longitude": 28.1103,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "塞南加",
+      "name_en": "Senanga",
+      "province": "西方省",
+      "latitude": -16.1167,
+      "longitude": 23.2667,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Ntandabale",
+      "province": "卢萨卡省",
+      "latitude": -15.3896,
+      "longitude": 28.422,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Palabana",
+      "province": "卢萨卡省",
+      "latitude": -15.4462,
+      "longitude": 28.5344,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Lukulu",
+      "province": "西方省",
+      "latitude": -14.3707,
+      "longitude": 23.242,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Manyinga",
+      "province": "North-Western",
+      "latitude": -13.4165,
+      "longitude": 24.3353,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Nyimba",
+      "province": "东方省",
+      "latitude": -14.5566,
+      "longitude": 30.8149,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Chavuma",
+      "province": "North-Western",
+      "latitude": -13.0667,
+      "longitude": 22.6833,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Sinda",
+      "province": "东方省",
+      "latitude": -14.21,
+      "longitude": 31.7629,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Kalabo",
+      "province": "西方省",
+      "latitude": -14.9931,
+      "longitude": 22.6793,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Chisasa",
+      "province": "North-Western",
+      "latitude": -12.1093,
+      "longitude": 25.4961,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Nampundwe",
+      "province": "中央省",
+      "latitude": -15.5082,
+      "longitude": 27.9244,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Mwansabombwe",
+      "province": "卢阿普拉省",
+      "latitude": -9.822,
+      "longitude": 28.7604,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Namwala",
+      "province": "南部省",
+      "latitude": -15.7504,
+      "longitude": 26.4384,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Sinazongwe",
+      "province": "南部省",
+      "latitude": -17.2614,
+      "longitude": 27.4618,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "卢阿普拉",
+      "name_en": "Chiengi",
+      "province": "卢阿普拉省",
+      "latitude": -8.6604,
+      "longitude": 29.1614,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Kabompo",
+      "province": "North-Western",
+      "latitude": -13.5927,
+      "longitude": 24.2008,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Ibenga",
+      "province": "铜带省",
+      "latitude": -13.3667,
+      "longitude": 28.4333,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Chinkuli",
+      "province": "卢萨卡省",
+      "latitude": -15.2997,
+      "longitude": 28.416,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Kataba",
+      "province": "铜带省",
+      "latitude": -11.8833,
+      "longitude": 29.7833,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Chilongolo",
+      "province": "卢萨卡省",
+      "latitude": -15.4924,
+      "longitude": 28.1646,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Chama",
+      "province": "穆钦加省",
+      "latitude": -11.213,
+      "longitude": 33.1521,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Lubwe",
+      "province": "卢阿普拉省",
+      "latitude": -11.1165,
+      "longitude": 29.6462,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Mungwi",
+      "province": "北方省",
+      "latitude": -10.1732,
+      "longitude": 31.3694,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Kazungula",
+      "province": "南部省",
+      "latitude": -17.7936,
+      "longitude": 25.2747,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Limulunga",
+      "province": "西方省",
+      "latitude": -15.0969,
+      "longitude": 23.1376,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Nakambala",
+      "province": "南部省",
+      "latitude": -15.8324,
+      "longitude": 27.7799,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Chalimbana",
+      "province": "卢萨卡省",
+      "latitude": -15.3855,
+      "longitude": 28.7008,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Chilubi",
+      "province": "北方省",
+      "latitude": -11.1146,
+      "longitude": 29.9463,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Lubombo",
+      "province": "南部省",
+      "latitude": -15.867,
+      "longitude": 27.8763,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Luangwa",
+      "province": "卢萨卡省",
+      "latitude": -15.6167,
+      "longitude": 30.4167,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Mununga",
+      "province": "卢阿普拉省",
+      "latitude": -9.0487,
+      "longitude": 29.0426,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Kalengwa",
+      "province": "North-Western",
+      "latitude": -13.4659,
+      "longitude": 25.0027,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "",
+      "name_en": "Mufumbwe",
+      "province": "North-Western",
+      "latitude": -13.137,
+      "longitude": 25.0065,
+      "timezone": "Africa/Lusaka"
+    },
+    {
+      "name": "恰迪扎",
+      "name_en": "Chadiza",
+      "province": "东方省",
+      "latitude": -14.0678,
+      "longitude": 32.4392,
+      "timezone": "Africa/Lusaka"
+    }
+  ]
+}

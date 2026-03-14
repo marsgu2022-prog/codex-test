@@ -1,0 +1,526 @@
+{
+  "country_code": "MU",
+  "country_name": "毛里求斯",
+  "cities": [
+    {
+      "name": "路易港",
+      "name_en": "Port Louis",
+      "province": "Port Louis",
+      "latitude": -20.1619,
+      "longitude": 57.4989,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Vacoas",
+      "province": "Plaines Wilhems",
+      "latitude": -20.2981,
+      "longitude": 57.4783,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Beau Bassin-Rose Hill",
+      "province": "Plaines Wilhems",
+      "latitude": -20.2333,
+      "longitude": 57.4661,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "居尔皮普",
+      "name_en": "Curepipe",
+      "province": "Plaines Wilhems",
+      "latitude": -20.3163,
+      "longitude": 57.5259,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Quatre Bornes",
+      "province": "Plaines Wilhems",
+      "latitude": -20.2638,
+      "longitude": 57.4791,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Triolet",
+      "province": "Pamplemousses",
+      "latitude": -20.0576,
+      "longitude": 57.5502,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "古德兰兹",
+      "name_en": "Goodlands",
+      "province": "Rivière du Rempart",
+      "latitude": -20.0384,
+      "longitude": 57.6506,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "贝莱尔",
+      "name_en": "Bel Air Rivière Sèche",
+      "province": "Flacq",
+      "latitude": -20.2578,
+      "longitude": 57.7498,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "邦布",
+      "name_en": "Bambous",
+      "province": "Black River",
+      "latitude": -20.2567,
+      "longitude": 57.4061,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Centre de Flacq",
+      "province": "Flacq",
+      "latitude": -20.1897,
+      "longitude": 57.7144,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "马埃堡",
+      "name_en": "Mahébourg",
+      "province": "Grand Port",
+      "latitude": -20.4081,
+      "longitude": 57.7,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Saint Pierre",
+      "province": "Moka",
+      "latitude": -20.2215,
+      "longitude": 57.5343,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Le Hochet",
+      "province": "Pamplemousses",
+      "latitude": -20.1386,
+      "longitude": 57.5301,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Baie du Tombeau",
+      "province": "Pamplemousses",
+      "latitude": -20.1194,
+      "longitude": 57.4914,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Trou aux Biches",
+      "province": "Pamplemousses",
+      "latitude": -20.033,
+      "longitude": 57.5503,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Rose Belle",
+      "province": "Grand Port",
+      "latitude": -20.4003,
+      "longitude": 57.5967,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "舍曼格勒涅",
+      "name_en": "Chemin Grenier",
+      "province": "Savanne",
+      "latitude": -20.4872,
+      "longitude": 57.4656,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "格朗德贝",
+      "name_en": "Grand Baie",
+      "province": "Rivière du Rempart",
+      "latitude": -20.0182,
+      "longitude": 57.5802,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Lallmatie",
+      "province": "",
+      "latitude": -20.0184,
+      "longitude": 57.5802,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Terre Rouge",
+      "province": "Pamplemousses",
+      "latitude": -20.1283,
+      "longitude": 57.5312,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "New Grove",
+      "province": "Grand Port",
+      "latitude": -20.4086,
+      "longitude": 57.6136,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Rivière du Rempart",
+      "province": "Rivière du Rempart",
+      "latitude": -20.1031,
+      "longitude": 57.6847,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Plaine Magnien",
+      "province": "Grand Port",
+      "latitude": -20.4297,
+      "longitude": 57.6697,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Rouge Terre",
+      "province": "Pamplemousses",
+      "latitude": -20.0433,
+      "longitude": 57.5683,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Lalmatie",
+      "province": "Flacq",
+      "latitude": -20.1897,
+      "longitude": 57.6611,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Pailles",
+      "province": "Moka",
+      "latitude": -20.1927,
+      "longitude": 57.4883,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "苏里南村",
+      "name_en": "Surinam",
+      "province": "Savanne",
+      "latitude": -20.5097,
+      "longitude": 57.5053,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Rivière des Anguilles",
+      "province": "Savanne",
+      "latitude": -20.493,
+      "longitude": 57.563,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Pamplemousses",
+      "province": "Pamplemousses",
+      "latitude": -20.1039,
+      "longitude": 57.5703,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Montagne Blanche",
+      "province": "",
+      "latitude": -20.2854,
+      "longitude": 57.6587,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Petit Raffray",
+      "province": "Rivière du Rempart",
+      "latitude": -20.0202,
+      "longitude": 57.623,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Moka",
+      "province": "Moka",
+      "latitude": -20.219,
+      "longitude": 57.5108,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Richelieu",
+      "province": "Black River",
+      "latitude": -20.1932,
+      "longitude": 57.4595,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Poste de Flacq",
+      "province": "Flacq",
+      "latitude": -20.1631,
+      "longitude": 57.7306,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Port Mathurin",
+      "province": "罗德里格岛",
+      "latitude": -19.6833,
+      "longitude": 63.4167,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Plaine des Papayes",
+      "province": "Pamplemousses",
+      "latitude": -20.065,
+      "longitude": 57.5725,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "L’Escalier",
+      "province": "Grand Port",
+      "latitude": -20.47,
+      "longitude": 57.6122,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Grand Bois",
+      "province": "Savanne",
+      "latitude": -20.4189,
+      "longitude": 57.5442,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Long Mountain",
+      "province": "Pamplemousses",
+      "latitude": -20.151,
+      "longitude": 57.573,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Grand Gaube",
+      "province": "Rivière du Rempart",
+      "latitude": -20.0064,
+      "longitude": 57.6608,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Brisée Verdière",
+      "province": "Flacq",
+      "latitude": -20.1639,
+      "longitude": 57.6467,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Belle Vue Harel",
+      "province": "Pamplemousses",
+      "latitude": -20.0658,
+      "longitude": 57.5942,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Belle Vue Maurel",
+      "province": "Rivière du Rempart",
+      "latitude": -20.1203,
+      "longitude": 57.6636,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Pointe aux Piments",
+      "province": "Pamplemousses",
+      "latitude": -20.0649,
+      "longitude": 57.5235,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Dagotière",
+      "province": "Moka",
+      "latitude": -20.2448,
+      "longitude": 57.5619,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Nouvelle France",
+      "province": "Grand Port",
+      "latitude": -20.3706,
+      "longitude": 57.5611,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Beau Vallon",
+      "province": "Grand Port",
+      "latitude": -20.4232,
+      "longitude": 57.7035,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Bon Accueil",
+      "province": "Flacq",
+      "latitude": -20.175,
+      "longitude": 57.672,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Quartier Militaire",
+      "province": "Moka",
+      "latitude": -20.2479,
+      "longitude": 57.5974,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Calodyne",
+      "province": "Rivière du Rempart",
+      "latitude": -20.0022,
+      "longitude": 57.6425,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Laventure",
+      "province": "Flacq",
+      "latitude": -20.1458,
+      "longitude": 57.6767,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Morcellement Saint André",
+      "province": "Pamplemousses",
+      "latitude": -20.072,
+      "longitude": 57.5683,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Anse La Raye",
+      "province": "",
+      "latitude": -19.9906,
+      "longitude": 57.632,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Ecroignard",
+      "province": "Flacq",
+      "latitude": -20.2261,
+      "longitude": 57.7361,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Piton",
+      "province": "Rivière du Rempart",
+      "latitude": -20.0903,
+      "longitude": 57.6303,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "丰迪萨克",
+      "name_en": "Fond du Sac",
+      "province": "Pamplemousses",
+      "latitude": -20.0473,
+      "longitude": 57.584,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Sebastopol",
+      "province": "Flacq",
+      "latitude": -20.2907,
+      "longitude": 57.6878,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Roches Noire",
+      "province": "Rivière du Rempart",
+      "latitude": -20.1111,
+      "longitude": 57.7122,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Quatre Cocos",
+      "province": "Flacq",
+      "latitude": -20.2015,
+      "longitude": 57.7745,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Petite Rivière",
+      "province": "Black River",
+      "latitude": -20.1955,
+      "longitude": 57.4459,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Camp Diable",
+      "province": "Savanne",
+      "latitude": -20.4628,
+      "longitude": 57.5789,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Souillac",
+      "province": "Savanne",
+      "latitude": -20.5167,
+      "longitude": 57.5167,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Tamarin",
+      "province": "Black River",
+      "latitude": -20.3256,
+      "longitude": 57.3706,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Vingt Cinq",
+      "province": "Agalega Islands",
+      "latitude": -10.388,
+      "longitude": 56.618,
+      "timezone": "Indian/Mauritius"
+    },
+    {
+      "name": "",
+      "name_en": "Cargados Carajos",
+      "province": "Cargados Carajos",
+      "latitude": -16.6033,
+      "longitude": 59.6585,
+      "timezone": "Indian/Mauritius"
+    }
+  ]
+}

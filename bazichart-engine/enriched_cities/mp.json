@@ -1,0 +1,30 @@
+{
+  "country_code": "MP",
+  "country_name": "北马里亚纳",
+  "cities": [
+    {
+      "name": "",
+      "name_en": "Saipan",
+      "province": "Saipan",
+      "latitude": 15.2123,
+      "longitude": 145.7545,
+      "timezone": "Pacific/Saipan"
+    },
+    {
+      "name": "",
+      "name_en": "San Jose Village",
+      "province": "Tinian",
+      "latitude": 14.9682,
+      "longitude": 145.62,
+      "timezone": "Pacific/Saipan"
+    },
+    {
+      "name": "",
+      "name_en": "Garapan",
+      "province": "Saipan",
+      "latitude": 15.2111,
+      "longitude": 145.7204,
+      "timezone": "Pacific/Saipan"
+    }
+  ]
+}

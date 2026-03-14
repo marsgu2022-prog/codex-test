@@ -1,0 +1,2470 @@
+{
+  "country_code": "MA",
+  "country_name": "摩洛哥",
+  "cities": [
+    {
+      "name": "卡萨布兰卡",
+      "name_en": "Casablanca",
+      "province": "Casablanca-Settat",
+      "latitude": 33.5883,
+      "longitude": -7.6114,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "拉巴特",
+      "name_en": "Rabat",
+      "province": "Rabat-Salé-Kénitra",
+      "latitude": 34.0132,
+      "longitude": -6.8326,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Fes",
+      "province": "Fès-Meknès",
+      "latitude": 34.0331,
+      "longitude": -5.0003,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "坦几亚",
+      "name_en": "Tangier",
+      "province": "Tanger-Tetouan-Al Hoceima",
+      "latitude": 35.7673,
+      "longitude": -5.7998,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "马拉喀什",
+      "name_en": "Marrakesh",
+      "province": "Marrakesh-Safi",
+      "latitude": 31.6342,
+      "longitude": -7.9999,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Salé",
+      "province": "Rabat-Salé-Kénitra",
+      "latitude": 34.0531,
+      "longitude": -6.7985,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "阿加迪尔",
+      "name_en": "Agadir",
+      "province": "Souss-Massa",
+      "latitude": 30.4202,
+      "longitude": -9.5982,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "梅克内斯",
+      "name_en": "Meknes",
+      "province": "Fès-Meknès",
+      "latitude": 33.8935,
+      "longitude": -5.5473,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "乌季达",
+      "name_en": "Oujda",
+      "province": "东部大区",
+      "latitude": 34.6814,
+      "longitude": -1.9086,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "盖尼特拉",
+      "name_en": "Kenitra",
+      "province": "Rabat-Salé-Kénitra",
+      "latitude": 34.261,
+      "longitude": -6.5802,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "得土安",
+      "name_en": "Tétouan",
+      "province": "Tanger-Tetouan-Al Hoceima",
+      "latitude": 35.5784,
+      "longitude": -5.3684,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Al Hoceïma",
+      "province": "Tanger-Tetouan-Al Hoceima",
+      "latitude": 35.2516,
+      "longitude": -3.9372,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Temara",
+      "province": "Rabat-Salé-Kénitra",
+      "latitude": 33.9287,
+      "longitude": -6.9066,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "萨非",
+      "name_en": "Safi",
+      "province": "Marrakesh-Safi",
+      "latitude": 32.2994,
+      "longitude": -9.2372,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "穆罕默迪耶",
+      "name_en": "Mohammedia",
+      "province": "Casablanca-Settat",
+      "latitude": 33.6861,
+      "longitude": -7.383,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Khouribga",
+      "province": "Béni Mellal-Khénifra",
+      "latitude": 32.8811,
+      "longitude": -6.9063,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "杰迪代",
+      "name_en": "El Jadida",
+      "province": "Casablanca-Settat",
+      "latitude": 33.2568,
+      "longitude": -8.5088,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "贝尼迈拉勒",
+      "name_en": "Beni Mellal",
+      "province": "Béni Mellal-Khénifra",
+      "latitude": 32.3372,
+      "longitude": -6.3498,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Salé Al Jadida",
+      "province": "Rabat-Salé-Kénitra",
+      "latitude": 33.9972,
+      "longitude": -6.7405,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Ait Melloul",
+      "province": "Souss-Massa",
+      "latitude": 30.3416,
+      "longitude": -9.5036,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "纳祖尔",
+      "name_en": "Nador",
+      "province": "东部大区",
+      "latitude": 35.1681,
+      "longitude": -2.9335,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Dar Bouazza",
+      "province": "Casablanca-Settat",
+      "latitude": 33.5153,
+      "longitude": -7.8168,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "塔扎",
+      "name_en": "Taza",
+      "province": "Fès-Meknès",
+      "latitude": 34.21,
+      "longitude": -4.01,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Fès al Bali",
+      "province": "Fès-Meknès",
+      "latitude": 34.0701,
+      "longitude": -4.9547,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "塞塔特",
+      "name_en": "Settat",
+      "province": "Casablanca-Settat",
+      "latitude": 33.001,
+      "longitude": -7.6166,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Berrechid",
+      "province": "Casablanca-Settat",
+      "latitude": 33.2655,
+      "longitude": -7.5875,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Khemisset",
+      "province": "Rabat-Salé-Kénitra",
+      "latitude": 33.824,
+      "longitude": -6.0663,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Inezgane",
+      "province": "Souss-Massa",
+      "latitude": 30.3554,
+      "longitude": -9.5364,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Ksar El Kebir",
+      "province": "Tanger-Tetouan-Al Hoceima",
+      "latitude": 35.0004,
+      "longitude": -5.9038,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "拉腊什",
+      "name_en": "Larache",
+      "province": "Tanger-Tetouan-Al Hoceima",
+      "latitude": 35.1932,
+      "longitude": -6.1557,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "盖勒敏",
+      "name_en": "Guelmim",
+      "province": "Guelmim-Oued Noun",
+      "latitude": 28.987,
+      "longitude": -10.0574,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "海尼夫拉",
+      "name_en": "Khenifra",
+      "province": "Béni Mellal-Khénifra",
+      "latitude": 34.261,
+      "longitude": -6.5802,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "拜尔坎",
+      "name_en": "Berkane",
+      "province": "东部大区",
+      "latitude": 34.92,
+      "longitude": -2.32,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Taourirt",
+      "province": "东部大区",
+      "latitude": 34.4073,
+      "longitude": -2.8973,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Bouskoura",
+      "province": "Casablanca-Settat",
+      "latitude": 33.4498,
+      "longitude": -7.6524,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Al Fqih Ben Çalah",
+      "province": "Béni Mellal-Khénifra",
+      "latitude": 32.5021,
+      "longitude": -6.6877,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Dchira El Jihadia",
+      "province": "Souss-Massa",
+      "latitude": 30.3734,
+      "longitude": -9.5476,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Oued Zem",
+      "province": "Béni Mellal-Khénifra",
+      "latitude": 32.8627,
+      "longitude": -6.5736,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "El Kelaa des Srarhna",
+      "province": "Marrakesh-Safi",
+      "latitude": 32.0512,
+      "longitude": -7.4108,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Sidi Slimane",
+      "province": "Rabat-Salé-Kénitra",
+      "latitude": 34.2648,
+      "longitude": -5.926,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "拉希迪耶",
+      "name_en": "Errachidia",
+      "province": "Drâa-Tafilalet",
+      "latitude": 31.9314,
+      "longitude": -4.4266,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Guercif",
+      "province": "Fès-Meknès",
+      "latitude": 34.2257,
+      "longitude": -3.3536,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Oulad Teïma",
+      "province": "Souss-Massa",
+      "latitude": 30.3947,
+      "longitude": -9.209,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Ben Guerir",
+      "province": "Marrakesh-Safi",
+      "latitude": 32.2409,
+      "longitude": -7.954,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Ouislane",
+      "province": "Fès-Meknès",
+      "latitude": 33.9141,
+      "longitude": -5.4897,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Tiflet",
+      "province": "Rabat-Salé-Kénitra",
+      "latitude": 33.8947,
+      "longitude": -6.3065,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Lqoliaa",
+      "province": "Souss-Massa",
+      "latitude": 30.2976,
+      "longitude": -9.466,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "塔鲁丹特",
+      "name_en": "Taroudant",
+      "province": "Souss-Massa",
+      "latitude": 30.4703,
+      "longitude": -8.877,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Sefrou",
+      "province": "Fès-Meknès",
+      "latitude": 33.8319,
+      "longitude": -4.828,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "索维拉",
+      "name_en": "Essaouira",
+      "province": "Marrakesh-Safi",
+      "latitude": 31.5125,
+      "longitude": -9.77,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Fnidek",
+      "province": "Tanger-Tetouan-Al Hoceima",
+      "latitude": 35.8491,
+      "longitude": -5.3575,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Sidi Kacem",
+      "province": "Rabat-Salé-Kénitra",
+      "latitude": 34.2215,
+      "longitude": -5.7077,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "提兹尼特",
+      "name_en": "Tiznit",
+      "province": "Souss-Massa",
+      "latitude": 29.6974,
+      "longitude": -9.7316,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Tan-Tan",
+      "province": "Guelmim-Oued Noun",
+      "latitude": 28.438,
+      "longitude": -11.1032,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Ouarzazate",
+      "province": "Drâa-Tafilalet",
+      "latitude": 30.9189,
+      "longitude": -6.8934,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Souk El Arbaa",
+      "province": "Rabat-Salé-Kénitra",
+      "latitude": 34.6847,
+      "longitude": -6.0034,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Youssoufia",
+      "province": "Marrakesh-Safi",
+      "latitude": 32.2463,
+      "longitude": -8.5294,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "伊夫兰",
+      "name_en": "Ifrane",
+      "province": "Fès-Meknès",
+      "latitude": 33.5267,
+      "longitude": -5.1102,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Lahraouyine",
+      "province": "Casablanca-Settat",
+      "latitude": 33.5414,
+      "longitude": -7.5285,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Martil",
+      "province": "Tanger-Tetouan-Al Hoceima",
+      "latitude": 35.6166,
+      "longitude": -5.2752,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Aïn Harrouda",
+      "province": "Casablanca-Settat",
+      "latitude": 33.6374,
+      "longitude": -7.4497,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Souq Sebt Oulad Nemma",
+      "province": "Béni Mellal-Khénifra",
+      "latitude": 32.2973,
+      "longitude": -6.703,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Skhirate",
+      "province": "Rabat-Salé-Kénitra",
+      "latitude": 33.8527,
+      "longitude": -7.0317,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Ouezzane",
+      "province": "Tanger-Tetouan-Al Hoceima",
+      "latitude": 34.7958,
+      "longitude": -5.5785,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Benslimane",
+      "province": "Casablanca-Settat",
+      "latitude": 33.616,
+      "longitude": -7.1215,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Beni Enzar",
+      "province": "东部大区",
+      "latitude": 35.26,
+      "longitude": -2.93,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Mdiq",
+      "province": "Tanger-Tetouan-Al Hoceima",
+      "latitude": 35.6831,
+      "longitude": -5.3287,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Sidi Bennour",
+      "province": "Casablanca-Settat",
+      "latitude": 32.6524,
+      "longitude": -8.4277,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Midelt",
+      "province": "Béni Mellal-Khénifra",
+      "latitude": 32.6852,
+      "longitude": -4.7451,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "艾兹鲁",
+      "name_en": "Azrou",
+      "province": "Fès-Meknès",
+      "latitude": 33.4344,
+      "longitude": -5.2213,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Tirhanimîne",
+      "province": "Tanger-Tetouan-Al Hoceima",
+      "latitude": 35.2362,
+      "longitude": -3.9545,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "My Drarga",
+      "province": "Souss-Massa",
+      "latitude": 30.3773,
+      "longitude": -9.4734,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Dakhla",
+      "province": "Souss-Massa",
+      "latitude": 30.4114,
+      "longitude": -9.5534,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Ain El Aouda",
+      "province": "Rabat-Salé-Kénitra",
+      "latitude": 33.8033,
+      "longitude": -6.7946,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Ben Jerrar",
+      "province": "Souss-Massa",
+      "latitude": 30.2622,
+      "longitude": -9.5038,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Ad Darwa",
+      "province": "Casablanca-Settat",
+      "latitude": 33.3749,
+      "longitude": -7.5356,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Al Aaroui",
+      "province": "东部大区",
+      "latitude": 35.0109,
+      "longitude": -3.0094,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Kasba Tadla",
+      "province": "Béni Mellal-Khénifra",
+      "latitude": 32.5977,
+      "longitude": -6.2684,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Bejaâd",
+      "province": "Béni Mellal-Khénifra",
+      "latitude": 32.7713,
+      "longitude": -6.3923,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Sidi Taibi",
+      "province": "Rabat-Salé-Kénitra",
+      "latitude": 34.187,
+      "longitude": -6.6818,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Jerada",
+      "province": "东部大区",
+      "latitude": 34.31,
+      "longitude": -2.16,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Chefchaouen",
+      "province": "Tanger-Tetouan-Al Hoceima",
+      "latitude": 35.1688,
+      "longitude": -5.2636,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Mrirt",
+      "province": "Béni Mellal-Khénifra",
+      "latitude": 33.1643,
+      "longitude": -5.5672,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Tinghir",
+      "province": "Drâa-Tafilalet",
+      "latitude": 31.5147,
+      "longitude": -5.5328,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "El Aïoun",
+      "province": "东部大区",
+      "latitude": 34.5832,
+      "longitude": -2.5061,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Azemmour",
+      "province": "Casablanca-Settat",
+      "latitude": 33.2895,
+      "longitude": -8.3425,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Souq Larb’a al Gharb",
+      "province": "Rabat-Salé-Kénitra",
+      "latitude": 34.6866,
+      "longitude": -6.0027,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Zagora",
+      "province": "Drâa-Tafilalet",
+      "latitude": 30.3324,
+      "longitude": -5.8384,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Ait Ourir",
+      "province": "Marrakesh-Safi",
+      "latitude": 31.5652,
+      "longitude": -7.6616,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Azilal",
+      "province": "Béni Mellal-Khénifra",
+      "latitude": 31.9616,
+      "longitude": -6.5711,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "斯马拉",
+      "name_en": "Smara",
+      "province": "Laâyoune-Sakia El Hamra",
+      "latitude": 26.7384,
+      "longitude": -11.6719,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Sidi Yahia El Gharb",
+      "province": "Rabat-Salé-Kénitra",
+      "latitude": 34.3049,
+      "longitude": -6.304,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Tine Biougra",
+      "province": "Souss-Massa",
+      "latitude": 30.2094,
+      "longitude": -9.3792,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Taounate",
+      "province": "Fès-Meknès",
+      "latitude": 34.5366,
+      "longitude": -4.6401,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Bouznika",
+      "province": "Casablanca-Settat",
+      "latitude": 33.7894,
+      "longitude": -7.1597,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Had Soualem",
+      "province": "Casablanca-Settat",
+      "latitude": 33.4197,
+      "longitude": -7.8524,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Imzouren",
+      "province": "Tanger-Tetouan-Al Hoceima",
+      "latitude": 35.1464,
+      "longitude": -3.8506,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Zaïo",
+      "province": "东部大区",
+      "latitude": 34.9428,
+      "longitude": -2.7329,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Aourir",
+      "province": "Souss-Massa",
+      "latitude": 30.4924,
+      "longitude": -9.6355,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "El Hajeb",
+      "province": "Fès-Meknès",
+      "latitude": 33.6879,
+      "longitude": -5.371,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Zeghanghane",
+      "province": "东部大区",
+      "latitude": 35.1556,
+      "longitude": -3.0024,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Ben Ahmed",
+      "province": "Casablanca-Settat",
+      "latitude": 33.0663,
+      "longitude": -7.2416,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Tit Mellil",
+      "province": "Casablanca-Settat",
+      "latitude": 33.5581,
+      "longitude": -7.4865,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Mechraa Bel Ksiri",
+      "province": "Rabat-Salé-Kénitra",
+      "latitude": 34.5737,
+      "longitude": -5.9558,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Asilah",
+      "province": "Tanger-Tetouan-Al Hoceima",
+      "latitude": 35.4652,
+      "longitude": -6.0342,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Tabount",
+      "province": "Drâa-Tafilalet",
+      "latitude": 30.9032,
+      "longitude": -6.9158,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Laâttaouia",
+      "province": "Marrakesh-Safi",
+      "latitude": 31.8353,
+      "longitude": -7.3143,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Sidi Slimane Echcharaa",
+      "province": "东部大区",
+      "latitude": 34.9082,
+      "longitude": -2.3506,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Demnate",
+      "province": "Béni Mellal-Khénifra",
+      "latitude": 31.7344,
+      "longitude": -7.005,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Arfoud",
+      "province": "Drâa-Tafilalet",
+      "latitude": 31.4353,
+      "longitude": -4.2326,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Bouarfa",
+      "province": "东部大区",
+      "latitude": 32.5338,
+      "longitude": -1.9621,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Souk et Tnine Jorf el Mellah",
+      "province": "Rabat-Salé-Kénitra",
+      "latitude": 34.4916,
+      "longitude": -5.5085,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Mehdya",
+      "province": "Rabat-Salé-Kénitra",
+      "latitude": 34.256,
+      "longitude": -6.6734,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Aïn Taoujdat",
+      "province": "Fès-Meknès",
+      "latitude": 33.9357,
+      "longitude": -5.2133,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Tamesna",
+      "province": "Rabat-Salé-Kénitra",
+      "latitude": 33.8181,
+      "longitude": -6.9166,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Oadar Temsia",
+      "province": "Souss-Massa",
+      "latitude": 30.3653,
+      "longitude": -9.4104,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Chichaoua",
+      "province": "Marrakesh-Safi",
+      "latitude": 31.5435,
+      "longitude": -8.7628,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Tahla",
+      "province": "Fès-Meknès",
+      "latitude": 34.0496,
+      "longitude": -4.4216,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Sabaa Aiyoun",
+      "province": "Fès-Meknès",
+      "latitude": 33.9033,
+      "longitude": -5.3687,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Rich",
+      "province": "Drâa-Tafilalet",
+      "latitude": 32.2564,
+      "longitude": -4.5015,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Missour",
+      "province": "Fès-Meknès",
+      "latitude": 33.0489,
+      "longitude": -3.9895,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Zawyat ech Cheïkh",
+      "province": "Béni Mellal-Khénifra",
+      "latitude": 32.6444,
+      "longitude": -5.9183,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Bouknadel",
+      "province": "Rabat-Salé-Kénitra",
+      "latitude": 34.1185,
+      "longitude": -6.7389,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Aïn Attig",
+      "province": "Rabat-Salé-Kénitra",
+      "latitude": 33.8876,
+      "longitude": -6.9681,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Tamansourt",
+      "province": "Marrakesh-Safi",
+      "latitude": 31.755,
+      "longitude": -8.11,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Echemmaia Est",
+      "province": "Marrakesh-Safi",
+      "latitude": 32.081,
+      "longitude": -8.6246,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Oulad Barhil",
+      "province": "Souss-Massa",
+      "latitude": 30.6404,
+      "longitude": -8.4688,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Bir Jdid",
+      "province": "Casablanca-Settat",
+      "latitude": 33.3736,
+      "longitude": -7.9946,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Oulad Ayad",
+      "province": "Béni Mellal-Khénifra",
+      "latitude": 32.2,
+      "longitude": -6.8,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Zawyat an Nwaçer",
+      "province": "Casablanca-Settat",
+      "latitude": 33.3798,
+      "longitude": -7.6193,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Gueznaia",
+      "province": "Tanger-Tetouan-Al Hoceima",
+      "latitude": 35.7021,
+      "longitude": -5.8904,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Mediouna",
+      "province": "Casablanca-Settat",
+      "latitude": 33.4516,
+      "longitude": -7.5199,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Moulay Ali Cherif",
+      "province": "Drâa-Tafilalet",
+      "latitude": 31.2824,
+      "longitude": -4.2654,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Sidi Ifni",
+      "province": "Souss-Massa",
+      "latitude": 29.3798,
+      "longitude": -10.173,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Selouane",
+      "province": "东部大区",
+      "latitude": 35.0731,
+      "longitude": -2.9423,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "El Gara",
+      "province": "Casablanca-Settat",
+      "latitude": 33.2773,
+      "longitude": -7.2324,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Imi-n-Tanout",
+      "province": "Marrakesh-Safi",
+      "latitude": 31.1721,
+      "longitude": -8.8473,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Sidi Rahal",
+      "province": "Casablanca-Settat",
+      "latitude": 33.4774,
+      "longitude": -7.9364,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "New Fes",
+      "province": "Fès-Meknès",
+      "latitude": 34.0547,
+      "longitude": -5.0072,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Ras el Ma",
+      "province": "Fès-Meknès",
+      "latitude": 33.974,
+      "longitude": -5.0961,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Setti Fatma",
+      "province": "Marrakesh-Safi",
+      "latitude": 31.2251,
+      "longitude": -7.6775,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "El Ksiba",
+      "province": "Béni Mellal-Khénifra",
+      "latitude": 32.5729,
+      "longitude": -6.0195,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "El Mansouria",
+      "province": "Casablanca-Settat",
+      "latitude": 33.7464,
+      "longitude": -7.3019,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Ahfir",
+      "province": "东部大区",
+      "latitude": 34.9537,
+      "longitude": -2.1003,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Al Brouj",
+      "province": "Casablanca-Settat",
+      "latitude": 32.5047,
+      "longitude": -7.1924,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Imouzzer Kandar",
+      "province": "Fès-Meknès",
+      "latitude": 33.7287,
+      "longitude": -5.0109,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Douar Toulal",
+      "province": "Fès-Meknès",
+      "latitude": 33.8848,
+      "longitude": -5.5966,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Karia Ba Mohamed",
+      "province": "Fès-Meknès",
+      "latitude": 34.3709,
+      "longitude": -5.2138,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Reçani",
+      "province": "Drâa-Tafilalet",
+      "latitude": 31.2832,
+      "longitude": -4.2656,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Tata",
+      "province": "Souss-Massa",
+      "latitude": 29.7441,
+      "longitude": -7.973,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Sebt Gzoula",
+      "province": "Marrakesh-Safi",
+      "latitude": 32.1078,
+      "longitude": -9.0837,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Bni Bouayach",
+      "province": "Tanger-Tetouan-Al Hoceima",
+      "latitude": 35.1051,
+      "longitude": -3.8403,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Beni Yakhlef",
+      "province": "Casablanca-Settat",
+      "latitude": 33.6841,
+      "longitude": -7.3392,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Oulmes",
+      "province": "Rabat-Salé-Kénitra",
+      "latitude": 33.4258,
+      "longitude": -6.0014,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Aoulouz",
+      "province": "Souss-Massa",
+      "latitude": 30.6731,
+      "longitude": -8.1809,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Asni",
+      "province": "Marrakesh-Safi",
+      "latitude": 31.2465,
+      "longitude": -7.9789,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Kelaat Mgouna",
+      "province": "Drâa-Tafilalet",
+      "latitude": 31.2457,
+      "longitude": -6.1326,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Méchouar-Kasba",
+      "province": "Marrakesh-Safi",
+      "latitude": 31.6008,
+      "longitude": -7.9865,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Ribat Al Khayr",
+      "province": "Fès-Meknès",
+      "latitude": 33.8152,
+      "longitude": -4.4072,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Agouraï",
+      "province": "Fès-Meknès",
+      "latitude": 33.63,
+      "longitude": -5.58,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Tamallalt",
+      "province": "Marrakesh-Safi",
+      "latitude": 31.819,
+      "longitude": -7.5145,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Goulmima",
+      "province": "Drâa-Tafilalet",
+      "latitude": 31.6923,
+      "longitude": -4.9526,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Outat Oulad Al Haj",
+      "province": "Fès-Meknès",
+      "latitude": 33.345,
+      "longitude": -3.7039,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Aïn Beni Mathar",
+      "province": "东部大区",
+      "latitude": 34.0097,
+      "longitude": -2.0324,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Boujniba",
+      "province": "Béni Mellal-Khénifra",
+      "latitude": 32.9005,
+      "longitude": -6.7746,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Mers El Kheir",
+      "province": "Rabat-Salé-Kénitra",
+      "latitude": 33.8626,
+      "longitude": -6.9296,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Sidi Allal El Bahraoui",
+      "province": "Rabat-Salé-Kénitra",
+      "latitude": 34.0077,
+      "longitude": -6.5308,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Lalla Mimouna",
+      "province": "Rabat-Salé-Kénitra",
+      "latitude": 34.8461,
+      "longitude": -6.0664,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Boumia",
+      "province": "Béni Mellal-Khénifra",
+      "latitude": 32.7236,
+      "longitude": -5.1025,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "El Harhoura",
+      "province": "Rabat-Salé-Kénitra",
+      "latitude": 33.9448,
+      "longitude": -6.9311,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Midar",
+      "province": "东部大区",
+      "latitude": 34.9402,
+      "longitude": -3.5331,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Driouch",
+      "province": "东部大区",
+      "latitude": 34.977,
+      "longitude": -3.379,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Assa",
+      "province": "Guelmim-Oued Noun",
+      "latitude": 28.6099,
+      "longitude": -9.4299,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Amizmiz",
+      "province": "Marrakesh-Safi",
+      "latitude": 31.2167,
+      "longitude": -8.2318,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Ait Yazza",
+      "province": "Souss-Massa",
+      "latitude": 30.5019,
+      "longitude": -8.7992,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Ben Taieb",
+      "province": "东部大区",
+      "latitude": 35.0443,
+      "longitude": -3.4542,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Bou Izakarn",
+      "province": "Guelmim-Oued Noun",
+      "latitude": 29.1771,
+      "longitude": -9.7118,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Oulad Tayeb",
+      "province": "Fès-Meknès",
+      "latitude": 33.9463,
+      "longitude": -4.9951,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Aguelmous",
+      "province": "Béni Mellal-Khénifra",
+      "latitude": 33.1614,
+      "longitude": -5.8463,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Sidi Lmokhtar",
+      "province": "Marrakesh-Safi",
+      "latitude": 31.5774,
+      "longitude": -9.0158,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Targuist",
+      "province": "Tanger-Tetouan-Al Hoceima",
+      "latitude": 34.9377,
+      "longitude": -4.3186,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Zemamra",
+      "province": "Casablanca-Settat",
+      "latitude": 32.6229,
+      "longitude": -8.7023,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Oulad Frej",
+      "province": "Casablanca-Settat",
+      "latitude": 32.9596,
+      "longitude": -8.2274,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Afourer",
+      "province": "Béni Mellal-Khénifra",
+      "latitude": 32.2072,
+      "longitude": -6.5382,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Bouizazarene Ihaddadene",
+      "province": "东部大区",
+      "latitude": 35.1578,
+      "longitude": -2.9738,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Bhalil",
+      "province": "Fès-Meknès",
+      "latitude": 33.8519,
+      "longitude": -4.8723,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Bou Fekrane",
+      "province": "Fès-Meknès",
+      "latitude": 33.761,
+      "longitude": -5.4875,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Sidi Zouine",
+      "province": "Marrakesh-Safi",
+      "latitude": 31.6691,
+      "longitude": -8.3454,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Zag",
+      "province": "Guelmim-Oued Noun",
+      "latitude": 28.0221,
+      "longitude": -9.294,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Sidi Bou Lanouar",
+      "province": "Béni Mellal-Khénifra",
+      "latitude": 32.86,
+      "longitude": -6.88,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "El Menzel",
+      "province": "Fès-Meknès",
+      "latitude": 33.8376,
+      "longitude": -4.5447,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Loudaya",
+      "province": "Marrakesh-Safi",
+      "latitude": 31.6335,
+      "longitude": -8.2489,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Moulay Abdallah",
+      "province": "Casablanca-Settat",
+      "latitude": 33.1966,
+      "longitude": -8.5881,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Boumalne Dades",
+      "province": "Drâa-Tafilalet",
+      "latitude": 31.3799,
+      "longitude": -5.9882,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "El Guerdane",
+      "province": "Souss-Massa",
+      "latitude": 30.3776,
+      "longitude": -9.02,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Jorf",
+      "province": "Drâa-Tafilalet",
+      "latitude": 31.4944,
+      "longitude": -4.406,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Ar Rommani",
+      "province": "Rabat-Salé-Kénitra",
+      "latitude": 33.5284,
+      "longitude": -6.6035,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Zaouïa Aït Ishak",
+      "province": "Béni Mellal-Khénifra",
+      "latitude": 32.7618,
+      "longitude": -5.7253,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Tahannout",
+      "province": "Marrakesh-Safi",
+      "latitude": 31.3524,
+      "longitude": -7.9501,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Ifrane",
+      "province": "Béni Mellal-Khénifra",
+      "latitude": 33.5267,
+      "longitude": -5.1102,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Moulay Driss Zerhoun",
+      "province": "Fès-Meknès",
+      "latitude": 34.0555,
+      "longitude": -5.5213,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Dar Ould Zidouh",
+      "province": "Béni Mellal-Khénifra",
+      "latitude": 32.3125,
+      "longitude": -6.9049,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Figuig",
+      "province": "东部大区",
+      "latitude": 32.1089,
+      "longitude": -1.2286,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Boudenib",
+      "province": "Drâa-Tafilalet",
+      "latitude": 31.9523,
+      "longitude": -3.606,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Jem’at Oulad ’Abbou",
+      "province": "Casablanca-Settat",
+      "latitude": 33.1148,
+      "longitude": -7.9336,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Jamaat Shaim",
+      "province": "Marrakesh-Safi",
+      "latitude": 32.3469,
+      "longitude": -8.8425,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Tissa",
+      "province": "Fès-Meknès",
+      "latitude": 34.2879,
+      "longitude": -4.6637,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Bni Drar",
+      "province": "东部大区",
+      "latitude": 34.8601,
+      "longitude": -1.9898,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Oulad Embarek",
+      "province": "Béni Mellal-Khénifra",
+      "latitude": 32.2716,
+      "longitude": -6.4497,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Agdz",
+      "province": "Drâa-Tafilalet",
+      "latitude": 30.6936,
+      "longitude": -6.4463,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Hattane",
+      "province": "Béni Mellal-Khénifra",
+      "latitude": 32.8409,
+      "longitude": -6.8003,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Tamanar",
+      "province": "Marrakesh-Safi",
+      "latitude": 31.0009,
+      "longitude": -9.678,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Tassila",
+      "province": "Souss-Massa",
+      "latitude": 29.9713,
+      "longitude": -9.6419,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Oued Amlil",
+      "province": "Fès-Meknès",
+      "latitude": 34.2,
+      "longitude": -4.28,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Sebt Bni Garfett",
+      "province": "Tanger-Tetouan-Al Hoceima",
+      "latitude": 35.258,
+      "longitude": -5.8333,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Khenichet-sur Ouerrha",
+      "province": "Rabat-Salé-Kénitra",
+      "latitude": 34.4404,
+      "longitude": -5.6788,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Almis du Guigou",
+      "province": "Fès-Meknès",
+      "latitude": 33.3874,
+      "longitude": -4.8293,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Aïn Cheggag",
+      "province": "Fès-Meknès",
+      "latitude": 33.8929,
+      "longitude": -5.037,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Zoualet",
+      "province": "Fès-Meknès",
+      "latitude": 33.9366,
+      "longitude": -5.4651,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Sidi Yahya Zaer",
+      "province": "Rabat-Salé-Kénitra",
+      "latitude": 33.8298,
+      "longitude": -6.9126,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Sidi Rahhal",
+      "province": "Marrakesh-Safi",
+      "latitude": 31.6503,
+      "longitude": -7.4729,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Aklim",
+      "province": "东部大区",
+      "latitude": 34.92,
+      "longitude": -2.43,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Oulad Yaïch",
+      "province": "Béni Mellal-Khénifra",
+      "latitude": 32.435,
+      "longitude": -6.3245,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Oued Laou",
+      "province": "Tanger-Tetouan-Al Hoceima",
+      "latitude": 35.4484,
+      "longitude": -5.0963,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Ouaouizeght",
+      "province": "Béni Mellal-Khénifra",
+      "latitude": 32.1587,
+      "longitude": -6.3541,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "El Ouatia",
+      "province": "Guelmim-Oued Noun",
+      "latitude": 28.4962,
+      "longitude": -11.3327,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Sidi Bou Othmane",
+      "province": "Marrakesh-Safi",
+      "latitude": 31.9023,
+      "longitude": -7.9417,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Cap Negro II",
+      "province": "Tanger-Tetouan-Al Hoceima",
+      "latitude": 35.6597,
+      "longitude": -5.2852,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Mhamid",
+      "province": "Drâa-Tafilalet",
+      "latitude": 29.82,
+      "longitude": -5.72,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Tameslouht",
+      "province": "Marrakesh-Safi",
+      "latitude": 31.4947,
+      "longitude": -8.0977,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Talsint",
+      "province": "东部大区",
+      "latitude": 32.536,
+      "longitude": -3.4414,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Foum Zguid",
+      "province": "Souss-Massa",
+      "latitude": 30.0879,
+      "longitude": -6.8712,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Tinajdad",
+      "province": "Drâa-Tafilalet",
+      "latitude": 31.5076,
+      "longitude": -5.0329,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Al M’aziz",
+      "province": "Rabat-Salé-Kénitra",
+      "latitude": 33.6707,
+      "longitude": -6.3161,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Tirhassaline",
+      "province": "Béni Mellal-Khénifra",
+      "latitude": 32.7822,
+      "longitude": -5.6528,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Saidia",
+      "province": "东部大区",
+      "latitude": 35.0819,
+      "longitude": -2.229,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Oulad M'Rah",
+      "province": "Casablanca-Settat",
+      "latitude": 32.9128,
+      "longitude": -7.2644,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Ighram Laalam",
+      "province": "Béni Mellal-Khénifra",
+      "latitude": 32.5238,
+      "longitude": -6.1498,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Sidi Ali Ben Hamdouche",
+      "province": "Casablanca-Settat",
+      "latitude": 33.2867,
+      "longitude": -8.3266,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Tendrara",
+      "province": "东部大区",
+      "latitude": 33.0496,
+      "longitude": -2.0002,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Bni Tajjit",
+      "province": "东部大区",
+      "latitude": 32.2893,
+      "longitude": -3.4662,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Al Qbab",
+      "province": "Béni Mellal-Khénifra",
+      "latitude": 32.7412,
+      "longitude": -5.5199,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Souq Al Had Bradya",
+      "province": "Béni Mellal-Khénifra",
+      "latitude": 32.4493,
+      "longitude": -6.5366,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Tounfit",
+      "province": "Drâa-Tafilalet",
+      "latitude": 32.4695,
+      "longitude": -5.2451,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Zirara",
+      "province": "Rabat-Salé-Kénitra",
+      "latitude": 34.241,
+      "longitude": -5.7424,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Bouderbala",
+      "province": "Fès-Meknès",
+      "latitude": 33.8167,
+      "longitude": -5.2758,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Had Kourt",
+      "province": "Rabat-Salé-Kénitra",
+      "latitude": 34.6159,
+      "longitude": -5.7404,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Laouamra",
+      "province": "Tanger-Tetouan-Al Hoceima",
+      "latitude": 35.0694,
+      "longitude": -6.0884,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Oualidia",
+      "province": "Casablanca-Settat",
+      "latitude": 32.7337,
+      "longitude": -9.0306,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Ras Kebdana",
+      "province": "东部大区",
+      "latitude": 35.1407,
+      "longitude": -2.4245,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Moulay Bousselham",
+      "province": "Rabat-Salé-Kénitra",
+      "latitude": 34.8816,
+      "longitude": -6.2946,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Melqa el Ouidane",
+      "province": "东部大区",
+      "latitude": 34.5596,
+      "longitude": -3.0232,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Taznakht",
+      "province": "Drâa-Tafilalet",
+      "latitude": 30.5784,
+      "longitude": -7.2034,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Souq Khmis Aït Yadine",
+      "province": "Rabat-Salé-Kénitra",
+      "latitude": 33.9716,
+      "longitude": -6.0169,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Zayda",
+      "province": "Drâa-Tafilalet",
+      "latitude": 32.8192,
+      "longitude": -4.961,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Kahf Nssar",
+      "province": "Béni Mellal-Khénifra",
+      "latitude": 32.9136,
+      "longitude": -5.9587,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Sidi Ahmed",
+      "province": "Marrakesh-Safi",
+      "latitude": 32.2081,
+      "longitude": -8.4914,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Ain Aicha",
+      "province": "Fès-Meknès",
+      "latitude": 34.461,
+      "longitude": -4.6903,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Boulemane",
+      "province": "Fès-Meknès",
+      "latitude": 33.3638,
+      "longitude": -4.729,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Talat-n-Ya’qoub",
+      "province": "Marrakesh-Safi",
+      "latitude": 30.9889,
+      "longitude": -8.1893,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Akka",
+      "province": "Souss-Massa",
+      "latitude": 29.3891,
+      "longitude": -8.2549,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Aghbala",
+      "province": "Béni Mellal-Khénifra",
+      "latitude": 32.4808,
+      "longitude": -5.6429,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Taliouine",
+      "province": "Souss-Massa",
+      "latitude": 30.5292,
+      "longitude": -7.9126,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Tarhjicht",
+      "province": "Guelmim-Oued Noun",
+      "latitude": 29.0583,
+      "longitude": -9.4288,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Douar el Caïd el Gueddari",
+      "province": "Rabat-Salé-Kénitra",
+      "latitude": 34.4212,
+      "longitude": -6.091,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Haj Kaddour",
+      "province": "Fès-Meknès",
+      "latitude": 33.8251,
+      "longitude": -5.425,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Ben Qarrich",
+      "province": "Tanger-Tetouan-Al Hoceima",
+      "latitude": 35.5109,
+      "longitude": -5.4205,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Ghafsaï",
+      "province": "Fès-Meknès",
+      "latitude": 34.628,
+      "longitude": -4.9127,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Fam El Hisn",
+      "province": "Souss-Massa",
+      "latitude": 29.0189,
+      "longitude": -8.8911,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Tafraout",
+      "province": "Souss-Massa",
+      "latitude": 29.7245,
+      "longitude": -8.9747,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Khemis Sahel",
+      "province": "Tanger-Tetouan-Al Hoceima",
+      "latitude": 35.2534,
+      "longitude": -6.0796,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Sidi Bouzid",
+      "province": "Casablanca-Settat",
+      "latitude": 33.2315,
+      "longitude": -8.5506,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Gueltat Zemmour",
+      "province": "Laâyoune-Sakia El Hamra",
+      "latitude": 25.1428,
+      "longitude": -12.3717,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Sidi Bibi",
+      "province": "Souss-Massa",
+      "latitude": 30.2378,
+      "longitude": -9.5288,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Oulad El Rhadabne",
+      "province": "Casablanca-Settat",
+      "latitude": 33.1752,
+      "longitude": -8.6059,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Souq at Tlata des Loulad",
+      "province": "Casablanca-Settat",
+      "latitude": 32.9947,
+      "longitude": -7.1198,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Bab Taza",
+      "province": "Tanger-Tetouan-Al Hoceima",
+      "latitude": 35.0617,
+      "longitude": -5.1983,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Itzer",
+      "province": "Béni Mellal-Khénifra",
+      "latitude": 32.8783,
+      "longitude": -5.0515,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Foum Jam’a",
+      "province": "Béni Mellal-Khénifra",
+      "latitude": 31.9617,
+      "longitude": -6.9835,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Lemhaya",
+      "province": "Fès-Meknès",
+      "latitude": 33.9772,
+      "longitude": -5.251,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Souk El Arba Des Aït Baha",
+      "province": "Souss-Massa",
+      "latitude": 30.0696,
+      "longitude": -9.1547,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Gourrama",
+      "province": "Drâa-Tafilalet",
+      "latitude": 32.3402,
+      "longitude": -4.0735,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Had Oulad Zbair",
+      "province": "Fès-Meknès",
+      "latitude": 34.2894,
+      "longitude": -4.3195,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Sidi Smai’il",
+      "province": "Casablanca-Settat",
+      "latitude": 32.8246,
+      "longitude": -8.5112,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Aït Ouaoumana",
+      "province": "Béni Mellal-Khénifra",
+      "latitude": 32.7103,
+      "longitude": -5.8063,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Kariat Arkmane",
+      "province": "东部大区",
+      "latitude": 35.1071,
+      "longitude": -2.7469,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Skhour Rehamna",
+      "province": "Marrakesh-Safi",
+      "latitude": 32.4824,
+      "longitude": -7.9153,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Aousserd",
+      "province": "Dakhla-Oued Ed-Dahab",
+      "latitude": 22.554,
+      "longitude": -14.33,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "阿杰迪尔",
+      "name_en": "Ajdir",
+      "province": "Tanger-Tetouan-Al Hoceima",
+      "latitude": 35.1954,
+      "longitude": -3.9117,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Moulay Bou ’azza",
+      "province": "Béni Mellal-Khénifra",
+      "latitude": 33.2258,
+      "longitude": -6.1981,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Arbaa Laaounate",
+      "province": "Casablanca-Settat",
+      "latitude": 32.7434,
+      "longitude": -8.195,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Dhar Souk",
+      "province": "Fès-Meknès",
+      "latitude": 34.652,
+      "longitude": -4.2792,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Tarfaya",
+      "province": "Laâyoune-Sakia El Hamra",
+      "latitude": 27.9392,
+      "longitude": -12.926,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Boureït",
+      "province": "Tanger-Tetouan-Al Hoceima",
+      "latitude": 34.9983,
+      "longitude": -4.893,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Aïn Leuh",
+      "province": "Fès-Meknès",
+      "latitude": 33.2898,
+      "longitude": -5.3386,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Tlet El Hanchane",
+      "province": "Marrakesh-Safi",
+      "latitude": 31.5221,
+      "longitude": -9.4359,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Debdou",
+      "province": "东部大区",
+      "latitude": 33.9823,
+      "longitude": -3.0426,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Ain Karma",
+      "province": "Fès-Meknès",
+      "latitude": 34.0066,
+      "longitude": -5.6157,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Sidi Allal Tazi",
+      "province": "Rabat-Salé-Kénitra",
+      "latitude": 34.5226,
+      "longitude": -6.322,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Taghazout",
+      "province": "Souss-Massa",
+      "latitude": 30.5426,
+      "longitude": -9.7111,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Tiztoutine",
+      "province": "东部大区",
+      "latitude": 34.9716,
+      "longitude": -3.1527,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Bellaa",
+      "province": "Souss-Massa",
+      "latitude": 30.0514,
+      "longitude": -9.5616,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Lakhsas",
+      "province": "Guelmim-Oued Noun",
+      "latitude": 29.3661,
+      "longitude": -9.7508,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Alnif",
+      "province": "Drâa-Tafilalet",
+      "latitude": 31.1141,
+      "longitude": -5.1715,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Sidi Jaber",
+      "province": "Béni Mellal-Khénifra",
+      "latitude": 32.3895,
+      "longitude": -6.421,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Al Machouar - Stinia",
+      "province": "Fès-Meknès",
+      "latitude": 33.8854,
+      "longitude": -5.5557,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Mirleft",
+      "province": "Guelmim-Oued Noun",
+      "latitude": 29.5783,
+      "longitude": -10.0325,
+      "timezone": "Africa/Casablanca"
+    },
+    {
+      "name": "",
+      "name_en": "Moulay Yacoub",
+      "province": "Fès-Meknès",
+      "latitude": 34.0879,
+      "longitude": -5.1817,
+      "timezone": "Africa/Casablanca"
+    }
+  ]
+}

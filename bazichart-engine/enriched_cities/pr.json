@@ -1,0 +1,758 @@
+{
+  "country_code": "PR",
+  "country_name": "波多黎各",
+  "cities": [
+    {
+      "name": "圣胡安",
+      "name_en": "San Juan",
+      "province": "San Juan",
+      "latitude": 18.4663,
+      "longitude": -66.1057,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "巴阿蒙",
+      "name_en": "Bayamón",
+      "province": "Bayamón",
+      "latitude": 18.3986,
+      "longitude": -66.1557,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Carolina",
+      "province": "Carolina",
+      "latitude": 18.3808,
+      "longitude": -65.9574,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "庞塞",
+      "name_en": "Ponce",
+      "province": "Ponce",
+      "latitude": 18.0103,
+      "longitude": -66.624,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Arecibo",
+      "province": "阿雷西沃",
+      "latitude": 18.4724,
+      "longitude": -66.7157,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "卡瓜斯",
+      "name_en": "Caguas",
+      "province": "Caguas",
+      "latitude": 18.2341,
+      "longitude": -66.0485,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Guaynabo",
+      "province": "Guaynabo",
+      "latitude": 18.3575,
+      "longitude": -66.111,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "上特鲁希略",
+      "name_en": "Trujillo Alto",
+      "province": "Trujillo Alto",
+      "latitude": 18.3547,
+      "longitude": -66.0074,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "马亚圭斯",
+      "name_en": "Mayagüez",
+      "province": "Mayagüez",
+      "latitude": 18.2011,
+      "longitude": -67.1396,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "法哈多",
+      "name_en": "Fajardo",
+      "province": "Fajardo",
+      "latitude": 18.3258,
+      "longitude": -65.6524,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "莱维顿",
+      "name_en": "Levittown",
+      "province": "Toa Baja",
+      "latitude": 18.45,
+      "longitude": -66.1816,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "下维加",
+      "name_en": "Vega Baja",
+      "province": "Vega Baja",
+      "latitude": 18.4444,
+      "longitude": -66.3877,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Cataño",
+      "province": "Cataño",
+      "latitude": 18.4413,
+      "longitude": -66.1182,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Barceloneta",
+      "province": "Barceloneta",
+      "latitude": 18.4505,
+      "longitude": -66.5385,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "瓜亚马",
+      "name_en": "Guayama",
+      "province": "Guayama",
+      "latitude": 17.9841,
+      "longitude": -66.1138,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "乌马考",
+      "name_en": "Humacao",
+      "province": "Humacao",
+      "latitude": 18.1497,
+      "longitude": -65.8274,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "尧科",
+      "name_en": "Yauco",
+      "province": "Yauco",
+      "latitude": 18.035,
+      "longitude": -66.8499,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Cayey",
+      "province": "Cayey",
+      "latitude": 18.1119,
+      "longitude": -66.166,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Candelaria",
+      "province": "Toa Baja",
+      "latitude": 18.4041,
+      "longitude": -66.2088,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Manatí",
+      "province": "Manatí",
+      "latitude": 18.4275,
+      "longitude": -66.4921,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "阿瓜迪亚",
+      "name_en": "Aguadilla",
+      "province": "Aguadilla",
+      "latitude": 18.4275,
+      "longitude": -67.1541,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "里奥格兰德",
+      "name_en": "Río Grande",
+      "province": "Río Grande",
+      "latitude": 18.3802,
+      "longitude": -65.8313,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "多拉多",
+      "name_en": "Dorado",
+      "province": "Dorado",
+      "latitude": 18.4588,
+      "longitude": -66.2677,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Isabela",
+      "province": "Isabela",
+      "latitude": 18.5008,
+      "longitude": -67.0243,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "圣赫尔曼",
+      "name_en": "San Germán",
+      "province": "San Germán",
+      "latitude": 18.0816,
+      "longitude": -67.0449,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "上维加",
+      "name_en": "Vega Alta",
+      "province": "Vega Alta",
+      "latitude": 18.4122,
+      "longitude": -66.3313,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "科阿莫",
+      "name_en": "Coamo",
+      "province": "Coamo",
+      "latitude": 18.08,
+      "longitude": -66.358,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "奥尔米格罗斯",
+      "name_en": "Hormigueros",
+      "province": "Hormigueros",
+      "latitude": 18.1397,
+      "longitude": -67.1274,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "San Sebastián",
+      "province": "San Sebastián",
+      "latitude": 18.3366,
+      "longitude": -66.9902,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Corozal",
+      "province": "Corozal",
+      "latitude": 18.3411,
+      "longitude": -66.3168,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "卡沃罗霍",
+      "name_en": "Cabo Rojo",
+      "province": "Cabo Rojo",
+      "latitude": 18.0866,
+      "longitude": -67.1457,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "乌图阿多",
+      "name_en": "Utuado",
+      "province": "Utuado",
+      "latitude": 18.2655,
+      "longitude": -66.7005,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Pájaros",
+      "province": "Toa Alta",
+      "latitude": 18.3686,
+      "longitude": -66.2168,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "胡安娜迪亚斯",
+      "name_en": "Juana Díaz",
+      "province": "Juana Díaz",
+      "latitude": 18.0525,
+      "longitude": -66.5066,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "San Lorenzo",
+      "province": "San Lorenzo",
+      "latitude": 18.1894,
+      "longitude": -65.961,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Isabel Segunda",
+      "province": "Vieques",
+      "latitude": 18.1491,
+      "longitude": -65.4427,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "瓜尼卡",
+      "name_en": "Guánica",
+      "province": "Guánica",
+      "latitude": 17.9716,
+      "longitude": -66.9079,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "古拉沃",
+      "name_en": "Gurabo",
+      "province": "Gurabo",
+      "latitude": 18.2544,
+      "longitude": -65.9729,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "大萨瓦纳",
+      "name_en": "Sabana Grande",
+      "province": "Sabana Grande",
+      "latitude": 18.0777,
+      "longitude": -66.9604,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Aibonito",
+      "province": "Aibonito",
+      "latitude": 18.14,
+      "longitude": -66.266,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Juncos",
+      "province": "Juncos",
+      "latitude": 18.2275,
+      "longitude": -65.921,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Canovanas",
+      "province": "Canóvanas",
+      "latitude": 18.3751,
+      "longitude": -65.8993,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Luquillo",
+      "province": "Luquillo",
+      "latitude": 18.3725,
+      "longitude": -65.7165,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "San Isidro",
+      "province": "Canóvanas",
+      "latitude": 18.3922,
+      "longitude": -65.8854,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Campanilla",
+      "province": "Toa Baja",
+      "latitude": 18.4213,
+      "longitude": -66.2368,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Arroyo",
+      "province": "Arroyo",
+      "latitude": 17.9658,
+      "longitude": -66.0613,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Isabel",
+      "province": "Santa Isabel",
+      "latitude": 17.9661,
+      "longitude": -66.4049,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "拉雷斯",
+      "name_en": "Lares",
+      "province": "Lares",
+      "latitude": 18.2947,
+      "longitude": -66.8771,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Yabucoa",
+      "province": "Yabucoa",
+      "latitude": 18.0505,
+      "longitude": -65.8793,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Peñuelas",
+      "province": "Peñuelas",
+      "latitude": 18.0563,
+      "longitude": -66.7216,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Las Piedras",
+      "province": "Las Piedras",
+      "latitude": 18.183,
+      "longitude": -65.8663,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Ceiba",
+      "province": "Vega Alta",
+      "latitude": 18.4463,
+      "longitude": -66.3507,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "San Antonio",
+      "province": "Dorado",
+      "latitude": 18.4488,
+      "longitude": -66.3027,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Salinas",
+      "province": "Salinas",
+      "latitude": 17.9775,
+      "longitude": -66.298,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "塞瓦",
+      "name_en": "Ceiba",
+      "province": "Ceiba",
+      "latitude": 18.4463,
+      "longitude": -66.3507,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Sabana Seca",
+      "province": "Toa Baja",
+      "latitude": 18.4269,
+      "longitude": -66.1846,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Puerto Real",
+      "province": "Cabo Rojo",
+      "latitude": 18.075,
+      "longitude": -67.1871,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "阿尼亚斯科",
+      "name_en": "Añasco",
+      "province": "Añasco",
+      "latitude": 18.2827,
+      "longitude": -67.1396,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Estancias de Florida",
+      "province": "Florida",
+      "latitude": 18.3666,
+      "longitude": -66.5696,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Candelaria Arenas",
+      "province": "Toa Baja",
+      "latitude": 18.4172,
+      "longitude": -66.2174,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Coco",
+      "province": "Salinas",
+      "latitude": 18.0072,
+      "longitude": -66.2593,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Punta Santiago",
+      "province": "Humacao",
+      "latitude": 18.1664,
+      "longitude": -65.7482,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Ingenio",
+      "province": "Toa Baja",
+      "latitude": 18.4422,
+      "longitude": -66.226,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Florida",
+      "province": "Florida",
+      "latitude": 18.3624,
+      "longitude": -66.5613,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "阿提约",
+      "name_en": "Hatillo",
+      "province": "Hatillo",
+      "latitude": 18.4863,
+      "longitude": -66.8255,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "克布拉迪亚斯",
+      "name_en": "Quebradillas",
+      "province": "Quebradillas",
+      "latitude": 18.4738,
+      "longitude": -66.9385,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "拉哈斯",
+      "name_en": "Lajas",
+      "province": "Lajas",
+      "latitude": 18.05,
+      "longitude": -67.0593,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Guayanilla",
+      "province": "Guayanilla",
+      "latitude": 18.0191,
+      "longitude": -66.7918,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Barbara",
+      "province": "Canóvanas",
+      "latitude": 18.3936,
+      "longitude": -65.9188,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Adjuntas",
+      "province": "Adjuntas",
+      "latitude": 18.1627,
+      "longitude": -66.7221,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Eleanor Roosevelt",
+      "province": "San Juan",
+      "latitude": 18.4163,
+      "longitude": -66.064,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Cidra",
+      "province": "Cidra",
+      "latitude": 18.1758,
+      "longitude": -66.1613,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "莫卡",
+      "name_en": "Moca",
+      "province": "Moca",
+      "latitude": 18.3947,
+      "longitude": -67.1132,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Comerío",
+      "province": "Comerío",
+      "latitude": 18.218,
+      "longitude": -66.226,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "纳瓜沃",
+      "name_en": "Naguabo",
+      "province": "Naguabo",
+      "latitude": 18.2116,
+      "longitude": -65.7349,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Aguas Buenas",
+      "province": "Aguas Buenas",
+      "latitude": 18.2569,
+      "longitude": -66.1029,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Villalba",
+      "province": "Villalba",
+      "latitude": 18.1272,
+      "longitude": -66.4921,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "上托阿",
+      "name_en": "Toa Alta",
+      "province": "Toa Alta",
+      "latitude": 18.3883,
+      "longitude": -66.2482,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "洛伊萨",
+      "name_en": "Loíza",
+      "province": "Loíza",
+      "latitude": 18.4313,
+      "longitude": -65.8802,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "帕蒂亚斯",
+      "name_en": "Patillas",
+      "province": "Patillas",
+      "latitude": 18.0064,
+      "longitude": -66.0157,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "卡穆伊",
+      "name_en": "Camuy",
+      "province": "Camuy",
+      "latitude": 18.4838,
+      "longitude": -66.8449,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "阿瓜达",
+      "name_en": "Aguada",
+      "province": "Aguada",
+      "latitude": 18.3794,
+      "longitude": -67.1882,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Jayuya",
+      "province": "Jayuya",
+      "latitude": 18.2186,
+      "longitude": -66.5916,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "锡亚莱斯",
+      "name_en": "Ciales",
+      "province": "Ciales",
+      "latitude": 18.3361,
+      "longitude": -66.4688,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "巴兰基塔斯",
+      "name_en": "Barranquitas",
+      "province": "Barranquitas",
+      "latitude": 18.1866,
+      "longitude": -66.3063,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Morovis",
+      "province": "Morovis",
+      "latitude": 18.3258,
+      "longitude": -66.4066,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Maunabo",
+      "province": "Maunabo",
+      "latitude": 18.0072,
+      "longitude": -65.8993,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "纳兰希托",
+      "name_en": "Naranjito",
+      "province": "Naranjito",
+      "latitude": 18.3008,
+      "longitude": -66.2449,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Toa Baja",
+      "province": "Toa Baja",
+      "latitude": 18.4438,
+      "longitude": -66.2596,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Rincón",
+      "province": "Rincón",
+      "latitude": 18.3402,
+      "longitude": -67.2499,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Culebra",
+      "province": "Culebra",
+      "latitude": 18.303,
+      "longitude": -65.301,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "马里考",
+      "name_en": "Maricao",
+      "province": "Maricao",
+      "latitude": 18.1808,
+      "longitude": -66.9799,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "拉斯玛丽亚斯",
+      "name_en": "Las Marías",
+      "province": "Las Marías",
+      "latitude": 18.2519,
+      "longitude": -66.9921,
+      "timezone": "America/Puerto_Rico"
+    },
+    {
+      "name": "",
+      "name_en": "Orocovis",
+      "province": "Orocovis",
+      "latitude": 18.2269,
+      "longitude": -66.391,
+      "timezone": "America/Puerto_Rico"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "country_code": "CK",
+  "country_name": "库克群岛",
+  "cities": [
+    {
+      "name": "阿瓦鲁阿",
+      "name_en": "Avarua",
+      "province": "Rarotonga",
+      "latitude": -21.2075,
+      "longitude": -159.7755,
+      "timezone": "Pacific/Rarotonga"
+    }
+  ]
+}

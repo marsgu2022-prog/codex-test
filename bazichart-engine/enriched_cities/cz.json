@@ -1,0 +1,2774 @@
+{
+  "country_code": "CZ",
+  "country_name": "捷克",
+  "cities": [
+    {
+      "name": "布拉格",
+      "name_en": "Prague",
+      "province": "Prague",
+      "latitude": 50.088,
+      "longitude": 14.4208,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "布尔诺",
+      "name_en": "Brno",
+      "province": "南摩拉维亚州",
+      "latitude": 49.1952,
+      "longitude": 16.608,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "俄斯特拉发",
+      "name_en": "Ostrava",
+      "province": "Moravskoslezský",
+      "latitude": 49.8347,
+      "longitude": 18.282,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "比尔森",
+      "name_en": "Pilsen",
+      "province": "Plzeň Region",
+      "latitude": 49.7475,
+      "longitude": 13.3776,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "利贝雷茨",
+      "name_en": "Liberec",
+      "province": "Liberecký kraj",
+      "latitude": 50.7671,
+      "longitude": 15.0562,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "奥洛穆克",
+      "name_en": "Olomouc",
+      "province": "Olomoucký",
+      "latitude": 49.5955,
+      "longitude": 17.2518,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "České Budějovice",
+      "province": "南波希米亚州",
+      "latitude": 48.9745,
+      "longitude": 14.4743,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "赫拉德茨-克拉洛韦",
+      "name_en": "Hradec Králové",
+      "province": "Královéhradecký kraj",
+      "latitude": 50.2092,
+      "longitude": 15.8328,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Ústí nad Labem",
+      "province": "Ústecký kraj",
+      "latitude": 50.6607,
+      "longitude": 14.0323,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "帕尔杜比采",
+      "name_en": "Pardubice",
+      "province": "Pardubický",
+      "latitude": 50.0408,
+      "longitude": 15.7766,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Brno střed",
+      "province": "南摩拉维亚州",
+      "latitude": 49.1934,
+      "longitude": 16.6071,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "哈维若夫",
+      "name_en": "Havířov",
+      "province": "Moravskoslezský",
+      "latitude": 49.7798,
+      "longitude": 18.4369,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Zlín",
+      "province": "Zlín",
+      "latitude": 49.2264,
+      "longitude": 17.6706,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "克拉德诺",
+      "name_en": "Kladno",
+      "province": "中波希米亚州",
+      "latitude": 50.1473,
+      "longitude": 14.1029,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Most",
+      "province": "Ústecký kraj",
+      "latitude": 50.503,
+      "longitude": 13.6362,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Stodůlky",
+      "province": "Prague",
+      "latitude": 50.05,
+      "longitude": 14.3167,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "奥帕瓦",
+      "name_en": "Opava",
+      "province": "Moravskoslezský",
+      "latitude": 49.9387,
+      "longitude": 17.9026,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Žižkov",
+      "province": "Prague",
+      "latitude": 50.0833,
+      "longitude": 14.45,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "弗里代克-米斯泰克",
+      "name_en": "Frýdek-Místek",
+      "province": "Moravskoslezský",
+      "latitude": 49.6833,
+      "longitude": 18.35,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "特普利采",
+      "name_en": "Teplice",
+      "province": "Ústecký kraj",
+      "latitude": 50.6404,
+      "longitude": 13.8245,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Jihlava",
+      "province": "Vysočina",
+      "latitude": 49.3961,
+      "longitude": 15.5912,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Chodov",
+      "province": "Prague",
+      "latitude": 50.0367,
+      "longitude": 14.5044,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Královské Vinohrady",
+      "province": "Prague",
+      "latitude": 50.0744,
+      "longitude": 14.4437,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Karviná",
+      "province": "Moravskoslezský",
+      "latitude": 49.854,
+      "longitude": 18.5417,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "霍穆托夫",
+      "name_en": "Chomutov",
+      "province": "Ústecký kraj",
+      "latitude": 50.4605,
+      "longitude": 13.4178,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "杰钦",
+      "name_en": "Děčín",
+      "province": "Ústecký kraj",
+      "latitude": 50.7822,
+      "longitude": 14.2148,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Jablonec nad Nisou",
+      "province": "Liberecký kraj",
+      "latitude": 50.7243,
+      "longitude": 15.1711,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "卡罗维发利",
+      "name_en": "Karlovy Vary",
+      "province": "Karlovarský kraj",
+      "latitude": 50.2327,
+      "longitude": 12.8712,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Mladá Boleslav",
+      "province": "中波希米亚州",
+      "latitude": 50.4113,
+      "longitude": 14.9032,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "普罗斯捷约夫",
+      "name_en": "Prostějov",
+      "province": "Olomoucký",
+      "latitude": 49.4719,
+      "longitude": 17.1118,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "普热罗夫",
+      "name_en": "Přerov",
+      "province": "Olomoucký",
+      "latitude": 49.4551,
+      "longitude": 17.4509,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "特日内茨",
+      "name_en": "Třinec",
+      "province": "Moravskoslezský",
+      "latitude": 49.6776,
+      "longitude": 18.6708,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Staré Strašnice",
+      "province": "Prague",
+      "latitude": 50.0765,
+      "longitude": 14.5104,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Holešovice",
+      "province": "Prague",
+      "latitude": 50.1047,
+      "longitude": 14.4495,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Vršovice",
+      "province": "Prague",
+      "latitude": 50.0673,
+      "longitude": 14.4603,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "捷克利帕",
+      "name_en": "Česká Lípa",
+      "province": "Liberecký kraj",
+      "latitude": 50.6855,
+      "longitude": 14.5376,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "塔博尔",
+      "name_en": "Tábor",
+      "province": "南波希米亚州",
+      "latitude": 49.4144,
+      "longitude": 14.6578,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Libeň",
+      "province": "Prague",
+      "latitude": 50.1082,
+      "longitude": 14.4746,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "兹诺伊莫",
+      "name_en": "Znojmo",
+      "province": "南摩拉维亚州",
+      "latitude": 48.8555,
+      "longitude": 16.0488,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Záběhlice",
+      "province": "Prague",
+      "latitude": 50.0573,
+      "longitude": 14.5038,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Nusle",
+      "province": "Prague",
+      "latitude": 50.0646,
+      "longitude": 14.4399,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Smíchov",
+      "province": "Prague",
+      "latitude": 50.072,
+      "longitude": 14.4041,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Třebíč",
+      "province": "Vysočina",
+      "latitude": 49.2149,
+      "longitude": 15.8817,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "奥尔洛瓦",
+      "name_en": "Orlová",
+      "province": "Moravskoslezský",
+      "latitude": 49.8453,
+      "longitude": 18.4301,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Modřany",
+      "province": "Prague",
+      "latitude": 50.0112,
+      "longitude": 14.4096,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "科林",
+      "name_en": "Kolín",
+      "province": "中波希米亚州",
+      "latitude": 50.0281,
+      "longitude": 15.1998,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "海布",
+      "name_en": "Cheb",
+      "province": "Karlovarský kraj",
+      "latitude": 50.0796,
+      "longitude": 12.3739,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "普日布拉姆",
+      "name_en": "Příbram",
+      "province": "中波希米亚州",
+      "latitude": 49.6899,
+      "longitude": 14.0104,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "特鲁特诺夫",
+      "name_en": "Trutnov",
+      "province": "Královéhradecký kraj",
+      "latitude": 50.561,
+      "longitude": 15.9127,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "皮塞克",
+      "name_en": "Písek",
+      "province": "南波希米亚州",
+      "latitude": 49.3088,
+      "longitude": 14.1475,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "顺佩尔克",
+      "name_en": "Šumperk",
+      "province": "Olomoucký",
+      "latitude": 49.9653,
+      "longitude": 16.9706,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "弗塞廷",
+      "name_en": "Vsetín",
+      "province": "Zlín",
+      "latitude": 49.3387,
+      "longitude": 17.9962,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "克罗梅日什",
+      "name_en": "Kroměříž",
+      "province": "Zlín",
+      "latitude": 49.2978,
+      "longitude": 17.3931,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "瓦拉什斯凯梅济日奇",
+      "name_en": "Valašské Meziříčí",
+      "province": "Zlín",
+      "latitude": 49.4718,
+      "longitude": 17.9711,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Krč",
+      "province": "Prague",
+      "latitude": 50.0416,
+      "longitude": 14.4457,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "布拉格新城",
+      "name_en": "Nové Město",
+      "province": "Prague",
+      "latitude": 50.0783,
+      "longitude": 14.4209,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Kobylisy",
+      "province": "Prague",
+      "latitude": 50.1237,
+      "longitude": 14.4521,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Nový Jičín",
+      "province": "Moravskoslezský",
+      "latitude": 49.5944,
+      "longitude": 18.0103,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "布热茨拉夫",
+      "name_en": "Břeclav",
+      "province": "南摩拉维亚州",
+      "latitude": 48.759,
+      "longitude": 16.882,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "捷克捷欣",
+      "name_en": "Český Těšín",
+      "province": "Moravskoslezský",
+      "latitude": 49.7461,
+      "longitude": 18.6261,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Uherské Hradiště",
+      "province": "Zlín",
+      "latitude": 49.0697,
+      "longitude": 17.4597,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Líšeň",
+      "province": "南摩拉维亚州",
+      "latitude": 49.2071,
+      "longitude": 16.6948,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "利托梅日采",
+      "name_en": "Litoměřice",
+      "province": "Ústecký kraj",
+      "latitude": 50.5335,
+      "longitude": 14.1318,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Havlíčkův Brod",
+      "province": "Vysočina",
+      "latitude": 49.6069,
+      "longitude": 15.5794,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Královo Pole",
+      "province": "南摩拉维亚州",
+      "latitude": 49.2252,
+      "longitude": 16.5899,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "赫鲁迪姆",
+      "name_en": "Chrudim",
+      "province": "Pardubický",
+      "latitude": 49.9511,
+      "longitude": 15.7956,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Hodonín",
+      "province": "南摩拉维亚州",
+      "latitude": 48.8489,
+      "longitude": 17.1324,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Hlubočepy",
+      "province": "Prague",
+      "latitude": 50.0436,
+      "longitude": 14.4016,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "科普日夫尼采",
+      "name_en": "Kopřivnice",
+      "province": "Moravskoslezský",
+      "latitude": 49.5995,
+      "longitude": 18.1448,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Dejvice",
+      "province": "Prague",
+      "latitude": 50.1008,
+      "longitude": 14.3907,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Bohumín",
+      "province": "Moravskoslezský",
+      "latitude": 49.9041,
+      "longitude": 18.3575,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Starý Bohumín",
+      "province": "Moravskoslezský",
+      "latitude": 49.9169,
+      "longitude": 18.3362,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "因德日赫城堡",
+      "name_en": "Jindřichův Hradec",
+      "province": "南波希米亚州",
+      "latitude": 49.144,
+      "longitude": 15.003,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "克拉托维",
+      "name_en": "Klatovy",
+      "province": "Plzeň Region",
+      "latitude": 49.3955,
+      "longitude": 13.295,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Bystrc",
+      "province": "南摩拉维亚州",
+      "latitude": 49.2264,
+      "longitude": 16.5303,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "克尔诺夫",
+      "name_en": "Krnov",
+      "province": "Moravskoslezský",
+      "latitude": 50.0897,
+      "longitude": 17.7038,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Černý Most",
+      "province": "Prague",
+      "latitude": 50.1048,
+      "longitude": 14.5797,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Řepy",
+      "province": "Prague",
+      "latitude": 50.0706,
+      "longitude": 14.3005,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "利特威诺夫",
+      "name_en": "Litvínov",
+      "province": "Ústecký kraj",
+      "latitude": 50.6042,
+      "longitude": 13.6181,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "斯特拉科尼采",
+      "name_en": "Strakonice",
+      "province": "南波希米亚州",
+      "latitude": 49.2614,
+      "longitude": 13.9024,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Háje",
+      "province": "Prague",
+      "latitude": 50.0361,
+      "longitude": 14.5267,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "索科洛夫",
+      "name_en": "Sokolov",
+      "province": "Karlovarský kraj",
+      "latitude": 50.1813,
+      "longitude": 12.6401,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Letňany",
+      "province": "Prague",
+      "latitude": 50.1333,
+      "longitude": 14.5167,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "库特纳霍拉",
+      "name_en": "Kutná Hora",
+      "province": "中波希米亚州",
+      "latitude": 49.9484,
+      "longitude": 15.2682,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "贝龙",
+      "name_en": "Beroun",
+      "province": "中波希米亚州",
+      "latitude": 49.9638,
+      "longitude": 14.072,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Michle",
+      "province": "Prague",
+      "latitude": 50.048,
+      "longitude": 14.4622,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Náchod",
+      "province": "Královéhradecký kraj",
+      "latitude": 50.4167,
+      "longitude": 16.1629,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Vyškov",
+      "province": "南摩拉维亚州",
+      "latitude": 49.2775,
+      "longitude": 16.999,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "萨扎瓦河畔日贾尔",
+      "name_en": "Žďár nad Sázavou",
+      "province": "Vysočina",
+      "latitude": 49.5626,
+      "longitude": 15.9392,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Brandýs nad Labem-Stará Boleslav",
+      "province": "中波希米亚州",
+      "latitude": 50.1871,
+      "longitude": 14.6633,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Blansko",
+      "province": "南摩拉维亚州",
+      "latitude": 49.363,
+      "longitude": 16.6445,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Žabovřesky",
+      "province": "南摩拉维亚州",
+      "latitude": 49.2139,
+      "longitude": 16.5725,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "伊尔科夫",
+      "name_en": "Jirkov",
+      "province": "Ústecký kraj",
+      "latitude": 50.4998,
+      "longitude": 13.4477,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Mělník",
+      "province": "中波希米亚州",
+      "latitude": 50.3505,
+      "longitude": 14.4741,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Hostivař",
+      "province": "Prague",
+      "latitude": 50.0486,
+      "longitude": 14.5244,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "扎泰茨",
+      "name_en": "Žatec",
+      "province": "Ústecký kraj",
+      "latitude": 50.3272,
+      "longitude": 13.5458,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Židenice",
+      "province": "南摩拉维亚州",
+      "latitude": 49.1965,
+      "longitude": 16.6474,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Kadaň",
+      "province": "Ústecký kraj",
+      "latitude": 50.3833,
+      "longitude": 13.2667,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "洛乌尼",
+      "name_en": "Louny",
+      "province": "Ústecký kraj",
+      "latitude": 50.357,
+      "longitude": 13.7967,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "赫拉尼采",
+      "name_en": "Hranice",
+      "province": "Olomoucký",
+      "latitude": 49.548,
+      "longitude": 17.7347,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Braník",
+      "province": "Prague",
+      "latitude": 50.035,
+      "longitude": 14.4152,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Vysočany",
+      "province": "Prague",
+      "latitude": 50.1094,
+      "longitude": 14.5167,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "奥特罗科维采",
+      "name_en": "Otrokovice",
+      "province": "Zlín",
+      "latitude": 49.2093,
+      "longitude": 17.5394,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Kralupy nad Vltavou",
+      "province": "中波希米亚州",
+      "latitude": 50.2411,
+      "longitude": 14.3115,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Rožnov pod Radhoštěm",
+      "province": "Zlín",
+      "latitude": 49.4585,
+      "longitude": 18.143,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "日恰尼",
+      "name_en": "Říčany",
+      "province": "中波希米亚州",
+      "latitude": 49.9917,
+      "longitude": 14.6543,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "贝内绍夫",
+      "name_en": "Benešov",
+      "province": "中波希米亚州",
+      "latitude": 49.7816,
+      "longitude": 14.687,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Prosek",
+      "province": "Prague",
+      "latitude": 50.1153,
+      "longitude": 14.5069,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "捷克特热博瓦",
+      "name_en": "Česká Třebová",
+      "province": "Pardubický",
+      "latitude": 49.9044,
+      "longitude": 16.4441,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Pelhřimov",
+      "province": "Vysočina",
+      "latitude": 49.4313,
+      "longitude": 15.2234,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Bohnice",
+      "province": "Prague",
+      "latitude": 50.1333,
+      "longitude": 14.4167,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "内拉托维采",
+      "name_en": "Neratovice",
+      "province": "中波希米亚州",
+      "latitude": 50.2593,
+      "longitude": 14.5176,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "乌赫尔布罗德",
+      "name_en": "Uherský Brod",
+      "province": "Zlín",
+      "latitude": 49.0251,
+      "longitude": 17.6471,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "伊钦",
+      "name_en": "Jičín",
+      "province": "Královéhradecký kraj",
+      "latitude": 50.4372,
+      "longitude": 15.3516,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "拉贝河畔皇宫镇",
+      "name_en": "Dvůr Králové nad Labem",
+      "province": "Královéhradecký kraj",
+      "latitude": 50.4317,
+      "longitude": 15.814,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Košíře",
+      "province": "Prague",
+      "latitude": 50.0671,
+      "longitude": 14.3633,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "斯维塔维",
+      "name_en": "Svitavy",
+      "province": "Pardubický",
+      "latitude": 49.7559,
+      "longitude": 16.4683,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Střížkov",
+      "province": "Prague",
+      "latitude": 50.1267,
+      "longitude": 14.4936,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Rakovník",
+      "province": "中波希米亚州",
+      "latitude": 50.1037,
+      "longitude": 13.7334,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "奥斯特罗夫",
+      "name_en": "Ostrov",
+      "province": "Karlovarský kraj",
+      "latitude": 50.3059,
+      "longitude": 12.9391,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Horní Měcholupy",
+      "province": "Prague",
+      "latitude": 50.05,
+      "longitude": 14.5667,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "波杰布拉迪",
+      "name_en": "Poděbrady",
+      "province": "中波希米亚州",
+      "latitude": 50.1424,
+      "longitude": 15.1188,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "奥尔利采河畔乌斯季",
+      "name_en": "Ústí nad Orlicí",
+      "province": "Pardubický",
+      "latitude": 49.9739,
+      "longitude": 16.3936,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Slaný",
+      "province": "中波希米亚州",
+      "latitude": 50.2305,
+      "longitude": 14.0869,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Bruntál",
+      "province": "Moravskoslezský",
+      "latitude": 49.9884,
+      "longitude": 17.4647,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "瓦恩斯多夫",
+      "name_en": "Varnsdorf",
+      "province": "Ústecký kraj",
+      "latitude": 50.9115,
+      "longitude": 14.6182,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "图尔诺夫",
+      "name_en": "Turnov",
+      "province": "Liberecký kraj",
+      "latitude": 50.5836,
+      "longitude": 15.1519,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "比利纳",
+      "name_en": "Bílina",
+      "province": "Ústecký kraj",
+      "latitude": 50.5485,
+      "longitude": 13.7753,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "宁布尔克",
+      "name_en": "Nymburk",
+      "province": "中波希米亚州",
+      "latitude": 50.1861,
+      "longitude": 15.0417,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Troja",
+      "province": "Prague",
+      "latitude": 50.1166,
+      "longitude": 14.4246,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Horní Počernice",
+      "province": "Prague",
+      "latitude": 50.1121,
+      "longitude": 14.6104,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Milovice",
+      "province": "中波希米亚州",
+      "latitude": 50.226,
+      "longitude": 14.8886,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "赫卢钦",
+      "name_en": "Hlučín",
+      "province": "Moravskoslezský",
+      "latitude": 49.898,
+      "longitude": 18.192,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "捷克克鲁姆洛夫",
+      "name_en": "Český Krumlov",
+      "province": "南波希米亚州",
+      "latitude": 48.8109,
+      "longitude": 14.3152,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Hloubětín",
+      "province": "Prague",
+      "latitude": 50.1062,
+      "longitude": 14.5372,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Klášterec nad Ohří",
+      "province": "Ústecký kraj",
+      "latitude": 50.3886,
+      "longitude": 13.1834,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "玛丽亚温泉市",
+      "name_en": "Mariánské Lázně",
+      "province": "Karlovarský kraj",
+      "latitude": 49.9646,
+      "longitude": 12.7012,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "罗基察尼",
+      "name_en": "Rokycany",
+      "province": "Plzeň Region",
+      "latitude": 49.7427,
+      "longitude": 13.5946,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "克鲁普卡",
+      "name_en": "Krupka",
+      "province": "Ústecký kraj",
+      "latitude": 50.6845,
+      "longitude": 13.8582,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Podolí",
+      "province": "Prague",
+      "latitude": 50.055,
+      "longitude": 14.4203,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Řečkovice",
+      "province": "南摩拉维亚州",
+      "latitude": 49.2521,
+      "longitude": 16.5815,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "扎布热赫",
+      "name_en": "Zábřeh",
+      "province": "Olomoucký",
+      "latitude": 49.8826,
+      "longitude": 16.8722,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "施滕贝克",
+      "name_en": "Šternberk",
+      "province": "Olomoucký",
+      "latitude": 49.7304,
+      "longitude": 17.2989,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "拉贝河畔罗乌德尼采",
+      "name_en": "Roudnice nad Labem",
+      "province": "Ústecký kraj",
+      "latitude": 50.4253,
+      "longitude": 14.2617,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "弗尔赫拉比",
+      "name_en": "Vrchlabí",
+      "province": "Královéhradecký kraj",
+      "latitude": 50.627,
+      "longitude": 15.6094,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "亚罗梅日",
+      "name_en": "Jaroměř",
+      "province": "Královéhradecký kraj",
+      "latitude": 50.3562,
+      "longitude": 15.9214,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "阿什",
+      "name_en": "Aš",
+      "province": "Karlovarský kraj",
+      "latitude": 50.2239,
+      "longitude": 12.195,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "塔霍夫",
+      "name_en": "Tachov",
+      "province": "Plzeň Region",
+      "latitude": 49.7953,
+      "longitude": 12.6336,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "霍多夫",
+      "name_en": "Chodov",
+      "province": "Karlovarský kraj",
+      "latitude": 50.0367,
+      "longitude": 14.5044,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "博斯科维采",
+      "name_en": "Boskovice",
+      "province": "南摩拉维亚州",
+      "latitude": 49.4875,
+      "longitude": 16.66,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Čelákovice",
+      "province": "中波希米亚州",
+      "latitude": 50.1604,
+      "longitude": 14.75,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "上米托",
+      "name_en": "Vysoké Mýto",
+      "province": "Pardubický",
+      "latitude": 49.9532,
+      "longitude": 16.1617,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Karlín",
+      "province": "Prague",
+      "latitude": 50.0927,
+      "longitude": 14.4471,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "弗拉希姆",
+      "name_en": "Vlašim",
+      "province": "中波希米亚州",
+      "latitude": 49.7063,
+      "longitude": 14.8988,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "摩拉瓦河畔韦塞利",
+      "name_en": "Veselí nad Moravou",
+      "province": "南摩拉维亚州",
+      "latitude": 48.9536,
+      "longitude": 17.3765,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Bohunice",
+      "province": "南摩拉维亚州",
+      "latitude": 49.1673,
+      "longitude": 16.5775,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "库日姆",
+      "name_en": "Kuřim",
+      "province": "南摩拉维亚州",
+      "latitude": 49.2985,
+      "longitude": 16.5314,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "大梅济日奇",
+      "name_en": "Velké Meziříčí",
+      "province": "Vysočina",
+      "latitude": 49.3552,
+      "longitude": 16.0122,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Rychnov nad Kněžnou",
+      "province": "Královéhradecký kraj",
+      "latitude": 50.1628,
+      "longitude": 16.2749,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "霍莱绍夫",
+      "name_en": "Holešov",
+      "province": "Zlín",
+      "latitude": 49.3333,
+      "longitude": 17.5783,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Kohoutovice",
+      "province": "南摩拉维亚州",
+      "latitude": 49.1945,
+      "longitude": 16.5415,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Starý Lískovec",
+      "province": "南摩拉维亚州",
+      "latitude": 49.1643,
+      "longitude": 16.5615,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "苏希采",
+      "name_en": "Sušice",
+      "province": "Plzeň Region",
+      "latitude": 49.2311,
+      "longitude": 13.5202,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "新博尔",
+      "name_en": "Nový Bor",
+      "province": "Liberecký kraj",
+      "latitude": 50.7576,
+      "longitude": 14.5556,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Malešice",
+      "province": "Prague",
+      "latitude": 50.0847,
+      "longitude": 14.5094,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "乌尼乔夫",
+      "name_en": "Uničov",
+      "province": "Olomoucký",
+      "latitude": 49.7709,
+      "longitude": 17.1214,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Vinohrady",
+      "province": "南摩拉维亚州",
+      "latitude": 49.2066,
+      "longitude": 16.6632,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "普拉哈季采",
+      "name_en": "Prachatice",
+      "province": "南波希米亚州",
+      "latitude": 49.0129,
+      "longitude": 13.9975,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Vokovice",
+      "province": "Prague",
+      "latitude": 50.0986,
+      "longitude": 14.3449,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Uhříněves",
+      "province": "Prague",
+      "latitude": 50.0288,
+      "longitude": 14.5995,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Domažlice",
+      "province": "Plzeň Region",
+      "latitude": 49.4405,
+      "longitude": 12.9298,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "洪波莱茨",
+      "name_en": "Humpolec",
+      "province": "Vysočina",
+      "latitude": 49.5415,
+      "longitude": 15.3593,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "伦布尔克",
+      "name_en": "Rumburk",
+      "province": "Ústecký kraj",
+      "latitude": 50.9515,
+      "longitude": 14.557,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "基约夫",
+      "name_en": "Kyjov",
+      "province": "南摩拉维亚州",
+      "latitude": 49.0102,
+      "longitude": 17.1225,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Frenštát pod Radhoštěm",
+      "province": "Moravskoslezský",
+      "latitude": 49.5483,
+      "longitude": 18.2108,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Jesenice",
+      "province": "中波希米亚州",
+      "latitude": 49.9681,
+      "longitude": 14.5135,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Jeseník",
+      "province": "Olomoucký",
+      "latitude": 50.2294,
+      "longitude": 17.2046,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Újezd nad Lesy",
+      "province": "Prague",
+      "latitude": 50.0765,
+      "longitude": 14.6595,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "赫林斯科",
+      "name_en": "Hlinsko",
+      "province": "Pardubický",
+      "latitude": 49.7621,
+      "longitude": 15.9076,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Studénka",
+      "province": "Moravskoslezský",
+      "latitude": 49.7234,
+      "longitude": 18.0785,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "利托米什尔",
+      "name_en": "Litomyšl",
+      "province": "Pardubický",
+      "latitude": 49.8681,
+      "longitude": 16.313,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "梅图耶河畔新城",
+      "name_en": "Nové Město nad Metují",
+      "province": "Královéhradecký kraj",
+      "latitude": 50.3446,
+      "longitude": 16.1515,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Nové Město na Moravě",
+      "province": "Vysočina",
+      "latitude": 49.5614,
+      "longitude": 16.0742,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Kunratice",
+      "province": "Prague",
+      "latitude": 50.0136,
+      "longitude": 14.4834,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "利托韦尔",
+      "name_en": "Litovel",
+      "province": "Olomoucký",
+      "latitude": 49.7012,
+      "longitude": 17.0761,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Kyje",
+      "province": "Prague",
+      "latitude": 50.0973,
+      "longitude": 14.5477,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "恰斯拉夫",
+      "name_en": "Čáslav",
+      "province": "中波希米亚州",
+      "latitude": 49.911,
+      "longitude": 15.3897,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "伊万契采",
+      "name_en": "Ivančice",
+      "province": "南摩拉维亚州",
+      "latitude": 49.1014,
+      "longitude": 16.3775,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "霍捷博日",
+      "name_en": "Chotěboř",
+      "province": "Vysočina",
+      "latitude": 49.7207,
+      "longitude": 15.6702,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "兰什克龙",
+      "name_en": "Lanškroun",
+      "province": "Pardubický",
+      "latitude": 49.9122,
+      "longitude": 16.6119,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "奥斯特拉维采河畔弗里德兰特",
+      "name_en": "Frýdlant nad Ostravicí",
+      "province": "Moravskoslezský",
+      "latitude": 49.5928,
+      "longitude": 18.3597,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Zbraslav",
+      "province": "Prague",
+      "latitude": 49.976,
+      "longitude": 14.3933,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "莫海尔尼采",
+      "name_en": "Mohelnice",
+      "province": "Olomoucký",
+      "latitude": 49.777,
+      "longitude": 16.9195,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Nový Lískovec",
+      "province": "南摩拉维亚州",
+      "latitude": 49.1832,
+      "longitude": 16.5612,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "摩拉瓦特热博瓦",
+      "name_en": "Moravská Třebová",
+      "province": "Pardubický",
+      "latitude": 49.7579,
+      "longitude": 16.6643,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "米莱夫斯科",
+      "name_en": "Milevsko",
+      "province": "南波希米亚州",
+      "latitude": 49.4509,
+      "longitude": 14.36,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "季什诺夫",
+      "name_en": "Tišnov",
+      "province": "南摩拉维亚州",
+      "latitude": 49.3487,
+      "longitude": 16.4244,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "新帕卡",
+      "name_en": "Nová Paka",
+      "province": "Královéhradecký kraj",
+      "latitude": 50.4945,
+      "longitude": 15.515,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "洛沃西采",
+      "name_en": "Lovosice",
+      "province": "Ústecký kraj",
+      "latitude": 50.515,
+      "longitude": 14.051,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Štětí",
+      "province": "Ústecký kraj",
+      "latitude": 50.453,
+      "longitude": 14.3742,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "罗兹托基",
+      "name_en": "Roztoky",
+      "province": "中波希米亚州",
+      "latitude": 50.1584,
+      "longitude": 14.3976,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "里马若夫",
+      "name_en": "Rýmařov",
+      "province": "Moravskoslezský",
+      "latitude": 49.9318,
+      "longitude": 17.2718,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Slatina",
+      "province": "南摩拉维亚州",
+      "latitude": 49.176,
+      "longitude": 16.6878,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "波利奇卡",
+      "name_en": "Polička",
+      "province": "Pardubický",
+      "latitude": 49.7146,
+      "longitude": 16.2654,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "霍采尼",
+      "name_en": "Choceň",
+      "province": "Pardubický",
+      "latitude": 50.0016,
+      "longitude": 16.223,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Bystřice nad Pernštejnem",
+      "province": "Vysočina",
+      "latitude": 49.523,
+      "longitude": 16.2615,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "霍日采",
+      "name_en": "Hořice",
+      "province": "Královéhradecký kraj",
+      "latitude": 50.3661,
+      "longitude": 15.6318,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "特热邦",
+      "name_en": "Třeboň",
+      "province": "南波希米亚州",
+      "latitude": 49.0036,
+      "longitude": 14.7706,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "多布日什",
+      "name_en": "Dobříš",
+      "province": "中波希米亚州",
+      "latitude": 49.7811,
+      "longitude": 14.1672,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Čakovice",
+      "province": "Prague",
+      "latitude": 50.1513,
+      "longitude": 14.5239,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "普日博尔",
+      "name_en": "Příbor",
+      "province": "Moravskoslezský",
+      "latitude": 49.6409,
+      "longitude": 18.145,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Hostivice",
+      "province": "中波希米亚州",
+      "latitude": 50.0816,
+      "longitude": 14.2586,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "杜赫佐夫",
+      "name_en": "Duchcov",
+      "province": "Ústecký kraj",
+      "latitude": 50.6038,
+      "longitude": 13.7462,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Přelouč",
+      "province": "Pardubický",
+      "latitude": 50.0399,
+      "longitude": 15.5603,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "内代克",
+      "name_en": "Nejdek",
+      "province": "Karlovarský kraj",
+      "latitude": 50.3224,
+      "longitude": 12.7294,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Radotín",
+      "province": "Prague",
+      "latitude": 49.9898,
+      "longitude": 14.3657,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "切尔韦尼科斯泰莱茨",
+      "name_en": "Červený Kostelec",
+      "province": "Královéhradecký kraj",
+      "latitude": 50.4763,
+      "longitude": 16.0929,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "慕尼黑城堡",
+      "name_en": "Mnichovo Hradiště",
+      "province": "中波希米亚州",
+      "latitude": 50.5272,
+      "longitude": 14.9713,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "伏尔塔瓦河畔蒂恩",
+      "name_en": "Týn nad Vltavou",
+      "province": "南波希米亚州",
+      "latitude": 49.2234,
+      "longitude": 14.4206,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "布劳莫夫",
+      "name_en": "Broumov",
+      "province": "Královéhradecký kraj",
+      "latitude": 50.5857,
+      "longitude": 16.3318,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "拉贝河畔利萨",
+      "name_en": "Lysá nad Labem",
+      "province": "中波希米亚州",
+      "latitude": 50.2014,
+      "longitude": 14.8328,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Ruzyně",
+      "province": "Prague",
+      "latitude": 50.0903,
+      "longitude": 14.3129,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "温佩尔克",
+      "name_en": "Vimperk",
+      "province": "南波希米亚州",
+      "latitude": 49.0586,
+      "longitude": 13.7829,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Semily",
+      "province": "Liberecký kraj",
+      "latitude": 50.6019,
+      "longitude": 15.3355,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Bystřice pod Hostýnem",
+      "province": "Zlín",
+      "latitude": 49.3992,
+      "longitude": 17.674,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "尼斯河畔赫拉德克",
+      "name_en": "Hrádek nad Nisou",
+      "province": "Liberecký kraj",
+      "latitude": 50.8528,
+      "longitude": 14.8445,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "贝奇瓦河畔利普尼克",
+      "name_en": "Lipník nad Bečvou",
+      "province": "Olomoucký",
+      "latitude": 49.5272,
+      "longitude": 17.5859,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "伊泽拉河畔贝纳特基",
+      "name_en": "Benátky nad Jizerou",
+      "province": "中波希米亚州",
+      "latitude": 50.2908,
+      "longitude": 14.8234,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "塞德尔恰尼",
+      "name_en": "Sedlčany",
+      "province": "中波希米亚州",
+      "latitude": 49.6606,
+      "longitude": 14.4266,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Černošice",
+      "province": "中波希米亚州",
+      "latitude": 49.9601,
+      "longitude": 14.3198,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "斯特日布罗",
+      "name_en": "Stříbro",
+      "province": "Plzeň Region",
+      "latitude": 49.7557,
+      "longitude": 12.997,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Brno-jih",
+      "province": "南摩拉维亚州",
+      "latitude": 49.1745,
+      "longitude": 16.6228,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "杜比",
+      "name_en": "Dubí",
+      "province": "Ústecký kraj",
+      "latitude": 50.6856,
+      "longitude": 13.7856,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Zlíčín",
+      "province": "Prague",
+      "latitude": 50.0618,
+      "longitude": 14.2896,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "米库洛夫",
+      "name_en": "Mikulov",
+      "province": "南摩拉维亚州",
+      "latitude": 48.8056,
+      "longitude": 16.6378,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Jinonice",
+      "province": "Prague",
+      "latitude": 50.0504,
+      "longitude": 14.3783,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "卡普利采",
+      "name_en": "Kaplice",
+      "province": "南波希米亚州",
+      "latitude": 48.7388,
+      "longitude": 14.4945,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Úvaly",
+      "province": "中波希米亚州",
+      "latitude": 50.0739,
+      "longitude": 14.7308,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "捷克布罗德",
+      "name_en": "Český Brod",
+      "province": "中波希米亚州",
+      "latitude": 50.0742,
+      "longitude": 14.8608,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Sezimovo Ústí",
+      "province": "南波希米亚州",
+      "latitude": 49.3852,
+      "longitude": 14.6848,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "比洛韦茨",
+      "name_en": "Bílovec",
+      "province": "Moravskoslezský",
+      "latitude": 49.7564,
+      "longitude": 18.0158,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Odry",
+      "province": "Moravskoslezský",
+      "latitude": 49.6626,
+      "longitude": 17.8308,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "沃德尼亚尼",
+      "name_en": "Vodňany",
+      "province": "南波希米亚州",
+      "latitude": 49.1479,
+      "longitude": 14.1751,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "弗里德兰特",
+      "name_en": "Frýdlant",
+      "province": "Liberecký kraj",
+      "latitude": 50.9214,
+      "longitude": 15.0797,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "索别斯拉夫",
+      "name_en": "Soběslav",
+      "province": "南波希米亚州",
+      "latitude": 49.2599,
+      "longitude": 14.7186,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "布尔诺附近斯拉夫科夫",
+      "name_en": "Slavkov u Brna",
+      "province": "南摩拉维亚州",
+      "latitude": 49.1532,
+      "longitude": 16.8765,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Komín",
+      "province": "南摩拉维亚州",
+      "latitude": 49.2197,
+      "longitude": 16.5524,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Kbely",
+      "province": "Prague",
+      "latitude": 50.1333,
+      "longitude": 14.55,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "新比焦夫",
+      "name_en": "Nový Bydžov",
+      "province": "Královéhradecký kraj",
+      "latitude": 50.2415,
+      "longitude": 15.4908,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "克拉斯利采",
+      "name_en": "Kraslice",
+      "province": "Karlovarský kraj",
+      "latitude": 50.3237,
+      "longitude": 12.5175,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "达奇采",
+      "name_en": "Dačice",
+      "province": "南波希米亚州",
+      "latitude": 49.0815,
+      "longitude": 15.4373,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "莱托维采",
+      "name_en": "Letovice",
+      "province": "南摩拉维亚州",
+      "latitude": 49.5471,
+      "longitude": 16.5736,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "什拉帕尼采",
+      "name_en": "Šlapanice",
+      "province": "南摩拉维亚州",
+      "latitude": 49.1686,
+      "longitude": 16.7273,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "摩拉瓦布杰约维采",
+      "name_en": "Moravské Budějovice",
+      "province": "Vysočina",
+      "latitude": 49.0521,
+      "longitude": 15.8086,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Dobruška",
+      "province": "Královéhradecký kraj",
+      "latitude": 50.292,
+      "longitude": 16.16,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "斯拉维钦",
+      "name_en": "Slavičín",
+      "province": "Zlín",
+      "latitude": 49.088,
+      "longitude": 17.8735,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "纳帕耶德拉",
+      "name_en": "Napajedla",
+      "province": "Zlín",
+      "latitude": 49.1716,
+      "longitude": 17.5119,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Nýřany",
+      "province": "Plzeň Region",
+      "latitude": 49.7114,
+      "longitude": 13.2119,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "坦瓦尔德",
+      "name_en": "Tanvald",
+      "province": "Liberecký kraj",
+      "latitude": 50.7373,
+      "longitude": 15.3058,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "布乔维采",
+      "name_en": "Bučovice",
+      "province": "南摩拉维亚州",
+      "latitude": 49.149,
+      "longitude": 17.0019,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Petřvald",
+      "province": "Moravskoslezský",
+      "latitude": 49.831,
+      "longitude": 18.3894,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Kravaře",
+      "province": "Moravskoslezský",
+      "latitude": 49.932,
+      "longitude": 18.0047,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "罗西采",
+      "name_en": "Rosice",
+      "province": "南摩拉维亚州",
+      "latitude": 49.1823,
+      "longitude": 16.3879,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Rychvald",
+      "province": "Moravskoslezský",
+      "latitude": 49.8663,
+      "longitude": 18.3763,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "斯塔雷梅斯托",
+      "name_en": "Staré Město",
+      "province": "Zlín",
+      "latitude": 49.0752,
+      "longitude": 17.4334,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "米蒙",
+      "name_en": "Mimoň",
+      "province": "Liberecký kraj",
+      "latitude": 50.6587,
+      "longitude": 14.7247,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Černovice",
+      "province": "南摩拉维亚州",
+      "latitude": 49.1823,
+      "longitude": 16.6372,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "布拉特纳",
+      "name_en": "Blatná",
+      "province": "南波希米亚州",
+      "latitude": 49.4249,
+      "longitude": 13.8818,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Dubňany",
+      "province": "南摩拉维亚州",
+      "latitude": 48.9169,
+      "longitude": 17.09,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Veleslavín",
+      "province": "Prague",
+      "latitude": 50.0915,
+      "longitude": 14.3578,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Střešovice",
+      "province": "Prague",
+      "latitude": 50.0953,
+      "longitude": 14.3827,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Čimice",
+      "province": "Prague",
+      "latitude": 50.1376,
+      "longitude": 14.4328,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "卢日尼采河畔韦塞利",
+      "name_en": "Veselí nad Lužnicí",
+      "province": "南波希米亚州",
+      "latitude": 49.1843,
+      "longitude": 14.6973,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Hronov",
+      "province": "Královéhradecký kraj",
+      "latitude": 50.4797,
+      "longitude": 16.1823,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Železný Brod",
+      "province": "Liberecký kraj",
+      "latitude": 50.6427,
+      "longitude": 15.2541,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "霍若维采",
+      "name_en": "Hořovice",
+      "province": "中波希米亚州",
+      "latitude": 49.836,
+      "longitude": 13.9027,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "胡林",
+      "name_en": "Hulín",
+      "province": "Zlín",
+      "latitude": 49.3169,
+      "longitude": 17.4637,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "科耶廷",
+      "name_en": "Kojetín",
+      "province": "Olomoucký",
+      "latitude": 49.3518,
+      "longitude": 17.3021,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "萨扎瓦河畔斯韦特拉",
+      "name_en": "Světlá nad Sázavou",
+      "province": "Vysočina",
+      "latitude": 49.668,
+      "longitude": 15.4039,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Vratimov",
+      "province": "Moravskoslezský",
+      "latitude": 49.77,
+      "longitude": 18.3102,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "普热什季采",
+      "name_en": "Přeštice",
+      "province": "Plzeň Region",
+      "latitude": 49.573,
+      "longitude": 13.3335,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "布拉格小城",
+      "name_en": "Malá Strana",
+      "province": "Prague",
+      "latitude": 50.0877,
+      "longitude": 14.4045,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Týniště nad Orlicí",
+      "province": "Královéhradecký kraj",
+      "latitude": 50.1514,
+      "longitude": 16.0777,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "布拉格老城",
+      "name_en": "Staré Město",
+      "province": "Prague",
+      "latitude": 49.0752,
+      "longitude": 17.4334,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Suchdol",
+      "province": "Prague",
+      "latitude": 50.1414,
+      "longitude": 14.3837,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "波德博扎尼",
+      "name_en": "Podbořany",
+      "province": "Ústecký kraj",
+      "latitude": 50.2294,
+      "longitude": 13.4119,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Holice",
+      "province": "Pardubický",
+      "latitude": 50.066,
+      "longitude": 15.9859,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Vítkov",
+      "province": "Moravskoslezský",
+      "latitude": 49.7745,
+      "longitude": 17.7494,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Letohrad",
+      "province": "Pardubický",
+      "latitude": 50.0358,
+      "longitude": 16.4988,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "奥尔利采河畔科斯泰莱茨",
+      "name_en": "Kostelec nad Orlicí",
+      "province": "Královéhradecký kraj",
+      "latitude": 50.1227,
+      "longitude": 16.2132,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "波霍热利采",
+      "name_en": "Pohořelice",
+      "province": "南摩拉维亚州",
+      "latitude": 48.9812,
+      "longitude": 16.5245,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "然贝尔克",
+      "name_en": "Žamberk",
+      "province": "Pardubický",
+      "latitude": 50.086,
+      "longitude": 16.4674,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Vrbno pod Pradědem",
+      "province": "Moravskoslezský",
+      "latitude": 50.121,
+      "longitude": 17.3832,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "赫拉斯塔瓦",
+      "name_en": "Chrastava",
+      "province": "Liberecký kraj",
+      "latitude": 50.8169,
+      "longitude": 14.9688,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "萨扎瓦河畔莱代奇",
+      "name_en": "Ledeč nad Sázavou",
+      "province": "Vysočina",
+      "latitude": 49.6952,
+      "longitude": 15.2777,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Třešť",
+      "province": "Vysočina",
+      "latitude": 49.2909,
+      "longitude": 15.4821,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "罗乌西诺夫",
+      "name_en": "Rousínov",
+      "province": "南摩拉维亚州",
+      "latitude": 49.2013,
+      "longitude": 16.8821,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "乌皮采",
+      "name_en": "Úpice",
+      "province": "Královéhradecký kraj",
+      "latitude": 50.5124,
+      "longitude": 16.0161,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Lomnice nad Popelkou",
+      "province": "Liberecký kraj",
+      "latitude": 50.5306,
+      "longitude": 15.3734,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "胡斯托佩切",
+      "name_en": "Hustopeče",
+      "province": "南摩拉维亚州",
+      "latitude": 48.9408,
+      "longitude": 16.7376,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "斯特拉日尼采",
+      "name_en": "Strážnice",
+      "province": "南摩拉维亚州",
+      "latitude": 48.901,
+      "longitude": 17.3168,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "泰尔奇",
+      "name_en": "Telč",
+      "province": "Vysočina",
+      "latitude": 49.1842,
+      "longitude": 15.4527,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "上斯拉夫科夫",
+      "name_en": "Horní Slavkov",
+      "province": "Karlovarský kraj",
+      "latitude": 50.1386,
+      "longitude": 12.8076,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "王宫村",
+      "name_en": "Králův Dvůr",
+      "province": "中波希米亚州",
+      "latitude": 49.9498,
+      "longitude": 14.0344,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "亚布伦科夫",
+      "name_en": "Jablunkov",
+      "province": "Moravskoslezský",
+      "latitude": 49.5767,
+      "longitude": 18.7646,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "多布扎尼",
+      "name_en": "Dobřany",
+      "province": "Plzeň Region",
+      "latitude": 49.6548,
+      "longitude": 13.2931,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "伊莱姆尼采",
+      "name_en": "Jilemnice",
+      "province": "Liberecký kraj",
+      "latitude": 50.6089,
+      "longitude": 15.5065,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "莫德日采",
+      "name_en": "Modřice",
+      "province": "南摩拉维亚州",
+      "latitude": 49.1193,
+      "longitude": 16.6045,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Petrovice",
+      "province": "Prague",
+      "latitude": 50.034,
+      "longitude": 14.5468,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "霍拉日焦维采",
+      "name_en": "Horažďovice",
+      "province": "Plzeň Region",
+      "latitude": 49.3207,
+      "longitude": 13.701,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "什卢克诺夫",
+      "name_en": "Šluknov",
+      "province": "Ústecký kraj",
+      "latitude": 51.0037,
+      "longitude": 14.4526,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "新斯特拉谢齐",
+      "name_en": "Nové Strašecí",
+      "province": "中波希米亚州",
+      "latitude": 50.1527,
+      "longitude": 13.9004,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Moravský Krumlov",
+      "province": "南摩拉维亚州",
+      "latitude": 49.0489,
+      "longitude": 16.3117,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Žebětín",
+      "province": "南摩拉维亚州",
+      "latitude": 49.2071,
+      "longitude": 16.4879,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Třebechovice pod Orebem",
+      "province": "Královéhradecký kraj",
+      "latitude": 50.201,
+      "longitude": 15.9922,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Františkovy Lázně",
+      "province": "Karlovarský kraj",
+      "latitude": 50.1203,
+      "longitude": 12.3517,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Maloměřice",
+      "province": "南摩拉维亚州",
+      "latitude": 49.2222,
+      "longitude": 16.6582,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "卢哈乔维采",
+      "name_en": "Luhačovice",
+      "province": "Zlín",
+      "latitude": 49.0998,
+      "longitude": 17.7575,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Libuš",
+      "province": "Prague",
+      "latitude": 50.0096,
+      "longitude": 14.462,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Stochov",
+      "province": "中波希米亚州",
+      "latitude": 50.1463,
+      "longitude": 13.9634,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "大比泰什",
+      "name_en": "Velká Bíteš",
+      "province": "Vysočina",
+      "latitude": 49.2884,
+      "longitude": 16.2274,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "捷克卡梅尼采",
+      "name_en": "Česká Kamenice",
+      "province": "Ústecký kraj",
+      "latitude": 50.7978,
+      "longitude": 14.4177,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "富尔内克",
+      "name_en": "Fulnek",
+      "province": "Moravskoslezský",
+      "latitude": 49.7124,
+      "longitude": 17.9032,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Šenov",
+      "province": "Moravskoslezský",
+      "latitude": 49.7931,
+      "longitude": 18.3761,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "库诺维采",
+      "name_en": "Kunovice",
+      "province": "Zlín",
+      "latitude": 49.045,
+      "longitude": 17.4701,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "普拉纳",
+      "name_en": "Planá",
+      "province": "Plzeň Region",
+      "latitude": 49.8682,
+      "longitude": 12.7438,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "斯库泰奇",
+      "name_en": "Skuteč",
+      "province": "Pardubický",
+      "latitude": 49.8435,
+      "longitude": 15.9965,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Zubří",
+      "province": "Zlín",
+      "latitude": 49.466,
+      "longitude": 18.0925,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "捷克斯卡利采",
+      "name_en": "Česká Skalice",
+      "province": "Královéhradecký kraj",
+      "latitude": 50.3947,
+      "longitude": 16.0428,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Brumov-Bylnice",
+      "province": "Zlín",
+      "latitude": 49.0918,
+      "longitude": 18.0224,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Bakov nad Jizerou",
+      "province": "中波希米亚州",
+      "latitude": 50.4823,
+      "longitude": 14.9415,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Habartov",
+      "province": "Karlovarský kraj",
+      "latitude": 50.183,
+      "longitude": 12.5505,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Jílové",
+      "province": "Ústecký kraj",
+      "latitude": 50.7608,
+      "longitude": 14.1038,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "齐德利纳河畔赫卢梅茨",
+      "name_en": "Chlumec nad Cidlinou",
+      "province": "Královéhradecký kraj",
+      "latitude": 50.1544,
+      "longitude": 15.4603,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Hradec nad Moravicí",
+      "province": "Moravskoslezský",
+      "latitude": 49.8704,
+      "longitude": 17.8784,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "瓦拉什斯凯克洛博乌基",
+      "name_en": "Valašské Klobouky",
+      "province": "Zlín",
+      "latitude": 49.1406,
+      "longitude": 18.0076,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Medlánky",
+      "province": "南摩拉维亚州",
+      "latitude": 49.24,
+      "longitude": 16.5708,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "赫罗皮涅",
+      "name_en": "Chropyně",
+      "province": "Zlín",
+      "latitude": 49.3564,
+      "longitude": 17.3645,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Týnec nad Sázavou",
+      "province": "中波希米亚州",
+      "latitude": 49.8335,
+      "longitude": 14.5898,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "帕佐夫",
+      "name_en": "Pacov",
+      "province": "Vysočina",
+      "latitude": 49.4708,
+      "longitude": 15.0017,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Tuřany",
+      "province": "南摩拉维亚州",
+      "latitude": 49.1476,
+      "longitude": 16.668,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Bystřice",
+      "province": "Moravskoslezský",
+      "latitude": 49.6366,
+      "longitude": 18.7204,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "尼尔斯科",
+      "name_en": "Nýrsko",
+      "province": "Plzeň Region",
+      "latitude": 49.2939,
+      "longitude": 13.1435,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "",
+      "name_en": "Dolní Chabry",
+      "province": "Prague",
+      "latitude": 50.1463,
+      "longitude": 14.4485,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "多克西",
+      "name_en": "Doksy",
+      "province": "Liberecký kraj",
+      "latitude": 50.5647,
+      "longitude": 14.6555,
+      "timezone": "Europe/Prague"
+    },
+    {
+      "name": "波尔纳",
+      "name_en": "Polná",
+      "province": "Vysočina",
+      "latitude": 49.487,
+      "longitude": 15.7188,
+      "timezone": "Europe/Prague"
+    }
+  ]
+}

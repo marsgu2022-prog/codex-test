@@ -1,0 +1,1902 @@
+{
+  "country_code": "VE",
+  "country_name": "委内瑞拉",
+  "cities": [
+    {
+      "name": "卡拉卡斯",
+      "name_en": "Caracas",
+      "province": "首都区",
+      "latitude": 10.488,
+      "longitude": -66.8792,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "马拉开波",
+      "name_en": "Maracaibo",
+      "province": "Zulia",
+      "latitude": 10.6423,
+      "longitude": -71.6109,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "巴伦西亚",
+      "name_en": "Valencia",
+      "province": "Carabobo",
+      "latitude": 10.1615,
+      "longitude": -68.0004,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "巴基西梅托",
+      "name_en": "Barquisimeto",
+      "province": "Lara",
+      "latitude": 10.0647,
+      "longitude": -69.357,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "圭亚那城",
+      "name_en": "Ciudad Guayana",
+      "province": "Bolívar",
+      "latitude": 8.3512,
+      "longitude": -62.641,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "巴塞罗那",
+      "name_en": "Barcelona",
+      "province": "Anzoátegui",
+      "latitude": 10.1384,
+      "longitude": -64.6877,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "马图林",
+      "name_en": "Maturín",
+      "province": "Monagas",
+      "latitude": 9.7457,
+      "longitude": -63.1832,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "马拉凯",
+      "name_en": "Maracay",
+      "province": "Aragua",
+      "latitude": 10.2497,
+      "longitude": -67.5948,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "玻利瓦尔城",
+      "name_en": "Ciudad Bolívar",
+      "province": "Bolívar",
+      "latitude": 8.1237,
+      "longitude": -63.5469,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "库马纳",
+      "name_en": "Cumaná",
+      "province": "Sucre",
+      "latitude": 10.4639,
+      "longitude": -64.1786,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "巴里纳斯",
+      "name_en": "Barinas",
+      "province": "Barinas",
+      "latitude": 8.6206,
+      "longitude": -70.231,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "拉克鲁斯港",
+      "name_en": "Puerto La Cruz",
+      "province": "Anzoátegui",
+      "latitude": 10.2138,
+      "longitude": -64.6328,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "佩塔雷",
+      "name_en": "Petare",
+      "province": "Miranda",
+      "latitude": 10.4768,
+      "longitude": -66.8079,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "卡维马斯",
+      "name_en": "Cabimas",
+      "province": "Zulia",
+      "latitude": 10.3991,
+      "longitude": -71.4521,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "图尔梅罗",
+      "name_en": "Turmero",
+      "province": "Aragua",
+      "latitude": 10.2286,
+      "longitude": -67.4742,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "梅里达市",
+      "name_en": "Mérida",
+      "province": "Mérida",
+      "latitude": 8.579,
+      "longitude": -71.1692,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "圣克里斯托瓦尔",
+      "name_en": "San Cristóbal",
+      "province": "Táchira",
+      "latitude": 7.7659,
+      "longitude": -72.2358,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Alto Barinas",
+      "province": "Barinas",
+      "latitude": 8.5931,
+      "longitude": -70.2261,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Teresa del Tuy",
+      "province": "Miranda",
+      "latitude": 10.2329,
+      "longitude": -66.6647,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "洛斯特克斯",
+      "name_en": "Los Teques",
+      "province": "Miranda",
+      "latitude": 10.3495,
+      "longitude": -67.0427,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Guarenas",
+      "province": "Miranda",
+      "latitude": 10.4703,
+      "longitude": -66.6193,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "圣安娜德科罗",
+      "name_en": "Coro",
+      "province": "Falcón",
+      "latitude": 11.4077,
+      "longitude": -69.6782,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "巴莱拉",
+      "name_en": "Valera",
+      "province": "Trujillo",
+      "latitude": 9.3178,
+      "longitude": -70.6036,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Baruta",
+      "province": "Miranda",
+      "latitude": 10.4342,
+      "longitude": -66.8756,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "奥赫达城",
+      "name_en": "Ciudad Ojeda",
+      "province": "Zulia",
+      "latitude": 10.2016,
+      "longitude": -71.3148,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "San Fernando de Apure",
+      "province": "Apure",
+      "latitude": 7.8896,
+      "longitude": -67.4718,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "瓜蒂雷",
+      "name_en": "Guatire",
+      "province": "Miranda",
+      "latitude": 10.474,
+      "longitude": -66.5424,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "埃尔蒂格雷",
+      "name_en": "El Tigre",
+      "province": "Anzoátegui",
+      "latitude": 8.889,
+      "longitude": -64.2527,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "波拉马尔",
+      "name_en": "Porlamar",
+      "province": "Nueva Esparta",
+      "latitude": 10.9577,
+      "longitude": -63.8697,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "圣费利佩",
+      "name_en": "San Felipe",
+      "province": "Yaracuy",
+      "latitude": 10.3401,
+      "longitude": -68.743,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Guacara",
+      "province": "Carabobo",
+      "latitude": 10.2261,
+      "longitude": -67.877,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "阿卡里瓜",
+      "name_en": "Acarigua",
+      "province": "Portuguesa",
+      "latitude": 9.5545,
+      "longitude": -69.1956,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Cúa",
+      "province": "Miranda",
+      "latitude": 10.1624,
+      "longitude": -66.8825,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Araure",
+      "province": "Portuguesa",
+      "latitude": 9.5814,
+      "longitude": -69.2385,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Lander",
+      "province": "Miranda",
+      "latitude": 10.1833,
+      "longitude": -66.7,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "卡贝略港",
+      "name_en": "Puerto Cabello",
+      "province": "Carabobo",
+      "latitude": 10.4731,
+      "longitude": -68.0125,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "卡拉沃索",
+      "name_en": "Calabozo",
+      "province": "Guárico",
+      "latitude": 8.9242,
+      "longitude": -67.4293,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "卡鲁帕诺",
+      "name_en": "Carúpano",
+      "province": "Sucre",
+      "latitude": 10.6652,
+      "longitude": -63.2539,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Ocumare del Tuy",
+      "province": "Miranda",
+      "latitude": 10.1182,
+      "longitude": -66.7751,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "El Vigía",
+      "province": "Mérida",
+      "latitude": 8.6135,
+      "longitude": -71.657,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "San Juan de los Morros",
+      "province": "Guárico",
+      "latitude": 9.9125,
+      "longitude": -67.354,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Valle de La Pascua",
+      "province": "Guárico",
+      "latitude": 9.2155,
+      "longitude": -66.0073,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "埃尔利蒙",
+      "name_en": "El Limón",
+      "province": "Aragua",
+      "latitude": 10.3059,
+      "longitude": -67.6321,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "蓬托菲霍",
+      "name_en": "Punto Fijo",
+      "province": "Falcón",
+      "latitude": 11.6915,
+      "longitude": -70.1992,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Anaco",
+      "province": "Anzoátegui",
+      "latitude": 9.4296,
+      "longitude": -64.4643,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Táriba",
+      "province": "Táchira",
+      "latitude": 7.8212,
+      "longitude": -72.2233,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Machiques",
+      "province": "Zulia",
+      "latitude": 10.0608,
+      "longitude": -72.5521,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Charallave",
+      "province": "Miranda",
+      "latitude": 10.2425,
+      "longitude": -66.8572,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Palo Negro",
+      "province": "Aragua",
+      "latitude": 10.1739,
+      "longitude": -67.5419,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "拉维多利亚",
+      "name_en": "La Victoria",
+      "province": "Aragua",
+      "latitude": 10.2268,
+      "longitude": -67.3312,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "San Carlos del Zulia",
+      "province": "Zulia",
+      "latitude": 9.001,
+      "longitude": -71.9268,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "阿亚库乔港",
+      "name_en": "Puerto Ayacucho",
+      "province": "Amazonas",
+      "latitude": 5.6605,
+      "longitude": -67.5834,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Carora",
+      "province": "Lara",
+      "latitude": 10.1728,
+      "longitude": -70.081,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Ejido",
+      "province": "Mérida",
+      "latitude": 8.5466,
+      "longitude": -71.2409,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "La Concepción",
+      "province": "Zulia",
+      "latitude": 10.6192,
+      "longitude": -71.8381,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "圣卡洛斯",
+      "name_en": "San Carlos",
+      "province": "Cojedes",
+      "latitude": 9.001,
+      "longitude": -71.9268,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Cagua",
+      "province": "Aragua",
+      "latitude": 10.1863,
+      "longitude": -67.4594,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Mariara",
+      "province": "Carabobo",
+      "latitude": 10.2953,
+      "longitude": -67.7177,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "蒂纳基约",
+      "name_en": "Tinaquillo",
+      "province": "Cojedes",
+      "latitude": 9.9186,
+      "longitude": -68.3047,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Punta Cardón",
+      "province": "Falcón",
+      "latitude": 11.6581,
+      "longitude": -70.215,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Yaritagua",
+      "province": "Yaracuy",
+      "latitude": 10.0808,
+      "longitude": -69.1242,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Upata",
+      "province": "Bolívar",
+      "latitude": 8.0162,
+      "longitude": -62.4056,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "瓜纳雷",
+      "name_en": "Guanare",
+      "province": "Portuguesa",
+      "latitude": 9.0393,
+      "longitude": -69.7336,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Catia La Mar",
+      "province": "Vargas",
+      "latitude": 10.6054,
+      "longitude": -67.0324,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Cabudare",
+      "province": "Lara",
+      "latitude": 10.0266,
+      "longitude": -69.262,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Los Puertos de Altagracia",
+      "province": "Zulia",
+      "latitude": 10.7149,
+      "longitude": -71.5217,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Los Rastrojos",
+      "province": "Lara",
+      "latitude": 10.0259,
+      "longitude": -69.2417,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Tucupita",
+      "province": "阿马库罗三角洲州",
+      "latitude": 9.0626,
+      "longitude": -62.0521,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Villa de Cura",
+      "province": "Aragua",
+      "latitude": 10.0386,
+      "longitude": -67.4894,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Rubio",
+      "province": "Táchira",
+      "latitude": 7.7016,
+      "longitude": -72.3555,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Concepción",
+      "province": "Zulia",
+      "latitude": 10.4119,
+      "longitude": -71.6892,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "San Juan Bautista",
+      "province": "Nueva Esparta",
+      "latitude": 11.0124,
+      "longitude": -63.9441,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "San José de Guanipa",
+      "province": "Anzoátegui",
+      "latitude": 8.8872,
+      "longitude": -64.1651,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "La Villa del Rosario",
+      "province": "Zulia",
+      "latitude": 10.3258,
+      "longitude": -72.3134,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "San Timoteo",
+      "province": "Zulia",
+      "latitude": 9.7901,
+      "longitude": -71.0708,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Güigüe",
+      "province": "Carabobo",
+      "latitude": 10.0834,
+      "longitude": -67.778,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "El Cafetal",
+      "province": "Miranda",
+      "latitude": 10.4654,
+      "longitude": -66.8295,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Biruaca",
+      "province": "Apure",
+      "latitude": 7.8448,
+      "longitude": -67.5168,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "埃尔托库约",
+      "name_en": "El Tocuyo",
+      "province": "Lara",
+      "latitude": 9.7871,
+      "longitude": -69.7929,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "萨拉萨",
+      "name_en": "Zaraza",
+      "province": "Guárico",
+      "latitude": 9.3503,
+      "longitude": -65.3245,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Socopó",
+      "province": "Barinas",
+      "latitude": 8.2306,
+      "longitude": -70.822,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "特鲁希略",
+      "name_en": "Trujillo",
+      "province": "Trujillo",
+      "latitude": 9.3659,
+      "longitude": -70.4366,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Chivacoa",
+      "province": "Yaracuy",
+      "latitude": 10.1595,
+      "longitude": -68.8945,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "San Joaquín",
+      "province": "Carabobo",
+      "latitude": 10.2606,
+      "longitude": -67.7935,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Cruz de Mara",
+      "province": "Zulia",
+      "latitude": 10.7927,
+      "longitude": -71.6851,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Tacarigua",
+      "province": "Carabobo",
+      "latitude": 10.0862,
+      "longitude": -67.9198,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "博科诺",
+      "name_en": "Boconó",
+      "province": "Trujillo",
+      "latitude": 9.2538,
+      "longitude": -70.2511,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Cantaura",
+      "province": "Anzoátegui",
+      "latitude": 9.3057,
+      "longitude": -64.3584,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Altagracia de Orituco",
+      "province": "Guárico",
+      "latitude": 9.86,
+      "longitude": -66.3814,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Morón",
+      "province": "Carabobo",
+      "latitude": 10.4871,
+      "longitude": -68.2008,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Caicara del Orinoco",
+      "province": "Bolívar",
+      "latitude": 7.635,
+      "longitude": -66.1681,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "San Antonio del Táchira",
+      "province": "Táchira",
+      "latitude": 7.8112,
+      "longitude": -72.4444,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Pampatar",
+      "province": "Nueva Esparta",
+      "latitude": 11.0008,
+      "longitude": -63.793,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "查考市",
+      "name_en": "Chacao",
+      "province": "Miranda",
+      "latitude": 10.4958,
+      "longitude": -66.8537,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Guasdualito",
+      "province": "Apure",
+      "latitude": 7.2424,
+      "longitude": -70.7323,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "San Antonio de Los Altos",
+      "province": "Miranda",
+      "latitude": 10.3885,
+      "longitude": -66.9518,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Colón",
+      "province": "Táchira",
+      "latitude": 8.0312,
+      "longitude": -72.2605,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "La Fría",
+      "province": "Táchira",
+      "latitude": 8.2152,
+      "longitude": -72.2489,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Punta de Mata",
+      "province": "Monagas",
+      "latitude": 9.6913,
+      "longitude": -63.6092,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Mene Grande",
+      "province": "Zulia",
+      "latitude": 9.8464,
+      "longitude": -70.9266,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Pampán",
+      "province": "Trujillo",
+      "latitude": 9.4452,
+      "longitude": -70.4756,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Los Dos Caminos",
+      "province": "Miranda",
+      "latitude": 10.4939,
+      "longitude": -66.8286,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "埃尔阿蒂约市",
+      "name_en": "El Hatillo",
+      "province": "Miranda",
+      "latitude": 10.4241,
+      "longitude": -66.8258,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "La Dolorita",
+      "province": "Miranda",
+      "latitude": 10.4883,
+      "longitude": -66.7861,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Ureña",
+      "province": "Táchira",
+      "latitude": 7.9216,
+      "longitude": -72.444,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "San Rafael",
+      "province": "Zulia",
+      "latitude": 10.962,
+      "longitude": -71.7303,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Villa Bruzual",
+      "province": "Portuguesa",
+      "latitude": 9.3319,
+      "longitude": -69.1197,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "San Josecito",
+      "province": "Táchira",
+      "latitude": 7.6611,
+      "longitude": -72.2201,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Nirgua",
+      "province": "Yaracuy",
+      "latitude": 10.1504,
+      "longitude": -68.5648,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Cocorote",
+      "province": "Yaracuy",
+      "latitude": 10.3195,
+      "longitude": -68.783,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Maiquetía",
+      "province": "Vargas",
+      "latitude": 10.5945,
+      "longitude": -66.9562,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Caucagüito",
+      "province": "Miranda",
+      "latitude": 10.4867,
+      "longitude": -66.738,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Ciudad Bolivia",
+      "province": "Barinas",
+      "latitude": 8.353,
+      "longitude": -70.5712,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Ciudad Piar",
+      "province": "Bolívar",
+      "latitude": 7.4521,
+      "longitude": -63.3199,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Barinitas",
+      "province": "Barinas",
+      "latitude": 8.7617,
+      "longitude": -70.412,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Quíbor",
+      "province": "Lara",
+      "latitude": 9.9287,
+      "longitude": -69.6201,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "San Mateo",
+      "province": "Aragua",
+      "latitude": 10.213,
+      "longitude": -67.4236,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "托瓦尔市",
+      "name_en": "Tovar",
+      "province": "Mérida",
+      "latitude": 8.3301,
+      "longitude": -71.7528,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Palmira",
+      "province": "Táchira",
+      "latitude": 7.8375,
+      "longitude": -72.2279,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Lecherías",
+      "province": "Anzoátegui",
+      "latitude": 10.1917,
+      "longitude": -64.6921,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Bárbara",
+      "province": "Barinas",
+      "latitude": 7.8135,
+      "longitude": -71.1779,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Achaguas",
+      "province": "Apure",
+      "latitude": 7.7792,
+      "longitude": -68.2237,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Lagunillas",
+      "province": "Zulia",
+      "latitude": 10.1301,
+      "longitude": -71.2595,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Píritu",
+      "province": "Portuguesa",
+      "latitude": 9.3708,
+      "longitude": -69.2103,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Caripito",
+      "province": "Monagas",
+      "latitude": 10.1113,
+      "longitude": -63.0999,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Las Tejerías",
+      "province": "Aragua",
+      "latitude": 10.2542,
+      "longitude": -67.1733,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Tucupido",
+      "province": "Guárico",
+      "latitude": 9.273,
+      "longitude": -65.7715,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Pueblo Nuevo El Chivo",
+      "province": "Zulia",
+      "latitude": 8.9625,
+      "longitude": -71.6075,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Cariaco",
+      "province": "Sucre",
+      "latitude": 10.4968,
+      "longitude": -63.5529,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Higuerote",
+      "province": "Miranda",
+      "latitude": 10.4829,
+      "longitude": -66.101,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Pariaguán",
+      "province": "Anzoátegui",
+      "latitude": 8.8436,
+      "longitude": -64.7105,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Carrizal",
+      "province": "Miranda",
+      "latitude": 10.3498,
+      "longitude": -66.9863,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Capacho Nuevo",
+      "province": "Táchira",
+      "latitude": 7.8247,
+      "longitude": -72.3084,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Güiria",
+      "province": "Sucre",
+      "latitude": 10.5772,
+      "longitude": -62.2984,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Duaca",
+      "province": "Lara",
+      "latitude": 10.2855,
+      "longitude": -69.1624,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Sabaneta",
+      "province": "Barinas",
+      "latitude": 8.7523,
+      "longitude": -69.9335,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Tinaco",
+      "province": "Cojedes",
+      "latitude": 9.6989,
+      "longitude": -68.4327,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Caraballeda",
+      "province": "Vargas",
+      "latitude": 10.6122,
+      "longitude": -66.8519,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Puerto Píritu",
+      "province": "Anzoátegui",
+      "latitude": 10.059,
+      "longitude": -65.037,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Tumeremo",
+      "province": "Bolívar",
+      "latitude": 7.2986,
+      "longitude": -61.505,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "拉格里塔",
+      "name_en": "La Grita",
+      "province": "Táchira",
+      "latitude": 8.1332,
+      "longitude": -71.9839,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Guanarito",
+      "province": "Portuguesa",
+      "latitude": 8.6962,
+      "longitude": -69.2083,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Temblador",
+      "province": "Monagas",
+      "latitude": 9.0053,
+      "longitude": -62.6449,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Sanare",
+      "province": "Lara",
+      "latitude": 9.7521,
+      "longitude": -69.6524,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Pampanito",
+      "province": "Trujillo",
+      "latitude": 9.4104,
+      "longitude": -70.5012,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Aroa",
+      "province": "Yaracuy",
+      "latitude": 10.4395,
+      "longitude": -68.895,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Ana",
+      "province": "Táchira",
+      "latitude": 7.6429,
+      "longitude": -72.2764,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "La Asunción",
+      "province": "Nueva Esparta",
+      "latitude": 11.0333,
+      "longitude": -63.8628,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Sabana de Mendoza",
+      "province": "Trujillo",
+      "latitude": 9.4349,
+      "longitude": -70.775,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "La Guardia",
+      "province": "Nueva Esparta",
+      "latitude": 10.9974,
+      "longitude": -64.0181,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "La Vela de Coro",
+      "province": "Falcón",
+      "latitude": 11.4608,
+      "longitude": -69.5657,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Bejuma",
+      "province": "Carabobo",
+      "latitude": 10.1738,
+      "longitude": -68.2589,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Tucacas",
+      "province": "Falcón",
+      "latitude": 10.7901,
+      "longitude": -68.3256,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Caja Seca",
+      "province": "Zulia",
+      "latitude": 9.1415,
+      "longitude": -71.0674,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Aragua de Barcelona",
+      "province": "Anzoátegui",
+      "latitude": 9.4559,
+      "longitude": -64.8293,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Ospino",
+      "province": "Portuguesa",
+      "latitude": 9.2957,
+      "longitude": -69.4543,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Miranda",
+      "province": "Carabobo",
+      "latitude": 10.1508,
+      "longitude": -68.3932,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Punta de Piedras",
+      "province": "Nueva Esparta",
+      "latitude": 10.9012,
+      "longitude": -64.0969,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Rita",
+      "province": "Zulia",
+      "latitude": 10.5364,
+      "longitude": -71.511,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Caucagua",
+      "province": "Miranda",
+      "latitude": 10.2831,
+      "longitude": -66.3759,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "El Sombrero",
+      "province": "Guárico",
+      "latitude": 9.3863,
+      "longitude": -67.0582,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Puerto Cumarebo",
+      "province": "Falcón",
+      "latitude": 11.4861,
+      "longitude": -69.3532,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Mamporal",
+      "province": "Miranda",
+      "latitude": 10.3656,
+      "longitude": -66.1339,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Elena de Uairén",
+      "province": "Bolívar",
+      "latitude": 4.6023,
+      "longitude": -61.1103,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Soledad",
+      "province": "Anzoátegui",
+      "latitude": 8.1621,
+      "longitude": -63.5654,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Montalbán",
+      "province": "Carabobo",
+      "latitude": 10.2131,
+      "longitude": -68.3267,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Juan Griego",
+      "province": "Nueva Esparta",
+      "latitude": 11.0817,
+      "longitude": -63.9655,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Lagunillas",
+      "province": "Mérida",
+      "latitude": 10.1301,
+      "longitude": -71.2595,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Dabajuro",
+      "province": "Falcón",
+      "latitude": 11.0227,
+      "longitude": -70.6777,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Guasipati",
+      "province": "Bolívar",
+      "latitude": 7.477,
+      "longitude": -61.8967,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Elorza",
+      "province": "Apure",
+      "latitude": 7.0609,
+      "longitude": -69.4976,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Urachiche",
+      "province": "Yaracuy",
+      "latitude": 10.1585,
+      "longitude": -69.0078,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Encontrados",
+      "province": "Zulia",
+      "latitude": 9.0598,
+      "longitude": -72.2346,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Cumanacoa",
+      "province": "Sucre",
+      "latitude": 10.2506,
+      "longitude": -63.9194,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Motatán",
+      "province": "Trujillo",
+      "latitude": 9.3918,
+      "longitude": -70.5906,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Coloncito",
+      "province": "Táchira",
+      "latitude": 8.3261,
+      "longitude": -72.0874,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "拉瓜伊拉",
+      "name_en": "La Guaira",
+      "province": "Vargas",
+      "latitude": 10.6016,
+      "longitude": -66.9329,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Cruz de los Taques",
+      "province": "Falcón",
+      "latitude": 11.8235,
+      "longitude": -70.2564,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "卡西瓜-埃尔库沃",
+      "name_en": "Casigua El Cubo",
+      "province": "Zulia",
+      "latitude": 8.746,
+      "longitude": -72.5189,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Guama",
+      "province": "Yaracuy",
+      "latitude": 10.2664,
+      "longitude": -68.8199,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Barrancas",
+      "province": "Barinas",
+      "latitude": 8.7696,
+      "longitude": -70.1109,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Sabana de Parra",
+      "province": "Yaracuy",
+      "latitude": 10.1211,
+      "longitude": -69.0364,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Tucaní",
+      "province": "Mérida",
+      "latitude": 8.97,
+      "longitude": -71.2728,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Tía Juana",
+      "province": "Zulia",
+      "latitude": 10.2593,
+      "longitude": -71.3634,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Araya",
+      "province": "Sucre",
+      "latitude": 10.58,
+      "longitude": -64.2555,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Caicara",
+      "province": "Monagas",
+      "latitude": 7.635,
+      "longitude": -66.1681,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Tabay",
+      "province": "Mérida",
+      "latitude": 8.6317,
+      "longitude": -71.0783,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Judibana",
+      "province": "Falcón",
+      "latitude": 11.7591,
+      "longitude": -70.1842,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Río Chico",
+      "province": "Miranda",
+      "latitude": 10.319,
+      "longitude": -65.9775,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "San José de Barlovento",
+      "province": "Miranda",
+      "latitude": 10.3012,
+      "longitude": -65.9905,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Boraure",
+      "province": "Yaracuy",
+      "latitude": 10.2475,
+      "longitude": -68.7697,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Clarines",
+      "province": "Anzoátegui",
+      "latitude": 9.9399,
+      "longitude": -65.1652,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Cruz de Mora",
+      "province": "Mérida",
+      "latitude": 8.3993,
+      "longitude": -71.6408,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Camaguán",
+      "province": "Guárico",
+      "latitude": 8.1073,
+      "longitude": -67.6074,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Casanay",
+      "province": "Sucre",
+      "latitude": 10.5042,
+      "longitude": -63.4173,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Michelena",
+      "province": "Táchira",
+      "latitude": 7.9564,
+      "longitude": -72.2424,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Las Vegas",
+      "province": "Cojedes",
+      "latitude": 9.5372,
+      "longitude": -68.6302,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "拜拉多雷斯",
+      "name_en": "Bailadores",
+      "province": "Mérida",
+      "latitude": 8.2535,
+      "longitude": -71.8282,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Timotes",
+      "province": "Mérida",
+      "latitude": 8.9822,
+      "longitude": -70.7393,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Nueva Bolivia",
+      "province": "Mérida",
+      "latitude": 9.1401,
+      "longitude": -71.0914,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Barrancas",
+      "province": "Monagas",
+      "latitude": 8.7696,
+      "longitude": -70.1109,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "El Dividive",
+      "province": "Trujillo",
+      "latitude": 9.4751,
+      "longitude": -70.7349,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Ana",
+      "province": "Nueva Esparta",
+      "latitude": 7.6429,
+      "longitude": -72.2764,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Mene de Mauroa",
+      "province": "Falcón",
+      "latitude": 10.6809,
+      "longitude": -71.0361,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "La Paragua",
+      "province": "Bolívar",
+      "latitude": 6.8333,
+      "longitude": -63.3333,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Pueblo Nuevo",
+      "province": "Falcón",
+      "latitude": 8.9625,
+      "longitude": -71.6075,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "El Pao",
+      "province": "Cojedes",
+      "latitude": 9.6393,
+      "longitude": -68.1292,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Escuque",
+      "province": "Trujillo",
+      "latitude": 9.2969,
+      "longitude": -70.6719,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Boconoito",
+      "province": "Portuguesa",
+      "latitude": 8.8466,
+      "longitude": -69.9803,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Chaguaramas",
+      "province": "Guárico",
+      "latitude": 9.3375,
+      "longitude": -66.2528,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Obispos",
+      "province": "Barinas",
+      "latitude": 8.607,
+      "longitude": -70.1049,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "San Rafael de Onoto",
+      "province": "Portuguesa",
+      "latitude": 9.6781,
+      "longitude": -68.9728,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Chiquinquirá",
+      "province": "Zulia",
+      "latitude": 10.4433,
+      "longitude": -71.6472,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "La Azulita",
+      "province": "Mérida",
+      "latitude": 8.7136,
+      "longitude": -71.4442,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "El Dorado",
+      "province": "Bolívar",
+      "latitude": 6.7158,
+      "longitude": -61.6374,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Yumare",
+      "province": "Yaracuy",
+      "latitude": 10.597,
+      "longitude": -68.6733,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Valle de Guanape",
+      "province": "Anzoátegui",
+      "latitude": 9.91,
+      "longitude": -65.674,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Punta Gorda",
+      "province": "Zulia",
+      "latitude": 10.3341,
+      "longitude": -71.4135,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Lobatera",
+      "province": "Táchira",
+      "latitude": 7.93,
+      "longitude": -72.2468,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Yaguaraparo",
+      "province": "Sucre",
+      "latitude": 10.5684,
+      "longitude": -62.8263,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Libertad",
+      "province": "Barinas",
+      "latitude": 8.3271,
+      "longitude": -69.6309,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "San Antonio",
+      "province": "Monagas",
+      "latitude": 7.8112,
+      "longitude": -72.4444,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Chichiriviche",
+      "province": "Falcón",
+      "latitude": 10.9287,
+      "longitude": -68.2728,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "San Fernando de Atabapo",
+      "province": "Amazonas",
+      "latitude": 4.0456,
+      "longitude": -67.6993,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "San Mateo",
+      "province": "Anzoátegui",
+      "latitude": 10.213,
+      "longitude": -67.4236,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Boca de Uchire",
+      "province": "Anzoátegui",
+      "latitude": 10.1319,
+      "longitude": -65.4224,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "El Baúl",
+      "province": "Cojedes",
+      "latitude": 8.9622,
+      "longitude": -68.2951,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Boca de Aroa",
+      "province": "Falcón",
+      "latitude": 10.6823,
+      "longitude": -68.2983,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Tocuyo de La Costa",
+      "province": "Falcón",
+      "latitude": 11.0357,
+      "longitude": -68.3745,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Aricagua",
+      "province": "Sucre",
+      "latitude": 10.2386,
+      "longitude": -63.8976,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Mucuchíes",
+      "province": "Mérida",
+      "latitude": 8.7492,
+      "longitude": -70.9198,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Zea",
+      "province": "Mérida",
+      "latitude": 8.3771,
+      "longitude": -71.784,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "San Lorenzo",
+      "province": "Sucre",
+      "latitude": 10.223,
+      "longitude": -63.9245,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Bobures",
+      "province": "Zulia",
+      "latitude": 9.2417,
+      "longitude": -71.1751,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "La Aguada",
+      "province": "Falcón",
+      "latitude": 11.2767,
+      "longitude": -67.4644,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "San Pedro de Coche",
+      "province": "Nueva Esparta",
+      "latitude": 10.7815,
+      "longitude": -63.9964,
+      "timezone": "America/Caracas"
+    },
+    {
+      "name": "",
+      "name_en": "Arenas",
+      "province": "Sucre",
+      "latitude": 10.2793,
+      "longitude": -63.9372,
+      "timezone": "America/Caracas"
+    }
+  ]
+}

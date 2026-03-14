@@ -1,0 +1,1310 @@
+{
+  "country_code": "UG",
+  "country_name": "乌干达",
+  "cities": [
+    {
+      "name": "坎帕拉",
+      "name_en": "Kampala",
+      "province": "中部区",
+      "latitude": 0.3163,
+      "longitude": 32.5822,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Nansana",
+      "province": "中部区",
+      "latitude": 0.3639,
+      "longitude": 32.5286,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kira",
+      "province": "中部区",
+      "latitude": 0.4,
+      "longitude": 32.6333,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Bunamwaya",
+      "province": "中部区",
+      "latitude": 0.2534,
+      "longitude": 32.5572,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kyengera",
+      "province": "中部区",
+      "latitude": 0.2952,
+      "longitude": 32.5016,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Mbarara",
+      "province": "西部区",
+      "latitude": -0.6047,
+      "longitude": 30.6485,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kasangati",
+      "province": "中部区",
+      "latitude": 0.438,
+      "longitude": 32.6025,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Mukono",
+      "province": "中部区",
+      "latitude": 0.3533,
+      "longitude": 32.7553,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Njeru",
+      "province": "中部区",
+      "latitude": 0.4417,
+      "longitude": 33.1792,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "古卢",
+      "name_en": "Gulu",
+      "province": "北部区",
+      "latitude": 2.7746,
+      "longitude": 32.299,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Katabi",
+      "province": "中部区",
+      "latitude": 0.0841,
+      "longitude": 32.4697,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kajansi",
+      "province": "中部区",
+      "latitude": 0.2155,
+      "longitude": 32.5345,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Lugazi",
+      "province": "中部区",
+      "latitude": 0.3679,
+      "longitude": 32.9376,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Hoima",
+      "province": "西部区",
+      "latitude": 1.4331,
+      "longitude": 31.3524,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Mubende",
+      "province": "中部区",
+      "latitude": 0.5585,
+      "longitude": 31.3949,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Lira",
+      "province": "北部区",
+      "latitude": 2.2499,
+      "longitude": 32.8999,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Ibanda",
+      "province": "西部区",
+      "latitude": -0.134,
+      "longitude": 30.4962,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Masaka",
+      "province": "中部区",
+      "latitude": -0.3338,
+      "longitude": 31.7341,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "卡塞塞",
+      "name_en": "Kasese",
+      "province": "西部区",
+      "latitude": 0.1833,
+      "longitude": 30.0833,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "姆巴莱",
+      "name_en": "Mbale",
+      "province": "东部区",
+      "latitude": 1.0821,
+      "longitude": 34.175,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Masindi",
+      "province": "西部区",
+      "latitude": 1.6744,
+      "longitude": 31.715,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Mityana",
+      "province": "中部区",
+      "latitude": 0.4175,
+      "longitude": 32.0228,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "恩德培",
+      "name_en": "Entebbe",
+      "province": "中部区",
+      "latitude": 0.0562,
+      "longitude": 32.4795,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "金贾",
+      "name_en": "Jinja",
+      "province": "东部区",
+      "latitude": 0.439,
+      "longitude": 33.2032,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Wakiso",
+      "province": "中部区",
+      "latitude": 0.4044,
+      "longitude": 32.4594,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Rutoma",
+      "province": "西部区",
+      "latitude": -0.5667,
+      "longitude": 30.3833,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Bwizibwera",
+      "province": "西部区",
+      "latitude": -0.5917,
+      "longitude": 30.6286,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kotido",
+      "province": "北部区",
+      "latitude": 2.9806,
+      "longitude": 34.1331,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "阿鲁阿",
+      "name_en": "Arua",
+      "province": "北部区",
+      "latitude": 3.0201,
+      "longitude": 30.911,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Nakivale Refugee Camp",
+      "province": "西部区",
+      "latitude": -0.7406,
+      "longitude": 30.9963,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kamuli",
+      "province": "东部区",
+      "latitude": 0.9472,
+      "longitude": 33.1197,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Apac",
+      "province": "北部区",
+      "latitude": 1.9756,
+      "longitude": 32.5386,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Iganga",
+      "province": "东部区",
+      "latitude": 0.6092,
+      "longitude": 33.4686,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "布西亚",
+      "name_en": "Busia",
+      "province": "东部区",
+      "latitude": 0.4659,
+      "longitude": 34.0922,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Koboko",
+      "province": "北部区",
+      "latitude": 3.4136,
+      "longitude": 30.9599,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "索罗提",
+      "name_en": "Soroti",
+      "province": "东部区",
+      "latitude": 1.7146,
+      "longitude": 33.6111,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Fort Portal",
+      "province": "西部区",
+      "latitude": 0.6617,
+      "longitude": 30.2748,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Mpondwe",
+      "province": "西部区",
+      "latitude": 0.0401,
+      "longitude": 29.7248,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kitgum",
+      "province": "北部区",
+      "latitude": 3.2783,
+      "longitude": 32.8867,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kabale",
+      "province": "西部区",
+      "latitude": -1.2486,
+      "longitude": 29.9899,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kapchorwa",
+      "province": "东部区",
+      "latitude": 1.401,
+      "longitude": 34.4504,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Rwamwanja Refugee Camp",
+      "province": "西部区",
+      "latitude": 0.348,
+      "longitude": 30.6543,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Mpigi",
+      "province": "中部区",
+      "latitude": 0.225,
+      "longitude": 32.3136,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Luwero",
+      "province": "中部区",
+      "latitude": 0.8492,
+      "longitude": 32.4731,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "托罗罗",
+      "name_en": "Tororo",
+      "province": "东部区",
+      "latitude": 0.693,
+      "longitude": 34.1808,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Yumbe",
+      "province": "北部区",
+      "latitude": 3.4651,
+      "longitude": 31.2469,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Bugembe",
+      "province": "东部区",
+      "latitude": 0.4821,
+      "longitude": 33.2407,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Ishaka",
+      "province": "西部区",
+      "latitude": -0.5431,
+      "longitude": 30.1369,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kumi",
+      "province": "东部区",
+      "latitude": 1.4608,
+      "longitude": 33.9361,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kasanje",
+      "province": "中部区",
+      "latitude": 0.1533,
+      "longitude": 32.4009,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Pallisa",
+      "province": "东部区",
+      "latitude": 1.145,
+      "longitude": 33.7094,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Nebbi",
+      "province": "北部区",
+      "latitude": 2.4783,
+      "longitude": 31.0889,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Paidha",
+      "province": "北部区",
+      "latitude": 2.4167,
+      "longitude": 30.9855,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Rukungiri",
+      "province": "西部区",
+      "latitude": -0.8411,
+      "longitude": 29.9419,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Adjumani",
+      "province": "北部区",
+      "latitude": 3.3779,
+      "longitude": 31.7909,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Buyale",
+      "province": "西部区",
+      "latitude": 1.9342,
+      "longitude": 32.1164,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Bugiri",
+      "province": "东部区",
+      "latitude": 0.5714,
+      "longitude": 33.7417,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kakira",
+      "province": "东部区",
+      "latitude": 0.5083,
+      "longitude": 33.2878,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Isingiro",
+      "province": "西部区",
+      "latitude": -0.8686,
+      "longitude": 30.8302,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Nakaloke",
+      "province": "东部区",
+      "latitude": 1.15,
+      "longitude": 34.15,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Busesa",
+      "province": "东部区",
+      "latitude": 0.6263,
+      "longitude": 33.6003,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Wobulenzi",
+      "province": "中部区",
+      "latitude": 0.7283,
+      "longitude": 32.5122,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Nyachera",
+      "province": "西部区",
+      "latitude": -0.9,
+      "longitude": 30.4167,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kayunga",
+      "province": "中部区",
+      "latitude": 0.7025,
+      "longitude": 32.8886,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Buyende",
+      "province": "东部区",
+      "latitude": 1.1517,
+      "longitude": 33.155,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Bombo",
+      "province": "中部区",
+      "latitude": 0.5739,
+      "longitude": 32.5155,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kyegegwa",
+      "province": "西部区",
+      "latitude": 0.5022,
+      "longitude": 31.0414,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Budaka",
+      "province": "东部区",
+      "latitude": 1.0039,
+      "longitude": 33.9256,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kasaali",
+      "province": "中部区",
+      "latitude": -0.6167,
+      "longitude": 31.55,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Pakwach",
+      "province": "北部区",
+      "latitude": 2.4634,
+      "longitude": 31.4983,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kyenjojo",
+      "province": "西部区",
+      "latitude": 0.6328,
+      "longitude": 30.6214,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kakiri",
+      "province": "中部区",
+      "latitude": 0.4199,
+      "longitude": 32.3913,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kagadi",
+      "province": "西部区",
+      "latitude": 0.9378,
+      "longitude": 30.8089,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Muhorro",
+      "province": "西部区",
+      "latitude": 0.9151,
+      "longitude": 30.7508,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kyaka II Refugee Camp",
+      "province": "西部区",
+      "latitude": 0.3674,
+      "longitude": 31.1082,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Bukuya",
+      "province": "中部区",
+      "latitude": 0.6786,
+      "longitude": 31.8197,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Lukaya",
+      "province": "中部区",
+      "latitude": -0.1131,
+      "longitude": 31.8539,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kasozi",
+      "province": "西部区",
+      "latitude": 0.02,
+      "longitude": 30.4986,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Abim",
+      "province": "北部区",
+      "latitude": 2.7017,
+      "longitude": 33.6761,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Buwenge",
+      "province": "东部区",
+      "latitude": 0.65,
+      "longitude": 33.1713,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Anaka",
+      "province": "北部区",
+      "latitude": 2.6011,
+      "longitude": 31.9475,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Butaleja",
+      "province": "东部区",
+      "latitude": 0.9119,
+      "longitude": 33.9511,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kamwenge",
+      "province": "西部区",
+      "latitude": 0.1866,
+      "longitude": 30.4539,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kyangwali Refugee Camp",
+      "province": "西部区",
+      "latitude": 1.1881,
+      "longitude": 30.7828,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Dokolo",
+      "province": "北部区",
+      "latitude": 1.8983,
+      "longitude": 33.1775,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Opit",
+      "province": "北部区",
+      "latitude": 2.6111,
+      "longitude": 32.4756,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Rubanda",
+      "province": "西部区",
+      "latitude": -1.1883,
+      "longitude": 29.8461,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Namutumba",
+      "province": "东部区",
+      "latitude": 0.8361,
+      "longitude": 33.6861,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Namasuba",
+      "province": "中部区",
+      "latitude": 0.6894,
+      "longitude": 32.4214,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kiboga",
+      "province": "中部区",
+      "latitude": 0.9161,
+      "longitude": 31.7742,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Bundibugyo",
+      "province": "西部区",
+      "latitude": 0.7112,
+      "longitude": 30.0647,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Namayumba",
+      "province": "中部区",
+      "latitude": 0.5289,
+      "longitude": 32.2486,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kigumba",
+      "province": "西部区",
+      "latitude": 1.8084,
+      "longitude": 32.005,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kihihi",
+      "province": "西部区",
+      "latitude": -0.75,
+      "longitude": 29.7,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kiziba",
+      "province": "中部区",
+      "latitude": 0.5139,
+      "longitude": 32.3506,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Ntungamo",
+      "province": "西部区",
+      "latitude": -0.8794,
+      "longitude": 30.2642,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Malaba",
+      "province": "东部区",
+      "latitude": 0.6444,
+      "longitude": 34.2606,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Mayuge",
+      "province": "东部区",
+      "latitude": 0.4597,
+      "longitude": 33.4803,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kaliro",
+      "province": "东部区",
+      "latitude": 0.8944,
+      "longitude": 33.4994,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Lwakyomba",
+      "province": "西部区",
+      "latitude": 1.1167,
+      "longitude": 31.4,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Mabare",
+      "province": "西部区",
+      "latitude": -0.9667,
+      "longitude": 30.45,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Iryango",
+      "province": "西部区",
+      "latitude": -0.9667,
+      "longitude": 30.6,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Nyahuka",
+      "province": "西部区",
+      "latitude": 0.675,
+      "longitude": 29.9926,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Buhimba",
+      "province": "西部区",
+      "latitude": 1.3472,
+      "longitude": 31.3081,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Magamaga",
+      "province": "东部区",
+      "latitude": 0.5196,
+      "longitude": 33.3469,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kinoni",
+      "province": "西部区",
+      "latitude": -0.7011,
+      "longitude": 30.4939,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "锡龙科",
+      "name_en": "Sironko",
+      "province": "东部区",
+      "latitude": 1.2313,
+      "longitude": 34.2477,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Budadiri",
+      "province": "东部区",
+      "latitude": 1.1481,
+      "longitude": 34.3261,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Butemba",
+      "province": "中部区",
+      "latitude": 1.1594,
+      "longitude": 31.6108,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Moyo",
+      "province": "北部区",
+      "latitude": 3.6609,
+      "longitude": 31.7247,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Rwiimi",
+      "province": "西部区",
+      "latitude": 0.3796,
+      "longitude": 30.2304,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Buikwe",
+      "province": "中部区",
+      "latitude": 0.3375,
+      "longitude": 33.0106,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kisinga",
+      "province": "西部区",
+      "latitude": 0.0768,
+      "longitude": 29.8683,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Katoke",
+      "province": "西部区",
+      "latitude": 0.7583,
+      "longitude": 30.6825,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kikube",
+      "province": "西部区",
+      "latitude": 1.3564,
+      "longitude": 31.2222,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kireka",
+      "province": "中部区",
+      "latitude": 0.3475,
+      "longitude": 32.6492,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kisoro",
+      "province": "西部区",
+      "latitude": -1.2854,
+      "longitude": 29.685,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Ngora",
+      "province": "东部区",
+      "latitude": 1.4314,
+      "longitude": 33.7772,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Butunduzi",
+      "province": "西部区",
+      "latitude": 0.5547,
+      "longitude": 30.8548,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Namavundu",
+      "province": "东部区",
+      "latitude": 0.364,
+      "longitude": 33.8176,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kasanda",
+      "province": "中部区",
+      "latitude": 0.5567,
+      "longitude": 31.8022,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Ntungamo",
+      "province": "西部区",
+      "latitude": -0.8794,
+      "longitude": 30.2642,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Busolwe",
+      "province": "东部区",
+      "latitude": 0.8501,
+      "longitude": 33.9262,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Nyamunuka",
+      "province": "西部区",
+      "latitude": -0.8349,
+      "longitude": 30.0922,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Gombe",
+      "province": "中部区",
+      "latitude": 0.2033,
+      "longitude": 32.0881,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kanungu",
+      "province": "西部区",
+      "latitude": -0.9575,
+      "longitude": 29.7897,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kiryandongo Refugee Camp",
+      "province": "西部区",
+      "latitude": 1.9399,
+      "longitude": 32.166,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Bukomero",
+      "province": "中部区",
+      "latitude": 0.6975,
+      "longitude": 32.0286,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kyarusozi",
+      "province": "西部区",
+      "latitude": 0.7842,
+      "longitude": 30.5311,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Lyantonde",
+      "province": "中部区",
+      "latitude": -0.4031,
+      "longitude": 31.1572,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Moroto",
+      "province": "北部区",
+      "latitude": 2.5345,
+      "longitude": 34.6666,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Buhesi",
+      "province": "西部区",
+      "latitude": 0.581,
+      "longitude": 30.2101,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kyazanga",
+      "province": "中部区",
+      "latitude": -0.3833,
+      "longitude": 31.35,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Manafwa",
+      "province": "东部区",
+      "latitude": 0.952,
+      "longitude": 34.27,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kakumiro",
+      "province": "西部区",
+      "latitude": 0.7806,
+      "longitude": 31.3236,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kazo",
+      "province": "西部区",
+      "latitude": -0.0744,
+      "longitude": 30.7853,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Busembatia",
+      "province": "东部区",
+      "latitude": 0.7772,
+      "longitude": 33.6236,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kyamahungu",
+      "province": "西部区",
+      "latitude": -0.4514,
+      "longitude": 30.1133,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kasambya",
+      "province": "中部区",
+      "latitude": 0.4333,
+      "longitude": 31.2333,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kalisizo",
+      "province": "中部区",
+      "latitude": -0.5364,
+      "longitude": 31.6214,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Lwengo",
+      "province": "中部区",
+      "latitude": -0.4161,
+      "longitude": 31.4081,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Amudat",
+      "province": "北部区",
+      "latitude": 1.95,
+      "longitude": 34.95,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Hima",
+      "province": "西部区",
+      "latitude": 0.3489,
+      "longitude": 30.1622,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kebisoni",
+      "province": "西部区",
+      "latitude": -0.9211,
+      "longitude": 30.0367,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Rubaare",
+      "province": "西部区",
+      "latitude": -1.0839,
+      "longitude": 30.2017,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Pader",
+      "province": "北部区",
+      "latitude": 2.88,
+      "longitude": 33.0871,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kibiito",
+      "province": "西部区",
+      "latitude": 0.4772,
+      "longitude": 30.1925,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Nkoma",
+      "province": "西部区",
+      "latitude": 0.3,
+      "longitude": 30.6167,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Nagongera",
+      "province": "东部区",
+      "latitude": 0.7616,
+      "longitude": 34.0262,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kiruhura",
+      "province": "西部区",
+      "latitude": -0.1966,
+      "longitude": 30.8445,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Wanseko",
+      "province": "西部区",
+      "latitude": 2.1775,
+      "longitude": 31.3821,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Pader",
+      "province": "北部区",
+      "latitude": 2.88,
+      "longitude": 33.0871,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Bweyogerere",
+      "province": "中部区",
+      "latitude": 0.3577,
+      "longitude": 32.6633,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Pader Palwo",
+      "province": "北部区",
+      "latitude": 2.8006,
+      "longitude": 33.135,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Buliisa",
+      "province": "西部区",
+      "latitude": 2.1178,
+      "longitude": 31.4116,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Rubirizi",
+      "province": "西部区",
+      "latitude": -0.2989,
+      "longitude": 30.1336,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kyotera",
+      "province": "中部区",
+      "latitude": -0.6156,
+      "longitude": 31.5175,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kilembe",
+      "province": "西部区",
+      "latitude": 0.1983,
+      "longitude": 30.013,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Masindi Port",
+      "province": "西部区",
+      "latitude": 1.6961,
+      "longitude": 32.0861,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Byakabanda",
+      "province": "中部区",
+      "latitude": -0.7425,
+      "longitude": 31.4064,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Nakasongola",
+      "province": "中部区",
+      "latitude": 1.3089,
+      "longitude": 32.4564,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kigorobya",
+      "province": "西部区",
+      "latitude": 1.6162,
+      "longitude": 31.3089,
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "name": "",
+      "name_en": "Kibale",
+      "province": "西部区",
+      "latitude": 0.8,
+      "longitude": 31.0667,
+      "timezone": "Africa/Kampala"
+    }
+  ]
+}

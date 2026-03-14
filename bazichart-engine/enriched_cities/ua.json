@@ -1,0 +1,7510 @@
+{
+  "country_code": "UA",
+  "country_name": "乌克兰",
+  "cities": [
+    {
+      "name": "基辅",
+      "name_en": "Kyiv",
+      "province": "Kyiv City",
+      "latitude": 50.4547,
+      "longitude": 30.5238,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "哈尔科夫",
+      "name_en": "Kharkiv",
+      "province": "哈尔科夫州",
+      "latitude": 49.9818,
+      "longitude": 36.2548,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "敖德萨",
+      "name_en": "Odesa",
+      "province": "敖德萨州",
+      "latitude": 46.4857,
+      "longitude": 30.7438,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "聂伯城",
+      "name_en": "Dnipro",
+      "province": "Dnipropetrovsk",
+      "latitude": 48.4666,
+      "longitude": 35.0407,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "顿涅茨克",
+      "name_en": "Donetsk",
+      "province": "顿涅茨克州",
+      "latitude": 48.023,
+      "longitude": 37.8022,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "利沃夫",
+      "name_en": "Lviv",
+      "province": "利沃夫州",
+      "latitude": 49.8383,
+      "longitude": 24.0232,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "扎波罗热",
+      "name_en": "Zaporizhzhya",
+      "province": "扎波罗热州",
+      "latitude": 47.8517,
+      "longitude": 35.1171,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "克里沃罗格",
+      "name_en": "Kryvyy Rih",
+      "province": "Dnipropetrovsk",
+      "latitude": 47.9057,
+      "longitude": 33.394,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "塞瓦斯托波尔",
+      "name_en": "Sevastopol",
+      "province": "Sevastopol City",
+      "latitude": 44.608,
+      "longitude": 33.5213,
+      "timezone": "Europe/Simferopol"
+    },
+    {
+      "name": "",
+      "name_en": "Mykolayiv",
+      "province": "尼古拉耶夫州",
+      "latitude": 46.9763,
+      "longitude": 31.993,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Saltivka",
+      "province": "哈尔科夫州",
+      "latitude": 50.0221,
+      "longitude": 36.349,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "卢甘斯克",
+      "name_en": "Luhansk",
+      "province": "卢甘斯克州",
+      "latitude": 48.5681,
+      "longitude": 39.3055,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "文尼察",
+      "name_en": "Vinnytsya",
+      "province": "文尼察州",
+      "latitude": 49.2322,
+      "longitude": 28.4687,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "デスニアンスキー地区",
+      "name_en": "Desna",
+      "province": "Kyiv City",
+      "latitude": 50.5221,
+      "longitude": 30.6823,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "ドニプロ地区",
+      "name_en": "Dniprovskyi",
+      "province": "Kyiv City",
+      "latitude": 50.4537,
+      "longitude": 30.6015,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "ダルニツキー地区",
+      "name_en": "Darnytsya",
+      "province": "Kyiv City",
+      "latitude": 50.416,
+      "longitude": 30.6953,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "スヴャトシン地区",
+      "name_en": "Svyatoshyn",
+      "province": "Kyiv City",
+      "latitude": 50.4634,
+      "longitude": 30.3461,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "马克耶夫卡",
+      "name_en": "Makiivka",
+      "province": "顿涅茨克州",
+      "latitude": 48.0478,
+      "longitude": 37.9258,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "辛菲罗波尔",
+      "name_en": "Simferopol",
+      "province": "克里米亚自治共和国",
+      "latitude": 44.9572,
+      "longitude": 34.1108,
+      "timezone": "Europe/Simferopol"
+    },
+    {
+      "name": "オボロン地区",
+      "name_en": "Obolon",
+      "province": "Kyiv City",
+      "latitude": 50.5132,
+      "longitude": 30.5055,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "切尔尼戈夫",
+      "name_en": "Chernihiv",
+      "province": "切尔尼戈夫州",
+      "latitude": 51.5054,
+      "longitude": 31.2866,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "赫尔松",
+      "name_en": "Kherson",
+      "province": "赫尔松州",
+      "latitude": 46.6369,
+      "longitude": 32.6146,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "波尔塔瓦",
+      "name_en": "Poltava",
+      "province": "波尔塔瓦州",
+      "latitude": 49.5892,
+      "longitude": 34.5537,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "ソロミャンスキー地区",
+      "name_en": "Solomyansk",
+      "province": "Kyiv City",
+      "latitude": 50.4284,
+      "longitude": 30.4521,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Khmelnytskyi",
+      "province": "赫梅利尼茨基州",
+      "latitude": 49.4183,
+      "longitude": 26.9794,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "切尔卡瑟",
+      "name_en": "Cherkasy",
+      "province": "切尔卡瑟州",
+      "latitude": 49.4445,
+      "longitude": 32.0574,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "切尔诺夫策",
+      "name_en": "Chernivtsi",
+      "province": "Chernivtsi",
+      "latitude": 48.2904,
+      "longitude": 25.9324,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "日托米尔",
+      "name_en": "Zhytomyr",
+      "province": "Zhytomyr",
+      "latitude": 50.2623,
+      "longitude": 28.6791,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "苏梅",
+      "name_en": "Sumy",
+      "province": "苏梅州",
+      "latitude": 50.9174,
+      "longitude": 34.7991,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "ホロシーイウ区",
+      "name_en": "Holosiyiv",
+      "province": "Kyiv City",
+      "latitude": 50.3443,
+      "longitude": 30.5518,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "罗夫诺",
+      "name_en": "Rivne",
+      "province": "Rivne",
+      "latitude": 50.6204,
+      "longitude": 26.237,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Vyhurivshchyna-Troieshchyna",
+      "province": "Kyiv City",
+      "latitude": 50.5114,
+      "longitude": 30.6025,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "戈尔洛夫卡",
+      "name_en": "Horlivka",
+      "province": "顿涅茨克州",
+      "latitude": 48.3358,
+      "longitude": 38.0532,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Ivano-Frankivsk",
+      "province": "伊万诺-弗兰科夫斯克州",
+      "latitude": 48.9231,
+      "longitude": 24.7125,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "卡姆扬斯凯",
+      "name_en": "Kamyanske",
+      "province": "Dnipropetrovsk",
+      "latitude": 48.5172,
+      "longitude": 34.6062,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "捷尔诺波尔",
+      "name_en": "Ternopil",
+      "province": "捷尔诺波尔州",
+      "latitude": 49.554,
+      "longitude": 25.5907,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "シェフチェンコフスキー地区",
+      "name_en": "Shevchenkivskyi",
+      "province": "Kyiv City",
+      "latitude": 50.4641,
+      "longitude": 30.4658,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "基洛沃格勒",
+      "name_en": "Kropyvnytskyy",
+      "province": "基洛夫格勒州",
+      "latitude": 48.5083,
+      "longitude": 32.2662,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "克列缅丘格",
+      "name_en": "Kremenchuk",
+      "province": "波尔塔瓦州",
+      "latitude": 49.0625,
+      "longitude": 33.4048,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "卢茨克",
+      "name_en": "Lutsk",
+      "province": "沃伦州",
+      "latitude": 50.7578,
+      "longitude": 25.3502,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "白采尔科维",
+      "name_en": "Bila Tserkva",
+      "province": "基辅州",
+      "latitude": 49.8004,
+      "longitude": 30.1285,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Rayon KTZ",
+      "province": "哈尔科夫州",
+      "latitude": 49.9435,
+      "longitude": 36.3696,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Sykhiv",
+      "province": "利沃夫州",
+      "latitude": 49.7943,
+      "longitude": 24.0628,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "キーロフ地区",
+      "name_en": "Kirovskyi",
+      "province": "顿涅茨克州",
+      "latitude": 47.976,
+      "longitude": 37.6968,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Fortetsya",
+      "province": "基洛夫格勒州",
+      "latitude": 48.4986,
+      "longitude": 32.2537,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "ペチェルスク地区",
+      "name_en": "Pechersk",
+      "province": "Kyiv City",
+      "latitude": 50.4444,
+      "longitude": 30.5235,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Nyzhnyodniprovsk",
+      "province": "Dnipropetrovsk",
+      "latitude": 48.4755,
+      "longitude": 35.1167,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Avtozavodskyi",
+      "province": "波尔塔瓦州",
+      "latitude": 49.0975,
+      "longitude": 33.4321,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "刻赤",
+      "name_en": "Kerch",
+      "province": "克里米亚自治共和国",
+      "latitude": 45.3567,
+      "longitude": 36.4754,
+      "timezone": "Europe/Simferopol"
+    },
+    {
+      "name": "",
+      "name_en": "Melitopol",
+      "province": "扎波罗热州",
+      "latitude": 46.8473,
+      "longitude": 35.382,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Shevchenko",
+      "province": "波尔塔瓦州",
+      "latitude": 50.4641,
+      "longitude": 30.4658,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "克拉马托尔斯克",
+      "name_en": "Kramatorsk",
+      "province": "顿涅茨克州",
+      "latitude": 48.7305,
+      "longitude": 37.5879,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "キエフ地区",
+      "name_en": "Kyivskyi",
+      "province": "顿涅茨克州",
+      "latitude": 48.0465,
+      "longitude": 37.7757,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Mykilska Borshchahivka",
+      "province": "Kyiv City",
+      "latitude": 50.4264,
+      "longitude": 30.3744,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "马里乌波尔",
+      "name_en": "Mariupol",
+      "province": "顿涅茨克州",
+      "latitude": 47.0951,
+      "longitude": 37.5413,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "クイビシェフ地区",
+      "name_en": "Kuybyshevskyi",
+      "province": "顿涅茨克州",
+      "latitude": 48.0144,
+      "longitude": 37.7362,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "乌日霍罗德",
+      "name_en": "Uzhhorod",
+      "province": "外喀尔巴阡州",
+      "latitude": 48.6242,
+      "longitude": 22.2947,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Kyivskyi",
+      "province": "波尔塔瓦州",
+      "latitude": 48.0465,
+      "longitude": 37.7757,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "布罗瓦里",
+      "name_en": "Brovary",
+      "province": "基辅州",
+      "latitude": 50.5181,
+      "longitude": 30.8067,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Berdyansk",
+      "province": "扎波罗热州",
+      "latitude": 46.7558,
+      "longitude": 36.7882,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Yevpatoriya",
+      "province": "克里米亚自治共和国",
+      "latitude": 45.2009,
+      "longitude": 33.3665,
+      "timezone": "Europe/Simferopol"
+    },
+    {
+      "name": "",
+      "name_en": "Alchevsk",
+      "province": "卢甘斯克州",
+      "latitude": 48.4689,
+      "longitude": 38.8167,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Nikopol",
+      "province": "Dnipropetrovsk",
+      "latitude": 47.5683,
+      "longitude": 34.3913,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "斯拉维扬斯克",
+      "name_en": "Sloviansk",
+      "province": "顿涅茨克州",
+      "latitude": 48.8497,
+      "longitude": 37.5974,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Pozniaky",
+      "province": "Kyiv City",
+      "latitude": 50.4026,
+      "longitude": 30.6235,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "カリーニン地区",
+      "name_en": "Kalininskyi",
+      "province": "顿涅茨克州",
+      "latitude": 48.0074,
+      "longitude": 37.8538,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "プロレタリア地区",
+      "name_en": "Proletarskyi",
+      "province": "顿涅茨克州",
+      "latitude": 47.9567,
+      "longitude": 37.9419,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "巴甫洛格勒",
+      "name_en": "Pavlohrad",
+      "province": "Dnipropetrovsk",
+      "latitude": 48.5321,
+      "longitude": 35.8688,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Oleksiyivka",
+      "province": "哈尔科夫州",
+      "latitude": 50.0452,
+      "longitude": 36.1932,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "レーニンスキー地区",
+      "name_en": "Leninskyi",
+      "province": "顿涅茨克州",
+      "latitude": 47.9679,
+      "longitude": 37.8034,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "乌曼",
+      "name_en": "Uman",
+      "province": "切尔卡瑟州",
+      "latitude": 48.7501,
+      "longitude": 30.2194,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Shulyavka",
+      "province": "Kyiv City",
+      "latitude": 50.4536,
+      "longitude": 30.4531,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Sievierodonetsk",
+      "province": "卢甘斯克州",
+      "latitude": 48.9463,
+      "longitude": 38.4862,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Kamianets-Podilskyi",
+      "province": "赫梅利尼茨基州",
+      "latitude": 48.6788,
+      "longitude": 26.5852,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "ヴォロシロフスキー地区",
+      "name_en": "Voroshylovskyi",
+      "province": "顿涅茨克州",
+      "latitude": 48.0,
+      "longitude": 37.8001,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Kharkivskyi Masyv",
+      "province": "Kyiv City",
+      "latitude": 50.4085,
+      "longitude": 30.6601,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Lysychansk",
+      "province": "卢甘斯克州",
+      "latitude": 48.9042,
+      "longitude": 38.4409,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "ブジョンヌイ地区",
+      "name_en": "Budyonnivskyi",
+      "province": "顿涅茨克州",
+      "latitude": 47.9669,
+      "longitude": 37.8625,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Lukyanivka",
+      "province": "Kyiv City",
+      "latitude": 50.4664,
+      "longitude": 30.4759,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Tatarka",
+      "province": "Kyiv City",
+      "latitude": 50.4694,
+      "longitude": 30.4865,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Podilskyi",
+      "province": "基洛夫格勒州",
+      "latitude": 48.5036,
+      "longitude": 32.2803,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Mukachevo",
+      "province": "外喀尔巴阡州",
+      "latitude": 48.4425,
+      "longitude": 22.718,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "ペトロフスキー地区",
+      "name_en": "Petrovskyi",
+      "province": "顿涅茨克州",
+      "latitude": 47.9316,
+      "longitude": 37.6297,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "科诺托普",
+      "name_en": "Konotop",
+      "province": "苏梅州",
+      "latitude": 51.2403,
+      "longitude": 33.2026,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Voskresenka",
+      "province": "Kyiv City",
+      "latitude": 50.4848,
+      "longitude": 30.6032,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Bakhmut",
+      "province": "顿涅茨克州",
+      "latitude": 48.5944,
+      "longitude": 37.9998,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Khrustalnyi",
+      "province": "卢甘斯克州",
+      "latitude": 48.1395,
+      "longitude": 38.9372,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "雅尔塔",
+      "name_en": "Yalta",
+      "province": "克里米亚自治共和国",
+      "latitude": 44.5022,
+      "longitude": 34.1662,
+      "timezone": "Europe/Simferopol"
+    },
+    {
+      "name": "叶纳基耶沃",
+      "name_en": "Yenakiieve",
+      "province": "顿涅茨克州",
+      "latitude": 48.2386,
+      "longitude": 38.204,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Oleksandriya",
+      "province": "基洛夫格勒州",
+      "latitude": 48.6747,
+      "longitude": 33.1176,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Kriukiv",
+      "province": "波尔塔瓦州",
+      "latitude": 49.0289,
+      "longitude": 33.4385,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Tekstylnyk",
+      "province": "顿涅茨克州",
+      "latitude": 47.9459,
+      "longitude": 37.6985,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Drohobych",
+      "province": "利沃夫州",
+      "latitude": 49.352,
+      "longitude": 23.5112,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "斯达汉诺夫",
+      "name_en": "Kadiyivka",
+      "province": "卢甘斯克州",
+      "latitude": 48.5682,
+      "longitude": 38.6435,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "绍斯特卡",
+      "name_en": "Shostka",
+      "province": "苏梅州",
+      "latitude": 51.863,
+      "longitude": 33.4698,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "别尔基切夫",
+      "name_en": "Berdychiv",
+      "province": "Zhytomyr",
+      "latitude": 49.8942,
+      "longitude": 28.5824,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Nyvky",
+      "province": "Kyiv City",
+      "latitude": 50.4646,
+      "longitude": 30.4059,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Shakhtarsk",
+      "province": "顿涅茨克州",
+      "latitude": 48.0566,
+      "longitude": 38.4383,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Samar",
+      "province": "Dnipropetrovsk",
+      "latitude": 48.6289,
+      "longitude": 35.2589,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Izmail",
+      "province": "敖德萨州",
+      "latitude": 45.3506,
+      "longitude": 28.8375,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Darnytskyi Masyv",
+      "province": "Kyiv City",
+      "latitude": 50.4431,
+      "longitude": 30.6276,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Feodosiya",
+      "province": "克里米亚自治共和国",
+      "latitude": 45.032,
+      "longitude": 35.3815,
+      "timezone": "Europe/Simferopol"
+    },
+    {
+      "name": "",
+      "name_en": "Kovel",
+      "province": "沃伦州",
+      "latitude": 51.2155,
+      "longitude": 24.7008,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Kostiantynivka",
+      "province": "顿涅茨克州",
+      "latitude": 48.5273,
+      "longitude": 37.7059,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "涅任",
+      "name_en": "Nizhyn",
+      "province": "切尔尼戈夫州",
+      "latitude": 51.0477,
+      "longitude": 31.8884,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "斯米拉",
+      "name_en": "Smila",
+      "province": "切尔卡瑟州",
+      "latitude": 49.233,
+      "longitude": 31.8843,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "伊尔平",
+      "name_en": "Irpin",
+      "province": "基辅州",
+      "latitude": 50.5217,
+      "longitude": 30.2506,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Kalush",
+      "province": "伊万诺-弗兰科夫斯克州",
+      "latitude": 49.024,
+      "longitude": 24.3721,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Borshchahivka",
+      "province": "Kyiv City",
+      "latitude": 50.4316,
+      "longitude": 30.3899,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Chokolivka",
+      "province": "Kyiv City",
+      "latitude": 50.4244,
+      "longitude": 30.4473,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Vynohradar",
+      "province": "Kyiv City",
+      "latitude": 50.5143,
+      "longitude": 30.4245,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Sheptytskyi",
+      "province": "利沃夫州",
+      "latitude": 50.394,
+      "longitude": 24.2394,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Boryspil",
+      "province": "基辅州",
+      "latitude": 50.3527,
+      "longitude": 30.955,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Dovzhansk",
+      "province": "卢甘斯克州",
+      "latitude": 48.0896,
+      "longitude": 39.6524,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Pervomaysk",
+      "province": "尼古拉耶夫州",
+      "latitude": 48.0448,
+      "longitude": 30.8478,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Inhulets",
+      "province": "Dnipropetrovsk",
+      "latitude": 47.7301,
+      "longitude": 33.2519,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Korosten",
+      "province": "Zhytomyr",
+      "latitude": 50.9512,
+      "longitude": 28.6386,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Stryi",
+      "province": "利沃夫州",
+      "latitude": 49.261,
+      "longitude": 23.8484,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Kolomyia",
+      "province": "伊万诺-弗兰科夫斯克州",
+      "latitude": 48.525,
+      "longitude": 25.0371,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Pokrovsk",
+      "province": "顿涅茨克州",
+      "latitude": 48.2824,
+      "longitude": 37.1777,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Chornomors’k",
+      "province": "敖德萨州",
+      "latitude": 46.2991,
+      "longitude": 30.6553,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Khartsyzk",
+      "province": "顿涅茨克州",
+      "latitude": 48.0424,
+      "longitude": 38.1473,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "兹维亚赫尔",
+      "name_en": "Zviahel",
+      "province": "Zhytomyr",
+      "latitude": 50.5914,
+      "longitude": 27.6088,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Snizhne",
+      "province": "顿涅茨克州",
+      "latitude": 48.0261,
+      "longitude": 38.7722,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Rubizhne",
+      "province": "卢甘斯克州",
+      "latitude": 49.0061,
+      "longitude": 38.3812,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "洛佐瓦",
+      "name_en": "Lozova",
+      "province": "哈尔科夫州",
+      "latitude": 48.8894,
+      "longitude": 36.3175,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Druzhkivka",
+      "province": "顿涅茨克州",
+      "latitude": 48.619,
+      "longitude": 37.527,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "多列士",
+      "name_en": "Chystyakove",
+      "province": "顿涅茨克州",
+      "latitude": 48.0388,
+      "longitude": 38.5969,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Sotsmisto",
+      "province": "顿涅茨克州",
+      "latitude": 50.4431,
+      "longitude": 30.6276,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "埃内尔霍达尔",
+      "name_en": "Enerhodar",
+      "province": "扎波罗热州",
+      "latitude": 47.4905,
+      "longitude": 34.662,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "普里卢基",
+      "name_en": "Pryluky",
+      "province": "切尔尼戈夫州",
+      "latitude": 50.5953,
+      "longitude": 32.3838,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "安特拉齐特",
+      "name_en": "Antratsyt",
+      "province": "卢甘斯克州",
+      "latitude": 48.115,
+      "longitude": 39.0913,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Bosse",
+      "province": "顿涅茨克州",
+      "latitude": 47.9552,
+      "longitude": 37.8003,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "共青城",
+      "name_en": "Horishni Plavni",
+      "province": "波尔塔瓦州",
+      "latitude": 49.0084,
+      "longitude": 33.6293,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Novovolynsk",
+      "province": "沃伦州",
+      "latitude": 50.7295,
+      "longitude": 24.1598,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "克拉斯诺顿",
+      "name_en": "Sorokyne",
+      "province": "卢甘斯克州",
+      "latitude": 48.2923,
+      "longitude": 39.7392,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "比尔戈罗德-德尼斯特罗夫西基",
+      "name_en": "Bilhorod-Dnistrovskyi",
+      "province": "敖德萨州",
+      "latitude": 46.1948,
+      "longitude": 30.3483,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Okhtyrka",
+      "province": "苏梅州",
+      "latitude": 50.3104,
+      "longitude": 34.8988,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "米尔诺格勒",
+      "name_en": "Myrnohrad",
+      "province": "顿涅茨克州",
+      "latitude": 48.3099,
+      "longitude": 37.2651,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Berezniaky",
+      "province": "Kyiv City",
+      "latitude": 50.4263,
+      "longitude": 30.6022,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "伊久姆",
+      "name_en": "Izium",
+      "province": "哈尔科夫州",
+      "latitude": 49.207,
+      "longitude": 37.2768,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Nova Darnytsya",
+      "province": "Kyiv City",
+      "latitude": 50.4241,
+      "longitude": 30.6558,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Rovenky",
+      "province": "卢甘斯克州",
+      "latitude": 48.0833,
+      "longitude": 39.3776,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Pivnichna Saltivka",
+      "province": "哈尔科夫州",
+      "latitude": 50.0451,
+      "longitude": 36.3591,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Marhanets",
+      "province": "Dnipropetrovsk",
+      "latitude": 47.6309,
+      "longitude": 34.6245,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Brianka",
+      "province": "卢甘斯克州",
+      "latitude": 48.511,
+      "longitude": 38.6722,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "卢布尼",
+      "name_en": "Lubny",
+      "province": "波尔塔瓦州",
+      "latitude": 50.0141,
+      "longitude": 32.9997,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "新卡霍夫卡",
+      "name_en": "Nova Kakhovka",
+      "province": "赫尔松州",
+      "latitude": 46.7597,
+      "longitude": 33.3559,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "法斯蒂夫",
+      "name_en": "Fastiv",
+      "province": "基辅州",
+      "latitude": 50.0767,
+      "longitude": 29.9177,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Molodizhnyi",
+      "province": "波尔塔瓦州",
+      "latitude": 49.1504,
+      "longitude": 33.4305,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Svitlovodsk",
+      "province": "基洛夫格勒州",
+      "latitude": 49.0629,
+      "longitude": 33.2458,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "维什涅韦",
+      "name_en": "Vyshneve",
+      "province": "基辅州",
+      "latitude": 50.3891,
+      "longitude": 30.3705,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Bucha",
+      "province": "基辅州",
+      "latitude": 50.5434,
+      "longitude": 30.212,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Zhovti Vody",
+      "province": "Dnipropetrovsk",
+      "latitude": 48.3452,
+      "longitude": 33.4974,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Varash",
+      "province": "Rivne",
+      "latitude": 51.3404,
+      "longitude": 25.8555,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Dzhankoi",
+      "province": "克里米亚自治共和国",
+      "latitude": 45.7131,
+      "longitude": 34.3927,
+      "timezone": "Europe/Simferopol"
+    },
+    {
+      "name": "",
+      "name_en": "Shepetivka",
+      "province": "赫梅利尼茨基州",
+      "latitude": 50.1812,
+      "longitude": 27.0652,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Khanzhenkove",
+      "province": "顿涅茨克州",
+      "latitude": 48.0945,
+      "longitude": 38.0755,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Mostytskyi Masyv",
+      "province": "Kyiv City",
+      "latitude": 50.5023,
+      "longitude": 30.4412,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Novyi Lviv",
+      "province": "利沃夫州",
+      "latitude": 49.8152,
+      "longitude": 24.0317,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "米尔哥罗德",
+      "name_en": "Myrhorod",
+      "province": "波尔塔瓦州",
+      "latitude": 49.9646,
+      "longitude": 33.6086,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Pivnichni Osokorky",
+      "province": "Kyiv City",
+      "latitude": 50.3932,
+      "longitude": 30.613,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Podilsk",
+      "province": "敖德萨州",
+      "latitude": 48.5036,
+      "longitude": 32.2803,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Pivdennoukrainsk",
+      "province": "尼古拉耶夫州",
+      "latitude": 47.8288,
+      "longitude": 31.1751,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "罗姆内",
+      "name_en": "Romny",
+      "province": "苏梅州",
+      "latitude": 50.751,
+      "longitude": 33.4747,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Kurenivka",
+      "province": "Kyiv City",
+      "latitude": 50.4937,
+      "longitude": 30.471,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Volodymyr-Volynskyi",
+      "province": "沃伦州",
+      "latitude": 50.8503,
+      "longitude": 24.3212,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Pivnichno-Brovarskyi Masyv",
+      "province": "Kyiv City",
+      "latitude": 50.463,
+      "longitude": 30.617,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "亚西努瓦塔",
+      "name_en": "Yasynuvata",
+      "province": "顿涅茨克州",
+      "latitude": 48.1298,
+      "longitude": 37.8594,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Pokrov",
+      "province": "Dnipropetrovsk",
+      "latitude": 47.6536,
+      "longitude": 34.1149,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "杜布诺",
+      "name_en": "Dubno",
+      "province": "Rivne",
+      "latitude": 50.4075,
+      "longitude": 25.7624,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "瓦西里基夫",
+      "name_en": "Vasylkiv",
+      "province": "基辅州",
+      "latitude": 50.1869,
+      "longitude": 30.3135,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Chuhuiv",
+      "province": "哈尔科夫州",
+      "latitude": 49.8354,
+      "longitude": 36.6865,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Netishyn",
+      "province": "赫梅利尼茨基州",
+      "latitude": 50.3286,
+      "longitude": 26.6487,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Pervomaisk",
+      "province": "卢甘斯克州",
+      "latitude": 48.0448,
+      "longitude": 30.8478,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "卡霍夫卡",
+      "name_en": "Kakhovka",
+      "province": "赫尔松州",
+      "latitude": 46.816,
+      "longitude": 33.4786,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "阿夫迪夫卡",
+      "name_en": "Avdiivka",
+      "province": "顿涅茨克州",
+      "latitude": 48.1402,
+      "longitude": 37.7501,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Vyshhorodskyi Masyv",
+      "province": "Kyiv City",
+      "latitude": 50.5098,
+      "longitude": 30.4535,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "斯拉武塔",
+      "name_en": "Slavuta",
+      "province": "赫梅利尼茨基州",
+      "latitude": 50.2961,
+      "longitude": 26.8661,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Rayduzhnyi Masyv",
+      "province": "Kyiv City",
+      "latitude": 50.4855,
+      "longitude": 30.5857,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Zhmerynka",
+      "province": "文尼察州",
+      "latitude": 49.0352,
+      "longitude": 28.114,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Boiarka",
+      "province": "基辅州",
+      "latitude": 50.3191,
+      "longitude": 30.2973,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Starokostyantyniv",
+      "province": "赫梅利尼茨基州",
+      "latitude": 49.7552,
+      "longitude": 27.2123,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "桑博尔",
+      "name_en": "Sambir",
+      "province": "利沃夫州",
+      "latitude": 49.5162,
+      "longitude": 23.2013,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "沃兹涅先斯克",
+      "name_en": "Voznesensk",
+      "province": "尼古拉耶夫州",
+      "latitude": 47.5622,
+      "longitude": 31.336,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Pivdenne",
+      "province": "敖德萨州",
+      "latitude": 46.6247,
+      "longitude": 31.1018,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "鲍里斯拉夫",
+      "name_en": "Boryslav",
+      "province": "利沃夫州",
+      "latitude": 49.29,
+      "longitude": 23.4289,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Vidradnyi",
+      "province": "Kyiv City",
+      "latitude": 50.4319,
+      "longitude": 30.4223,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Podil",
+      "province": "波尔塔瓦州",
+      "latitude": 49.6039,
+      "longitude": 34.5944,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "格卢霍夫",
+      "name_en": "Hlukhiv",
+      "province": "苏梅州",
+      "latitude": 51.6782,
+      "longitude": 33.9162,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "奥布希夫",
+      "name_en": "Obukhiv",
+      "province": "基辅州",
+      "latitude": 50.1069,
+      "longitude": 30.6185,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Novoyavorivs'k",
+      "province": "利沃夫州",
+      "latitude": 49.9302,
+      "longitude": 23.5736,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Toretsk",
+      "province": "顿涅茨克州",
+      "latitude": 48.3948,
+      "longitude": 37.8478,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Kostopil",
+      "province": "Rivne",
+      "latitude": 50.8773,
+      "longitude": 26.448,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Yany Kapu",
+      "province": "克里米亚自治共和国",
+      "latitude": 45.9555,
+      "longitude": 33.7926,
+      "timezone": "Europe/Simferopol"
+    },
+    {
+      "name": "",
+      "name_en": "Mohyliv-Podilskyy",
+      "province": "文尼察州",
+      "latitude": 48.4428,
+      "longitude": 27.7997,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Synelnykove",
+      "province": "Dnipropetrovsk",
+      "latitude": 48.3236,
+      "longitude": 35.5261,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Bilychi",
+      "province": "Kyiv City",
+      "latitude": 50.4654,
+      "longitude": 30.3465,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Demiyivka",
+      "province": "Kyiv City",
+      "latitude": 50.4021,
+      "longitude": 30.5156,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Minskyi Masyv",
+      "province": "Kyiv City",
+      "latitude": 50.5179,
+      "longitude": 30.4632,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Syrets",
+      "province": "Kyiv City",
+      "latitude": 50.4796,
+      "longitude": 30.4449,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Alushta",
+      "province": "克里米亚自治共和国",
+      "latitude": 44.6773,
+      "longitude": 34.4097,
+      "timezone": "Europe/Simferopol"
+    },
+    {
+      "name": "托克马克",
+      "name_en": "Tokmak",
+      "province": "扎波罗热州",
+      "latitude": 47.2555,
+      "longitude": 35.7084,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "萨尔内",
+      "name_en": "Sarny",
+      "province": "Rivne",
+      "latitude": 51.339,
+      "longitude": 26.6069,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Zlatopil",
+      "province": "哈尔科夫州",
+      "latitude": 49.3765,
+      "longitude": 36.2185,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Khust",
+      "province": "外喀尔巴阡州",
+      "latitude": 48.1719,
+      "longitude": 23.2979,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "乔尔特基夫",
+      "name_en": "Chortkiv",
+      "province": "捷尔诺波尔州",
+      "latitude": 49.017,
+      "longitude": 25.7981,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "萨基",
+      "name_en": "Saki",
+      "province": "克里米亚自治共和国",
+      "latitude": 45.1342,
+      "longitude": 33.6,
+      "timezone": "Europe/Simferopol"
+    },
+    {
+      "name": "",
+      "name_en": "Novyi Rozdil",
+      "province": "利沃夫州",
+      "latitude": 49.4714,
+      "longitude": 24.1335,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "特鲁斯卡韦茨",
+      "name_en": "Truskavets",
+      "province": "利沃夫州",
+      "latitude": 49.2807,
+      "longitude": 23.5037,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Dobropillia",
+      "province": "顿涅茨克州",
+      "latitude": 48.4615,
+      "longitude": 37.0852,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Terny",
+      "province": "Dnipropetrovsk",
+      "latitude": 48.1451,
+      "longitude": 33.5583,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "佐洛托诺沙",
+      "name_en": "Zolotonosha",
+      "province": "切尔卡瑟州",
+      "latitude": 49.6693,
+      "longitude": 32.0364,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Khmilnyk",
+      "province": "文尼察州",
+      "latitude": 49.5581,
+      "longitude": 27.9568,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Shakhtarske",
+      "province": "Dnipropetrovsk",
+      "latitude": 48.3479,
+      "longitude": 36.3964,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Bakhchysarai",
+      "province": "克里米亚自治共和国",
+      "latitude": 44.7552,
+      "longitude": 33.8578,
+      "timezone": "Europe/Simferopol"
+    },
+    {
+      "name": "",
+      "name_en": "Rusanivka",
+      "province": "Kyiv City",
+      "latitude": 50.44,
+      "longitude": 30.5968,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Khrestivka",
+      "province": "顿涅茨克州",
+      "latitude": 48.1492,
+      "longitude": 38.3594,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "库皮扬斯克",
+      "name_en": "Kupiansk",
+      "province": "哈尔科夫州",
+      "latitude": 49.71,
+      "longitude": 37.6158,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Ternivka",
+      "province": "Dnipropetrovsk",
+      "latitude": 48.5266,
+      "longitude": 36.0705,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Holubivka",
+      "province": "卢甘斯克州",
+      "latitude": 48.6375,
+      "longitude": 38.6428,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "巴拉克利亚",
+      "name_en": "Balakliia",
+      "province": "哈尔科夫州",
+      "latitude": 49.456,
+      "longitude": 36.8443,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Pereiaslav",
+      "province": "基辅州",
+      "latitude": 50.0674,
+      "longitude": 31.4497,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Stara Darnytsya",
+      "province": "Kyiv City",
+      "latitude": 50.4333,
+      "longitude": 30.6333,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "索菲伊夫斯卡博尔夏希夫卡",
+      "name_en": "Sofiivska Borschahivka",
+      "province": "基辅州",
+      "latitude": 50.4093,
+      "longitude": 30.3591,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Haysyn",
+      "province": "文尼察州",
+      "latitude": 48.8129,
+      "longitude": 29.3792,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "维诺吉拉季夫",
+      "name_en": "Vynohradiv",
+      "province": "外喀尔巴阡州",
+      "latitude": 48.1413,
+      "longitude": 23.0362,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "马林",
+      "name_en": "Malyn",
+      "province": "Zhytomyr",
+      "latitude": 50.7676,
+      "longitude": 29.2422,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "古いキエフ",
+      "name_en": "Stare Misto",
+      "province": "Kyiv City",
+      "latitude": 50.4476,
+      "longitude": 30.5264,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Perevalsk",
+      "province": "卢甘斯克州",
+      "latitude": 48.4378,
+      "longitude": 38.8438,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Oleshky",
+      "province": "赫尔松州",
+      "latitude": 46.6255,
+      "longitude": 32.7243,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Zdolbuniv",
+      "province": "Rivne",
+      "latitude": 50.5221,
+      "longitude": 26.2482,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "斯拉夫蒂奇",
+      "name_en": "Slavutych",
+      "province": "基辅州",
+      "latitude": 51.5225,
+      "longitude": 30.7181,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Armyansk",
+      "province": "克里米亚自治共和国",
+      "latitude": 46.1092,
+      "longitude": 33.6921,
+      "timezone": "Europe/Simferopol"
+    },
+    {
+      "name": "",
+      "name_en": "Debaltseve",
+      "province": "顿涅茨克州",
+      "latitude": 48.338,
+      "longitude": 38.4024,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "科罗斯特希夫",
+      "name_en": "Korostyshiv",
+      "province": "Zhytomyr",
+      "latitude": 50.3169,
+      "longitude": 29.0577,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Krolevets",
+      "province": "苏梅州",
+      "latitude": 51.5478,
+      "longitude": 33.3847,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "列别金",
+      "name_en": "Lebedyn",
+      "province": "苏梅州",
+      "latitude": 50.5852,
+      "longitude": 34.4849,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Pisochyn",
+      "province": "哈尔科夫州",
+      "latitude": 49.9564,
+      "longitude": 36.1084,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "卡尼夫",
+      "name_en": "Kaniv",
+      "province": "切尔卡瑟州",
+      "latitude": 49.7519,
+      "longitude": 31.47,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Hadyach",
+      "province": "波尔塔瓦州",
+      "latitude": 50.3691,
+      "longitude": 33.997,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "别列戈沃",
+      "name_en": "Berehove",
+      "province": "外喀尔巴阡州",
+      "latitude": 48.2051,
+      "longitude": 22.6445,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Koziatyn",
+      "province": "文尼察州",
+      "latitude": 49.7164,
+      "longitude": 28.8386,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "布罗德",
+      "name_en": "Brody",
+      "province": "利沃夫州",
+      "latitude": 50.0885,
+      "longitude": 25.1461,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Dokuchaievsk",
+      "province": "顿涅茨克州",
+      "latitude": 47.7522,
+      "longitude": 37.6776,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "佐洛乔夫",
+      "name_en": "Zolochiv",
+      "province": "利沃夫州",
+      "latitude": 49.8074,
+      "longitude": 24.9038,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "纳德沃尔纳亚",
+      "name_en": "Nadvirna",
+      "province": "伊万诺-弗兰科夫斯克州",
+      "latitude": 48.6366,
+      "longitude": 24.5714,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Ladyzhyn",
+      "province": "文尼察州",
+      "latitude": 48.6844,
+      "longitude": 29.2364,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Molodohvardiisk",
+      "province": "卢甘斯克州",
+      "latitude": 48.3451,
+      "longitude": 39.6524,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Znamyanka",
+      "province": "基洛夫格勒州",
+      "latitude": 48.7207,
+      "longitude": 32.6582,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Ihren",
+      "province": "Dnipropetrovsk",
+      "latitude": 48.4761,
+      "longitude": 35.1584,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Vyshhorod",
+      "province": "基辅州",
+      "latitude": 50.5848,
+      "longitude": 30.4898,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Vilnohirsk",
+      "province": "Dnipropetrovsk",
+      "latitude": 48.4842,
+      "longitude": 34.0171,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "谢利多韦",
+      "name_en": "Selydove",
+      "province": "顿涅茨克州",
+      "latitude": 48.1445,
+      "longitude": 37.3006,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "克拉斯诺赫拉德",
+      "name_en": "Berestyn",
+      "province": "哈尔科夫州",
+      "latitude": 49.3751,
+      "longitude": 35.4549,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Bilohorodka",
+      "province": "基辅州",
+      "latitude": 50.3897,
+      "longitude": 30.2253,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "梅列法",
+      "name_en": "Merefa",
+      "province": "哈尔科夫州",
+      "latitude": 49.8186,
+      "longitude": 36.0565,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "沃尔诺瓦哈",
+      "name_en": "Volnovakha",
+      "province": "顿涅茨克州",
+      "latitude": 47.6016,
+      "longitude": 37.4971,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Kremenets",
+      "province": "捷尔诺波尔州",
+      "latitude": 50.0986,
+      "longitude": 25.7279,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Teremky",
+      "province": "Kyiv City",
+      "latitude": 50.3705,
+      "longitude": 30.4588,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Polonne",
+      "province": "赫梅利尼茨基州",
+      "latitude": 50.1194,
+      "longitude": 27.5086,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Kurakhovo",
+      "province": "顿涅茨克州",
+      "latitude": 47.9852,
+      "longitude": 37.2821,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "多利纳",
+      "name_en": "Dolyna",
+      "province": "伊万诺-弗兰科夫斯克州",
+      "latitude": 48.9716,
+      "longitude": 23.9656,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Sukhodilsk",
+      "province": "卢甘斯克州",
+      "latitude": 48.3502,
+      "longitude": 39.727,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Sokal",
+      "province": "利沃夫州",
+      "latitude": 50.4745,
+      "longitude": 24.2809,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Stebnyk",
+      "province": "利沃夫州",
+      "latitude": 49.301,
+      "longitude": 23.552,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "红利曼",
+      "name_en": "Lyman",
+      "province": "顿涅茨克州",
+      "latitude": 48.9862,
+      "longitude": 37.8031,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Liubotyn",
+      "province": "哈尔科夫州",
+      "latitude": 49.9469,
+      "longitude": 35.9291,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Saperna Slobidka",
+      "province": "Kyiv City",
+      "latitude": 50.4008,
+      "longitude": 30.5349,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Zhuravlivka",
+      "province": "哈尔科夫州",
+      "latitude": 50.0125,
+      "longitude": 36.2721,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "基夫沙里夫卡",
+      "name_en": "Kivsharivka",
+      "province": "哈尔科夫州",
+      "latitude": 49.6303,
+      "longitude": 37.6775,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Trostianets",
+      "province": "苏梅州",
+      "latitude": 50.4848,
+      "longitude": 34.9657,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "基利亚",
+      "name_en": "Kiliya",
+      "province": "敖德萨州",
+      "latitude": 45.4445,
+      "longitude": 29.264,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Henichesk",
+      "province": "赫尔松州",
+      "latitude": 46.1682,
+      "longitude": 34.8086,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "波帕斯纳",
+      "name_en": "Popasna",
+      "province": "卢甘斯克州",
+      "latitude": 48.6333,
+      "longitude": 38.378,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Pidhorodne",
+      "province": "Dnipropetrovsk",
+      "latitude": 48.5742,
+      "longitude": 35.097,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Vynnyky",
+      "province": "利沃夫州",
+      "latitude": 49.8167,
+      "longitude": 24.1442,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Yahotyn",
+      "province": "基辅州",
+      "latitude": 50.2797,
+      "longitude": 31.7625,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Krasyliv",
+      "province": "赫梅利尼茨基州",
+      "latitude": 49.6538,
+      "longitude": 26.9721,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Balaklava",
+      "province": "Sevastopol City",
+      "latitude": 44.5112,
+      "longitude": 33.5994,
+      "timezone": "Europe/Simferopol"
+    },
+    {
+      "name": "列尼",
+      "name_en": "Reni",
+      "province": "敖德萨州",
+      "latitude": 45.4542,
+      "longitude": 28.2773,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "巴尔塔",
+      "name_en": "Balta",
+      "province": "敖德萨州",
+      "latitude": 47.936,
+      "longitude": 29.6223,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "卡利尼夫卡",
+      "name_en": "Kalynivka",
+      "province": "文尼察州",
+      "latitude": 49.4613,
+      "longitude": 28.5154,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "沃洛奇斯克",
+      "name_en": "Volochysk",
+      "province": "赫梅利尼茨基州",
+      "latitude": 49.5361,
+      "longitude": 26.2068,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Hostomel",
+      "province": "基辅州",
+      "latitude": 50.5684,
+      "longitude": 30.2651,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Dolynska",
+      "province": "基洛夫格勒州",
+      "latitude": 48.1172,
+      "longitude": 32.7769,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "库拉霍韦",
+      "name_en": "Kurakhove",
+      "province": "顿涅茨克州",
+      "latitude": 47.9847,
+      "longitude": 37.2794,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "皮亚季哈特基",
+      "name_en": "Pyatykhatky",
+      "province": "Dnipropetrovsk",
+      "latitude": 48.4082,
+      "longitude": 33.7092,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "克列缅纳亚",
+      "name_en": "Kreminna",
+      "province": "卢甘斯克州",
+      "latitude": 49.0495,
+      "longitude": 38.2189,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "波洛吉",
+      "name_en": "Polohy",
+      "province": "扎波罗热州",
+      "latitude": 47.4787,
+      "longitude": 36.2546,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Klov",
+      "province": "Kyiv City",
+      "latitude": 50.4349,
+      "longitude": 30.5381,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Zhulyany",
+      "province": "Kyiv City",
+      "latitude": 50.3943,
+      "longitude": 30.4406,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Amvrosiivka",
+      "province": "顿涅茨克州",
+      "latitude": 47.7927,
+      "longitude": 38.4782,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Velyka Kokhnivka",
+      "province": "波尔塔瓦州",
+      "latitude": 49.1172,
+      "longitude": 33.4803,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Skadovsk",
+      "province": "赫尔松州",
+      "latitude": 46.1131,
+      "longitude": 32.9098,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Pelahiivka",
+      "province": "顿涅茨克州",
+      "latitude": 48.1075,
+      "longitude": 38.6134,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "祖赫雷斯",
+      "name_en": "Zuhres",
+      "province": "顿涅茨克州",
+      "latitude": 48.0143,
+      "longitude": 38.266,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Rozdilna",
+      "province": "敖德萨州",
+      "latitude": 46.8548,
+      "longitude": 30.0709,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "博霍杜希夫",
+      "name_en": "Bohodukhiv",
+      "province": "哈尔科夫州",
+      "latitude": 50.1646,
+      "longitude": 35.5273,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Korsun-Shevchenkivskyy",
+      "province": "切尔卡瑟州",
+      "latitude": 49.4182,
+      "longitude": 31.2517,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Dniprorudne",
+      "province": "扎波罗热州",
+      "latitude": 47.3899,
+      "longitude": 35.0007,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Berezhany",
+      "province": "捷尔诺波尔州",
+      "latitude": 49.4458,
+      "longitude": 24.9369,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "科秋宾斯凯",
+      "name_en": "Kotsiubynske",
+      "province": "Kyiv City",
+      "latitude": 50.4884,
+      "longitude": 30.3296,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Vovchansk",
+      "province": "哈尔科夫州",
+      "latitude": 50.2908,
+      "longitude": 36.9411,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "斯克维拉",
+      "name_en": "Skvyra",
+      "province": "基辅州",
+      "latitude": 49.733,
+      "longitude": 29.6643,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "杰尔加奇",
+      "name_en": "Derhachi",
+      "province": "哈尔科夫州",
+      "latitude": 50.1066,
+      "longitude": 36.1211,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Svalyava",
+      "province": "外喀尔巴阡州",
+      "latitude": 48.5474,
+      "longitude": 22.9867,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "卢图吉诺",
+      "name_en": "Lutuhyne",
+      "province": "卢甘斯克州",
+      "latitude": 48.4051,
+      "longitude": 39.2268,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Galagany",
+      "province": "Kyiv City",
+      "latitude": 50.4554,
+      "longitude": 30.4023,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Lypky",
+      "province": "Kyiv City",
+      "latitude": 50.443,
+      "longitude": 30.5304,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Zvirynets",
+      "province": "Kyiv City",
+      "latitude": 50.4163,
+      "longitude": 30.5492,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Katerynivka",
+      "province": "卢甘斯克州",
+      "latitude": 48.5559,
+      "longitude": 39.1828,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Mostyska",
+      "province": "利沃夫州",
+      "latitude": 49.7947,
+      "longitude": 23.1508,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Bakhmach",
+      "province": "切尔尼戈夫州",
+      "latitude": 51.1814,
+      "longitude": 32.8346,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Shpola",
+      "province": "切尔卡瑟州",
+      "latitude": 49.0129,
+      "longitude": 31.3926,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Sudak",
+      "province": "克里米亚自治共和国",
+      "latitude": 44.8492,
+      "longitude": 34.9747,
+      "timezone": "Europe/Simferopol"
+    },
+    {
+      "name": "兹韦尼戈罗德卡",
+      "name_en": "Zvenihorodka",
+      "province": "切尔卡瑟州",
+      "latitude": 49.0776,
+      "longitude": 30.9607,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Novoukrayinka",
+      "province": "基洛夫格勒州",
+      "latitude": 48.3166,
+      "longitude": 31.5236,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Bilohirsk",
+      "province": "克里米亚自治共和国",
+      "latitude": 45.0568,
+      "longitude": 34.6039,
+      "timezone": "Europe/Simferopol"
+    },
+    {
+      "name": "",
+      "name_en": "Berezan",
+      "province": "基辅州",
+      "latitude": 50.3112,
+      "longitude": 31.4671,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Svyatopetrivske",
+      "province": "基辅州",
+      "latitude": 50.3821,
+      "longitude": 30.3228,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Iziaslav",
+      "province": "赫梅利尼茨基州",
+      "latitude": 50.1198,
+      "longitude": 26.8248,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "斯瓦托韦",
+      "name_en": "Svatove",
+      "province": "卢甘斯克州",
+      "latitude": 49.4072,
+      "longitude": 38.1536,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Kybalchych",
+      "province": "Kyiv City",
+      "latitude": 50.4929,
+      "longitude": 30.5976,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Horodok",
+      "province": "赫梅利尼茨基州",
+      "latitude": 49.1721,
+      "longitude": 26.5636,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Horodok",
+      "province": "利沃夫州",
+      "latitude": 49.1721,
+      "longitude": 26.5636,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Starobilsk",
+      "province": "卢甘斯克州",
+      "latitude": 49.2772,
+      "longitude": 38.9167,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "阿波斯托洛韦",
+      "name_en": "Apostolove",
+      "province": "Dnipropetrovsk",
+      "latitude": 47.6598,
+      "longitude": 33.7195,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "科姆索莫利西克",
+      "name_en": "Slobozhans’ke",
+      "province": "哈尔科夫州",
+      "latitude": 49.597,
+      "longitude": 36.5262,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Bohuslav",
+      "province": "基辅州",
+      "latitude": 49.5464,
+      "longitude": 30.8741,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Bahacheve",
+      "province": "切尔卡瑟州",
+      "latitude": 49.012,
+      "longitude": 31.0466,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "杜纳伊夫齐",
+      "name_en": "Dunayivtsi",
+      "province": "赫梅利尼茨基州",
+      "latitude": 48.887,
+      "longitude": 26.8482,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Rakhiv",
+      "province": "外喀尔巴阡州",
+      "latitude": 48.0547,
+      "longitude": 24.2031,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Bilopillia",
+      "province": "苏梅州",
+      "latitude": 51.1502,
+      "longitude": 34.3129,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Bortnychi",
+      "province": "Kyiv City",
+      "latitude": 50.3849,
+      "longitude": 30.6954,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Verkhnodniprovsk",
+      "province": "Dnipropetrovsk",
+      "latitude": 48.6556,
+      "longitude": 34.3262,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Ilovays’k",
+      "province": "顿涅茨克州",
+      "latitude": 47.925,
+      "longitude": 38.2024,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "巴尔",
+      "name_en": "Bar",
+      "province": "文尼察州",
+      "latitude": 49.0736,
+      "longitude": 27.674,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "奥夫鲁奇",
+      "name_en": "Ovruch",
+      "province": "Zhytomyr",
+      "latitude": 51.3274,
+      "longitude": 28.8016,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Radomyshl",
+      "province": "Zhytomyr",
+      "latitude": 50.4962,
+      "longitude": 29.23,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Chervonopartyzansk",
+      "province": "卢甘斯克州",
+      "latitude": 48.0761,
+      "longitude": 39.7962,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "博尔赫拉德",
+      "name_en": "Bolhrad",
+      "province": "敖德萨州",
+      "latitude": 45.6779,
+      "longitude": 28.6181,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Vilnyansk",
+      "province": "扎波罗热州",
+      "latitude": 47.9477,
+      "longitude": 35.4403,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Tulchyn",
+      "province": "文尼察州",
+      "latitude": 48.674,
+      "longitude": 28.8685,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Abakumova",
+      "province": "顿涅茨克州",
+      "latitude": 48.0022,
+      "longitude": 37.5972,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Darnytsya Car Repair Plant Microdistrict",
+      "province": "Kyiv City",
+      "latitude": 50.4495,
+      "longitude": 30.6761,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Livoberezhnyi Masyv",
+      "province": "Kyiv City",
+      "latitude": 50.4554,
+      "longitude": 30.5897,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Pyriatyn",
+      "province": "波尔塔瓦州",
+      "latitude": 50.2439,
+      "longitude": 32.5203,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Novyy Buh",
+      "province": "尼古拉耶夫州",
+      "latitude": 47.6906,
+      "longitude": 32.5121,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "奥斯特罗赫",
+      "name_en": "Ostroh",
+      "province": "Rivne",
+      "latitude": 50.329,
+      "longitude": 26.5211,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Putyvl",
+      "province": "苏梅州",
+      "latitude": 51.3374,
+      "longitude": 33.8707,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Prydniprovsk",
+      "province": "Dnipropetrovsk",
+      "latitude": 48.413,
+      "longitude": 35.13,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "琥珀",
+      "name_en": "Burshtyn",
+      "province": "伊万诺-弗兰科夫斯克州",
+      "latitude": 49.2519,
+      "longitude": 24.6334,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Krasnohorivka",
+      "province": "顿涅茨克州",
+      "latitude": 48.0053,
+      "longitude": 37.5084,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Belozyorskoye",
+      "province": "顿涅茨克州",
+      "latitude": 48.5337,
+      "longitude": 37.0627,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "海沃龙",
+      "name_en": "Hayvoron",
+      "province": "基洛夫格勒州",
+      "latitude": 48.3432,
+      "longitude": 29.8659,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Mykolaiv",
+      "province": "利沃夫州",
+      "latitude": 46.9763,
+      "longitude": 31.993,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Orikhiv",
+      "province": "扎波罗热州",
+      "latitude": 47.5761,
+      "longitude": 35.7833,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "卡尔利夫卡",
+      "name_en": "Karlivka",
+      "province": "波尔塔瓦州",
+      "latitude": 49.4555,
+      "longitude": 35.1349,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "诺夫霍罗德-锡韦尔斯基",
+      "name_en": "Novhorod-Siverskyi",
+      "province": "切尔尼戈夫州",
+      "latitude": 52.0068,
+      "longitude": 33.2634,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Tetiiv",
+      "province": "基辅州",
+      "latitude": 49.3695,
+      "longitude": 29.6779,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "阿尔齐兹",
+      "name_en": "Artsyz",
+      "province": "敖德萨州",
+      "latitude": 45.9853,
+      "longitude": 29.4329,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "下克伦卡",
+      "name_en": "Nyzhnia Krynka",
+      "province": "顿涅茨克州",
+      "latitude": 48.1138,
+      "longitude": 38.1596,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Koriukivka",
+      "province": "切尔尼戈夫州",
+      "latitude": 51.7746,
+      "longitude": 32.2475,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Mykolaivka",
+      "province": "顿涅茨克州",
+      "latitude": 48.8546,
+      "longitude": 37.7728,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Storozhynets",
+      "province": "Chernivtsi",
+      "latitude": 48.1594,
+      "longitude": 25.7214,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Vuhledar",
+      "province": "顿涅茨克州",
+      "latitude": 47.7797,
+      "longitude": 37.2499,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Novohrodivka",
+      "province": "顿涅茨克州",
+      "latitude": 48.2014,
+      "longitude": 37.3394,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Levada",
+      "province": "波尔塔瓦州",
+      "latitude": 49.5692,
+      "longitude": 34.5806,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Velykodolynske",
+      "province": "敖德萨州",
+      "latitude": 46.3464,
+      "longitude": 30.579,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Zhovkva",
+      "province": "利沃夫州",
+      "latitude": 50.0575,
+      "longitude": 23.9735,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "博罗江卡",
+      "name_en": "Borodianka",
+      "province": "基辅州",
+      "latitude": 50.6448,
+      "longitude": 29.9201,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Kivertsi",
+      "province": "沃伦州",
+      "latitude": 50.8352,
+      "longitude": 25.456,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Zbarazh",
+      "province": "捷尔诺波尔州",
+      "latitude": 49.6616,
+      "longitude": 25.7793,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Zmiiv",
+      "province": "哈尔科夫州",
+      "latitude": 49.6889,
+      "longitude": 36.3576,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "奥恰基夫",
+      "name_en": "Ochakiv",
+      "province": "尼古拉耶夫州",
+      "latitude": 46.6147,
+      "longitude": 31.545,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Ukrainka",
+      "province": "基辅州",
+      "latitude": 50.1432,
+      "longitude": 30.7461,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Horodyshche",
+      "province": "切尔卡瑟州",
+      "latitude": 49.2911,
+      "longitude": 31.4403,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Slobozhanske",
+      "province": "Dnipropetrovsk",
+      "latitude": 49.597,
+      "longitude": 36.5262,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "新敖德萨",
+      "name_en": "Nova Odesa",
+      "province": "尼古拉耶夫州",
+      "latitude": 47.3127,
+      "longitude": 31.7697,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Hola Prystan",
+      "province": "赫尔松州",
+      "latitude": 46.5297,
+      "longitude": 32.5241,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Bunhe",
+      "province": "顿涅茨克州",
+      "latitude": 48.2214,
+      "longitude": 38.2837,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Hulyaypole",
+      "province": "扎波罗热州",
+      "latitude": 47.6668,
+      "longitude": 36.2558,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Terebovlia",
+      "province": "捷尔诺波尔州",
+      "latitude": 49.2997,
+      "longitude": 25.6889,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Talne",
+      "province": "切尔卡瑟州",
+      "latitude": 48.8889,
+      "longitude": 30.6965,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Taromske",
+      "province": "Dnipropetrovsk",
+      "latitude": 48.4428,
+      "longitude": 34.7885,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Berezne",
+      "province": "Rivne",
+      "latitude": 51.0034,
+      "longitude": 26.7462,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Rozhyshche",
+      "province": "沃伦州",
+      "latitude": 50.9163,
+      "longitude": 25.2712,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Zhashkiv",
+      "province": "切尔卡瑟州",
+      "latitude": 49.2459,
+      "longitude": 30.0989,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Kaharlyk",
+      "province": "基辅州",
+      "latitude": 49.859,
+      "longitude": 30.8233,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Lymanka",
+      "province": "敖德萨州",
+      "latitude": 46.3856,
+      "longitude": 30.6774,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Zolote",
+      "province": "卢甘斯克州",
+      "latitude": 48.6952,
+      "longitude": 38.5151,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Khreshchatyi Yar",
+      "province": "Kyiv City",
+      "latitude": 50.4547,
+      "longitude": 30.5292,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Teremky-I",
+      "province": "Kyiv City",
+      "latitude": 50.3666,
+      "longitude": 30.4586,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Tarashcha",
+      "province": "基辅州",
+      "latitude": 49.5588,
+      "longitude": 30.4997,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Nosivka",
+      "province": "切尔尼戈夫州",
+      "latitude": 50.938,
+      "longitude": 31.5803,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "亚沃里夫",
+      "name_en": "Yavoriv",
+      "province": "利沃夫州",
+      "latitude": 49.9377,
+      "longitude": 23.3835,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Antonivka",
+      "province": "赫尔松州",
+      "latitude": 46.6767,
+      "longitude": 32.7306,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Zelenodolsk",
+      "province": "Dnipropetrovsk",
+      "latitude": 47.555,
+      "longitude": 33.6591,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "佩雷欣斯凯",
+      "name_en": "Perehinske",
+      "province": "伊万诺-弗兰科夫斯克州",
+      "latitude": 48.8112,
+      "longitude": 24.192,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Petrovske",
+      "province": "卢甘斯克州",
+      "latitude": 48.2966,
+      "longitude": 38.8789,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "格瓦尔季西克",
+      "name_en": "Hvardiiske",
+      "province": "克里米亚自治共和国",
+      "latitude": 45.1169,
+      "longitude": 34.0219,
+      "timezone": "Europe/Simferopol"
+    },
+    {
+      "name": "瓦西利夫卡",
+      "name_en": "Vasylivka",
+      "province": "扎波罗热州",
+      "latitude": 47.4422,
+      "longitude": 35.2821,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Primorskiy",
+      "province": "克里米亚自治共和国",
+      "latitude": 45.112,
+      "longitude": 35.4786,
+      "timezone": "Europe/Simferopol"
+    },
+    {
+      "name": "",
+      "name_en": "Khorol",
+      "province": "波尔塔瓦州",
+      "latitude": 49.7829,
+      "longitude": 33.2718,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Hatne",
+      "province": "基辅州",
+      "latitude": 50.3544,
+      "longitude": 30.375,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "别利亚耶夫卡",
+      "name_en": "Bilyayivka",
+      "province": "敖德萨州",
+      "latitude": 46.4843,
+      "longitude": 30.2089,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "贝里斯拉夫",
+      "name_en": "Beryslav",
+      "province": "赫尔松州",
+      "latitude": 46.8385,
+      "longitude": 33.4266,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Solonytsivka",
+      "province": "哈尔科夫州",
+      "latitude": 49.9968,
+      "longitude": 36.0346,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Stanytsia Luhanska",
+      "province": "卢甘斯克州",
+      "latitude": 48.6625,
+      "longitude": 39.4836,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Chasiv Yar",
+      "province": "顿涅茨克州",
+      "latitude": 48.5936,
+      "longitude": 37.8554,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Bershad",
+      "province": "文尼察州",
+      "latitude": 48.3635,
+      "longitude": 29.5146,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Hnivan",
+      "province": "文尼察州",
+      "latitude": 49.0939,
+      "longitude": 28.3378,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "巴什坦卡",
+      "name_en": "Bashtanka",
+      "province": "尼古拉耶夫州",
+      "latitude": 47.4053,
+      "longitude": 32.4344,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "布恰奇",
+      "name_en": "Buchach",
+      "province": "捷尔诺波尔州",
+      "latitude": 49.0623,
+      "longitude": 25.395,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Kotelva",
+      "province": "波尔塔瓦州",
+      "latitude": 50.0685,
+      "longitude": 34.747,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Kamyanka-Dniprovska",
+      "province": "扎波罗热州",
+      "latitude": 47.4963,
+      "longitude": 34.4103,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Snihurivka",
+      "province": "尼古拉耶夫州",
+      "latitude": 47.0765,
+      "longitude": 32.8197,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Chaiky",
+      "province": "基辅州",
+      "latitude": 50.4303,
+      "longitude": 30.2839,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Hrushky",
+      "province": "Kyiv City",
+      "latitude": 50.453,
+      "longitude": 30.4274,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Post-Volynskyi",
+      "province": "Kyiv City",
+      "latitude": 50.4169,
+      "longitude": 30.4279,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Mykhaylivka",
+      "province": "扎波罗热州",
+      "latitude": 47.2686,
+      "longitude": 35.2221,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Uzyn",
+      "province": "基辅州",
+      "latitude": 49.8246,
+      "longitude": 30.4252,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Zhdanivka",
+      "province": "顿涅茨克州",
+      "latitude": 48.1532,
+      "longitude": 38.2569,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Manevychi",
+      "province": "沃伦州",
+      "latitude": 51.2938,
+      "longitude": 25.5306,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Nemyriv",
+      "province": "文尼察州",
+      "latitude": 48.97,
+      "longitude": 28.8378,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Ovidiopol",
+      "province": "敖德萨州",
+      "latitude": 46.2472,
+      "longitude": 30.4375,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Kostiantynivka",
+      "province": "扎波罗热州",
+      "latitude": 48.5273,
+      "longitude": 37.7059,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Horodnia",
+      "province": "切尔尼戈夫州",
+      "latitude": 51.8913,
+      "longitude": 31.5963,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Kamyanka",
+      "province": "切尔卡瑟州",
+      "latitude": 49.0395,
+      "longitude": 32.1017,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Myrnyi",
+      "province": "Dnipropetrovsk",
+      "latitude": 48.3892,
+      "longitude": 35.0028,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Kal'mius'ke",
+      "province": "顿涅茨克州",
+      "latitude": 47.6639,
+      "longitude": 38.0775,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Vakhrusheve",
+      "province": "卢甘斯克州",
+      "latitude": 48.1512,
+      "longitude": 38.7804,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "夏斯季耶",
+      "name_en": "Shchastia",
+      "province": "卢甘斯克州",
+      "latitude": 48.7378,
+      "longitude": 39.2305,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Zymna Voda",
+      "province": "利沃夫州",
+      "latitude": 49.8263,
+      "longitude": 23.8822,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Illintsi",
+      "province": "文尼察州",
+      "latitude": 49.1054,
+      "longitude": 29.2059,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "巴拉尼夫卡",
+      "name_en": "Baranivka",
+      "province": "Zhytomyr",
+      "latitude": 50.2969,
+      "longitude": 27.6622,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Prymorsk",
+      "province": "扎波罗热州",
+      "latitude": 46.7341,
+      "longitude": 36.346,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Krasnogvardeyskoye",
+      "province": "克里米亚自治共和国",
+      "latitude": 45.5027,
+      "longitude": 34.3013,
+      "timezone": "Europe/Simferopol"
+    },
+    {
+      "name": "",
+      "name_en": "Svetlodarsk",
+      "province": "顿涅茨克州",
+      "latitude": 48.4337,
+      "longitude": 38.2233,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "米罗诺夫卡",
+      "name_en": "Myronivka",
+      "province": "基辅州",
+      "latitude": 49.6601,
+      "longitude": 30.9823,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Yakymivka",
+      "province": "扎波罗热州",
+      "latitude": 46.7011,
+      "longitude": 35.1633,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Novoazovs'k",
+      "province": "顿涅茨克州",
+      "latitude": 47.1139,
+      "longitude": 38.086,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Kamin-Kashyrskyi",
+      "province": "沃伦州",
+      "latitude": 51.6251,
+      "longitude": 24.9628,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Chernomorskoye",
+      "province": "克里米亚自治共和国",
+      "latitude": 45.5066,
+      "longitude": 32.6978,
+      "timezone": "Europe/Simferopol"
+    },
+    {
+      "name": "",
+      "name_en": "Lokhvytsya",
+      "province": "波尔塔瓦州",
+      "latitude": 50.3644,
+      "longitude": 33.2715,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Vysokyi",
+      "province": "哈尔科夫州",
+      "latitude": 49.8916,
+      "longitude": 36.1217,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Yampil",
+      "province": "文尼察州",
+      "latitude": 48.2406,
+      "longitude": 28.2814,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Mena",
+      "province": "切尔尼戈夫州",
+      "latitude": 51.5221,
+      "longitude": 32.2136,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Siversk",
+      "province": "顿涅茨克州",
+      "latitude": 48.8659,
+      "longitude": 38.0978,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Sosnivka",
+      "province": "利沃夫州",
+      "latitude": 50.2897,
+      "longitude": 24.2514,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "鞑靼布纳雷",
+      "name_en": "Tatarbunary",
+      "province": "敖德萨州",
+      "latitude": 45.8386,
+      "longitude": 29.6112,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Bobrynets",
+      "province": "基洛夫格勒州",
+      "latitude": 48.0567,
+      "longitude": 32.1655,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "新米尔霍罗德",
+      "name_en": "Novomyrhorod",
+      "province": "基洛夫格勒州",
+      "latitude": 48.8169,
+      "longitude": 31.6499,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Ukrainsk",
+      "province": "顿涅茨克州",
+      "latitude": 48.0978,
+      "longitude": 37.3653,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Novotroyitske",
+      "province": "赫尔松州",
+      "latitude": 46.3509,
+      "longitude": 34.3325,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Borshchiv",
+      "province": "捷尔诺波尔州",
+      "latitude": 48.8032,
+      "longitude": 26.0317,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Snovsk",
+      "province": "切尔尼戈夫州",
+      "latitude": 51.8167,
+      "longitude": 31.9425,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Shchyolkino",
+      "province": "克里米亚自治共和国",
+      "latitude": 45.4299,
+      "longitude": 35.8225,
+      "timezone": "Europe/Simferopol"
+    },
+    {
+      "name": "",
+      "name_en": "Novodnistrovsk",
+      "province": "Chernivtsi",
+      "latitude": 48.5832,
+      "longitude": 27.4366,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Bobrovytsia",
+      "province": "切尔尼戈夫州",
+      "latitude": 50.7456,
+      "longitude": 31.382,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Hrebinka",
+      "province": "波尔塔瓦州",
+      "latitude": 50.1202,
+      "longitude": 32.4297,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Soledar",
+      "province": "顿涅茨克州",
+      "latitude": 48.6908,
+      "longitude": 38.0743,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Mospyne",
+      "province": "顿涅茨克州",
+      "latitude": 47.8901,
+      "longitude": 38.0638,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "新沃多拉哈",
+      "name_en": "Nova Vodolaha",
+      "province": "哈尔科夫州",
+      "latitude": 49.7199,
+      "longitude": 35.8696,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Krasnoyilsk",
+      "province": "Chernivtsi",
+      "latitude": 48.0187,
+      "longitude": 25.56,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Radyvyliv",
+      "province": "Rivne",
+      "latitude": 50.1304,
+      "longitude": 25.2518,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Sovetskiy",
+      "province": "克里米亚自治共和国",
+      "latitude": 45.3427,
+      "longitude": 34.9246,
+      "timezone": "Europe/Simferopol"
+    },
+    {
+      "name": "",
+      "name_en": "Ichnia",
+      "province": "切尔尼戈夫州",
+      "latitude": 50.8591,
+      "longitude": 32.3913,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "科罗莱沃",
+      "name_en": "Korolevo",
+      "province": "外喀尔巴阡州",
+      "latitude": 48.1573,
+      "longitude": 23.1377,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "小维斯卡",
+      "name_en": "Mala Vyska",
+      "province": "基洛夫格勒州",
+      "latitude": 48.6469,
+      "longitude": 31.6323,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Valky",
+      "province": "哈尔科夫州",
+      "latitude": 49.836,
+      "longitude": 35.6122,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Hirnyk",
+      "province": "顿涅茨克州",
+      "latitude": 48.0573,
+      "longitude": 37.3716,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "日达乔夫",
+      "name_en": "Zhydachiv",
+      "province": "利沃夫州",
+      "latitude": 49.3832,
+      "longitude": 24.1392,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Letychiv",
+      "province": "赫梅利尼茨基州",
+      "latitude": 49.3801,
+      "longitude": 27.6189,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "哈斯普拉",
+      "name_en": "Gaspra",
+      "province": "克里米亚自治共和国",
+      "latitude": 44.4336,
+      "longitude": 34.103,
+      "timezone": "Europe/Simferopol"
+    },
+    {
+      "name": "",
+      "name_en": "Liuboml",
+      "province": "沃伦州",
+      "latitude": 51.2254,
+      "longitude": 24.0323,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Baryshivka",
+      "province": "基辅州",
+      "latitude": 50.361,
+      "longitude": 31.3217,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "韦尔霍夫采沃",
+      "name_en": "Verkhivtseve",
+      "province": "Dnipropetrovsk",
+      "latitude": 48.4813,
+      "longitude": 34.24,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "博列霍夫",
+      "name_en": "Bolekhiv",
+      "province": "伊万诺-弗兰科夫斯克州",
+      "latitude": 49.0648,
+      "longitude": 23.8595,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Oktyabr’skoye",
+      "province": "克里米亚自治共和国",
+      "latitude": 45.2887,
+      "longitude": 34.1352,
+      "timezone": "Europe/Simferopol"
+    },
+    {
+      "name": "",
+      "name_en": "Komyshova Bukhta",
+      "province": "Sevastopol City",
+      "latitude": 44.5844,
+      "longitude": 33.441,
+      "timezone": "Europe/Simferopol"
+    },
+    {
+      "name": "因克尔曼",
+      "name_en": "Inkerman",
+      "province": "Sevastopol City",
+      "latitude": 44.6139,
+      "longitude": 33.6098,
+      "timezone": "Europe/Simferopol"
+    },
+    {
+      "name": "",
+      "name_en": "Novooleksiyivka",
+      "province": "赫尔松州",
+      "latitude": 46.23,
+      "longitude": 34.6458,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Tavriysk",
+      "province": "赫尔松州",
+      "latitude": 46.7543,
+      "longitude": 33.4166,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Sartana",
+      "province": "顿涅茨克州",
+      "latitude": 47.177,
+      "longitude": 37.6927,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Olevsk",
+      "province": "Zhytomyr",
+      "latitude": 51.2248,
+      "longitude": 27.6523,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Akademmistechko",
+      "province": "Kyiv City",
+      "latitude": 50.4694,
+      "longitude": 30.3622,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Antyfiyivka",
+      "province": "Kyiv City",
+      "latitude": 50.4865,
+      "longitude": 30.4698,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Chorna Hora",
+      "province": "Kyiv City",
+      "latitude": 50.4106,
+      "longitude": 30.5452,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Lisovyi Masyv",
+      "province": "Kyiv City",
+      "latitude": 50.4725,
+      "longitude": 30.6311,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Shchemylivka",
+      "province": "波尔塔瓦州",
+      "latitude": 49.0755,
+      "longitude": 33.3996,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Tretiy Zanasyp",
+      "province": "波尔塔瓦州",
+      "latitude": 49.0808,
+      "longitude": 33.4555,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "伊万基夫",
+      "name_en": "Ivankiv",
+      "province": "基辅州",
+      "latitude": 50.9387,
+      "longitude": 29.8943,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "波科蒂利夫卡",
+      "name_en": "Pokotylivka",
+      "province": "哈尔科夫州",
+      "latitude": 49.9134,
+      "longitude": 36.1751,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "捷普洛达尔",
+      "name_en": "Teplodar",
+      "province": "敖德萨州",
+      "latitude": 46.502,
+      "longitude": 30.3226,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Sniatyn",
+      "province": "伊万诺-弗兰科夫斯克州",
+      "latitude": 48.4488,
+      "longitude": 25.5599,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "杜博韦",
+      "name_en": "Dubove",
+      "province": "外喀尔巴阡州",
+      "latitude": 48.1747,
+      "longitude": 23.8869,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Khrystynivka",
+      "province": "切尔卡瑟州",
+      "latitude": 48.8128,
+      "longitude": 29.9688,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Pokrovske",
+      "province": "Dnipropetrovsk",
+      "latitude": 47.9813,
+      "longitude": 36.2345,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Rodynske",
+      "province": "顿涅茨克州",
+      "latitude": 48.3541,
+      "longitude": 37.2064,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Gresovskiy",
+      "province": "克里米亚自治共和国",
+      "latitude": 45.008,
+      "longitude": 34.0266,
+      "timezone": "Europe/Simferopol"
+    },
+    {
+      "name": "",
+      "name_en": "Dubliany",
+      "province": "利沃夫州",
+      "latitude": 49.9041,
+      "longitude": 24.0864,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Derazhnya",
+      "province": "赫梅利尼茨基州",
+      "latitude": 49.2692,
+      "longitude": 27.4291,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Kobelyaky",
+      "province": "波尔塔瓦州",
+      "latitude": 49.1494,
+      "longitude": 34.2019,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Niu-York",
+      "province": "顿涅茨克州",
+      "latitude": 48.3303,
+      "longitude": 37.8411,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Pereshchepyne",
+      "province": "Dnipropetrovsk",
+      "latitude": 49.0251,
+      "longitude": 35.3689,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Vesele",
+      "province": "扎波罗热州",
+      "latitude": 47.0097,
+      "longitude": 34.9184,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "恰普林卡",
+      "name_en": "Chaplynka",
+      "province": "赫尔松州",
+      "latitude": 46.3645,
+      "longitude": 33.5409,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Radekhiv",
+      "province": "利沃夫州",
+      "latitude": 50.2809,
+      "longitude": 24.6384,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Ratne",
+      "province": "沃伦州",
+      "latitude": 51.6692,
+      "longitude": 24.5264,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "大卢奇基",
+      "name_en": "Velyki Luchky",
+      "province": "外喀尔巴阡州",
+      "latitude": 48.4171,
+      "longitude": 22.5726,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Berezivka",
+      "province": "敖德萨州",
+      "latitude": 47.2004,
+      "longitude": 30.9094,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "希罗凯",
+      "name_en": "Shyroke",
+      "province": "Dnipropetrovsk",
+      "latitude": 47.6855,
+      "longitude": 33.2615,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Pohrebyshche",
+      "province": "文尼察州",
+      "latitude": 49.4851,
+      "longitude": 29.2599,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Aydar",
+      "province": "卢甘斯克州",
+      "latitude": 49.5332,
+      "longitude": 39.1185,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "大德梅尔卡",
+      "name_en": "Velyka Dymerka",
+      "province": "基辅州",
+      "latitude": 50.5933,
+      "longitude": 30.9031,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Makariv",
+      "province": "基辅州",
+      "latitude": 50.4641,
+      "longitude": 29.8113,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Mizhhirya",
+      "province": "外喀尔巴阡州",
+      "latitude": 48.5243,
+      "longitude": 23.5009,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Bilozerka",
+      "province": "赫尔松州",
+      "latitude": 46.6265,
+      "longitude": 32.4445,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Zymohiria",
+      "province": "卢甘斯克州",
+      "latitude": 48.5853,
+      "longitude": 38.9375,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Smoline",
+      "province": "基洛夫格勒州",
+      "latitude": 48.6013,
+      "longitude": 31.3129,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Zinkiv",
+      "province": "波尔塔瓦州",
+      "latitude": 50.2099,
+      "longitude": 34.3595,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Novyi Svit",
+      "province": "顿涅茨克州",
+      "latitude": 47.8067,
+      "longitude": 38.021,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "博尔兹纳",
+      "name_en": "Borzna",
+      "province": "切尔尼戈夫州",
+      "latitude": 51.2534,
+      "longitude": 32.4269,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Bilenke",
+      "province": "顿涅茨克州",
+      "latitude": 48.7659,
+      "longitude": 37.6331,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Pustomyty",
+      "province": "利沃夫州",
+      "latitude": 49.7169,
+      "longitude": 23.9068,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Hlyboka",
+      "province": "Chernivtsi",
+      "latitude": 48.0876,
+      "longitude": 25.9284,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Cherepkivtsi",
+      "province": "Chernivtsi",
+      "latitude": 48.0156,
+      "longitude": 25.9643,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Oprysheny",
+      "province": "Chernivtsi",
+      "latitude": 48.0533,
+      "longitude": 26.027,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Stary Krym",
+      "province": "克里米亚自治共和国",
+      "latitude": 45.0289,
+      "longitude": 35.0917,
+      "timezone": "Europe/Simferopol"
+    },
+    {
+      "name": "",
+      "name_en": "Hlobyne",
+      "province": "波尔塔瓦州",
+      "latitude": 49.3789,
+      "longitude": 33.2756,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Dubrovytsia",
+      "province": "Rivne",
+      "latitude": 51.5708,
+      "longitude": 26.5637,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Sloboda",
+      "province": "切尔卡瑟州",
+      "latitude": 49.3728,
+      "longitude": 32.1574,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "弗拉基米列茨",
+      "name_en": "Volodymyrets",
+      "province": "Rivne",
+      "latitude": 51.4191,
+      "longitude": 26.1435,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "贝兹柳迪夫卡",
+      "name_en": "Bezliudivka",
+      "province": "哈尔科夫州",
+      "latitude": 49.8755,
+      "longitude": 36.2654,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Tysmenytsia",
+      "province": "伊万诺-弗兰科夫斯克州",
+      "latitude": 48.9036,
+      "longitude": 24.8469,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Mirnoye",
+      "province": "克里米亚自治共和国",
+      "latitude": 44.9833,
+      "longitude": 34.0616,
+      "timezone": "Europe/Simferopol"
+    },
+    {
+      "name": "",
+      "name_en": "Hirske",
+      "province": "卢甘斯克州",
+      "latitude": 48.7498,
+      "longitude": 38.4952,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Rozsoshentsi",
+      "province": "波尔塔瓦州",
+      "latitude": 49.5409,
+      "longitude": 34.5057,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Irmino",
+      "province": "卢甘斯克州",
+      "latitude": 48.599,
+      "longitude": 38.5882,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Velykyy Bychkiv",
+      "province": "外喀尔巴阡州",
+      "latitude": 47.9682,
+      "longitude": 24.0106,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "卡兰恰克",
+      "name_en": "Kalanchak",
+      "province": "赫尔松州",
+      "latitude": 46.255,
+      "longitude": 33.2906,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Reshetylivka",
+      "province": "波尔塔瓦州",
+      "latitude": 49.563,
+      "longitude": 34.079,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Cherniakhiv",
+      "province": "Zhytomyr",
+      "latitude": 50.4541,
+      "longitude": 28.6672,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Obukhivka",
+      "province": "Dnipropetrovsk",
+      "latitude": 48.5488,
+      "longitude": 34.8539,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Stryzhavka",
+      "province": "文尼察州",
+      "latitude": 49.3096,
+      "longitude": 28.4721,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "伊尔沙瓦",
+      "name_en": "Irshava",
+      "province": "外喀尔巴阡州",
+      "latitude": 48.3123,
+      "longitude": 23.0406,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "马林卡",
+      "name_en": "Mar'yinka",
+      "province": "顿涅茨克州",
+      "latitude": 47.9453,
+      "longitude": 37.5054,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Lyubashivka",
+      "province": "敖德萨州",
+      "latitude": 47.8339,
+      "longitude": 30.2521,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Ilnytsia",
+      "province": "外喀尔巴阡州",
+      "latitude": 48.3566,
+      "longitude": 23.0762,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Tyachiv",
+      "province": "外喀尔巴阡州",
+      "latitude": 48.0109,
+      "longitude": 23.5717,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Bahrynova Gora",
+      "province": "Kyiv City",
+      "latitude": 50.3856,
+      "longitude": 30.5372,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Kozova",
+      "province": "捷尔诺波尔州",
+      "latitude": 49.4321,
+      "longitude": 25.1455,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Velyka Znamianka",
+      "province": "扎波罗热州",
+      "latitude": 47.4454,
+      "longitude": 34.3508,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "乔尔诺巴伊夫卡",
+      "name_en": "Chornobaivka",
+      "province": "赫尔松州",
+      "latitude": 46.6964,
+      "longitude": 32.5471,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "霍多罗夫",
+      "name_en": "Khodoriv",
+      "province": "利沃夫州",
+      "latitude": 49.4074,
+      "longitude": 24.3129,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "霍京",
+      "name_en": "Khotyn",
+      "province": "Chernivtsi",
+      "latitude": 48.5055,
+      "longitude": 26.4898,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Gurzuf",
+      "province": "克里米亚自治共和国",
+      "latitude": 44.5462,
+      "longitude": 34.2784,
+      "timezone": "Europe/Simferopol"
+    },
+    {
+      "name": "",
+      "name_en": "Zalishchyky",
+      "province": "捷尔诺波尔州",
+      "latitude": 48.641,
+      "longitude": 25.7317,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Donets",
+      "province": "哈尔科夫州",
+      "latitude": 49.5083,
+      "longitude": 36.5667,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Tlumach",
+      "province": "伊万诺-弗兰科夫斯克州",
+      "latitude": 48.8652,
+      "longitude": 25.0038,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Sokyryany",
+      "province": "Chernivtsi",
+      "latitude": 48.4491,
+      "longitude": 27.4114,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Mahala",
+      "province": "Chernivtsi",
+      "latitude": 48.2941,
+      "longitude": 26.0425,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Yavornytske",
+      "province": "Dnipropetrovsk",
+      "latitude": 48.4046,
+      "longitude": 35.2793,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Horodenka",
+      "province": "伊万诺-弗兰科夫斯克州",
+      "latitude": 48.669,
+      "longitude": 25.5033,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "克雷若皮尔",
+      "name_en": "Kryzhopil",
+      "province": "文尼察州",
+      "latitude": 48.3821,
+      "longitude": 28.8677,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Pomichna",
+      "province": "基洛夫格勒州",
+      "latitude": 48.2398,
+      "longitude": 31.4087,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Hlevakha",
+      "province": "基辅州",
+      "latitude": 50.2742,
+      "longitude": 30.3271,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Nizhnegorskiy",
+      "province": "克里米亚自治共和国",
+      "latitude": 45.4479,
+      "longitude": 34.7384,
+      "timezone": "Europe/Simferopol"
+    },
+    {
+      "name": "",
+      "name_en": "Chyhyryn",
+      "province": "切尔卡瑟州",
+      "latitude": 49.0804,
+      "longitude": 32.6608,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Monastyryshche",
+      "province": "切尔卡瑟州",
+      "latitude": 48.9949,
+      "longitude": 29.8099,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Solotvyno",
+      "province": "外喀尔巴阡州",
+      "latitude": 47.9473,
+      "longitude": 23.8743,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Bilovods'k",
+      "province": "卢甘斯克州",
+      "latitude": 49.2085,
+      "longitude": 39.5898,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Chop",
+      "province": "外喀尔巴阡州",
+      "latitude": 48.4316,
+      "longitude": 22.2045,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Chahor",
+      "province": "Chernivtsi",
+      "latitude": 48.2433,
+      "longitude": 25.9939,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Yasinya",
+      "province": "外喀尔巴阡州",
+      "latitude": 48.2726,
+      "longitude": 24.3603,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "涅鲁拜西克",
+      "name_en": "Nerubayske",
+      "province": "敖德萨州",
+      "latitude": 46.5444,
+      "longitude": 30.6292,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "乌斯彭卡",
+      "name_en": "Uspenka",
+      "province": "卢甘斯克州",
+      "latitude": 48.3908,
+      "longitude": 39.1628,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "达奇内",
+      "name_en": "Dachne",
+      "province": "敖德萨州",
+      "latitude": 46.5784,
+      "longitude": 30.5473,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Nove",
+      "province": "基洛夫格勒州",
+      "latitude": 48.5273,
+      "longitude": 32.1222,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "科索夫",
+      "name_en": "Kosiv",
+      "province": "伊万诺-弗兰科夫斯克州",
+      "latitude": 48.3205,
+      "longitude": 25.0911,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Kodyma",
+      "province": "敖德萨州",
+      "latitude": 48.1031,
+      "longitude": 29.126,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Berkovets",
+      "province": "Kyiv City",
+      "latitude": 50.4884,
+      "longitude": 30.3296,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Hrushovo",
+      "province": "外喀尔巴阡州",
+      "latitude": 48.0068,
+      "longitude": 23.7743,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Rakivka",
+      "province": "波尔塔瓦州",
+      "latitude": 49.0245,
+      "longitude": 33.464,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Rava-Ruska",
+      "province": "利沃夫州",
+      "latitude": 50.2325,
+      "longitude": 23.6217,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "乌萨托韦",
+      "name_en": "Usatove",
+      "province": "敖德萨州",
+      "latitude": 46.5289,
+      "longitude": 30.6495,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Pervomayskoye",
+      "province": "克里米亚自治共和国",
+      "latitude": 45.7174,
+      "longitude": 33.856,
+      "timezone": "Europe/Simferopol"
+    },
+    {
+      "name": "",
+      "name_en": "Oleksandrivka",
+      "province": "基洛夫格勒州",
+      "latitude": 48.968,
+      "longitude": 32.2397,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Andrushivka",
+      "province": "Zhytomyr",
+      "latitude": 50.0192,
+      "longitude": 29.0188,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "布什特诺",
+      "name_en": "Bushtyno",
+      "province": "外喀尔巴阡州",
+      "latitude": 48.0473,
+      "longitude": 23.4858,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Horokhiv",
+      "province": "沃伦州",
+      "latitude": 50.5022,
+      "longitude": 24.7568,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Lanivtsi",
+      "province": "捷尔诺波尔州",
+      "latitude": 49.861,
+      "longitude": 26.0905,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Velyka Berezovytsya",
+      "province": "捷尔诺波尔州",
+      "latitude": 49.4987,
+      "longitude": 25.6123,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Buryn",
+      "province": "苏梅州",
+      "latitude": 51.1993,
+      "longitude": 33.8332,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Busk",
+      "province": "利沃夫州",
+      "latitude": 49.9655,
+      "longitude": 24.6123,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Lypovets",
+      "province": "文尼察州",
+      "latitude": 49.2278,
+      "longitude": 29.0567,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "代利亚廷",
+      "name_en": "Deliatyn",
+      "province": "伊万诺-弗兰科夫斯克州",
+      "latitude": 48.5248,
+      "longitude": 24.6257,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Vyshkovo",
+      "province": "外喀尔巴阡州",
+      "latitude": 48.0489,
+      "longitude": 23.4199,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "姆利尼夫",
+      "name_en": "Mlyniv",
+      "province": "Rivne",
+      "latitude": 50.5103,
+      "longitude": 25.6172,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Bohorodchany",
+      "province": "伊万诺-弗兰科夫斯克州",
+      "latitude": 48.8081,
+      "longitude": 24.5373,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Kupiansk-Vuzlovyi",
+      "province": "哈尔科夫州",
+      "latitude": 49.6706,
+      "longitude": 37.6432,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Novi Sanzhary",
+      "province": "波尔塔瓦州",
+      "latitude": 49.3338,
+      "longitude": 34.315,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "克瓦西利夫",
+      "name_en": "Kvasyliv",
+      "province": "Rivne",
+      "latitude": 50.5623,
+      "longitude": 26.2594,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Yaremche",
+      "province": "伊万诺-弗兰科夫斯克州",
+      "latitude": 48.4489,
+      "longitude": 24.5533,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "阿卢普卡",
+      "name_en": "Alupka",
+      "province": "克里米亚自治共和国",
+      "latitude": 44.4195,
+      "longitude": 34.0449,
+      "timezone": "Europe/Simferopol"
+    },
+    {
+      "name": "",
+      "name_en": "Slov`yanoserbsk",
+      "province": "卢甘斯克州",
+      "latitude": 48.6978,
+      "longitude": 38.9813,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Bilky",
+      "province": "外喀尔巴阡州",
+      "latitude": 48.3141,
+      "longitude": 23.1326,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Velyka Lepetykha",
+      "province": "赫尔松州",
+      "latitude": 47.1714,
+      "longitude": 33.9315,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Yasnohirka",
+      "province": "顿涅茨克州",
+      "latitude": 48.7737,
+      "longitude": 37.554,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Krasnokutsk",
+      "province": "哈尔科夫州",
+      "latitude": 50.066,
+      "longitude": 35.1628,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Pershyi Zanasyp",
+      "province": "波尔塔瓦州",
+      "latitude": 49.0652,
+      "longitude": 33.4329,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Rzhyshchiv",
+      "province": "基辅州",
+      "latitude": 49.9673,
+      "longitude": 31.0407,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "弗拉迪伊夫卡",
+      "name_en": "Vradiyivka",
+      "province": "尼古拉耶夫州",
+      "latitude": 47.8642,
+      "longitude": 30.5888,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Zastavna",
+      "province": "Chernivtsi",
+      "latitude": 48.5214,
+      "longitude": 25.8426,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Podvirky",
+      "province": "哈尔科夫州",
+      "latitude": 49.9799,
+      "longitude": 36.0924,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "库舒胡姆",
+      "name_en": "Kushuhum",
+      "province": "扎波罗热州",
+      "latitude": 47.7096,
+      "longitude": 35.2164,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "兰钦",
+      "name_en": "Lanchyn",
+      "province": "伊万诺-弗兰科夫斯克州",
+      "latitude": 48.5517,
+      "longitude": 24.7492,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Krasnopillia",
+      "province": "苏梅州",
+      "latitude": 50.7746,
+      "longitude": 35.2597,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Pidvolochysk",
+      "province": "捷尔诺波尔州",
+      "latitude": 49.5313,
+      "longitude": 26.144,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "巴文科伏",
+      "name_en": "Barvinkove",
+      "province": "哈尔科夫州",
+      "latitude": 48.9059,
+      "longitude": 37.0228,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Zavodske",
+      "province": "波尔塔瓦州",
+      "latitude": 50.4006,
+      "longitude": 33.4012,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "索斯尼察",
+      "name_en": "Sosnytsia",
+      "province": "切尔尼戈夫州",
+      "latitude": 51.5239,
+      "longitude": 32.4999,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "罗加京",
+      "name_en": "Rohatyn",
+      "province": "伊万诺-弗兰科夫斯克州",
+      "latitude": 49.4104,
+      "longitude": 24.611,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "谢苗诺夫卡",
+      "name_en": "Semenivka",
+      "province": "切尔尼戈夫州",
+      "latitude": 52.1786,
+      "longitude": 32.5818,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Ananyiv",
+      "province": "敖德萨州",
+      "latitude": 47.7197,
+      "longitude": 29.9571,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Ruska Poliana",
+      "province": "切尔卡瑟州",
+      "latitude": 49.417,
+      "longitude": 31.9201,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Novoaidar",
+      "province": "卢甘斯克州",
+      "latitude": 48.964,
+      "longitude": 39.0056,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Bilytske",
+      "province": "顿涅茨克州",
+      "latitude": 48.4064,
+      "longitude": 37.1811,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "佐洛乔夫",
+      "name_en": "Zolochiv",
+      "province": "哈尔科夫州",
+      "latitude": 49.8074,
+      "longitude": 24.9038,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Lysyanka",
+      "province": "切尔卡瑟州",
+      "latitude": 49.2505,
+      "longitude": 30.8278,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Manhush",
+      "province": "顿涅茨克州",
+      "latitude": 47.0562,
+      "longitude": 37.3119,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Panteleymonivka",
+      "province": "顿涅茨克州",
+      "latitude": 48.2015,
+      "longitude": 37.9739,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Velykyy Bereznyy",
+      "province": "外喀尔巴阡州",
+      "latitude": 48.8934,
+      "longitude": 22.4612,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Bilokurakyne",
+      "province": "卢甘斯克州",
+      "latitude": 49.5346,
+      "longitude": 38.7272,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "维尔科沃",
+      "name_en": "Vylkove",
+      "province": "敖德萨州",
+      "latitude": 45.4028,
+      "longitude": 29.5869,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "新彼得里夫齐",
+      "name_en": "Novi Petrivtsi",
+      "province": "基辅州",
+      "latitude": 50.6275,
+      "longitude": 30.4431,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Pochayiv",
+      "province": "捷尔诺波尔州",
+      "latitude": 50.0041,
+      "longitude": 25.5093,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Varva",
+      "province": "切尔尼戈夫州",
+      "latitude": 50.4986,
+      "longitude": 32.7227,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "维帕斯涅",
+      "name_en": "Vypasne",
+      "province": "敖德萨州",
+      "latitude": 46.1909,
+      "longitude": 30.2562,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Dykanka",
+      "province": "波尔塔瓦州",
+      "latitude": 49.8259,
+      "longitude": 34.522,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Velykyi Dalnyk",
+      "province": "敖德萨州",
+      "latitude": 46.4749,
+      "longitude": 30.561,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "科泽列茨",
+      "name_en": "Kozelets",
+      "province": "切尔尼戈夫州",
+      "latitude": 50.9121,
+      "longitude": 31.1166,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "马尼基夫卡",
+      "name_en": "Mankivka",
+      "province": "切尔卡瑟州",
+      "latitude": 48.9639,
+      "longitude": 30.3363,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "亚历山德里夫卡",
+      "name_en": "Oleksandrivka",
+      "province": "敖德萨州",
+      "latitude": 48.968,
+      "longitude": 32.2397,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Molodyozhnoye",
+      "province": "克里米亚自治共和国",
+      "latitude": 45.0035,
+      "longitude": 34.0563,
+      "timezone": "Europe/Simferopol"
+    },
+    {
+      "name": "",
+      "name_en": "Novoselytsya",
+      "province": "Chernivtsi",
+      "latitude": 48.2181,
+      "longitude": 26.2677,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Vlasivka",
+      "province": "基洛夫格勒州",
+      "latitude": 49.1183,
+      "longitude": 33.2797,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Trostyanets",
+      "province": "文尼察州",
+      "latitude": 50.4848,
+      "longitude": 34.9657,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Berehomet",
+      "province": "Chernivtsi",
+      "latitude": 48.1715,
+      "longitude": 25.3303,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Kryve Ozero",
+      "province": "尼古拉耶夫州",
+      "latitude": 47.9476,
+      "longitude": 30.347,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Solone",
+      "province": "Dnipropetrovsk",
+      "latitude": 48.2091,
+      "longitude": 34.8758,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Bereznehuvate",
+      "province": "尼古拉耶夫州",
+      "latitude": 47.3087,
+      "longitude": 32.851,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "泰雷斯瓦",
+      "name_en": "Teresva",
+      "province": "外喀尔巴阡州",
+      "latitude": 47.9977,
+      "longitude": 23.699,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Malynivka",
+      "province": "哈尔科夫州",
+      "latitude": 49.8167,
+      "longitude": 36.7333,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Krasnopavlivka",
+      "province": "哈尔科夫州",
+      "latitude": 49.137,
+      "longitude": 36.3201,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Nova Zburivka",
+      "province": "赫尔松州",
+      "latitude": 46.4546,
+      "longitude": 32.4528,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Kripenskyi",
+      "province": "卢甘斯克州",
+      "latitude": 48.0771,
+      "longitude": 39.058,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "叶迪库尤",
+      "name_en": "Lenino",
+      "province": "克里米亚自治共和国",
+      "latitude": 45.2986,
+      "longitude": 35.7771,
+      "timezone": "Europe/Simferopol"
+    },
+    {
+      "name": "图尔卡",
+      "name_en": "Turka",
+      "province": "利沃夫州",
+      "latitude": 49.1536,
+      "longitude": 23.0293,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Yarmolyntsi",
+      "province": "赫梅利尼茨基州",
+      "latitude": 49.1927,
+      "longitude": 26.8344,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Volodarka",
+      "province": "基辅州",
+      "latitude": 49.5254,
+      "longitude": 29.9102,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Rudne",
+      "province": "利沃夫州",
+      "latitude": 49.8333,
+      "longitude": 23.9,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "霍罗希夫",
+      "name_en": "Khoroshiv",
+      "province": "Zhytomyr",
+      "latitude": 50.5948,
+      "longitude": 28.4449,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Zarichne",
+      "province": "Rivne",
+      "latitude": 51.8139,
+      "longitude": 26.1308,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Ivanivka",
+      "province": "卢甘斯克州",
+      "latitude": 46.6265,
+      "longitude": 32.4445,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Tsarychanka",
+      "province": "Dnipropetrovsk",
+      "latitude": 48.9419,
+      "longitude": 34.486,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Razdol’noye",
+      "province": "克里米亚自治共和国",
+      "latitude": 45.7708,
+      "longitude": 33.4878,
+      "timezone": "Europe/Simferopol"
+    },
+    {
+      "name": "",
+      "name_en": "Pivdenne",
+      "province": "哈尔科夫州",
+      "latitude": 46.6247,
+      "longitude": 31.1018,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Romaniv",
+      "province": "Zhytomyr",
+      "latitude": 50.1473,
+      "longitude": 27.9314,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "瓦普尼亚尔卡",
+      "name_en": "Vapnyarka",
+      "province": "文尼察州",
+      "latitude": 48.5311,
+      "longitude": 28.747,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Babayi",
+      "province": "哈尔科夫州",
+      "latitude": 49.8963,
+      "longitude": 36.1931,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Novi Basy",
+      "province": "苏梅州",
+      "latitude": 50.8632,
+      "longitude": 34.88,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Vuhlehirsk",
+      "province": "顿涅茨克州",
+      "latitude": 48.3142,
+      "longitude": 38.2719,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Peremyshliany",
+      "province": "利沃夫州",
+      "latitude": 49.6693,
+      "longitude": 24.5576,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "马桑德拉",
+      "name_en": "Massandra",
+      "province": "克里米亚自治共和国",
+      "latitude": 44.5096,
+      "longitude": 34.1882,
+      "timezone": "Europe/Simferopol"
+    },
+    {
+      "name": "",
+      "name_en": "Dokuchayevske",
+      "province": "哈尔科夫州",
+      "latitude": 49.8925,
+      "longitude": 36.4516,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Borova",
+      "province": "基辅州",
+      "latitude": 50.1763,
+      "longitude": 30.1043,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Nyzhnia Apsha",
+      "province": "外喀尔巴阡州",
+      "latitude": 48.0037,
+      "longitude": 23.8329,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Kelmentsi",
+      "province": "Chernivtsi",
+      "latitude": 48.4664,
+      "longitude": 26.8328,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "小丹尼利夫卡",
+      "name_en": "Mala Danylivka",
+      "province": "哈尔科夫州",
+      "latitude": 50.0635,
+      "longitude": 36.1656,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Kypuche",
+      "province": "卢甘斯克州",
+      "latitude": 48.4406,
+      "longitude": 38.732,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Yampil’",
+      "province": "苏梅州",
+      "latitude": 48.2406,
+      "longitude": 28.2814,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Chornobay",
+      "province": "切尔卡瑟州",
+      "latitude": 49.6707,
+      "longitude": 32.3236,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Seredyna-Buda",
+      "province": "苏梅州",
+      "latitude": 52.1889,
+      "longitude": 34.0361,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Petrove",
+      "province": "基洛夫格勒州",
+      "latitude": 48.3381,
+      "longitude": 33.2653,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Troitske",
+      "province": "卢甘斯克州",
+      "latitude": 49.9145,
+      "longitude": 38.2927,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "波宁卡",
+      "name_en": "Poninka",
+      "province": "赫梅利尼茨基州",
+      "latitude": 50.1841,
+      "longitude": 27.5282,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Lymanske",
+      "province": "敖德萨州",
+      "latitude": 46.6795,
+      "longitude": 29.9723,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "沙博",
+      "name_en": "Shabo",
+      "province": "敖德萨州",
+      "latitude": 46.1266,
+      "longitude": 30.3857,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Kytaiv",
+      "province": "Kyiv City",
+      "latitude": 50.3698,
+      "longitude": 30.5423,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Zorynsk",
+      "province": "卢甘斯克州",
+      "latitude": 48.4119,
+      "longitude": 38.6236,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "舍夫琴科韦",
+      "name_en": "Shevchenkove",
+      "province": "哈尔科夫州",
+      "latitude": 49.6952,
+      "longitude": 37.1751,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "马尔基夫卡",
+      "name_en": "Markivka",
+      "province": "卢甘斯克州",
+      "latitude": 49.5228,
+      "longitude": 39.5707,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "胡夏廷",
+      "name_en": "Husiatyn",
+      "province": "捷尔诺波尔州",
+      "latitude": 49.0712,
+      "longitude": 26.2046,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Sharhorod",
+      "province": "文尼察州",
+      "latitude": 48.7356,
+      "longitude": 28.0846,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Kirovskoye",
+      "province": "克里米亚自治共和国",
+      "latitude": 48.1492,
+      "longitude": 38.3594,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Lymanivka",
+      "province": "哈尔科夫州",
+      "latitude": 48.9388,
+      "longitude": 36.2783,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "梅若瓦",
+      "name_en": "Mezhova",
+      "province": "Dnipropetrovsk",
+      "latitude": 48.2542,
+      "longitude": 36.7318,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Chornomorske",
+      "province": "敖德萨州",
+      "latitude": 45.5066,
+      "longitude": 32.6978,
+      "timezone": "Europe/Simferopol"
+    },
+    {
+      "name": "萨赫诺夫希纳",
+      "name_en": "Sakhnovshchyna",
+      "province": "哈尔科夫州",
+      "latitude": 49.1489,
+      "longitude": 35.8737,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Priorka",
+      "province": "Kyiv City",
+      "latitude": 50.5098,
+      "longitude": 30.4577,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Kazanka",
+      "province": "尼古拉耶夫州",
+      "latitude": 47.8269,
+      "longitude": 32.8306,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Vilino",
+      "province": "克里米亚自治共和国",
+      "latitude": 44.8456,
+      "longitude": 33.6716,
+      "timezone": "Europe/Simferopol"
+    },
+    {
+      "name": "",
+      "name_en": "Petropavlivka",
+      "province": "Dnipropetrovsk",
+      "latitude": 48.4635,
+      "longitude": 36.4306,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Korets",
+      "province": "Rivne",
+      "latitude": 50.6192,
+      "longitude": 27.1579,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "デスナ市",
+      "name_en": "Desna",
+      "province": "切尔尼戈夫州",
+      "latitude": 50.5221,
+      "longitude": 30.6823,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "科米沙尼",
+      "name_en": "Komyshany",
+      "province": "赫尔松州",
+      "latitude": 46.6399,
+      "longitude": 32.5034,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Peresichna",
+      "province": "哈尔科夫州",
+      "latitude": 50.0245,
+      "longitude": 35.9787,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Piskivka",
+      "province": "基辅州",
+      "latitude": 50.6938,
+      "longitude": 29.6193,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "沃尔泽利",
+      "name_en": "Vorzel",
+      "province": "基辅州",
+      "latitude": 50.5444,
+      "longitude": 30.1531,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Dobroslav",
+      "province": "敖德萨州",
+      "latitude": 46.821,
+      "longitude": 30.9452,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Kamyanka",
+      "province": "Chernivtsi",
+      "latitude": 49.0395,
+      "longitude": 32.1017,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "托马基夫卡",
+      "name_en": "Tomakivka",
+      "province": "Dnipropetrovsk",
+      "latitude": 47.8108,
+      "longitude": 34.7432,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Nova Mayachka",
+      "province": "赫尔松州",
+      "latitude": 46.5994,
+      "longitude": 33.2243,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Vorozhba",
+      "province": "苏梅州",
+      "latitude": 51.1733,
+      "longitude": 34.2192,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Bilmak",
+      "province": "扎波罗热州",
+      "latitude": 47.3591,
+      "longitude": 36.6533,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Shchaslyve",
+      "province": "基辅州",
+      "latitude": 50.3785,
+      "longitude": 30.7958,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Bile",
+      "province": "卢甘斯克州",
+      "latitude": 48.4952,
+      "longitude": 39.0505,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Velyki Komiaty",
+      "province": "外喀尔巴阡州",
+      "latitude": 48.2374,
+      "longitude": 22.9772,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Vinnytski Khutory",
+      "province": "文尼察州",
+      "latitude": 49.2069,
+      "longitude": 28.5548,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "奇纳迪约沃",
+      "name_en": "Chynadiyovo",
+      "province": "外喀尔巴阡州",
+      "latitude": 48.4867,
+      "longitude": 22.8337,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Holmivskyi",
+      "province": "顿涅茨克州",
+      "latitude": 48.4039,
+      "longitude": 38.082,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "布德",
+      "name_en": "Budy",
+      "province": "哈尔科夫州",
+      "latitude": 49.8913,
+      "longitude": 36.021,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "拉丹",
+      "name_en": "Ladan",
+      "province": "切尔尼戈夫州",
+      "latitude": 50.5183,
+      "longitude": 32.5842,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Petrovka",
+      "province": "克里米亚自治共和国",
+      "latitude": 47.9852,
+      "longitude": 37.2821,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Novodruzhesk",
+      "province": "卢甘斯克州",
+      "latitude": 48.9635,
+      "longitude": 38.352,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Khorostkiv",
+      "province": "捷尔诺波尔州",
+      "latitude": 49.2139,
+      "longitude": 25.9196,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Zboriv",
+      "province": "捷尔诺波尔州",
+      "latitude": 49.6649,
+      "longitude": 25.1402,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Perechyn",
+      "province": "外喀尔巴阡州",
+      "latitude": 48.7349,
+      "longitude": 22.4772,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Vilshany",
+      "province": "哈尔科夫州",
+      "latitude": 50.0544,
+      "longitude": 35.8823,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "大亚历山德里夫卡",
+      "name_en": "Velyka Oleksandrivka",
+      "province": "赫尔松州",
+      "latitude": 47.3189,
+      "longitude": 33.2906,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Lityn",
+      "province": "文尼察州",
+      "latitude": 49.3271,
+      "longitude": 28.087,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "里普基",
+      "name_en": "Ripky",
+      "province": "切尔尼戈夫州",
+      "latitude": 51.8017,
+      "longitude": 31.0858,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Karnaukhivka",
+      "province": "Dnipropetrovsk",
+      "latitude": 48.4754,
+      "longitude": 34.7363,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Sofiyivka",
+      "province": "Dnipropetrovsk",
+      "latitude": 47.9477,
+      "longitude": 35.4403,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Nova Praha",
+      "province": "基洛夫格勒州",
+      "latitude": 48.5687,
+      "longitude": 32.9043,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Pryazovske",
+      "province": "扎波罗热州",
+      "latitude": 46.7312,
+      "longitude": 35.6408,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Sofiyivska Borschagivka",
+      "province": "基辅州",
+      "latitude": 50.41,
+      "longitude": 30.3672,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Voronizh",
+      "province": "苏梅州",
+      "latitude": 51.7757,
+      "longitude": 33.4594,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "切尔沃诺阿尔米西克",
+      "name_en": "Kubey",
+      "province": "敖德萨州",
+      "latitude": 45.7913,
+      "longitude": 28.7446,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "斯拉蒂内",
+      "name_en": "Slatyne",
+      "province": "哈尔科夫州",
+      "latitude": 50.2104,
+      "longitude": 36.1538,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Dovhe",
+      "province": "外喀尔巴阡州",
+      "latitude": 48.3665,
+      "longitude": 23.2811,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Hornostayivka",
+      "province": "赫尔松州",
+      "latitude": 47.0117,
+      "longitude": 33.7299,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Shyryayeve",
+      "province": "敖德萨州",
+      "latitude": 47.3848,
+      "longitude": 30.1907,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Rokytne",
+      "province": "Rivne",
+      "latitude": 51.2789,
+      "longitude": 27.2171,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Pryvillia",
+      "province": "卢甘斯克州",
+      "latitude": 49.0056,
+      "longitude": 38.2988,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Voronovytsya",
+      "province": "文尼察州",
+      "latitude": 49.109,
+      "longitude": 28.6868,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Teofipol",
+      "province": "赫梅利尼茨基州",
+      "latitude": 49.8389,
+      "longitude": 26.4204,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Kopychyntsi",
+      "province": "捷尔诺波尔州",
+      "latitude": 49.103,
+      "longitude": 25.9116,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Cherednyky",
+      "province": "波尔塔瓦州",
+      "latitude": 49.0891,
+      "longitude": 33.4535,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Kostroma",
+      "province": "波尔塔瓦州",
+      "latitude": 49.0367,
+      "longitude": 33.4391,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "斯科列",
+      "name_en": "Skole",
+      "province": "利沃夫州",
+      "latitude": 49.0377,
+      "longitude": 23.5136,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Petropavlivska Borshchahivka",
+      "province": "基辅州",
+      "latitude": 50.4369,
+      "longitude": 30.3375,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Sudova Vyshnia",
+      "province": "利沃夫州",
+      "latitude": 49.7868,
+      "longitude": 23.374,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Bryukhovychi",
+      "province": "利沃夫州",
+      "latitude": 49.9047,
+      "longitude": 23.9597,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Lozuvatka",
+      "province": "Dnipropetrovsk",
+      "latitude": 48.0601,
+      "longitude": 33.2814,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Oleksandrivsk",
+      "province": "卢甘斯克州",
+      "latitude": 47.8517,
+      "longitude": 35.1171,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "多布罗特维尔",
+      "name_en": "Dobrotvir",
+      "province": "利沃夫州",
+      "latitude": 50.2053,
+      "longitude": 24.3835,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "德拉比夫",
+      "name_en": "Drabiv",
+      "province": "切尔卡瑟州",
+      "latitude": 49.9589,
+      "longitude": 32.1503,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Irshansk",
+      "province": "Zhytomyr",
+      "latitude": 50.7532,
+      "longitude": 28.7212,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Heorhiivka",
+      "province": "卢甘斯克州",
+      "latitude": 48.4228,
+      "longitude": 39.2528,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Velyki Mosty",
+      "province": "利沃夫州",
+      "latitude": 50.2432,
+      "longitude": 24.14,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Tsyrkuny",
+      "province": "哈尔科夫州",
+      "latitude": 50.0926,
+      "longitude": 36.3622,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Klishkivtsi",
+      "province": "Chernivtsi",
+      "latitude": 48.4234,
+      "longitude": 26.2523,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Chervonohryhorivka",
+      "province": "Dnipropetrovsk",
+      "latitude": 47.6191,
+      "longitude": 34.5378,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "阿尔布津卡",
+      "name_en": "Arbuzynka",
+      "province": "尼古拉耶夫州",
+      "latitude": 47.9079,
+      "longitude": 31.317,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Savran",
+      "province": "敖德萨州",
+      "latitude": 48.1293,
+      "longitude": 30.0833,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Fontanka",
+      "province": "敖德萨州",
+      "latitude": 46.5702,
+      "longitude": 30.8547,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Krasne",
+      "province": "利沃夫州",
+      "latitude": 49.914,
+      "longitude": 24.6149,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "泰普利克",
+      "name_en": "Teplyk",
+      "province": "文尼察州",
+      "latitude": 48.6654,
+      "longitude": 29.7448,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "赫拉迪兹克",
+      "name_en": "Hradyzk",
+      "province": "波尔塔瓦州",
+      "latitude": 49.2394,
+      "longitude": 33.1394,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "新沃龙佐夫卡",
+      "name_en": "Novovorontsovka",
+      "province": "赫尔松州",
+      "latitude": 47.505,
+      "longitude": 33.9232,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Zuya",
+      "province": "克里米亚自治共和国",
+      "latitude": 45.0542,
+      "longitude": 34.3215,
+      "timezone": "Europe/Simferopol"
+    },
+    {
+      "name": "",
+      "name_en": "Kitsman",
+      "province": "Chernivtsi",
+      "latitude": 48.4387,
+      "longitude": 25.7611,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "伊瓦诺-弗兰科韦",
+      "name_en": "Ivano-Frankove",
+      "province": "利沃夫州",
+      "latitude": 49.9217,
+      "longitude": 23.7249,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Trebukhiv",
+      "province": "基辅州",
+      "latitude": 50.4843,
+      "longitude": 30.903,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Rozkishne",
+      "province": "卢甘斯克州",
+      "latitude": 48.4896,
+      "longitude": 39.2788,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "大比洛泽尔卡",
+      "name_en": "Velyka Bilozerka",
+      "province": "扎波罗热州",
+      "latitude": 47.2757,
+      "longitude": 34.6846,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "帕尔泰尼特",
+      "name_en": "Partenit",
+      "province": "克里米亚自治共和国",
+      "latitude": 44.578,
+      "longitude": 34.3446,
+      "timezone": "Europe/Simferopol"
+    },
+    {
+      "name": "",
+      "name_en": "Zarichne",
+      "province": "Dnipropetrovsk",
+      "latitude": 51.8139,
+      "longitude": 26.1308,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "斯韦萨",
+      "name_en": "Svesa",
+      "province": "苏梅州",
+      "latitude": 51.9523,
+      "longitude": 33.9357,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Nemishaieve",
+      "province": "基辅州",
+      "latitude": 50.5594,
+      "longitude": 30.0866,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "图尔比夫",
+      "name_en": "Turbiv",
+      "province": "文尼察州",
+      "latitude": 49.3408,
+      "longitude": 28.7183,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Yemilchyne",
+      "province": "Zhytomyr",
+      "latitude": 50.8719,
+      "longitude": 27.802,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Vinkivtsi",
+      "province": "赫梅利尼茨基州",
+      "latitude": 49.034,
+      "longitude": 27.2313,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Rodakove",
+      "province": "卢甘斯克州",
+      "latitude": 48.5589,
+      "longitude": 39.0252,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Novoarkhanhelsk",
+      "province": "基洛夫格勒州",
+      "latitude": 48.6619,
+      "longitude": 30.8071,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Mahdalynivka",
+      "province": "Dnipropetrovsk",
+      "latitude": 48.912,
+      "longitude": 34.9139,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Ruske Pole",
+      "province": "外喀尔巴阡州",
+      "latitude": 48.0573,
+      "longitude": 23.5351,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Popilnia",
+      "province": "Zhytomyr",
+      "latitude": 49.9532,
+      "longitude": 29.4526,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Molochansk",
+      "province": "扎波罗热州",
+      "latitude": 47.2041,
+      "longitude": 35.5979,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Semenivka",
+      "province": "波尔塔瓦州",
+      "latitude": 52.1786,
+      "longitude": 32.5818,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "加利奇",
+      "name_en": "Halych",
+      "province": "伊万诺-弗兰科夫斯克州",
+      "latitude": 49.1237,
+      "longitude": 24.7275,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Chutove",
+      "province": "波尔塔瓦州",
+      "latitude": 49.7141,
+      "longitude": 35.1575,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Shklo",
+      "province": "利沃夫州",
+      "latitude": 49.9567,
+      "longitude": 23.5441,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Stavyshche",
+      "province": "基辅州",
+      "latitude": 49.3925,
+      "longitude": 30.1923,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "科斯马奇",
+      "name_en": "Kosmach",
+      "province": "伊万诺-弗兰科夫斯克州",
+      "latitude": 48.3311,
+      "longitude": 24.8142,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Blahovishchenske",
+      "province": "基洛夫格勒州",
+      "latitude": 48.3282,
+      "longitude": 30.2362,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Volodymyrivka",
+      "province": "顿涅茨克州",
+      "latitude": 47.7339,
+      "longitude": 37.3882,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "旧贝舍韦",
+      "name_en": "Starobesheve",
+      "province": "顿涅茨克州",
+      "latitude": 47.7507,
+      "longitude": 38.0304,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "苏蒂斯基",
+      "name_en": "Sutysky",
+      "province": "文尼察州",
+      "latitude": 49.039,
+      "longitude": 28.4196,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Cherepanova Hora",
+      "province": "Kyiv City",
+      "latitude": 50.4346,
+      "longitude": 30.5209,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Teremky-II",
+      "province": "Kyiv City",
+      "latitude": 50.3807,
+      "longitude": 30.4525,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Velyka Verhunka",
+      "province": "卢甘斯克州",
+      "latitude": 48.6097,
+      "longitude": 39.3803,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Yizhivtsi",
+      "province": "Chernivtsi",
+      "latitude": 48.0253,
+      "longitude": 25.6463,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Staryi Krym",
+      "province": "顿涅茨克州",
+      "latitude": 47.1611,
+      "longitude": 37.4881,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "多马尼夫卡",
+      "name_en": "Domanivka",
+      "province": "尼古拉耶夫州",
+      "latitude": 47.6287,
+      "longitude": 30.9865,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "马亚基",
+      "name_en": "Mayaky",
+      "province": "敖德萨州",
+      "latitude": 46.4125,
+      "longitude": 30.2672,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Pobuzke",
+      "province": "基洛夫格勒州",
+      "latitude": 48.1595,
+      "longitude": 30.5925,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Novodonetske",
+      "province": "顿涅茨克州",
+      "latitude": 48.636,
+      "longitude": 36.9858,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Vasyshcheve",
+      "province": "哈尔科夫州",
+      "latitude": 49.8347,
+      "longitude": 36.3312,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Murovani Kurylivtsi",
+      "province": "文尼察州",
+      "latitude": 48.7181,
+      "longitude": 27.5308,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Holovanivsk",
+      "province": "基洛夫格勒州",
+      "latitude": 48.3874,
+      "longitude": 30.4595,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Balabyne",
+      "province": "扎波罗热州",
+      "latitude": 47.7369,
+      "longitude": 35.2136,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Verkhovyna",
+      "province": "伊万诺-弗兰科夫斯克州",
+      "latitude": 48.1554,
+      "longitude": 24.8299,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Mamayvtsi",
+      "province": "Chernivtsi",
+      "latitude": 48.3472,
+      "longitude": 25.8275,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Chernihivka",
+      "province": "扎波罗热州",
+      "latitude": 47.1945,
+      "longitude": 36.2165,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Turiisk",
+      "province": "沃伦州",
+      "latitude": 51.0872,
+      "longitude": 24.5262,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Bylbasivka",
+      "province": "顿涅茨克州",
+      "latitude": 48.8393,
+      "longitude": 37.5018,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "韦塞利诺韦",
+      "name_en": "Veselynove",
+      "province": "尼古拉耶夫州",
+      "latitude": 47.3569,
+      "longitude": 31.2322,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "奥泽尔内",
+      "name_en": "Ozerne",
+      "province": "Zhytomyr",
+      "latitude": 50.1782,
+      "longitude": 28.7338,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Zelenivka",
+      "province": "赫尔松州",
+      "latitude": 46.7172,
+      "longitude": 32.657,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "希雷茨",
+      "name_en": "Shchyrets",
+      "province": "利沃夫州",
+      "latitude": 49.6525,
+      "longitude": 23.8579,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Balky",
+      "province": "扎波罗热州",
+      "latitude": 47.386,
+      "longitude": 34.9313,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Mala Bilozerka",
+      "province": "扎波罗热州",
+      "latitude": 47.2474,
+      "longitude": 34.9346,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "乔尔努希内",
+      "name_en": "Chornukhyne",
+      "province": "卢甘斯克州",
+      "latitude": 48.3228,
+      "longitude": 38.5174,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Liubeshiv",
+      "province": "沃伦州",
+      "latitude": 51.7651,
+      "longitude": 25.5132,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "塔鲁季涅",
+      "name_en": "Bessarabske",
+      "province": "敖德萨州",
+      "latitude": 46.1876,
+      "longitude": 29.1464,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Vodiane",
+      "province": "扎波罗热州",
+      "latitude": 47.4865,
+      "longitude": 34.5042,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Novhorodka",
+      "province": "基洛夫格勒州",
+      "latitude": 48.3609,
+      "longitude": 32.6547,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Novofedorovka",
+      "province": "克里米亚自治共和国",
+      "latitude": 45.0947,
+      "longitude": 33.5721,
+      "timezone": "Europe/Simferopol"
+    },
+    {
+      "name": "克希奇夫卡",
+      "name_en": "Kehychivka",
+      "province": "哈尔科夫州",
+      "latitude": 49.2866,
+      "longitude": 35.7615,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Kalyny",
+      "province": "外喀尔巴阡州",
+      "latitude": 48.144,
+      "longitude": 23.8739,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Ispas",
+      "province": "Chernivtsi",
+      "latitude": 48.2988,
+      "longitude": 25.2694,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "シェフチェンコ市",
+      "name_en": "Shevchenkove",
+      "province": "敖德萨州",
+      "latitude": 49.6952,
+      "longitude": 37.1751,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Dymer",
+      "province": "基辅州",
+      "latitude": 50.7865,
+      "longitude": 30.3026,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Novofedorivka",
+      "province": "赫尔松州",
+      "latitude": 45.0947,
+      "longitude": 33.5721,
+      "timezone": "Europe/Simferopol"
+    },
+    {
+      "name": "",
+      "name_en": "Monastyryska",
+      "province": "捷尔诺波尔州",
+      "latitude": 49.0906,
+      "longitude": 25.1715,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Lyubymivka",
+      "province": "赫尔松州",
+      "latitude": 46.8105,
+      "longitude": 33.5684,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "大多布龙",
+      "name_en": "Velyka Dobron",
+      "province": "外喀尔巴阡州",
+      "latitude": 48.4198,
+      "longitude": 22.3886,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Staryi Sambir",
+      "province": "利沃夫州",
+      "latitude": 49.44,
+      "longitude": 23.0008,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Makiv",
+      "province": "赫梅利尼茨基州",
+      "latitude": 48.7946,
+      "longitude": 26.6814,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Mala Verhunka",
+      "province": "卢甘斯克州",
+      "latitude": 48.5843,
+      "longitude": 39.384,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Dobrovelychkivka",
+      "province": "基洛夫格勒州",
+      "latitude": 48.3894,
+      "longitude": 31.1804,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Oster",
+      "province": "切尔尼戈夫州",
+      "latitude": 50.9497,
+      "longitude": 30.8773,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Morshyn",
+      "province": "利沃夫州",
+      "latitude": 49.1552,
+      "longitude": 23.8706,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "阿万哈尔德",
+      "name_en": "Avanhard",
+      "province": "敖德萨州",
+      "latitude": 46.4687,
+      "longitude": 30.6155,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Dniprovske",
+      "province": "Dnipropetrovsk",
+      "latitude": 48.5904,
+      "longitude": 34.4139,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Pionerskoye",
+      "province": "克里米亚自治共和国",
+      "latitude": 44.8808,
+      "longitude": 34.2019,
+      "timezone": "Europe/Simferopol"
+    },
+    {
+      "name": "",
+      "name_en": "Hlybokyi Potik",
+      "province": "外喀尔巴阡州",
+      "latitude": 48.0577,
+      "longitude": 23.8959,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "佐里亚",
+      "name_en": "Zorya",
+      "province": "敖德萨州",
+      "latitude": 45.9912,
+      "longitude": 29.6923,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "雅尔塔",
+      "name_en": "Yalta",
+      "province": "顿涅茨克州",
+      "latitude": 44.5022,
+      "longitude": 34.1662,
+      "timezone": "Europe/Simferopol"
+    },
+    {
+      "name": "",
+      "name_en": "Katerynopil",
+      "province": "切尔卡瑟州",
+      "latitude": 48.9456,
+      "longitude": 30.9719,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "新博罗瓦",
+      "name_en": "Nova Borova",
+      "province": "Zhytomyr",
+      "latitude": 50.6911,
+      "longitude": 28.6319,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Velyka Bahachka",
+      "province": "波尔塔瓦州",
+      "latitude": 49.7982,
+      "longitude": 33.7201,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Mishkovo-Pohorilove",
+      "province": "尼古拉耶夫州",
+      "latitude": 46.9945,
+      "longitude": 32.11,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "布罗什尼夫-奥萨达",
+      "name_en": "Broshniv-Osada",
+      "province": "伊万诺-弗兰科夫斯克州",
+      "latitude": 48.9976,
+      "longitude": 24.1942,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "胡比尼哈",
+      "name_en": "Hubynykha",
+      "province": "Dnipropetrovsk",
+      "latitude": 48.808,
+      "longitude": 35.2583,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Shumsk",
+      "province": "捷尔诺波尔州",
+      "latitude": 50.1178,
+      "longitude": 26.1179,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Serednie Vodiane",
+      "province": "外喀尔巴阡州",
+      "latitude": 47.9829,
+      "longitude": 23.909,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "大科帕尼",
+      "name_en": "Velyki Kopani",
+      "province": "赫尔松州",
+      "latitude": 46.4882,
+      "longitude": 32.9735,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Tomashpil",
+      "province": "文尼察州",
+      "latitude": 48.5369,
+      "longitude": 28.513,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "科雷伊兹",
+      "name_en": "Koreiz",
+      "province": "克里米亚自治共和国",
+      "latitude": 44.4315,
+      "longitude": 34.084,
+      "timezone": "Europe/Simferopol"
+    },
+    {
+      "name": "",
+      "name_en": "Chudniv",
+      "province": "Zhytomyr",
+      "latitude": 50.0525,
+      "longitude": 28.1206,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "奥季尼亚",
+      "name_en": "Otyniia",
+      "province": "伊万诺-弗兰科夫斯克州",
+      "latitude": 48.7379,
+      "longitude": 24.8611,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Vilne",
+      "province": "Dnipropetrovsk",
+      "latitude": 47.6379,
+      "longitude": 34.8167,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "贝代夫利亚",
+      "name_en": "Bedevlya",
+      "province": "外喀尔巴阡州",
+      "latitude": 48.005,
+      "longitude": 23.6643,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Milove",
+      "province": "卢甘斯克州",
+      "latitude": 49.3736,
+      "longitude": 40.1464,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Verkhniy Rohachyk",
+      "province": "赫尔松州",
+      "latitude": 47.2521,
+      "longitude": 34.3356,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "赫尼丁",
+      "name_en": "Hnidyn",
+      "province": "基辅州",
+      "latitude": 50.329,
+      "longitude": 30.7106,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Korchuvate",
+      "province": "Kyiv City",
+      "latitude": 50.3635,
+      "longitude": 30.555,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "泰普莱",
+      "name_en": "Teple",
+      "province": "卢甘斯克州",
+      "latitude": 48.3124,
+      "longitude": 39.5628,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Ozerne",
+      "province": "敖德萨州",
+      "latitude": 50.1782,
+      "longitude": 28.7338,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Horenka",
+      "province": "基辅州",
+      "latitude": 50.5573,
+      "longitude": 30.3322,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Marshyntsi",
+      "province": "Chernivtsi",
+      "latitude": 48.2119,
+      "longitude": 26.2993,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "罗日尼夫",
+      "name_en": "Rozhniv",
+      "province": "伊万诺-弗兰科夫斯克州",
+      "latitude": 48.365,
+      "longitude": 25.2284,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "埃斯哈尔",
+      "name_en": "Eskhar",
+      "province": "哈尔科夫州",
+      "latitude": 49.7974,
+      "longitude": 36.5902,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "谢尔吉伊夫卡",
+      "name_en": "Serhiyivka",
+      "province": "敖德萨州",
+      "latitude": 46.0251,
+      "longitude": 30.3683,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Staromykhailivka",
+      "province": "顿涅茨克州",
+      "latitude": 47.9926,
+      "longitude": 37.5858,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Tarasivtsi",
+      "province": "Chernivtsi",
+      "latitude": 48.2056,
+      "longitude": 26.3644,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "萨温齐",
+      "name_en": "Savyntsi",
+      "province": "哈尔科夫州",
+      "latitude": 49.4051,
+      "longitude": 37.0552,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Nedryhailiv",
+      "province": "苏梅州",
+      "latitude": 50.834,
+      "longitude": 33.8763,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Novosilky",
+      "province": "基辅州",
+      "latitude": 50.3122,
+      "longitude": 30.0754,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Vashkivtsi",
+      "province": "Chernivtsi",
+      "latitude": 48.3839,
+      "longitude": 25.5175,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Pishchanka",
+      "province": "文尼察州",
+      "latitude": 48.2125,
+      "longitude": 28.8806,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Stara Syniava",
+      "province": "赫梅利尼茨基州",
+      "latitude": 49.5971,
+      "longitude": 27.615,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Velyka Mykhaylivka",
+      "province": "敖德萨州",
+      "latitude": 47.0785,
+      "longitude": 29.8525,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Aviamistechko",
+      "province": "Kyiv City",
+      "latitude": 50.4637,
+      "longitude": 30.3806,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Rivne",
+      "province": "基洛夫格勒州",
+      "latitude": 50.6204,
+      "longitude": 26.237,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Okny",
+      "province": "敖德萨州",
+      "latitude": 47.5429,
+      "longitude": 29.4559,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Opishnya",
+      "province": "波尔塔瓦州",
+      "latitude": 49.9595,
+      "longitude": 34.6063,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Rudky",
+      "province": "利沃夫州",
+      "latitude": 49.6535,
+      "longitude": 23.4867,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Verkhnye Vodyane",
+      "province": "外喀尔巴阡州",
+      "latitude": 48.0038,
+      "longitude": 23.9599,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Shatsk",
+      "province": "沃伦州",
+      "latitude": 51.4993,
+      "longitude": 23.9359,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Chudei",
+      "province": "Chernivtsi",
+      "latitude": 48.051,
+      "longitude": 25.6221,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Talalaivka",
+      "province": "切尔尼戈夫州",
+      "latitude": 50.8429,
+      "longitude": 33.1417,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Kolinkivtsy",
+      "province": "Chernivtsi",
+      "latitude": 48.4125,
+      "longitude": 26.1246,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Bilohirya",
+      "province": "赫梅利尼茨基州",
+      "latitude": 49.9989,
+      "longitude": 26.4144,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Novohuivynske",
+      "province": "Zhytomyr",
+      "latitude": 50.2069,
+      "longitude": 28.6921,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "佩切尼任",
+      "name_en": "Pechenizhyn",
+      "province": "伊万诺-弗兰科夫斯克州",
+      "latitude": 48.5167,
+      "longitude": 24.8832,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "霍罗德尼察",
+      "name_en": "Horodnytsia",
+      "province": "Zhytomyr",
+      "latitude": 50.8066,
+      "longitude": 27.3142,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Novomykolayivka",
+      "province": "扎波罗热州",
+      "latitude": 47.9736,
+      "longitude": 35.8981,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Iza",
+      "province": "外喀尔巴阡州",
+      "latitude": 48.2152,
+      "longitude": 23.3287,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "佩拉赫季伊夫卡",
+      "name_en": "Plakhtiyivka",
+      "province": "敖德萨州",
+      "latitude": 46.095,
+      "longitude": 29.7189,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Velyka Novosilka",
+      "province": "顿涅茨克州",
+      "latitude": 47.8451,
+      "longitude": 36.8351,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "大皮萨里夫卡",
+      "name_en": "Velyka Pysarivka",
+      "province": "苏梅州",
+      "latitude": 50.4243,
+      "longitude": 35.4799,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Khutir-Mykhailivskyi",
+      "province": "苏梅州",
+      "latitude": 52.0477,
+      "longitude": 33.9453,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Komyshuvakha",
+      "province": "扎波罗热州",
+      "latitude": 47.7149,
+      "longitude": 35.5241,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Knyazhichi",
+      "province": "基辅州",
+      "latitude": 50.4627,
+      "longitude": 30.7837,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Chemerivtsi",
+      "province": "赫梅利尼茨基州",
+      "latitude": 49.0091,
+      "longitude": 26.34,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Oleksandrivka",
+      "province": "尼古拉耶夫州",
+      "latitude": 48.968,
+      "longitude": 32.2397,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Lypova Dolyna",
+      "province": "苏梅州",
+      "latitude": 50.5643,
+      "longitude": 33.7979,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Davydiv",
+      "province": "利沃夫州",
+      "latitude": 49.7469,
+      "longitude": 24.1393,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Krasnosilka",
+      "province": "敖德萨州",
+      "latitude": 46.6227,
+      "longitude": 30.7715,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "特罗伊齐克",
+      "name_en": "Troyitske",
+      "province": "敖德萨州",
+      "latitude": 49.9145,
+      "longitude": 38.2927,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Borova",
+      "province": "哈尔科夫州",
+      "latitude": 50.1763,
+      "longitude": 30.1043,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "贝雷兹纳",
+      "name_en": "Berezna",
+      "province": "切尔尼戈夫州",
+      "latitude": 51.5782,
+      "longitude": 31.7874,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Bratske",
+      "province": "尼古拉耶夫州",
+      "latitude": 47.8666,
+      "longitude": 31.5753,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "扎哈里夫卡",
+      "name_en": "Zakharivka",
+      "province": "敖德萨州",
+      "latitude": 47.3313,
+      "longitude": 29.754,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "普利内",
+      "name_en": "Pulyny",
+      "province": "Zhytomyr",
+      "latitude": 50.4674,
+      "longitude": 28.27,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Volovets",
+      "province": "外喀尔巴阡州",
+      "latitude": 48.7109,
+      "longitude": 23.1851,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Chisten’koye",
+      "province": "克里米亚自治共和国",
+      "latitude": 44.8815,
+      "longitude": 34.0472,
+      "timezone": "Europe/Simferopol"
+    },
+    {
+      "name": "佩切尼希",
+      "name_en": "Pechenihy",
+      "province": "哈尔科夫州",
+      "latitude": 49.8717,
+      "longitude": 36.9347,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "旧科扎切",
+      "name_en": "Starokozache",
+      "province": "敖德萨州",
+      "latitude": 46.3358,
+      "longitude": 29.9888,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "戈罗德内",
+      "name_en": "Horodnye",
+      "province": "敖德萨州",
+      "latitude": 45.892,
+      "longitude": 28.8495,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "恰巴内",
+      "name_en": "Chabany",
+      "province": "基辅州",
+      "latitude": 50.3407,
+      "longitude": 30.4236,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "霍夏",
+      "name_en": "Hoshcha",
+      "province": "Rivne",
+      "latitude": 50.6025,
+      "longitude": 26.681,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "科罗普",
+      "name_en": "Korop",
+      "province": "切尔尼戈夫州",
+      "latitude": 51.5667,
+      "longitude": 32.9522,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Stari Kuty",
+      "province": "伊万诺-弗兰科夫斯克州",
+      "latitude": 48.2794,
+      "longitude": 25.163,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Romankivtsi",
+      "province": "Chernivtsi",
+      "latitude": 48.4842,
+      "longitude": 27.2141,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Obolon",
+      "province": "波尔塔瓦州",
+      "latitude": 50.5132,
+      "longitude": 30.5055,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "旧维日夫卡",
+      "name_en": "Stara Vyzhivka",
+      "province": "沃伦州",
+      "latitude": 51.4366,
+      "longitude": 24.4396,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Talalaivka",
+      "province": "切尔尼戈夫州",
+      "latitude": 50.8429,
+      "longitude": 33.1417,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Znamyanka Druha",
+      "province": "基洛夫格勒州",
+      "latitude": 48.7116,
+      "longitude": 32.5966,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "",
+      "name_en": "Ruska Lozova",
+      "province": "哈尔科夫州",
+      "latitude": 50.1421,
+      "longitude": 36.2861,
+      "timezone": "Europe/Kyiv"
+    },
+    {
+      "name": "波赫丹尼夫卡",
+      "name_en": "Bohdanivka",
+      "province": "Dnipropetrovsk",
+      "latitude": 48.5019,
+      "longitude": 36.1217,
+      "timezone": "Europe/Kyiv"
+    }
+  ]
+}

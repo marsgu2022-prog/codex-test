@@ -1,0 +1,3558 @@
+{
+  "country_code": "TH",
+  "country_name": "泰国",
+  "cities": [
+    {
+      "name": "曼谷",
+      "name_en": "Bangkok",
+      "province": "曼谷",
+      "latitude": 13.754,
+      "longitude": 100.5014,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "沙没巴干府",
+      "name_en": "Samut Prakan",
+      "province": "沙没巴干府",
+      "latitude": 13.5976,
+      "longitude": 100.5972,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Mueang Nonthaburi",
+      "province": "Nonthaburi",
+      "latitude": 13.8607,
+      "longitude": 100.5148,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Chon Buri",
+      "province": "春武里府",
+      "latitude": 13.3622,
+      "longitude": 100.9835,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "プラプラデーン郡",
+      "name_en": "Phra Pradaeng",
+      "province": "沙没巴干府",
+      "latitude": 13.6585,
+      "longitude": 100.5336,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bang Khae",
+      "province": "曼谷",
+      "latitude": 13.692,
+      "longitude": 100.4069,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "合艾",
+      "name_en": "Hat Yai",
+      "province": "宋卡府",
+      "latitude": 7.0084,
+      "longitude": 100.4767,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Pak Kret",
+      "province": "Nonthaburi",
+      "latitude": 13.913,
+      "longitude": 100.4988,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Sai Mai",
+      "province": "曼谷",
+      "latitude": 13.9207,
+      "longitude": 100.6455,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Si Racha",
+      "province": "春武里府",
+      "latitude": 13.1737,
+      "longitude": 100.9311,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Latkrabang",
+      "province": "曼谷",
+      "latitude": 13.7278,
+      "longitude": 100.7461,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Watthana",
+      "province": "曼谷",
+      "latitude": 13.7298,
+      "longitude": 100.5854,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Khlong Sam Wa",
+      "province": "曼谷",
+      "latitude": 13.8714,
+      "longitude": 100.7372,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bang Khun Thian",
+      "province": "曼谷",
+      "latitude": 13.663,
+      "longitude": 100.4342,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Lat Krabang",
+      "province": "曼谷",
+      "latitude": 13.7278,
+      "longitude": 100.7461,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Chatuchak",
+      "province": "曼谷",
+      "latitude": 13.8289,
+      "longitude": 100.5598,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Khlong Prawet",
+      "province": "曼谷",
+      "latitude": 13.719,
+      "longitude": 100.6815,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Chom Thong",
+      "province": "曼谷",
+      "latitude": 13.6772,
+      "longitude": 100.4841,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Nong Chok",
+      "province": "曼谷",
+      "latitude": 13.8559,
+      "longitude": 100.8622,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Lampang",
+      "province": "南邦府",
+      "latitude": 18.2923,
+      "longitude": 99.4928,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Nong Khaem",
+      "province": "曼谷",
+      "latitude": 13.7053,
+      "longitude": 100.3492,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bang Kapi",
+      "province": "曼谷",
+      "latitude": 13.7653,
+      "longitude": 100.647,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bueng Kum",
+      "province": "曼谷",
+      "latitude": 13.7853,
+      "longitude": 100.6696,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Kabin Buri",
+      "province": "巴真府",
+      "latitude": 13.9511,
+      "longitude": 101.7177,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "素叻他尼",
+      "name_en": "Surat Thani",
+      "province": "素叻他尼府",
+      "latitude": 9.1401,
+      "longitude": 99.3331,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "乌隆他尼",
+      "name_en": "Udon Thani",
+      "province": "乌隆府",
+      "latitude": 17.4157,
+      "longitude": 102.7859,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Din Daeng",
+      "province": "曼谷",
+      "latitude": 13.7904,
+      "longitude": 100.5701,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "清迈",
+      "name_en": "Chiang Mai",
+      "province": "清迈府",
+      "latitude": 18.7904,
+      "longitude": 98.9847,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "呵叻",
+      "name_en": "Nakhon Ratchasima",
+      "province": "那空叻差是玛府",
+      "latitude": 14.9707,
+      "longitude": 102.102,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Hua Hin",
+      "province": "巴蜀府",
+      "latitude": 12.5707,
+      "longitude": 99.9588,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bang Sue",
+      "province": "曼谷",
+      "latitude": 13.8109,
+      "longitude": 100.5306,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Samae Dam",
+      "province": "曼谷",
+      "latitude": 13.5896,
+      "longitude": 100.3873,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "乌汶叻差他尼",
+      "name_en": "Ubon Ratchathani",
+      "province": "乌汶府",
+      "latitude": 15.2384,
+      "longitude": 104.8487,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Lat Phrao",
+      "province": "曼谷",
+      "latitude": 13.8035,
+      "longitude": 100.6075,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Phasi Charoen",
+      "province": "曼谷",
+      "latitude": 13.7147,
+      "longitude": 100.4369,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban I Chang",
+      "province": "叻武里府",
+      "latitude": 13.7106,
+      "longitude": 99.8962,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Thon Buri",
+      "province": "曼谷",
+      "latitude": 13.725,
+      "longitude": 100.4851,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Khlong Luang",
+      "province": "巴吞他尼府",
+      "latitude": 14.0647,
+      "longitude": 100.6458,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "佛统",
+      "name_en": "Nakhon Pathom",
+      "province": "佛统府",
+      "latitude": 13.8196,
+      "longitude": 100.0443,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bangkok Noi",
+      "province": "曼谷",
+      "latitude": 13.7627,
+      "longitude": 100.478,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Thung Khru",
+      "province": "曼谷",
+      "latitude": 13.6288,
+      "longitude": 100.5096,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "芭达亚",
+      "name_en": "Pattaya",
+      "province": "春武里府",
+      "latitude": 12.9333,
+      "longitude": 100.8833,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Suan Luang",
+      "province": "曼谷",
+      "latitude": 13.7303,
+      "longitude": 100.6514,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Wang Thonglang",
+      "province": "曼谷",
+      "latitude": 13.7855,
+      "longitude": 100.6116,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "孔敬",
+      "name_en": "Khon Kaen",
+      "province": "孔敬府",
+      "latitude": 16.4467,
+      "longitude": 102.833,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Lak Si",
+      "province": "曼谷",
+      "latitude": 13.8872,
+      "longitude": 100.5792,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Khlong Toei",
+      "province": "曼谷",
+      "latitude": 13.7167,
+      "longitude": 100.5716,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Dusit",
+      "province": "曼谷",
+      "latitude": 13.7775,
+      "longitude": 100.5198,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "罗勇市",
+      "name_en": "Rayong",
+      "province": "罗勇府",
+      "latitude": 12.6809,
+      "longitude": 101.258,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Taling Chan",
+      "province": "曼谷",
+      "latitude": 13.777,
+      "longitude": 100.4567,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bang Bon",
+      "province": "曼谷",
+      "latitude": 13.6618,
+      "longitude": 100.3957,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "那空是贪玛叻",
+      "name_en": "Nakhon Si Thammarat",
+      "province": "那空是贪玛叻府",
+      "latitude": 8.4333,
+      "longitude": 99.9667,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Si Maha Phot",
+      "province": "巴真府",
+      "latitude": 13.966,
+      "longitude": 101.513,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "庄他武里",
+      "name_en": "Chanthaburi",
+      "province": "庄他武里府",
+      "latitude": 12.6096,
+      "longitude": 102.1045,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bang Rak",
+      "province": "曼谷",
+      "latitude": 13.7306,
+      "longitude": 100.5239,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Tha Raeng",
+      "province": "曼谷",
+      "latitude": 13.8685,
+      "longitude": 100.6453,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bang Na",
+      "province": "曼谷",
+      "latitude": 13.6674,
+      "longitude": 100.6421,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Anusawari",
+      "province": "曼谷",
+      "latitude": 13.8947,
+      "longitude": 100.6142,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Yala",
+      "province": "也拉府",
+      "latitude": 6.54,
+      "longitude": 101.2813,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ratchaburi",
+      "province": "叻武里府",
+      "latitude": 13.5367,
+      "longitude": 99.8171,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bang Phlat",
+      "province": "曼谷",
+      "latitude": 13.7942,
+      "longitude": 100.5045,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Phra Khanong",
+      "province": "曼谷",
+      "latitude": 13.7019,
+      "longitude": 100.6016,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Saphan Sung",
+      "province": "曼谷",
+      "latitude": 13.7702,
+      "longitude": 100.6853,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Khan Na Yao",
+      "province": "曼谷",
+      "latitude": 13.8261,
+      "longitude": 100.6793,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Mai",
+      "province": "宋卡府",
+      "latitude": 7.2041,
+      "longitude": 100.5451,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Rat Burana",
+      "province": "曼谷",
+      "latitude": 13.6822,
+      "longitude": 100.506,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Sathon",
+      "province": "曼谷",
+      "latitude": 13.7085,
+      "longitude": 100.5262,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "北榄坡",
+      "name_en": "Nakhon Sawan",
+      "province": "那空沙旺府",
+      "latitude": 15.7047,
+      "longitude": 100.1372,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Yan Nawa",
+      "province": "曼谷",
+      "latitude": 13.6963,
+      "longitude": 100.5421,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Sathorn",
+      "province": "曼谷",
+      "latitude": 13.75,
+      "longitude": 100.5168,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bang Sue subdistrict",
+      "province": "曼谷",
+      "latitude": 13.8064,
+      "longitude": 100.5306,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "普吉市",
+      "name_en": "Phuket",
+      "province": "普吉府",
+      "latitude": 7.8906,
+      "longitude": 98.3981,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "清莱",
+      "name_en": "Chiang Rai",
+      "province": "清莱府",
+      "latitude": 19.9086,
+      "longitude": 99.8325,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bang Kruai",
+      "province": "Nonthaburi",
+      "latitude": 13.805,
+      "longitude": 100.4728,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Huai Khwang",
+      "province": "曼谷",
+      "latitude": 13.7768,
+      "longitude": 100.579,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Khlong Chan",
+      "province": "曼谷",
+      "latitude": 13.7813,
+      "longitude": 100.6451,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Thawi Watthana",
+      "province": "曼谷",
+      "latitude": 13.7832,
+      "longitude": 100.3781,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Sakon Nakhon",
+      "province": "沙功那空府",
+      "latitude": 17.1612,
+      "longitude": 104.1472,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Khlong San",
+      "province": "曼谷",
+      "latitude": 13.7309,
+      "longitude": 100.509,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ratchathewi",
+      "province": "曼谷",
+      "latitude": 13.759,
+      "longitude": 100.5336,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Krathum Baen",
+      "province": "沙没沙空府",
+      "latitude": 13.6533,
+      "longitude": 100.2597,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bangkok Yai",
+      "province": "曼谷",
+      "latitude": 13.7232,
+      "longitude": 100.476,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Ko Sire",
+      "province": "普吉府",
+      "latitude": 7.8875,
+      "longitude": 98.4257,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Phaya Thai",
+      "province": "曼谷",
+      "latitude": 13.78,
+      "longitude": 100.5427,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Khlong Kum",
+      "province": "曼谷",
+      "latitude": 13.7884,
+      "longitude": 100.6803,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Huamak",
+      "province": "曼谷",
+      "latitude": 13.7578,
+      "longitude": 100.6474,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Saraburi",
+      "province": "沙拉武里府",
+      "latitude": 14.5333,
+      "longitude": 100.9167,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Trang",
+      "province": "Trang",
+      "latitude": 7.5563,
+      "longitude": 99.6114,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Sattahip",
+      "province": "春武里府",
+      "latitude": 12.6664,
+      "longitude": 100.9007,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Kanchanaburi",
+      "province": "北碧府",
+      "latitude": 14.0041,
+      "longitude": 99.5483,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Nong Khai",
+      "province": "廊开府",
+      "latitude": 17.8785,
+      "longitude": 102.742,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Samut Sakhon",
+      "province": "沙没沙空府",
+      "latitude": 13.5475,
+      "longitude": 100.2736,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "彭世洛",
+      "name_en": "Phitsanulok",
+      "province": "彭世洛府",
+      "latitude": 16.8248,
+      "longitude": 100.2586,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "宋卡",
+      "name_en": "Songkhla",
+      "province": "宋卡府",
+      "latitude": 7.1988,
+      "longitude": 100.5951,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Tha Kham",
+      "province": "曼谷",
+      "latitude": 13.6375,
+      "longitude": 100.4413,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Lam Luk Ka",
+      "province": "巴吞他尼府",
+      "latitude": 13.9774,
+      "longitude": 100.7778,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bang Khae Nuea",
+      "province": "曼谷",
+      "latitude": 13.7055,
+      "longitude": 100.3893,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Prachantakham",
+      "province": "巴真府",
+      "latitude": 14.0644,
+      "longitude": 101.515,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Kamphaeng Phet",
+      "province": "甘烹碧府",
+      "latitude": 16.4834,
+      "longitude": 99.5215,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Chaiyaphum",
+      "province": "猜也蓬府",
+      "latitude": 15.8105,
+      "longitude": 102.0288,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "程逸",
+      "name_en": "Uttaradit",
+      "province": "程逸府",
+      "latitude": 17.6256,
+      "longitude": 100.0942,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Lop Buri",
+      "province": "华富里府",
+      "latitude": 14.7981,
+      "longitude": 100.654,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Pong",
+      "province": "叻武里府",
+      "latitude": 13.8163,
+      "longitude": 99.8774,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Na Di",
+      "province": "巴真府",
+      "latitude": 14.1152,
+      "longitude": 101.7819,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Phra Phutthabat",
+      "province": "沙拉武里府",
+      "latitude": 14.7253,
+      "longitude": 100.7954,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Chumphon",
+      "province": "春蓬府",
+      "latitude": 10.4957,
+      "longitude": 99.1797,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Klaeng",
+      "province": "罗勇府",
+      "latitude": 12.7797,
+      "longitude": 101.6483,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Kalasin",
+      "province": "加拉信府",
+      "latitude": 16.4328,
+      "longitude": 103.5066,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Suphan Buri",
+      "province": "素攀府",
+      "latitude": 14.4742,
+      "longitude": 100.1222,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Pathum Wan",
+      "province": "曼谷",
+      "latitude": 13.7365,
+      "longitude": 100.5239,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Wat Tha Phra",
+      "province": "曼谷",
+      "latitude": 13.7346,
+      "longitude": 100.4761,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Tha Maka",
+      "province": "北碧府",
+      "latitude": 13.9,
+      "longitude": 99.7667,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Talat Yai",
+      "province": "普吉府",
+      "latitude": 7.8848,
+      "longitude": 98.4001,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Lak Song",
+      "province": "曼谷",
+      "latitude": 13.6893,
+      "longitude": 100.3981,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Maha Sarakham",
+      "province": "马哈沙拉堪府",
+      "latitude": 16.1848,
+      "longitude": 103.3007,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Phra Nakhon",
+      "province": "曼谷",
+      "latitude": 13.754,
+      "longitude": 100.5014,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Pom Prap Sattru Phai",
+      "province": "曼谷",
+      "latitude": 13.7582,
+      "longitude": 100.5132,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Phra Nakhon Si Ayutthaya",
+      "province": "大城府",
+      "latitude": 14.3517,
+      "longitude": 100.5774,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Phetchabun",
+      "province": "碧差汶府",
+      "latitude": 16.419,
+      "longitude": 101.1606,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ko Samui",
+      "province": "素叻他尼府",
+      "latitude": 9.5357,
+      "longitude": 99.9357,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "差春骚府",
+      "name_en": "Chachoengsao",
+      "province": "差春骚府",
+      "latitude": 13.6882,
+      "longitude": 101.0716,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Cha-am",
+      "province": "碧武里府",
+      "latitude": 12.8,
+      "longitude": 99.9667,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Pak Chong",
+      "province": "那空叻差是玛府",
+      "latitude": 14.708,
+      "longitude": 101.4161,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Chong Nonsi",
+      "province": "曼谷",
+      "latitude": 13.6931,
+      "longitude": 100.5487,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bangkok Riverside",
+      "province": "曼谷",
+      "latitude": 13.7549,
+      "longitude": 100.5172,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Narathiwat",
+      "province": "那拉提瓦府",
+      "latitude": 6.4264,
+      "longitude": 101.8231,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Pran Buri",
+      "province": "巴蜀府",
+      "latitude": 12.3849,
+      "longitude": 99.9016,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Surin",
+      "province": "素林府",
+      "latitude": 14.8818,
+      "longitude": 103.4936,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Phetchaburi",
+      "province": "碧武里府",
+      "latitude": 13.1119,
+      "longitude": 99.9447,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Chum Phae",
+      "province": "孔敬府",
+      "latitude": 16.5443,
+      "longitude": 102.0992,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Sadao",
+      "province": "宋卡府",
+      "latitude": 6.6388,
+      "longitude": 100.4234,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Si Sa Ket",
+      "province": "四色菊府",
+      "latitude": 15.1148,
+      "longitude": 104.3294,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Mae Sot",
+      "province": "达府",
+      "latitude": 16.7167,
+      "longitude": 98.5667,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Pattani",
+      "province": "北大年府",
+      "latitude": 6.8681,
+      "longitude": 101.2501,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Phatthalung",
+      "province": "博他仑府",
+      "latitude": 7.6179,
+      "longitude": 100.0779,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Lamphun",
+      "province": "南奔府",
+      "latitude": 18.5805,
+      "longitude": 99.0075,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Warin Chamrap",
+      "province": "乌汶府",
+      "latitude": 15.1932,
+      "longitude": 104.8628,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Wong Sawang",
+      "province": "曼谷",
+      "latitude": 13.8167,
+      "longitude": 100.5159,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Su-ngai Kolok",
+      "province": "那拉提瓦府",
+      "latitude": 6.0298,
+      "longitude": 101.9659,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Tha Yang",
+      "province": "碧武里府",
+      "latitude": 12.9577,
+      "longitude": 99.9056,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Phaeo",
+      "province": "沙没沙空府",
+      "latitude": 13.5907,
+      "longitude": 100.1075,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bang Bua Thong",
+      "province": "Nonthaburi",
+      "latitude": 13.9178,
+      "longitude": 100.424,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Lat Yao",
+      "province": "曼谷",
+      "latitude": 13.8473,
+      "longitude": 100.5637,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Nong Khae",
+      "province": "沙拉武里府",
+      "latitude": 14.3406,
+      "longitude": 100.8673,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Mukdahan",
+      "province": "穆达汉府",
+      "latitude": 16.5453,
+      "longitude": 104.7235,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bang Phai",
+      "province": "曼谷",
+      "latitude": 13.7067,
+      "longitude": 100.3867,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Na",
+      "province": "素可泰府",
+      "latitude": 17.0172,
+      "longitude": 99.7328,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bang Lamung",
+      "province": "春武里府",
+      "latitude": 13.047,
+      "longitude": 100.9289,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Roi Et",
+      "province": "黎逸府",
+      "latitude": 16.0567,
+      "longitude": 103.6531,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Wichian Buri",
+      "province": "碧差汶府",
+      "latitude": 15.6578,
+      "longitude": 101.106,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Khao Saming",
+      "province": "Trat",
+      "latitude": 12.3535,
+      "longitude": 102.4355,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Khwaeng Bang Khae",
+      "province": "曼谷",
+      "latitude": 13.692,
+      "longitude": 100.4069,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Wichit",
+      "province": "普吉府",
+      "latitude": 7.8894,
+      "longitude": 98.3852,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Phrae",
+      "province": "帕府",
+      "latitude": 18.1459,
+      "longitude": 100.141,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Sang",
+      "province": "巴真府",
+      "latitude": 13.995,
+      "longitude": 101.221,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Khetsamsenok",
+      "province": "曼谷",
+      "latitude": 13.7928,
+      "longitude": 100.583,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Khlong Yai",
+      "province": "Trat",
+      "latitude": 11.7765,
+      "longitude": 102.8857,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Chan Kasem",
+      "province": "曼谷",
+      "latitude": 13.8206,
+      "longitude": 100.5831,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Mae Chan",
+      "province": "清莱府",
+      "latitude": 20.1468,
+      "longitude": 99.8526,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Sam Phran",
+      "province": "佛统府",
+      "latitude": 13.727,
+      "longitude": 100.2153,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Sukhothai",
+      "province": "素可泰府",
+      "latitude": 17.0078,
+      "longitude": 99.823,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Kantharalak",
+      "province": "四色菊府",
+      "latitude": 14.6406,
+      "longitude": 104.6499,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Photharam",
+      "province": "叻武里府",
+      "latitude": 13.6923,
+      "longitude": 99.8497,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Ang Sila",
+      "province": "春武里府",
+      "latitude": 13.3396,
+      "longitude": 100.9296,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bang Khlo",
+      "province": "曼谷",
+      "latitude": 13.6989,
+      "longitude": 100.5124,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Phichit",
+      "province": "披集府",
+      "latitude": 16.4418,
+      "longitude": 100.3488,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Det Udom",
+      "province": "乌汶府",
+      "latitude": 14.906,
+      "longitude": 105.0784,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Phai",
+      "province": "孔敬府",
+      "latitude": 16.06,
+      "longitude": 102.731,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Tha Bo",
+      "province": "廊开府",
+      "latitude": 17.85,
+      "longitude": 102.5814,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Loei",
+      "province": "黎府",
+      "latitude": 17.4905,
+      "longitude": 101.7275,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Samut Songkhram",
+      "province": "沙没颂堪府",
+      "latitude": 13.4146,
+      "longitude": 100.0026,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Kathu",
+      "province": "普吉府",
+      "latitude": 7.9178,
+      "longitude": 98.3332,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Amnat Charoen",
+      "province": "安纳乍伦府",
+      "latitude": 15.8585,
+      "longitude": 104.6288,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Nakhon Phanom",
+      "province": "那空拍侬府",
+      "latitude": 17.4108,
+      "longitude": 104.7786,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Satun",
+      "province": "沙敦府",
+      "latitude": 6.6231,
+      "longitude": 100.0668,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Nong Bua Lamphu",
+      "province": "农磨兰普府",
+      "latitude": 17.2041,
+      "longitude": 102.4407,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Ratsada",
+      "province": "普吉府",
+      "latitude": 7.9096,
+      "longitude": 98.4025,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Prachuap Khiri Khan",
+      "province": "巴蜀府",
+      "latitude": 11.821,
+      "longitude": 99.7841,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Chomphon",
+      "province": "曼谷",
+      "latitude": 13.8035,
+      "longitude": 100.5603,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "San Kamphaeng",
+      "province": "清迈府",
+      "latitude": 18.7449,
+      "longitude": 99.1195,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Prachin Buri",
+      "province": "巴真府",
+      "latitude": 14.0499,
+      "longitude": 101.3686,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Khlong Bang Phran",
+      "province": "曼谷",
+      "latitude": 13.6631,
+      "longitude": 100.3878,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bang Khun Si",
+      "province": "曼谷",
+      "latitude": 13.7506,
+      "longitude": 100.4702,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "甲米",
+      "name_en": "Krabi",
+      "province": "甲米府",
+      "latitude": 8.0726,
+      "longitude": 98.9105,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Khlong Bang Sao Thong",
+      "province": "沙没巴干府",
+      "latitude": 13.6417,
+      "longitude": 100.8327,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Yaring",
+      "province": "北大年府",
+      "latitude": 6.8662,
+      "longitude": 101.3689,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Na Klang",
+      "province": "农磨兰普府",
+      "latitude": 17.3072,
+      "longitude": 102.1889,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Aranyik",
+      "province": "彭世洛府",
+      "latitude": 16.8255,
+      "longitude": 100.2849,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Sam Sen Nai",
+      "province": "曼谷",
+      "latitude": 13.7771,
+      "longitude": 100.5508,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Kaeng Khoi",
+      "province": "沙拉武里府",
+      "latitude": 14.5862,
+      "longitude": 100.9976,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Betong",
+      "province": "也拉府",
+      "latitude": 5.7743,
+      "longitude": 101.0723,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bang Phae",
+      "province": "叻武里府",
+      "latitude": 13.6916,
+      "longitude": 99.9298,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Phan Don",
+      "province": "乌隆府",
+      "latitude": 17.1427,
+      "longitude": 102.9726,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Chang Lo",
+      "province": "曼谷",
+      "latitude": 13.7508,
+      "longitude": 100.477,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Kaeng Khro",
+      "province": "猜也蓬府",
+      "latitude": 16.1086,
+      "longitude": 102.2581,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Amphoe Sikhiu",
+      "province": "那空叻差是玛府",
+      "latitude": 14.8994,
+      "longitude": 101.7083,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Sa Kaeo",
+      "province": "沙缴府",
+      "latitude": 13.8141,
+      "longitude": 102.0722,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bang Bo District",
+      "province": "沙没巴干府",
+      "latitude": 13.5833,
+      "longitude": 100.8167,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Buri Ram",
+      "province": "武里南府",
+      "latitude": 14.9943,
+      "longitude": 103.1039,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Thung Song",
+      "province": "那空是贪玛叻府",
+      "latitude": 8.1645,
+      "longitude": 99.6804,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Chang",
+      "province": "罗勇府",
+      "latitude": 13.995,
+      "longitude": 101.221,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Bang Kadi",
+      "province": "巴吞他尼府",
+      "latitude": 13.999,
+      "longitude": 100.5496,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Nong Phai",
+      "province": "碧差汶府",
+      "latitude": 15.9902,
+      "longitude": 101.0618,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Mae Sai",
+      "province": "清莱府",
+      "latitude": 20.4335,
+      "longitude": 99.8762,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Chorakhe Bua",
+      "province": "曼谷",
+      "latitude": 13.839,
+      "longitude": 100.6114,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Tha Muang",
+      "province": "北碧府",
+      "latitude": 13.9612,
+      "longitude": 99.6412,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ron Phibun",
+      "province": "那空是贪玛叻府",
+      "latitude": 8.1791,
+      "longitude": 99.8542,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Talat Bueng",
+      "province": "春武里府",
+      "latitude": 13.0715,
+      "longitude": 101.0031,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Si Satchanalai",
+      "province": "素可泰府",
+      "latitude": 17.5169,
+      "longitude": 99.7598,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Inner Huai Khwang",
+      "province": "曼谷",
+      "latitude": 13.7815,
+      "longitude": 100.5838,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Tha Kham",
+      "province": "素叻他尼府",
+      "latitude": 9.1107,
+      "longitude": 99.2321,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bang Pakong",
+      "province": "差春骚府",
+      "latitude": 13.543,
+      "longitude": 100.9933,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Chai Badan",
+      "province": "华富里府",
+      "latitude": 15.2,
+      "longitude": 101.1333,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Prachin Buri Town",
+      "province": "巴真府",
+      "latitude": 14.0546,
+      "longitude": 101.3726,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Pak Phanang",
+      "province": "那空是贪玛叻府",
+      "latitude": 8.3511,
+      "longitude": 100.2019,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bangbontai",
+      "province": "曼谷",
+      "latitude": 13.6472,
+      "longitude": 100.3714,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bang Yi Khan",
+      "province": "曼谷",
+      "latitude": 13.7633,
+      "longitude": 100.4898,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Kut Chap",
+      "province": "乌隆府",
+      "latitude": 17.4257,
+      "longitude": 102.5669,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Nan",
+      "province": "Nan",
+      "latitude": 18.7838,
+      "longitude": 100.779,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ranong",
+      "province": "拉廊府",
+      "latitude": 9.9658,
+      "longitude": 98.6348,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Pathum Thani",
+      "province": "巴吞他尼府",
+      "latitude": 14.0135,
+      "longitude": 100.5305,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bang O",
+      "province": "Nonthaburi",
+      "latitude": 13.8358,
+      "longitude": 100.46,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Samphanthawong",
+      "province": "曼谷",
+      "latitude": 13.737,
+      "longitude": 100.512,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Tak",
+      "province": "达府",
+      "latitude": 16.8697,
+      "longitude": 99.129,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Khlong Bang Bon",
+      "province": "曼谷",
+      "latitude": 13.6361,
+      "longitude": 100.3775,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Dok Kham Tai",
+      "province": "帕尧府",
+      "latitude": 19.1624,
+      "longitude": 99.9934,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Bueng",
+      "province": "春武里府",
+      "latitude": 13.311,
+      "longitude": 101.1121,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Kamalasai",
+      "province": "加拉信府",
+      "latitude": 16.3384,
+      "longitude": 103.5756,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Talat Nua",
+      "province": "普吉府",
+      "latitude": 7.8849,
+      "longitude": 98.3856,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Chok Chai",
+      "province": "那空叻差是玛府",
+      "latitude": 14.7284,
+      "longitude": 102.1652,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Damnoen Saduak",
+      "province": "叻武里府",
+      "latitude": 13.5183,
+      "longitude": 99.9547,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bang Kho Laem",
+      "province": "曼谷",
+      "latitude": 13.6935,
+      "longitude": 100.5022,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bang Kho Laem subdistrict",
+      "province": "曼谷",
+      "latitude": 13.6934,
+      "longitude": 100.5022,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bang Bon Nuea",
+      "province": "曼谷",
+      "latitude": 13.6529,
+      "longitude": 100.3587,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Tha Mai",
+      "province": "庄他武里府",
+      "latitude": 12.6214,
+      "longitude": 102.0048,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Kamala",
+      "province": "普吉府",
+      "latitude": 7.9551,
+      "longitude": 98.2832,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Uthai Thani",
+      "province": "Uthai Thani",
+      "latitude": 15.3794,
+      "longitude": 100.0245,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Nang Rong",
+      "province": "武里南府",
+      "latitude": 14.6377,
+      "longitude": 102.7914,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Khwaeng Bang Plat",
+      "province": "曼谷",
+      "latitude": 13.7878,
+      "longitude": 100.4947,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Phanat Nikhom",
+      "province": "春武里府",
+      "latitude": 13.4458,
+      "longitude": 101.1844,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Na San",
+      "province": "素叻他尼府",
+      "latitude": 8.8004,
+      "longitude": 99.3637,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Taphan Hin",
+      "province": "披集府",
+      "latitude": 16.2209,
+      "longitude": 100.4198,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Khanu Woralaksaburi",
+      "province": "甘烹碧府",
+      "latitude": 16.0617,
+      "longitude": 99.8606,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Chatuchak subdistrict",
+      "province": "曼谷",
+      "latitude": 13.8273,
+      "longitude": 100.5553,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Nong Wua So",
+      "province": "乌隆府",
+      "latitude": 17.2675,
+      "longitude": 103.2247,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Yasothon",
+      "province": "益梭通府",
+      "latitude": 15.7941,
+      "longitude": 104.1451,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Trat",
+      "province": "Trat",
+      "latitude": 12.2436,
+      "longitude": 102.5151,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Nakhon Nayok",
+      "province": "那空那育府",
+      "latitude": 14.2046,
+      "longitude": 101.213,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Phayao",
+      "province": "帕尧府",
+      "latitude": 19.192,
+      "longitude": 99.8788,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Kuchinarai",
+      "province": "加拉信府",
+      "latitude": 16.541,
+      "longitude": 104.05,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bang Pa-in",
+      "province": "大城府",
+      "latitude": 14.2278,
+      "longitude": 100.5759,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Sena Nikhom",
+      "province": "曼谷",
+      "latitude": 13.8366,
+      "longitude": 100.5773,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "アランヤプラテート郡",
+      "name_en": "Aranyaprathet",
+      "province": "沙缴府",
+      "latitude": 13.6928,
+      "longitude": 102.5013,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Sing Buri",
+      "province": "信武里府",
+      "latitude": 14.8879,
+      "longitude": 100.4046,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Thambon Na Mueang",
+      "province": "巴真府",
+      "latitude": 14.056,
+      "longitude": 101.3722,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Phibun Mangsahan",
+      "province": "乌汶府",
+      "latitude": 15.2447,
+      "longitude": 105.2291,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Arun Amarin",
+      "province": "曼谷",
+      "latitude": 13.7669,
+      "longitude": 100.4826,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Sawankhalok",
+      "province": "素可泰府",
+      "latitude": 17.316,
+      "longitude": 99.8319,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Khlong Bang Ramat",
+      "province": "曼谷",
+      "latitude": 13.7667,
+      "longitude": 100.4333,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ranot",
+      "province": "宋卡府",
+      "latitude": 7.7777,
+      "longitude": 100.3213,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Sam Roi Yot",
+      "province": "巴蜀府",
+      "latitude": 12.2708,
+      "longitude": 99.872,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Dung",
+      "province": "乌隆府",
+      "latitude": 17.699,
+      "longitude": 103.2596,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Phak Hai",
+      "province": "大城府",
+      "latitude": 14.4574,
+      "longitude": 100.3699,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Nam Som",
+      "province": "乌隆府",
+      "latitude": 17.7704,
+      "longitude": 102.1895,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Wiset Chaichan",
+      "province": "Ang Thong",
+      "latitude": 14.5945,
+      "longitude": 100.3383,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Tha Ruea",
+      "province": "大城府",
+      "latitude": 14.5674,
+      "longitude": 100.726,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Kui Buri",
+      "province": "巴蜀府",
+      "latitude": 12.0828,
+      "longitude": 99.8543,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Si Mahosot",
+      "province": "巴真府",
+      "latitude": 13.8878,
+      "longitude": 101.405,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bang Krathum",
+      "province": "彭世洛府",
+      "latitude": 16.5783,
+      "longitude": 100.3003,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Phan Thong",
+      "province": "春武里府",
+      "latitude": 13.468,
+      "longitude": 101.0953,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Khon Buri",
+      "province": "那空叻差是玛府",
+      "latitude": 14.5254,
+      "longitude": 102.2459,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Kaset Wisai",
+      "province": "黎逸府",
+      "latitude": 15.6556,
+      "longitude": 103.5836,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Bang Bamru",
+      "province": "曼谷",
+      "latitude": 13.7833,
+      "longitude": 100.4833,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Khao Yoi",
+      "province": "碧武里府",
+      "latitude": 13.2402,
+      "longitude": 99.8243,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Thoen",
+      "province": "南邦府",
+      "latitude": 17.6129,
+      "longitude": 99.2161,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Non Sung",
+      "province": "那空叻差是玛府",
+      "latitude": 15.1801,
+      "longitude": 102.257,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Tak",
+      "province": "达府",
+      "latitude": 17.0433,
+      "longitude": 99.0813,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Chalong",
+      "province": "普吉府",
+      "latitude": 7.8447,
+      "longitude": 98.339,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Hang Dong",
+      "province": "清迈府",
+      "latitude": 18.687,
+      "longitude": 98.9194,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bang Len",
+      "province": "佛统府",
+      "latitude": 14.0219,
+      "longitude": 100.1718,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "San Pa Tong",
+      "province": "清迈府",
+      "latitude": 18.6283,
+      "longitude": 98.8957,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Chon Daen",
+      "province": "碧差汶府",
+      "latitude": 16.1895,
+      "longitude": 100.8596,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Lat Yao",
+      "province": "那空沙旺府",
+      "latitude": 13.8473,
+      "longitude": 100.5637,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Phe",
+      "province": "罗勇府",
+      "latitude": 12.6282,
+      "longitude": 101.4376,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Selaphum",
+      "province": "黎逸府",
+      "latitude": 16.0167,
+      "longitude": 103.95,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Mae Ramat",
+      "province": "达府",
+      "latitude": 16.984,
+      "longitude": 98.5166,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Lom Sak",
+      "province": "碧差汶府",
+      "latitude": 16.7798,
+      "longitude": 101.2422,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Tak Bai",
+      "province": "那拉提瓦府",
+      "latitude": 6.2595,
+      "longitude": 102.0546,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Laem Ngop",
+      "province": "Trat",
+      "latitude": 12.1717,
+      "longitude": 102.3949,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Phu Khiao",
+      "province": "猜也蓬府",
+      "latitude": 16.3765,
+      "longitude": 102.1285,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Den Chai",
+      "province": "帕府",
+      "latitude": 17.9837,
+      "longitude": 100.0522,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Nong Kung Si",
+      "province": "加拉信府",
+      "latitude": 16.65,
+      "longitude": 103.3,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Kaset Sombun",
+      "province": "猜也蓬府",
+      "latitude": 16.2805,
+      "longitude": 101.9542,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ra-ngae",
+      "province": "那拉提瓦府",
+      "latitude": 6.2968,
+      "longitude": 101.7284,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bang Rakam",
+      "province": "彭世洛府",
+      "latitude": 16.7585,
+      "longitude": 100.1174,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bua Yai",
+      "province": "那空叻差是玛府",
+      "latitude": 15.5855,
+      "longitude": 102.4259,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Sawang Daen Din",
+      "province": "沙功那空府",
+      "latitude": 17.4753,
+      "longitude": 103.4575,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bo Phloi",
+      "province": "北碧府",
+      "latitude": 14.3252,
+      "longitude": 99.5147,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Thap Than",
+      "province": "Uthai Thani",
+      "latitude": 15.4606,
+      "longitude": 99.8917,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bang Ban",
+      "province": "大城府",
+      "latitude": 14.374,
+      "longitude": 100.4853,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Huai Yot",
+      "province": "Trang",
+      "latitude": 7.7894,
+      "longitude": 99.6347,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Seka",
+      "province": "汶干府",
+      "latitude": 17.9285,
+      "longitude": 103.9552,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Wang Nam Yen",
+      "province": "沙缴府",
+      "latitude": 13.5032,
+      "longitude": 102.1812,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Lang Suan",
+      "province": "春蓬府",
+      "latitude": 9.9456,
+      "longitude": 99.0785,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Phu Kradueng",
+      "province": "黎府",
+      "latitude": 16.8843,
+      "longitude": 101.8847,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Laem Sing",
+      "province": "庄他武里府",
+      "latitude": 12.4816,
+      "longitude": 102.0738,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Phanom Sarakham",
+      "province": "差春骚府",
+      "latitude": 13.7487,
+      "longitude": 101.3489,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Mo",
+      "province": "沙拉武里府",
+      "latitude": 14.6154,
+      "longitude": 100.7273,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Wang Noi",
+      "province": "大城府",
+      "latitude": 14.2269,
+      "longitude": 100.7155,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Makkasan",
+      "province": "曼谷",
+      "latitude": 13.7523,
+      "longitude": 100.5434,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Warichaphum",
+      "province": "沙功那空府",
+      "latitude": 17.2941,
+      "longitude": 103.6382,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Wang Saphung",
+      "province": "黎府",
+      "latitude": 17.301,
+      "longitude": 101.7685,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bang Mun Nak",
+      "province": "披集府",
+      "latitude": 16.0278,
+      "longitude": 100.3792,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Pa Sang",
+      "province": "南奔府",
+      "latitude": 18.5262,
+      "longitude": 98.9394,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Dan Khun Thot",
+      "province": "那空叻差是玛府",
+      "latitude": 15.2085,
+      "longitude": 101.7714,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Prakhon Chai",
+      "province": "武里南府",
+      "latitude": 14.6059,
+      "longitude": 103.1208,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Thap Khlo",
+      "province": "披集府",
+      "latitude": 16.16,
+      "longitude": 100.5966,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Chai Nat",
+      "province": "猜纳府",
+      "latitude": 15.1864,
+      "longitude": 100.1235,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Phra",
+      "province": "巴真府",
+      "latitude": 14.0946,
+      "longitude": 101.389,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Huai Thalaeng",
+      "province": "那空叻差是玛府",
+      "latitude": 14.9833,
+      "longitude": 102.65,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bang Racham",
+      "province": "信武里府",
+      "latitude": 14.892,
+      "longitude": 100.3173,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Phon Charoen",
+      "province": "廊开府",
+      "latitude": 18.0333,
+      "longitude": 103.1667,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Khao Wong",
+      "province": "加拉信府",
+      "latitude": 16.7001,
+      "longitude": 104.0902,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Chom Bueng",
+      "province": "叻武里府",
+      "latitude": 13.62,
+      "longitude": 99.5917,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Erawan",
+      "province": "黎府",
+      "latitude": 17.3018,
+      "longitude": 101.9538,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bang Saphan",
+      "province": "巴蜀府",
+      "latitude": 11.2126,
+      "longitude": 99.5117,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Nakhon Luang",
+      "province": "大城府",
+      "latitude": 14.4628,
+      "longitude": 100.6083,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bamnet Narong",
+      "province": "猜也蓬府",
+      "latitude": 15.5019,
+      "longitude": 101.6898,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Patong",
+      "province": "普吉府",
+      "latitude": 7.8961,
+      "longitude": 98.2966,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Doembang Nangbuat",
+      "province": "素攀府",
+      "latitude": 14.8333,
+      "longitude": 100.1,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Phon",
+      "province": "孔敬府",
+      "latitude": 15.816,
+      "longitude": 102.5998,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Chiang Khong",
+      "province": "清莱府",
+      "latitude": 20.2613,
+      "longitude": 100.4046,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Thai Tan",
+      "province": "Ang Thong",
+      "latitude": 14.6216,
+      "longitude": 100.4874,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "That Phanom",
+      "province": "那空拍侬府",
+      "latitude": 16.9364,
+      "longitude": 104.7104,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Pong",
+      "province": "帕尧府",
+      "latitude": 19.1493,
+      "longitude": 100.2752,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Sung Noen",
+      "province": "那空叻差是玛府",
+      "latitude": 14.8992,
+      "longitude": 101.8208,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Sai Buri",
+      "province": "北大年府",
+      "latitude": 6.7013,
+      "longitude": 101.6167,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Su-ngai Pa Di",
+      "province": "那拉提瓦府",
+      "latitude": 6.0724,
+      "longitude": 101.8717,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Nong Bua",
+      "province": "那空沙旺府",
+      "latitude": 15.8646,
+      "longitude": 100.5858,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Kantang",
+      "province": "Trang",
+      "latitude": 7.4054,
+      "longitude": 99.5156,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Soeng Sang",
+      "province": "那空叻差是玛府",
+      "latitude": 14.4264,
+      "longitude": 102.4606,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Wat Arun",
+      "province": "曼谷",
+      "latitude": 13.7413,
+      "longitude": 100.4884,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Chiang Kham",
+      "province": "帕尧府",
+      "latitude": 19.5233,
+      "longitude": 100.3,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Si Chiang Mai",
+      "province": "廊开府",
+      "latitude": 17.9564,
+      "longitude": 102.5867,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bang Yai",
+      "province": "Nonthaburi",
+      "latitude": 13.805,
+      "longitude": 100.4728,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Lan Sak",
+      "province": "Uthai Thani",
+      "latitude": 15.4529,
+      "longitude": 99.5761,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ang Thong",
+      "province": "Ang Thong",
+      "latitude": 14.5884,
+      "longitude": 100.4528,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban I Let",
+      "province": "春蓬府",
+      "latitude": 10.3824,
+      "longitude": 99.2366,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Chai Wari",
+      "province": "黎逸府",
+      "latitude": 16.3283,
+      "longitude": 103.7703,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Pa Daet",
+      "province": "清莱府",
+      "latitude": 19.5049,
+      "longitude": 99.9924,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Rawai",
+      "province": "普吉府",
+      "latitude": 7.7797,
+      "longitude": 98.3253,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bo Rai",
+      "province": "Trat",
+      "latitude": 12.5728,
+      "longitude": 102.5371,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Nong Ki",
+      "province": "武里南府",
+      "latitude": 14.6868,
+      "longitude": 102.538,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Khlong Bang Phrom",
+      "province": "曼谷",
+      "latitude": 13.7579,
+      "longitude": 100.4106,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bang Khla",
+      "province": "差春骚府",
+      "latitude": 13.7214,
+      "longitude": 101.2081,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Kranuan",
+      "province": "孔敬府",
+      "latitude": 16.7067,
+      "longitude": 103.0788,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Siriraj",
+      "province": "曼谷",
+      "latitude": 13.7575,
+      "longitude": 100.4847,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Sam Chuk",
+      "province": "素攀府",
+      "latitude": 14.7422,
+      "longitude": 100.0953,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Yang Talat",
+      "province": "加拉信府",
+      "latitude": 16.3998,
+      "longitude": 103.3679,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ongkharak",
+      "province": "那空那育府",
+      "latitude": 14.1212,
+      "longitude": 101.0036,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Waeng",
+      "province": "黎逸府",
+      "latitude": 16.3001,
+      "longitude": 103.9779,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Khlung",
+      "province": "庄他武里府",
+      "latitude": 12.4547,
+      "longitude": 102.2214,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Chaiyo",
+      "province": "Ang Thong",
+      "latitude": 14.6764,
+      "longitude": 100.4686,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Chiang Klang",
+      "province": "Nan",
+      "latitude": 19.2938,
+      "longitude": 100.8617,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Phai Sali",
+      "province": "那空沙旺府",
+      "latitude": 15.6,
+      "longitude": 100.6494,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Phimai",
+      "province": "那空叻差是玛府",
+      "latitude": 15.2232,
+      "longitude": 102.4947,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Na Wa",
+      "province": "那空拍侬府",
+      "latitude": 17.4897,
+      "longitude": 104.1006,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Si Bun Rueang",
+      "province": "农磨兰普府",
+      "latitude": 16.9671,
+      "longitude": 102.2761,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Dong Phra Ram",
+      "province": "巴真府",
+      "latitude": 14.0667,
+      "longitude": 101.4,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Chom Thong",
+      "province": "清迈府",
+      "latitude": 13.6772,
+      "longitude": 100.4841,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Phanom Thuan",
+      "province": "北碧府",
+      "latitude": 14.1303,
+      "longitude": 99.6986,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Don Sak",
+      "province": "素叻他尼府",
+      "latitude": 9.3168,
+      "longitude": 99.6918,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Huai Mek",
+      "province": "加拉信府",
+      "latitude": 16.5897,
+      "longitude": 103.2355,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ko Chang",
+      "province": "Trat",
+      "latitude": 12.0451,
+      "longitude": 102.3003,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Nakhon Thai",
+      "province": "彭世洛府",
+      "latitude": 17.1006,
+      "longitude": 100.8374,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Nam Yuen",
+      "province": "春蓬府",
+      "latitude": 9.8769,
+      "longitude": 98.8659,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Phayuha Khiri",
+      "province": "那空沙旺府",
+      "latitude": 15.4552,
+      "longitude": 100.1353,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Chaiya",
+      "province": "素叻他尼府",
+      "latitude": 9.3863,
+      "longitude": 99.1986,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Suwannaphum",
+      "province": "黎逸府",
+      "latitude": 15.6035,
+      "longitude": 103.8021,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Nuea Khlong",
+      "province": "甲米府",
+      "latitude": 8.0714,
+      "longitude": 98.9993,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Pho Thong",
+      "province": "Ang Thong",
+      "latitude": 14.6673,
+      "longitude": 100.4088,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Rong Kwang",
+      "province": "帕府",
+      "latitude": 18.339,
+      "longitude": 100.3174,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Non Thai",
+      "province": "那空叻差是玛府",
+      "latitude": 15.1958,
+      "longitude": 102.0714,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Wiang Sa",
+      "province": "素叻他尼府",
+      "latitude": 8.6358,
+      "longitude": 99.3666,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ko Pha Ngan",
+      "province": "素叻他尼府",
+      "latitude": 9.7578,
+      "longitude": 100.0291,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Non Sang",
+      "province": "农磨兰普府",
+      "latitude": 16.8687,
+      "longitude": 102.5664,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Long",
+      "province": "帕府",
+      "latitude": 18.0742,
+      "longitude": 99.8307,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Phrai Bueng",
+      "province": "四色菊府",
+      "latitude": 14.7483,
+      "longitude": 104.3626,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Satuek",
+      "province": "武里南府",
+      "latitude": 15.297,
+      "longitude": 103.2919,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Nong Chik",
+      "province": "北大年府",
+      "latitude": 6.8436,
+      "longitude": 101.178,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Mai Khet",
+      "province": "巴真府",
+      "latitude": 14.1088,
+      "longitude": 101.3272,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Khiri Mat",
+      "province": "素可泰府",
+      "latitude": 16.8333,
+      "longitude": 99.8,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Kham Sakae Saeng",
+      "province": "那空叻差是玛府",
+      "latitude": 15.3322,
+      "longitude": 102.1728,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Chawang",
+      "province": "那空是贪玛叻府",
+      "latitude": 8.4261,
+      "longitude": 99.5047,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Chiang Saen",
+      "province": "清莱府",
+      "latitude": 20.1468,
+      "longitude": 99.8526,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Kosum Phisai",
+      "province": "马哈沙拉堪府",
+      "latitude": 16.2486,
+      "longitude": 103.0674,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Phayakkhaphum Phisai",
+      "province": "马哈沙拉堪府",
+      "latitude": 15.5163,
+      "longitude": 103.1937,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Wapi Pathum",
+      "province": "马哈沙拉堪府",
+      "latitude": 15.8452,
+      "longitude": 103.3768,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Ko Kaeo",
+      "province": "普吉府",
+      "latitude": 7.936,
+      "longitude": 98.3966,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Mae Tha",
+      "province": "南奔府",
+      "latitude": 18.4646,
+      "longitude": 99.1403,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Sangkhla Buri",
+      "province": "北碧府",
+      "latitude": 15.1555,
+      "longitude": 98.4536,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Khlong Chak Phra",
+      "province": "曼谷",
+      "latitude": 13.7713,
+      "longitude": 100.4467,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bueng Kan",
+      "province": "汶干府",
+      "latitude": 18.363,
+      "longitude": 103.6519,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Phang Nga",
+      "province": "攀牙府",
+      "latitude": 8.4509,
+      "longitude": 98.5298,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Dong Khilek",
+      "province": "巴真府",
+      "latitude": 14.0838,
+      "longitude": 101.4271,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ao Luek",
+      "province": "甲米府",
+      "latitude": 8.378,
+      "longitude": 98.7212,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bang Khun Non",
+      "province": "曼谷",
+      "latitude": 13.7603,
+      "longitude": 100.4729,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Noen Hom",
+      "province": "巴真府",
+      "latitude": 14.1822,
+      "longitude": 101.3489,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Khao Nang Sang Hua",
+      "province": "北碧府",
+      "latitude": 14.5428,
+      "longitude": 99.7676,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban I Loet",
+      "province": "碧差汶府",
+      "latitude": 17.0031,
+      "longitude": 101.245,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Mae Hong Son",
+      "province": "夜丰颂府",
+      "latitude": 19.3003,
+      "longitude": 97.9685,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Wang Sai Phun",
+      "province": "披集府",
+      "latitude": 16.3885,
+      "longitude": 100.538,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Pong Nam Ron",
+      "province": "庄他武里府",
+      "latitude": 12.9057,
+      "longitude": 102.2622,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bang Nam Priao",
+      "province": "差春骚府",
+      "latitude": 13.8474,
+      "longitude": 101.0531,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "In Buri",
+      "province": "信武里府",
+      "latitude": 15.0079,
+      "longitude": 100.3269,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Nong Pradu",
+      "province": "北碧府",
+      "latitude": 14.4906,
+      "longitude": 99.7071,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban I Toeng",
+      "province": "沙功那空府",
+      "latitude": 17.0,
+      "longitude": 103.9167,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Ao Nang",
+      "province": "甲米府",
+      "latitude": 8.0458,
+      "longitude": 98.8103,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Samphantawong",
+      "province": "曼谷",
+      "latitude": 13.7396,
+      "longitude": 100.5083,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Saladan",
+      "province": "甲米府",
+      "latitude": 7.6134,
+      "longitude": 99.0365,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Mae Thalop",
+      "province": "清迈府",
+      "latitude": 19.7218,
+      "longitude": 99.1815,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Thung Klang",
+      "province": "Nan",
+      "latitude": 19.0199,
+      "longitude": 100.935,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Sawang Wirawong",
+      "province": "乌汶府",
+      "latitude": 15.2416,
+      "longitude": 105.0922,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Fang",
+      "province": "清迈府",
+      "latitude": 19.9169,
+      "longitude": 99.2145,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Lan Krabue",
+      "province": "甘烹碧府",
+      "latitude": 16.6,
+      "longitude": 99.8489,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Muban Thep Thani",
+      "province": "曼谷",
+      "latitude": 13.6992,
+      "longitude": 100.6941,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Na Mom",
+      "province": "宋卡府",
+      "latitude": 6.9586,
+      "longitude": 100.5568,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Nong Wua So",
+      "province": "乌隆府",
+      "latitude": 17.1626,
+      "longitude": 102.5727,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban I Pat",
+      "province": "庄他武里府",
+      "latitude": 12.543,
+      "longitude": 102.3047,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Tha Khanon",
+      "province": "素叻他尼府",
+      "latitude": 9.0302,
+      "longitude": 98.9529,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Tham Phannara",
+      "province": "那空是贪玛叻府",
+      "latitude": 8.4205,
+      "longitude": 99.3952,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Karon",
+      "province": "普吉府",
+      "latitude": 7.8477,
+      "longitude": 98.2985,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Chai Buri",
+      "province": "素叻他尼府",
+      "latitude": 18.363,
+      "longitude": 103.6519,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Khet Rop Mueang",
+      "province": "巴真府",
+      "latitude": 14.0624,
+      "longitude": 101.3607,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ko Lanta",
+      "province": "甲米府",
+      "latitude": 7.5336,
+      "longitude": 99.0865,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Huai Khot",
+      "province": "Uthai Thani",
+      "latitude": 15.291,
+      "longitude": 99.6166,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Non Hom",
+      "province": "巴真府",
+      "latitude": 14.0849,
+      "longitude": 101.4412,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Dan Lan Hoi",
+      "province": "素可泰府",
+      "latitude": 17.0068,
+      "longitude": 99.575,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Phru Nai",
+      "province": "攀牙府",
+      "latitude": 7.9546,
+      "longitude": 98.5899,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Moeiwadi",
+      "province": "黎逸府",
+      "latitude": 16.3894,
+      "longitude": 104.1572,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Hat Lek",
+      "province": "Trat",
+      "latitude": 11.6557,
+      "longitude": 102.907,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Mae Waen",
+      "province": "清迈府",
+      "latitude": 19.3141,
+      "longitude": 99.1884,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Phrao",
+      "province": "清迈府",
+      "latitude": 19.3659,
+      "longitude": 99.2019,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Mae Chai",
+      "province": "帕尧府",
+      "latitude": 19.346,
+      "longitude": 99.814,
+      "timezone": "Asia/Bangkok"
+    }
+  ]
+}

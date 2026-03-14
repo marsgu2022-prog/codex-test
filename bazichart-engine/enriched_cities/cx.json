@@ -1,0 +1,14 @@
+{
+  "country_code": "CX",
+  "country_name": "圣诞岛",
+  "cities": [
+    {
+      "name": "飞鱼湾",
+      "name_en": "Flying Fish Cove",
+      "province": "",
+      "latitude": -10.4217,
+      "longitude": 105.6791,
+      "timezone": "Indian/Christmas"
+    }
+  ]
+}

@@ -1,0 +1,614 @@
+{
+  "country_code": "NI",
+  "country_name": "尼加拉瓜",
+  "cities": [
+    {
+      "name": "马纳瓜",
+      "name_en": "Managua",
+      "province": "Managua Department",
+      "latitude": 12.1328,
+      "longitude": -86.2504,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "莱昂",
+      "name_en": "León",
+      "province": "莱昂省",
+      "latitude": 12.4353,
+      "longitude": -86.8786,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "马萨亚",
+      "name_en": "Masaya",
+      "province": "马萨亚省",
+      "latitude": 11.9732,
+      "longitude": -86.0959,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Chinandega",
+      "province": "奇南德加省",
+      "latitude": 12.6295,
+      "longitude": -87.1313,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Matagalpa",
+      "province": "马塔加尔帕省",
+      "latitude": 12.9279,
+      "longitude": -85.9191,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "埃斯特利",
+      "name_en": "Estelí",
+      "province": "埃斯特利省",
+      "latitude": 13.0929,
+      "longitude": -86.3559,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "格拉纳达",
+      "name_en": "Granada",
+      "province": "格拉纳达省",
+      "latitude": 11.9306,
+      "longitude": -85.9537,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Mateare",
+      "province": "Managua Department",
+      "latitude": 12.2351,
+      "longitude": -86.4281,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Jinotega",
+      "province": "希诺特加省",
+      "latitude": 13.091,
+      "longitude": -86.0023,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "El Viejo",
+      "province": "奇南德加省",
+      "latitude": 12.6635,
+      "longitude": -87.1666,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Nueva Guinea",
+      "province": "南加勒比海岸自治区",
+      "latitude": 11.6876,
+      "longitude": -84.4562,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Ciudad Sandino",
+      "province": "Managua Department",
+      "latitude": 12.1589,
+      "longitude": -86.3442,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Juigalpa",
+      "province": "琼塔莱斯省",
+      "latitude": 12.1059,
+      "longitude": -85.3655,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Tipitapa",
+      "province": "Managua Department",
+      "latitude": 12.1973,
+      "longitude": -86.0971,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "布卢菲尔兹",
+      "name_en": "Bluefields",
+      "province": "南加勒比海岸自治区",
+      "latitude": 12.0129,
+      "longitude": -83.7645,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Diriamba",
+      "province": "卡拉索省",
+      "latitude": 11.8581,
+      "longitude": -86.2392,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Ocotal",
+      "province": "新塞哥维亚省",
+      "latitude": 13.6322,
+      "longitude": -86.474,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Puerto Cabezas",
+      "province": "北加勒比海岸自治区",
+      "latitude": 14.0351,
+      "longitude": -83.3888,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Chichigalpa",
+      "province": "奇南德加省",
+      "latitude": 12.5776,
+      "longitude": -87.0271,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Rivas",
+      "province": "里瓦斯省",
+      "latitude": 11.4398,
+      "longitude": -85.8275,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "San Rafael del Sur",
+      "province": "Managua Department",
+      "latitude": 11.8485,
+      "longitude": -86.4384,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Jinotepe",
+      "province": "卡拉索省",
+      "latitude": 11.8483,
+      "longitude": -86.1992,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Boaco",
+      "province": "博阿科省",
+      "latitude": 12.4726,
+      "longitude": -85.6596,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Nagarote",
+      "province": "莱昂省",
+      "latitude": 12.2659,
+      "longitude": -86.5647,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Jalapa",
+      "province": "新塞哥维亚省",
+      "latitude": 13.9222,
+      "longitude": -86.1235,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "La Paz Centro",
+      "province": "莱昂省",
+      "latitude": 12.34,
+      "longitude": -86.6753,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "San Marcos",
+      "province": "卡拉索省",
+      "latitude": 11.9095,
+      "longitude": -86.2035,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Masatepe",
+      "province": "马萨亚省",
+      "latitude": 11.9145,
+      "longitude": -86.1446,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Nandaime",
+      "province": "格拉纳达省",
+      "latitude": 11.757,
+      "longitude": -86.0529,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Rama",
+      "province": "南加勒比海岸自治区",
+      "latitude": 12.1596,
+      "longitude": -84.2195,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "索莫托",
+      "name_en": "Somoto",
+      "province": "马德里斯省",
+      "latitude": 13.4841,
+      "longitude": -86.5823,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Corinto",
+      "province": "奇南德加省",
+      "latitude": 12.4825,
+      "longitude": -87.173,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Río Blanco",
+      "province": "马塔加尔帕省",
+      "latitude": 12.9344,
+      "longitude": -85.2235,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Camoapa",
+      "province": "博阿科省",
+      "latitude": 12.3838,
+      "longitude": -85.5128,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "El Crucero",
+      "province": "Managua Department",
+      "latitude": 11.9901,
+      "longitude": -86.3095,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Siuna",
+      "province": "北加勒比海岸自治区",
+      "latitude": 13.7332,
+      "longitude": -84.7772,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Somotillo",
+      "province": "奇南德加省",
+      "latitude": 13.0439,
+      "longitude": -86.9051,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Santo Tomás",
+      "province": "琼塔莱斯省",
+      "latitude": 12.0694,
+      "longitude": -85.0906,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Quilalí",
+      "province": "新塞哥维亚省",
+      "latitude": 13.567,
+      "longitude": -86.026,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "圣卡洛斯",
+      "name_en": "San Carlos",
+      "province": "圣胡安河省",
+      "latitude": 11.1271,
+      "longitude": -84.7779,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Ciudad Darío",
+      "province": "马塔加尔帕省",
+      "latitude": 12.7314,
+      "longitude": -86.124,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Ticuantepe",
+      "province": "Managua Department",
+      "latitude": 12.0226,
+      "longitude": -86.2049,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "El Sauce",
+      "province": "莱昂省",
+      "latitude": 12.8869,
+      "longitude": -86.539,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Condega",
+      "province": "埃斯特利省",
+      "latitude": 13.365,
+      "longitude": -86.3985,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Acoyapa",
+      "province": "琼塔莱斯省",
+      "latitude": 11.9703,
+      "longitude": -85.1711,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Matiguás",
+      "province": "马塔加尔帕省",
+      "latitude": 12.8373,
+      "longitude": -85.4622,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Diriomo",
+      "province": "格拉纳达省",
+      "latitude": 11.8763,
+      "longitude": -86.0518,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Telica",
+      "province": "莱昂省",
+      "latitude": 12.522,
+      "longitude": -86.8594,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "San Lorenzo",
+      "province": "博阿科省",
+      "latitude": 12.3783,
+      "longitude": -85.6665,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "South End",
+      "province": "南加勒比海岸自治区",
+      "latitude": 12.17,
+      "longitude": -83.041,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Bocana de Paiwas",
+      "province": "南加勒比海岸自治区",
+      "latitude": 12.7857,
+      "longitude": -85.1227,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Las Praderas",
+      "province": "希诺特加省",
+      "latitude": 13.348,
+      "longitude": -85.944,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Villa Sandino",
+      "province": "琼塔莱斯省",
+      "latitude": 12.0483,
+      "longitude": -84.9936,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "San Juan del Sur",
+      "province": "里瓦斯省",
+      "latitude": 11.2529,
+      "longitude": -85.8705,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Niquinohomo",
+      "province": "马萨亚省",
+      "latitude": 11.9052,
+      "longitude": -86.0945,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Larreynaga",
+      "province": "莱昂省",
+      "latitude": 12.6769,
+      "longitude": -86.5719,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Puerto Morazán",
+      "province": "奇南德加省",
+      "latitude": 12.8504,
+      "longitude": -87.1717,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "San Jorge",
+      "province": "里瓦斯省",
+      "latitude": 11.4558,
+      "longitude": -85.8031,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Nindirí",
+      "province": "马萨亚省",
+      "latitude": 12.0032,
+      "longitude": -86.1205,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Dolores",
+      "province": "卡拉索省",
+      "latitude": 11.8567,
+      "longitude": -86.2155,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Wiwilí",
+      "province": "新塞哥维亚省",
+      "latitude": 13.6268,
+      "longitude": -85.8254,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "La Concepción",
+      "province": "马萨亚省",
+      "latitude": 11.9371,
+      "longitude": -86.1898,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Nandasmo",
+      "province": "马萨亚省",
+      "latitude": 11.9241,
+      "longitude": -86.1207,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Pearl City",
+      "province": "南加勒比海岸自治区",
+      "latitude": 12.3429,
+      "longitude": -83.6712,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Waslala",
+      "province": "北加勒比海岸自治区",
+      "latitude": 13.335,
+      "longitude": -85.37,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Posoltega",
+      "province": "奇南德加省",
+      "latitude": 12.5442,
+      "longitude": -86.9798,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Waspán",
+      "province": "北加勒比海岸自治区",
+      "latitude": 14.7419,
+      "longitude": -83.9717,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Bonanza",
+      "province": "北加勒比海岸自治区",
+      "latitude": 14.0289,
+      "longitude": -84.591,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "El Realejo",
+      "province": "奇南德加省",
+      "latitude": 12.5433,
+      "longitude": -87.1652,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Santo Domingo",
+      "province": "琼塔莱斯省",
+      "latitude": 12.2644,
+      "longitude": -85.0824,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "San Rafael del Norte",
+      "province": "希诺特加省",
+      "latitude": 13.2125,
+      "longitude": -86.1109,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Belén",
+      "province": "里瓦斯省",
+      "latitude": 11.503,
+      "longitude": -85.8893,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Los Copeles",
+      "province": "琼塔莱斯省",
+      "latitude": 12.2087,
+      "longitude": -85.3124,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Potosí",
+      "province": "里瓦斯省",
+      "latitude": 11.4942,
+      "longitude": -85.8568,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Villa El Carmen",
+      "province": "Managua Department",
+      "latitude": 11.9801,
+      "longitude": -86.5057,
+      "timezone": "America/Managua"
+    },
+    {
+      "name": "",
+      "name_en": "Tisma",
+      "province": "马萨亚省",
+      "latitude": 12.0819,
+      "longitude": -86.0174,
+      "timezone": "America/Managua"
+    }
+  ]
+}

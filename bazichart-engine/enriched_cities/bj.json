@@ -1,0 +1,614 @@
+{
+  "country_code": "BJ",
+  "country_name": "贝宁",
+  "cities": [
+    {
+      "name": "科托努",
+      "name_en": "Cotonou",
+      "province": "滨海省",
+      "latitude": 6.3654,
+      "longitude": 2.4183,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Abomey-Calavi",
+      "province": "大西洋省",
+      "latitude": 6.4485,
+      "longitude": 2.3557,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "新港",
+      "name_en": "Porto-Novo",
+      "province": "韦梅省",
+      "latitude": 6.4965,
+      "longitude": 2.6036,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "帕拉库",
+      "name_en": "Parakou",
+      "province": "博尔古省",
+      "latitude": 9.3372,
+      "longitude": 2.6303,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Godomè",
+      "province": "大西洋省",
+      "latitude": 6.3895,
+      "longitude": 2.3458,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Abomey",
+      "province": "祖省",
+      "latitude": 7.1829,
+      "longitude": 1.9912,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Djougou",
+      "province": "峡谷省",
+      "latitude": 9.7085,
+      "longitude": 1.666,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Bohicon",
+      "province": "祖省",
+      "latitude": 7.1783,
+      "longitude": 2.0667,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Ekpé",
+      "province": "韦梅省",
+      "latitude": 6.3921,
+      "longitude": 2.5372,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Nikki",
+      "province": "博尔古省",
+      "latitude": 9.9401,
+      "longitude": 3.2107,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Malanville",
+      "province": "阿黎博里省",
+      "latitude": 11.8682,
+      "longitude": 3.3833,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "康迪",
+      "name_en": "Kandi",
+      "province": "阿黎博里省",
+      "latitude": 11.1342,
+      "longitude": 2.9386,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Kérou",
+      "province": "阿塔科拉省",
+      "latitude": 10.8258,
+      "longitude": 2.1048,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Natitingou",
+      "province": "阿塔科拉省",
+      "latitude": 10.3042,
+      "longitude": 1.3796,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Pobé",
+      "province": "高原省",
+      "latitude": 6.9801,
+      "longitude": 2.6649,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "圣约翰堡",
+      "name_en": "Ouidah",
+      "province": "大西洋省",
+      "latitude": 6.3631,
+      "longitude": 2.0851,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Lokossa",
+      "province": "莫诺省",
+      "latitude": 6.6387,
+      "longitude": 1.7167,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Bassila",
+      "province": "峡谷省",
+      "latitude": 9.0081,
+      "longitude": 1.6654,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Tchaourou",
+      "province": "博尔古省",
+      "latitude": 8.8865,
+      "longitude": 2.5975,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Cové",
+      "province": "祖省",
+      "latitude": 7.221,
+      "longitude": 2.3402,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Sakété",
+      "province": "高原省",
+      "latitude": 6.7362,
+      "longitude": 2.6587,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Comé",
+      "province": "丘陵省",
+      "latitude": 6.4076,
+      "longitude": 1.882,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Missérété",
+      "province": "韦梅省",
+      "latitude": 6.5587,
+      "longitude": 2.5906,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Dogbo",
+      "province": "库福省",
+      "latitude": 6.7991,
+      "longitude": 1.7807,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Kétou",
+      "province": "高原省",
+      "latitude": 7.3633,
+      "longitude": 2.5998,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Savalou",
+      "province": "丘陵省",
+      "latitude": 7.9281,
+      "longitude": 1.9756,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Banikoara",
+      "province": "阿黎博里省",
+      "latitude": 11.2985,
+      "longitude": 2.4386,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Péhonko",
+      "province": "阿塔科拉省",
+      "latitude": 10.2275,
+      "longitude": 2.0019,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Kalalé",
+      "province": "博尔古省",
+      "latitude": 10.2927,
+      "longitude": 3.3837,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Sinendé",
+      "province": "博尔古省",
+      "latitude": 10.3496,
+      "longitude": 2.3791,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Banigbé",
+      "province": "高原省",
+      "latitude": 6.6476,
+      "longitude": 2.7069,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Savé",
+      "province": "丘陵省",
+      "latitude": 8.0342,
+      "longitude": 2.4866,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Bembèrèkè",
+      "province": "博尔古省",
+      "latitude": 10.2283,
+      "longitude": 2.6633,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Dassa-Zoumè",
+      "province": "丘陵省",
+      "latitude": 7.75,
+      "longitude": 2.1833,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Kopargo",
+      "province": "峡谷省",
+      "latitude": 9.8411,
+      "longitude": 1.5423,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Kouandé",
+      "province": "大西洋省",
+      "latitude": 6.4,
+      "longitude": 2.0667,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Tanguiéta",
+      "province": "阿塔科拉省",
+      "latitude": 10.6212,
+      "longitude": 1.2665,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Kpozoun",
+      "province": "祖省",
+      "latitude": 7.2287,
+      "longitude": 2.2132,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Sé",
+      "province": "莫诺省",
+      "latitude": 6.5111,
+      "longitude": 1.8283,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Ségbana",
+      "province": "阿黎博里省",
+      "latitude": 10.9282,
+      "longitude": 3.6943,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Aplahoué",
+      "province": "库福省",
+      "latitude": 6.9333,
+      "longitude": 1.6833,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Cobly",
+      "province": "阿塔科拉省",
+      "latitude": 10.4922,
+      "longitude": 0.9997,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Matéri",
+      "province": "阿塔科拉省",
+      "latitude": 10.6962,
+      "longitude": 1.0631,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Adjarra",
+      "province": "韦梅省",
+      "latitude": 6.5344,
+      "longitude": 2.6683,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Djidja",
+      "province": "祖省",
+      "latitude": 7.3444,
+      "longitude": 1.9345,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Klouékanmè",
+      "province": "库福省",
+      "latitude": 6.9803,
+      "longitude": 1.8422,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Semi",
+      "province": "韦梅省",
+      "latitude": 6.3667,
+      "longitude": 2.6167,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Allada",
+      "province": "大西洋省",
+      "latitude": 6.6655,
+      "longitude": 2.1514,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Ndali",
+      "province": "博尔古省",
+      "latitude": 9.8636,
+      "longitude": 2.7209,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Boukoumbé",
+      "province": "阿塔科拉省",
+      "latitude": 10.1771,
+      "longitude": 1.1062,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Adjaouèrè",
+      "province": "高原省",
+      "latitude": 7.0023,
+      "longitude": 2.6059,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Toviklin",
+      "province": "库福省",
+      "latitude": 6.8894,
+      "longitude": 1.8372,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Avrankou",
+      "province": "韦梅省",
+      "latitude": 6.5559,
+      "longitude": 2.6512,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Glazoué",
+      "province": "丘陵省",
+      "latitude": 7.9725,
+      "longitude": 2.2218,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Ganvié",
+      "province": "大西洋省",
+      "latitude": 6.4644,
+      "longitude": 2.3929,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Djakotomé",
+      "province": "库福省",
+      "latitude": 6.8991,
+      "longitude": 1.7162,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Zinvié",
+      "province": "大西洋省",
+      "latitude": 6.6174,
+      "longitude": 2.3578,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Banté",
+      "province": "丘陵省",
+      "latitude": 8.4122,
+      "longitude": 1.8897,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Ouaké",
+      "province": "峡谷省",
+      "latitude": 9.6617,
+      "longitude": 1.3847,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Ouinhi",
+      "province": "祖省",
+      "latitude": 7.0841,
+      "longitude": 2.4834,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Tobré",
+      "province": "阿塔科拉省",
+      "latitude": 10.195,
+      "longitude": 2.13,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Zé",
+      "province": "大西洋省",
+      "latitude": 6.7833,
+      "longitude": 2.3,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Toukountouna",
+      "province": "阿塔科拉省",
+      "latitude": 10.5028,
+      "longitude": 1.3744,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Pèrèrè",
+      "province": "博尔古省",
+      "latitude": 9.7972,
+      "longitude": 2.984,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Ouessé",
+      "province": "丘陵省",
+      "latitude": 8.4864,
+      "longitude": 2.4287,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Athiémé",
+      "province": "莫诺省",
+      "latitude": 6.5808,
+      "longitude": 1.6696,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Tori-Bossito",
+      "province": "大西洋省",
+      "latitude": 6.503,
+      "longitude": 2.1441,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Gogounou",
+      "province": "阿黎博里省",
+      "latitude": 10.8399,
+      "longitude": 2.8317,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Lalo",
+      "province": "库福省",
+      "latitude": 6.9287,
+      "longitude": 1.8899,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Hévié",
+      "province": "大西洋省",
+      "latitude": 6.4167,
+      "longitude": 2.25,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Bétérou",
+      "province": "博尔古省",
+      "latitude": 9.1992,
+      "longitude": 2.2586,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Sam",
+      "province": "阿黎博里省",
+      "latitude": 11.0329,
+      "longitude": 2.7328,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Grand-Popo",
+      "province": "莫诺省",
+      "latitude": 6.2804,
+      "longitude": 1.8225,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Zounké",
+      "province": "韦梅省",
+      "latitude": 6.6162,
+      "longitude": 2.5284,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Guilmaro",
+      "province": "阿塔科拉省",
+      "latitude": 10.5658,
+      "longitude": 1.7244,
+      "timezone": "Africa/Porto-Novo"
+    },
+    {
+      "name": "",
+      "name_en": "Agoué",
+      "province": "莫诺省",
+      "latitude": 6.2463,
+      "longitude": 1.6762,
+      "timezone": "Africa/Porto-Novo"
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "country_code": "EE",
+  "country_name": "爱沙尼亚",
+  "cities": [
+    {
+      "name": "塔林",
+      "name_en": "Tallinn",
+      "province": "哈尔尤县",
+      "latitude": 59.437,
+      "longitude": 24.7535,
+      "timezone": "Europe/Tallinn"
+    },
+    {
+      "name": "",
+      "name_en": "Tartu",
+      "province": "塔尔图县",
+      "latitude": 58.3806,
+      "longitude": 26.7251,
+      "timezone": "Europe/Tallinn"
+    },
+    {
+      "name": "纳尔瓦",
+      "name_en": "Narva",
+      "province": "东维鲁县",
+      "latitude": 59.3772,
+      "longitude": 28.1903,
+      "timezone": "Europe/Tallinn"
+    },
+    {
+      "name": "",
+      "name_en": "Pärnu",
+      "province": "派尔努县",
+      "latitude": 58.3859,
+      "longitude": 24.4971,
+      "timezone": "Europe/Tallinn"
+    },
+    {
+      "name": "",
+      "name_en": "Nõmme",
+      "province": "哈尔尤县",
+      "latitude": 59.3776,
+      "longitude": 24.6859,
+      "timezone": "Europe/Tallinn"
+    },
+    {
+      "name": "科赫特拉-耶尔韦",
+      "name_en": "Kohtla-Järve",
+      "province": "东维鲁县",
+      "latitude": 59.3986,
+      "longitude": 27.2731,
+      "timezone": "Europe/Tallinn"
+    },
+    {
+      "name": "维尔扬迪",
+      "name_en": "Viljandi",
+      "province": "维尔扬迪县",
+      "latitude": 58.3632,
+      "longitude": 25.5916,
+      "timezone": "Europe/Tallinn"
+    },
+    {
+      "name": "马尔杜",
+      "name_en": "Maardu",
+      "province": "哈尔尤县",
+      "latitude": 59.4653,
+      "longitude": 24.9822,
+      "timezone": "Europe/Tallinn"
+    },
+    {
+      "name": "拉克韦雷",
+      "name_en": "Rakvere",
+      "province": "西维鲁县",
+      "latitude": 59.3481,
+      "longitude": 26.3578,
+      "timezone": "Europe/Tallinn"
+    },
+    {
+      "name": "库雷萨雷",
+      "name_en": "Kuressaare",
+      "province": "萨雷县",
+      "latitude": 58.2538,
+      "longitude": 22.4922,
+      "timezone": "Europe/Tallinn"
+    },
+    {
+      "name": "锡拉迈埃",
+      "name_en": "Sillamäe",
+      "province": "东维鲁县",
+      "latitude": 59.397,
+      "longitude": 27.7633,
+      "timezone": "Europe/Tallinn"
+    },
+    {
+      "name": "沃鲁",
+      "name_en": "Võru",
+      "province": "沃鲁县",
+      "latitude": 57.8339,
+      "longitude": 27.0194,
+      "timezone": "Europe/Tallinn"
+    },
+    {
+      "name": "",
+      "name_en": "Tori",
+      "province": "派尔努县",
+      "latitude": 58.4789,
+      "longitude": 24.8242,
+      "timezone": "Europe/Tallinn"
+    },
+    {
+      "name": "哈普沙卢",
+      "name_en": "Haapsalu",
+      "province": "莱内县",
+      "latitude": 58.9394,
+      "longitude": 23.5413,
+      "timezone": "Europe/Tallinn"
+    },
+    {
+      "name": "瓦尔加",
+      "name_en": "Valga",
+      "province": "瓦尔加县",
+      "latitude": 57.7778,
+      "longitude": 26.0473,
+      "timezone": "Europe/Tallinn"
+    },
+    {
+      "name": "约赫维",
+      "name_en": "Jõhvi",
+      "province": "东维鲁县",
+      "latitude": 59.3592,
+      "longitude": 27.4211,
+      "timezone": "Europe/Tallinn"
+    },
+    {
+      "name": "凯伊拉",
+      "name_en": "Keila",
+      "province": "哈尔尤县",
+      "latitude": 59.3036,
+      "longitude": 24.4131,
+      "timezone": "Europe/Tallinn"
+    },
+    {
+      "name": "派德",
+      "name_en": "Paide",
+      "province": "耶尔瓦县",
+      "latitude": 58.8877,
+      "longitude": 25.5404,
+      "timezone": "Europe/Tallinn"
+    },
+    {
+      "name": "库萨卢乡",
+      "name_en": "Kuusalu",
+      "province": "哈尔尤县",
+      "latitude": 59.4439,
+      "longitude": 25.4414,
+      "timezone": "Europe/Tallinn"
+    },
+    {
+      "name": "约格瓦",
+      "name_en": "Jõgeva",
+      "province": "约格瓦县",
+      "latitude": 58.7467,
+      "longitude": 26.3939,
+      "timezone": "Europe/Tallinn"
+    },
+    {
+      "name": "",
+      "name_en": "Männiku",
+      "province": "哈尔尤县",
+      "latitude": 59.3753,
+      "longitude": 24.7181,
+      "timezone": "Europe/Tallinn"
+    },
+    {
+      "name": "绍埃",
+      "name_en": "Saue",
+      "province": "哈尔尤县",
+      "latitude": 59.3226,
+      "longitude": 24.5497,
+      "timezone": "Europe/Tallinn"
+    },
+    {
+      "name": "埃尔瓦",
+      "name_en": "Elva",
+      "province": "塔尔图县",
+      "latitude": 58.2225,
+      "longitude": 26.4211,
+      "timezone": "Europe/Tallinn"
+    },
+    {
+      "name": "塔帕",
+      "name_en": "Tapa",
+      "province": "西维鲁县",
+      "latitude": 59.2606,
+      "longitude": 25.9586,
+      "timezone": "Europe/Tallinn"
+    },
+    {
+      "name": "",
+      "name_en": "Laagri",
+      "province": "哈尔尤县",
+      "latitude": 59.3508,
+      "longitude": 24.6142,
+      "timezone": "Europe/Tallinn"
+    },
+    {
+      "name": "",
+      "name_en": "Raasiku",
+      "province": "哈尔尤县",
+      "latitude": 59.3664,
+      "longitude": 25.1831,
+      "timezone": "Europe/Tallinn"
+    },
+    {
+      "name": "拉普拉",
+      "name_en": "Rapla",
+      "province": "拉普拉县",
+      "latitude": 59.0076,
+      "longitude": 24.7939,
+      "timezone": "Europe/Tallinn"
+    },
+    {
+      "name": "珀尔瓦",
+      "name_en": "Põlva",
+      "province": "珀尔瓦县",
+      "latitude": 58.0603,
+      "longitude": 27.0694,
+      "timezone": "Europe/Tallinn"
+    },
+    {
+      "name": "蒂里",
+      "name_en": "Türi",
+      "province": "耶尔瓦县",
+      "latitude": 58.8086,
+      "longitude": 25.4325,
+      "timezone": "Europe/Tallinn"
+    },
+    {
+      "name": "凯尔德拉",
+      "name_en": "Kärdla",
+      "province": "希乌县",
+      "latitude": 58.9978,
+      "longitude": 22.7492,
+      "timezone": "Europe/Tallinn"
+    }
+  ]
+}

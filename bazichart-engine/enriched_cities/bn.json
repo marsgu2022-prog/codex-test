@@ -1,0 +1,230 @@
+{
+  "country_code": "BN",
+  "country_name": "文莱",
+  "cities": [
+    {
+      "name": "斯里巴加湾市",
+      "name_en": "Bandar Seri Begawan",
+      "province": "汶莱摩拉县",
+      "latitude": 4.8903,
+      "longitude": 114.9401,
+      "timezone": "Asia/Brunei"
+    },
+    {
+      "name": "",
+      "name_en": "Sengkurong",
+      "province": "汶莱摩拉县",
+      "latitude": 4.8833,
+      "longitude": 114.8333,
+      "timezone": "Asia/Brunei"
+    },
+    {
+      "name": "",
+      "name_en": "Mentiri",
+      "province": "汶莱摩拉县",
+      "latitude": 4.9706,
+      "longitude": 115.0208,
+      "timezone": "Asia/Brunei"
+    },
+    {
+      "name": "马来奕",
+      "name_en": "Kuala Belait",
+      "province": "Belait",
+      "latitude": 4.5836,
+      "longitude": 114.2312,
+      "timezone": "Asia/Brunei"
+    },
+    {
+      "name": "",
+      "name_en": "Seria",
+      "province": "Belait",
+      "latitude": 4.6064,
+      "longitude": 114.3248,
+      "timezone": "Asia/Brunei"
+    },
+    {
+      "name": "",
+      "name_en": "Tutong",
+      "province": "Tutong",
+      "latitude": 4.8028,
+      "longitude": 114.6492,
+      "timezone": "Asia/Brunei"
+    },
+    {
+      "name": "",
+      "name_en": "Serasa",
+      "province": "汶莱摩拉县",
+      "latitude": 5.0176,
+      "longitude": 115.058,
+      "timezone": "Asia/Brunei"
+    },
+    {
+      "name": "",
+      "name_en": "Liang",
+      "province": "Belait",
+      "latitude": 4.6775,
+      "longitude": 114.4959,
+      "timezone": "Asia/Brunei"
+    },
+    {
+      "name": "",
+      "name_en": "Perumahan Negara Panchor",
+      "province": "",
+      "latitude": 4.9667,
+      "longitude": 115.0167,
+      "timezone": "Asia/Brunei"
+    },
+    {
+      "name": "",
+      "name_en": "Telamba",
+      "province": "Tutong",
+      "latitude": 4.7296,
+      "longitude": 114.5667,
+      "timezone": "Asia/Brunei"
+    },
+    {
+      "name": "",
+      "name_en": "Telisai",
+      "province": "Tutong",
+      "latitude": 4.7356,
+      "longitude": 114.5632,
+      "timezone": "Asia/Brunei"
+    },
+    {
+      "name": "",
+      "name_en": "Kota Batu",
+      "province": "",
+      "latitude": 4.8833,
+      "longitude": 114.95,
+      "timezone": "Asia/Brunei"
+    },
+    {
+      "name": "",
+      "name_en": "Kampong Tunah Jambu",
+      "province": "",
+      "latitude": 4.9833,
+      "longitude": 114.9833,
+      "timezone": "Asia/Brunei"
+    },
+    {
+      "name": "",
+      "name_en": "Pengkalan Batu",
+      "province": "",
+      "latitude": 4.7833,
+      "longitude": 114.8333,
+      "timezone": "Asia/Brunei"
+    },
+    {
+      "name": "",
+      "name_en": "Kampung Panaga",
+      "province": "Belait",
+      "latitude": 4.6082,
+      "longitude": 114.2957,
+      "timezone": "Asia/Brunei"
+    },
+    {
+      "name": "",
+      "name_en": "Kampong Ayer",
+      "province": "汶莱摩拉县",
+      "latitude": 4.8826,
+      "longitude": 114.9449,
+      "timezone": "Asia/Pontianak"
+    },
+    {
+      "name": "",
+      "name_en": "Kampong Meragang",
+      "province": "",
+      "latitude": 4.9333,
+      "longitude": 114.9167,
+      "timezone": "Asia/Brunei"
+    },
+    {
+      "name": "",
+      "name_en": "Keriam",
+      "province": "Tutong",
+      "latitude": 4.816,
+      "longitude": 114.6941,
+      "timezone": "Asia/Brunei"
+    },
+    {
+      "name": "",
+      "name_en": "Lumapas",
+      "province": "",
+      "latitude": 4.85,
+      "longitude": 114.9167,
+      "timezone": "Asia/Brunei"
+    },
+    {
+      "name": "",
+      "name_en": "Kampong Lambak A",
+      "province": "汶莱摩拉县",
+      "latitude": 4.9661,
+      "longitude": 114.943,
+      "timezone": "Asia/Brunei"
+    },
+    {
+      "name": "",
+      "name_en": "Kampong Mata Mata",
+      "province": "",
+      "latitude": 4.9,
+      "longitude": 114.9,
+      "timezone": "Asia/Brunei"
+    },
+    {
+      "name": "",
+      "name_en": "Kampong Beribi",
+      "province": "",
+      "latitude": 4.8833,
+      "longitude": 114.8833,
+      "timezone": "Asia/Brunei"
+    },
+    {
+      "name": "",
+      "name_en": "Sungai Hanching",
+      "province": "汶莱摩拉县",
+      "latitude": 4.9681,
+      "longitude": 114.9775,
+      "timezone": "Asia/Brunei"
+    },
+    {
+      "name": "",
+      "name_en": "Kampong Mulaut",
+      "province": "",
+      "latitude": 4.8667,
+      "longitude": 114.8333,
+      "timezone": "Asia/Brunei"
+    },
+    {
+      "name": "",
+      "name_en": "Kampong Lugu",
+      "province": "",
+      "latitude": 4.8833,
+      "longitude": 114.8,
+      "timezone": "Asia/Brunei"
+    },
+    {
+      "name": "",
+      "name_en": "Kampong Rimba",
+      "province": "汶莱摩拉县",
+      "latitude": 4.9167,
+      "longitude": 114.9,
+      "timezone": "Asia/Brunei"
+    },
+    {
+      "name": "",
+      "name_en": "Kiudang",
+      "province": "Tutong",
+      "latitude": 4.75,
+      "longitude": 114.7333,
+      "timezone": "Asia/Brunei"
+    },
+    {
+      "name": "",
+      "name_en": "Bangar",
+      "province": "Temburong",
+      "latitude": 4.7086,
+      "longitude": 115.0717,
+      "timezone": "Asia/Brunei"
+    }
+  ]
+}

@@ -1,0 +1,566 @@
+{
+  "country_code": "ML",
+  "country_name": "马里",
+  "cities": [
+    {
+      "name": "巴马科",
+      "name_en": "Bamako",
+      "province": "巴马科",
+      "latitude": 12.6091,
+      "longitude": -7.9752,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "锡卡索",
+      "name_en": "Sikasso",
+      "province": "锡卡索区",
+      "latitude": 11.3176,
+      "longitude": -5.6665,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "库佳拉",
+      "name_en": "Koutiala",
+      "province": "锡卡索区",
+      "latitude": 12.3872,
+      "longitude": -5.4651,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "塞古",
+      "name_en": "Ségou",
+      "province": "塞古区",
+      "latitude": 13.4403,
+      "longitude": -6.2595,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "卡伊",
+      "name_en": "Kayes",
+      "province": "卡伊区",
+      "latitude": 14.4478,
+      "longitude": -11.4439,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "莫普提",
+      "name_en": "Mopti",
+      "province": "莫普提区",
+      "latitude": 14.4843,
+      "longitude": -4.183,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Kalaban Koro",
+      "province": "库利科罗区",
+      "latitude": 12.5733,
+      "longitude": -8.0291,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "加奥",
+      "name_en": "Gao",
+      "province": "加奥区",
+      "latitude": 16.2717,
+      "longitude": -0.0447,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "卡蒂",
+      "name_en": "Kati",
+      "province": "库利科罗区",
+      "latitude": 12.7441,
+      "longitude": -8.0726,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "San",
+      "province": "塞古区",
+      "latitude": 13.297,
+      "longitude": -4.8963,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Bougouni",
+      "province": "锡卡索区",
+      "latitude": 11.4177,
+      "longitude": -7.4832,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "廷巴克图",
+      "name_en": "Timbuktu",
+      "province": "Tombouctou",
+      "latitude": 16.7735,
+      "longitude": -3.0074,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Kita",
+      "province": "卡伊区",
+      "latitude": 13.0389,
+      "longitude": -9.4882,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Dialakorodji",
+      "province": "库利科罗区",
+      "latitude": 12.7035,
+      "longitude": -7.9646,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "库利科罗",
+      "name_en": "Koulikoro",
+      "province": "库利科罗区",
+      "latitude": 12.8627,
+      "longitude": -7.5598,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Fana",
+      "province": "库利科罗区",
+      "latitude": 12.7787,
+      "longitude": -6.9564,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Markala",
+      "province": "塞古区",
+      "latitude": 13.6843,
+      "longitude": -6.0735,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Niono",
+      "province": "塞古区",
+      "latitude": 14.2505,
+      "longitude": -5.9868,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Nioro",
+      "province": "卡伊区",
+      "latitude": 15.2307,
+      "longitude": -9.5936,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Pèlèngana",
+      "province": "塞古区",
+      "latitude": 13.4274,
+      "longitude": -6.222,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Kolokani",
+      "province": "库利科罗区",
+      "latitude": 13.5728,
+      "longitude": -8.0339,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Bourem",
+      "province": "加奥区",
+      "latitude": 16.955,
+      "longitude": -0.3486,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Sangarébougou",
+      "province": "库利科罗区",
+      "latitude": 12.7058,
+      "longitude": -7.9027,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Massiogo",
+      "province": "锡卡索区",
+      "latitude": 10.3064,
+      "longitude": -6.1097,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Djenné",
+      "province": "莫普提区",
+      "latitude": 13.9061,
+      "longitude": -4.5533,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "基达尔",
+      "name_en": "Kidal",
+      "province": "基达尔区",
+      "latitude": 18.4434,
+      "longitude": 1.4092,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Kadiolo",
+      "province": "锡卡索区",
+      "latitude": 10.55,
+      "longitude": -5.7667,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Douentza",
+      "province": "莫普提区",
+      "latitude": 15.0061,
+      "longitude": -2.9517,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Bla",
+      "province": "塞古区",
+      "latitude": 12.9501,
+      "longitude": -5.7602,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Moninnpébougou",
+      "province": "塞古区",
+      "latitude": 14.1508,
+      "longitude": -5.5209,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Zégoua",
+      "province": "锡卡索区",
+      "latitude": 10.488,
+      "longitude": -5.6494,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Diré",
+      "province": "Tombouctou",
+      "latitude": 16.257,
+      "longitude": -3.4013,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Diéma",
+      "province": "卡伊区",
+      "latitude": 14.54,
+      "longitude": -9.1921,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Banamba",
+      "province": "库利科罗区",
+      "latitude": 13.5477,
+      "longitude": -7.4481,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Bankass",
+      "province": "莫普提区",
+      "latitude": 14.0775,
+      "longitude": -3.5159,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Bamba",
+      "province": "加奥区",
+      "latitude": 10.3833,
+      "longitude": -7.15,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Bafoulabé",
+      "province": "卡伊区",
+      "latitude": 13.8065,
+      "longitude": -10.8321,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Mahina",
+      "province": "卡伊区",
+      "latitude": 13.9044,
+      "longitude": -10.0986,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Sibi",
+      "province": "库利科罗区",
+      "latitude": 12.3755,
+      "longitude": -8.3349,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Diourou",
+      "province": "塞古区",
+      "latitude": 13.6872,
+      "longitude": -5.832,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Bandiagara",
+      "province": "莫普提区",
+      "latitude": 14.35,
+      "longitude": -3.6104,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Dougabougou",
+      "province": "塞古区",
+      "latitude": 13.8205,
+      "longitude": -6.1206,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Koro",
+      "province": "莫普提区",
+      "latitude": 14.064,
+      "longitude": -3.0754,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Yanfolila",
+      "province": "锡卡索区",
+      "latitude": 11.1833,
+      "longitude": -8.15,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Siribala Coro",
+      "province": "塞古区",
+      "latitude": 14.0432,
+      "longitude": -6.1067,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Kabala",
+      "province": "库利科罗区",
+      "latitude": 12.5255,
+      "longitude": -8.0393,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Finnkolo",
+      "province": "锡卡索区",
+      "latitude": 11.2682,
+      "longitude": -5.5105,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Moribabougou",
+      "province": "库利科罗区",
+      "latitude": 12.6867,
+      "longitude": -7.8638,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Nara",
+      "province": "库利科罗区",
+      "latitude": 15.1693,
+      "longitude": -7.2899,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Dioïla",
+      "province": "库利科罗区",
+      "latitude": 12.4873,
+      "longitude": -6.8031,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Kouri",
+      "province": "锡卡索区",
+      "latitude": 12.184,
+      "longitude": -4.8028,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Sirakoro Méguétana",
+      "province": "库利科罗区",
+      "latitude": 12.5644,
+      "longitude": -7.9155,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "I-n-Tillit",
+      "province": "加奥区",
+      "latitude": 15.5461,
+      "longitude": -0.4606,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Toubakoura",
+      "province": "库利科罗区",
+      "latitude": 13.4637,
+      "longitude": -7.3828,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Goundam",
+      "province": "Tombouctou",
+      "latitude": 16.4145,
+      "longitude": -3.6707,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Yorosso",
+      "province": "锡卡索区",
+      "latitude": 12.3581,
+      "longitude": -4.7769,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Kangaba",
+      "province": "库利科罗区",
+      "latitude": 11.9333,
+      "longitude": -8.4167,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Sagalo",
+      "province": "卡伊区",
+      "latitude": 12.2,
+      "longitude": -10.7,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Ké-Macina",
+      "province": "塞古区",
+      "latitude": 13.9641,
+      "longitude": -5.3579,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "梅纳卡",
+      "name_en": "Ménaka",
+      "province": "Ménaka",
+      "latitude": 15.9199,
+      "longitude": 2.3961,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Tessit",
+      "province": "加奥区",
+      "latitude": 15.2167,
+      "longitude": -0.3,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Kokofata",
+      "province": "卡伊区",
+      "latitude": 12.8833,
+      "longitude": -9.95,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Abdel Begrou",
+      "province": "巴马科",
+      "latitude": 15.4975,
+      "longitude": -6.9506,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Kolondiéba",
+      "province": "锡卡索区",
+      "latitude": 11.0894,
+      "longitude": -6.8929,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Inékar",
+      "province": "Ménaka",
+      "latitude": 15.9594,
+      "longitude": 3.1411,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Ntossoni",
+      "province": "锡卡索区",
+      "latitude": 12.5304,
+      "longitude": -5.77,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Ténenkou",
+      "province": "莫普提区",
+      "latitude": 14.4572,
+      "longitude": -4.9169,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Niafunké",
+      "province": "Tombouctou",
+      "latitude": 15.9322,
+      "longitude": -3.9906,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Kinmparana",
+      "province": "塞古区",
+      "latitude": 12.8422,
+      "longitude": -4.9245,
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "name": "",
+      "name_en": "Taoudenni",
+      "province": "Taoudénit",
+      "latitude": 22.6769,
+      "longitude": -3.9792,
+      "timezone": "Africa/Bamako"
+    }
+  ]
+}

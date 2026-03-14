@@ -1,0 +1,62 @@
+{
+  "country_code": "GD",
+  "country_name": "格林纳达",
+  "cities": [
+    {
+      "name": "",
+      "name_en": "Saint George's",
+      "province": "圣乔治区",
+      "latitude": 12.0529,
+      "longitude": -61.7523,
+      "timezone": "America/Grenada"
+    },
+    {
+      "name": "",
+      "name_en": "Gouyave",
+      "province": "圣约翰区",
+      "latitude": 12.1646,
+      "longitude": -61.7296,
+      "timezone": "America/Grenada"
+    },
+    {
+      "name": "",
+      "name_en": "Grenville",
+      "province": "圣安德鲁区",
+      "latitude": 12.1228,
+      "longitude": -61.625,
+      "timezone": "America/Grenada"
+    },
+    {
+      "name": "",
+      "name_en": "Victoria",
+      "province": "圣马克区",
+      "latitude": 12.1902,
+      "longitude": -61.7068,
+      "timezone": "America/Grenada"
+    },
+    {
+      "name": "",
+      "name_en": "Saint David’s",
+      "province": "圣戴维区",
+      "latitude": 12.049,
+      "longitude": -61.6688,
+      "timezone": "America/Grenada"
+    },
+    {
+      "name": "",
+      "name_en": "Sauteurs",
+      "province": "圣帕特里克区",
+      "latitude": 12.2183,
+      "longitude": -61.6392,
+      "timezone": "America/Grenada"
+    },
+    {
+      "name": "",
+      "name_en": "Hillsborough",
+      "province": "Carriacou and Petite Martinique",
+      "latitude": 12.4829,
+      "longitude": -61.456,
+      "timezone": "America/Grenada"
+    }
+  ]
+}

@@ -1,0 +1,1358 @@
+{
+  "country_code": "CU",
+  "country_name": "古巴",
+  "cities": [
+    {
+      "name": "哈瓦那",
+      "name_en": "Havana",
+      "province": "Havana",
+      "latitude": 23.133,
+      "longitude": -82.383,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "圣地亚哥-德古巴",
+      "name_en": "Santiago de Cuba",
+      "province": "圣地亚哥省",
+      "latitude": 20.0229,
+      "longitude": -75.8217,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Camagüey",
+      "province": "Camagüey",
+      "latitude": 21.3808,
+      "longitude": -77.9169,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "奥尔金",
+      "name_en": "Holguín",
+      "province": "奥尔金省",
+      "latitude": 20.8872,
+      "longitude": -76.2631,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Guantánamo",
+      "province": "关塔那摩省",
+      "latitude": 20.1444,
+      "longitude": -75.2092,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "圣克拉拉",
+      "name_en": "Santa Clara",
+      "province": "比亚克拉拉省",
+      "latitude": 22.4071,
+      "longitude": -79.9658,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Almendares",
+      "province": "Havana",
+      "latitude": 23.1101,
+      "longitude": -82.4232,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Diez de Octubre",
+      "province": "Havana",
+      "latitude": 23.0881,
+      "longitude": -82.3597,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Arroyo Naranjo",
+      "province": "Havana",
+      "latitude": 23.0381,
+      "longitude": -82.377,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Mantilla",
+      "province": "Havana",
+      "latitude": 23.0679,
+      "longitude": -82.3414,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "维多利亚-德拉斯图纳斯",
+      "name_en": "Las Tunas",
+      "province": "拉斯图纳斯省",
+      "latitude": 20.9613,
+      "longitude": -76.9519,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Bayamo",
+      "province": "格拉玛省",
+      "latitude": 20.3737,
+      "longitude": -76.6427,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Boyeros",
+      "province": "Havana",
+      "latitude": 23.0072,
+      "longitude": -82.4017,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Pinar del Río",
+      "province": "Pinar del Río",
+      "latitude": 22.4165,
+      "longitude": -83.6966,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "西恩富戈斯",
+      "name_en": "Cienfuegos",
+      "province": "西恩富戈斯省",
+      "latitude": 22.1468,
+      "longitude": -80.4481,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Fontanar",
+      "province": "Havana",
+      "latitude": 23.0239,
+      "longitude": -82.408,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Ciudad Camilo Cienfuegos",
+      "province": "Havana",
+      "latitude": 23.1608,
+      "longitude": -82.328,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "San Miguel del Padrón",
+      "province": "Havana",
+      "latitude": 23.0954,
+      "longitude": -82.3267,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Centro Habana",
+      "province": "Havana",
+      "latitude": 23.1383,
+      "longitude": -82.3642,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Balcón de la Lisa",
+      "province": "Havana",
+      "latitude": 23.0535,
+      "longitude": -82.4476,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "马坦萨斯",
+      "name_en": "Matanzas",
+      "province": "马坦萨斯省",
+      "latitude": 23.0439,
+      "longitude": -81.5828,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Ciego de Ávila",
+      "province": "谢戈德阿维拉省",
+      "latitude": 21.8422,
+      "longitude": -78.7603,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Plaza de la Revolución",
+      "province": "Havana",
+      "latitude": 23.1194,
+      "longitude": -82.392,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Marianao",
+      "province": "Havana",
+      "latitude": 23.0739,
+      "longitude": -82.4189,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Cerro",
+      "province": "Havana",
+      "latitude": 23.1081,
+      "longitude": -82.3866,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "曼萨尼约",
+      "name_en": "Manzanillo",
+      "province": "格拉玛省",
+      "latitude": 20.3417,
+      "longitude": -77.1213,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Sancti Spíritus",
+      "province": "圣斯皮里图斯省",
+      "latitude": 21.9343,
+      "longitude": -79.4398,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Guanabacoa",
+      "province": "Havana",
+      "latitude": 23.1252,
+      "longitude": -82.3007,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Vedado",
+      "province": "Havana",
+      "latitude": 23.1377,
+      "longitude": -82.3934,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Palma Soriano",
+      "province": "圣地亚哥省",
+      "latitude": 20.2113,
+      "longitude": -75.9936,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Alamar",
+      "province": "Havana",
+      "latitude": 23.1579,
+      "longitude": -82.2784,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "卡尔德纳斯",
+      "name_en": "Cárdenas",
+      "province": "马坦萨斯省",
+      "latitude": 23.0366,
+      "longitude": -81.206,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "La Habana Vieja",
+      "province": "Havana",
+      "latitude": 23.1303,
+      "longitude": -82.3531,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Moa",
+      "province": "奥尔金省",
+      "latitude": 20.6578,
+      "longitude": -74.9507,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Puerto Padre",
+      "province": "拉斯图纳斯省",
+      "latitude": 21.1952,
+      "longitude": -76.6036,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Vedado del Cotorro",
+      "province": "Havana",
+      "latitude": 23.05,
+      "longitude": -82.25,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Contramaestre",
+      "province": "圣地亚哥省",
+      "latitude": 20.2988,
+      "longitude": -76.2451,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Güira de Melena",
+      "province": "阿特米萨省",
+      "latitude": 22.7961,
+      "longitude": -82.5067,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Consolación del Sur",
+      "province": "Pinar del Río",
+      "latitude": 22.5042,
+      "longitude": -83.5144,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Güines",
+      "province": "玛雅贝克省",
+      "latitude": 22.8373,
+      "longitude": -82.0264,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Artemisa",
+      "province": "阿特米萨省",
+      "latitude": 22.8137,
+      "longitude": -82.7581,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "San Luis",
+      "province": "圣地亚哥省",
+      "latitude": 20.1881,
+      "longitude": -75.8503,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "莫隆",
+      "name_en": "Morón",
+      "province": "谢戈德阿维拉省",
+      "latitude": 22.1077,
+      "longitude": -78.6267,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "科隆",
+      "name_en": "Colón",
+      "province": "马坦萨斯省",
+      "latitude": 22.7206,
+      "longitude": -80.9049,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Florida",
+      "province": "Camagüey",
+      "latitude": 21.5254,
+      "longitude": -78.2258,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Sagua la Grande",
+      "province": "比亚克拉拉省",
+      "latitude": 22.8067,
+      "longitude": -80.0756,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "特立尼达",
+      "name_en": "Trinidad",
+      "province": "圣斯皮里图斯省",
+      "latitude": 21.8022,
+      "longitude": -79.9847,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "San Cristobal",
+      "province": "阿特米萨省",
+      "latitude": 22.7166,
+      "longitude": -83.0565,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Placetas",
+      "province": "比亚克拉拉省",
+      "latitude": 22.3118,
+      "longitude": -79.6544,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "San José de las Lajas",
+      "province": "玛雅贝克省",
+      "latitude": 22.9612,
+      "longitude": -82.1515,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Jagüey Grande",
+      "province": "马坦萨斯省",
+      "latitude": 22.5269,
+      "longitude": -81.1286,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Nuevitas",
+      "province": "Camagüey",
+      "latitude": 21.5459,
+      "longitude": -77.265,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Banes",
+      "province": "奥尔金省",
+      "latitude": 20.9612,
+      "longitude": -75.722,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Bartolomé Masó",
+      "province": "格拉玛省",
+      "latitude": 20.1664,
+      "longitude": -76.9429,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Corralillo",
+      "province": "比亚克拉拉省",
+      "latitude": 22.9821,
+      "longitude": -80.5856,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Jesús Menéndez",
+      "province": "拉斯图纳斯省",
+      "latitude": 21.1614,
+      "longitude": -76.4792,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Jobabo",
+      "province": "拉斯图纳斯省",
+      "latitude": 20.9075,
+      "longitude": -77.2819,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Baracoa",
+      "province": "关塔那摩省",
+      "latitude": 20.3471,
+      "longitude": -74.4962,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Jovellanos",
+      "province": "马坦萨斯省",
+      "latitude": 22.8038,
+      "longitude": -81.1913,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Bauta",
+      "province": "阿特米萨省",
+      "latitude": 22.9823,
+      "longitude": -82.5472,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Santo Domingo",
+      "province": "比亚克拉拉省",
+      "latitude": 22.5868,
+      "longitude": -80.2426,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Cabaiguán",
+      "province": "圣斯皮里图斯省",
+      "latitude": 22.0787,
+      "longitude": -79.4973,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Regla",
+      "province": "Havana",
+      "latitude": 23.125,
+      "longitude": -82.3319,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "San Germán",
+      "province": "奥尔金省",
+      "latitude": 20.6001,
+      "longitude": -76.1336,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Ranchuelo",
+      "province": "比亚克拉拉省",
+      "latitude": 22.3727,
+      "longitude": -80.1505,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "San Antonio de los Baños",
+      "province": "阿特米萨省",
+      "latitude": 22.8902,
+      "longitude": -82.501,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Cacocum",
+      "province": "奥尔金省",
+      "latitude": 20.7377,
+      "longitude": -76.3257,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Yaguajay",
+      "province": "圣斯皮里图斯省",
+      "latitude": 22.3269,
+      "longitude": -79.2357,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Manicaragua",
+      "province": "比亚克拉拉省",
+      "latitude": 22.1502,
+      "longitude": -79.9787,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Amancio",
+      "province": "拉斯图纳斯省",
+      "latitude": 20.8191,
+      "longitude": -77.5796,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Jiguaní",
+      "province": "格拉玛省",
+      "latitude": 20.3679,
+      "longitude": -76.4274,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Cifuentes",
+      "province": "比亚克拉拉省",
+      "latitude": 22.6493,
+      "longitude": -80.0494,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Guáimaro",
+      "province": "Camagüey",
+      "latitude": 21.0522,
+      "longitude": -77.3499,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "凯瓦连",
+      "name_en": "Caibarién",
+      "province": "比亚克拉拉省",
+      "latitude": 22.52,
+      "longitude": -79.466,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Cumanayagua",
+      "province": "西恩富戈斯省",
+      "latitude": 22.1525,
+      "longitude": -80.2035,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Condado",
+      "province": "圣斯皮里图斯省",
+      "latitude": 21.8767,
+      "longitude": -79.8401,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Camajuaní",
+      "province": "比亚克拉拉省",
+      "latitude": 22.4833,
+      "longitude": -79.75,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Santiago de las Vegas",
+      "province": "Havana",
+      "latitude": 22.97,
+      "longitude": -82.3869,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Cruz del Sur",
+      "province": "Camagüey",
+      "latitude": 20.7163,
+      "longitude": -77.9982,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Minas de Matahambre",
+      "province": "Pinar del Río",
+      "latitude": 22.5869,
+      "longitude": -83.9455,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Remedios",
+      "province": "比亚克拉拉省",
+      "latitude": 22.495,
+      "longitude": -79.5455,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Madruga",
+      "province": "玛雅贝克省",
+      "latitude": 22.91,
+      "longitude": -81.8564,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Unión de Reyes",
+      "province": "马坦萨斯省",
+      "latitude": 22.795,
+      "longitude": -81.5362,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Vertientes",
+      "province": "Camagüey",
+      "latitude": 21.2582,
+      "longitude": -78.1498,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Ciro Redondo",
+      "province": "谢戈德阿维拉省",
+      "latitude": 22.0192,
+      "longitude": -78.7036,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Mariel",
+      "province": "阿特米萨省",
+      "latitude": 22.9893,
+      "longitude": -82.7538,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Yara",
+      "province": "格拉玛省",
+      "latitude": 20.2747,
+      "longitude": -76.9513,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "La Salud",
+      "province": "玛雅贝克省",
+      "latitude": 22.872,
+      "longitude": -82.4233,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Pilón",
+      "province": "格拉玛省",
+      "latitude": 19.9055,
+      "longitude": -77.3215,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Maisí",
+      "province": "关塔那摩省",
+      "latitude": 20.2467,
+      "longitude": -74.1518,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Gibara",
+      "province": "奥尔金省",
+      "latitude": 21.1099,
+      "longitude": -76.1315,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Naranjito",
+      "province": "Havana",
+      "latitude": 23.0794,
+      "longitude": -82.3769,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Viñales",
+      "province": "Pinar del Río",
+      "latitude": 22.6189,
+      "longitude": -83.7069,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Pedro Betancourt",
+      "province": "马坦萨斯省",
+      "latitude": 22.7271,
+      "longitude": -81.2896,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Cueto",
+      "province": "奥尔金省",
+      "latitude": 20.6486,
+      "longitude": -75.9297,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Encrucijada",
+      "province": "比亚克拉拉省",
+      "latitude": 22.618,
+      "longitude": -79.866,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Río Guayabal de Yateras",
+      "province": "关塔那摩省",
+      "latitude": 20.3667,
+      "longitude": -75.0167,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Los Palacios",
+      "province": "Pinar del Río",
+      "latitude": 22.5888,
+      "longitude": -83.2467,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Limonar",
+      "province": "马坦萨斯省",
+      "latitude": 22.9504,
+      "longitude": -81.4106,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Guanajay",
+      "province": "阿特米萨省",
+      "latitude": 22.9262,
+      "longitude": -82.6869,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Campechuela",
+      "province": "格拉玛省",
+      "latitude": 20.2333,
+      "longitude": -77.2799,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Cruces",
+      "province": "西恩富戈斯省",
+      "latitude": 22.342,
+      "longitude": -80.2702,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Chambas",
+      "province": "谢戈德阿维拉省",
+      "latitude": 22.1953,
+      "longitude": -78.9123,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Perico",
+      "province": "马坦萨斯省",
+      "latitude": 22.7699,
+      "longitude": -81.0183,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Río Cauto",
+      "province": "格拉玛省",
+      "latitude": 20.5597,
+      "longitude": -76.9167,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Aguada de Pasajeros",
+      "province": "西恩富戈斯省",
+      "latitude": 22.3852,
+      "longitude": -80.8479,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Calimete",
+      "province": "马坦萨斯省",
+      "latitude": 22.5342,
+      "longitude": -80.9111,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Víbora",
+      "province": "Havana",
+      "latitude": 23.0939,
+      "longitude": -82.3719,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Palmira",
+      "province": "西恩富戈斯省",
+      "latitude": 22.2413,
+      "longitude": -80.3911,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Víbora Park",
+      "province": "Havana",
+      "latitude": 23.0811,
+      "longitude": -82.3545,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Lajas",
+      "province": "西恩富戈斯省",
+      "latitude": 22.4148,
+      "longitude": -80.2931,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Jimaguayú",
+      "province": "Camagüey",
+      "latitude": 21.2422,
+      "longitude": -77.8263,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Cauto Cristo",
+      "province": "格拉玛省",
+      "latitude": 20.5571,
+      "longitude": -76.4727,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Minas",
+      "province": "Camagüey",
+      "latitude": 21.488,
+      "longitude": -77.6103,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Cojímar",
+      "province": "Havana",
+      "latitude": 23.1648,
+      "longitude": -82.3012,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "埃斯梅拉达",
+      "name_en": "Esmeralda",
+      "province": "Camagüey",
+      "latitude": 21.8514,
+      "longitude": -78.1172,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "新赫罗纳",
+      "name_en": "Nueva Gerona",
+      "province": "Isla de la Juventud",
+      "latitude": 21.8876,
+      "longitude": -82.8066,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Jaruco",
+      "province": "玛雅贝克省",
+      "latitude": 23.0442,
+      "longitude": -82.0092,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Colombia",
+      "province": "拉斯图纳斯省",
+      "latitude": 20.9881,
+      "longitude": -77.426,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "巴拉德罗",
+      "name_en": "Varadero",
+      "province": "马坦萨斯省",
+      "latitude": 23.1568,
+      "longitude": -81.2444,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Fomento",
+      "province": "圣斯皮里图斯省",
+      "latitude": 22.1047,
+      "longitude": -79.7214,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Bahía Honda",
+      "province": "阿特米萨省",
+      "latitude": 22.9033,
+      "longitude": -83.1599,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Florencia",
+      "province": "谢戈德阿维拉省",
+      "latitude": 22.1461,
+      "longitude": -78.9733,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Jatibonico",
+      "province": "圣斯皮里图斯省",
+      "latitude": 21.9433,
+      "longitude": -79.1691,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Rodas",
+      "province": "西恩富戈斯省",
+      "latitude": 22.3418,
+      "longitude": -80.556,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Niquero",
+      "province": "格拉玛省",
+      "latitude": 20.047,
+      "longitude": -77.5809,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Guisa",
+      "province": "格拉玛省",
+      "latitude": 20.2549,
+      "longitude": -76.5393,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Cruz del Norte",
+      "province": "玛雅贝克省",
+      "latitude": 23.1536,
+      "longitude": -81.9226,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Sagua de Tánamo",
+      "province": "奥尔金省",
+      "latitude": 20.5827,
+      "longitude": -75.2412,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "贝胡卡尔",
+      "name_en": "Bejucal",
+      "province": "玛雅贝克省",
+      "latitude": 22.9286,
+      "longitude": -82.3886,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Primero de Enero",
+      "province": "谢戈德阿维拉省",
+      "latitude": 21.945,
+      "longitude": -78.4313,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Jobabo",
+      "province": "奥尔金省",
+      "latitude": 20.9075,
+      "longitude": -77.2819,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "La Sierpe",
+      "province": "圣斯皮里图斯省",
+      "latitude": 21.7724,
+      "longitude": -79.2683,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Sibanicú",
+      "province": "Camagüey",
+      "latitude": 21.2363,
+      "longitude": -77.5256,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Media Luna",
+      "province": "格拉玛省",
+      "latitude": 20.143,
+      "longitude": -77.4353,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Abreus",
+      "province": "西恩富戈斯省",
+      "latitude": 22.278,
+      "longitude": -80.5693,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Venezuela",
+      "province": "谢戈德阿维拉省",
+      "latitude": 21.7375,
+      "longitude": -78.7934,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Guane",
+      "province": "Pinar del Río",
+      "latitude": 22.2018,
+      "longitude": -84.0848,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Alquízar",
+      "province": "阿特米萨省",
+      "latitude": 22.8052,
+      "longitude": -82.5839,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Baraguá",
+      "province": "谢戈德阿维拉省",
+      "latitude": 21.6822,
+      "longitude": -78.6257,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Guayos",
+      "province": "圣斯皮里图斯省",
+      "latitude": 22.0496,
+      "longitude": -79.4611,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Jamaica",
+      "province": "玛雅贝克省",
+      "latitude": 22.9756,
+      "longitude": -82.1685,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "San Nicolás de Bari",
+      "province": "玛雅贝克省",
+      "latitude": 22.7844,
+      "longitude": -81.9133,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Batabanó",
+      "province": "玛雅贝克省",
+      "latitude": 22.7179,
+      "longitude": -82.2896,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Martí",
+      "province": "马坦萨斯省",
+      "latitude": 22.9471,
+      "longitude": -80.919,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Manatí",
+      "province": "拉斯图纳斯省",
+      "latitude": 21.3107,
+      "longitude": -76.934,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Quivicán",
+      "province": "玛雅贝克省",
+      "latitude": 22.8231,
+      "longitude": -82.3556,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Quemado de Güines",
+      "province": "比亚克拉拉省",
+      "latitude": 22.7882,
+      "longitude": -80.2523,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Candelaria",
+      "province": "阿特米萨省",
+      "latitude": 22.7385,
+      "longitude": -82.9595,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Los Arabos",
+      "province": "马坦萨斯省",
+      "latitude": 22.7297,
+      "longitude": -80.7208,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Mantua",
+      "province": "Pinar del Río",
+      "latitude": 22.2906,
+      "longitude": -84.286,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Esperanza",
+      "province": "比亚克拉拉省",
+      "latitude": 22.4468,
+      "longitude": -80.0971,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Calabazar de Sagua",
+      "province": "比亚克拉拉省",
+      "latitude": 22.6452,
+      "longitude": -79.8951,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Topes de Collantes",
+      "province": "圣斯皮里图斯省",
+      "latitude": 21.9152,
+      "longitude": -80.0193,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Zaza del Medio",
+      "province": "圣斯皮里图斯省",
+      "latitude": 21.9971,
+      "longitude": -79.3668,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Campo Florido",
+      "province": "马坦萨斯省",
+      "latitude": 22.8122,
+      "longitude": -81.0017,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Alta Habana",
+      "province": "Havana",
+      "latitude": 23.063,
+      "longitude": -82.3954,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Soroa",
+      "province": "阿特米萨省",
+      "latitude": 22.7984,
+      "longitude": -83.0125,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Playa Baracoa",
+      "province": "阿特米萨省",
+      "latitude": 23.046,
+      "longitude": -82.5672,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Bolondrón",
+      "province": "马坦萨斯省",
+      "latitude": 22.7631,
+      "longitude": -81.4478,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "San Luis",
+      "province": "Pinar del Río",
+      "latitude": 20.1881,
+      "longitude": -75.8503,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Naval Station Guantanamo Bay",
+      "province": "关塔那摩省",
+      "latitude": 19.9158,
+      "longitude": -75.1439,
+      "timezone": "America/New_York"
+    },
+    {
+      "name": "",
+      "name_en": "Cabañas",
+      "province": "阿特米萨省",
+      "latitude": 22.9794,
+      "longitude": -82.9221,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Alacranes",
+      "province": "马坦萨斯省",
+      "latitude": 22.7672,
+      "longitude": -81.568,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Puentes Grandes",
+      "province": "Havana",
+      "latitude": 23.1,
+      "longitude": -82.4,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Leader",
+      "province": "Havana",
+      "latitude": 23.0333,
+      "longitude": -82.25,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "Australia",
+      "province": "马坦萨斯省",
+      "latitude": 22.4989,
+      "longitude": -81.1349,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "",
+      "name_en": "La Casualidad",
+      "province": "玛雅贝克省",
+      "latitude": 23.0,
+      "longitude": -82.2167,
+      "timezone": "America/Havana"
+    },
+    {
+      "name": "瓜纳博",
+      "name_en": "Guanabo",
+      "province": "Havana",
+      "latitude": 23.1683,
+      "longitude": -82.1374,
+      "timezone": "America/Havana"
+    }
+  ]
+}

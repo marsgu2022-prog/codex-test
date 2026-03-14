@@ -1,0 +1,942 @@
+{
+  "country_code": "EC",
+  "country_name": "厄瓜多尔",
+  "cities": [
+    {
+      "name": "基多",
+      "name_en": "Quito",
+      "province": "皮钦查省",
+      "latitude": -0.2298,
+      "longitude": -78.525,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "瓜亚基尔",
+      "name_en": "Guayaquil",
+      "province": "瓜亚斯省",
+      "latitude": -2.1962,
+      "longitude": -79.8862,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "昆卡",
+      "name_en": "Cuenca",
+      "province": "阿苏艾省",
+      "latitude": -2.8953,
+      "longitude": -78.9963,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Santo Domingo de los Colorados",
+      "province": "圣多明各-德洛斯查奇拉斯省",
+      "latitude": -0.2537,
+      "longitude": -79.1763,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "安巴托",
+      "name_en": "Ambato",
+      "province": "通古拉瓦省",
+      "latitude": -1.2491,
+      "longitude": -78.6167,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "波托维耶霍",
+      "name_en": "Portoviejo",
+      "province": "Manabí",
+      "latitude": -1.0576,
+      "longitude": -80.4514,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Eloy Alfaro",
+      "province": "瓜亚斯省",
+      "latitude": -2.1692,
+      "longitude": -79.8399,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "马查拉",
+      "name_en": "Machala",
+      "province": "埃尔奥罗省",
+      "latitude": -3.2589,
+      "longitude": -79.9588,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "洛哈",
+      "name_en": "Loja",
+      "province": "洛哈省",
+      "latitude": -3.9931,
+      "longitude": -79.2042,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "曼塔",
+      "name_en": "Manta",
+      "province": "Manabí",
+      "latitude": -0.9494,
+      "longitude": -80.7314,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "里奥班巴",
+      "name_en": "Riobamba",
+      "province": "钦博拉索省",
+      "latitude": -1.6651,
+      "longitude": -78.6589,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Ibarra",
+      "province": "因巴布拉省",
+      "latitude": 0.3488,
+      "longitude": -78.1246,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Esmeraldas",
+      "province": "埃斯梅拉达斯省",
+      "latitude": 0.9592,
+      "longitude": -79.654,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "克韦多",
+      "name_en": "Quevedo",
+      "province": "Los Ríos",
+      "latitude": -1.0288,
+      "longitude": -79.4626,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "拉塔昆加",
+      "name_en": "Latacunga",
+      "province": "Cotopaxi",
+      "latitude": -0.9342,
+      "longitude": -78.6152,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "道莱",
+      "name_en": "Daule",
+      "province": "瓜亚斯省",
+      "latitude": -1.8603,
+      "longitude": -79.9768,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "米拉格罗",
+      "name_en": "Milagro",
+      "province": "瓜亚斯省",
+      "latitude": -2.134,
+      "longitude": -79.5934,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "图尔坎",
+      "name_en": "Tulcán",
+      "province": "卡尔奇省",
+      "latitude": 0.8124,
+      "longitude": -77.7171,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "巴巴奥约",
+      "name_en": "Babahoyo",
+      "province": "Los Ríos",
+      "latitude": -1.8049,
+      "longitude": -79.5249,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "La Libertad",
+      "province": "瓜亚斯省",
+      "latitude": -2.233,
+      "longitude": -80.9104,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "El Empalme",
+      "province": "瓜亚斯省",
+      "latitude": -1.0449,
+      "longitude": -79.6384,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Puerto Francisco de Orellana",
+      "province": "奥雷亚纳省",
+      "latitude": -0.4497,
+      "longitude": -76.9972,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Pasaje",
+      "province": "埃尔奥罗省",
+      "latitude": -3.3256,
+      "longitude": -79.807,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Chone",
+      "province": "Manabí",
+      "latitude": -0.6985,
+      "longitude": -80.0925,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "萨利纳斯",
+      "name_en": "Salinas",
+      "province": "圣埃伦娜省",
+      "latitude": -2.2145,
+      "longitude": -80.9515,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "圣埃伦娜",
+      "name_en": "Santa Elena",
+      "province": "圣埃伦娜省",
+      "latitude": -2.2265,
+      "longitude": -80.8581,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Rosa Zarate",
+      "province": "埃斯梅拉达斯省",
+      "latitude": 0.3278,
+      "longitude": -79.4741,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "圣罗莎",
+      "name_en": "Santa Rosa",
+      "province": "埃尔奥罗省",
+      "latitude": -3.4557,
+      "longitude": -79.9637,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "巴尔萨尔",
+      "name_en": "Balzar",
+      "province": "瓜亚斯省",
+      "latitude": -1.3655,
+      "longitude": -79.9051,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Huaquillas",
+      "province": "埃尔奥罗省",
+      "latitude": -3.4752,
+      "longitude": -80.2308,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Ventanas",
+      "province": "Los Ríos",
+      "latitude": -1.4428,
+      "longitude": -79.4627,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "卡拉克斯港",
+      "name_en": "Bahía de Caráquez",
+      "province": "Manabí",
+      "latitude": -0.6003,
+      "longitude": -80.4244,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "La Troncal",
+      "province": "Cañar",
+      "latitude": -2.4247,
+      "longitude": -79.3416,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Jipijapa",
+      "province": "Manabí",
+      "latitude": -1.3484,
+      "longitude": -80.5791,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "阿索格斯",
+      "name_en": "Azogues",
+      "province": "Cañar",
+      "latitude": -2.7398,
+      "longitude": -78.8456,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Naranjito",
+      "province": "瓜亚斯省",
+      "latitude": -2.1707,
+      "longitude": -79.465,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Vinces",
+      "province": "Los Ríos",
+      "latitude": -1.5564,
+      "longitude": -79.7525,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "奥塔瓦洛",
+      "name_en": "Otavalo",
+      "province": "因巴布拉省",
+      "latitude": 0.2346,
+      "longitude": -78.2625,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "El Triunfo",
+      "province": "瓜亚斯省",
+      "latitude": -1.9333,
+      "longitude": -79.9667,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Naranjal",
+      "province": "瓜亚斯省",
+      "latitude": -2.6764,
+      "longitude": -79.6174,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Posorja",
+      "province": "瓜亚斯省",
+      "latitude": -2.7092,
+      "longitude": -80.2472,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "普拉亚斯",
+      "name_en": "Playas",
+      "province": "瓜亚斯省",
+      "latitude": -2.632,
+      "longitude": -80.3881,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Pomasqui",
+      "province": "皮钦查省",
+      "latitude": -0.0542,
+      "longitude": -78.4538,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Yaguachi Nuevo",
+      "province": "瓜亚斯省",
+      "latitude": -2.0976,
+      "longitude": -79.6926,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "埃尔瓜沃",
+      "name_en": "Guabo",
+      "province": "埃尔奥罗省",
+      "latitude": -3.244,
+      "longitude": -79.8287,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Cayambe",
+      "province": "皮钦查省",
+      "latitude": 0.041,
+      "longitude": -78.1464,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Arenillas",
+      "province": "埃尔奥罗省",
+      "latitude": -3.554,
+      "longitude": -80.0668,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Machachi",
+      "province": "皮钦查省",
+      "latitude": -0.5127,
+      "longitude": -78.5707,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "普约",
+      "name_en": "Puyo",
+      "province": "帕斯塔萨省",
+      "latitude": -1.4916,
+      "longitude": -78.0034,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "新洛哈",
+      "name_en": "Nueva Loja",
+      "province": "Sucumbíos",
+      "latitude": 0.086,
+      "longitude": -76.8953,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "桑博龙东",
+      "name_en": "Samborondón",
+      "province": "瓜亚斯省",
+      "latitude": -1.9607,
+      "longitude": -79.7257,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Macas",
+      "province": "莫罗纳-圣地亚哥省",
+      "latitude": -2.3074,
+      "longitude": -78.1203,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "佩德罗卡尔沃",
+      "name_en": "Pedro Carbo",
+      "province": "瓜亚斯省",
+      "latitude": -1.8162,
+      "longitude": -80.2343,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "瓜兰达",
+      "name_en": "Guaranda",
+      "province": "Bolívar",
+      "latitude": -1.5911,
+      "longitude": -78.999,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Boca Suno",
+      "province": "奥雷亚纳省",
+      "latitude": -0.6983,
+      "longitude": -77.1408,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "San Lorenzo de Esmeraldas",
+      "province": "埃斯梅拉达斯省",
+      "latitude": 1.2863,
+      "longitude": -78.8351,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Valencia",
+      "province": "Los Ríos",
+      "latitude": -0.9531,
+      "longitude": -79.3551,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Catamayo",
+      "province": "洛哈省",
+      "latitude": -3.9866,
+      "longitude": -79.3576,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Montecristi",
+      "province": "Manabí",
+      "latitude": -1.0458,
+      "longitude": -80.6589,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Atuntaqui",
+      "province": "因巴布拉省",
+      "latitude": 0.3276,
+      "longitude": -78.2191,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Calceta",
+      "province": "Manabí",
+      "latitude": -0.8458,
+      "longitude": -80.1639,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "特纳",
+      "name_en": "Tena",
+      "province": "纳波省",
+      "latitude": -0.9961,
+      "longitude": -77.8131,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Gualaceo",
+      "province": "阿苏艾省",
+      "latitude": -2.8942,
+      "longitude": -78.7791,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Piñas",
+      "province": "埃尔奥罗省",
+      "latitude": -3.6802,
+      "longitude": -79.6817,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Cariamanga",
+      "province": "洛哈省",
+      "latitude": -4.328,
+      "longitude": -79.5558,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "佩利莱奥",
+      "name_en": "Pelileo",
+      "province": "通古拉瓦省",
+      "latitude": -1.3306,
+      "longitude": -78.5452,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "La Maná",
+      "province": "Cotopaxi",
+      "latitude": -0.941,
+      "longitude": -79.2266,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Pujilí",
+      "province": "Cotopaxi",
+      "latitude": -0.9576,
+      "longitude": -78.6964,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Montalvo",
+      "province": "Los Ríos",
+      "latitude": -1.7901,
+      "longitude": -79.2876,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Sucre",
+      "province": "Manabí",
+      "latitude": -0.6003,
+      "longitude": -80.4244,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Zamora",
+      "province": "萨莫拉-钦奇佩省",
+      "latitude": -4.0645,
+      "longitude": -78.9512,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "托萨瓜",
+      "name_en": "Tosagua",
+      "province": "Manabí",
+      "latitude": -0.7859,
+      "longitude": -80.2346,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "San Gabriel",
+      "province": "卡尔奇省",
+      "latitude": 0.5935,
+      "longitude": -77.8307,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Alausí",
+      "province": "钦博拉索省",
+      "latitude": -2.2013,
+      "longitude": -78.8478,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "穆伊斯内",
+      "name_en": "Muisne",
+      "province": "埃斯梅拉达斯省",
+      "latitude": 0.6105,
+      "longitude": -80.0186,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "马卡拉",
+      "name_en": "Macará",
+      "province": "洛哈省",
+      "latitude": -4.3818,
+      "longitude": -79.9452,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Ana de Vuelta Larga",
+      "province": "Manabí",
+      "latitude": -1.2078,
+      "longitude": -80.3706,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "San Juan",
+      "province": "Los Ríos",
+      "latitude": -1.6667,
+      "longitude": -79.7667,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Puerto Ayora",
+      "province": "Galápagos",
+      "latitude": -0.7402,
+      "longitude": -90.3138,
+      "timezone": "Pacific/Galapagos"
+    },
+    {
+      "name": "",
+      "name_en": "Guano",
+      "province": "钦博拉索省",
+      "latitude": -1.6069,
+      "longitude": -78.6373,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Alfredo Baquerizo Moreno",
+      "province": "瓜亚斯省",
+      "latitude": -1.9167,
+      "longitude": -79.5167,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "San Miguel de Bolívar",
+      "province": "Bolívar",
+      "latitude": -1.7093,
+      "longitude": -79.042,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Lucía",
+      "province": "瓜亚斯省",
+      "latitude": -2.1833,
+      "longitude": -80.0,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Zaruma",
+      "province": "埃尔奥罗省",
+      "latitude": -3.6923,
+      "longitude": -79.6125,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "巴劳",
+      "name_en": "Balao",
+      "province": "瓜亚斯省",
+      "latitude": -2.9106,
+      "longitude": -79.815,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Valdez",
+      "province": "埃斯梅拉达斯省",
+      "latitude": 1.2492,
+      "longitude": -78.9831,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Catacocha",
+      "province": "洛哈省",
+      "latitude": -4.0503,
+      "longitude": -79.6498,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "San Miguel",
+      "province": "Cotopaxi",
+      "latitude": -1.7093,
+      "longitude": -79.042,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Rocafuerte",
+      "province": "Manabí",
+      "latitude": -0.9245,
+      "longitude": -80.4502,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Yantzaza",
+      "province": "萨莫拉-钦奇佩省",
+      "latitude": -3.833,
+      "longitude": -78.7612,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Cañar",
+      "province": "Cañar",
+      "latitude": -2.5594,
+      "longitude": -78.9381,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Catarama",
+      "province": "Los Ríos",
+      "latitude": -1.5709,
+      "longitude": -79.4733,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Portovelo",
+      "province": "埃尔奥罗省",
+      "latitude": -3.716,
+      "longitude": -79.6189,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Baños",
+      "province": "通古拉瓦省",
+      "latitude": -1.397,
+      "longitude": -78.4229,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "科利姆斯",
+      "name_en": "Colimes",
+      "province": "瓜亚斯省",
+      "latitude": -1.5457,
+      "longitude": -80.0116,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Palestina",
+      "province": "瓜亚斯省",
+      "latitude": -1.9371,
+      "longitude": -79.714,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Paján",
+      "province": "Manabí",
+      "latitude": -1.5527,
+      "longitude": -80.4285,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Junín",
+      "province": "Manabí",
+      "latitude": -0.9278,
+      "longitude": -80.2058,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Palenque",
+      "province": "Los Ríos",
+      "latitude": -1.4376,
+      "longitude": -79.7569,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Baba",
+      "province": "Los Ríos",
+      "latitude": -1.7844,
+      "longitude": -79.6787,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Puerto Bolívar",
+      "province": "埃尔奥罗省",
+      "latitude": -3.2665,
+      "longitude": -79.9975,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "科塔卡奇市",
+      "name_en": "Cotacachi",
+      "province": "因巴布拉省",
+      "latitude": 0.2995,
+      "longitude": -78.2656,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Oyambarillo",
+      "province": "皮钦查省",
+      "latitude": -0.1952,
+      "longitude": -78.3317,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Balsas",
+      "province": "埃尔奥罗省",
+      "latitude": -3.7615,
+      "longitude": -79.8242,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Lomas de Sargentillo",
+      "province": "瓜亚斯省",
+      "latitude": -1.8808,
+      "longitude": -80.0835,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Píllaro",
+      "province": "通古拉瓦省",
+      "latitude": -1.1738,
+      "longitude": -78.5509,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Sucúa",
+      "province": "莫罗纳-圣地亚哥省",
+      "latitude": -2.4574,
+      "longitude": -78.171,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Pimampiro",
+      "province": "因巴布拉省",
+      "latitude": 0.3909,
+      "longitude": -77.9409,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Archidona",
+      "province": "纳波省",
+      "latitude": -0.9095,
+      "longitude": -77.8077,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Coronel Marcelino Maridueña",
+      "province": "瓜亚斯省",
+      "latitude": -2.2102,
+      "longitude": -79.4373,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "巴克里索莫雷诺港",
+      "name_en": "Puerto Baquerizo Moreno",
+      "province": "Galápagos",
+      "latitude": -0.9017,
+      "longitude": -89.6102,
+      "timezone": "Pacific/Galapagos"
+    },
+    {
+      "name": "",
+      "name_en": "Tres Postes",
+      "province": "瓜亚斯省",
+      "latitude": -1.9874,
+      "longitude": -79.6045,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Palora",
+      "province": "莫罗纳-圣地亚哥省",
+      "latitude": -1.7009,
+      "longitude": -77.9661,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Pedernales",
+      "province": "Manabí",
+      "latitude": 0.0717,
+      "longitude": -80.0522,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Celica",
+      "province": "洛哈省",
+      "latitude": -4.103,
+      "longitude": -79.956,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "",
+      "name_en": "Marcabelí",
+      "province": "埃尔奥罗省",
+      "latitude": -3.7839,
+      "longitude": -79.9123,
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "name": "桑戈尔基",
+      "name_en": "Sangolquí",
+      "province": "皮钦查省",
+      "latitude": -0.3341,
+      "longitude": -78.4522,
+      "timezone": "America/Guayaquil"
+    }
+  ]
+}

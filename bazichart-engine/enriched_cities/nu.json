@@ -1,0 +1,14 @@
+{
+  "country_code": "NU",
+  "country_name": "纽埃",
+  "cities": [
+    {
+      "name": "阿洛菲",
+      "name_en": "Alofi",
+      "province": "",
+      "latitude": -19.0529,
+      "longitude": -169.9196,
+      "timezone": "Pacific/Niue"
+    }
+  ]
+}

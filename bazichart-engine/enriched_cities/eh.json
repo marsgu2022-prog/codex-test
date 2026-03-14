@@ -1,0 +1,54 @@
+{
+  "country_code": "EH",
+  "country_name": "西撒哈拉",
+  "cities": [
+    {
+      "name": "阿尤恩",
+      "name_en": "Laayoune",
+      "province": "",
+      "latitude": 27.1418,
+      "longitude": -13.188,
+      "timezone": "Africa/El_Aaiun"
+    },
+    {
+      "name": "",
+      "name_en": "Dakhla",
+      "province": "",
+      "latitude": 23.6848,
+      "longitude": -15.958,
+      "timezone": "Africa/El_Aaiun"
+    },
+    {
+      "name": "",
+      "name_en": "Boujdour",
+      "province": "",
+      "latitude": 26.1307,
+      "longitude": -14.4851,
+      "timezone": "Africa/El_Aaiun"
+    },
+    {
+      "name": "",
+      "name_en": "El Marsa",
+      "province": "",
+      "latitude": 27.0961,
+      "longitude": -13.4158,
+      "timezone": "Africa/El_Aaiun"
+    },
+    {
+      "name": "",
+      "name_en": "Tichla",
+      "province": "",
+      "latitude": 21.5837,
+      "longitude": -14.9722,
+      "timezone": "Africa/El_Aaiun"
+    },
+    {
+      "name": "",
+      "name_en": "El Aargub",
+      "province": "",
+      "latitude": 23.6088,
+      "longitude": -15.8673,
+      "timezone": "Africa/El_Aaiun"
+    }
+  ]
+}

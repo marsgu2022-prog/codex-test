@@ -1,0 +1,542 @@
+{
+  "country_code": "HN",
+  "country_name": "洪都拉斯",
+  "cities": [
+    {
+      "name": "德古斯加巴",
+      "name_en": "Tegucigalpa",
+      "province": "弗朗西斯科·莫拉桑省",
+      "latitude": 14.0818,
+      "longitude": -87.2068,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "圣佩德罗苏拉",
+      "name_en": "San Pedro Sula",
+      "province": "科尔特斯省",
+      "latitude": 15.5059,
+      "longitude": -88.0259,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "拉塞瓦",
+      "name_en": "La Ceiba",
+      "province": "阿特兰蒂达省",
+      "latitude": 15.7597,
+      "longitude": -86.7822,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "Choloma",
+      "province": "科尔特斯省",
+      "latitude": 15.6144,
+      "longitude": -87.953,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "El Progreso",
+      "province": "约罗省",
+      "latitude": 15.4,
+      "longitude": -87.8,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "Ciudad Choluteca",
+      "province": "乔卢特卡省",
+      "latitude": 13.3057,
+      "longitude": -87.1788,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "Comayagua",
+      "province": "科马亚瓜省",
+      "latitude": 14.4558,
+      "longitude": -87.6397,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "Puerto Cortez",
+      "province": "科尔特斯省",
+      "latitude": 15.8256,
+      "longitude": -87.9297,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "La Lima",
+      "province": "科尔特斯省",
+      "latitude": 15.4333,
+      "longitude": -87.9167,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "Danlí",
+      "province": "埃尔帕拉伊索省",
+      "latitude": 14.0333,
+      "longitude": -86.5833,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "Siguatepeque",
+      "province": "科马亚瓜省",
+      "latitude": 14.5969,
+      "longitude": -87.831,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "Juticalpa",
+      "province": "奥兰乔省",
+      "latitude": 14.6644,
+      "longitude": -86.2225,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "Villanueva",
+      "province": "科尔特斯省",
+      "latitude": 15.3148,
+      "longitude": -87.9938,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "Tocoa",
+      "province": "科隆省",
+      "latitude": 15.6833,
+      "longitude": -86.0,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "Tela",
+      "province": "阿特兰蒂达省",
+      "latitude": 15.7743,
+      "longitude": -87.4673,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "科潘省圣罗莎",
+      "name_en": "Santa Rosa de Copán",
+      "province": "科潘省",
+      "latitude": 14.7739,
+      "longitude": -88.7756,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "Olanchito",
+      "province": "约罗省",
+      "latitude": 15.4813,
+      "longitude": -86.5742,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "San Lorenzo",
+      "province": "山谷省",
+      "latitude": 13.4242,
+      "longitude": -87.4472,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "Cofradía",
+      "province": "科尔特斯省",
+      "latitude": 15.4,
+      "longitude": -88.15,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "El Paraíso",
+      "province": "埃尔帕拉伊索省",
+      "latitude": 13.8667,
+      "longitude": -86.55,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "La Paz",
+      "province": "拉巴斯省",
+      "latitude": 14.3212,
+      "longitude": -87.6759,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "Yoro",
+      "province": "约罗省",
+      "latitude": 15.1382,
+      "longitude": -87.1284,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "Potrerillos",
+      "province": "科尔特斯省",
+      "latitude": 15.2301,
+      "longitude": -87.9639,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Bárbara",
+      "province": "Santa Bárbara Department",
+      "latitude": 14.9222,
+      "longitude": -88.2376,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "拉恩特拉达",
+      "name_en": "La Entrada",
+      "province": "科潘省",
+      "latitude": 15.0638,
+      "longitude": -88.7463,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "Nacaome",
+      "province": "山谷省",
+      "latitude": 13.5392,
+      "longitude": -87.4891,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "Intibucá",
+      "province": "因蒂布卡省",
+      "latitude": 14.3123,
+      "longitude": -88.1761,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "Talanga",
+      "province": "弗朗西斯科·莫拉桑省",
+      "latitude": 14.4,
+      "longitude": -87.0833,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "Guaimaca",
+      "province": "弗朗西斯科·莫拉桑省",
+      "latitude": 14.5333,
+      "longitude": -86.8167,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Rita",
+      "province": "约罗省",
+      "latitude": 15.1667,
+      "longitude": -87.2833,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "Morazán",
+      "province": "约罗省",
+      "latitude": 15.3167,
+      "longitude": -87.6,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Cruz de Yojoa",
+      "province": "科尔特斯省",
+      "latitude": 14.9809,
+      "longitude": -87.8909,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "Marcala",
+      "province": "拉巴斯省",
+      "latitude": 14.1566,
+      "longitude": -88.0347,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "Sabá",
+      "province": "科隆省",
+      "latitude": 15.4667,
+      "longitude": -86.25,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "特鲁希略",
+      "name_en": "Trujillo",
+      "province": "科隆省",
+      "latitude": 15.9174,
+      "longitude": -85.9526,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "El Negrito",
+      "province": "约罗省",
+      "latitude": 15.3167,
+      "longitude": -87.7,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "Baracoa",
+      "province": "科尔特斯省",
+      "latitude": 15.7758,
+      "longitude": -87.8525,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "San Marcos de Colón",
+      "province": "乔卢特卡省",
+      "latitude": 13.4333,
+      "longitude": -86.8,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "Nueva Ocotepeque",
+      "province": "奥科特佩克省",
+      "latitude": 14.4338,
+      "longitude": -89.1828,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "Pimienta Vieja",
+      "province": "科尔特斯省",
+      "latitude": 15.2333,
+      "longitude": -87.9667,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "格拉西亚斯",
+      "name_en": "Gracias",
+      "province": "伦皮拉省",
+      "latitude": 14.5907,
+      "longitude": -88.5861,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "Agua Blanca Sur",
+      "province": "约罗省",
+      "latitude": 15.25,
+      "longitude": -87.8833,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "Coxen Hole",
+      "province": "Bay Islands",
+      "latitude": 16.3155,
+      "longitude": -86.5397,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "Las Vegas, Santa Barbara",
+      "province": "Santa Bárbara Department",
+      "latitude": 14.8765,
+      "longitude": -88.0747,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "El Triunfo",
+      "province": "乔卢特卡省",
+      "latitude": 13.1167,
+      "longitude": -87.0,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "Jesús de Otoro",
+      "province": "因蒂布卡省",
+      "latitude": 14.4878,
+      "longitude": -87.9818,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "La Alianza",
+      "province": "山谷省",
+      "latitude": 13.5122,
+      "longitude": -87.7244,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "Monjarás",
+      "province": "乔卢特卡省",
+      "latitude": 13.2006,
+      "longitude": -87.3742,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "Campamento",
+      "province": "奥兰乔省",
+      "latitude": 14.55,
+      "longitude": -86.65,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "San Manuel",
+      "province": "科尔特斯省",
+      "latitude": 15.3314,
+      "longitude": -87.9211,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "Copán Ruinas",
+      "province": "科潘省",
+      "latitude": 14.8394,
+      "longitude": -89.1558,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "Mezapa",
+      "province": "阿特兰蒂达省",
+      "latitude": 15.5833,
+      "longitude": -87.65,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "Las Trojes",
+      "province": "埃尔帕拉伊索省",
+      "latitude": 14.0667,
+      "longitude": -85.9833,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "Azacualpa",
+      "province": "Santa Bárbara Department",
+      "latitude": 15.3436,
+      "longitude": -88.5523,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "Villa de San Francisco",
+      "province": "弗朗西斯科·莫拉桑省",
+      "latitude": 14.1667,
+      "longitude": -86.9667,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "San Juan Pueblo",
+      "province": "阿特兰蒂达省",
+      "latitude": 15.5833,
+      "longitude": -87.2333,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "San Luis",
+      "province": "Santa Bárbara Department",
+      "latitude": 15.1269,
+      "longitude": -88.4393,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "Guanaja",
+      "province": "Bay Islands",
+      "latitude": 16.4419,
+      "longitude": -85.8872,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "San Francisco de la Paz",
+      "province": "奥兰乔省",
+      "latitude": 14.9,
+      "longitude": -86.2,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "Villa de San Antonio",
+      "province": "科马亚瓜省",
+      "latitude": 14.3259,
+      "longitude": -87.6135,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "Ajuterique",
+      "province": "科马亚瓜省",
+      "latitude": 14.383,
+      "longitude": -87.7096,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "San Marcos",
+      "province": "奥科特佩克省",
+      "latitude": 13.4333,
+      "longitude": -86.8,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "Florida",
+      "province": "科潘省",
+      "latitude": 15.0269,
+      "longitude": -88.8357,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "La Esperanza",
+      "province": "因蒂布卡省",
+      "latitude": 14.3016,
+      "longitude": -88.1672,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "Cuyamel",
+      "province": "科尔特斯省",
+      "latitude": 15.6651,
+      "longitude": -88.1948,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "Puerto Lempira",
+      "province": "格拉西亚斯-阿迪奥斯省",
+      "latitude": 15.2657,
+      "longitude": -83.7744,
+      "timezone": "America/Tegucigalpa"
+    },
+    {
+      "name": "",
+      "name_en": "Yuscarán",
+      "province": "埃尔帕拉伊索省",
+      "latitude": 13.9444,
+      "longitude": -86.8524,
+      "timezone": "America/Tegucigalpa"
+    }
+  ]
+}

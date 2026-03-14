@@ -1,0 +1,1704 @@
+{
+  "source_dir": "bazichart-engine/data",
+  "output_dir": "bazichart-engine/enriched_cities",
+  "countries": 242,
+  "total_cities": 68104,
+  "completed_cities": 68104,
+  "coverage_ratio": 1.0,
+  "reports": [
+    {
+      "country_code": "BR",
+      "country_name": "巴西",
+      "city_count": 4410,
+      "completed_count": 4410,
+      "output_file": "br.json"
+    },
+    {
+      "country_code": "MX",
+      "country_name": "墨西哥",
+      "city_count": 1828,
+      "completed_count": 1828,
+      "output_file": "mx.json"
+    },
+    {
+      "country_code": "US",
+      "country_name": "美国",
+      "city_count": 7539,
+      "completed_count": 7539,
+      "output_file": "us.json"
+    },
+    {
+      "country_code": "PE",
+      "country_name": "秘鲁",
+      "city_count": 295,
+      "completed_count": 295,
+      "output_file": "pe.json"
+    },
+    {
+      "country_code": "CO",
+      "country_name": "哥伦比亚",
+      "city_count": 605,
+      "completed_count": 605,
+      "output_file": "co.json"
+    },
+    {
+      "country_code": "CL",
+      "country_name": "智利",
+      "city_count": 206,
+      "completed_count": 206,
+      "output_file": "cl.json"
+    },
+    {
+      "country_code": "VE",
+      "country_name": "委内瑞拉",
+      "city_count": 237,
+      "completed_count": 237,
+      "output_file": "ve.json"
+    },
+    {
+      "country_code": "AR",
+      "country_name": "阿根廷",
+      "city_count": 472,
+      "completed_count": 472,
+      "output_file": "ar.json"
+    },
+    {
+      "country_code": "CA",
+      "country_name": "加拿大",
+      "city_count": 1273,
+      "completed_count": 1273,
+      "output_file": "ca.json"
+    },
+    {
+      "country_code": "EC",
+      "country_name": "厄瓜多尔",
+      "city_count": 117,
+      "completed_count": 117,
+      "output_file": "ec.json"
+    },
+    {
+      "country_code": "DO",
+      "country_name": "多米尼加",
+      "city_count": 117,
+      "completed_count": 117,
+      "output_file": "do.json"
+    },
+    {
+      "country_code": "CU",
+      "country_name": "古巴",
+      "city_count": 169,
+      "completed_count": 169,
+      "output_file": "cu.json"
+    },
+    {
+      "country_code": "BO",
+      "country_name": "玻利维亚",
+      "city_count": 75,
+      "completed_count": 75,
+      "output_file": "bo.json"
+    },
+    {
+      "country_code": "PY",
+      "country_name": "巴拉圭",
+      "city_count": 64,
+      "completed_count": 64,
+      "output_file": "py.json"
+    },
+    {
+      "country_code": "UY",
+      "country_name": "乌拉圭",
+      "city_count": 58,
+      "completed_count": 58,
+      "output_file": "uy.json"
+    },
+    {
+      "country_code": "HT",
+      "country_name": "海地",
+      "city_count": 51,
+      "completed_count": 51,
+      "output_file": "ht.json"
+    },
+    {
+      "country_code": "GT",
+      "country_name": "危地马拉",
+      "city_count": 205,
+      "completed_count": 205,
+      "output_file": "gt.json"
+    },
+    {
+      "country_code": "NI",
+      "country_name": "尼加拉瓜",
+      "city_count": 76,
+      "completed_count": 76,
+      "output_file": "ni.json"
+    },
+    {
+      "country_code": "JM",
+      "country_name": "牙买加",
+      "city_count": 39,
+      "completed_count": 39,
+      "output_file": "jm.json"
+    },
+    {
+      "country_code": "HN",
+      "country_name": "洪都拉斯",
+      "city_count": 67,
+      "completed_count": 67,
+      "output_file": "hn.json"
+    },
+    {
+      "country_code": "SV",
+      "country_name": "萨尔瓦多",
+      "city_count": 74,
+      "completed_count": 74,
+      "output_file": "sv.json"
+    },
+    {
+      "country_code": "PR",
+      "country_name": "波多黎各",
+      "city_count": 94,
+      "completed_count": 94,
+      "output_file": "pr.json"
+    },
+    {
+      "country_code": "PA",
+      "country_name": "巴拿马",
+      "city_count": 69,
+      "completed_count": 69,
+      "output_file": "pa.json"
+    },
+    {
+      "country_code": "CR",
+      "country_name": "哥斯达黎加",
+      "city_count": 76,
+      "completed_count": 76,
+      "output_file": "cr.json"
+    },
+    {
+      "country_code": "GY",
+      "country_name": "圭亚那",
+      "city_count": 14,
+      "completed_count": 14,
+      "output_file": "gy.json"
+    },
+    {
+      "country_code": "BS",
+      "country_name": "巴哈马",
+      "city_count": 24,
+      "completed_count": 24,
+      "output_file": "bs.json"
+    },
+    {
+      "country_code": "SR",
+      "country_name": "苏里南",
+      "city_count": 19,
+      "completed_count": 19,
+      "output_file": "sr.json"
+    },
+    {
+      "country_code": "CW",
+      "country_name": "库拉索",
+      "city_count": 6,
+      "completed_count": 6,
+      "output_file": "cw.json"
+    },
+    {
+      "country_code": "BB",
+      "country_name": "巴巴多斯",
+      "city_count": 11,
+      "completed_count": 11,
+      "output_file": "bb.json"
+    },
+    {
+      "country_code": "MQ",
+      "country_name": "马提尼克",
+      "city_count": 17,
+      "completed_count": 17,
+      "output_file": "mq.json"
+    },
+    {
+      "country_code": "TT",
+      "country_name": "特立尼达和多巴哥",
+      "city_count": 22,
+      "completed_count": 22,
+      "output_file": "tt.json"
+    },
+    {
+      "country_code": "BZ",
+      "country_name": "伯利兹",
+      "city_count": 13,
+      "completed_count": 13,
+      "output_file": "bz.json"
+    },
+    {
+      "country_code": "GF",
+      "country_name": "法属圭亚那",
+      "city_count": 10,
+      "completed_count": 10,
+      "output_file": "gf.json"
+    },
+    {
+      "country_code": "GP",
+      "country_name": "瓜德罗普",
+      "city_count": 22,
+      "completed_count": 22,
+      "output_file": "gp.json"
+    },
+    {
+      "country_code": "AG",
+      "country_name": "安提瓜和巴布达",
+      "city_count": 10,
+      "completed_count": 10,
+      "output_file": "ag.json"
+    },
+    {
+      "country_code": "VI",
+      "country_name": "美属维尔京群岛",
+      "city_count": 4,
+      "completed_count": 4,
+      "output_file": "vi.json"
+    },
+    {
+      "country_code": "AW",
+      "country_name": "阿鲁巴",
+      "city_count": 10,
+      "completed_count": 10,
+      "output_file": "aw.json"
+    },
+    {
+      "country_code": "KY",
+      "country_name": "开曼群岛",
+      "city_count": 45,
+      "completed_count": 45,
+      "output_file": "ky.json"
+    },
+    {
+      "country_code": "LC",
+      "country_name": "圣卢西亚",
+      "city_count": 10,
+      "completed_count": 10,
+      "output_file": "lc.json"
+    },
+    {
+      "country_code": "VC",
+      "country_name": "圣文森特和格林纳丁斯",
+      "city_count": 7,
+      "completed_count": 7,
+      "output_file": "vc.json"
+    },
+    {
+      "country_code": "TC",
+      "country_name": "特克斯和凯科斯群岛",
+      "city_count": 2,
+      "completed_count": 2,
+      "output_file": "tc.json"
+    },
+    {
+      "country_code": "DM",
+      "country_name": "多米尼克",
+      "city_count": 10,
+      "completed_count": 10,
+      "output_file": "dm.json"
+    },
+    {
+      "country_code": "GL",
+      "country_name": "格陵兰",
+      "city_count": 5,
+      "completed_count": 5,
+      "output_file": "gl.json"
+    },
+    {
+      "country_code": "KN",
+      "country_name": "圣基茨和尼维斯",
+      "city_count": 14,
+      "completed_count": 14,
+      "output_file": "kn.json"
+    },
+    {
+      "country_code": "BM",
+      "country_name": "百慕大",
+      "city_count": 10,
+      "completed_count": 10,
+      "output_file": "bm.json"
+    },
+    {
+      "country_code": "BQ",
+      "country_name": "荷属加勒比区",
+      "city_count": 3,
+      "completed_count": 3,
+      "output_file": "bq.json"
+    },
+    {
+      "country_code": "SX",
+      "country_name": "荷属圣马丁",
+      "city_count": 5,
+      "completed_count": 5,
+      "output_file": "sx.json"
+    },
+    {
+      "country_code": "VG",
+      "country_name": "英属维尔京群岛",
+      "city_count": 1,
+      "completed_count": 1,
+      "output_file": "vg.json"
+    },
+    {
+      "country_code": "GD",
+      "country_name": "格林纳达",
+      "city_count": 7,
+      "completed_count": 7,
+      "output_file": "gd.json"
+    },
+    {
+      "country_code": "MF",
+      "country_name": "法属圣马丁",
+      "city_count": 3,
+      "completed_count": 3,
+      "output_file": "mf.json"
+    },
+    {
+      "country_code": "PM",
+      "country_name": "圣皮埃尔和密克隆群岛",
+      "city_count": 2,
+      "completed_count": 2,
+      "output_file": "pm.json"
+    },
+    {
+      "country_code": "BL",
+      "country_name": "圣巴泰勒米",
+      "city_count": 1,
+      "completed_count": 1,
+      "output_file": "bl.json"
+    },
+    {
+      "country_code": "FK",
+      "country_name": "福克兰群岛（马尔维纳斯）",
+      "city_count": 1,
+      "completed_count": 1,
+      "output_file": "fk.json"
+    },
+    {
+      "country_code": "AI",
+      "country_name": "安圭拉",
+      "city_count": 14,
+      "completed_count": 14,
+      "output_file": "ai.json"
+    },
+    {
+      "country_code": "MS",
+      "country_name": "蒙特塞拉特",
+      "city_count": 3,
+      "completed_count": 3,
+      "output_file": "ms.json"
+    },
+    {
+      "country_code": "TR",
+      "country_name": "土耳其",
+      "city_count": 851,
+      "completed_count": 851,
+      "output_file": "tr.json"
+    },
+    {
+      "country_code": "VN",
+      "country_name": "越南",
+      "city_count": 392,
+      "completed_count": 392,
+      "output_file": "vn.json"
+    },
+    {
+      "country_code": "PK",
+      "country_name": "巴基斯坦",
+      "city_count": 477,
+      "completed_count": 477,
+      "output_file": "pk.json"
+    },
+    {
+      "country_code": "IN",
+      "country_name": "印度",
+      "city_count": 6494,
+      "completed_count": 6494,
+      "output_file": "in.json"
+    },
+    {
+      "country_code": "BD",
+      "country_name": "孟加拉国",
+      "city_count": 145,
+      "completed_count": 145,
+      "output_file": "bd.json"
+    },
+    {
+      "country_code": "KR",
+      "country_name": "韩国",
+      "city_count": 153,
+      "completed_count": 153,
+      "output_file": "kr.json"
+    },
+    {
+      "country_code": "JP",
+      "country_name": "日本",
+      "city_count": 1787,
+      "completed_count": 1787,
+      "output_file": "jp.json"
+    },
+    {
+      "country_code": "ID",
+      "country_name": "印度尼西亚",
+      "city_count": 469,
+      "completed_count": 469,
+      "output_file": "id.json"
+    },
+    {
+      "country_code": "IQ",
+      "country_name": "伊拉克",
+      "city_count": 88,
+      "completed_count": 88,
+      "output_file": "iq.json"
+    },
+    {
+      "country_code": "IR",
+      "country_name": "伊朗",
+      "city_count": 482,
+      "completed_count": 482,
+      "output_file": "ir.json"
+    },
+    {
+      "country_code": "SG",
+      "country_name": "新加坡",
+      "city_count": 95,
+      "completed_count": 95,
+      "output_file": "sg.json"
+    },
+    {
+      "country_code": "TH",
+      "country_name": "泰国",
+      "city_count": 444,
+      "completed_count": 444,
+      "output_file": "th.json"
+    },
+    {
+      "country_code": "SA",
+      "country_name": "沙特阿拉伯",
+      "city_count": 124,
+      "completed_count": 124,
+      "output_file": "sa.json"
+    },
+    {
+      "country_code": "MM",
+      "country_name": "缅甸",
+      "city_count": 250,
+      "completed_count": 250,
+      "output_file": "mm.json"
+    },
+    {
+      "country_code": "AF",
+      "country_name": "阿富汗",
+      "city_count": 98,
+      "completed_count": 98,
+      "output_file": "af.json"
+    },
+    {
+      "country_code": "AE",
+      "country_name": "阿联酋",
+      "city_count": 93,
+      "completed_count": 93,
+      "output_file": "ae.json"
+    },
+    {
+      "country_code": "KP",
+      "country_name": "朝鲜",
+      "city_count": 118,
+      "completed_count": 118,
+      "output_file": "kp.json"
+    },
+    {
+      "country_code": "PH",
+      "country_name": "菲律宾",
+      "city_count": 1369,
+      "completed_count": 1369,
+      "output_file": "ph.json"
+    },
+    {
+      "country_code": "SY",
+      "country_name": "叙利亚",
+      "city_count": 106,
+      "completed_count": 106,
+      "output_file": "sy.json"
+    },
+    {
+      "country_code": "UZ",
+      "country_name": "乌兹别克斯坦",
+      "city_count": 136,
+      "completed_count": 136,
+      "output_file": "uz.json"
+    },
+    {
+      "country_code": "KZ",
+      "country_name": "哈萨克斯坦",
+      "city_count": 201,
+      "completed_count": 201,
+      "output_file": "kz.json"
+    },
+    {
+      "country_code": "YE",
+      "country_name": "也门",
+      "city_count": 34,
+      "completed_count": 34,
+      "output_file": "ye.json"
+    },
+    {
+      "country_code": "LB",
+      "country_name": "黎巴嫩",
+      "city_count": 25,
+      "completed_count": 25,
+      "output_file": "lb.json"
+    },
+    {
+      "country_code": "KH",
+      "country_name": "柬埔寨",
+      "city_count": 122,
+      "completed_count": 122,
+      "output_file": "kh.json"
+    },
+    {
+      "country_code": "MY",
+      "country_name": "马来西亚",
+      "city_count": 530,
+      "completed_count": 530,
+      "output_file": "my.json"
+    },
+    {
+      "country_code": "NP",
+      "country_name": "尼泊尔",
+      "city_count": 53,
+      "completed_count": 53,
+      "output_file": "np.json"
+    },
+    {
+      "country_code": "JO",
+      "country_name": "约旦",
+      "city_count": 75,
+      "completed_count": 75,
+      "output_file": "jo.json"
+    },
+    {
+      "country_code": "AM",
+      "country_name": "亚美尼亚",
+      "city_count": 81,
+      "completed_count": 81,
+      "output_file": "am.json"
+    },
+    {
+      "country_code": "AZ",
+      "country_name": "阿塞拜疆",
+      "city_count": 116,
+      "completed_count": 116,
+      "output_file": "az.json"
+    },
+    {
+      "country_code": "GE",
+      "country_name": "格鲁吉亚",
+      "city_count": 55,
+      "completed_count": 55,
+      "output_file": "ge.json"
+    },
+    {
+      "country_code": "IL",
+      "country_name": "以色列",
+      "city_count": 179,
+      "completed_count": 179,
+      "output_file": "il.json"
+    },
+    {
+      "country_code": "KG",
+      "country_name": "吉尔吉斯斯坦",
+      "city_count": 59,
+      "completed_count": 59,
+      "output_file": "kg.json"
+    },
+    {
+      "country_code": "MN",
+      "country_name": "蒙古",
+      "city_count": 34,
+      "completed_count": 34,
+      "output_file": "mn.json"
+    },
+    {
+      "country_code": "OM",
+      "country_name": "阿曼",
+      "city_count": 30,
+      "completed_count": 30,
+      "output_file": "om.json"
+    },
+    {
+      "country_code": "TM",
+      "country_name": "土库曼斯坦",
+      "city_count": 71,
+      "completed_count": 71,
+      "output_file": "tm.json"
+    },
+    {
+      "country_code": "TJ",
+      "country_name": "塔吉克斯坦",
+      "city_count": 62,
+      "completed_count": 62,
+      "output_file": "tj.json"
+    },
+    {
+      "country_code": "LK",
+      "country_name": "斯里兰卡",
+      "city_count": 68,
+      "completed_count": 68,
+      "output_file": "lk.json"
+    },
+    {
+      "country_code": "KW",
+      "country_name": "科威特",
+      "city_count": 23,
+      "completed_count": 23,
+      "output_file": "kw.json"
+    },
+    {
+      "country_code": "PS",
+      "country_name": "巴勒斯坦",
+      "city_count": 125,
+      "completed_count": 125,
+      "output_file": "ps.json"
+    },
+    {
+      "country_code": "QA",
+      "country_name": "卡塔尔",
+      "city_count": 36,
+      "completed_count": 36,
+      "output_file": "qa.json"
+    },
+    {
+      "country_code": "LA",
+      "country_name": "老挝",
+      "city_count": 33,
+      "completed_count": 33,
+      "output_file": "la.json"
+    },
+    {
+      "country_code": "BH",
+      "country_name": "巴林",
+      "city_count": 10,
+      "completed_count": 10,
+      "output_file": "bh.json"
+    },
+    {
+      "country_code": "MV",
+      "country_name": "马尔代夫",
+      "city_count": 19,
+      "completed_count": 19,
+      "output_file": "mv.json"
+    },
+    {
+      "country_code": "BT",
+      "country_name": "不丹",
+      "city_count": 23,
+      "completed_count": 23,
+      "output_file": "bt.json"
+    },
+    {
+      "country_code": "BN",
+      "country_name": "文莱",
+      "city_count": 28,
+      "completed_count": 28,
+      "output_file": "bn.json"
+    },
+    {
+      "country_code": "CC",
+      "country_name": "科科斯（基林）群岛",
+      "city_count": 1,
+      "completed_count": 1,
+      "output_file": "cc.json"
+    },
+    {
+      "country_code": "CN",
+      "country_name": "中国",
+      "city_count": 3180,
+      "completed_count": 3180,
+      "output_file": "cn.json"
+    },
+    {
+      "country_code": "RU",
+      "country_name": "俄罗斯联邦",
+      "city_count": 2748,
+      "completed_count": 2748,
+      "output_file": "ru.json"
+    },
+    {
+      "country_code": "GB",
+      "country_name": "英国",
+      "city_count": 1904,
+      "completed_count": 1904,
+      "output_file": "gb.json"
+    },
+    {
+      "country_code": "DE",
+      "country_name": "德国",
+      "city_count": 3049,
+      "completed_count": 3049,
+      "output_file": "de.json"
+    },
+    {
+      "country_code": "ES",
+      "country_name": "西班牙",
+      "city_count": 1476,
+      "completed_count": 1476,
+      "output_file": "es.json"
+    },
+    {
+      "country_code": "UA",
+      "country_name": "乌克兰",
+      "city_count": 938,
+      "completed_count": 938,
+      "output_file": "ua.json"
+    },
+    {
+      "country_code": "IT",
+      "country_name": "意大利",
+      "city_count": 2000,
+      "completed_count": 2000,
+      "output_file": "it.json"
+    },
+    {
+      "country_code": "FR",
+      "country_name": "法国",
+      "city_count": 2053,
+      "completed_count": 2053,
+      "output_file": "fr.json"
+    },
+    {
+      "country_code": "RO",
+      "country_name": "罗马尼亚",
+      "city_count": 788,
+      "completed_count": 788,
+      "output_file": "ro.json"
+    },
+    {
+      "country_code": "BY",
+      "country_name": "白俄罗斯",
+      "city_count": 140,
+      "completed_count": 140,
+      "output_file": "by.json"
+    },
+    {
+      "country_code": "HU",
+      "country_name": "匈牙利",
+      "city_count": 368,
+      "completed_count": 368,
+      "output_file": "hu.json"
+    },
+    {
+      "country_code": "PL",
+      "country_name": "波兰",
+      "city_count": 753,
+      "completed_count": 753,
+      "output_file": "pl.json"
+    },
+    {
+      "country_code": "AT",
+      "country_name": "奥地利",
+      "city_count": 206,
+      "completed_count": 206,
+      "output_file": "at.json"
+    },
+    {
+      "country_code": "SE",
+      "country_name": "瑞典",
+      "city_count": 278,
+      "completed_count": 278,
+      "output_file": "se.json"
+    },
+    {
+      "country_code": "RS",
+      "country_name": "塞尔维亚",
+      "city_count": 106,
+      "completed_count": 106,
+      "output_file": "rs.json"
+    },
+    {
+      "country_code": "CZ",
+      "country_name": "捷克",
+      "city_count": 346,
+      "completed_count": 346,
+      "output_file": "cz.json"
+    },
+    {
+      "country_code": "DK",
+      "country_name": "丹麦",
+      "city_count": 163,
+      "completed_count": 163,
+      "output_file": "dk.json"
+    },
+    {
+      "country_code": "BG",
+      "country_name": "保加利亚",
+      "city_count": 138,
+      "completed_count": 138,
+      "output_file": "bg.json"
+    },
+    {
+      "country_code": "NO",
+      "country_name": "挪威",
+      "city_count": 115,
+      "completed_count": 115,
+      "output_file": "no.json"
+    },
+    {
+      "country_code": "IE",
+      "country_name": "爱尔兰",
+      "city_count": 152,
+      "completed_count": 152,
+      "output_file": "ie.json"
+    },
+    {
+      "country_code": "BE",
+      "country_name": "比利时",
+      "city_count": 686,
+      "completed_count": 686,
+      "output_file": "be.json"
+    },
+    {
+      "country_code": "NL",
+      "country_name": "荷兰",
+      "city_count": 536,
+      "completed_count": 536,
+      "output_file": "nl.json"
+    },
+    {
+      "country_code": "LV",
+      "country_name": "拉脱维亚",
+      "city_count": 52,
+      "completed_count": 52,
+      "output_file": "lv.json"
+    },
+    {
+      "country_code": "BA",
+      "country_name": "波黑",
+      "city_count": 117,
+      "completed_count": 117,
+      "output_file": "ba.json"
+    },
+    {
+      "country_code": "GR",
+      "country_name": "希腊",
+      "city_count": 248,
+      "completed_count": 248,
+      "output_file": "gr.json"
+    },
+    {
+      "country_code": "HR",
+      "country_name": "克罗地亚",
+      "city_count": 77,
+      "completed_count": 77,
+      "output_file": "hr.json"
+    },
+    {
+      "country_code": "FI",
+      "country_name": "芬兰",
+      "city_count": 340,
+      "completed_count": 340,
+      "output_file": "fi.json"
+    },
+    {
+      "country_code": "MD",
+      "country_name": "摩尔多瓦",
+      "city_count": 63,
+      "completed_count": 63,
+      "output_file": "md.json"
+    },
+    {
+      "country_code": "XK",
+      "country_name": "科索沃",
+      "city_count": 34,
+      "completed_count": 34,
+      "output_file": "xk.json"
+    },
+    {
+      "country_code": "LT",
+      "country_name": "立陶宛",
+      "city_count": 71,
+      "completed_count": 71,
+      "output_file": "lt.json"
+    },
+    {
+      "country_code": "PT",
+      "country_name": "葡萄牙",
+      "city_count": 544,
+      "completed_count": 544,
+      "output_file": "pt.json"
+    },
+    {
+      "country_code": "MK",
+      "country_name": "前南马其顿",
+      "city_count": 90,
+      "completed_count": 90,
+      "output_file": "mk.json"
+    },
+    {
+      "country_code": "SK",
+      "country_name": "斯洛伐克",
+      "city_count": 147,
+      "completed_count": 147,
+      "output_file": "sk.json"
+    },
+    {
+      "country_code": "AL",
+      "country_name": "阿尔巴尼亚",
+      "city_count": 65,
+      "completed_count": 65,
+      "output_file": "al.json"
+    },
+    {
+      "country_code": "CH",
+      "country_name": "瑞士",
+      "city_count": 352,
+      "completed_count": 352,
+      "output_file": "ch.json"
+    },
+    {
+      "country_code": "EE",
+      "country_name": "爱沙尼亚",
+      "city_count": 30,
+      "completed_count": 30,
+      "output_file": "ee.json"
+    },
+    {
+      "country_code": "SI",
+      "country_name": "斯洛文尼亚",
+      "city_count": 213,
+      "completed_count": 213,
+      "output_file": "si.json"
+    },
+    {
+      "country_code": "ME",
+      "country_name": "黑山",
+      "city_count": 26,
+      "completed_count": 26,
+      "output_file": "me.json"
+    },
+    {
+      "country_code": "CY",
+      "country_name": "塞浦路斯",
+      "city_count": 35,
+      "completed_count": 35,
+      "output_file": "cy.json"
+    },
+    {
+      "country_code": "IS",
+      "country_name": "冰岛",
+      "city_count": 14,
+      "completed_count": 14,
+      "output_file": "is.json"
+    },
+    {
+      "country_code": "LU",
+      "country_name": "卢森堡",
+      "city_count": 33,
+      "completed_count": 33,
+      "output_file": "lu.json"
+    },
+    {
+      "country_code": "MC",
+      "country_name": "摩纳哥",
+      "city_count": 5,
+      "completed_count": 5,
+      "output_file": "mc.json"
+    },
+    {
+      "country_code": "MT",
+      "country_name": "马耳他",
+      "city_count": 65,
+      "completed_count": 65,
+      "output_file": "mt.json"
+    },
+    {
+      "country_code": "JE",
+      "country_name": "泽西岛",
+      "city_count": 2,
+      "completed_count": 2,
+      "output_file": "je.json"
+    },
+    {
+      "country_code": "GI",
+      "country_name": "直布罗陀",
+      "city_count": 3,
+      "completed_count": 3,
+      "output_file": "gi.json"
+    },
+    {
+      "country_code": "IM",
+      "country_name": "英国属地曼岛",
+      "city_count": 21,
+      "completed_count": 21,
+      "output_file": "im.json"
+    },
+    {
+      "country_code": "AD",
+      "country_name": "安道尔",
+      "city_count": 7,
+      "completed_count": 7,
+      "output_file": "ad.json"
+    },
+    {
+      "country_code": "GG",
+      "country_name": "根西岛",
+      "city_count": 11,
+      "completed_count": 11,
+      "output_file": "gg.json"
+    },
+    {
+      "country_code": "FO",
+      "country_name": "法罗群岛",
+      "city_count": 6,
+      "completed_count": 6,
+      "output_file": "fo.json"
+    },
+    {
+      "country_code": "AX",
+      "country_name": "奥兰群岛",
+      "city_count": 3,
+      "completed_count": 3,
+      "output_file": "ax.json"
+    },
+    {
+      "country_code": "SM",
+      "country_name": "圣马力诺",
+      "city_count": 11,
+      "completed_count": 11,
+      "output_file": "sm.json"
+    },
+    {
+      "country_code": "LI",
+      "country_name": "列支敦士登",
+      "city_count": 11,
+      "completed_count": 11,
+      "output_file": "li.json"
+    },
+    {
+      "country_code": "SJ",
+      "country_name": "斯瓦尔巴岛和扬马延岛",
+      "city_count": 2,
+      "completed_count": 2,
+      "output_file": "sj.json"
+    },
+    {
+      "country_code": "VA",
+      "country_name": "梵蒂冈",
+      "city_count": 1,
+      "completed_count": 1,
+      "output_file": "va.json"
+    },
+    {
+      "country_code": "CD",
+      "country_name": "扎伊尔",
+      "city_count": 117,
+      "completed_count": 117,
+      "output_file": "cd.json"
+    },
+    {
+      "country_code": "NG",
+      "country_name": "尼日利亚",
+      "city_count": 473,
+      "completed_count": 473,
+      "output_file": "ng.json"
+    },
+    {
+      "country_code": "EG",
+      "country_name": "埃及",
+      "city_count": 242,
+      "completed_count": 242,
+      "output_file": "eg.json"
+    },
+    {
+      "country_code": "ZA",
+      "country_name": "南非",
+      "city_count": 587,
+      "completed_count": 587,
+      "output_file": "za.json"
+    },
+    {
+      "country_code": "CI",
+      "country_name": "象牙海岸",
+      "city_count": 851,
+      "completed_count": 851,
+      "output_file": "ci.json"
+    },
+    {
+      "country_code": "AU",
+      "country_name": "澳大利亚",
+      "city_count": 1493,
+      "completed_count": 1493,
+      "output_file": "au.json"
+    },
+    {
+      "country_code": "TZ",
+      "country_name": "坦桑尼亚",
+      "city_count": 309,
+      "completed_count": 309,
+      "output_file": "tz.json"
+    },
+    {
+      "country_code": "KE",
+      "country_name": "肯尼亚",
+      "city_count": 233,
+      "completed_count": 233,
+      "output_file": "ke.json"
+    },
+    {
+      "country_code": "ML",
+      "country_name": "马里",
+      "city_count": 70,
+      "completed_count": 70,
+      "output_file": "ml.json"
+    },
+    {
+      "country_code": "ET",
+      "country_name": "埃塞俄比亚",
+      "city_count": 244,
+      "completed_count": 244,
+      "output_file": "et.json"
+    },
+    {
+      "country_code": "MA",
+      "country_name": "摩洛哥",
+      "city_count": 308,
+      "completed_count": 308,
+      "output_file": "ma.json"
+    },
+    {
+      "country_code": "AO",
+      "country_name": "安哥拉",
+      "city_count": 142,
+      "completed_count": 142,
+      "output_file": "ao.json"
+    },
+    {
+      "country_code": "SN",
+      "country_name": "塞内加尔",
+      "city_count": 118,
+      "completed_count": 118,
+      "output_file": "sn.json"
+    },
+    {
+      "country_code": "SO",
+      "country_name": "索马里",
+      "city_count": 64,
+      "completed_count": 64,
+      "output_file": "so.json"
+    },
+    {
+      "country_code": "GH",
+      "country_name": "加纳",
+      "city_count": 113,
+      "completed_count": 113,
+      "output_file": "gh.json"
+    },
+    {
+      "country_code": "BF",
+      "country_name": "布基纳法索",
+      "city_count": 83,
+      "completed_count": 83,
+      "output_file": "bf.json"
+    },
+    {
+      "country_code": "DZ",
+      "country_name": "阿尔及利亚",
+      "city_count": 320,
+      "completed_count": 320,
+      "output_file": "dz.json"
+    },
+    {
+      "country_code": "ZM",
+      "country_name": "赞比亚",
+      "city_count": 95,
+      "completed_count": 95,
+      "output_file": "zm.json"
+    },
+    {
+      "country_code": "TG",
+      "country_name": "多哥",
+      "city_count": 32,
+      "completed_count": 32,
+      "output_file": "tg.json"
+    },
+    {
+      "country_code": "CG",
+      "country_name": "刚果共和国",
+      "city_count": 47,
+      "completed_count": 47,
+      "output_file": "cg.json"
+    },
+    {
+      "country_code": "SD",
+      "country_name": "苏丹",
+      "city_count": 98,
+      "completed_count": 98,
+      "output_file": "sd.json"
+    },
+    {
+      "country_code": "GN",
+      "country_name": "几内亚",
+      "city_count": 63,
+      "completed_count": 63,
+      "output_file": "gn.json"
+    },
+    {
+      "country_code": "UG",
+      "country_name": "乌干达",
+      "city_count": 163,
+      "completed_count": 163,
+      "output_file": "ug.json"
+    },
+    {
+      "country_code": "ZW",
+      "country_name": "津巴布韦",
+      "city_count": 46,
+      "completed_count": 46,
+      "output_file": "zw.json"
+    },
+    {
+      "country_code": "LR",
+      "country_name": "利比里亚",
+      "city_count": 26,
+      "completed_count": 26,
+      "output_file": "lr.json"
+    },
+    {
+      "country_code": "NZ",
+      "country_name": "新西兰",
+      "city_count": 237,
+      "completed_count": 237,
+      "output_file": "nz.json"
+    },
+    {
+      "country_code": "TD",
+      "country_name": "乍得",
+      "city_count": 68,
+      "completed_count": 68,
+      "output_file": "td.json"
+    },
+    {
+      "country_code": "MG",
+      "country_name": "马达加斯加",
+      "city_count": 139,
+      "completed_count": 139,
+      "output_file": "mg.json"
+    },
+    {
+      "country_code": "CM",
+      "country_name": "喀麦隆",
+      "city_count": 125,
+      "completed_count": 125,
+      "output_file": "cm.json"
+    },
+    {
+      "country_code": "NE",
+      "country_name": "尼日尔",
+      "city_count": 64,
+      "completed_count": 64,
+      "output_file": "ne.json"
+    },
+    {
+      "country_code": "LY",
+      "country_name": "利比亚",
+      "city_count": 104,
+      "completed_count": 104,
+      "output_file": "ly.json"
+    },
+    {
+      "country_code": "MZ",
+      "country_name": "莫桑比克",
+      "city_count": 88,
+      "completed_count": 88,
+      "output_file": "mz.json"
+    },
+    {
+      "country_code": "MR",
+      "country_name": "毛利塔尼亚",
+      "city_count": 59,
+      "completed_count": 59,
+      "output_file": "mr.json"
+    },
+    {
+      "country_code": "RW",
+      "country_name": "卢旺达",
+      "city_count": 49,
+      "completed_count": 49,
+      "output_file": "rw.json"
+    },
+    {
+      "country_code": "MW",
+      "country_name": "马拉维",
+      "city_count": 33,
+      "completed_count": 33,
+      "output_file": "mw.json"
+    },
+    {
+      "country_code": "GA",
+      "country_name": "加蓬",
+      "city_count": 32,
+      "completed_count": 32,
+      "output_file": "ga.json"
+    },
+    {
+      "country_code": "CF",
+      "country_name": "中非",
+      "city_count": 46,
+      "completed_count": 46,
+      "output_file": "cf.json"
+    },
+    {
+      "country_code": "SL",
+      "country_name": "塞拉利昂",
+      "city_count": 49,
+      "completed_count": 49,
+      "output_file": "sl.json"
+    },
+    {
+      "country_code": "BI",
+      "country_name": "布隆迪",
+      "city_count": 26,
+      "completed_count": 26,
+      "output_file": "bi.json"
+    },
+    {
+      "country_code": "TN",
+      "country_name": "突尼斯",
+      "city_count": 238,
+      "completed_count": 238,
+      "output_file": "tn.json"
+    },
+    {
+      "country_code": "BJ",
+      "country_name": "贝宁",
+      "city_count": 76,
+      "completed_count": 76,
+      "output_file": "bj.json"
+    },
+    {
+      "country_code": "DJ",
+      "country_name": "吉布提",
+      "city_count": 8,
+      "completed_count": 8,
+      "output_file": "dj.json"
+    },
+    {
+      "country_code": "ER",
+      "country_name": "厄立特里亚",
+      "city_count": 11,
+      "completed_count": 11,
+      "output_file": "er.json"
+    },
+    {
+      "country_code": "SS",
+      "country_name": "南苏丹",
+      "city_count": 22,
+      "completed_count": 22,
+      "output_file": "ss.json"
+    },
+    {
+      "country_code": "GW",
+      "country_name": "几内亚比绍",
+      "city_count": 25,
+      "completed_count": 25,
+      "output_file": "gw.json"
+    },
+    {
+      "country_code": "NA",
+      "country_name": "纳米比亚",
+      "city_count": 44,
+      "completed_count": 44,
+      "output_file": "na.json"
+    },
+    {
+      "country_code": "LS",
+      "country_name": "莱索托",
+      "city_count": 28,
+      "completed_count": 28,
+      "output_file": "ls.json"
+    },
+    {
+      "country_code": "GM",
+      "country_name": "冈比亚",
+      "city_count": 66,
+      "completed_count": 66,
+      "output_file": "gm.json"
+    },
+    {
+      "country_code": "PG",
+      "country_name": "巴布亚新几内亚",
+      "city_count": 31,
+      "completed_count": 31,
+      "output_file": "pg.json"
+    },
+    {
+      "country_code": "BW",
+      "country_name": "博茨瓦纳",
+      "city_count": 63,
+      "completed_count": 63,
+      "output_file": "bw.json"
+    },
+    {
+      "country_code": "EH",
+      "country_name": "西撒哈拉",
+      "city_count": 6,
+      "completed_count": 6,
+      "output_file": "eh.json"
+    },
+    {
+      "country_code": "GQ",
+      "country_name": "赤道几内亚",
+      "city_count": 13,
+      "completed_count": 13,
+      "output_file": "gq.json"
+    },
+    {
+      "country_code": "MU",
+      "country_name": "毛里求斯",
+      "city_count": 65,
+      "completed_count": 65,
+      "output_file": "mu.json"
+    },
+    {
+      "country_code": "RE",
+      "country_name": "留尼汪",
+      "city_count": 25,
+      "completed_count": 25,
+      "output_file": "re.json"
+    },
+    {
+      "country_code": "TL",
+      "country_name": "东帝汶",
+      "city_count": 18,
+      "completed_count": 18,
+      "output_file": "tl.json"
+    },
+    {
+      "country_code": "CV",
+      "country_name": "佛得角",
+      "city_count": 22,
+      "completed_count": 22,
+      "output_file": "cv.json"
+    },
+    {
+      "country_code": "SZ",
+      "country_name": "斯威士兰",
+      "city_count": 9,
+      "completed_count": 9,
+      "output_file": "sz.json"
+    },
+    {
+      "country_code": "NC",
+      "country_name": "新喀里多尼亚",
+      "city_count": 13,
+      "completed_count": 13,
+      "output_file": "nc.json"
+    },
+    {
+      "country_code": "FJ",
+      "country_name": "斐济",
+      "city_count": 15,
+      "completed_count": 15,
+      "output_file": "fj.json"
+    },
+    {
+      "country_code": "KM",
+      "country_name": "科摩罗",
+      "city_count": 19,
+      "completed_count": 19,
+      "output_file": "km.json"
+    },
+    {
+      "country_code": "SB",
+      "country_name": "所罗门群岛",
+      "city_count": 19,
+      "completed_count": 19,
+      "output_file": "sb.json"
+    },
+    {
+      "country_code": "YT",
+      "country_name": "马约特",
+      "city_count": 27,
+      "completed_count": 27,
+      "output_file": "yt.json"
+    },
+    {
+      "country_code": "ST",
+      "country_name": "圣多美和普林西比",
+      "city_count": 5,
+      "completed_count": 5,
+      "output_file": "st.json"
+    },
+    {
+      "country_code": "MP",
+      "country_name": "北马里亚纳",
+      "city_count": 3,
+      "completed_count": 3,
+      "output_file": "mp.json"
+    },
+    {
+      "country_code": "GU",
+      "country_name": "关岛",
+      "city_count": 21,
+      "completed_count": 21,
+      "output_file": "gu.json"
+    },
+    {
+      "country_code": "WS",
+      "country_name": "萨摩亚",
+      "city_count": 11,
+      "completed_count": 11,
+      "output_file": "ws.json"
+    },
+    {
+      "country_code": "KI",
+      "country_name": "基里巴斯",
+      "city_count": 3,
+      "completed_count": 3,
+      "output_file": "ki.json"
+    },
+    {
+      "country_code": "VU",
+      "country_name": "瓦努阿图",
+      "city_count": 6,
+      "completed_count": 6,
+      "output_file": "vu.json"
+    },
+    {
+      "country_code": "PF",
+      "country_name": "法属波利尼西亚",
+      "city_count": 12,
+      "completed_count": 12,
+      "output_file": "pf.json"
+    },
+    {
+      "country_code": "MH",
+      "country_name": "马绍尔群岛",
+      "city_count": 24,
+      "completed_count": 24,
+      "output_file": "mh.json"
+    },
+    {
+      "country_code": "SC",
+      "country_name": "塞舌尔",
+      "city_count": 11,
+      "completed_count": 11,
+      "output_file": "sc.json"
+    },
+    {
+      "country_code": "TO",
+      "country_name": "汤加",
+      "city_count": 5,
+      "completed_count": 5,
+      "output_file": "to.json"
+    },
+    {
+      "country_code": "PW",
+      "country_name": "帕劳",
+      "city_count": 18,
+      "completed_count": 18,
+      "output_file": "pw.json"
+    },
+    {
+      "country_code": "FM",
+      "country_name": "密克罗尼西亚联邦",
+      "city_count": 6,
+      "completed_count": 6,
+      "output_file": "fm.json"
+    },
+    {
+      "country_code": "CK",
+      "country_name": "库克群岛",
+      "city_count": 1,
+      "completed_count": 1,
+      "output_file": "ck.json"
+    },
+    {
+      "country_code": "AS",
+      "country_name": "美属萨摩亚",
+      "city_count": 4,
+      "completed_count": 4,
+      "output_file": "as.json"
+    },
+    {
+      "country_code": "TV",
+      "country_name": "图瓦卢",
+      "city_count": 6,
+      "completed_count": 6,
+      "output_file": "tv.json"
+    },
+    {
+      "country_code": "SH",
+      "country_name": "圣赫勒拿",
+      "city_count": 3,
+      "completed_count": 3,
+      "output_file": "sh.json"
+    },
+    {
+      "country_code": "WF",
+      "country_name": "瓦利斯和富图纳",
+      "city_count": 3,
+      "completed_count": 3,
+      "output_file": "wf.json"
+    },
+    {
+      "country_code": "NR",
+      "country_name": "瑙鲁",
+      "city_count": 7,
+      "completed_count": 7,
+      "output_file": "nr.json"
+    },
+    {
+      "country_code": "NF",
+      "country_name": "诺福克岛",
+      "city_count": 1,
+      "completed_count": 1,
+      "output_file": "nf.json"
+    },
+    {
+      "country_code": "NU",
+      "country_name": "纽埃",
+      "city_count": 1,
+      "completed_count": 1,
+      "output_file": "nu.json"
+    },
+    {
+      "country_code": "TK",
+      "country_name": "托克劳",
+      "city_count": 3,
+      "completed_count": 3,
+      "output_file": "tk.json"
+    },
+    {
+      "country_code": "CX",
+      "country_name": "圣诞岛",
+      "city_count": 1,
+      "completed_count": 1,
+      "output_file": "cx.json"
+    },
+    {
+      "country_code": "PN",
+      "country_name": "皮特凯恩",
+      "city_count": 1,
+      "completed_count": 1,
+      "output_file": "pn.json"
+    },
+    {
+      "country_code": "TF",
+      "country_name": "法属南部领地",
+      "city_count": 1,
+      "completed_count": 1,
+      "output_file": "tf.json"
+    },
+    {
+      "country_code": "GS",
+      "country_name": "南乔治亚岛和南桑德韦奇岛",
+      "city_count": 1,
+      "completed_count": 1,
+      "output_file": "gs.json"
+    }
+  ]
+}

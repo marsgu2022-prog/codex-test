@@ -1,0 +1,206 @@
+{
+  "country_code": "RE",
+  "country_name": "留尼汪",
+  "cities": [
+    {
+      "name": "",
+      "name_en": "Saint-Denis",
+      "province": "Réunion",
+      "latitude": -20.8823,
+      "longitude": 55.4504,
+      "timezone": "Indian/Reunion"
+    },
+    {
+      "name": "",
+      "name_en": "Saint-Paul",
+      "province": "Réunion",
+      "latitude": -21.0096,
+      "longitude": 55.2713,
+      "timezone": "Indian/Reunion"
+    },
+    {
+      "name": "",
+      "name_en": "Saint-Pierre",
+      "province": "Réunion",
+      "latitude": -21.3393,
+      "longitude": 55.4781,
+      "timezone": "Indian/Reunion"
+    },
+    {
+      "name": "",
+      "name_en": "Le Tampon",
+      "province": "Réunion",
+      "latitude": -21.2766,
+      "longitude": 55.5177,
+      "timezone": "Indian/Reunion"
+    },
+    {
+      "name": "",
+      "name_en": "Saint-André",
+      "province": "Réunion",
+      "latitude": -20.9633,
+      "longitude": 55.6503,
+      "timezone": "Indian/Reunion"
+    },
+    {
+      "name": "",
+      "name_en": "Saint-Louis",
+      "province": "Réunion",
+      "latitude": -21.2858,
+      "longitude": 55.4112,
+      "timezone": "Indian/Reunion"
+    },
+    {
+      "name": "",
+      "name_en": "Saint-Joseph",
+      "province": "Réunion",
+      "latitude": -21.3777,
+      "longitude": 55.6169,
+      "timezone": "Indian/Reunion"
+    },
+    {
+      "name": "",
+      "name_en": "Saint-Benoît",
+      "province": "Réunion",
+      "latitude": -21.0379,
+      "longitude": 55.7155,
+      "timezone": "Indian/Reunion"
+    },
+    {
+      "name": "",
+      "name_en": "La Possession",
+      "province": "Réunion",
+      "latitude": -20.9291,
+      "longitude": 55.3348,
+      "timezone": "Indian/Reunion"
+    },
+    {
+      "name": "",
+      "name_en": "Saint-Leu",
+      "province": "Réunion",
+      "latitude": -21.1706,
+      "longitude": 55.2882,
+      "timezone": "Indian/Reunion"
+    },
+    {
+      "name": "",
+      "name_en": "Sainte-Marie",
+      "province": "Réunion",
+      "latitude": -20.8969,
+      "longitude": 55.5506,
+      "timezone": "Indian/Reunion"
+    },
+    {
+      "name": "",
+      "name_en": "Le Port",
+      "province": "Réunion",
+      "latitude": -20.9375,
+      "longitude": 55.2942,
+      "timezone": "Indian/Reunion"
+    },
+    {
+      "name": "",
+      "name_en": "Piton Saint-Leu",
+      "province": "Réunion",
+      "latitude": -21.2196,
+      "longitude": 55.3151,
+      "timezone": "Indian/Reunion"
+    },
+    {
+      "name": "",
+      "name_en": "Sainte-Suzanne",
+      "province": "Réunion",
+      "latitude": -20.9062,
+      "longitude": 55.6079,
+      "timezone": "Indian/Reunion"
+    },
+    {
+      "name": "",
+      "name_en": "L'Étang-Salé",
+      "province": "Réunion",
+      "latitude": -21.25,
+      "longitude": 55.3833,
+      "timezone": "Indian/Reunion"
+    },
+    {
+      "name": "",
+      "name_en": "Bras-Panon",
+      "province": "Réunion",
+      "latitude": -20.9967,
+      "longitude": 55.6782,
+      "timezone": "Indian/Reunion"
+    },
+    {
+      "name": "",
+      "name_en": "Petite-Île",
+      "province": "Réunion",
+      "latitude": -21.3533,
+      "longitude": 55.5643,
+      "timezone": "Indian/Reunion"
+    },
+    {
+      "name": "",
+      "name_en": "Les Avirons",
+      "province": "Réunion",
+      "latitude": -21.2406,
+      "longitude": 55.3368,
+      "timezone": "Indian/Reunion"
+    },
+    {
+      "name": "",
+      "name_en": "Salazie",
+      "province": "Réunion",
+      "latitude": -21.0271,
+      "longitude": 55.5395,
+      "timezone": "Indian/Reunion"
+    },
+    {
+      "name": "",
+      "name_en": "Les Trois-Bassins",
+      "province": "Réunion",
+      "latitude": -21.1,
+      "longitude": 55.3,
+      "timezone": "Indian/Reunion"
+    },
+    {
+      "name": "",
+      "name_en": "Entre-Deux",
+      "province": "Réunion",
+      "latitude": -21.2333,
+      "longitude": 55.4667,
+      "timezone": "Indian/Reunion"
+    },
+    {
+      "name": "",
+      "name_en": "Sainte-Rose",
+      "province": "Réunion",
+      "latitude": -21.1286,
+      "longitude": 55.7962,
+      "timezone": "Indian/Reunion"
+    },
+    {
+      "name": "",
+      "name_en": "La Plaine-des-Palmistes",
+      "province": "Réunion",
+      "latitude": -21.1343,
+      "longitude": 55.6282,
+      "timezone": "Indian/Reunion"
+    },
+    {
+      "name": "",
+      "name_en": "Cilaos",
+      "province": "Réunion",
+      "latitude": -21.1364,
+      "longitude": 55.4719,
+      "timezone": "Indian/Reunion"
+    },
+    {
+      "name": "",
+      "name_en": "Saint-Philippe",
+      "province": "Réunion",
+      "latitude": -21.3609,
+      "longitude": 55.7679,
+      "timezone": "Indian/Reunion"
+    }
+  ]
+}

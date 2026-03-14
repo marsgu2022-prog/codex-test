@@ -1,0 +1,14 @@
+{
+  "country_code": "VA",
+  "country_name": "梵蒂冈",
+  "cities": [
+    {
+      "name": "",
+      "name_en": "Vatican City",
+      "province": "",
+      "latitude": 41.9027,
+      "longitude": 12.4541,
+      "timezone": "Europe/Vatican"
+    }
+  ]
+}

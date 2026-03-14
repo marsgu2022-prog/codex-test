@@ -1,0 +1,14 @@
+{
+  "country_code": "TF",
+  "country_name": "法属南部领地",
+  "cities": [
+    {
+      "name": "法兰西港",
+      "name_en": "Port-aux-Français",
+      "province": "Kerguelen",
+      "latitude": -49.3492,
+      "longitude": 70.2194,
+      "timezone": "Indian/Kerguelen"
+    }
+  ]
+}

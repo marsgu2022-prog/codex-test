@@ -1,0 +1,1182 @@
+{
+  "country_code": "SK",
+  "country_name": "斯洛伐克",
+  "cities": [
+    {
+      "name": "布拉迪斯拉发",
+      "name_en": "Bratislava",
+      "province": "布拉迪斯拉发州",
+      "latitude": 48.1482,
+      "longitude": 17.1067,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "科希策",
+      "name_en": "Košice",
+      "province": "科希策州",
+      "latitude": 48.7144,
+      "longitude": 21.258,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "佩特扎尔卡",
+      "name_en": "Petržalka",
+      "province": "布拉迪斯拉发州",
+      "latitude": 48.1233,
+      "longitude": 17.1287,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "尼特拉",
+      "name_en": "Nitra",
+      "province": "尼特拉州",
+      "latitude": 48.3076,
+      "longitude": 18.0845,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Prešov",
+      "province": "普列索夫州",
+      "latitude": 48.9992,
+      "longitude": 21.2355,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "日利纳",
+      "name_en": "Žilina",
+      "province": "日利纳州",
+      "latitude": 49.2231,
+      "longitude": 18.7394,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "班斯卡-比斯特里察",
+      "name_en": "Banská Bystrica",
+      "province": "班斯卡·比斯特理察州",
+      "latitude": 48.7395,
+      "longitude": 19.1493,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "特尔纳瓦",
+      "name_en": "Trnava",
+      "province": "特尔纳瓦州",
+      "latitude": 48.3777,
+      "longitude": 17.586,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Trenčín",
+      "province": "Trenčín Region",
+      "latitude": 48.8945,
+      "longitude": 18.0444,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "马丁",
+      "name_en": "Martin",
+      "province": "日利纳州",
+      "latitude": 49.0665,
+      "longitude": 18.924,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Poprad",
+      "province": "普列索夫州",
+      "latitude": 49.0614,
+      "longitude": 20.298,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "布拉提斯拉瓦老城",
+      "name_en": "Staré Mesto",
+      "province": "布拉迪斯拉发州",
+      "latitude": 48.1504,
+      "longitude": 17.09,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "普列维扎",
+      "name_en": "Prievidza",
+      "province": "Trenčín Region",
+      "latitude": 48.7745,
+      "longitude": 18.6275,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Zvolen",
+      "province": "班斯卡·比斯特理察州",
+      "latitude": 48.5744,
+      "longitude": 19.1532,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "瓦赫河畔比斯特里察",
+      "name_en": "Považská Bystrica",
+      "province": "Trenčín Region",
+      "latitude": 49.1215,
+      "longitude": 18.4217,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Nové Zámky",
+      "province": "尼特拉州",
+      "latitude": 47.9854,
+      "longitude": 18.162,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "米哈洛夫采",
+      "name_en": "Michalovce",
+      "province": "科希策州",
+      "latitude": 48.7543,
+      "longitude": 21.9195,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Karlova Ves",
+      "province": "布拉迪斯拉发州",
+      "latitude": 48.1534,
+      "longitude": 17.0552,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "杜布拉夫卡",
+      "name_en": "Dúbravka",
+      "province": "布拉迪斯拉发州",
+      "latitude": 48.1887,
+      "longitude": 17.0352,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Spišská Nová Ves",
+      "province": "科希策州",
+      "latitude": 48.9446,
+      "longitude": 20.5615,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Komárno",
+      "province": "尼特拉州",
+      "latitude": 48.1167,
+      "longitude": 18.3167,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "科马尔诺",
+      "name_en": "Komárno",
+      "province": "尼特拉州",
+      "latitude": 47.7636,
+      "longitude": 18.1226,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "莱维采",
+      "name_en": "Levice",
+      "province": "尼特拉州",
+      "latitude": 48.2156,
+      "longitude": 18.6071,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Humenné",
+      "province": "普列索夫州",
+      "latitude": 48.9371,
+      "longitude": 21.9163,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "巴尔代约夫",
+      "name_en": "Bardejov",
+      "province": "普列索夫州",
+      "latitude": 49.2918,
+      "longitude": 21.2727,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Liptovský Mikuláš",
+      "province": "日利纳州",
+      "latitude": 49.0806,
+      "longitude": 19.6222,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Dlhé diely",
+      "province": "布拉迪斯拉发州",
+      "latitude": 48.1545,
+      "longitude": 17.0461,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "皮耶什佳尼",
+      "name_en": "Piešťany",
+      "province": "特尔纳瓦州",
+      "latitude": 48.5948,
+      "longitude": 17.8259,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "鲁容贝罗克",
+      "name_en": "Ružomberok",
+      "province": "日利纳州",
+      "latitude": 49.0748,
+      "longitude": 19.3075,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Lučenec",
+      "province": "班斯卡·比斯特理察州",
+      "latitude": 48.3325,
+      "longitude": 19.6671,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "佩济诺克",
+      "name_en": "Pezinok",
+      "province": "布拉迪斯拉发州",
+      "latitude": 48.2899,
+      "longitude": 17.2666,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "托波尔恰尼",
+      "name_en": "Topoľčany",
+      "province": "尼特拉州",
+      "latitude": 48.5636,
+      "longitude": 18.1671,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Podunajské Biskupice",
+      "province": "布拉迪斯拉发州",
+      "latitude": 48.1325,
+      "longitude": 17.2096,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "特雷比绍夫",
+      "name_en": "Trebišov",
+      "province": "科希策州",
+      "latitude": 48.6286,
+      "longitude": 21.7195,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "多瑙斯特雷达",
+      "name_en": "Dunajská Streda",
+      "province": "特尔纳瓦州",
+      "latitude": 47.9927,
+      "longitude": 17.6121,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Čadca",
+      "province": "日利纳州",
+      "latitude": 49.435,
+      "longitude": 18.7889,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "斯尼纳",
+      "name_en": "Snina",
+      "province": "普列索夫州",
+      "latitude": 48.9886,
+      "longitude": 22.151,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "瓦赫河畔杜布尼察",
+      "name_en": "Dubnica nad Váhom",
+      "province": "Trenčín Region",
+      "latitude": 48.9598,
+      "longitude": 18.1663,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Rimavská Sobota",
+      "province": "班斯卡·比斯特理察州",
+      "latitude": 48.3828,
+      "longitude": 20.0224,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "帕蒂赞斯克",
+      "name_en": "Partizánske",
+      "province": "Trenčín Region",
+      "latitude": 48.6286,
+      "longitude": 18.3846,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Vrakuňa",
+      "province": "布拉迪斯拉发州",
+      "latitude": 48.1383,
+      "longitude": 17.2087,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "托普拉河畔弗拉诺夫",
+      "name_en": "Vranov nad Topľou",
+      "province": "普列索夫州",
+      "latitude": 48.8884,
+      "longitude": 21.6848,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Šaľa",
+      "province": "尼特拉州",
+      "latitude": 48.1513,
+      "longitude": 17.8806,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "塞内茨",
+      "name_en": "Senec",
+      "province": "布拉迪斯拉发州",
+      "latitude": 48.2195,
+      "longitude": 17.4004,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Hlohovec",
+      "province": "特尔纳瓦州",
+      "latitude": 48.4317,
+      "longitude": 17.8031,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Brezno",
+      "province": "班斯卡·比斯特理察州",
+      "latitude": 48.8043,
+      "longitude": 19.6363,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "塞尼察",
+      "name_en": "Senica",
+      "province": "特尔纳瓦州",
+      "latitude": 48.6792,
+      "longitude": 17.367,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Nové Mesto nad Váhom",
+      "province": "Trenčín Region",
+      "latitude": 48.7576,
+      "longitude": 17.8309,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "马拉茨基",
+      "name_en": "Malacky",
+      "province": "布拉迪斯拉发州",
+      "latitude": 48.436,
+      "longitude": 17.0219,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "下库宾",
+      "name_en": "Dolný Kubín",
+      "province": "日利纳州",
+      "latitude": 49.2098,
+      "longitude": 19.3034,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Devínska Nová Ves",
+      "province": "布拉迪斯拉发州",
+      "latitude": 48.2071,
+      "longitude": 16.9786,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Rožňava",
+      "province": "科希策州",
+      "latitude": 48.6601,
+      "longitude": 20.5376,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "普霍夫",
+      "name_en": "Púchov",
+      "province": "Trenčín Region",
+      "latitude": 49.1249,
+      "longitude": 18.326,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Žiar nad Hronom",
+      "province": "班斯卡·比斯特理察州",
+      "latitude": 48.5918,
+      "longitude": 18.8496,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "贝布拉瓦河畔巴诺维采",
+      "name_en": "Bánovce nad Bebravou",
+      "province": "Trenčín Region",
+      "latitude": 48.7213,
+      "longitude": 18.2575,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "汉德洛瓦",
+      "name_en": "Handlová",
+      "province": "Trenčín Region",
+      "latitude": 48.7276,
+      "longitude": 18.7601,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "旧柳博夫尼亚",
+      "name_en": "Stará Ľubovňa",
+      "province": "普列索夫州",
+      "latitude": 49.2986,
+      "longitude": 20.6862,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Skalica",
+      "province": "特尔纳瓦州",
+      "latitude": 48.8449,
+      "longitude": 17.2264,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Galanta",
+      "province": "特尔纳瓦州",
+      "latitude": 48.19,
+      "longitude": 17.7275,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "凯日马罗克",
+      "name_en": "Kežmarok",
+      "province": "普列索夫州",
+      "latitude": 49.1357,
+      "longitude": 20.4335,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Sereď",
+      "province": "特尔纳瓦州",
+      "latitude": 48.2912,
+      "longitude": 17.7333,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "库舒基新梅斯托",
+      "name_en": "Kysucké Nové Mesto",
+      "province": "日利纳州",
+      "latitude": 49.3,
+      "longitude": 18.7833,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "莱沃恰",
+      "name_en": "Levoča",
+      "province": "普列索夫州",
+      "latitude": 49.0217,
+      "longitude": 20.5921,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "代特瓦",
+      "name_en": "Detva",
+      "province": "班斯卡·比斯特理察州",
+      "latitude": 48.5608,
+      "longitude": 19.4195,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "沙莫林",
+      "name_en": "Šamorín",
+      "province": "特尔纳瓦州",
+      "latitude": 48.0301,
+      "longitude": 17.3097,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "斯图帕瓦",
+      "name_en": "Stupava",
+      "province": "布拉迪斯拉发州",
+      "latitude": 48.2747,
+      "longitude": 17.0317,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "萨比诺夫",
+      "name_en": "Sabinov",
+      "province": "普列索夫州",
+      "latitude": 49.1031,
+      "longitude": 21.0988,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "兹拉特莫拉夫采",
+      "name_en": "Zlaté Moravce",
+      "province": "尼特拉州",
+      "latitude": 48.3855,
+      "longitude": 18.4006,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "比特恰",
+      "name_en": "Bytča",
+      "province": "日利纳州",
+      "latitude": 49.224,
+      "longitude": 18.5588,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "雷武察",
+      "name_en": "Revúca",
+      "province": "班斯卡·比斯特理察州",
+      "latitude": 48.6835,
+      "longitude": 20.1173,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "霍利奇",
+      "name_en": "Holíč",
+      "province": "特尔纳瓦州",
+      "latitude": 48.8111,
+      "longitude": 17.1624,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Myjava",
+      "province": "Trenčín Region",
+      "latitude": 48.7588,
+      "longitude": 17.5687,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "大克尔季什",
+      "name_en": "Veľký Krtíš",
+      "province": "班斯卡·比斯特理察州",
+      "latitude": 48.2106,
+      "longitude": 19.3504,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "科拉罗沃",
+      "name_en": "Kolárovo",
+      "province": "尼特拉州",
+      "latitude": 47.9229,
+      "longitude": 17.9847,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Nová Dubnica",
+      "province": "Trenčín Region",
+      "latitude": 48.9348,
+      "longitude": 18.1463,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "博德瓦河畔摩尔达瓦",
+      "name_en": "Moldava nad Bodvou",
+      "province": "科希策州",
+      "latitude": 48.6143,
+      "longitude": 20.9996,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Svidník",
+      "province": "普列索夫州",
+      "latitude": 49.3082,
+      "longitude": 21.5703,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "斯特罗普科夫",
+      "name_en": "Stropkov",
+      "province": "普列索夫州",
+      "latitude": 49.2021,
+      "longitude": 21.6522,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "菲拉科沃",
+      "name_en": "Fiľakovo",
+      "province": "班斯卡·比斯特理察州",
+      "latitude": 48.2676,
+      "longitude": 19.8247,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "班斯卡什佳夫尼察",
+      "name_en": "Banská Štiavnica",
+      "province": "班斯卡·比斯特理察州",
+      "latitude": 48.4486,
+      "longitude": 18.91,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "什图罗沃",
+      "name_en": "Štúrovo",
+      "province": "尼特拉州",
+      "latitude": 47.795,
+      "longitude": 18.7175,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "舒拉尼",
+      "name_en": "Šurany",
+      "province": "尼特拉州",
+      "latitude": 48.0861,
+      "longitude": 18.1845,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "莫德拉",
+      "name_en": "Modra",
+      "province": "布拉迪斯拉发州",
+      "latitude": 48.334,
+      "longitude": 17.3071,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Smižany",
+      "province": "科希策州",
+      "latitude": 48.9545,
+      "longitude": 20.5234,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "特夫尔多辛",
+      "name_en": "Tvrdošín",
+      "province": "日利纳州",
+      "latitude": 49.337,
+      "longitude": 19.556,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "克龙帕希",
+      "name_en": "Krompachy",
+      "province": "科希策州",
+      "latitude": 48.9145,
+      "longitude": 20.8751,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Bernolákovo",
+      "province": "布拉迪斯拉发州",
+      "latitude": 48.2007,
+      "longitude": 17.3019,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "塞乔夫采",
+      "name_en": "Sečovce",
+      "province": "科希策州",
+      "latitude": 48.7007,
+      "longitude": 21.661,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "大卡普沙尼",
+      "name_en": "Veľké Kapušany",
+      "province": "科希策州",
+      "latitude": 48.552,
+      "longitude": 22.0804,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Stará Turá",
+      "province": "Trenčín Region",
+      "latitude": 48.7772,
+      "longitude": 17.6943,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Vráble",
+      "province": "尼特拉州",
+      "latitude": 48.2437,
+      "longitude": 18.3085,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "大梅杰尔",
+      "name_en": "Veľký Meder",
+      "province": "特尔纳瓦州",
+      "latitude": 47.858,
+      "longitude": 17.7688,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Dunajská Lužná",
+      "province": "布拉迪斯拉发州",
+      "latitude": 48.0835,
+      "longitude": 17.2607,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Chorvátsky Grob - Čierna Voda",
+      "province": "布拉迪斯拉发州",
+      "latitude": 48.2249,
+      "longitude": 17.2324,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Lamač",
+      "province": "布拉迪斯拉发州",
+      "latitude": 48.193,
+      "longitude": 17.0508,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Svit",
+      "province": "普列索夫州",
+      "latitude": 49.0601,
+      "longitude": 20.2069,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "克鲁皮纳",
+      "name_en": "Krupina",
+      "province": "班斯卡·比斯特理察州",
+      "latitude": 48.3554,
+      "longitude": 19.0647,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "纳梅斯托沃",
+      "name_en": "Námestovo",
+      "province": "日利纳州",
+      "latitude": 49.4079,
+      "longitude": 19.4803,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "胡尔巴诺沃",
+      "name_en": "Hurbanovo",
+      "province": "尼特拉州",
+      "latitude": 47.8698,
+      "longitude": 18.1923,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "弗鲁特基",
+      "name_en": "Vrútky",
+      "province": "日利纳州",
+      "latitude": 49.1133,
+      "longitude": 18.9171,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "克拉洛夫斯基赫尔梅克",
+      "name_en": "Kráľovský Chlmec",
+      "province": "科希策州",
+      "latitude": 48.4234,
+      "longitude": 21.9794,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Jarovnice",
+      "province": "普列索夫州",
+      "latitude": 49.058,
+      "longitude": 21.0581,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Ivanka pri Dunaji",
+      "province": "布拉迪斯拉发州",
+      "latitude": 48.1868,
+      "longitude": 17.2554,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "赫里尼奥瓦",
+      "name_en": "Hriňová",
+      "province": "班斯卡·比斯特理察州",
+      "latitude": 48.5779,
+      "longitude": 19.5257,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "图尔佐夫卡",
+      "name_en": "Turzovka",
+      "province": "日利纳州",
+      "latitude": 49.4043,
+      "longitude": 18.6226,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "利普托夫堡",
+      "name_en": "Liptovský Hrádok",
+      "province": "日利纳州",
+      "latitude": 49.0396,
+      "longitude": 19.7233,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "特尔斯泰纳",
+      "name_en": "Trstená",
+      "province": "日利纳州",
+      "latitude": 49.361,
+      "longitude": 19.6125,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "沙希",
+      "name_en": "Šahy",
+      "province": "尼特拉州",
+      "latitude": 48.0741,
+      "longitude": 18.9495,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Veľký Šariš",
+      "province": "普列索夫州",
+      "latitude": 49.0411,
+      "longitude": 21.1993,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "新巴尼亚",
+      "name_en": "Nová Baňa",
+      "province": "班斯卡·比斯特理察州",
+      "latitude": 48.4231,
+      "longitude": 18.6404,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "托尔纳拉",
+      "name_en": "Tornaľa",
+      "province": "班斯卡·比斯特理察州",
+      "latitude": 48.4192,
+      "longitude": 20.3257,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "斯皮什斯卡贝拉",
+      "name_en": "Spišská Belá",
+      "province": "普列索夫州",
+      "latitude": 49.1872,
+      "longitude": 20.4595,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "赫努什佳",
+      "name_en": "Hnúšťa",
+      "province": "班斯卡·比斯特理察州",
+      "latitude": 48.5726,
+      "longitude": 19.9539,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "热列佐夫采",
+      "name_en": "Želiezovce",
+      "province": "尼特拉州",
+      "latitude": 48.0508,
+      "longitude": 18.6542,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Chorvátsky Grob",
+      "province": "布拉迪斯拉发州",
+      "latitude": 48.2279,
+      "longitude": 17.2909,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Krásno nad Kysucou",
+      "province": "日利纳州",
+      "latitude": 49.3957,
+      "longitude": 18.8343,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "利帕尼",
+      "name_en": "Lipany",
+      "province": "普列索夫州",
+      "latitude": 49.1538,
+      "longitude": 20.9638,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Nemšová",
+      "province": "Trenčín Region",
+      "latitude": 48.967,
+      "longitude": 18.1189,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "图尔钱斯凯特普利采",
+      "name_en": "Turčianske Teplice",
+      "province": "日利纳州",
+      "latitude": 48.8623,
+      "longitude": 18.8605,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Čaňa",
+      "province": "科希策州",
+      "latitude": 48.6099,
+      "longitude": 21.3262,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Beluša",
+      "province": "Trenčín Region",
+      "latitude": 49.0649,
+      "longitude": 18.3269,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "圣乔治",
+      "name_en": "Svätý Jur",
+      "province": "布拉迪斯拉发州",
+      "latitude": 48.2522,
+      "longitude": 17.2154,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "索布兰采",
+      "name_en": "Sobrance",
+      "province": "科希策州",
+      "latitude": 48.7445,
+      "longitude": 22.1814,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "盖尔尼察",
+      "name_en": "Gelnica",
+      "province": "科希策州",
+      "latitude": 48.8558,
+      "longitude": 20.9371,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Rajec",
+      "province": "日利纳州",
+      "latitude": 49.089,
+      "longitude": 18.6401,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "梅济拉博尔采",
+      "name_en": "Medzilaborce",
+      "province": "普列索夫州",
+      "latitude": 49.2719,
+      "longitude": 21.9007,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Oščadnica",
+      "province": "日利纳州",
+      "latitude": 49.4357,
+      "longitude": 18.8819,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "扎尔诺维察",
+      "name_en": "Žarnovica",
+      "province": "班斯卡·比斯特理察州",
+      "latitude": 48.4812,
+      "longitude": 18.7157,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "弗尔博韦",
+      "name_en": "Vrbové",
+      "province": "特尔纳瓦州",
+      "latitude": 48.6197,
+      "longitude": 17.7226,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Raková",
+      "province": "日利纳州",
+      "latitude": 49.4448,
+      "longitude": 18.7379,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Zákamenné",
+      "province": "日利纳州",
+      "latitude": 49.3886,
+      "longitude": 19.2929,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Bratislava - Vajnory",
+      "province": "布拉迪斯拉发州",
+      "latitude": 48.2056,
+      "longitude": 17.2076,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Rovinka",
+      "province": "布拉迪斯拉发州",
+      "latitude": 48.0978,
+      "longitude": 17.2363,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Lendak",
+      "province": "普列索夫州",
+      "latitude": 49.2344,
+      "longitude": 20.3565,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Sládkovičovo",
+      "province": "特尔纳瓦州",
+      "latitude": 48.2014,
+      "longitude": 17.6385,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "伊拉瓦",
+      "name_en": "Ilava",
+      "province": "Trenčín Region",
+      "latitude": 48.9977,
+      "longitude": 18.2353,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Šenkvice",
+      "province": "布拉迪斯拉发州",
+      "latitude": 48.2982,
+      "longitude": 17.3496,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Gabčíkovo",
+      "province": "特尔纳瓦州",
+      "latitude": 47.8921,
+      "longitude": 17.5788,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Skalité",
+      "province": "日利纳州",
+      "latitude": 49.4966,
+      "longitude": 18.8971,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "波尔塔尔",
+      "name_en": "Poltár",
+      "province": "班斯卡·比斯特理察州",
+      "latitude": 48.4309,
+      "longitude": 19.7941,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Rabča",
+      "province": "日利纳州",
+      "latitude": 49.486,
+      "longitude": 19.4762,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "多布希纳",
+      "name_en": "Dobšiná",
+      "province": "科希策州",
+      "latitude": 48.8207,
+      "longitude": 20.3699,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Tvrdošovce",
+      "province": "尼特拉州",
+      "latitude": 48.0945,
+      "longitude": 18.0669,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Slovenský Grob",
+      "province": "布拉迪斯拉发州",
+      "latitude": 48.2576,
+      "longitude": 17.2743,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Nesvady",
+      "province": "尼特拉州",
+      "latitude": 47.9282,
+      "longitude": 18.1268,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "博伊尼采",
+      "name_en": "Bojnice",
+      "province": "Trenčín Region",
+      "latitude": 48.7851,
+      "longitude": 18.5864,
+      "timezone": "Europe/Bratislava"
+    },
+    {
+      "name": "",
+      "name_en": "Dvory nad Žitavou",
+      "province": "尼特拉州",
+      "latitude": 47.9895,
+      "longitude": 18.2672,
+      "timezone": "Europe/Bratislava"
+    }
+  ]
+}

@@ -1,0 +1,726 @@
+{
+  "country_code": "MK",
+  "country_name": "前南马其顿",
+  "cities": [
+    {
+      "name": "斯科普里",
+      "name_en": "Skopje",
+      "province": "Grad Skopje",
+      "latitude": 41.9965,
+      "longitude": 21.4314,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "库马诺沃",
+      "name_en": "Kumanovo",
+      "province": "Kumanovo",
+      "latitude": 42.1328,
+      "longitude": 21.7158,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Prilep",
+      "province": "Prilep",
+      "latitude": 41.3456,
+      "longitude": 21.5537,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "比托拉",
+      "name_en": "Bitola",
+      "province": "Bitola",
+      "latitude": 41.0323,
+      "longitude": 21.3355,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Čair",
+      "province": "Grad Skopje",
+      "latitude": 42.0153,
+      "longitude": 21.4411,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "泰托沃",
+      "name_en": "Tetovo",
+      "province": "Tetovo",
+      "latitude": 42.0099,
+      "longitude": 20.9714,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Kisela Voda",
+      "province": "Grad Skopje",
+      "latitude": 41.9489,
+      "longitude": 21.5028,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "韦莱斯",
+      "name_en": "Veles",
+      "province": "Veles",
+      "latitude": 41.7172,
+      "longitude": 21.772,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "戈斯蒂瓦尔",
+      "name_en": "Gostivar",
+      "province": "戈斯蒂瓦尔",
+      "latitude": 41.7963,
+      "longitude": 20.908,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Shtip",
+      "province": "Shtip",
+      "latitude": 41.7458,
+      "longitude": 22.1958,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Centar Župa",
+      "province": "Centar Zhupa",
+      "latitude": 41.4785,
+      "longitude": 20.5594,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "奥赫里德",
+      "name_en": "Ohrid",
+      "province": "Ohrid",
+      "latitude": 41.117,
+      "longitude": 20.8017,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Gjorče Petro",
+      "province": "Grad Skopje",
+      "latitude": 42.0078,
+      "longitude": 21.3531,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "卡瓦达尔奇",
+      "name_en": "Kavadarci",
+      "province": "Kavadarci",
+      "latitude": 41.4334,
+      "longitude": 22.0122,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "斯特鲁加",
+      "name_en": "Struga",
+      "province": "Struga",
+      "latitude": 41.1779,
+      "longitude": 20.6789,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Butel",
+      "province": "Grad Skopje",
+      "latitude": 42.0308,
+      "longitude": 21.4467,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Kochani",
+      "province": "Kochani",
+      "latitude": 41.9164,
+      "longitude": 22.4128,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Strumica",
+      "province": "Strumica",
+      "latitude": 41.4376,
+      "longitude": 22.6429,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "基切沃",
+      "name_en": "Kičevo",
+      "province": "Kichevo",
+      "latitude": 41.5127,
+      "longitude": 20.9587,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Lipkovo",
+      "province": "Lipkovo",
+      "latitude": 42.157,
+      "longitude": 21.5856,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Zelino",
+      "province": "Zhelino",
+      "latitude": 41.9803,
+      "longitude": 21.0642,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Saraj",
+      "province": "Grad Skopje",
+      "latitude": 42.0,
+      "longitude": 21.3278,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Radovis",
+      "province": "Radovish",
+      "latitude": 41.6383,
+      "longitude": 22.4647,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Tearce",
+      "province": "泰阿尔采市镇",
+      "latitude": 42.0759,
+      "longitude": 21.0518,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Kriva Palanka",
+      "province": "Kriva Palanka",
+      "latitude": 42.202,
+      "longitude": 22.3339,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Šuto Orizare",
+      "province": "Grad Skopje",
+      "latitude": 42.04,
+      "longitude": 21.425,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "盖夫盖利亚",
+      "name_en": "Gevgelija",
+      "province": "Gevgelija",
+      "latitude": 41.1429,
+      "longitude": 22.5011,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "内戈蒂诺",
+      "name_en": "Negotino",
+      "province": "Negotino",
+      "latitude": 41.4846,
+      "longitude": 22.0906,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Studeničani",
+      "province": "Studenichani",
+      "latitude": 41.9221,
+      "longitude": 21.5348,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Vinica",
+      "province": "Vinica",
+      "latitude": 41.8812,
+      "longitude": 22.5107,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "德巴尔",
+      "name_en": "Debar",
+      "province": "Debar",
+      "latitude": 41.5229,
+      "longitude": 20.522,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Negotino",
+      "province": "Vrapchishte",
+      "latitude": 41.4846,
+      "longitude": 22.0906,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Delcevo",
+      "province": "Delchevo",
+      "latitude": 41.9672,
+      "longitude": 22.7694,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Resen",
+      "province": "雷森市镇",
+      "latitude": 41.09,
+      "longitude": 21.0088,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Ilinden",
+      "province": "伊林登市镇",
+      "latitude": 41.993,
+      "longitude": 21.5808,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Brvenica",
+      "province": "布尔韦尼察区",
+      "latitude": 41.9671,
+      "longitude": 20.9809,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Kamenjane",
+      "province": "Bogovinje",
+      "latitude": 41.9457,
+      "longitude": 20.9289,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Bogovinje",
+      "province": "Bogovinje",
+      "latitude": 41.9224,
+      "longitude": 20.9153,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Berovo",
+      "province": "Berovo",
+      "latitude": 41.7018,
+      "longitude": 22.8572,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Sveti Nikole",
+      "province": "圣尼古莱市镇",
+      "latitude": 41.8696,
+      "longitude": 21.9527,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Арачиново",
+      "province": "Arachinovo",
+      "latitude": 42.0268,
+      "longitude": 21.5628,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Probishtip",
+      "province": "Probishtip",
+      "latitude": 42.0031,
+      "longitude": 22.1786,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Cegrane",
+      "province": "戈斯蒂瓦尔",
+      "latitude": 41.8389,
+      "longitude": 20.9758,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Bosilovo",
+      "province": "博西洛沃市镇",
+      "latitude": 41.4406,
+      "longitude": 22.7279,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Vasilevo",
+      "province": "Vasilevo",
+      "latitude": 41.4742,
+      "longitude": 22.6451,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Zajas",
+      "province": "Kichevo",
+      "latitude": 41.6072,
+      "longitude": 20.9383,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Novo Selo",
+      "province": "Novo Selo",
+      "latitude": 41.4154,
+      "longitude": 22.8834,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Kondovo",
+      "province": "Grad Skopje",
+      "latitude": 42.0115,
+      "longitude": 21.3143,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Dolneni",
+      "province": "多尔内尼市镇",
+      "latitude": 41.4246,
+      "longitude": 21.4546,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Dračevo",
+      "province": "Grad Skopje",
+      "latitude": 41.9367,
+      "longitude": 21.5217,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Kratovo",
+      "province": "Kratovo",
+      "latitude": 42.0791,
+      "longitude": 22.1817,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Dolna Banjica",
+      "province": "戈斯蒂瓦尔",
+      "latitude": 41.7861,
+      "longitude": 20.9061,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Sopište",
+      "province": "Sopište",
+      "latitude": 41.9556,
+      "longitude": 21.4294,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Rostusa",
+      "province": "马夫罗沃和罗斯图沙市镇",
+      "latitude": 41.61,
+      "longitude": 20.6,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Radishani",
+      "province": "Grad Skopje",
+      "latitude": 42.0611,
+      "longitude": 21.4478,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Labunista",
+      "province": "Struga",
+      "latitude": 41.2686,
+      "longitude": 20.5961,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Vrapčište",
+      "province": "Vrapchishte",
+      "latitude": 41.8348,
+      "longitude": 20.8857,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Chucher-Sandevo",
+      "province": "Chucher Sandevo",
+      "latitude": 42.1036,
+      "longitude": 21.3822,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Velesta",
+      "province": "Struga",
+      "latitude": 41.2408,
+      "longitude": 20.6439,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Bogdanci",
+      "province": "波格丹齐市镇",
+      "latitude": 41.2036,
+      "longitude": 22.5759,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Delogožda",
+      "province": "Struga",
+      "latitude": 41.2573,
+      "longitude": 20.7218,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Петровец",
+      "province": "Petrovec",
+      "latitude": 41.9389,
+      "longitude": 21.615,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Šipkovica",
+      "province": "Tetovo",
+      "latitude": 42.035,
+      "longitude": 20.9156,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Džepčište",
+      "province": "Tetovo",
+      "latitude": 42.0329,
+      "longitude": 20.9982,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Makedonska Kamenica",
+      "province": "马其顿卡梅尼察市镇",
+      "latitude": 42.0214,
+      "longitude": 22.5898,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Jegunovce",
+      "province": "耶古诺夫采区",
+      "latitude": 42.0724,
+      "longitude": 21.1231,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Vrutok",
+      "province": "戈斯蒂瓦尔",
+      "latitude": 41.7686,
+      "longitude": 20.8392,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Krivogashtani",
+      "province": "Krivogashtani",
+      "latitude": 41.3361,
+      "longitude": 21.3331,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "马其顿布罗德",
+      "name_en": "Makedonski Brod",
+      "province": "Makedonski Brod",
+      "latitude": 41.5133,
+      "longitude": 21.2164,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Krusevo",
+      "province": "Krushevo",
+      "latitude": 41.3689,
+      "longitude": 21.2489,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Plasnica",
+      "province": "普拉斯尼察市镇",
+      "latitude": 41.4679,
+      "longitude": 21.1227,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Demir Kapija",
+      "province": "Demir Kapija",
+      "latitude": 41.4063,
+      "longitude": 22.2431,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Mogila",
+      "province": "Mogila",
+      "latitude": 41.1081,
+      "longitude": 21.379,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Старо Нагоричане",
+      "province": "Staro Nagorichane",
+      "latitude": 42.1981,
+      "longitude": 21.8286,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Rosoman",
+      "province": "罗索曼市镇",
+      "latitude": 41.5167,
+      "longitude": 21.9459,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Rankovce",
+      "province": "Rankovce",
+      "latitude": 42.1696,
+      "longitude": 22.1162,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Zelenikovo",
+      "province": "Zelenikovo",
+      "latitude": 41.8838,
+      "longitude": 21.5896,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Karbinci",
+      "province": "卡尔宾齐市镇",
+      "latitude": 41.8177,
+      "longitude": 22.2325,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "瓦兰多沃",
+      "name_en": "Valandovo",
+      "province": "瓦兰多沃市镇",
+      "latitude": 41.3176,
+      "longitude": 22.563,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Gradsko",
+      "province": "格拉德斯科市镇",
+      "latitude": 41.5785,
+      "longitude": 21.9426,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Konče",
+      "province": "Konche",
+      "latitude": 41.4953,
+      "longitude": 22.3855,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Star Dojran",
+      "province": "Dojran",
+      "latitude": 41.1869,
+      "longitude": 22.7186,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Zrnovci",
+      "province": "兹尔诺夫齐市镇",
+      "latitude": 41.8554,
+      "longitude": 22.4445,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Čaška",
+      "province": "查什卡市镇",
+      "latitude": 41.6506,
+      "longitude": 21.6622,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Lozovo",
+      "province": "洛佐沃市镇",
+      "latitude": 41.7836,
+      "longitude": 21.9062,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Belčišta",
+      "province": "德巴尔察市镇",
+      "latitude": 41.3035,
+      "longitude": 20.8299,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Pehčevo",
+      "province": "Pehchevo",
+      "latitude": 41.7625,
+      "longitude": 22.8898,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "",
+      "name_en": "Vevčani",
+      "province": "Vevchani",
+      "latitude": 41.2404,
+      "longitude": 20.5928,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "诺瓦齐区",
+      "name_en": "Novaci",
+      "province": "Novaci",
+      "latitude": 41.042,
+      "longitude": 21.4587,
+      "timezone": "Europe/Skopje"
+    },
+    {
+      "name": "德米尔希萨尔",
+      "name_en": "Demir Hisar",
+      "province": "Demir Hisar",
+      "latitude": 41.2203,
+      "longitude": 21.204,
+      "timezone": "Europe/Skopje"
+    }
+  ]
+}

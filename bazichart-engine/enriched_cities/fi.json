@@ -1,0 +1,2726 @@
+{
+  "country_code": "FI",
+  "country_name": "芬兰",
+  "cities": [
+    {
+      "name": "赫尔辛基",
+      "name_en": "Helsinki",
+      "province": "新地区",
+      "latitude": 60.1695,
+      "longitude": 24.9354,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "埃斯波",
+      "name_en": "Espoo",
+      "province": "新地区",
+      "latitude": 60.2052,
+      "longitude": 24.6522,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "坦佩雷",
+      "name_en": "Tampere",
+      "province": "皮尔卡区",
+      "latitude": 61.4991,
+      "longitude": 23.7871,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "万塔",
+      "name_en": "Vantaa",
+      "province": "新地区",
+      "latitude": 60.2941,
+      "longitude": 25.041,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "奥卢",
+      "name_en": "Oulu",
+      "province": "北博滕区",
+      "latitude": 65.0124,
+      "longitude": 25.4682,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "图尔库",
+      "name_en": "Turku",
+      "province": "西南芬兰区",
+      "latitude": 60.4515,
+      "longitude": 22.2687,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "East Helsinki",
+      "province": "新地区",
+      "latitude": 60.2104,
+      "longitude": 25.0829,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "于韦斯屈莱",
+      "name_en": "Jyväskylä",
+      "province": "Central Finland",
+      "latitude": 62.2415,
+      "longitude": 25.7209,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "库奥皮奥",
+      "name_en": "Kuopio",
+      "province": "北萨沃区",
+      "latitude": 62.8924,
+      "longitude": 27.677,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "拉赫蒂",
+      "name_en": "Lahti",
+      "province": "Paijat-Hame",
+      "latitude": 60.9827,
+      "longitude": 25.6615,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "波里",
+      "name_en": "Pori",
+      "province": "萨塔昆塔区",
+      "latitude": 61.4807,
+      "longitude": 21.7852,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "约恩苏",
+      "name_en": "Joensuu",
+      "province": "北卡累利阿区",
+      "latitude": 62.6012,
+      "longitude": 29.7632,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "科沃拉",
+      "name_en": "Kouvola",
+      "province": "屈米河谷区",
+      "latitude": 60.8667,
+      "longitude": 26.7,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "拉普兰大",
+      "name_en": "Lappeenranta",
+      "province": "South Karelia",
+      "latitude": 61.0587,
+      "longitude": 28.1887,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "瓦萨",
+      "name_en": "Vaasa",
+      "province": "博滕区",
+      "latitude": 63.096,
+      "longitude": 21.6158,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "海门林纳",
+      "name_en": "Hämeenlinna",
+      "province": "坎塔海梅区",
+      "latitude": 60.996,
+      "longitude": 24.4643,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "塞伊奈约基",
+      "name_en": "Seinäjoki",
+      "province": "南博滕区",
+      "latitude": 62.7945,
+      "longitude": 22.8282,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "罗瓦涅米",
+      "name_en": "Rovaniemi",
+      "province": "拉普兰区",
+      "latitude": 66.499,
+      "longitude": 25.6887,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "波尔沃",
+      "name_en": "Porvoo",
+      "province": "新地区",
+      "latitude": 60.3923,
+      "longitude": 25.6651,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "米凯利",
+      "name_en": "Mikkeli",
+      "province": "南萨沃区",
+      "latitude": 61.6886,
+      "longitude": 27.2723,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "萨洛",
+      "name_en": "Salo",
+      "province": "西南芬兰区",
+      "latitude": 60.3833,
+      "longitude": 23.1333,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "科特卡",
+      "name_en": "Kotka",
+      "province": "屈米河谷区",
+      "latitude": 60.4664,
+      "longitude": 26.9458,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "科科拉",
+      "name_en": "Kokkola",
+      "province": "中博滕区",
+      "latitude": 63.8385,
+      "longitude": 23.1307,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "耶尔文佩",
+      "name_en": "Järvenpää",
+      "province": "新地区",
+      "latitude": 60.4737,
+      "longitude": 25.0899,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "洛赫亚",
+      "name_en": "Lohja",
+      "province": "新地区",
+      "latitude": 60.2486,
+      "longitude": 24.0653,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "努尔米耶尔维",
+      "name_en": "Nurmijärvi",
+      "province": "新地区",
+      "latitude": 60.4641,
+      "longitude": 24.8073,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Hyvinge",
+      "province": "新地区",
+      "latitude": 60.6333,
+      "longitude": 24.8667,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "图苏拉",
+      "name_en": "Tuusula",
+      "province": "新地区",
+      "latitude": 60.4037,
+      "longitude": 25.0264,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "基尔科努米",
+      "name_en": "Kirkkonummi",
+      "province": "新地区",
+      "latitude": 60.1238,
+      "longitude": 24.4385,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Vuosaari",
+      "province": "新地区",
+      "latitude": 60.2096,
+      "longitude": 25.142,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "劳马",
+      "name_en": "Rauma",
+      "province": "萨塔昆塔区",
+      "latitude": 61.1272,
+      "longitude": 21.5113,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "凯拉瓦",
+      "name_en": "Kerava",
+      "province": "新地区",
+      "latitude": 60.4034,
+      "longitude": 25.105,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Kaarina",
+      "province": "西南芬兰区",
+      "latitude": 60.4072,
+      "longitude": 22.369,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "诺基亚",
+      "name_en": "Nokia",
+      "province": "皮尔卡区",
+      "latitude": 61.4667,
+      "longitude": 23.5,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "卡亚尼",
+      "name_en": "Kajaani",
+      "province": "凯努区",
+      "latitude": 64.2273,
+      "longitude": 27.7285,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Mellunkylä",
+      "province": "新地区",
+      "latitude": 60.2336,
+      "longitude": 25.0995,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "坎加萨拉",
+      "name_en": "Kangasala",
+      "province": "皮尔卡区",
+      "latitude": 61.4638,
+      "longitude": 24.076,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Ylöjärvi",
+      "province": "皮尔卡区",
+      "latitude": 61.5563,
+      "longitude": 23.5961,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "萨翁林纳",
+      "name_en": "Savonlinna",
+      "province": "南萨沃区",
+      "latitude": 61.8699,
+      "longitude": 28.88,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Vartiokylä",
+      "province": "新地区",
+      "latitude": 60.218,
+      "longitude": 25.0957,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "维赫蒂",
+      "name_en": "Vihti",
+      "province": "新地区",
+      "latitude": 60.417,
+      "longitude": 24.3196,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "里希迈基",
+      "name_en": "Riihimäki",
+      "province": "坎塔海梅区",
+      "latitude": 60.7377,
+      "longitude": 24.7773,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Leppävaara",
+      "province": "新地区",
+      "latitude": 60.2128,
+      "longitude": 24.8135,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Haaga",
+      "province": "新地区",
+      "latitude": 60.2213,
+      "longitude": 24.8976,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Kallio",
+      "province": "新地区",
+      "latitude": 60.1843,
+      "longitude": 24.9503,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "拉塞博格",
+      "name_en": "Raseborg",
+      "province": "新地区",
+      "latitude": 59.9774,
+      "longitude": 23.4397,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Kaarela",
+      "province": "新地区",
+      "latitude": 60.2517,
+      "longitude": 24.8811,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Herttoniemi",
+      "province": "新地区",
+      "latitude": 60.1947,
+      "longitude": 25.0354,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "拉伊西奥",
+      "name_en": "Raisio",
+      "province": "西南芬兰区",
+      "latitude": 60.4859,
+      "longitude": 22.1689,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Hervanta",
+      "province": "皮尔卡区",
+      "latitude": 61.4479,
+      "longitude": 23.853,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "伦派莱",
+      "name_en": "Lempäälä",
+      "province": "皮尔卡区",
+      "latitude": 61.3167,
+      "longitude": 23.75,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "伊马特拉",
+      "name_en": "Imatra",
+      "province": "South Karelia",
+      "latitude": 61.1718,
+      "longitude": 28.7524,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Sastamala",
+      "province": "皮尔卡区",
+      "latitude": 61.3494,
+      "longitude": 22.9093,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Oulunkylä",
+      "province": "新地区",
+      "latitude": 60.2292,
+      "longitude": 24.964,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "拉赫",
+      "name_en": "Raahe",
+      "province": "北博滕区",
+      "latitude": 64.6833,
+      "longitude": 24.4833,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Sibbo",
+      "province": "新地区",
+      "latitude": 60.3775,
+      "longitude": 25.2691,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Karhula",
+      "province": "屈米河谷区",
+      "latitude": 60.5216,
+      "longitude": 26.9312,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Hollola",
+      "province": "Paijat-Hame",
+      "latitude": 61.0,
+      "longitude": 25.5,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Matinkylä",
+      "province": "新地区",
+      "latitude": 60.1589,
+      "longitude": 24.7424,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Laajasalo",
+      "province": "新地区",
+      "latitude": 60.1752,
+      "longitude": 25.0309,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "锡林耶尔维",
+      "name_en": "Siilinjärvi",
+      "province": "北萨沃区",
+      "latitude": 63.0833,
+      "longitude": 27.6667,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Pirkkala",
+      "province": "皮尔卡区",
+      "latitude": 61.4612,
+      "longitude": 23.6323,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "克劳卡拉",
+      "name_en": "Klaukkala",
+      "province": "新地区",
+      "latitude": 60.3824,
+      "longitude": 24.751,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "曼采莱",
+      "name_en": "Mäntsälä",
+      "province": "新地区",
+      "latitude": 60.6333,
+      "longitude": 25.3167,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "托尔尼奥",
+      "name_en": "Tornio",
+      "province": "拉普兰区",
+      "latitude": 65.8481,
+      "longitude": 24.1466,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "瓦尔凯阿科斯基",
+      "name_en": "Valkeakoski",
+      "province": "皮尔卡区",
+      "latitude": 61.2642,
+      "longitude": 24.0312,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Lieto",
+      "province": "西南芬兰区",
+      "latitude": 60.5103,
+      "longitude": 22.4618,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Hollola",
+      "province": "Paijat-Hame",
+      "latitude": 61.0,
+      "longitude": 25.5,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "伊萨尔米",
+      "name_en": "Iisalmi",
+      "province": "北萨沃区",
+      "latitude": 63.5592,
+      "longitude": 27.1907,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Naantali",
+      "province": "西南芬兰区",
+      "latitude": 60.4674,
+      "longitude": 22.0243,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Lauttasaari",
+      "province": "新地区",
+      "latitude": 60.159,
+      "longitude": 24.868,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Suutarila",
+      "province": "新地区",
+      "latitude": 60.28,
+      "longitude": 25.0176,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "雅各布斯塔德",
+      "name_en": "Jakobstad",
+      "province": "博滕区",
+      "latitude": 63.6749,
+      "longitude": 22.7026,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "瓦尔考斯",
+      "name_en": "Varkaus",
+      "province": "北萨沃区",
+      "latitude": 62.3153,
+      "longitude": 27.873,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Kurikka",
+      "province": "南博滕区",
+      "latitude": 62.6167,
+      "longitude": 22.4167,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "凯米",
+      "name_en": "Kemi",
+      "province": "拉普兰区",
+      "latitude": 65.7364,
+      "longitude": 24.5637,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "哈米纳",
+      "name_en": "Hamina",
+      "province": "屈米河谷区",
+      "latitude": 60.5697,
+      "longitude": 27.1979,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "耶姆赛",
+      "name_en": "Jämsä",
+      "province": "Central Finland",
+      "latitude": 61.8642,
+      "longitude": 25.19,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "劳卡",
+      "name_en": "Laukaa",
+      "province": "Central Finland",
+      "latitude": 62.4141,
+      "longitude": 25.9519,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Myyrmäki",
+      "province": "新地区",
+      "latitude": 60.2671,
+      "longitude": 24.8471,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Pitäjänmäki",
+      "province": "新地区",
+      "latitude": 60.2229,
+      "longitude": 24.861,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Heinola",
+      "province": "Paijat-Hame",
+      "latitude": 61.2056,
+      "longitude": 26.0381,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Espoonlahti",
+      "province": "新地区",
+      "latitude": 60.1505,
+      "longitude": 24.6531,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "艾内科斯基",
+      "name_en": "Äänekoski",
+      "province": "Central Finland",
+      "latitude": 62.6,
+      "longitude": 25.7333,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Munkkiniemi",
+      "province": "新地区",
+      "latitude": 60.1986,
+      "longitude": 24.8777,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "豪基普达斯",
+      "name_en": "Haukipudas",
+      "province": "北博滕区",
+      "latitude": 65.1765,
+      "longitude": 25.3523,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "皮耶克赛迈基",
+      "name_en": "Pieksämäki",
+      "province": "南萨沃区",
+      "latitude": 62.3,
+      "longitude": 27.1333,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Korsholm",
+      "province": "博滕区",
+      "latitude": 63.1142,
+      "longitude": 21.6822,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Olari",
+      "province": "新地区",
+      "latitude": 60.1724,
+      "longitude": 24.7271,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Anjala",
+      "province": "屈米河谷区",
+      "latitude": 60.6833,
+      "longitude": 26.8333,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "瓦马拉",
+      "name_en": "Vammala",
+      "province": "皮尔卡区",
+      "latitude": 61.3333,
+      "longitude": 22.9,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Suurmetsä",
+      "province": "新地区",
+      "latitude": 60.2696,
+      "longitude": 25.054,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "福尔萨",
+      "name_en": "Forssa",
+      "province": "坎塔海梅区",
+      "latitude": 60.8146,
+      "longitude": 23.6215,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Pohjois-Hervanta",
+      "province": "皮尔卡区",
+      "latitude": 61.4535,
+      "longitude": 23.8474,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "亚维卡拉",
+      "name_en": "Janakkala",
+      "province": "坎塔海梅区",
+      "latitude": 60.9,
+      "longitude": 24.6,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "奥里马蒂拉",
+      "name_en": "Orimattila",
+      "province": "Paijat-Hame",
+      "latitude": 60.8049,
+      "longitude": 25.7296,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Väståboland",
+      "province": "西南芬兰区",
+      "latitude": 60.2997,
+      "longitude": 22.3004,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Ylivieska",
+      "province": "北博滕区",
+      "latitude": 64.0833,
+      "longitude": 24.55,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Taka-Töölö",
+      "province": "新地区",
+      "latitude": 60.1843,
+      "longitude": 24.9195,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "洛伊马",
+      "name_en": "Loimaa",
+      "province": "西南芬兰区",
+      "latitude": 60.8497,
+      "longitude": 23.0561,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Viikki",
+      "province": "新地区",
+      "latitude": 60.2218,
+      "longitude": 25.0239,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "孔蒂奥拉赫蒂",
+      "name_en": "Kontiolahti",
+      "province": "北卡累利阿区",
+      "latitude": 62.7602,
+      "longitude": 29.8471,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "考哈瓦",
+      "name_en": "Kauhava",
+      "province": "南博滕区",
+      "latitude": 63.103,
+      "longitude": 23.0713,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Sörnäinen",
+      "province": "新地区",
+      "latitude": 60.1864,
+      "longitude": 24.9651,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Nastola",
+      "province": "Paijat-Hame",
+      "latitude": 60.948,
+      "longitude": 25.9288,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "库萨莫",
+      "name_en": "Kuusamo",
+      "province": "北博滕区",
+      "latitude": 65.9645,
+      "longitude": 29.1888,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "新考蓬基",
+      "name_en": "Uusikaupunki",
+      "province": "西南芬兰区",
+      "latitude": 60.8004,
+      "longitude": 21.4084,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Etu-Töölö",
+      "province": "新地区",
+      "latitude": 60.173,
+      "longitude": 24.9251,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Jätkäsaari",
+      "province": "新地区",
+      "latitude": 60.1586,
+      "longitude": 24.9169,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Länsisatama",
+      "province": "新地区",
+      "latitude": 60.1553,
+      "longitude": 24.9147,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Ekenäs",
+      "province": "新地区",
+      "latitude": 59.9736,
+      "longitude": 23.4339,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Lovisa",
+      "province": "新地区",
+      "latitude": 60.4566,
+      "longitude": 26.225,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Tapaninkylä",
+      "province": "新地区",
+      "latitude": 60.2638,
+      "longitude": 24.9956,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Kempele",
+      "province": "北博滕区",
+      "latitude": 64.9131,
+      "longitude": 25.5034,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Kontula",
+      "province": "新地区",
+      "latitude": 60.2376,
+      "longitude": 25.0839,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "拉普阿",
+      "name_en": "Lapua",
+      "province": "南博滕区",
+      "latitude": 62.9693,
+      "longitude": 23.0088,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Martinlaakso",
+      "province": "新地区",
+      "latitude": 60.2741,
+      "longitude": 24.8507,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Tapiola",
+      "province": "新地区",
+      "latitude": 60.1764,
+      "longitude": 24.8085,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Uppby",
+      "province": "新地区",
+      "latitude": 60.1767,
+      "longitude": 25.0536,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Kannelmäki",
+      "province": "新地区",
+      "latitude": 60.2418,
+      "longitude": 24.8858,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Pasila",
+      "province": "新地区",
+      "latitude": 60.199,
+      "longitude": 24.9322,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Myllypuro",
+      "province": "新地区",
+      "latitude": 60.2221,
+      "longitude": 25.0674,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Kaukajärvi",
+      "province": "皮尔卡区",
+      "latitude": 61.4675,
+      "longitude": 23.8849,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "坎康佩",
+      "name_en": "Kankaanpää",
+      "province": "萨塔昆塔区",
+      "latitude": 61.8,
+      "longitude": 22.4167,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Etelä-Haaga",
+      "province": "新地区",
+      "latitude": 60.2135,
+      "longitude": 24.8954,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "考哈约基",
+      "name_en": "Kauhajoki",
+      "province": "南博滕区",
+      "latitude": 62.4333,
+      "longitude": 22.1833,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Ilmajoki",
+      "province": "南博滕区",
+      "latitude": 62.7333,
+      "longitude": 22.5667,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Hakunila",
+      "province": "新地区",
+      "latitude": 60.2782,
+      "longitude": 25.1034,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "乌尔维拉",
+      "name_en": "Ulvila",
+      "province": "萨塔昆塔区",
+      "latitude": 61.4284,
+      "longitude": 21.871,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "卡拉约基",
+      "name_en": "Kalajoki",
+      "province": "北博滕区",
+      "latitude": 64.25,
+      "longitude": 23.95,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Kamppi",
+      "province": "新地区",
+      "latitude": 60.1676,
+      "longitude": 24.9304,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Kiiminki",
+      "province": "北博滕区",
+      "latitude": 65.1314,
+      "longitude": 25.7974,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Pargas",
+      "province": "西南芬兰区",
+      "latitude": 60.2997,
+      "longitude": 22.3004,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "利佩里",
+      "name_en": "Liperi",
+      "province": "北卡累利阿区",
+      "latitude": 62.5333,
+      "longitude": 29.3667,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Alppiharju",
+      "province": "新地区",
+      "latitude": 60.1891,
+      "longitude": 24.9488,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Hervanta luode",
+      "province": "皮尔卡区",
+      "latitude": 61.4507,
+      "longitude": 23.8353,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "佩代尔瑟雷",
+      "name_en": "Pedersöre",
+      "province": "博滕区",
+      "latitude": 63.65,
+      "longitude": 22.6833,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Laaksolahti",
+      "province": "新地区",
+      "latitude": 60.2416,
+      "longitude": 24.7585,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "帕伊米奥",
+      "name_en": "Paimio",
+      "province": "西南芬兰区",
+      "latitude": 60.4567,
+      "longitude": 22.6869,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Kivistö",
+      "province": "新地区",
+      "latitude": 60.3257,
+      "longitude": 24.8384,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Saunalahti",
+      "province": "新地区",
+      "latitude": 60.1631,
+      "longitude": 24.6201,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Eura",
+      "province": "萨塔昆塔区",
+      "latitude": 61.1333,
+      "longitude": 22.1333,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Nöykkiö",
+      "province": "新地区",
+      "latitude": 60.1607,
+      "longitude": 24.6681,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Ullanlinna",
+      "province": "新地区",
+      "latitude": 60.1575,
+      "longitude": 24.9489,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Pakila",
+      "province": "新地区",
+      "latitude": 60.2433,
+      "longitude": 24.9487,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Alavus",
+      "province": "南博滕区",
+      "latitude": 62.5833,
+      "longitude": 23.6167,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Muurame",
+      "province": "Central Finland",
+      "latitude": 62.1333,
+      "longitude": 25.6667,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Joutseno",
+      "province": "South Karelia",
+      "latitude": 61.118,
+      "longitude": 28.5076,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Kilo",
+      "province": "新地区",
+      "latitude": 60.2175,
+      "longitude": 24.7815,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Lintuvaara",
+      "province": "新地区",
+      "latitude": 60.2344,
+      "longitude": 24.8135,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Nivala",
+      "province": "北博滕区",
+      "latitude": 63.9167,
+      "longitude": 24.9667,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Vallila",
+      "province": "新地区",
+      "latitude": 60.1945,
+      "longitude": 24.9571,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Patola",
+      "province": "新地区",
+      "latitude": 60.2326,
+      "longitude": 24.9537,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "海门屈勒",
+      "name_en": "Hämeenkyrö",
+      "province": "皮尔卡区",
+      "latitude": 61.6391,
+      "longitude": 23.1953,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Älajärvi",
+      "province": "南博滕区",
+      "latitude": 63.0003,
+      "longitude": 23.8159,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "考尼艾宁",
+      "name_en": "Kauniainen",
+      "province": "新地区",
+      "latitude": 60.2121,
+      "longitude": 24.7276,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Liminka",
+      "province": "北博滕区",
+      "latitude": 64.8098,
+      "longitude": 25.4154,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "索特卡莫",
+      "name_en": "Sotkamo",
+      "province": "凯努区",
+      "latitude": 64.1333,
+      "longitude": 28.4167,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Pakkala",
+      "province": "新地区",
+      "latitude": 60.2861,
+      "longitude": 24.9573,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "列克萨",
+      "name_en": "Lieksa",
+      "province": "北卡累利阿区",
+      "latitude": 63.3167,
+      "longitude": 30.0167,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "汉科",
+      "name_en": "Hanko",
+      "province": "新地区",
+      "latitude": 59.8333,
+      "longitude": 22.95,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "伊镇",
+      "name_en": "Ii",
+      "province": "北博滕区",
+      "latitude": 65.3174,
+      "longitude": 25.3731,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Pohjois-Haaga",
+      "province": "新地区",
+      "latitude": 60.2269,
+      "longitude": 24.896,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Masku",
+      "province": "西南芬兰区",
+      "latitude": 60.5708,
+      "longitude": 22.0988,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "胡伊蒂宁",
+      "name_en": "Huittinen",
+      "province": "萨塔昆塔区",
+      "latitude": 61.1833,
+      "longitude": 22.7,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Latokartano",
+      "province": "新地区",
+      "latitude": 60.2262,
+      "longitude": 25.0269,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Linjat",
+      "province": "新地区",
+      "latitude": 60.1833,
+      "longitude": 24.9465,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "奈尔珀斯",
+      "name_en": "Närpes",
+      "province": "博滕区",
+      "latitude": 62.4728,
+      "longitude": 21.3371,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Oulunsalo",
+      "province": "北博滕区",
+      "latitude": 64.9346,
+      "longitude": 25.4112,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "基泰",
+      "name_en": "Kitee",
+      "province": "北卡累利阿区",
+      "latitude": 62.1,
+      "longitude": 30.15,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Herttoniemenranta",
+      "province": "新地区",
+      "latitude": 60.1906,
+      "longitude": 25.0369,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Halikko",
+      "province": "西南芬兰区",
+      "latitude": 60.4,
+      "longitude": 23.0833,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Mellunmäki",
+      "province": "新地区",
+      "latitude": 60.2375,
+      "longitude": 25.1155,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Vanha munkkiniemi",
+      "province": "新地区",
+      "latitude": 60.198,
+      "longitude": 24.876,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Punavuori",
+      "province": "新地区",
+      "latitude": 60.1614,
+      "longitude": 24.9367,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Etelä-Hervanta",
+      "province": "皮尔卡区",
+      "latitude": 61.4442,
+      "longitude": 23.8565,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "凯乌鲁",
+      "name_en": "Keuruu",
+      "province": "Central Finland",
+      "latitude": 62.2667,
+      "longitude": 24.7,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Eurajoki",
+      "province": "萨塔昆塔区",
+      "latitude": 61.2,
+      "longitude": 21.7333,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Saarenkylä",
+      "province": "拉普兰区",
+      "latitude": 66.5192,
+      "longitude": 25.7674,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Leppävirta",
+      "province": "北萨沃区",
+      "latitude": 62.4901,
+      "longitude": 27.7826,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Niittykumpu",
+      "province": "新地区",
+      "latitude": 60.1709,
+      "longitude": 24.7642,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "努尔梅斯",
+      "name_en": "Nurmes",
+      "province": "北卡累利阿区",
+      "latitude": 63.5421,
+      "longitude": 29.1396,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Lapinlahti",
+      "province": "北萨沃区",
+      "latitude": 63.3667,
+      "longitude": 27.4,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "卡里斯",
+      "name_en": "Karis",
+      "province": "新地区",
+      "latitude": 60.0718,
+      "longitude": 23.6616,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "奥里韦西",
+      "name_en": "Orivesi",
+      "province": "皮尔卡区",
+      "latitude": 61.6777,
+      "longitude": 24.3572,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "萨里耶尔维",
+      "name_en": "Saarijärvi",
+      "province": "Central Finland",
+      "latitude": 62.7049,
+      "longitude": 25.254,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "蒂库里拉",
+      "name_en": "Tikkurila",
+      "province": "新地区",
+      "latitude": 60.2935,
+      "longitude": 25.0376,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "阿拉耶尔维",
+      "name_en": "Alajärvi",
+      "province": "南博滕区",
+      "latitude": 63.0,
+      "longitude": 23.8167,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Elimäki",
+      "province": "屈米河谷区",
+      "latitude": 60.7167,
+      "longitude": 26.4667,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Toukola",
+      "province": "新地区",
+      "latitude": 60.2064,
+      "longitude": 24.9712,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Tapulikaupunki",
+      "province": "新地区",
+      "latitude": 60.2752,
+      "longitude": 25.0216,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Jalasjärvi",
+      "province": "南博滕区",
+      "latitude": 62.4902,
+      "longitude": 22.759,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Länsi-Herttoniemi",
+      "province": "新地区",
+      "latitude": 60.2074,
+      "longitude": 25.0398,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Tuomarinkylä",
+      "province": "新地区",
+      "latitude": 60.2566,
+      "longitude": 24.9672,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Havukoski",
+      "province": "新地区",
+      "latitude": 60.3216,
+      "longitude": 25.0717,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Pukinmäki",
+      "province": "新地区",
+      "latitude": 60.2448,
+      "longitude": 24.989,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Vattuniemi",
+      "province": "新地区",
+      "latitude": 60.1503,
+      "longitude": 24.8825,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Malminkartano",
+      "province": "新地区",
+      "latitude": 60.2474,
+      "longitude": 24.8616,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Laitila",
+      "province": "西南芬兰区",
+      "latitude": 60.8757,
+      "longitude": 21.6976,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Mankkaa",
+      "province": "新地区",
+      "latitude": 60.1942,
+      "longitude": 24.77,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Hämeenkylä",
+      "province": "新地区",
+      "latitude": 60.2712,
+      "longitude": 24.8001,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "索梅罗",
+      "name_en": "Somero",
+      "province": "西南芬兰区",
+      "latitude": 60.6167,
+      "longitude": 23.5333,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Kivenlahti",
+      "province": "新地区",
+      "latitude": 60.1537,
+      "longitude": 24.6326,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "卡尔基拉",
+      "name_en": "Karkkila",
+      "province": "新地区",
+      "latitude": 60.5342,
+      "longitude": 24.2098,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Toijala",
+      "province": "皮尔卡区",
+      "latitude": 61.1678,
+      "longitude": 23.8382,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Akaa",
+      "province": "皮尔卡区",
+      "latitude": 61.1667,
+      "longitude": 23.8667,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Siltamäki",
+      "province": "新地区",
+      "latitude": 60.2781,
+      "longitude": 24.9834,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Muhos",
+      "province": "北博滕区",
+      "latitude": 64.808,
+      "longitude": 25.9931,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Simonkylä",
+      "province": "新地区",
+      "latitude": 60.31,
+      "longitude": 25.0301,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "I kaupunginosa",
+      "province": "西南芬兰区",
+      "latitude": 60.4522,
+      "longitude": 22.283,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Käpylä",
+      "province": "新地区",
+      "latitude": 60.2129,
+      "longitude": 24.9482,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Soukka",
+      "province": "新地区",
+      "latitude": 60.1416,
+      "longitude": 24.6713,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "索丹屈莱",
+      "name_en": "Sodankylä",
+      "province": "拉普兰区",
+      "latitude": 67.4167,
+      "longitude": 26.6,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Aurinkolahti",
+      "province": "新地区",
+      "latitude": 60.2033,
+      "longitude": 25.1532,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Laihia",
+      "province": "博滕区",
+      "latitude": 62.9761,
+      "longitude": 22.0114,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Pöytyä",
+      "province": "西南芬兰区",
+      "latitude": 60.7667,
+      "longitude": 22.6667,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Viertola",
+      "province": "新地区",
+      "latitude": 60.2914,
+      "longitude": 25.0101,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Tapaninvainio",
+      "province": "新地区",
+      "latitude": 60.26,
+      "longitude": 24.9824,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Hausjärvi",
+      "province": "坎塔海梅区",
+      "latitude": 60.7833,
+      "longitude": 24.9333,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Asikkala",
+      "province": "Paijat-Hame",
+      "latitude": 61.2167,
+      "longitude": 25.5,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Roihuvuori",
+      "province": "新地区",
+      "latitude": 60.2017,
+      "longitude": 25.0601,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Nurmijärven kirkonkylä",
+      "province": "新地区",
+      "latitude": 60.4596,
+      "longitude": 24.8063,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Tuira",
+      "province": "北博滕区",
+      "latitude": 65.0261,
+      "longitude": 25.4706,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Henttaa",
+      "province": "新地区",
+      "latitude": 60.1903,
+      "longitude": 24.727,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Kotkavuori",
+      "province": "新地区",
+      "latitude": 60.1631,
+      "longitude": 24.8841,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Toppila",
+      "province": "北博滕区",
+      "latitude": 65.0384,
+      "longitude": 25.4433,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Loppi",
+      "province": "坎塔海梅区",
+      "latitude": 60.7167,
+      "longitude": 24.45,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Maunula",
+      "province": "新地区",
+      "latitude": 60.2287,
+      "longitude": 24.9308,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Keminmaa",
+      "province": "拉普兰区",
+      "latitude": 65.8016,
+      "longitude": 24.5448,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Vesala",
+      "province": "新地区",
+      "latitude": 60.24,
+      "longitude": 25.1031,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "VI kaupunginosa",
+      "province": "西南芬兰区",
+      "latitude": 60.4549,
+      "longitude": 22.2704,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "新卡勒比",
+      "name_en": "Nykarleby",
+      "province": "博滕区",
+      "latitude": 63.5228,
+      "longitude": 22.5307,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Vuores",
+      "province": "皮尔卡区",
+      "latitude": 61.431,
+      "longitude": 23.8118,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Jämsänkoski",
+      "province": "Central Finland",
+      "latitude": 61.919,
+      "longitude": 25.1701,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "库赫莫",
+      "name_en": "Kuhmo",
+      "province": "凯努区",
+      "latitude": 64.1333,
+      "longitude": 29.5167,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Pihlajamäki",
+      "province": "新地区",
+      "latitude": 60.2359,
+      "longitude": 25.0113,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Korso",
+      "province": "新地区",
+      "latitude": 60.3511,
+      "longitude": 25.0781,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Kiuruvesi",
+      "province": "北萨沃区",
+      "latitude": 63.65,
+      "longitude": 26.6167,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Hervanta lounas",
+      "province": "皮尔卡区",
+      "latitude": 61.4402,
+      "longitude": 23.8448,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Arabianranta",
+      "province": "新地区",
+      "latitude": 60.2073,
+      "longitude": 24.9796,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "普达斯耶尔维",
+      "name_en": "Pudasjärvi",
+      "province": "北博滕区",
+      "latitude": 65.3833,
+      "longitude": 26.9167,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Kruununhaka",
+      "province": "新地区",
+      "latitude": 60.1717,
+      "longitude": 24.9566,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Pyhäselkä",
+      "province": "北卡累利阿区",
+      "latitude": 62.4333,
+      "longitude": 29.9667,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Mäntyharju",
+      "province": "南萨沃区",
+      "latitude": 61.4167,
+      "longitude": 26.8833,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Inari",
+      "province": "拉普兰区",
+      "latitude": 68.906,
+      "longitude": 27.0288,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Pohjois-Tapiola",
+      "province": "新地区",
+      "latitude": 60.1869,
+      "longitude": 24.797,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Länsi-Pakila",
+      "province": "新地区",
+      "latitude": 60.2415,
+      "longitude": 24.927,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "苏奥穆斯萨尔米",
+      "name_en": "Suomussalmi",
+      "province": "凯努区",
+      "latitude": 64.8868,
+      "longitude": 28.9078,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Ruskeasuo",
+      "province": "新地区",
+      "latitude": 60.2009,
+      "longitude": 24.9052,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "凯米耶尔维",
+      "name_en": "Kemijärvi",
+      "province": "拉普兰区",
+      "latitude": 66.7131,
+      "longitude": 27.4306,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Kaitaa",
+      "province": "新地区",
+      "latitude": 60.1456,
+      "longitude": 24.687,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Eno",
+      "province": "北卡累利阿区",
+      "latitude": 62.8051,
+      "longitude": 30.1542,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Oulainen",
+      "province": "北博滕区",
+      "latitude": 64.2667,
+      "longitude": 24.8,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Kallahti",
+      "province": "新地区",
+      "latitude": 60.1929,
+      "longitude": 25.1368,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Puistola",
+      "province": "新地区",
+      "latitude": 60.2711,
+      "longitude": 25.047,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "伊卡利宁",
+      "name_en": "Ikaalinen",
+      "province": "皮尔卡区",
+      "latitude": 61.7695,
+      "longitude": 23.0658,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Pikku-Huopalahti",
+      "province": "新地区",
+      "latitude": 60.205,
+      "longitude": 24.8955,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "科凯迈基",
+      "name_en": "Kokemäki",
+      "province": "萨塔昆塔区",
+      "latitude": 61.2565,
+      "longitude": 22.3564,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "基蒂莱",
+      "name_en": "Kittilä",
+      "province": "拉普兰区",
+      "latitude": 67.6647,
+      "longitude": 24.8936,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Ylä-Malmi",
+      "province": "新地区",
+      "latitude": 60.2542,
+      "longitude": 25.0086,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Suonenjoki",
+      "province": "北萨沃区",
+      "latitude": 62.6167,
+      "longitude": 27.1333,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Harjavalta",
+      "province": "萨塔昆塔区",
+      "latitude": 61.3167,
+      "longitude": 22.1333,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Kaakkuri",
+      "province": "北博滕区",
+      "latitude": 64.9604,
+      "longitude": 25.5305,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Piikkiö",
+      "province": "西南芬兰区",
+      "latitude": 60.4248,
+      "longitude": 22.516,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Hermanni",
+      "province": "新地区",
+      "latitude": 60.1944,
+      "longitude": 24.9701,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Tyrnävä",
+      "province": "北博滕区",
+      "latitude": 64.7647,
+      "longitude": 25.6523,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "约凯拉",
+      "name_en": "Jokela",
+      "province": "新地区",
+      "latitude": 60.5541,
+      "longitude": 24.963,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Haapajärvi",
+      "province": "北博滕区",
+      "latitude": 63.75,
+      "longitude": 25.3333,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Nilsiä",
+      "province": "北萨沃区",
+      "latitude": 63.2075,
+      "longitude": 28.0822,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Mänttä",
+      "province": "皮尔卡区",
+      "latitude": 62.0301,
+      "longitude": 24.6279,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Linnainmaa",
+      "province": "皮尔卡区",
+      "latitude": 61.495,
+      "longitude": 23.8862,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Konala",
+      "province": "新地区",
+      "latitude": 60.2371,
+      "longitude": 24.8449,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Port Arthur",
+      "province": "西南芬兰区",
+      "latitude": 60.4474,
+      "longitude": 22.2425,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Iitti",
+      "province": "Paijat-Hame",
+      "latitude": 60.8949,
+      "longitude": 26.3387,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "欧托昆普",
+      "name_en": "Outokumpu",
+      "province": "北卡累利阿区",
+      "latitude": 62.7268,
+      "longitude": 29.0159,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Rusko",
+      "province": "西南芬兰区",
+      "latitude": 60.5333,
+      "longitude": 22.2167,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Jokiniemi",
+      "province": "新地区",
+      "latitude": 60.5665,
+      "longitude": 26.4583,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "哈帕韦西",
+      "name_en": "Haapavesi",
+      "province": "北博滕区",
+      "latitude": 63.75,
+      "longitude": 25.3333,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "克罗诺比",
+      "name_en": "Kronoby",
+      "province": "博滕区",
+      "latitude": 63.7286,
+      "longitude": 23.0339,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Mynämäki",
+      "province": "西南芬兰区",
+      "latitude": 60.6791,
+      "longitude": 21.9927,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Vörå",
+      "province": "博滕区",
+      "latitude": 63.1361,
+      "longitude": 22.2522,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Siuntio",
+      "province": "新地区",
+      "latitude": 60.1386,
+      "longitude": 24.2272,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Säkylä",
+      "province": "萨塔昆塔区",
+      "latitude": 61.0333,
+      "longitude": 22.3333,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "派尔凯内",
+      "name_en": "Pälkäne",
+      "province": "皮尔卡区",
+      "latitude": 61.3342,
+      "longitude": 24.272,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Tapanila",
+      "province": "新地区",
+      "latitude": 60.2646,
+      "longitude": 25.0216,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Vuokatti",
+      "province": "凯努区",
+      "latitude": 64.1447,
+      "longitude": 28.282,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "维拉特",
+      "name_en": "Virrat",
+      "province": "皮尔卡区",
+      "latitude": 62.2476,
+      "longitude": 23.78,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Metsola",
+      "province": "新地区",
+      "latitude": 60.3485,
+      "longitude": 25.09,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "克里斯蒂娜城",
+      "name_en": "Kristinestad",
+      "province": "博滕区",
+      "latitude": 62.2743,
+      "longitude": 21.376,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Kauklahti",
+      "province": "新地区",
+      "latitude": 60.1927,
+      "longitude": 24.6004,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Pyhäjärvi",
+      "province": "拉普兰区",
+      "latitude": 67.0701,
+      "longitude": 27.2176,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "帕尔卡诺",
+      "name_en": "Parkano",
+      "province": "皮尔卡区",
+      "latitude": 62.0167,
+      "longitude": 23.0167,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Noormarkku",
+      "province": "萨塔昆塔区",
+      "latitude": 61.5927,
+      "longitude": 21.8685,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Kello",
+      "province": "北博滕区",
+      "latitude": 65.1285,
+      "longitude": 25.3567,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Vartioharju",
+      "province": "新地区",
+      "latitude": 60.224,
+      "longitude": 25.1104,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Kaivoksela",
+      "province": "新地区",
+      "latitude": 60.2677,
+      "longitude": 24.8687,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Tammela",
+      "province": "皮尔卡区",
+      "latitude": 61.5023,
+      "longitude": 23.7796,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Larsmo",
+      "province": "博滕区",
+      "latitude": 63.7539,
+      "longitude": 22.7473,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Paloheinä",
+      "province": "新地区",
+      "latitude": 60.2536,
+      "longitude": 24.9283,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Haukilahti",
+      "province": "新地区",
+      "latitude": 60.1589,
+      "longitude": 24.7706,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Länsimäki",
+      "province": "新地区",
+      "latitude": 60.2463,
+      "longitude": 25.1178,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Kerimäki",
+      "province": "南萨沃区",
+      "latitude": 61.9107,
+      "longitude": 29.2823,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Tammela",
+      "province": "坎塔海梅区",
+      "latitude": 61.5023,
+      "longitude": 23.7796,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Perniö",
+      "province": "西南芬兰区",
+      "latitude": 60.2,
+      "longitude": 23.1333,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "维塔萨里",
+      "name_en": "Viitasaari",
+      "province": "Central Finland",
+      "latitude": 63.0667,
+      "longitude": 25.8667,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Koivukylä",
+      "province": "新地区",
+      "latitude": 60.3224,
+      "longitude": 25.0586,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Ala-Malmi",
+      "province": "新地区",
+      "latitude": 60.2482,
+      "longitude": 25.0133,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Kalasatama",
+      "province": "新地区",
+      "latitude": 60.1852,
+      "longitude": 24.9793,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Karakallio",
+      "province": "新地区",
+      "latitude": 60.2325,
+      "longitude": 24.7608,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Lammi",
+      "province": "坎塔海梅区",
+      "latitude": 61.0833,
+      "longitude": 25.0167,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "尤瓦",
+      "name_en": "Juva",
+      "province": "南萨沃区",
+      "latitude": 61.9,
+      "longitude": 27.85,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Jakomäki",
+      "province": "新地区",
+      "latitude": 60.2594,
+      "longitude": 25.078,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Tampella",
+      "province": "皮尔卡区",
+      "latitude": 61.5037,
+      "longitude": 23.7659,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Asola",
+      "province": "新地区",
+      "latitude": 60.3297,
+      "longitude": 25.0511,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Malax",
+      "province": "博滕区",
+      "latitude": 62.9423,
+      "longitude": 21.5731,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "尤安科斯基",
+      "name_en": "Juankoski",
+      "province": "北萨沃区",
+      "latitude": 63.0647,
+      "longitude": 28.3292,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Ylästö",
+      "province": "新地区",
+      "latitude": 60.2842,
+      "longitude": 24.9139,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Viiala",
+      "province": "皮尔卡区",
+      "latitude": 61.2102,
+      "longitude": 23.7674,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Lentävänniemi",
+      "province": "皮尔卡区",
+      "latitude": 61.528,
+      "longitude": 23.7057,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Vilppula",
+      "province": "皮尔卡区",
+      "latitude": 62.0212,
+      "longitude": 24.5048,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "因加",
+      "name_en": "Ingå",
+      "province": "新地区",
+      "latitude": 60.0459,
+      "longitude": 24.0046,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Länsi-Pasila",
+      "province": "新地区",
+      "latitude": 60.1986,
+      "longitude": 24.9231,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Suolahti",
+      "province": "Central Finland",
+      "latitude": 62.5642,
+      "longitude": 25.8536,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Espoonlahden keskus",
+      "province": "新地区",
+      "latitude": 60.1497,
+      "longitude": 24.6551,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Amuri",
+      "province": "皮尔卡区",
+      "latitude": 61.4996,
+      "longitude": 23.7446,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Hiekkaharju",
+      "province": "新地区",
+      "latitude": 60.3036,
+      "longitude": 25.0441,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Meri-Rastila",
+      "province": "新地区",
+      "latitude": 60.1997,
+      "longitude": 25.1186,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Pojo",
+      "province": "新地区",
+      "latitude": 60.0963,
+      "longitude": 23.5276,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Kannus",
+      "province": "中博滕区",
+      "latitude": 63.9,
+      "longitude": 23.9,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Meilahti",
+      "province": "新地区",
+      "latitude": 60.1898,
+      "longitude": 24.8972,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Viherlaakso",
+      "province": "新地区",
+      "latitude": 60.2288,
+      "longitude": 24.7408,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "艾赫泰里",
+      "name_en": "Ähtäri",
+      "province": "南博滕区",
+      "latitude": 62.554,
+      "longitude": 24.0619,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Ristiina",
+      "province": "南萨沃区",
+      "latitude": 61.5058,
+      "longitude": 27.2464,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Kaleva",
+      "province": "皮尔卡区",
+      "latitude": 61.4983,
+      "longitude": 23.8054,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Vanhatulli",
+      "province": "北博滕区",
+      "latitude": 65.0081,
+      "longitude": 25.4693,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Kangasniemi",
+      "province": "南萨沃区",
+      "latitude": 61.9936,
+      "longitude": 26.6478,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Korpilahti",
+      "province": "Central Finland",
+      "latitude": 62.0167,
+      "longitude": 25.55,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Munkkivuori",
+      "province": "新地区",
+      "latitude": 60.2058,
+      "longitude": 24.876,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Kivikko",
+      "province": "新地区",
+      "latitude": 60.2348,
+      "longitude": 25.0602,
+      "timezone": "Europe/Helsinki"
+    },
+    {
+      "name": "",
+      "name_en": "Jääli",
+      "province": "北博滕区",
+      "latitude": 65.093,
+      "longitude": 25.6852,
+      "timezone": "Europe/Helsinki"
+    }
+  ]
+}

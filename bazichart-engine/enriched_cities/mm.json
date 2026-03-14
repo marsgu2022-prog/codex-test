@@ -1,0 +1,2006 @@
+{
+  "country_code": "MM",
+  "country_name": "缅甸",
+  "cities": [
+    {
+      "name": "仰光",
+      "name_en": "Yangon",
+      "province": "仰光省",
+      "latitude": 16.8053,
+      "longitude": 96.1561,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "曼德勒",
+      "name_en": "Mandalay",
+      "province": "曼德勒省",
+      "latitude": 21.9747,
+      "longitude": 96.0836,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Nay Pyi Taw",
+      "province": "Nay Pyi Taw",
+      "latitude": 19.745,
+      "longitude": 96.1297,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Hlaingthaya",
+      "province": "仰光省",
+      "latitude": 16.85,
+      "longitude": 96.0667,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "毛淡棉",
+      "name_en": "Mawlamyine",
+      "province": "Mon",
+      "latitude": 16.4905,
+      "longitude": 97.6282,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Kalemyo",
+      "province": "实皆省",
+      "latitude": 23.1901,
+      "longitude": 94.064,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Insein",
+      "province": "仰光省",
+      "latitude": 16.8887,
+      "longitude": 96.1026,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "勃固",
+      "name_en": "Bago",
+      "province": "勃固省",
+      "latitude": 17.3352,
+      "longitude": 96.4814,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Amarapura",
+      "province": "曼德勒省",
+      "latitude": 21.9071,
+      "longitude": 96.0489,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "勃生",
+      "name_en": "Pathein",
+      "province": "Ayeyarwady",
+      "latitude": 16.7792,
+      "longitude": 94.7321,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Yawnghwe",
+      "province": "掸邦",
+      "latitude": 20.6597,
+      "longitude": 96.9338,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "蒙育瓦",
+      "name_en": "Monywa",
+      "province": "实皆省",
+      "latitude": 22.1086,
+      "longitude": 95.1358,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "皎漂",
+      "name_en": "Kyaukpyu",
+      "province": "Rakhine",
+      "latitude": 19.4279,
+      "longitude": 93.5513,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "实兑",
+      "name_en": "Sittwe",
+      "province": "Rakhine",
+      "latitude": 20.1462,
+      "longitude": 92.8983,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Meiktila",
+      "province": "曼德勒省",
+      "latitude": 20.8778,
+      "longitude": 95.8584,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "丹老",
+      "name_en": "Myeik",
+      "province": "德林达依",
+      "latitude": 12.4395,
+      "longitude": 98.6003,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Kēng Tung",
+      "province": "掸邦",
+      "latitude": 21.6309,
+      "longitude": 99.9268,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Mu-se",
+      "province": "掸邦",
+      "latitude": 23.9974,
+      "longitude": 97.9011,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "东枝",
+      "name_en": "Taunggyi",
+      "province": "掸邦",
+      "latitude": 20.7892,
+      "longitude": 97.0378,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "敏建",
+      "name_en": "Myingyan",
+      "province": "曼德勒省",
+      "latitude": 21.46,
+      "longitude": 95.3884,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "土瓦",
+      "name_en": "Dawei",
+      "province": "德林达依",
+      "latitude": 14.0823,
+      "longitude": 98.1915,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Mingaladon",
+      "province": "仰光省",
+      "latitude": 16.9241,
+      "longitude": 96.0977,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "卑谬镇",
+      "name_en": "Pyay",
+      "province": "勃固省",
+      "latitude": 18.82,
+      "longitude": 95.2156,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "兴实达",
+      "name_en": "Hinthada",
+      "province": "Ayeyarwady",
+      "latitude": 17.6494,
+      "longitude": 95.457,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Kyauktan",
+      "province": "仰光省",
+      "latitude": 16.6374,
+      "longitude": 96.3251,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Mingala Tangnyunt",
+      "province": "仰光省",
+      "latitude": 16.7886,
+      "longitude": 96.1723,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "腊戍",
+      "name_en": "Lashio",
+      "province": "掸邦",
+      "latitude": 22.9359,
+      "longitude": 97.7498,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Pakokku",
+      "province": "Magway",
+      "latitude": 21.3349,
+      "longitude": 95.0844,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Thaton",
+      "province": "Mon",
+      "latitude": 16.9187,
+      "longitude": 97.37,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Ann",
+      "province": "Rakhine",
+      "latitude": 19.7954,
+      "longitude": 94.0479,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Pyin Oo Lwin",
+      "province": "曼德勒省",
+      "latitude": 22.035,
+      "longitude": 96.4568,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Möng Yang",
+      "province": "掸邦",
+      "latitude": 21.8478,
+      "longitude": 99.6765,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Kyimyindine",
+      "province": "仰光省",
+      "latitude": 16.8085,
+      "longitude": 96.1242,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Set Ka Lay",
+      "province": "仰光省",
+      "latitude": 16.8144,
+      "longitude": 96.1139,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Yenangyaung",
+      "province": "Magway",
+      "latitude": 20.465,
+      "longitude": 94.8712,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Taungoo",
+      "province": "勃固省",
+      "latitude": 18.9429,
+      "longitude": 96.4341,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "San Chaung",
+      "province": "仰光省",
+      "latitude": 17.0953,
+      "longitude": 96.0992,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Thayetmyo",
+      "province": "Magway",
+      "latitude": 19.3208,
+      "longitude": 95.1827,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "彬马那",
+      "name_en": "Pyinmana",
+      "province": "Nay Pyi Taw",
+      "latitude": 19.745,
+      "longitude": 96.1297,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Magway",
+      "province": "Magway",
+      "latitude": 20.1496,
+      "longitude": 94.9325,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Heho",
+      "province": "掸邦",
+      "latitude": 20.7232,
+      "longitude": 96.8228,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "格劳",
+      "name_en": "Kalaw",
+      "province": "掸邦",
+      "latitude": 20.6346,
+      "longitude": 96.5645,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "密支那",
+      "name_en": "Myitkyina",
+      "province": "克钦邦",
+      "latitude": 25.3833,
+      "longitude": 97.3964,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Chauk",
+      "province": "Magway",
+      "latitude": 20.8992,
+      "longitude": 94.8178,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Mogok",
+      "province": "曼德勒省",
+      "latitude": 22.9177,
+      "longitude": 96.5098,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Nyaunglebin",
+      "province": "勃固省",
+      "latitude": 17.9536,
+      "longitude": 96.7225,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Sangyoung",
+      "province": "仰光省",
+      "latitude": 17.0953,
+      "longitude": 96.0992,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Mudon",
+      "province": "Mon",
+      "latitude": 16.2562,
+      "longitude": 97.7246,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Shwebo",
+      "province": "实皆省",
+      "latitude": 22.5693,
+      "longitude": 95.6982,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Taikkyi",
+      "province": "仰光省",
+      "latitude": 17.3144,
+      "longitude": 95.9629,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Lakang",
+      "province": "克钦邦",
+      "latitude": 24.6605,
+      "longitude": 97.1892,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Sagaing",
+      "province": "实皆省",
+      "latitude": 21.8787,
+      "longitude": 95.9797,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Thanhlyin",
+      "province": "仰光省",
+      "latitude": 16.7819,
+      "longitude": 96.2468,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Dawbon",
+      "province": "Ayeyarwady",
+      "latitude": 16.5163,
+      "longitude": 95.6029,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Taungdwingyi",
+      "province": "Magway",
+      "latitude": 20.0065,
+      "longitude": 95.5453,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Thanlyin",
+      "province": "仰光省",
+      "latitude": 16.7689,
+      "longitude": 96.245,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Bogale",
+      "province": "Ayeyarwady",
+      "latitude": 16.2941,
+      "longitude": 95.3974,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Gwa",
+      "province": "Rakhine",
+      "latitude": 17.5937,
+      "longitude": 94.58,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Hpākān",
+      "province": "克钦邦",
+      "latitude": 25.6138,
+      "longitude": 96.3148,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "央米丁",
+      "name_en": "Yamethin",
+      "province": "曼德勒省",
+      "latitude": 20.4319,
+      "longitude": 96.1388,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Shwegu",
+      "province": "克钦邦",
+      "latitude": 24.2267,
+      "longitude": 96.7909,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Myaungmya",
+      "province": "Ayeyarwady",
+      "latitude": 16.5987,
+      "longitude": 94.9211,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Kanbe",
+      "province": "仰光省",
+      "latitude": 16.7073,
+      "longitude": 96.0017,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Kawthoung",
+      "province": "德林达依",
+      "latitude": 9.9824,
+      "longitude": 98.5503,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Myaydo",
+      "province": "Magway",
+      "latitude": 19.3684,
+      "longitude": 95.2151,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "敏巫",
+      "name_en": "Minbu",
+      "province": "Magway",
+      "latitude": 20.1806,
+      "longitude": 94.876,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "丹彪扎亚",
+      "name_en": "Thanbyuzayat",
+      "province": "Mon",
+      "latitude": 15.9689,
+      "longitude": 97.7275,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Buthidaung Town",
+      "province": "Rakhine",
+      "latitude": 20.8754,
+      "longitude": 92.53,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "八莫",
+      "name_en": "Bhamo",
+      "province": "克钦邦",
+      "latitude": 24.2526,
+      "longitude": 97.2336,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Tharyarwady",
+      "province": "勃固省",
+      "latitude": 17.654,
+      "longitude": 95.7881,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Thongwa",
+      "province": "仰光省",
+      "latitude": 16.76,
+      "longitude": 96.525,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Kyaiklat",
+      "province": "Ayeyarwady",
+      "latitude": 16.445,
+      "longitude": 95.7237,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Tachilek",
+      "province": "掸邦",
+      "latitude": 20.4475,
+      "longitude": 99.8808,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Manaung",
+      "province": "Rakhine",
+      "latitude": 18.8548,
+      "longitude": 93.7291,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "皎克西",
+      "name_en": "Kyaukse",
+      "province": "曼德勒省",
+      "latitude": 21.6056,
+      "longitude": 96.1351,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Hpa-An",
+      "province": "克伦邦",
+      "latitude": 16.8895,
+      "longitude": 97.6348,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Kyaikto",
+      "province": "Mon",
+      "latitude": 17.3086,
+      "longitude": 97.0112,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Martaban",
+      "province": "Mon",
+      "latitude": 16.5283,
+      "longitude": 97.6157,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "良乌县",
+      "name_en": "Nyaung-U",
+      "province": "曼德勒省",
+      "latitude": 21.2006,
+      "longitude": 94.9083,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Kawkareik",
+      "province": "克伦邦",
+      "latitude": 16.5554,
+      "longitude": 98.2371,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "吉坎眉",
+      "name_en": "Kyaikkami",
+      "province": "Mon",
+      "latitude": 16.0769,
+      "longitude": 97.5639,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "皮亚朋",
+      "name_en": "Pyapon",
+      "province": "Ayeyarwady",
+      "latitude": 16.2854,
+      "longitude": 95.6788,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Twante",
+      "province": "仰光省",
+      "latitude": 16.7084,
+      "longitude": 95.9336,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Myawaddy",
+      "province": "克伦邦",
+      "latitude": 16.6891,
+      "longitude": 98.5089,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Mawlaik",
+      "province": "实皆省",
+      "latitude": 23.6425,
+      "longitude": 94.4048,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Nyaung",
+      "province": "仰光省",
+      "latitude": 16.8346,
+      "longitude": 96.088,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Tamu",
+      "province": "实皆省",
+      "latitude": 24.2166,
+      "longitude": 94.3122,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Möng La",
+      "province": "掸邦",
+      "latitude": 21.6711,
+      "longitude": 100.0127,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Kyaukpadaung",
+      "province": "曼德勒省",
+      "latitude": 20.8416,
+      "longitude": 95.1267,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Kyauktan",
+      "province": "实皆省",
+      "latitude": 16.6374,
+      "longitude": 96.3251,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "瓦溪码镇",
+      "name_en": "Wakema",
+      "province": "Ayeyarwady",
+      "latitude": 16.6033,
+      "longitude": 95.1828,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Maubin",
+      "province": "Ayeyarwady",
+      "latitude": 16.7315,
+      "longitude": 95.6544,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Thin Gan Kyun Gyi",
+      "province": "仰光省",
+      "latitude": 16.9574,
+      "longitude": 96.1554,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "缅昂",
+      "name_en": "Myanaung",
+      "province": "Ayeyarwady",
+      "latitude": 18.2865,
+      "longitude": 95.3201,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Oke Kan",
+      "province": "仰光省",
+      "latitude": 16.853,
+      "longitude": 96.0656,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Tatkon",
+      "province": "实皆省",
+      "latitude": 24.679,
+      "longitude": 95.0742,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Ahlone",
+      "province": "仰光省",
+      "latitude": 16.789,
+      "longitude": 96.1265,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Pazundaung",
+      "province": "仰光省",
+      "latitude": 16.7957,
+      "longitude": 96.1749,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Pyu",
+      "province": "勃固省",
+      "latitude": 18.4813,
+      "longitude": 96.4374,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Kayan",
+      "province": "仰光省",
+      "latitude": 16.908,
+      "longitude": 96.5604,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "央东",
+      "name_en": "Nyaungdon",
+      "province": "Ayeyarwady",
+      "latitude": 17.0446,
+      "longitude": 95.6396,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Shwenatha",
+      "province": "仰光省",
+      "latitude": 16.9884,
+      "longitude": 96.1622,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Kyaukme",
+      "province": "掸邦",
+      "latitude": 22.5392,
+      "longitude": 97.0343,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Möng Yawng",
+      "province": "掸邦",
+      "latitude": 21.1792,
+      "longitude": 100.3576,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Letpandan",
+      "province": "勃固省",
+      "latitude": 17.7866,
+      "longitude": 95.7508,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Hlegu",
+      "province": "仰光省",
+      "latitude": 17.0957,
+      "longitude": 96.2206,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Daik-u",
+      "province": "勃固省",
+      "latitude": 17.7951,
+      "longitude": 96.6698,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Thanatpin",
+      "province": "勃固省",
+      "latitude": 17.2914,
+      "longitude": 96.5752,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Paungde",
+      "province": "勃固省",
+      "latitude": 18.4917,
+      "longitude": 95.5059,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Botataung",
+      "province": "仰光省",
+      "latitude": 16.7718,
+      "longitude": 96.1733,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Mrauk U",
+      "province": "Rakhine",
+      "latitude": 20.59,
+      "longitude": 93.1906,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Ye",
+      "province": "Mon",
+      "latitude": 15.2464,
+      "longitude": 97.8551,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Mawlamyinegyunn",
+      "province": "Ayeyarwady",
+      "latitude": 16.3772,
+      "longitude": 95.2649,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Tangyan",
+      "province": "掸邦",
+      "latitude": 22.4944,
+      "longitude": 98.3928,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "南坎",
+      "name_en": "Namhkam",
+      "province": "掸邦",
+      "latitude": 23.8334,
+      "longitude": 97.6798,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "莫宁",
+      "name_en": "Mohnyin",
+      "province": "克钦邦",
+      "latitude": 24.7782,
+      "longitude": 96.3686,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Wundwin",
+      "province": "曼德勒省",
+      "latitude": 21.0942,
+      "longitude": 96.028,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Pyawbwe",
+      "province": "曼德勒省",
+      "latitude": 20.5919,
+      "longitude": 96.052,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Danai",
+      "province": "克钦邦",
+      "latitude": 26.3593,
+      "longitude": 96.72,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Kyauktaga",
+      "province": "Mon",
+      "latitude": 17.4947,
+      "longitude": 96.9776,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Aungban",
+      "province": "掸邦",
+      "latitude": 20.6606,
+      "longitude": 96.6349,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Ywar Ma West",
+      "province": "仰光省",
+      "latitude": 16.8967,
+      "longitude": 96.0917,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "莱韦",
+      "name_en": "Lewe",
+      "province": "Nay Pyi Taw",
+      "latitude": 19.6361,
+      "longitude": 96.11,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Pauk Kone",
+      "province": "仰光省",
+      "latitude": 16.9457,
+      "longitude": 96.1457,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "拉布达",
+      "name_en": "Labutta",
+      "province": "Ayeyarwady",
+      "latitude": 16.1495,
+      "longitude": 94.759,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "劳索",
+      "name_en": "Lawksawk",
+      "province": "掸邦",
+      "latitude": 21.2481,
+      "longitude": 96.8673,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Paung",
+      "province": "Mon",
+      "latitude": 16.6175,
+      "longitude": 97.4585,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Shwe Lin Ban",
+      "province": "仰光省",
+      "latitude": 16.8966,
+      "longitude": 96.068,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Kungyangon",
+      "province": "仰光省",
+      "latitude": 16.4426,
+      "longitude": 96.0194,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Payathonzu",
+      "province": "克伦邦",
+      "latitude": 15.3177,
+      "longitude": 98.3884,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Panglong",
+      "province": "掸邦",
+      "latitude": 24.1005,
+      "longitude": 98.3126,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Taungup",
+      "province": "Rakhine",
+      "latitude": 18.8561,
+      "longitude": 94.2408,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Katha",
+      "province": "实皆省",
+      "latitude": 24.1754,
+      "longitude": 96.3414,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Pyan Lel Nay Yar Cha Htar Ye",
+      "province": "仰光省",
+      "latitude": 16.9719,
+      "longitude": 96.1274,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Hmaw Bi",
+      "province": "Mon",
+      "latitude": 16.6356,
+      "longitude": 97.6153,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Kanbalu",
+      "province": "实皆省",
+      "latitude": 23.2033,
+      "longitude": 95.5169,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "莫冈",
+      "name_en": "Mogaung",
+      "province": "克钦邦",
+      "latitude": 25.3054,
+      "longitude": 96.9354,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "贵概",
+      "name_en": "Kutkai",
+      "province": "掸邦",
+      "latitude": 23.4579,
+      "longitude": 97.938,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Zee Kone",
+      "province": "仰光省",
+      "latitude": 16.9496,
+      "longitude": 96.1023,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Shwegyin",
+      "province": "勃固省",
+      "latitude": 17.9212,
+      "longitude": 96.8768,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Yedashe",
+      "province": "勃固省",
+      "latitude": 19.1563,
+      "longitude": 96.3459,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Madaya",
+      "province": "曼德勒省",
+      "latitude": 22.2115,
+      "longitude": 96.1039,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Pawgan",
+      "province": "仰光省",
+      "latitude": 16.9084,
+      "longitude": 96.0978,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "京松",
+      "name_en": "Kyonpyaw",
+      "province": "Ayeyarwady",
+      "latitude": 17.3013,
+      "longitude": 95.1983,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Nansang",
+      "province": "掸邦",
+      "latitude": 20.8918,
+      "longitude": 97.7167,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Min Ga Lar Don Zay",
+      "province": "仰光省",
+      "latitude": 16.9232,
+      "longitude": 96.1164,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "景德利",
+      "name_en": "Kyeintali",
+      "province": "Rakhine",
+      "latitude": 18.0061,
+      "longitude": 94.49,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Laukkai",
+      "province": "掸邦",
+      "latitude": 23.6961,
+      "longitude": 98.7621,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Hopin",
+      "province": "克钦邦",
+      "latitude": 24.9915,
+      "longitude": 96.5268,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Yesagyo",
+      "province": "Magway",
+      "latitude": 21.6324,
+      "longitude": 95.2462,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Ah Lel",
+      "province": "仰光省",
+      "latitude": 16.9224,
+      "longitude": 96.0634,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Waw",
+      "province": "勃固省",
+      "latitude": 17.477,
+      "longitude": 96.6783,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Sinngu",
+      "province": "仰光省",
+      "latitude": 16.9132,
+      "longitude": 96.0974,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Da Nyin Kone",
+      "province": "仰光省",
+      "latitude": 16.9334,
+      "longitude": 96.0931,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Kone Ta La Paung",
+      "province": "仰光省",
+      "latitude": 17.0084,
+      "longitude": 96.1497,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Zalun",
+      "province": "Ayeyarwady",
+      "latitude": 17.4794,
+      "longitude": 95.5592,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Saw Bwar Gyi Kone",
+      "province": "仰光省",
+      "latitude": 16.8864,
+      "longitude": 96.1282,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Ye-u",
+      "province": "实皆省",
+      "latitude": 22.7672,
+      "longitude": 95.4276,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Hakha",
+      "province": "钦邦",
+      "latitude": 22.6445,
+      "longitude": 93.6108,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Tedim",
+      "province": "钦邦",
+      "latitude": 23.3758,
+      "longitude": 93.6539,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "英加务",
+      "name_en": "Ingabu",
+      "province": "Ayeyarwady",
+      "latitude": 17.8119,
+      "longitude": 95.2704,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Kyauktaw",
+      "province": "Rakhine",
+      "latitude": 20.8447,
+      "longitude": 92.9753,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Taung Thu Kone",
+      "province": "仰光省",
+      "latitude": 16.8982,
+      "longitude": 96.1102,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Myenigon",
+      "province": "仰光省",
+      "latitude": 16.8062,
+      "longitude": 96.1351,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Aung San",
+      "province": "仰光省",
+      "latitude": 16.9215,
+      "longitude": 96.0971,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Myo Thit Ka",
+      "province": "仰光省",
+      "latitude": 16.8737,
+      "longitude": 96.097,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Okpo",
+      "province": "仰光省",
+      "latitude": 16.9727,
+      "longitude": 96.0882,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Loikaw",
+      "province": "克耶邦",
+      "latitude": 19.678,
+      "longitude": 97.2097,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Ywar Ma East",
+      "province": "仰光省",
+      "latitude": 16.8993,
+      "longitude": 96.1032,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Kyo Kone East",
+      "province": "仰光省",
+      "latitude": 16.8858,
+      "longitude": 96.1146,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "邦康",
+      "name_en": "Pangkham",
+      "province": "掸邦",
+      "latitude": 22.1792,
+      "longitude": 99.1667,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Shan Chaung",
+      "province": "仰光省",
+      "latitude": 16.8603,
+      "longitude": 96.0901,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Kan Nar Middle",
+      "province": "仰光省",
+      "latitude": 16.8805,
+      "longitude": 96.097,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Pèkon",
+      "province": "掸邦",
+      "latitude": 19.8677,
+      "longitude": 97.0067,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Zigon",
+      "province": "勃固省",
+      "latitude": 16.9496,
+      "longitude": 96.1023,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Setsan",
+      "province": "仰光省",
+      "latitude": 16.8102,
+      "longitude": 96.114,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Kalagyisu",
+      "province": "仰光省",
+      "latitude": 16.8827,
+      "longitude": 96.0304,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Hlaw Kar",
+      "province": "仰光省",
+      "latitude": 17.0004,
+      "longitude": 96.0701,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Nwe Khway",
+      "province": "仰光省",
+      "latitude": 17.0231,
+      "longitude": 96.1458,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Pyin Ma Pin",
+      "province": "仰光省",
+      "latitude": 16.9958,
+      "longitude": 96.1315,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Seikgyi",
+      "province": "仰光省",
+      "latitude": 16.7586,
+      "longitude": 96.1162,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Sar Bu Taung",
+      "province": "仰光省",
+      "latitude": 17.213,
+      "longitude": 96.2297,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Kasin",
+      "province": "仰光省",
+      "latitude": 16.8867,
+      "longitude": 96.0825,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Hpaung Gyi East",
+      "province": "仰光省",
+      "latitude": 17.3346,
+      "longitude": 96.1754,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Ah Twin Pa Dan",
+      "province": "仰光省",
+      "latitude": 16.8716,
+      "longitude": 96.0295,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Inbawhkon",
+      "province": "掸邦",
+      "latitude": 20.4459,
+      "longitude": 96.8959,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Nant Thar Kone",
+      "province": "仰光省",
+      "latitude": 16.8927,
+      "longitude": 96.1114,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Kyo Kone West",
+      "province": "仰光省",
+      "latitude": 16.8733,
+      "longitude": 96.1131,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Min Kone",
+      "province": "仰光省",
+      "latitude": 17.3519,
+      "longitude": 96.2103,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Me Taw",
+      "province": "德林达依",
+      "latitude": 11.7172,
+      "longitude": 98.6303,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Chit Tee Kone",
+      "province": "仰光省",
+      "latitude": 16.9315,
+      "longitude": 96.1592,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Taukkyan",
+      "province": "仰光省",
+      "latitude": 17.0435,
+      "longitude": 96.1363,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Dar Pein South",
+      "province": "仰光省",
+      "latitude": 17.03,
+      "longitude": 96.366,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Kyar Inn West",
+      "province": "仰光省",
+      "latitude": 17.174,
+      "longitude": 96.1381,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Ngapali",
+      "province": "Rakhine",
+      "latitude": 18.4366,
+      "longitude": 94.3221,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Htantabin",
+      "province": "仰光省",
+      "latitude": 17.1333,
+      "longitude": 95.9167,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Ywar Ma Middle",
+      "province": "仰光省",
+      "latitude": 16.8951,
+      "longitude": 96.097,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Ah Pyin Pa Dan",
+      "province": "仰光省",
+      "latitude": 16.8606,
+      "longitude": 96.0281,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Inn Taing",
+      "province": "仰光省",
+      "latitude": 17.1153,
+      "longitude": 96.3228,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Za Yat Kwin",
+      "province": "仰光省",
+      "latitude": 17.1519,
+      "longitude": 96.3134,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Pyi Taw Thar",
+      "province": "仰光省",
+      "latitude": 16.9359,
+      "longitude": 96.1269,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Putao",
+      "province": "克钦邦",
+      "latitude": 27.3526,
+      "longitude": 97.4004,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Kyan Khin Su",
+      "province": "仰光省",
+      "latitude": 16.8951,
+      "longitude": 96.142,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Kanaungto",
+      "province": "仰光省",
+      "latitude": 16.7639,
+      "longitude": 96.097,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Shwe Kokko",
+      "province": "克伦邦",
+      "latitude": 16.8208,
+      "longitude": 98.5309,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "San Gyi Wa",
+      "province": "仰光省",
+      "latitude": 16.935,
+      "longitude": 96.1375,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "War Net Kone",
+      "province": "仰光省",
+      "latitude": 17.1296,
+      "longitude": 96.2685,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Kan Nar West",
+      "province": "仰光省",
+      "latitude": 16.881,
+      "longitude": 96.0925,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Kyun Ka Lay",
+      "province": "仰光省",
+      "latitude": 17.0851,
+      "longitude": 96.1984,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "木邦",
+      "name_en": "Hsenwi",
+      "province": "掸邦",
+      "latitude": 23.3026,
+      "longitude": 97.9657,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Ward 1",
+      "province": "仰光省",
+      "latitude": 16.9134,
+      "longitude": 96.1894,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Zay Kone East",
+      "province": "仰光省",
+      "latitude": 16.8835,
+      "longitude": 96.1096,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Haing Ku",
+      "province": "仰光省",
+      "latitude": 17.277,
+      "longitude": 96.1902,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Htauk Kyant Toe Cheit",
+      "province": "仰光省",
+      "latitude": 17.0319,
+      "longitude": 96.1396,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Kalewa",
+      "province": "实皆省",
+      "latitude": 23.1976,
+      "longitude": 94.3022,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Taw Pyar",
+      "province": "德林达依",
+      "latitude": 12.2163,
+      "longitude": 98.4545,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Hledan",
+      "province": "仰光省",
+      "latitude": 16.8265,
+      "longitude": 96.1302,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Ye Su",
+      "province": "仰光省",
+      "latitude": 17.0556,
+      "longitude": 96.1287,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Ananbin",
+      "province": "仰光省",
+      "latitude": 16.9132,
+      "longitude": 96.1333,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Tha Pyay Kone",
+      "province": "仰光省",
+      "latitude": 16.7328,
+      "longitude": 96.1414,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Peinnegon",
+      "province": "仰光省",
+      "latitude": 16.8818,
+      "longitude": 96.1035,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Ward 5",
+      "province": "仰光省",
+      "latitude": 16.8927,
+      "longitude": 96.1999,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Pa Du Mone",
+      "province": "实皆省",
+      "latitude": 26.0067,
+      "longitude": 95.8647,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Nyaung Waing",
+      "province": "仰光省",
+      "latitude": 16.6672,
+      "longitude": 96.323,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Myo Thit Ga",
+      "province": "仰光省",
+      "latitude": 16.8651,
+      "longitude": 96.0988,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Don Wun",
+      "province": "Mon",
+      "latitude": 17.142,
+      "longitude": 97.2744,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Tha Wun Taw",
+      "province": "仰光省",
+      "latitude": 16.7612,
+      "longitude": 95.936,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Bawhan",
+      "province": "掸邦",
+      "latitude": 19.8677,
+      "longitude": 96.8319,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Ta Dar Chaung",
+      "province": "仰光省",
+      "latitude": 16.7395,
+      "longitude": 96.1731,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Hpaung Gyi West",
+      "province": "仰光省",
+      "latitude": 17.3284,
+      "longitude": 96.173,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Kyaung Kone",
+      "province": "仰光省",
+      "latitude": 17.0006,
+      "longitude": 96.0828,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Hpa Yar Gyi",
+      "province": "仰光省",
+      "latitude": 16.6557,
+      "longitude": 96.0185,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Hpa Yar Gyi Su",
+      "province": "仰光省",
+      "latitude": 16.7399,
+      "longitude": 96.059,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Nat Sin Kone",
+      "province": "仰光省",
+      "latitude": 16.5973,
+      "longitude": 96.0514,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Shwe Pyauk",
+      "province": "仰光省",
+      "latitude": 16.6605,
+      "longitude": 96.3129,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Mee Pya",
+      "province": "仰光省",
+      "latitude": 16.5449,
+      "longitude": 96.3213,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Kyaik Tha Le",
+      "province": "仰光省",
+      "latitude": 16.6729,
+      "longitude": 96.0135,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Dimawso",
+      "province": "克耶邦",
+      "latitude": 19.5498,
+      "longitude": 97.156,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Kan Beit",
+      "province": "仰光省",
+      "latitude": 16.7249,
+      "longitude": 95.9937,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "丹那沙林",
+      "name_en": "Tanintharyi",
+      "province": "德林达依",
+      "latitude": 12.0903,
+      "longitude": 99.0117,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Taw Taik",
+      "province": "仰光省",
+      "latitude": 16.9582,
+      "longitude": 96.115,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Pyawbwe Gyi",
+      "province": "仰光省",
+      "latitude": 16.6774,
+      "longitude": 96.1439,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "法兰",
+      "name_en": "Falam",
+      "province": "钦邦",
+      "latitude": 22.9134,
+      "longitude": 93.6778,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Htein Hnit Pin",
+      "province": "仰光省",
+      "latitude": 16.9672,
+      "longitude": 95.9913,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Bokpyin",
+      "province": "德林达依",
+      "latitude": 11.2658,
+      "longitude": 98.7609,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Min Ga Lun",
+      "province": "仰光省",
+      "latitude": 16.5779,
+      "longitude": 96.4619,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Zi Byu Gon",
+      "province": "仰光省",
+      "latitude": 16.7372,
+      "longitude": 95.9168,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Ka Lok",
+      "province": "仰光省",
+      "latitude": 16.6738,
+      "longitude": 95.9235,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Pya Tha Taik",
+      "province": "仰光省",
+      "latitude": 16.6425,
+      "longitude": 95.9181,
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "name": "",
+      "name_en": "Ye Mun",
+      "province": "仰光省",
+      "latitude": 17.1428,
+      "longitude": 96.2831,
+      "timezone": "Asia/Yangon"
+    }
+  ]
+}

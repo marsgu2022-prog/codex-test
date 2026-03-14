@@ -1,0 +1,30 @@
+{
+  "country_code": "BQ",
+  "country_name": "荷属加勒比区",
+  "cities": [
+    {
+      "name": "克拉伦代克",
+      "name_en": "Kralendijk",
+      "province": "Bonaire",
+      "latitude": 12.15,
+      "longitude": -68.2667,
+      "timezone": "America/Kralendijk"
+    },
+    {
+      "name": "奥拉涅斯塔德",
+      "name_en": "Oranjestad",
+      "province": "圣尤斯特歇斯",
+      "latitude": 17.483,
+      "longitude": -62.9864,
+      "timezone": "America/Kralendijk"
+    },
+    {
+      "name": "",
+      "name_en": "The Bottom",
+      "province": "Saba",
+      "latitude": 17.6265,
+      "longitude": -63.2497,
+      "timezone": "America/Kralendijk"
+    }
+  ]
+}

@@ -1,0 +1,2566 @@
+{
+  "country_code": "DZ",
+  "country_name": "阿尔及利亚",
+  "cities": [
+    {
+      "name": "阿尔及尔",
+      "name_en": "Algiers",
+      "province": "阿尔及尔省",
+      "latitude": 36.7323,
+      "longitude": 3.0875,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "瓦赫兰",
+      "name_en": "Oran",
+      "province": "奥兰省",
+      "latitude": 35.6991,
+      "longitude": -0.6359,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "君士坦丁",
+      "name_en": "Constantine",
+      "province": "君士坦丁省",
+      "latitude": 36.365,
+      "longitude": 6.6147,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "安纳巴",
+      "name_en": "Annaba",
+      "province": "安纳巴省",
+      "latitude": 36.9,
+      "longitude": 7.7667,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "卜利达",
+      "name_en": "Blida",
+      "province": "卜利达省",
+      "latitude": 36.47,
+      "longitude": 2.8277,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "巴特纳",
+      "name_en": "Batna City",
+      "province": "巴特纳省",
+      "latitude": 35.556,
+      "longitude": 6.1741,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Bab Ezzouar",
+      "province": "阿尔及尔省",
+      "latitude": 36.7261,
+      "longitude": 3.1829,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Djelfa",
+      "province": "杰勒法省",
+      "latitude": 34.6728,
+      "longitude": 3.263,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "塞提夫",
+      "name_en": "Sétif",
+      "province": "塞提夫省",
+      "latitude": 36.1911,
+      "longitude": 5.4137,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "西迪贝勒阿巴斯",
+      "name_en": "Sidi Bel Abbes",
+      "province": "西迪贝勒阿巴斯省",
+      "latitude": 35.1899,
+      "longitude": -0.6309,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "比斯克拉",
+      "name_en": "Biskra",
+      "province": "比斯克拉省",
+      "latitude": 34.8504,
+      "longitude": 5.728,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "泰贝萨",
+      "name_en": "Tébessa",
+      "province": "泰贝萨省",
+      "latitude": 35.4042,
+      "longitude": 8.1242,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "瓦德",
+      "name_en": "El Oued",
+      "province": "瓦迪省",
+      "latitude": 33.3561,
+      "longitude": 6.8632,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "斯基克达",
+      "name_en": "Skikda",
+      "province": "斯基克达省",
+      "latitude": 36.8762,
+      "longitude": 6.9092,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "提亚雷特",
+      "name_en": "Tiaret",
+      "province": "提亚雷特省",
+      "latitude": 35.371,
+      "longitude": 1.317,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "谢利夫",
+      "name_en": "Chlef",
+      "province": "谢里夫省",
+      "latitude": 36.1653,
+      "longitude": 1.3345,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Béjaïa",
+      "province": "Béjaïa",
+      "latitude": 36.7559,
+      "longitude": 5.0843,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "特莱姆森",
+      "name_en": "Tlemcen",
+      "province": "特莱姆森省",
+      "latitude": 34.8783,
+      "longitude": -1.315,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "瓦尔格拉",
+      "name_en": "Ouargla",
+      "province": "瓦尔格拉省",
+      "latitude": 31.9493,
+      "longitude": 5.325,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "贝沙尔",
+      "name_en": "Béchar",
+      "province": "贝沙尔省",
+      "latitude": 31.6167,
+      "longitude": -2.2167,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "穆斯塔加奈姆",
+      "name_en": "Mostaganem",
+      "province": "穆斯塔加奈姆省",
+      "latitude": 35.9312,
+      "longitude": 0.0892,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Bordj Bou Arreridj",
+      "province": "布阿拉里季堡省",
+      "latitude": 36.0739,
+      "longitude": 4.7614,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "El Achir",
+      "province": "布阿拉里季堡省",
+      "latitude": 36.0639,
+      "longitude": 4.6274,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "苏格艾赫拉斯",
+      "name_en": "Souk Ahras",
+      "province": "苏格艾赫拉斯省",
+      "latitude": 36.2864,
+      "longitude": 7.9511,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "麦迪亚",
+      "name_en": "Médéa",
+      "province": "Medea",
+      "latitude": 36.2642,
+      "longitude": 2.7539,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "El Eulma",
+      "province": "塞提夫省",
+      "latitude": 36.1528,
+      "longitude": 5.6902,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "图古尔特",
+      "name_en": "Touggourt",
+      "province": "Touggourt",
+      "latitude": 33.1108,
+      "longitude": 6.07,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "盖尔达耶",
+      "name_en": "Ghardaïa",
+      "province": "Ghardaia",
+      "latitude": 32.4909,
+      "longitude": 3.6735,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "塞伊达",
+      "name_en": "Saïda",
+      "province": "Saida",
+      "latitude": 34.8303,
+      "longitude": 0.1517,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "艾格瓦特",
+      "name_en": "Laghouat",
+      "province": "艾格瓦特省",
+      "latitude": 33.8,
+      "longitude": 2.8651,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "M'Sila",
+      "province": "姆西拉省",
+      "latitude": 35.7089,
+      "longitude": 4.5372,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "吉杰勒",
+      "name_en": "Jijel",
+      "province": "吉杰勒省",
+      "latitude": 36.821,
+      "longitude": 5.7635,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Relizane",
+      "province": "埃利赞省",
+      "latitude": 35.7373,
+      "longitude": 0.556,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Bordj el Kiffan",
+      "province": "阿尔及尔省",
+      "latitude": 36.7487,
+      "longitude": 3.1925,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "盖勒马",
+      "name_en": "Guelma",
+      "province": "盖勒马省",
+      "latitude": 36.4621,
+      "longitude": 7.4261,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Rouiba",
+      "province": "阿尔及尔省",
+      "latitude": 36.7383,
+      "longitude": 3.2808,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Aïn Beïda",
+      "province": "乌姆布瓦吉省",
+      "latitude": 35.7964,
+      "longitude": 7.3928,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Khenchela",
+      "province": "汉舍莱省",
+      "latitude": 35.4358,
+      "longitude": 7.1433,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Bou Saâda",
+      "province": "姆西拉省",
+      "latitude": 35.2086,
+      "longitude": 4.174,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "穆阿斯凯尔",
+      "name_en": "Mascara",
+      "province": "穆阿斯凯尔省",
+      "latitude": 35.3966,
+      "longitude": 0.1403,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Baraki",
+      "province": "阿尔及尔省",
+      "latitude": 36.6666,
+      "longitude": 3.0961,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "提济乌祖",
+      "name_en": "Tizi Ouzou",
+      "province": "提济乌祖省",
+      "latitude": 36.7118,
+      "longitude": 4.0459,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Barika",
+      "province": "巴特纳省",
+      "latitude": 35.389,
+      "longitude": 5.3658,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Aïn Oussera",
+      "province": "杰勒法省",
+      "latitude": 35.4514,
+      "longitude": 2.9058,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Messaad",
+      "province": "杰勒法省",
+      "latitude": 34.1543,
+      "longitude": 3.5031,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Aflou",
+      "province": "艾格瓦特省",
+      "latitude": 34.1128,
+      "longitude": 2.1023,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Beni Mered",
+      "province": "卜利达省",
+      "latitude": 36.5239,
+      "longitude": 2.8613,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "El Khroub",
+      "province": "君士坦丁省",
+      "latitude": 36.2633,
+      "longitude": 6.6936,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Maghnia",
+      "province": "特莱姆森省",
+      "latitude": 34.8497,
+      "longitude": -1.7275,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "El Bayadh",
+      "province": "巴亚兹省",
+      "latitude": 33.6832,
+      "longitude": 1.0193,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Hamma Bouziane",
+      "province": "君士坦丁省",
+      "latitude": 36.4121,
+      "longitude": 6.596,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "塔曼拉塞特",
+      "name_en": "Tamanghasset",
+      "province": "塔曼拉塞特省",
+      "latitude": 22.785,
+      "longitude": 5.5228,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Rouissat",
+      "province": "瓦尔格拉省",
+      "latitude": 31.9243,
+      "longitude": 5.3502,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Khemis Miliana",
+      "province": "艾因迪夫拉省",
+      "latitude": 36.261,
+      "longitude": 2.2201,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Hassi Bahbah",
+      "province": "杰勒法省",
+      "latitude": 35.0711,
+      "longitude": 3.0299,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Birkhadem",
+      "province": "阿尔及尔省",
+      "latitude": 36.715,
+      "longitude": 3.05,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Sougueur",
+      "province": "提亚雷特省",
+      "latitude": 35.1857,
+      "longitude": 1.4961,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Aïn Temouchent",
+      "province": "艾因泰穆尚特省",
+      "latitude": 35.2975,
+      "longitude": -1.1404,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Bir el Ater",
+      "province": "泰贝萨省",
+      "latitude": 34.7449,
+      "longitude": 8.0602,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Bouïra",
+      "province": "布维拉省",
+      "latitude": 36.3749,
+      "longitude": 3.902,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "阿德拉尔",
+      "name_en": "Adrar",
+      "province": "阿德拉尔省",
+      "latitude": 27.8743,
+      "longitude": -0.2939,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Bir el Djir",
+      "province": "奥兰省",
+      "latitude": 35.72,
+      "longitude": -0.545,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Oum el Bouaghi",
+      "province": "乌姆布瓦吉省",
+      "latitude": 35.8754,
+      "longitude": 7.1135,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Sidi Aïssa",
+      "province": "姆西拉省",
+      "latitude": 35.8855,
+      "longitude": 3.7724,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Besbes",
+      "province": "塔里夫省",
+      "latitude": 36.7022,
+      "longitude": 7.8472,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Cheria",
+      "province": "泰贝萨省",
+      "latitude": 35.2731,
+      "longitude": 7.7519,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Tissemsilt",
+      "province": "提塞姆西勒特省",
+      "latitude": 35.6072,
+      "longitude": 1.8108,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Aïn M’Lila",
+      "province": "乌姆布瓦吉省",
+      "latitude": 36.0369,
+      "longitude": 6.5722,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Mecheria",
+      "province": "纳马省",
+      "latitude": 33.5445,
+      "longitude": -0.2812,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Ali Mendjeli",
+      "province": "君士坦丁省",
+      "latitude": 36.2459,
+      "longitude": 6.5671,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Mila",
+      "province": "米拉省",
+      "latitude": 36.4503,
+      "longitude": 6.2644,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Mohammadia",
+      "province": "穆阿斯凯尔省",
+      "latitude": 35.5886,
+      "longitude": 0.0686,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Kolea",
+      "province": "Tipaza",
+      "latitude": 36.6389,
+      "longitude": 2.7685,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Sig",
+      "province": "穆阿斯凯尔省",
+      "latitude": 35.5283,
+      "longitude": -0.1937,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "District of Taher",
+      "province": "吉杰勒省",
+      "latitude": 36.772,
+      "longitude": 5.8982,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Ech Chettia",
+      "province": "谢里夫省",
+      "latitude": 36.1959,
+      "longitude": 1.2554,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Ksar el Boukhari",
+      "province": "Medea",
+      "latitude": 35.8889,
+      "longitude": 2.749,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Guerara",
+      "province": "Ghardaia",
+      "latitude": 32.7921,
+      "longitude": 4.4995,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Ouled Djellal",
+      "province": "Ouled Djellal",
+      "latitude": 34.43,
+      "longitude": 5.0614,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Larbaâ",
+      "province": "卜利达省",
+      "latitude": 36.5647,
+      "longitude": 3.1543,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Arzew",
+      "province": "奥兰省",
+      "latitude": 35.8505,
+      "longitude": -0.318,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "古莱阿",
+      "name_en": "El Menia",
+      "province": "El Menia",
+      "latitude": 30.5756,
+      "longitude": 2.8842,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Boufarik",
+      "province": "卜利达省",
+      "latitude": 36.5741,
+      "longitude": 2.9121,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Boudouaou",
+      "province": "Boumerdes",
+      "latitude": 36.7274,
+      "longitude": 3.4099,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Berrouaghia",
+      "province": "Medea",
+      "latitude": 36.1352,
+      "longitude": 2.9108,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Aïn Touta",
+      "province": "巴特纳省",
+      "latitude": 35.3768,
+      "longitude": 5.9,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Oued Rhiou",
+      "province": "埃利赞省",
+      "latitude": 35.9612,
+      "longitude": 0.919,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Aïn Defla",
+      "province": "艾因迪夫拉省",
+      "latitude": 36.264,
+      "longitude": 1.9679,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Drean",
+      "province": "塔里夫省",
+      "latitude": 36.6848,
+      "longitude": 7.7511,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Reghaïa",
+      "province": "阿尔及尔省",
+      "latitude": 36.7359,
+      "longitude": 3.3402,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Boghni",
+      "province": "提济乌祖省",
+      "latitude": 36.5422,
+      "longitude": 3.9531,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Chelghoum el Aïd",
+      "province": "米拉省",
+      "latitude": 36.1629,
+      "longitude": 6.1665,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Assi Bou Nif",
+      "province": "奥兰省",
+      "latitude": 35.6922,
+      "longitude": -0.4994,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Bordj el Bahri",
+      "province": "阿尔及尔省",
+      "latitude": 36.7907,
+      "longitude": 3.2495,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Mansoûra",
+      "province": "特莱姆森省",
+      "latitude": 34.8616,
+      "longitude": -1.3394,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "En Nedjma",
+      "province": "奥兰省",
+      "latitude": 35.6478,
+      "longitude": -0.5695,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Ksar Chellala",
+      "province": "提亚雷特省",
+      "latitude": 35.2122,
+      "longitude": 2.3189,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Aïn Oulmene",
+      "province": "塞提夫省",
+      "latitude": 35.923,
+      "longitude": 5.296,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Tolga",
+      "province": "比斯克拉省",
+      "latitude": 34.7222,
+      "longitude": 5.3784,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Frenda",
+      "province": "提亚雷特省",
+      "latitude": 35.0654,
+      "longitude": 1.0494,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Aïn Fakroun",
+      "province": "乌姆布瓦吉省",
+      "latitude": 35.9711,
+      "longitude": 6.8737,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Guemar",
+      "province": "瓦迪省",
+      "latitude": 33.4853,
+      "longitude": 6.7969,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Merouana",
+      "province": "巴特纳省",
+      "latitude": 35.6311,
+      "longitude": 5.9119,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Aïn Sefra",
+      "province": "纳马省",
+      "latitude": 32.75,
+      "longitude": -0.5833,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Ouenza",
+      "province": "泰贝萨省",
+      "latitude": 35.9533,
+      "longitude": 8.1292,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Khemis el Khechna",
+      "province": "Boumerdes",
+      "latitude": 36.65,
+      "longitude": 3.3308,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Douéra",
+      "province": "阿尔及尔省",
+      "latitude": 36.67,
+      "longitude": 2.9444,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "El Milia",
+      "province": "吉杰勒省",
+      "latitude": 36.7547,
+      "longitude": 6.2725,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "廷杜夫",
+      "name_en": "Tindouf",
+      "province": "廷杜夫省",
+      "latitude": 27.6711,
+      "longitude": -8.1474,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Sedrata",
+      "province": "苏格艾赫拉斯省",
+      "latitude": 36.1287,
+      "longitude": 7.5338,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Sidi Amar",
+      "province": "安纳巴省",
+      "latitude": 36.8202,
+      "longitude": 7.7164,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Râs el Oued",
+      "province": "布阿拉里季堡省",
+      "latitude": 35.9441,
+      "longitude": 5.0311,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Bordj Menaïel",
+      "province": "Boumerdes",
+      "latitude": 36.7433,
+      "longitude": 3.7173,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Oued Fodda",
+      "province": "谢里夫省",
+      "latitude": 36.185,
+      "longitude": 1.533,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "哈西迈萨乌德",
+      "name_en": "Hassi Messaoud",
+      "province": "瓦尔格拉省",
+      "latitude": 31.6804,
+      "longitude": 6.0729,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Boû Arfa",
+      "province": "卜利达省",
+      "latitude": 36.463,
+      "longitude": 2.8146,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Sour el Ghozlane",
+      "province": "布维拉省",
+      "latitude": 36.1477,
+      "longitude": 3.6912,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Miliana",
+      "province": "艾因迪夫拉省",
+      "latitude": 36.3055,
+      "longitude": 2.2248,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Lakhdaria",
+      "province": "布维拉省",
+      "latitude": 36.5646,
+      "longitude": 3.5933,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Tadjenanet",
+      "province": "米拉省",
+      "latitude": 36.1213,
+      "longitude": 5.9867,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Tazoult-Lambese",
+      "province": "巴特纳省",
+      "latitude": 35.4817,
+      "longitude": 6.2607,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Draa el Mizan",
+      "province": "提济乌祖省",
+      "latitude": 36.5363,
+      "longitude": 3.8334,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Timizart",
+      "province": "提济乌祖省",
+      "latitude": 36.8,
+      "longitude": 4.2667,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Tebesbest",
+      "province": "Touggourt",
+      "latitude": 33.1167,
+      "longitude": 6.0833,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Bou Ismaïl",
+      "province": "Tipaza",
+      "latitude": 36.6426,
+      "longitude": 2.6901,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Meftah",
+      "province": "卜利达省",
+      "latitude": 36.6204,
+      "longitude": 3.2225,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Souma",
+      "province": "卜利达省",
+      "latitude": 36.5183,
+      "longitude": 2.9053,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Ouled Moussa",
+      "province": "Boumerdes",
+      "latitude": 36.6839,
+      "longitude": 3.3666,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Rouached",
+      "province": "米拉省",
+      "latitude": 36.4577,
+      "longitude": 6.0427,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Héliopolis",
+      "province": "盖勒马省",
+      "latitude": 36.5036,
+      "longitude": 7.4428,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Tighenif",
+      "province": "穆阿斯凯尔省",
+      "latitude": 35.4172,
+      "longitude": 0.3298,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Beni Saf",
+      "province": "艾因泰穆尚特省",
+      "latitude": 35.301,
+      "longitude": -1.3823,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "El Hadjira",
+      "province": "瓦尔格拉省",
+      "latitude": 32.6134,
+      "longitude": 5.5126,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Metlili Chaamba",
+      "province": "Ghardaia",
+      "latitude": 32.2667,
+      "longitude": 3.6333,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "El Abiodh Sidi Cheikh",
+      "province": "巴亚兹省",
+      "latitude": 32.893,
+      "longitude": 0.5484,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "El Meghaïer",
+      "province": "El Mghair",
+      "latitude": 33.9514,
+      "longitude": 5.9222,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Es Senia",
+      "province": "奥兰省",
+      "latitude": 35.6478,
+      "longitude": -0.624,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Sidi Khaled",
+      "province": "Ouled Djellal",
+      "latitude": 34.387,
+      "longitude": 4.9878,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Bougara",
+      "province": "卜利达省",
+      "latitude": 36.5418,
+      "longitude": 3.081,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Akbou",
+      "province": "Béjaïa",
+      "latitude": 36.4575,
+      "longitude": 4.5349,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "’Aïn Azel",
+      "province": "塞提夫省",
+      "latitude": 35.8185,
+      "longitude": 5.5111,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Dar el Beïda",
+      "province": "阿尔及尔省",
+      "latitude": 36.7133,
+      "longitude": 3.2125,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Aïn el Bya",
+      "province": "奥兰省",
+      "latitude": 35.8039,
+      "longitude": -0.3018,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Debila",
+      "province": "瓦迪省",
+      "latitude": 33.5167,
+      "longitude": 6.95,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Chetouane",
+      "province": "特莱姆森省",
+      "latitude": 34.9213,
+      "longitude": -1.2951,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Arris",
+      "province": "巴特纳省",
+      "latitude": 35.2588,
+      "longitude": 6.3471,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "M’Daourouch",
+      "province": "苏格艾赫拉斯省",
+      "latitude": 36.0782,
+      "longitude": 7.8196,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "’Aïn el Turk",
+      "province": "奥兰省",
+      "latitude": 35.7438,
+      "longitude": -0.7693,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "’Aïn Deheb",
+      "province": "提亚雷特省",
+      "latitude": 34.8422,
+      "longitude": 1.547,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Sidi ech Chahmi",
+      "province": "奥兰省",
+      "latitude": 35.659,
+      "longitude": -0.5217,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "El Kala",
+      "province": "塔里夫省",
+      "latitude": 36.8956,
+      "longitude": 8.4433,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "El Affroun",
+      "province": "卜利达省",
+      "latitude": 36.4701,
+      "longitude": 2.6253,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Djamaa",
+      "province": "El Mghair",
+      "latitude": 33.5339,
+      "longitude": 5.9931,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Makouda",
+      "province": "提济乌祖省",
+      "latitude": 36.7857,
+      "longitude": 4.0627,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "’Aïn Merane",
+      "province": "谢里夫省",
+      "latitude": 36.1628,
+      "longitude": 0.9704,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "歇尔谢尔",
+      "name_en": "Cherchell",
+      "province": "Tipaza",
+      "latitude": 36.605,
+      "longitude": 2.1908,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Râs el Aïoun",
+      "province": "巴特纳省",
+      "latitude": 35.6738,
+      "longitude": 5.6453,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Bordj Ghdir",
+      "province": "布阿拉里季堡省",
+      "latitude": 35.9011,
+      "longitude": 4.8981,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Beni Tamou",
+      "province": "卜利达省",
+      "latitude": 36.5383,
+      "longitude": 2.8217,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Hadjout",
+      "province": "Tipaza",
+      "latitude": 36.5126,
+      "longitude": 2.4138,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Azzaba",
+      "province": "斯基克达省",
+      "latitude": 36.7394,
+      "longitude": 7.1053,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Beni Douala",
+      "province": "提济乌祖省",
+      "latitude": 36.6195,
+      "longitude": 4.0828,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Aïn Taya",
+      "province": "阿尔及尔省",
+      "latitude": 36.7933,
+      "longitude": 3.2869,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "El Attaf",
+      "province": "艾因迪夫拉省",
+      "latitude": 36.2239,
+      "longitude": 1.6719,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "El Arrouch",
+      "province": "斯基克达省",
+      "latitude": 36.6531,
+      "longitude": 6.8364,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Reggane",
+      "province": "阿德拉尔省",
+      "latitude": 26.7158,
+      "longitude": 0.1714,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "El Aouinet",
+      "province": "泰贝萨省",
+      "latitude": 35.8669,
+      "longitude": 7.8867,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "’Aïn el Melh",
+      "province": "姆西拉省",
+      "latitude": 34.8415,
+      "longitude": 4.1638,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Gdyel",
+      "province": "奥兰省",
+      "latitude": 35.7811,
+      "longitude": -0.4258,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Kaïs",
+      "province": "汉舍莱省",
+      "latitude": 35.4947,
+      "longitude": 6.9249,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Tamalous",
+      "province": "斯基克达省",
+      "latitude": 36.8376,
+      "longitude": 6.6402,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Sebdou",
+      "province": "特莱姆森省",
+      "latitude": 34.637,
+      "longitude": -1.3314,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Aïn Bessem",
+      "province": "布维拉省",
+      "latitude": 36.2933,
+      "longitude": 3.6732,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "因萨拉赫",
+      "name_en": "In Salah",
+      "province": "In Salah",
+      "latitude": 27.1968,
+      "longitude": 2.4791,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Aïn Smara",
+      "province": "君士坦丁省",
+      "latitude": 36.2674,
+      "longitude": 6.5014,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Djidiouia",
+      "province": "埃利赞省",
+      "latitude": 35.9299,
+      "longitude": 0.8287,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Barbacha",
+      "province": "Béjaïa",
+      "latitude": 36.5667,
+      "longitude": 4.9667,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Bougaa",
+      "province": "塞提夫省",
+      "latitude": 36.3329,
+      "longitude": 5.0884,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "’Aïn el Bell",
+      "province": "杰勒法省",
+      "latitude": 34.3438,
+      "longitude": 3.2247,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "el hed",
+      "province": "Béjaïa",
+      "latitude": 36.65,
+      "longitude": 4.7736,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Remchi",
+      "province": "特莱姆森省",
+      "latitude": 35.062,
+      "longitude": -1.4336,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Megarine",
+      "province": "Touggourt",
+      "latitude": 33.1919,
+      "longitude": 6.0869,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Mehdia daira de meghila",
+      "province": "提亚雷特省",
+      "latitude": 35.4306,
+      "longitude": 1.7571,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "’Aïn Benian",
+      "province": "阿尔及尔省",
+      "latitude": 36.8028,
+      "longitude": 2.9219,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Freha",
+      "province": "提济乌祖省",
+      "latitude": 36.7523,
+      "longitude": 4.3155,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Sidi Moussa",
+      "province": "阿尔及尔省",
+      "latitude": 36.6064,
+      "longitude": 3.0878,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "L’Arbaa Naït Irathen",
+      "province": "提济乌祖省",
+      "latitude": 36.6311,
+      "longitude": 4.1986,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Aïn Kercha",
+      "province": "乌姆布瓦吉省",
+      "latitude": 35.9247,
+      "longitude": 6.6953,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Oued Sly",
+      "province": "谢里夫省",
+      "latitude": 36.1012,
+      "longitude": 1.1995,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Robbah",
+      "province": "瓦迪省",
+      "latitude": 33.2797,
+      "longitude": 6.9098,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Bouinan",
+      "province": "卜利达省",
+      "latitude": 36.5317,
+      "longitude": 2.9919,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Berriane",
+      "province": "Ghardaia",
+      "latitude": 32.8265,
+      "longitude": 3.7669,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Meskiana",
+      "province": "乌姆布瓦吉省",
+      "latitude": 35.6306,
+      "longitude": 7.6661,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Lardjem",
+      "province": "提塞姆西勒特省",
+      "latitude": 35.7492,
+      "longitude": 1.5478,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Rais Hamidou",
+      "province": "阿尔及尔省",
+      "latitude": 36.8169,
+      "longitude": 3.0127,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "El Idrissia",
+      "province": "杰勒法省",
+      "latitude": 34.4454,
+      "longitude": 2.5275,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Sidi Amrane",
+      "province": "El Mghair",
+      "latitude": 33.4988,
+      "longitude": 6.008,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Ahmed Bel Hadj",
+      "province": "安纳巴省",
+      "latitude": 36.8015,
+      "longitude": 7.6081,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Mekla",
+      "province": "提济乌祖省",
+      "latitude": 36.6818,
+      "longitude": 4.2638,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Sidi Okba",
+      "province": "比斯克拉省",
+      "latitude": 34.7451,
+      "longitude": 5.8983,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "’Aïn Abid",
+      "province": "君士坦丁省",
+      "latitude": 36.2319,
+      "longitude": 6.9433,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "N’Gaous",
+      "province": "巴特纳省",
+      "latitude": 35.555,
+      "longitude": 5.6106,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Draa Ben Khedda",
+      "province": "提济乌祖省",
+      "latitude": 36.7344,
+      "longitude": 3.9622,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Collo",
+      "province": "斯基克达省",
+      "latitude": 37.0056,
+      "longitude": 6.5605,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Ténès",
+      "province": "谢里夫省",
+      "latitude": 36.5108,
+      "longitude": 1.3081,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Ouled Haddaj",
+      "province": "Boumerdes",
+      "latitude": 36.7146,
+      "longitude": 3.3422,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Boumerdas",
+      "province": "Boumerdes",
+      "latitude": 36.7664,
+      "longitude": 3.4772,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Zighout Youcef",
+      "province": "君士坦丁省",
+      "latitude": 36.5331,
+      "longitude": 6.7124,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Ain el Hadjel",
+      "province": "姆西拉省",
+      "latitude": 35.67,
+      "longitude": 3.8815,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Boukadir",
+      "province": "谢里夫省",
+      "latitude": 36.0663,
+      "longitude": 1.126,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Mouzaïa",
+      "province": "卜利达省",
+      "latitude": 36.4669,
+      "longitude": 2.6899,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Grarem",
+      "province": "米拉省",
+      "latitude": 36.5161,
+      "longitude": 6.3272,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Hammamet",
+      "province": "泰贝萨省",
+      "latitude": 35.4486,
+      "longitude": 7.9518,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Ghazaouet",
+      "province": "特莱姆森省",
+      "latitude": 35.0958,
+      "longitude": -1.8577,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Ben Mehidi",
+      "province": "塔里夫省",
+      "latitude": 36.7697,
+      "longitude": 7.9064,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "’Aïn el Hammam",
+      "province": "提济乌祖省",
+      "latitude": 36.5647,
+      "longitude": 4.3062,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Tizi Gheniff",
+      "province": "提济乌祖省",
+      "latitude": 36.5884,
+      "longitude": 3.7744,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Sfizef",
+      "province": "西迪贝勒阿巴斯省",
+      "latitude": 35.2346,
+      "longitude": -0.2444,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Cheraga",
+      "province": "阿尔及尔省",
+      "latitude": 36.7677,
+      "longitude": 2.9592,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Nedroma",
+      "province": "特莱姆森省",
+      "latitude": 35.0136,
+      "longitude": -1.748,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Charef",
+      "province": "杰勒法省",
+      "latitude": 34.621,
+      "longitude": 2.795,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Theniet el Had",
+      "province": "提塞姆西勒特省",
+      "latitude": 35.8711,
+      "longitude": 2.0281,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Bou Hanifia el Hamamat",
+      "province": "穆阿斯凯尔省",
+      "latitude": 35.3147,
+      "longitude": -0.0504,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Ouled Slama Fouaga",
+      "province": "卜利达省",
+      "latitude": 36.5483,
+      "longitude": 3.1101,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Ammi Moussa",
+      "province": "埃利赞省",
+      "latitude": 35.8678,
+      "longitude": 1.1114,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Oued Zenati",
+      "province": "盖勒马省",
+      "latitude": 36.3161,
+      "longitude": 7.1636,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "El Abadia",
+      "province": "艾因迪夫拉省",
+      "latitude": 36.2695,
+      "longitude": 1.6861,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Kerkera",
+      "province": "斯基克达省",
+      "latitude": 36.9292,
+      "longitude": 6.5856,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Feidh el Botma",
+      "province": "杰勒法省",
+      "latitude": 34.5,
+      "longitude": 3.7667,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Birine",
+      "province": "杰勒法省",
+      "latitude": 35.635,
+      "longitude": 3.225,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Dar Chioukh",
+      "province": "杰勒法省",
+      "latitude": 34.8964,
+      "longitude": 3.4854,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Sidi Akkacha",
+      "province": "谢里夫省",
+      "latitude": 36.4647,
+      "longitude": 1.3026,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Azazga",
+      "province": "提济乌祖省",
+      "latitude": 36.7447,
+      "longitude": 4.3722,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Hennaya",
+      "province": "特莱姆森省",
+      "latitude": 34.9514,
+      "longitude": -1.3681,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "El Amria",
+      "province": "艾因泰穆尚特省",
+      "latitude": 35.5244,
+      "longitude": -1.0158,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Dellys",
+      "province": "Boumerdes",
+      "latitude": 36.9172,
+      "longitude": 3.9131,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Tirmitine",
+      "province": "提济乌祖省",
+      "latitude": 36.6539,
+      "longitude": 3.9814,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Telerghma",
+      "province": "米拉省",
+      "latitude": 36.1165,
+      "longitude": 6.3543,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Fedj M’Zala",
+      "province": "米拉省",
+      "latitude": 36.4094,
+      "longitude": 5.9446,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Bou Tlelis",
+      "province": "奥兰省",
+      "latitude": 35.5727,
+      "longitude": -0.8996,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Maâtkas",
+      "province": "提济乌祖省",
+      "latitude": 36.6047,
+      "longitude": 3.9844,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Chellalat el Adhaouara",
+      "province": "Medea",
+      "latitude": 35.9397,
+      "longitude": 3.4159,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "El Hadjar",
+      "province": "安纳巴省",
+      "latitude": 36.8038,
+      "longitude": 7.7368,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "El Kseur",
+      "province": "Béjaïa",
+      "latitude": 36.6794,
+      "longitude": 4.8555,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Hammam Bou Hadjar",
+      "province": "艾因泰穆尚特省",
+      "latitude": 35.3789,
+      "longitude": -0.9678,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Amizour",
+      "province": "Béjaïa",
+      "latitude": 36.6402,
+      "longitude": 4.9013,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Didouche Mourad",
+      "province": "君士坦丁省",
+      "latitude": 36.4525,
+      "longitude": 6.6364,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Melouza",
+      "province": "姆西拉省",
+      "latitude": 35.98,
+      "longitude": 4.1867,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Ouled Mimoun",
+      "province": "特莱姆森省",
+      "latitude": 34.9047,
+      "longitude": -1.0339,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Aïn Arnat",
+      "province": "塞提夫省",
+      "latitude": 36.1868,
+      "longitude": 5.3135,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Reguiba",
+      "province": "瓦迪省",
+      "latitude": 33.5639,
+      "longitude": 6.7033,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Sidi Mérouane",
+      "province": "米拉省",
+      "latitude": 36.5206,
+      "longitude": 6.2611,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Abou el Hassan",
+      "province": "谢里夫省",
+      "latitude": 36.4166,
+      "longitude": 1.1962,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Arhribs",
+      "province": "提济乌祖省",
+      "latitude": 36.7936,
+      "longitude": 4.3116,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Sidi Abdelli",
+      "province": "特莱姆森省",
+      "latitude": 35.0694,
+      "longitude": -1.1371,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Salah Bey",
+      "province": "塞提夫省",
+      "latitude": 35.8545,
+      "longitude": 5.2905,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Chiffa",
+      "province": "卜利达省",
+      "latitude": 36.4629,
+      "longitude": 2.7387,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Zeribet el Oued",
+      "province": "比斯克拉省",
+      "latitude": 34.6828,
+      "longitude": 6.5111,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Boumahra Ahmed",
+      "province": "盖勒马省",
+      "latitude": 36.4583,
+      "longitude": 7.5139,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Oued el Abtal",
+      "province": "穆阿斯凯尔省",
+      "latitude": 35.456,
+      "longitude": 0.6878,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Tizi-n-Tleta",
+      "province": "提济乌祖省",
+      "latitude": 36.5457,
+      "longitude": 4.0571,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Mazouna",
+      "province": "埃利赞省",
+      "latitude": 36.1223,
+      "longitude": 0.8986,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Mansourah",
+      "province": "布阿拉里季堡省",
+      "latitude": 34.8616,
+      "longitude": -1.3394,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Timimoun",
+      "province": "Timimoun",
+      "latitude": 29.2642,
+      "longitude": 0.2358,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Zemoura",
+      "province": "埃利赞省",
+      "latitude": 35.7225,
+      "longitude": 0.7551,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Aoulef",
+      "province": "阿德拉尔省",
+      "latitude": 26.9667,
+      "longitude": 1.0833,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Feraoun",
+      "province": "Béjaïa",
+      "latitude": 36.5604,
+      "longitude": 4.8545,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Chemini",
+      "province": "Béjaïa",
+      "latitude": 36.6,
+      "longitude": 4.6167,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Bensekrane",
+      "province": "特莱姆森省",
+      "latitude": 35.0746,
+      "longitude": -1.2243,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Oued el Alleug",
+      "province": "卜利达省",
+      "latitude": 36.5553,
+      "longitude": 2.7903,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Taïbet",
+      "province": "Touggourt",
+      "latitude": 33.0851,
+      "longitude": 6.3891,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Tadmaït",
+      "province": "提济乌祖省",
+      "latitude": 36.7441,
+      "longitude": 3.9005,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Boudjima",
+      "province": "提济乌祖省",
+      "latitude": 36.8022,
+      "longitude": 4.1519,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Chorfa",
+      "province": "布维拉省",
+      "latitude": 36.365,
+      "longitude": 4.3264,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Mers el Kebir",
+      "province": "奥兰省",
+      "latitude": 35.7279,
+      "longitude": -0.7081,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Chebli",
+      "province": "卜利达省",
+      "latitude": 36.5772,
+      "longitude": 3.0092,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Seddouk",
+      "province": "Béjaïa",
+      "latitude": 36.5472,
+      "longitude": 4.6861,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Beni Mester",
+      "province": "特莱姆森省",
+      "latitude": 34.8704,
+      "longitude": -1.4232,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Bordj Zemoura",
+      "province": "布阿拉里季堡省",
+      "latitude": 36.2746,
+      "longitude": 4.8567,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Chabet el Ameur",
+      "province": "Boumerdes",
+      "latitude": 36.6371,
+      "longitude": 3.6947,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "El Malah",
+      "province": "艾因泰穆尚特省",
+      "latitude": 35.3914,
+      "longitude": -1.0924,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Berrahal",
+      "province": "安纳巴省",
+      "latitude": 36.8353,
+      "longitude": 7.4533,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Brezina",
+      "province": "巴亚兹省",
+      "latitude": 33.0989,
+      "longitude": 1.2608,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Babor",
+      "province": "塞提夫省",
+      "latitude": 36.4899,
+      "longitude": 5.5393,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Beni Amrane",
+      "province": "Boumerdes",
+      "latitude": 36.6677,
+      "longitude": 3.5911,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Tizi Rached",
+      "province": "提济乌祖省",
+      "latitude": 36.6718,
+      "longitude": 4.1918,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Zeralda",
+      "province": "阿尔及尔省",
+      "latitude": 36.7117,
+      "longitude": 2.8424,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Arbatache",
+      "province": "Boumerdes",
+      "latitude": 36.6377,
+      "longitude": 3.3713,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Saoula",
+      "province": "阿尔及尔省",
+      "latitude": 36.7046,
+      "longitude": 3.0246,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "’Aïn el Berd",
+      "province": "西迪贝勒阿巴斯省",
+      "latitude": 35.364,
+      "longitude": -0.5128,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Thenia",
+      "province": "Boumerdes",
+      "latitude": 36.7254,
+      "longitude": 3.5566,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Naciria",
+      "province": "Boumerdes",
+      "latitude": 36.7463,
+      "longitude": 3.8316,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "提帕萨",
+      "name_en": "Tipasa",
+      "province": "Tipaza",
+      "latitude": 36.5897,
+      "longitude": 2.4489,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Ighram",
+      "province": "Béjaïa",
+      "latitude": 36.4629,
+      "longitude": 4.5053,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Naama",
+      "province": "纳马省",
+      "latitude": 33.2667,
+      "longitude": -0.3167,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Bougzoul",
+      "province": "Medea",
+      "latitude": 35.7056,
+      "longitude": 2.846,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Aïn Lechiakh",
+      "province": "艾因迪夫拉省",
+      "latitude": 36.1585,
+      "longitude": 2.4051,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Abadla",
+      "province": "贝沙尔省",
+      "latitude": 31.019,
+      "longitude": -2.7239,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "El Tarf",
+      "province": "塔里夫省",
+      "latitude": 36.7672,
+      "longitude": 8.3138,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Illizi",
+      "province": "伊利济省",
+      "latitude": 26.4833,
+      "longitude": 8.4667,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "’Aïn el Hadjar",
+      "province": "Saida",
+      "latitude": 34.7585,
+      "longitude": 0.1453,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Ouzera",
+      "province": "Medea",
+      "latitude": 36.2542,
+      "longitude": 2.8472,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Ziama Mansouria",
+      "province": "吉杰勒省",
+      "latitude": 36.6732,
+      "longitude": 5.4812,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "’Aïn Boucif",
+      "province": "Medea",
+      "latitude": 35.8912,
+      "longitude": 3.1585,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Timgad",
+      "province": "巴特纳省",
+      "latitude": 35.4928,
+      "longitude": 6.47,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Sidi Ben Adda",
+      "province": "艾因泰穆尚特省",
+      "latitude": 35.3059,
+      "longitude": -1.1814,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Béni Abbès",
+      "province": "贝尼阿巴斯省",
+      "latitude": 30.1331,
+      "longitude": -2.1661,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Oumache",
+      "province": "比斯克拉省",
+      "latitude": 34.6929,
+      "longitude": 5.6809,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Hammam Righa",
+      "province": "艾因迪夫拉省",
+      "latitude": 36.3797,
+      "longitude": 2.3989,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Boumagueur",
+      "province": "巴特纳省",
+      "latitude": 35.5052,
+      "longitude": 5.5525,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Kasbate El Djena",
+      "province": "阿德拉尔省",
+      "latitude": 27.02,
+      "longitude": 1.0454,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Sidi Senoussi سيدي سنوسي",
+      "province": "特莱姆森省",
+      "latitude": 34.9969,
+      "longitude": -1.0945,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Draâ Esmar",
+      "province": "Medea",
+      "latitude": 36.2735,
+      "longitude": 2.717,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Aougrout",
+      "province": "Timimoun",
+      "latitude": 28.7029,
+      "longitude": 0.3352,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Aghlal",
+      "province": "艾因泰穆尚特省",
+      "latitude": 35.2011,
+      "longitude": -1.0696,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "In Guezzam",
+      "province": "In Guezzam",
+      "latitude": 19.5736,
+      "longitude": 5.7681,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Tilouline",
+      "province": "阿德拉尔省",
+      "latitude": 27.0391,
+      "longitude": -0.094,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Tinerkouk",
+      "province": "Timimoun",
+      "latitude": 29.7158,
+      "longitude": 0.7113,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "",
+      "name_en": "Zaouiet ed Debarh",
+      "province": "Timimoun",
+      "latitude": 29.699,
+      "longitude": 0.7127,
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "name": "贾奈特",
+      "name_en": "Djanet",
+      "province": "Djanet",
+      "latitude": 24.5553,
+      "longitude": 9.485,
+      "timezone": "Africa/Algiers"
+    }
+  ]
+}

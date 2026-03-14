@@ -1,0 +1,30 @@
+{
+  "country_code": "MF",
+  "country_name": "法属圣马丁",
+  "cities": [
+    {
+      "name": "",
+      "name_en": "Grand-Case",
+      "province": "",
+      "latitude": 18.1048,
+      "longitude": -63.0536,
+      "timezone": "America/Marigot"
+    },
+    {
+      "name": "",
+      "name_en": "Concordia",
+      "province": "",
+      "latitude": 18.0649,
+      "longitude": -63.0779,
+      "timezone": "America/Marigot"
+    },
+    {
+      "name": "马里戈",
+      "name_en": "Marigot",
+      "province": "",
+      "latitude": 18.0682,
+      "longitude": -63.083,
+      "timezone": "America/Marigot"
+    }
+  ]
+}

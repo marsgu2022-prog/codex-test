@@ -1,0 +1,526 @@
+{
+  "country_code": "MT",
+  "country_name": "马耳他",
+  "cities": [
+    {
+      "name": "",
+      "name_en": "San Pawl il-Baħar",
+      "province": "Saint Paul’s Bay",
+      "latitude": 35.9506,
+      "longitude": 14.4156,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "",
+      "name_en": "Birkirkara",
+      "province": "Birkirkara",
+      "latitude": 35.8971,
+      "longitude": 14.4611,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "",
+      "name_en": "Mosta",
+      "province": "Il-Mosta",
+      "latitude": 35.9094,
+      "longitude": 14.4257,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "斯利马",
+      "name_en": "Sliema",
+      "province": "Tas-Sliema",
+      "latitude": 35.9125,
+      "longitude": 14.5017,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "戈尔米",
+      "name_en": "Qormi",
+      "province": "Qormi",
+      "latitude": 35.876,
+      "longitude": 14.472,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "扎巴尔",
+      "name_en": "Żabbar",
+      "province": "Ħaż-Żabbar",
+      "latitude": 35.8769,
+      "longitude": 14.5359,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "纳沙尔",
+      "name_en": "Naxxar",
+      "province": "In-Naxxar",
+      "latitude": 35.9137,
+      "longitude": 14.4438,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "",
+      "name_en": "San Ġwann",
+      "province": "Saint John",
+      "latitude": 35.9056,
+      "longitude": 14.4761,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "斯维吉",
+      "name_en": "Swieqi",
+      "province": "Is-Swieqi",
+      "latitude": 35.9215,
+      "longitude": 14.48,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "",
+      "name_en": "San Ġiljan",
+      "province": "Saint Julian",
+      "latitude": 35.9184,
+      "longitude": 14.4898,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "",
+      "name_en": "Imsida",
+      "province": "L-Imsida",
+      "latitude": 35.8925,
+      "longitude": 14.4828,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "比尔泽布贾",
+      "name_en": "Birżebbuġa",
+      "province": "Birżebbuġa",
+      "latitude": 35.8255,
+      "longitude": 14.5268,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "弗古拉",
+      "name_en": "Fgura",
+      "province": "Il-Fgura",
+      "latitude": 35.8703,
+      "longitude": 14.5133,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "拉巴特",
+      "name_en": "Rabat",
+      "province": "Ir-Rabat",
+      "latitude": 35.8815,
+      "longitude": 14.3987,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "",
+      "name_en": "Gżira",
+      "province": "Il-Gżira",
+      "latitude": 35.9058,
+      "longitude": 14.4881,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "榟橔",
+      "name_en": "Żejtun",
+      "province": "Iż-Żejtun",
+      "latitude": 35.8555,
+      "longitude": 14.5334,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "",
+      "name_en": "Mellieħa",
+      "province": "Il-Mellieħa",
+      "latitude": 35.9566,
+      "longitude": 14.3626,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "",
+      "name_en": "Attard",
+      "province": "Attard",
+      "latitude": 35.8897,
+      "longitude": 14.4425,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "",
+      "name_en": "Haz-Zebbug",
+      "province": "Ħaż-Żebbuġ",
+      "latitude": 35.8719,
+      "longitude": 14.4411,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "祖里格",
+      "name_en": "Żurrieq",
+      "province": "Iż-Żurrieq",
+      "latitude": 35.8296,
+      "longitude": 14.4759,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "",
+      "name_en": "Marsaskala",
+      "province": "Marsaskala",
+      "latitude": 35.8622,
+      "longitude": 14.567,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "",
+      "name_en": "Ħamrun",
+      "province": "Il-Ħamrun",
+      "latitude": 35.8845,
+      "longitude": 14.485,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "锡杰维",
+      "name_en": "Siġġiewi",
+      "province": "Is-Siġġiewi",
+      "latitude": 35.8555,
+      "longitude": 14.4361,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "保拉",
+      "name_en": "Paola",
+      "province": "Paola",
+      "latitude": 35.873,
+      "longitude": 14.499,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "塔尔欣",
+      "name_en": "Tarxien",
+      "province": "Ta’ Xbiex",
+      "latitude": 35.8656,
+      "longitude": 14.5151,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Venera",
+      "province": "Saint Venera",
+      "latitude": 35.89,
+      "longitude": 14.4729,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "瓦莱塔",
+      "name_en": "Valletta",
+      "province": "Valletta",
+      "latitude": 35.8997,
+      "longitude": 14.5148,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "维多利亚",
+      "name_en": "Victoria",
+      "province": "Victoria",
+      "latitude": 36.0447,
+      "longitude": 14.2412,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "",
+      "name_en": "Luqa",
+      "province": "Luqa",
+      "latitude": 35.8599,
+      "longitude": 14.489,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "科斯皮夸",
+      "name_en": "Cospicua",
+      "province": "Bormla",
+      "latitude": 35.8856,
+      "longitude": 14.5275,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "马尔萨",
+      "name_en": "Marsa",
+      "province": "Il-Marsa",
+      "latitude": 35.8792,
+      "longitude": 14.4946,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "",
+      "name_en": "Pietà",
+      "province": "Tal-Pietà",
+      "latitude": 35.893,
+      "longitude": 14.4936,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "",
+      "name_en": "Għaxaq",
+      "province": "Ħal Għaxaq",
+      "latitude": 35.8493,
+      "longitude": 14.5169,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "",
+      "name_en": "Balzan",
+      "province": "Balzan",
+      "latitude": 35.9021,
+      "longitude": 14.4521,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "",
+      "name_en": "Nadur",
+      "province": "In-Nadur",
+      "latitude": 36.0379,
+      "longitude": 14.2938,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "",
+      "name_en": "Pembroke",
+      "province": "Pembroke",
+      "latitude": 35.9302,
+      "longitude": 14.4779,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "",
+      "name_en": "Imġarr",
+      "province": "L-Imġarr",
+      "latitude": 35.9215,
+      "longitude": 14.365,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "",
+      "name_en": "Dingli",
+      "province": "Dingli",
+      "latitude": 35.8615,
+      "longitude": 14.3821,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "",
+      "name_en": "Xagħra",
+      "province": "Ix-Xagħra",
+      "latitude": 36.05,
+      "longitude": 14.2642,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "",
+      "name_en": "Marsaxlokk",
+      "province": "Marsaxlokk",
+      "latitude": 35.8421,
+      "longitude": 14.543,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "",
+      "name_en": "L-Iklin",
+      "province": "L-Iklin",
+      "latitude": 35.9041,
+      "longitude": 14.4542,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "",
+      "name_en": "Mqabba",
+      "province": "L-Imqabba",
+      "latitude": 35.8476,
+      "longitude": 14.4682,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "",
+      "name_en": "Xewkija",
+      "province": "Ix-Xewkija",
+      "latitude": 36.0341,
+      "longitude": 14.2559,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "",
+      "name_en": "Lija",
+      "province": "Lija",
+      "latitude": 35.9005,
+      "longitude": 14.4463,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "",
+      "name_en": "Gudja",
+      "province": "Il-Gudja",
+      "latitude": 35.8505,
+      "longitude": 14.5059,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "奎伦迪",
+      "name_en": "Qrendi",
+      "province": "Il-Qrendi",
+      "latitude": 35.8345,
+      "longitude": 14.4578,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "",
+      "name_en": "Kalkara",
+      "province": "Il-Kalkara",
+      "latitude": 35.8892,
+      "longitude": 14.5328,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "",
+      "name_en": "Għajnsielem",
+      "province": "Għajnsielem",
+      "latitude": 36.0257,
+      "longitude": 14.2864,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "",
+      "name_en": "Hal Gharghur",
+      "province": "Ħal Għargħur",
+      "latitude": 35.9241,
+      "longitude": 14.4512,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "森格莱阿",
+      "name_en": "Senglea",
+      "province": "Senglea",
+      "latitude": 35.8878,
+      "longitude": 14.5159,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "",
+      "name_en": "Imtarfa",
+      "province": "Mtarfa",
+      "latitude": 35.8924,
+      "longitude": 14.3982,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "",
+      "name_en": "Vittoriosa",
+      "province": "Il-Birgu",
+      "latitude": 35.8916,
+      "longitude": 14.5176,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "",
+      "name_en": "Kirkop",
+      "province": "Kirkop",
+      "latitude": 35.8423,
+      "longitude": 14.4856,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "",
+      "name_en": "Safi",
+      "province": "Safi",
+      "latitude": 35.8331,
+      "longitude": 14.4849,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "",
+      "name_en": "Floriana",
+      "province": "Floriana",
+      "latitude": 35.8958,
+      "longitude": 14.5083,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "",
+      "name_en": "Ta’ Xbiex",
+      "province": "Tarxien",
+      "latitude": 35.8991,
+      "longitude": 14.4946,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "",
+      "name_en": "Xgħajra",
+      "province": "Ix-Xgħajra",
+      "latitude": 35.8856,
+      "longitude": 14.5475,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "",
+      "name_en": "Żebbuġ",
+      "province": "Iż-Żebbuġ",
+      "latitude": 36.0719,
+      "longitude": 14.237,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "",
+      "name_en": "Sannat",
+      "province": "Sannat",
+      "latitude": 36.0245,
+      "longitude": 14.2428,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "",
+      "name_en": "Kerċem",
+      "province": "Ta’ Kerċem",
+      "latitude": 36.0416,
+      "longitude": 14.2269,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "",
+      "name_en": "Għarb",
+      "province": "L-Għarb",
+      "latitude": 36.0597,
+      "longitude": 14.2092,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "",
+      "name_en": "Fontana",
+      "province": "Il-Fontana",
+      "latitude": 36.038,
+      "longitude": 14.236,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "",
+      "name_en": "Munxar",
+      "province": "Il-Munxar",
+      "latitude": 36.0305,
+      "longitude": 14.2347,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "",
+      "name_en": "San Lawrenz",
+      "province": "Saint Lawrence",
+      "latitude": 36.0554,
+      "longitude": 14.2039,
+      "timezone": "Europe/Malta"
+    },
+    {
+      "name": "",
+      "name_en": "Imdina",
+      "province": "L-Imdina",
+      "latitude": 35.8864,
+      "longitude": 14.4031,
+      "timezone": "Europe/Malta"
+    }
+  ]
+}

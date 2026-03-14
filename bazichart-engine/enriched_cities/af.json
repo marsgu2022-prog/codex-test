@@ -1,0 +1,790 @@
+{
+  "country_code": "AF",
+  "country_name": "阿富汗",
+  "cities": [
+    {
+      "name": "喀布尔",
+      "name_en": "Kabul",
+      "province": "喀布尔省",
+      "latitude": 34.5281,
+      "longitude": 69.1723,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "赫拉特",
+      "name_en": "Herāt",
+      "province": "赫拉特省",
+      "latitude": 34.3482,
+      "longitude": 62.1997,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "坎大哈",
+      "name_en": "Kandahār",
+      "province": "坎大哈省",
+      "latitude": 31.6133,
+      "longitude": 65.7101,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Mazār-e Sharīf",
+      "province": "巴尔赫省",
+      "latitude": 36.709,
+      "longitude": 67.1109,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Jalālābād",
+      "province": "楠格哈尔省",
+      "latitude": 34.4265,
+      "longitude": 70.4515,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "昆都士",
+      "name_en": "Kunduz",
+      "province": "昆都士省",
+      "latitude": 36.7289,
+      "longitude": 68.857,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Ghazni",
+      "province": "加兹尼省",
+      "latitude": 33.5539,
+      "longitude": 68.421,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "巴尔赫",
+      "name_en": "Balkh",
+      "province": "巴尔赫省",
+      "latitude": 36.7563,
+      "longitude": 66.8972,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Baghlān",
+      "province": "巴格兰省",
+      "latitude": 36.1307,
+      "longitude": 68.7083,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Gardez",
+      "province": "帕克蒂亚省",
+      "latitude": 33.5974,
+      "longitude": 69.2259,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Khōst",
+      "province": "霍斯特省",
+      "latitude": 33.3395,
+      "longitude": 69.9204,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "迈马纳",
+      "name_en": "Maymana",
+      "province": "法利亚布省",
+      "latitude": 35.9214,
+      "longitude": 64.7836,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Khanabad",
+      "province": "昆都士省",
+      "latitude": 36.683,
+      "longitude": 69.1128,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Bāzār-e Yakāwlang",
+      "province": "巴米扬省",
+      "latitude": 34.7353,
+      "longitude": 66.9738,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Bāzārak",
+      "province": "潘杰希尔省",
+      "latitude": 35.3129,
+      "longitude": 69.5152,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Khulm",
+      "province": "巴尔赫省",
+      "latitude": 36.6974,
+      "longitude": 67.6983,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "塔卢坎",
+      "name_en": "Taloqan",
+      "province": "塔哈尔省",
+      "latitude": 36.736,
+      "longitude": 69.5345,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Bāmyān",
+      "province": "巴米扬省",
+      "latitude": 34.8216,
+      "longitude": 67.8273,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Pul-e Khumrī",
+      "province": "巴格兰省",
+      "latitude": 35.9446,
+      "longitude": 68.7151,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Shibirghān",
+      "province": "朱兹詹省",
+      "latitude": 36.6676,
+      "longitude": 65.7529,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "恰里卡尔",
+      "name_en": "Charikar",
+      "province": "Parwan",
+      "latitude": 35.0136,
+      "longitude": 69.1714,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Sar-e Pul",
+      "province": "萨尔普勒省",
+      "latitude": 36.2154,
+      "longitude": 65.9325,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "扎兰季",
+      "name_en": "Zaranj",
+      "province": "Nimroz",
+      "latitude": 30.9596,
+      "longitude": 61.8604,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Paghmān",
+      "province": "喀布尔省",
+      "latitude": 34.5879,
+      "longitude": 68.9509,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Asadābād",
+      "province": "库纳尔省",
+      "latitude": 34.8731,
+      "longitude": 71.147,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Aībak",
+      "province": "萨曼甘省",
+      "latitude": 36.2647,
+      "longitude": 68.0155,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Fayzabad",
+      "province": "巴达赫尚省",
+      "latitude": 37.1166,
+      "longitude": 70.58,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Lashkar Gāh",
+      "province": "赫尔曼德省",
+      "latitude": 31.5938,
+      "longitude": 64.3716,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Gereshk",
+      "province": "赫尔曼德省",
+      "latitude": 31.8209,
+      "longitude": 64.57,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "法拉",
+      "name_en": "Farah",
+      "province": "法拉省",
+      "latitude": 32.3745,
+      "longitude": 62.1164,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Istālif",
+      "province": "喀布尔省",
+      "latitude": 34.8327,
+      "longitude": 69.0776,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Andkhōy",
+      "province": "法利亚布省",
+      "latitude": 36.9529,
+      "longitude": 65.1238,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Bahārak",
+      "province": "巴达赫尚省",
+      "latitude": 37.0025,
+      "longitude": 70.9066,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Nīlī",
+      "province": "代孔迪省",
+      "latitude": 33.7218,
+      "longitude": 66.1302,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Ghormach",
+      "province": "巴德吉斯省",
+      "latitude": 35.7306,
+      "longitude": 63.7826,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Shīnḏanḏ",
+      "province": "赫拉特省",
+      "latitude": 33.3029,
+      "longitude": 62.1474,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Rustāq",
+      "province": "塔哈尔省",
+      "latitude": 37.126,
+      "longitude": 69.8304,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Khān Neshīn",
+      "province": "赫尔曼德省",
+      "latitude": 30.5488,
+      "longitude": 63.7888,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Qarāwul",
+      "province": "昆都士省",
+      "latitude": 37.2196,
+      "longitude": 68.7802,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Jurm",
+      "province": "巴达赫尚省",
+      "latitude": 36.8648,
+      "longitude": 70.8342,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Nahrīn",
+      "province": "巴格兰省",
+      "latitude": 36.0649,
+      "longitude": 69.1334,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Baraki Barak",
+      "province": "洛加尔省",
+      "latitude": 33.9674,
+      "longitude": 68.9492,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Ārt Khwājah",
+      "province": "塔哈尔省",
+      "latitude": 37.0857,
+      "longitude": 69.4796,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Eslam Qaleh",
+      "province": "赫拉特省",
+      "latitude": 34.6667,
+      "longitude": 61.0667,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Karukh",
+      "province": "赫拉特省",
+      "latitude": 34.4811,
+      "longitude": 62.5863,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Mehtar Lām",
+      "province": "拉格曼省",
+      "latitude": 34.6714,
+      "longitude": 70.2094,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Kushk",
+      "province": "赫拉特省",
+      "latitude": 33.2957,
+      "longitude": 61.9522,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Shahrak",
+      "province": "古尔省",
+      "latitude": 34.1074,
+      "longitude": 64.3052,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Āsmār",
+      "province": "库纳尔省",
+      "latitude": 35.0333,
+      "longitude": 71.3581,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Sang-e Chārak",
+      "province": "萨尔普勒省",
+      "latitude": 35.8497,
+      "longitude": 66.4369,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Khāsh",
+      "province": "Nimroz",
+      "latitude": 31.5292,
+      "longitude": 62.7906,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Markaz-e Woluswalī-ye Āchīn",
+      "province": "楠格哈尔省",
+      "latitude": 34.1258,
+      "longitude": 70.7078,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Jabal os Saraj",
+      "province": "Parwan",
+      "latitude": 35.1183,
+      "longitude": 69.2378,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Qarqīn",
+      "province": "朱兹詹省",
+      "latitude": 37.4185,
+      "longitude": 66.0436,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Barakī",
+      "province": "洛加尔省",
+      "latitude": 33.9395,
+      "longitude": 68.922,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Fayrōz Kōh",
+      "province": "古尔省",
+      "latitude": 34.5195,
+      "longitude": 65.2509,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Mīrābād",
+      "province": "Nimroz",
+      "latitude": 30.4362,
+      "longitude": 61.8383,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Zarghūn Shahr",
+      "province": "帕克蒂卡省",
+      "latitude": 32.8473,
+      "longitude": 68.4457,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Sangīn",
+      "province": "赫尔曼德省",
+      "latitude": 32.0727,
+      "longitude": 64.8359,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Panjāb",
+      "province": "巴米扬省",
+      "latitude": 34.3879,
+      "longitude": 67.0233,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Uruzgān",
+      "province": "乌鲁兹甘省",
+      "latitude": 32.9278,
+      "longitude": 66.6325,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Pul-e ‘Alam",
+      "province": "洛加尔省",
+      "latitude": 33.9953,
+      "longitude": 69.0227,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Chīras",
+      "province": "萨尔普勒省",
+      "latitude": 35.4167,
+      "longitude": 65.9823,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Ḩukūmatī Azrah",
+      "province": "洛加尔省",
+      "latitude": 34.1735,
+      "longitude": 69.6457,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Qarah Bāgh",
+      "province": "赫拉特省",
+      "latitude": 34.9402,
+      "longitude": 61.7759,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Qalāt",
+      "province": "扎布尔省",
+      "latitude": 32.1058,
+      "longitude": 66.9083,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Ashkāsham",
+      "province": "巴达赫尚省",
+      "latitude": 36.6833,
+      "longitude": 71.5333,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Kuhsān",
+      "province": "赫拉特省",
+      "latitude": 34.6539,
+      "longitude": 61.1978,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Tukzār",
+      "province": "萨尔普勒省",
+      "latitude": 35.9483,
+      "longitude": 66.4213,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Chahār Burj",
+      "province": "赫拉特省",
+      "latitude": 34.2448,
+      "longitude": 62.1917,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Larkird",
+      "province": "萨尔普勒省",
+      "latitude": 35.4894,
+      "longitude": 66.6641,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Yangī Qal‘ah",
+      "province": "塔哈尔省",
+      "latitude": 37.4657,
+      "longitude": 69.6113,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Rūdbār",
+      "province": "Nimroz",
+      "latitude": 30.15,
+      "longitude": 62.6,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Farkhār",
+      "province": "塔哈尔省",
+      "latitude": 36.5729,
+      "longitude": 69.8578,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Zindah Jān",
+      "province": "赫拉特省",
+      "latitude": 34.3426,
+      "longitude": 61.7467,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Anār Darah",
+      "province": "法拉省",
+      "latitude": 32.7587,
+      "longitude": 61.654,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Tarinkot",
+      "province": "乌鲁兹甘省",
+      "latitude": 32.63,
+      "longitude": 65.8781,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Imām Şāḩib",
+      "province": "昆都士省",
+      "latitude": 37.189,
+      "longitude": 68.9364,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Darzāb",
+      "province": "朱兹詹省",
+      "latitude": 35.9774,
+      "longitude": 65.3783,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "‘Alāqahdārī Dīshū",
+      "province": "赫尔曼德省",
+      "latitude": 30.4321,
+      "longitude": 63.298,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Tagāw-Bāy",
+      "province": "萨尔普勒省",
+      "latitude": 35.6994,
+      "longitude": 66.0616,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Markaz-e Ḩukūmat-e Darwēshān",
+      "province": "赫尔曼德省",
+      "latitude": 31.1323,
+      "longitude": 64.1934,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Qala i Naw",
+      "province": "巴德吉斯省",
+      "latitude": 34.9873,
+      "longitude": 63.1289,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Qarchī Gak",
+      "province": "巴尔赫省",
+      "latitude": 37.04,
+      "longitude": 66.7889,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Chīchkah",
+      "province": "昆都士省",
+      "latitude": 37.0705,
+      "longitude": 69.2984,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Dasht-e Archī",
+      "province": "昆都士省",
+      "latitude": 37.1333,
+      "longitude": 69.1667,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Qal‘ah-ye Shahr",
+      "province": "萨尔普勒省",
+      "latitude": 35.5473,
+      "longitude": 65.5676,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Sidqābād",
+      "province": "卡比萨省",
+      "latitude": 35.023,
+      "longitude": 69.3511,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Zaṟah Sharan",
+      "province": "帕克蒂卡省",
+      "latitude": 33.1464,
+      "longitude": 68.7921,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Markaz-e Sayyidābād",
+      "province": "Maidan Wardak Province",
+      "latitude": 34.0004,
+      "longitude": 68.7135,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Tīr Pul",
+      "province": "赫拉特省",
+      "latitude": 34.5943,
+      "longitude": 61.2689,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Muhmand Dara",
+      "province": "楠格哈尔省",
+      "latitude": 34.2475,
+      "longitude": 70.8722,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Tagāb",
+      "province": "卡比萨省",
+      "latitude": 34.855,
+      "longitude": 69.6492,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Khandūd",
+      "province": "巴达赫尚省",
+      "latitude": 36.9513,
+      "longitude": 72.318,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Mīr Bachah Kōṯ",
+      "province": "喀布尔省",
+      "latitude": 34.75,
+      "longitude": 69.119,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Sharan",
+      "province": "帕克蒂卡省",
+      "latitude": 33.1464,
+      "longitude": 68.7921,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Maydanshakhr",
+      "province": "Maidan Wardak Province",
+      "latitude": 34.3956,
+      "longitude": 68.8662,
+      "timezone": "Asia/Kabul"
+    },
+    {
+      "name": "",
+      "name_en": "Pārūn",
+      "province": "努尔斯坦省",
+      "latitude": 35.4206,
+      "longitude": 70.9226,
+      "timezone": "Asia/Kabul"
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "country_code": "LU",
+  "country_name": "卢森堡",
+  "cities": [
+    {
+      "name": "卢森堡市",
+      "name_en": "Luxembourg",
+      "province": "Luxembourg",
+      "latitude": 49.6098,
+      "longitude": 6.1327,
+      "timezone": "Europe/Luxembourg"
+    },
+    {
+      "name": "阿尔泽特河畔埃施",
+      "name_en": "Esch-sur-Alzette",
+      "province": "Esch-sur-Alzette",
+      "latitude": 49.4958,
+      "longitude": 5.9806,
+      "timezone": "Europe/Luxembourg"
+    },
+    {
+      "name": "",
+      "name_en": "Dudelange",
+      "province": "Esch-sur-Alzette",
+      "latitude": 49.4806,
+      "longitude": 6.0875,
+      "timezone": "Europe/Luxembourg"
+    },
+    {
+      "name": "",
+      "name_en": "Bonnevoie-Sud",
+      "province": "Luxembourg",
+      "latitude": 49.5968,
+      "longitude": 6.1472,
+      "timezone": "Europe/Luxembourg"
+    },
+    {
+      "name": "",
+      "name_en": "Belair",
+      "province": "Luxembourg",
+      "latitude": 49.6116,
+      "longitude": 6.1068,
+      "timezone": "Europe/Luxembourg"
+    },
+    {
+      "name": "",
+      "name_en": "Limpertsberg",
+      "province": "Luxembourg",
+      "latitude": 49.6208,
+      "longitude": 6.1217,
+      "timezone": "Europe/Luxembourg"
+    },
+    {
+      "name": "",
+      "name_en": "Gare",
+      "province": "Luxembourg",
+      "latitude": 49.6018,
+      "longitude": 6.1297,
+      "timezone": "Europe/Luxembourg"
+    },
+    {
+      "name": "基希贝格",
+      "name_en": "Kirchberg",
+      "province": "Luxembourg",
+      "latitude": 49.6239,
+      "longitude": 6.1494,
+      "timezone": "Europe/Luxembourg"
+    },
+    {
+      "name": "加斯佩里希",
+      "name_en": "Gasperich",
+      "province": "Luxembourg",
+      "latitude": 49.5856,
+      "longitude": 6.1231,
+      "timezone": "Europe/Luxembourg"
+    },
+    {
+      "name": "",
+      "name_en": "Belvaux",
+      "province": "Esch-sur-Alzette",
+      "latitude": 49.5101,
+      "longitude": 5.9241,
+      "timezone": "Europe/Luxembourg"
+    },
+    {
+      "name": "",
+      "name_en": "Schifflange",
+      "province": "Esch-sur-Alzette",
+      "latitude": 49.5064,
+      "longitude": 6.0128,
+      "timezone": "Europe/Luxembourg"
+    },
+    {
+      "name": "",
+      "name_en": "Walferdange",
+      "province": "Luxembourg",
+      "latitude": 49.6632,
+      "longitude": 6.1322,
+      "timezone": "Europe/Luxembourg"
+    },
+    {
+      "name": "",
+      "name_en": "Hollerich",
+      "province": "Luxembourg",
+      "latitude": 49.6031,
+      "longitude": 6.1142,
+      "timezone": "Europe/Luxembourg"
+    },
+    {
+      "name": "",
+      "name_en": "Rodange",
+      "province": "Esch-sur-Alzette",
+      "latitude": 49.5464,
+      "longitude": 5.8408,
+      "timezone": "Europe/Luxembourg"
+    },
+    {
+      "name": "",
+      "name_en": "Bettembourg",
+      "province": "Esch-sur-Alzette",
+      "latitude": 49.5186,
+      "longitude": 6.1028,
+      "timezone": "Europe/Luxembourg"
+    },
+    {
+      "name": "迪基希",
+      "name_en": "Diekirch",
+      "province": "Diekirch",
+      "latitude": 49.8669,
+      "longitude": 6.1545,
+      "timezone": "Europe/Luxembourg"
+    },
+    {
+      "name": "",
+      "name_en": "Pétange",
+      "province": "Esch-sur-Alzette",
+      "latitude": 49.5583,
+      "longitude": 5.8806,
+      "timezone": "Europe/Luxembourg"
+    },
+    {
+      "name": "",
+      "name_en": "Neudorf-Weimershof",
+      "province": "Luxembourg",
+      "latitude": 49.6256,
+      "longitude": 6.1693,
+      "timezone": "Europe/Luxembourg"
+    },
+    {
+      "name": "",
+      "name_en": "Merl",
+      "province": "Luxembourg",
+      "latitude": 49.6033,
+      "longitude": 6.0956,
+      "timezone": "Europe/Luxembourg"
+    },
+    {
+      "name": "",
+      "name_en": "Cents",
+      "province": "Luxembourg",
+      "latitude": 49.6171,
+      "longitude": 6.1641,
+      "timezone": "Europe/Luxembourg"
+    },
+    {
+      "name": "",
+      "name_en": "Soleuvre",
+      "province": "Esch-sur-Alzette",
+      "latitude": 49.5215,
+      "longitude": 5.9378,
+      "timezone": "Europe/Luxembourg"
+    },
+    {
+      "name": "",
+      "name_en": "Ettelbruck",
+      "province": "Diekirch",
+      "latitude": 49.8475,
+      "longitude": 6.1042,
+      "timezone": "Europe/Luxembourg"
+    },
+    {
+      "name": "",
+      "name_en": "Strassen",
+      "province": "Luxembourg",
+      "latitude": 49.6206,
+      "longitude": 6.0733,
+      "timezone": "Europe/Luxembourg"
+    },
+    {
+      "name": "",
+      "name_en": "Howald",
+      "province": "Luxembourg",
+      "latitude": 49.5839,
+      "longitude": 6.1428,
+      "timezone": "Europe/Luxembourg"
+    },
+    {
+      "name": "",
+      "name_en": "Bertrange",
+      "province": "Luxembourg",
+      "latitude": 49.6111,
+      "longitude": 6.05,
+      "timezone": "Europe/Luxembourg"
+    },
+    {
+      "name": "迪弗当日",
+      "name_en": "Differdange",
+      "province": "Esch-sur-Alzette",
+      "latitude": 49.5242,
+      "longitude": 5.8914,
+      "timezone": "Europe/Luxembourg"
+    },
+    {
+      "name": "申根",
+      "name_en": "Schengen",
+      "province": "Remich",
+      "latitude": 49.47,
+      "longitude": 6.362,
+      "timezone": "Europe/Luxembourg"
+    },
+    {
+      "name": "",
+      "name_en": "Cessange",
+      "province": "Luxembourg",
+      "latitude": 49.5894,
+      "longitude": 6.1069,
+      "timezone": "Europe/Luxembourg"
+    },
+    {
+      "name": "格雷文马赫",
+      "name_en": "Grevenmacher",
+      "province": "Grevenmacher",
+      "latitude": 49.6775,
+      "longitude": 6.4402,
+      "timezone": "Europe/Luxembourg"
+    },
+    {
+      "name": "马默",
+      "name_en": "Mamer",
+      "province": "Capellen",
+      "latitude": 49.6275,
+      "longitude": 6.0233,
+      "timezone": "Europe/Luxembourg"
+    },
+    {
+      "name": "",
+      "name_en": "Wiltz",
+      "province": "Wiltz",
+      "latitude": 49.9655,
+      "longitude": 5.9339,
+      "timezone": "Europe/Luxembourg"
+    },
+    {
+      "name": "梅尔施",
+      "name_en": "Mersch",
+      "province": "Mersch",
+      "latitude": 49.7505,
+      "longitude": 6.1063,
+      "timezone": "Europe/Luxembourg"
+    },
+    {
+      "name": "",
+      "name_en": "Redange-sur-Attert",
+      "province": "Redange",
+      "latitude": 49.7644,
+      "longitude": 5.89,
+      "timezone": "Europe/Luxembourg"
+    }
+  ]
+}

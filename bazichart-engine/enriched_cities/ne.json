@@ -1,0 +1,518 @@
+{
+  "country_code": "NE",
+  "country_name": "尼日尔",
+  "cities": [
+    {
+      "name": "尼亚美",
+      "name_en": "Niamey",
+      "province": "Niamey",
+      "latitude": 13.5137,
+      "longitude": 2.1098,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Maradi",
+      "province": "马拉迪大区",
+      "latitude": 13.5,
+      "longitude": 7.1017,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "津德尔",
+      "name_en": "Zinder",
+      "province": "津德尔大区",
+      "latitude": 13.8072,
+      "longitude": 8.9881,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "塔瓦",
+      "name_en": "Tahoua",
+      "province": "塔瓦大区",
+      "latitude": 14.8888,
+      "longitude": 5.2692,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "阿加德兹",
+      "name_en": "Agadez",
+      "province": "阿加德兹大区",
+      "latitude": 16.9733,
+      "longitude": 7.9911,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "阿尔利特",
+      "name_en": "Arlit",
+      "province": "阿加德兹大区",
+      "latitude": 18.7369,
+      "longitude": 7.3853,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Alaghsas",
+      "province": "阿加德兹大区",
+      "latitude": 17.0187,
+      "longitude": 8.0168,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Birni N Konni",
+      "province": "塔瓦大区",
+      "latitude": 13.796,
+      "longitude": 5.2503,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Dosso",
+      "province": "多索大区",
+      "latitude": 13.049,
+      "longitude": 3.1937,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Gaya",
+      "province": "多索大区",
+      "latitude": 11.8843,
+      "longitude": 3.4492,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Tessaoua",
+      "province": "马拉迪大区",
+      "latitude": 13.7574,
+      "longitude": 7.9874,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Diffa",
+      "province": "迪法大区",
+      "latitude": 13.3154,
+      "longitude": 12.6113,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Dogondoutchi",
+      "province": "多索大区",
+      "latitude": 13.6403,
+      "longitude": 4.0265,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Méhana",
+      "province": "蒂拉贝里大区",
+      "latitude": 14.3939,
+      "longitude": 1.1338,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Dakoro",
+      "province": "马拉迪大区",
+      "latitude": 14.5106,
+      "longitude": 6.765,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Téra",
+      "province": "蒂拉贝里大区",
+      "latitude": 14.0078,
+      "longitude": 0.7531,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Mirriah",
+      "province": "津德尔大区",
+      "latitude": 13.7073,
+      "longitude": 9.1501,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Madaoua",
+      "province": "塔瓦大区",
+      "latitude": 14.073,
+      "longitude": 5.96,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Matamey",
+      "province": "津德尔大区",
+      "latitude": 13.4231,
+      "longitude": 8.4748,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Magaria",
+      "province": "津德尔大区",
+      "latitude": 12.9983,
+      "longitude": 8.9099,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Tibiri",
+      "province": "马拉迪大区",
+      "latitude": 13.5627,
+      "longitude": 7.0485,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Nguigmi",
+      "province": "迪法大区",
+      "latitude": 14.2495,
+      "longitude": 13.1092,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Youri Kourtéré",
+      "province": "蒂拉贝里大区",
+      "latitude": 13.3342,
+      "longitude": 2.2475,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "蒂拉贝里",
+      "name_en": "Tillabéri",
+      "province": "蒂拉贝里大区",
+      "latitude": 14.2071,
+      "longitude": 1.4542,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Illéla",
+      "province": "塔瓦大区",
+      "latitude": 14.4605,
+      "longitude": 5.2437,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Abalak",
+      "province": "塔瓦大区",
+      "latitude": 15.4509,
+      "longitude": 6.2793,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Tanout",
+      "province": "津德尔大区",
+      "latitude": 14.9709,
+      "longitude": 8.8879,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Ayorou",
+      "province": "蒂拉贝里大区",
+      "latitude": 14.7308,
+      "longitude": 0.9174,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Gouré",
+      "province": "津德尔大区",
+      "latitude": 13.9835,
+      "longitude": 10.2704,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Guidan Roumdji",
+      "province": "马拉迪大区",
+      "latitude": 13.6576,
+      "longitude": 6.6957,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Aguié",
+      "province": "马拉迪大区",
+      "latitude": 13.506,
+      "longitude": 7.7786,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Mayahi",
+      "province": "马拉迪大区",
+      "latitude": 13.9553,
+      "longitude": 7.6712,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Baléyara",
+      "province": "蒂拉贝里大区",
+      "latitude": 13.7838,
+      "longitude": 2.9523,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Tchin Tabaradèn",
+      "province": "塔瓦大区",
+      "latitude": 15.8969,
+      "longitude": 5.7985,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Kollo",
+      "province": "蒂拉贝里大区",
+      "latitude": 13.3043,
+      "longitude": 2.339,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Gazaoua",
+      "province": "马拉迪大区",
+      "latitude": 13.5258,
+      "longitude": 7.914,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Birnin Gaouré",
+      "province": "多索大区",
+      "latitude": 13.0817,
+      "longitude": 2.911,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Say",
+      "province": "蒂拉贝里大区",
+      "latitude": 13.1007,
+      "longitude": 2.3689,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Maïné Soroa",
+      "province": "迪法大区",
+      "latitude": 13.2114,
+      "longitude": 12.0241,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Filingué",
+      "province": "蒂拉贝里大区",
+      "latitude": 14.3521,
+      "longitude": 3.3168,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Madarounfa",
+      "province": "马拉迪大区",
+      "latitude": 13.3087,
+      "longitude": 7.156,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Torodi",
+      "province": "蒂拉贝里大区",
+      "latitude": 13.1191,
+      "longitude": 1.7987,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Abala",
+      "province": "蒂拉贝里大区",
+      "latitude": 14.9369,
+      "longitude": 3.4336,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Ouallam",
+      "province": "蒂拉贝里大区",
+      "latitude": 14.3164,
+      "longitude": 2.086,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Bouza",
+      "province": "塔瓦大区",
+      "latitude": 14.4229,
+      "longitude": 6.0428,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Keïta",
+      "province": "塔瓦大区",
+      "latitude": 14.7551,
+      "longitude": 5.7749,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Dungas",
+      "province": "津德尔大区",
+      "latitude": 13.0615,
+      "longitude": 9.3434,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Tchirozérine",
+      "province": "阿加德兹大区",
+      "latitude": 17.221,
+      "longitude": 7.7614,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Bagaroua",
+      "province": "塔瓦大区",
+      "latitude": 14.6362,
+      "longitude": 4.349,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Malbaza",
+      "province": "塔瓦大区",
+      "latitude": 13.9271,
+      "longitude": 5.5203,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Takiéta",
+      "province": "津德尔大区",
+      "latitude": 13.6807,
+      "longitude": 8.529,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "I-n-Gall",
+      "province": "阿加德兹大区",
+      "latitude": 16.7878,
+      "longitude": 6.9342,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Gothèye",
+      "province": "蒂拉贝里大区",
+      "latitude": 13.8559,
+      "longitude": 1.5671,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Bani Bangou",
+      "province": "蒂拉贝里大区",
+      "latitude": 15.0416,
+      "longitude": 2.7037,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Loga",
+      "province": "多索大区",
+      "latitude": 13.6132,
+      "longitude": 3.2358,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Tibiri",
+      "province": "多索大区",
+      "latitude": 13.5627,
+      "longitude": 7.0485,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Falmey",
+      "province": "多索大区",
+      "latitude": 12.5954,
+      "longitude": 2.8511,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Bélbéji",
+      "province": "津德尔大区",
+      "latitude": 14.6769,
+      "longitude": 7.9828,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Dioundiou",
+      "province": "多索大区",
+      "latitude": 12.6168,
+      "longitude": 3.5443,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Bosso",
+      "province": "迪法大区",
+      "latitude": 13.6987,
+      "longitude": 13.3095,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Adérbissinat",
+      "province": "阿加德兹大区",
+      "latitude": 15.6275,
+      "longitude": 7.8945,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Goudoumaria",
+      "province": "迪法大区",
+      "latitude": 13.7109,
+      "longitude": 11.1885,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "比尔马",
+      "name_en": "Bilma",
+      "province": "阿加德兹大区",
+      "latitude": 18.6853,
+      "longitude": 12.9164,
+      "timezone": "Africa/Niamey"
+    },
+    {
+      "name": "",
+      "name_en": "Bankilaré",
+      "province": "蒂拉贝里大区",
+      "latitude": 14.5765,
+      "longitude": 0.7267,
+      "timezone": "Africa/Niamey"
+    }
+  ]
+}

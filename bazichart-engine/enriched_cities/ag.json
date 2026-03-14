@@ -1,0 +1,86 @@
+{
+  "country_code": "AG",
+  "country_name": "安提瓜和巴布达",
+  "cities": [
+    {
+      "name": "圣约翰市",
+      "name_en": "Saint John’s",
+      "province": "圣约翰区",
+      "latitude": 17.121,
+      "longitude": -61.8433,
+      "timezone": "America/Antigua"
+    },
+    {
+      "name": "",
+      "name_en": "St. Paul Parish",
+      "province": "圣保罗区",
+      "latitude": 17.0234,
+      "longitude": -61.7693,
+      "timezone": "America/Antigua"
+    },
+    {
+      "name": "",
+      "name_en": "St. George Parish",
+      "province": "圣乔治区",
+      "latitude": 17.1169,
+      "longitude": -61.7956,
+      "timezone": "America/Antigua"
+    },
+    {
+      "name": "",
+      "name_en": "St. Mary Parish",
+      "province": "圣玛丽区",
+      "latitude": 17.0722,
+      "longitude": -61.8744,
+      "timezone": "America/Antigua"
+    },
+    {
+      "name": "",
+      "name_en": "St. Peter Parish",
+      "province": "圣菲利普区",
+      "latitude": 17.0849,
+      "longitude": -61.7122,
+      "timezone": "America/Antigua"
+    },
+    {
+      "name": "皮戈茨",
+      "name_en": "Piggotts",
+      "province": "圣乔治区",
+      "latitude": 17.1167,
+      "longitude": -61.8,
+      "timezone": "America/Antigua"
+    },
+    {
+      "name": "博兰斯",
+      "name_en": "Bolands",
+      "province": "圣玛丽区",
+      "latitude": 17.0657,
+      "longitude": -61.8747,
+      "timezone": "America/Antigua"
+    },
+    {
+      "name": "科德灵顿",
+      "name_en": "Codrington",
+      "province": "巴布达岛",
+      "latitude": 17.6394,
+      "longitude": -61.8244,
+      "timezone": "America/Antigua"
+    },
+    {
+      "name": "帕勒姆",
+      "name_en": "Parham",
+      "province": "圣彼得区",
+      "latitude": 17.0968,
+      "longitude": -61.7705,
+      "timezone": "America/Antigua"
+    },
+    {
+      "name": "",
+      "name_en": "Falmouth",
+      "province": "圣保罗区",
+      "latitude": 17.0274,
+      "longitude": -61.7814,
+      "timezone": "America/Antigua"
+    }
+  ]
+}

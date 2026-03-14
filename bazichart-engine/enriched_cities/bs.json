@@ -1,0 +1,198 @@
+{
+  "country_code": "BS",
+  "country_name": "巴哈马",
+  "cities": [
+    {
+      "name": "拿骚",
+      "name_en": "Nassau",
+      "province": "New Providence",
+      "latitude": 25.0582,
+      "longitude": -77.3431,
+      "timezone": "America/Nassau"
+    },
+    {
+      "name": "",
+      "name_en": "Lucaya",
+      "province": "自由港",
+      "latitude": 26.5333,
+      "longitude": -78.6667,
+      "timezone": "America/Nassau"
+    },
+    {
+      "name": "",
+      "name_en": "Freeport",
+      "province": "自由港",
+      "latitude": 26.5333,
+      "longitude": -78.7,
+      "timezone": "America/Nassau"
+    },
+    {
+      "name": "",
+      "name_en": "Killarney",
+      "province": "New Providence",
+      "latitude": 25.05,
+      "longitude": -77.4167,
+      "timezone": "America/Nassau"
+    },
+    {
+      "name": "",
+      "name_en": "West End",
+      "province": "西大巴哈马岛区",
+      "latitude": 26.6871,
+      "longitude": -78.977,
+      "timezone": "America/Nassau"
+    },
+    {
+      "name": "",
+      "name_en": "Cooper’s Town",
+      "province": "北阿巴科区",
+      "latitude": 26.8714,
+      "longitude": -77.5113,
+      "timezone": "America/Nassau"
+    },
+    {
+      "name": "",
+      "name_en": "San Andros",
+      "province": "北安德罗斯岛",
+      "latitude": 25.0667,
+      "longitude": -78.05,
+      "timezone": "America/Nassau"
+    },
+    {
+      "name": "",
+      "name_en": "George Town",
+      "province": "埃克苏马",
+      "latitude": 23.5162,
+      "longitude": -75.7866,
+      "timezone": "America/Nassau"
+    },
+    {
+      "name": "",
+      "name_en": "Marsh Harbour",
+      "province": "中阿巴科",
+      "latitude": 26.5412,
+      "longitude": -77.0636,
+      "timezone": "America/Nassau"
+    },
+    {
+      "name": "",
+      "name_en": "High Rock",
+      "province": "东大巴哈马区",
+      "latitude": 26.6265,
+      "longitude": -78.2821,
+      "timezone": "America/Nassau"
+    },
+    {
+      "name": "",
+      "name_en": "Clarence Town",
+      "province": "Long Island",
+      "latitude": 23.1,
+      "longitude": -74.9833,
+      "timezone": "America/Nassau"
+    },
+    {
+      "name": "",
+      "name_en": "Spanish Wells",
+      "province": "西舰井",
+      "latitude": 25.5472,
+      "longitude": -76.764,
+      "timezone": "America/Nassau"
+    },
+    {
+      "name": "",
+      "name_en": "Arthur’s Town",
+      "province": "卡特岛",
+      "latitude": 24.6224,
+      "longitude": -75.6715,
+      "timezone": "America/Nassau"
+    },
+    {
+      "name": "",
+      "name_en": "Alice Town",
+      "province": "北比米尼岛",
+      "latitude": 25.728,
+      "longitude": -79.2972,
+      "timezone": "America/Nassau"
+    },
+    {
+      "name": "",
+      "name_en": "Cockburn Town",
+      "province": "San Salvador",
+      "latitude": 24.0518,
+      "longitude": -74.5314,
+      "timezone": "America/Nassau"
+    },
+    {
+      "name": "",
+      "name_en": "Matthew Town",
+      "province": "那瓜岛",
+      "latitude": 20.9498,
+      "longitude": -73.6735,
+      "timezone": "America/Nassau"
+    },
+    {
+      "name": "",
+      "name_en": "Colonel Hill",
+      "province": "Crooked Island and Long Cay",
+      "latitude": 22.7545,
+      "longitude": -74.2041,
+      "timezone": "America/Nassau"
+    },
+    {
+      "name": "",
+      "name_en": "Abraham’s Bay",
+      "province": "Mayaguana",
+      "latitude": 22.3667,
+      "longitude": -72.9667,
+      "timezone": "America/Nassau"
+    },
+    {
+      "name": "",
+      "name_en": "Port Nelson",
+      "province": "Rum Cay",
+      "latitude": 23.6497,
+      "longitude": -74.8416,
+      "timezone": "America/Nassau"
+    },
+    {
+      "name": "",
+      "name_en": "Duncan Town",
+      "province": "拉吉德岛",
+      "latitude": 22.1908,
+      "longitude": -75.7258,
+      "timezone": "America/Nassau"
+    },
+    {
+      "name": "",
+      "name_en": "Black Point",
+      "province": "Black Point",
+      "latitude": 24.1,
+      "longitude": -76.3833,
+      "timezone": "America/Nassau"
+    },
+    {
+      "name": "",
+      "name_en": "Governor’s Harbour",
+      "province": "Central Eleuthera",
+      "latitude": 25.1667,
+      "longitude": -76.2333,
+      "timezone": "America/Nassau"
+    },
+    {
+      "name": "",
+      "name_en": "Hard Bargain",
+      "province": "Moore’s Island",
+      "latitude": 26.3167,
+      "longitude": -77.5667,
+      "timezone": "America/Nassau"
+    },
+    {
+      "name": "",
+      "name_en": "Masons Bay",
+      "province": "Acklins",
+      "latitude": 22.5435,
+      "longitude": -73.8778,
+      "timezone": "America/Nassau"
+    }
+  ]
+}

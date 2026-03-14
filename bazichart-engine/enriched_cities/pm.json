@@ -1,0 +1,22 @@
+{
+  "country_code": "PM",
+  "country_name": "圣皮埃尔和密克隆群岛",
+  "cities": [
+    {
+      "name": "",
+      "name_en": "Saint-Pierre",
+      "province": "Saint-Pierre",
+      "latitude": 46.7791,
+      "longitude": -56.1773,
+      "timezone": "America/Miquelon"
+    },
+    {
+      "name": "",
+      "name_en": "Miquelon",
+      "province": "Miquelon-Langlade",
+      "latitude": 47.0975,
+      "longitude": -56.3814,
+      "timezone": "America/Miquelon"
+    }
+  ]
+}

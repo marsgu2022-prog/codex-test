@@ -1,0 +1,86 @@
+{
+  "country_code": "DM",
+  "country_name": "多米尼克",
+  "cities": [
+    {
+      "name": "罗索",
+      "name_en": "Roseau",
+      "province": "圣乔治堂区",
+      "latitude": 15.3017,
+      "longitude": -61.3881,
+      "timezone": "America/Dominica"
+    },
+    {
+      "name": "",
+      "name_en": "Portsmouth",
+      "province": "圣约翰堂区",
+      "latitude": 15.5829,
+      "longitude": -61.4559,
+      "timezone": "America/Dominica"
+    },
+    {
+      "name": "",
+      "name_en": "Berekua",
+      "province": "圣帕特里克堂区",
+      "latitude": 15.2333,
+      "longitude": -61.3167,
+      "timezone": "America/Dominica"
+    },
+    {
+      "name": "",
+      "name_en": "Saint Joseph",
+      "province": "圣约瑟夫堂区",
+      "latitude": 15.4061,
+      "longitude": -61.4237,
+      "timezone": "America/Dominica"
+    },
+    {
+      "name": "",
+      "name_en": "Wesley",
+      "province": "圣安德鲁区",
+      "latitude": 15.5667,
+      "longitude": -61.3167,
+      "timezone": "America/Dominica"
+    },
+    {
+      "name": "",
+      "name_en": "Soufrière",
+      "province": "圣马克堂区",
+      "latitude": 15.2337,
+      "longitude": -61.3588,
+      "timezone": "America/Dominica"
+    },
+    {
+      "name": "",
+      "name_en": "Pointe Michel",
+      "province": "圣卢克堂区",
+      "latitude": 15.2598,
+      "longitude": -61.3745,
+      "timezone": "America/Dominica"
+    },
+    {
+      "name": "",
+      "name_en": "Colihaut",
+      "province": "圣彼得堂区",
+      "latitude": 15.4848,
+      "longitude": -61.4622,
+      "timezone": "America/Dominica"
+    },
+    {
+      "name": "",
+      "name_en": "Rosalie",
+      "province": "圣戴维堂区",
+      "latitude": 15.3667,
+      "longitude": -61.2667,
+      "timezone": "America/Dominica"
+    },
+    {
+      "name": "",
+      "name_en": "Pont Cassé",
+      "province": "圣保罗堂区",
+      "latitude": 15.3667,
+      "longitude": -61.35,
+      "timezone": "America/Dominica"
+    }
+  ]
+}

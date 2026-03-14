@@ -1,0 +1,150 @@
+{
+  "country_code": "TL",
+  "country_name": "东帝汶",
+  "cities": [
+    {
+      "name": "帝力",
+      "name_en": "Dili",
+      "province": "帝力县",
+      "latitude": -8.5586,
+      "longitude": 125.5736,
+      "timezone": "Asia/Dili"
+    },
+    {
+      "name": "玛利亚娜",
+      "name_en": "Maliana",
+      "province": "博博纳罗县",
+      "latitude": -8.9917,
+      "longitude": 125.2197,
+      "timezone": "Asia/Dili"
+    },
+    {
+      "name": "苏艾",
+      "name_en": "Suai",
+      "province": "科瓦利马区",
+      "latitude": -9.3129,
+      "longitude": 125.2565,
+      "timezone": "Asia/Dili"
+    },
+    {
+      "name": "",
+      "name_en": "Likisá",
+      "province": "利逵萨县",
+      "latitude": -8.5875,
+      "longitude": 125.3419,
+      "timezone": "Asia/Dili"
+    },
+    {
+      "name": "阿伊莱乌",
+      "name_en": "Aileu",
+      "province": "阿伊莱乌县",
+      "latitude": -8.7281,
+      "longitude": 125.5664,
+      "timezone": "Asia/Dili"
+    },
+    {
+      "name": "圣保罗",
+      "name_en": "Lospalos",
+      "province": "劳滕县",
+      "latitude": -8.5217,
+      "longitude": 126.9983,
+      "timezone": "Asia/Dili"
+    },
+    {
+      "name": "",
+      "name_en": "Maubara",
+      "province": "利逵萨县",
+      "latitude": -8.6119,
+      "longitude": 125.2061,
+      "timezone": "Asia/Dili"
+    },
+    {
+      "name": "包考",
+      "name_en": "Baukau",
+      "province": "包考县",
+      "latitude": -8.4757,
+      "longitude": 126.4563,
+      "timezone": "Asia/Dili"
+    },
+    {
+      "name": "",
+      "name_en": "Venilale",
+      "province": "包考县",
+      "latitude": -8.6431,
+      "longitude": 126.3783,
+      "timezone": "Asia/Dili"
+    },
+    {
+      "name": "",
+      "name_en": "Ainaro",
+      "province": "阿伊纳罗县",
+      "latitude": -8.9924,
+      "longitude": 125.5082,
+      "timezone": "Asia/Dili"
+    },
+    {
+      "name": "",
+      "name_en": "Atauro",
+      "province": "帝力县",
+      "latitude": -8.2667,
+      "longitude": 125.6014,
+      "timezone": "Asia/Dili"
+    },
+    {
+      "name": "格兰奴",
+      "name_en": "Gleno",
+      "province": "埃尔梅拉县",
+      "latitude": -8.7239,
+      "longitude": 125.4361,
+      "timezone": "Asia/Dili"
+    },
+    {
+      "name": "",
+      "name_en": "Tilomar",
+      "province": "科瓦利马区",
+      "latitude": -9.34,
+      "longitude": 125.1128,
+      "timezone": "Asia/Dili"
+    },
+    {
+      "name": "萨姆",
+      "name_en": "Same",
+      "province": "马努法伊县",
+      "latitude": -9.0042,
+      "longitude": 125.6486,
+      "timezone": "Asia/Dili"
+    },
+    {
+      "name": "维克克",
+      "name_en": "Viqueque",
+      "province": "维克克县",
+      "latitude": -8.8575,
+      "longitude": 126.3647,
+      "timezone": "Asia/Dili"
+    },
+    {
+      "name": "",
+      "name_en": "Barique",
+      "province": "马纳图托县",
+      "latitude": -8.8333,
+      "longitude": 126.0667,
+      "timezone": "Asia/Dili"
+    },
+    {
+      "name": "",
+      "name_en": "Pante Makasar",
+      "province": "Oecusse",
+      "latitude": -9.2,
+      "longitude": 124.3833,
+      "timezone": "Asia/Dili"
+    },
+    {
+      "name": "",
+      "name_en": "Manatutu",
+      "province": "马纳图托县",
+      "latitude": -8.5114,
+      "longitude": 126.0131,
+      "timezone": "Asia/Dili"
+    }
+  ]
+}

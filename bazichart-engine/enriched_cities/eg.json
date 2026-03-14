@@ -1,0 +1,1942 @@
+{
+  "country_code": "EG",
+  "country_name": "埃及",
+  "cities": [
+    {
+      "name": "开罗",
+      "name_en": "Cairo",
+      "province": "开罗省",
+      "latitude": 30.0626,
+      "longitude": 31.2497,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "亚历山卓",
+      "name_en": "Alexandria",
+      "province": "亚历山大省",
+      "latitude": 31.2018,
+      "longitude": 29.9158,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Giza",
+      "province": "吉萨省",
+      "latitude": 30.0094,
+      "longitude": 31.2086,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Shubrā al Khaymah",
+      "province": "盖卢比尤省",
+      "latitude": 30.1251,
+      "longitude": 31.2505,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "塞德港",
+      "name_en": "Port Said",
+      "province": "塞得港省",
+      "latitude": 31.2653,
+      "longitude": 32.3019,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "苏伊士",
+      "name_en": "Suez",
+      "province": "苏伊士省",
+      "latitude": 29.9737,
+      "longitude": 32.5263,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Madīnat an Naşr",
+      "province": "开罗省",
+      "latitude": 30.0667,
+      "longitude": 31.3,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Al Mansurah",
+      "province": "代盖赫利耶省",
+      "latitude": 31.0364,
+      "longitude": 31.3807,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Al Maḩallah al Kubrá",
+      "province": "西部省",
+      "latitude": 30.9706,
+      "longitude": 31.1669,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Tanta",
+      "province": "西部省",
+      "latitude": 30.7885,
+      "longitude": 31.0019,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Assiut",
+      "province": "艾斯尤特省",
+      "latitude": 27.181,
+      "longitude": 31.1837,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Al Fayyum",
+      "province": "法尤姆省",
+      "latitude": 29.31,
+      "longitude": 30.8418,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Al Khuşūş",
+      "province": "盖卢比尤省",
+      "latitude": 30.1529,
+      "longitude": 31.315,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Esna",
+      "province": "基纳省",
+      "latitude": 25.2934,
+      "longitude": 32.554,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "宰加济格",
+      "name_en": "Zagazig",
+      "province": "Sharqia",
+      "latitude": 30.5877,
+      "longitude": 31.502,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "伊斯梅利亚",
+      "name_en": "Ismailia",
+      "province": "伊斯梅利亚省",
+      "latitude": 30.6043,
+      "longitude": 32.2722,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "乐蜀",
+      "name_en": "Luxor",
+      "province": "卢克索省",
+      "latitude": 25.6989,
+      "longitude": 32.6421,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Kom Ombo",
+      "province": "阿斯旺省",
+      "latitude": 24.4767,
+      "longitude": 32.9463,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "阿斯旺",
+      "name_en": "Aswān",
+      "province": "阿斯旺省",
+      "latitude": 24.0908,
+      "longitude": 32.8994,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "6th of October City",
+      "province": "吉萨省",
+      "latitude": 29.8167,
+      "longitude": 31.05,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Ḩadā’iq al Qubbah",
+      "province": "开罗省",
+      "latitude": 30.0884,
+      "longitude": 31.2835,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Damanhur",
+      "province": "布海拉省",
+      "latitude": 31.0341,
+      "longitude": 30.4682,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Al Qāhirah al Jadīdah",
+      "province": "",
+      "latitude": 30.0421,
+      "longitude": 31.4445,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "New Cairo",
+      "province": "开罗省",
+      "latitude": 30.03,
+      "longitude": 31.47,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "杜姆亚特",
+      "name_en": "Damietta",
+      "province": "杜姆亚特省",
+      "latitude": 31.4165,
+      "longitude": 31.8133,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "罗塞塔",
+      "name_en": "Rosetta",
+      "province": "布海拉省",
+      "latitude": 31.3995,
+      "longitude": 30.4172,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Minya",
+      "province": "明亚省",
+      "latitude": 28.0919,
+      "longitude": 30.7581,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Banī Suwayf",
+      "province": "Beni Suweif",
+      "latitude": 29.0744,
+      "longitude": 31.0979,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Shibīn al Kawm",
+      "province": "米努夫省",
+      "latitude": 30.5526,
+      "longitude": 31.009,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "索哈杰",
+      "name_en": "Sohag",
+      "province": "索哈杰省",
+      "latitude": 26.557,
+      "longitude": 31.6948,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Qina",
+      "province": "基纳省",
+      "latitude": 26.1642,
+      "longitude": 32.7267,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "斋月市第十",
+      "name_en": "Al ‘Āshir min Ramaḑān",
+      "province": "Sharqia",
+      "latitude": 30.2964,
+      "longitude": 31.7463,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Ḩalwān",
+      "province": "开罗省",
+      "latitude": 29.8414,
+      "longitude": 31.3008,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Mallawī",
+      "province": "明亚省",
+      "latitude": 27.7326,
+      "longitude": 30.8413,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "洪加达",
+      "name_en": "Hurghada",
+      "province": "红海省",
+      "latitude": 27.2574,
+      "longitude": 33.8129,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "阿里什",
+      "name_en": "Arīsh",
+      "province": "北西奈省",
+      "latitude": 31.1316,
+      "longitude": 33.7984,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Kafr ash Shaykh",
+      "province": "谢赫村省",
+      "latitude": 31.1117,
+      "longitude": 30.9399,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "比勒拜斯",
+      "name_en": "Bilbeis",
+      "province": "Sharqia",
+      "latitude": 30.4204,
+      "longitude": 31.5622,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Banhā",
+      "province": "盖卢比尤省",
+      "latitude": 30.4598,
+      "longitude": 31.1842,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Idkū",
+      "province": "布海拉省",
+      "latitude": 31.3073,
+      "longitude": 30.2981,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Marsá Maţrūḩ",
+      "province": "马特鲁省",
+      "latitude": 31.3529,
+      "longitude": 27.2372,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Al Maţarīyah",
+      "province": "代盖赫利耶省",
+      "latitude": 31.1829,
+      "longitude": 32.0311,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Qalyub",
+      "province": "盖卢比尤省",
+      "latitude": 30.1792,
+      "longitude": 31.2056,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Al Ḩawāmidīyah",
+      "province": "吉萨省",
+      "latitude": 29.9,
+      "longitude": 31.25,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Abū Kabīr",
+      "province": "Sharqia",
+      "latitude": 30.7251,
+      "longitude": 31.6715,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Mīt Ghamr",
+      "province": "代盖赫利耶省",
+      "latitude": 30.7152,
+      "longitude": 31.2592,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Akhmīm",
+      "province": "索哈杰省",
+      "latitude": 26.5622,
+      "longitude": 31.7457,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Girga",
+      "province": "索哈杰省",
+      "latitude": 26.3372,
+      "longitude": 31.8929,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Disūq",
+      "province": "谢赫村省",
+      "latitude": 31.1326,
+      "longitude": 30.6478,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Samālūţ",
+      "province": "明亚省",
+      "latitude": 28.3121,
+      "longitude": 30.7101,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Al-'Ubūr",
+      "province": "盖卢比尤省",
+      "latitude": 30.2289,
+      "longitude": 31.4815,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Kirdāsah",
+      "province": "吉萨省",
+      "latitude": 30.031,
+      "longitude": 31.1111,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Bilqās",
+      "province": "代盖赫利耶省",
+      "latitude": 31.2145,
+      "longitude": 31.358,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Būsh",
+      "province": "Beni Suweif",
+      "latitude": 29.1482,
+      "longitude": 31.1273,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Ţahţā",
+      "province": "索哈杰省",
+      "latitude": 26.7687,
+      "longitude": 31.502,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Sinnūris",
+      "province": "法尤姆省",
+      "latitude": 29.4135,
+      "longitude": 30.8658,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Kafr ad Dawwār",
+      "province": "布海拉省",
+      "latitude": 31.1338,
+      "longitude": 30.1297,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Al Manzalah",
+      "province": "代盖赫利耶省",
+      "latitude": 31.1582,
+      "longitude": 31.936,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Munūf",
+      "province": "米努夫省",
+      "latitude": 30.466,
+      "longitude": 30.932,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Ashmūn",
+      "province": "米努夫省",
+      "latitude": 30.2974,
+      "longitude": 30.9764,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "As Sinbillāwayn",
+      "province": "代盖赫利耶省",
+      "latitude": 30.8825,
+      "longitude": 31.4627,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Maghāghah",
+      "province": "明亚省",
+      "latitude": 28.6478,
+      "longitude": 30.841,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Manfalūţ",
+      "province": "艾斯尤特省",
+      "latitude": 27.3126,
+      "longitude": 30.9699,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Fāqūs",
+      "province": "Sharqia",
+      "latitude": 30.7282,
+      "longitude": 31.797,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Banī Mazār",
+      "province": "明亚省",
+      "latitude": 28.4946,
+      "longitude": 30.8053,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Al Fashn",
+      "province": "Beni Suweif",
+      "latitude": 28.8231,
+      "longitude": 30.899,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Ţalkhā",
+      "province": "代盖赫利耶省",
+      "latitude": 31.0539,
+      "longitude": 31.3779,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Abnūb",
+      "province": "艾斯尤特省",
+      "latitude": 27.2688,
+      "longitude": 31.1523,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Zefta",
+      "province": "西部省",
+      "latitude": 30.7142,
+      "longitude": 31.2443,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Abū Tīj",
+      "province": "艾斯尤特省",
+      "latitude": 27.0451,
+      "longitude": 31.3184,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Dayrūţ",
+      "province": "艾斯尤特省",
+      "latitude": 27.5564,
+      "longitude": 30.8106,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Ţimā",
+      "province": "索哈杰省",
+      "latitude": 26.9084,
+      "longitude": 31.4347,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Dikirnis",
+      "province": "代盖赫利耶省",
+      "latitude": 31.089,
+      "longitude": 31.5948,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Al Jammālīyah",
+      "province": "代盖赫利耶省",
+      "latitude": 31.1806,
+      "longitude": 31.865,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Al Qūşīyah",
+      "province": "艾斯尤特省",
+      "latitude": 27.4402,
+      "longitude": 30.8171,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Minyā al Qamḩ",
+      "province": "Sharqia",
+      "latitude": 30.5155,
+      "longitude": 31.3463,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Ash-Shaykh Zāyid",
+      "province": "吉萨省",
+      "latitude": 30.02,
+      "longitude": 31.0,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Bibā",
+      "province": "Beni Suweif",
+      "latitude": 28.9241,
+      "longitude": 30.9854,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Al Qurayn",
+      "province": "Sharqia",
+      "latitude": 30.6162,
+      "longitude": 31.7351,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Awsīm",
+      "province": "吉萨省",
+      "latitude": 30.123,
+      "longitude": 31.1357,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Fuwwah",
+      "province": "谢赫村省",
+      "latitude": 31.2036,
+      "longitude": 30.5491,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "El Shorouk",
+      "province": "开罗省",
+      "latitude": 30.1381,
+      "longitude": 31.6156,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Al Minshāh",
+      "province": "索哈杰省",
+      "latitude": 26.4775,
+      "longitude": 31.8039,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Al Badrashayn",
+      "province": "吉萨省",
+      "latitude": 29.85,
+      "longitude": 31.2667,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Abū Qurqāş",
+      "province": "明亚省",
+      "latitude": 27.9304,
+      "longitude": 30.8383,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Biyalā",
+      "province": "谢赫村省",
+      "latitude": 31.1742,
+      "longitude": 31.2218,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Samannūd",
+      "province": "西部省",
+      "latitude": 30.9616,
+      "longitude": 31.2407,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Abū an Numrus",
+      "province": "吉萨省",
+      "latitude": 29.95,
+      "longitude": 31.2,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Ibshawāy",
+      "province": "法尤姆省",
+      "latitude": 29.359,
+      "longitude": 30.6806,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Qūş",
+      "province": "基纳省",
+      "latitude": 25.9154,
+      "longitude": 32.7629,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Al Qanāţir al Khayrīyah",
+      "province": "盖卢比尤省",
+      "latitude": 30.1933,
+      "longitude": 31.137,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Kafr az Zayyāt",
+      "province": "西部省",
+      "latitude": 30.8248,
+      "longitude": 30.818,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Al Khārjah",
+      "province": "新河谷省",
+      "latitude": 25.451,
+      "longitude": 30.5465,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Al-Khārijah",
+      "province": "新河谷省",
+      "latitude": 25.451,
+      "longitude": 30.5465,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Ḩawsh ‘Īsá",
+      "province": "布海拉省",
+      "latitude": 30.9128,
+      "longitude": 30.2902,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Minyat an Naşr",
+      "province": "代盖赫利耶省",
+      "latitude": 31.1262,
+      "longitude": 31.6431,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Maţāy",
+      "province": "明亚省",
+      "latitude": 28.4187,
+      "longitude": 30.7786,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Al Khānkah",
+      "province": "盖卢比尤省",
+      "latitude": 30.2103,
+      "longitude": 31.3681,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Diyarb Najm",
+      "province": "Sharqia",
+      "latitude": 30.7544,
+      "longitude": 31.4402,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "埃德富",
+      "name_en": "Edfu",
+      "province": "阿斯旺省",
+      "latitude": 24.9792,
+      "longitude": 32.8772,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Armant",
+      "province": "基纳省",
+      "latitude": 25.6199,
+      "longitude": 32.5431,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Sirs al Layyānah",
+      "province": "米努夫省",
+      "latitude": 30.4428,
+      "longitude": 30.9698,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Ītāy al Bārūd",
+      "province": "布海拉省",
+      "latitude": 30.887,
+      "longitude": 30.6672,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Juhaynah",
+      "province": "索哈杰省",
+      "latitude": 26.6742,
+      "longitude": 31.4969,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Shirbīn",
+      "province": "代盖赫利耶省",
+      "latitude": 31.1969,
+      "longitude": 31.5243,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Ash Shuhadā’",
+      "province": "米努夫省",
+      "latitude": 30.5968,
+      "longitude": 30.8993,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Mashtūl as Sūq",
+      "province": "Sharqia",
+      "latitude": 30.3606,
+      "longitude": 31.3776,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Basyūn",
+      "province": "西部省",
+      "latitude": 30.9398,
+      "longitude": 30.8134,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Hihyā",
+      "province": "Sharqia",
+      "latitude": 30.6713,
+      "longitude": 31.588,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Iţsā",
+      "province": "法尤姆省",
+      "latitude": 29.2376,
+      "longitude": 30.7894,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Shibīn al Qanāţir",
+      "province": "盖卢比尤省",
+      "latitude": 30.3127,
+      "longitude": 31.3202,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Ţāmiyah",
+      "province": "法尤姆省",
+      "latitude": 29.4764,
+      "longitude": 30.9612,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Talā",
+      "province": "米努夫省",
+      "latitude": 30.6798,
+      "longitude": 30.9436,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Madīnat as Sādāt",
+      "province": "布海拉省",
+      "latitude": 30.3674,
+      "longitude": 30.5087,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Farshūţ",
+      "province": "基纳省",
+      "latitude": 26.055,
+      "longitude": 32.1627,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Al Ghanāyim",
+      "province": "艾斯尤特省",
+      "latitude": 26.8752,
+      "longitude": 31.3296,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Al Qanāyāt",
+      "province": "Sharqia",
+      "latitude": 30.6193,
+      "longitude": 31.4616,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Ad Dilinjāt",
+      "province": "布海拉省",
+      "latitude": 30.828,
+      "longitude": 30.5355,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Al Balyanā",
+      "province": "索哈杰省",
+      "latitude": 26.2365,
+      "longitude": 32.0039,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Abū al Maţāmīr",
+      "province": "布海拉省",
+      "latitude": 30.9102,
+      "longitude": 30.1744,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Quwaysinā",
+      "province": "米努夫省",
+      "latitude": 30.5648,
+      "longitude": 31.1578,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Sumusţā al Waqf",
+      "province": "Beni Suweif",
+      "latitude": 28.921,
+      "longitude": 30.8537,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Dishnā",
+      "province": "基纳省",
+      "latitude": 26.1224,
+      "longitude": 32.4675,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Ihnāsīyah",
+      "province": "Beni Suweif",
+      "latitude": 29.0928,
+      "longitude": 31.0204,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Al Bājūr",
+      "province": "米努夫省",
+      "latitude": 30.4305,
+      "longitude": 31.0368,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Darāw",
+      "province": "阿斯旺省",
+      "latitude": 24.408,
+      "longitude": 32.9232,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Aş Şaff",
+      "province": "吉萨省",
+      "latitude": 29.5647,
+      "longitude": 31.2811,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Abū Ḩummuş",
+      "province": "布海拉省",
+      "latitude": 31.0931,
+      "longitude": 30.3142,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Dayr Mawās",
+      "province": "明亚省",
+      "latitude": 27.6415,
+      "longitude": 30.8501,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Al Burj",
+      "province": "谢赫村省",
+      "latitude": 31.5823,
+      "longitude": 30.9809,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "拿戈玛第",
+      "name_en": "Nag Hammâdi",
+      "province": "基纳省",
+      "latitude": 26.0495,
+      "longitude": 32.2414,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Aş Şāliḩīyah al Jadīdah",
+      "province": "Sharqia",
+      "latitude": 30.6315,
+      "longitude": 31.9393,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Nabarūh",
+      "province": "代盖赫利耶省",
+      "latitude": 31.0975,
+      "longitude": 31.3031,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Al Ḩāmūl",
+      "province": "谢赫村省",
+      "latitude": 31.3115,
+      "longitude": 31.1477,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Al Wāsiţah",
+      "province": "法尤姆省",
+      "latitude": 29.3378,
+      "longitude": 31.2056,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Al Badārī",
+      "province": "艾斯尤特省",
+      "latitude": 26.9931,
+      "longitude": 31.416,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Kawm Ḩamādah",
+      "province": "布海拉省",
+      "latitude": 30.7613,
+      "longitude": 30.6997,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Dumyāţ al Jadīdah",
+      "province": "杜姆亚特省",
+      "latitude": 31.4348,
+      "longitude": 31.6751,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "As Sāḩil",
+      "province": "艾斯尤特省",
+      "latitude": 27.0631,
+      "longitude": 31.3442,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Al Ibrāhīmīyah",
+      "province": "Sharqia",
+      "latitude": 30.7188,
+      "longitude": 31.563,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Al Marāghah",
+      "province": "索哈杰省",
+      "latitude": 26.6998,
+      "longitude": 31.6046,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "塞法杰",
+      "name_en": "Safaga",
+      "province": "红海省",
+      "latitude": 26.7491,
+      "longitude": 33.9389,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "‘Izbat ‘Alī as Sayyid",
+      "province": "布海拉省",
+      "latitude": 31.1567,
+      "longitude": 30.1477,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Ţūkh",
+      "province": "盖卢比尤省",
+      "latitude": 30.3549,
+      "longitude": 31.201,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Būlāq Abū al ‘Ilā",
+      "province": "开罗省",
+      "latitude": 30.0604,
+      "longitude": 31.2315,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Balţīm",
+      "province": "谢赫村省",
+      "latitude": 31.5558,
+      "longitude": 31.0892,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Birkat as Sab‘",
+      "province": "米努夫省",
+      "latitude": 30.6291,
+      "longitude": 31.0824,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Al Ḩusaynīyah",
+      "province": "Sharqia",
+      "latitude": 30.8616,
+      "longitude": 31.9181,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Qillīn",
+      "province": "谢赫村省",
+      "latitude": 31.0475,
+      "longitude": 30.8549,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Mīt Salsīl",
+      "province": "代盖赫利耶省",
+      "latitude": 31.1676,
+      "longitude": 31.8012,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Kafr al Baţţīkh",
+      "province": "杜姆亚特省",
+      "latitude": 31.404,
+      "longitude": 31.7378,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Aga",
+      "province": "代盖赫利耶省",
+      "latitude": 30.9416,
+      "longitude": 31.2904,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Zaafarana",
+      "province": "红海省",
+      "latitude": 29.1101,
+      "longitude": 32.6601,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "At Tall al Kabīr",
+      "province": "Sharqia",
+      "latitude": 30.5432,
+      "longitude": 31.785,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Banī ‘Ubayd",
+      "province": "明亚省",
+      "latitude": 27.9524,
+      "longitude": 30.7808,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Burj al ‘Arab al Jadīdah",
+      "province": "亚历山大省",
+      "latitude": 30.8852,
+      "longitude": 29.5772,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "As Sanţah",
+      "province": "西部省",
+      "latitude": 30.7461,
+      "longitude": 31.1296,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Al ‘Ayyāţ",
+      "province": "吉萨省",
+      "latitude": 29.6197,
+      "longitude": 31.2575,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Aş Şalāḩāt",
+      "province": "代盖赫利耶省",
+      "latitude": 31.0021,
+      "longitude": 31.6263,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Ain Sukhna",
+      "province": "苏伊士省",
+      "latitude": 29.6002,
+      "longitude": 32.3167,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Al ‘Ayn as Sukhnah",
+      "province": "苏伊士省",
+      "latitude": 29.589,
+      "longitude": 32.336,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Kafr al Kurdī",
+      "province": "代盖赫利耶省",
+      "latitude": 31.1684,
+      "longitude": 31.7655,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Ras Gharib",
+      "province": "红海省",
+      "latitude": 28.3583,
+      "longitude": 33.0783,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Sīdī Sālim",
+      "province": "谢赫村省",
+      "latitude": 31.2713,
+      "longitude": 30.7862,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Kafr Şaqr",
+      "province": "Sharqia",
+      "latitude": 30.7934,
+      "longitude": 31.6258,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Ar Raḩmānīyah",
+      "province": "布海拉省",
+      "latitude": 31.1048,
+      "longitude": 30.6413,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Rafaḩ",
+      "province": "北西奈省",
+      "latitude": 31.282,
+      "longitude": 34.2387,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Muţūbas",
+      "province": "谢赫村省",
+      "latitude": 31.2944,
+      "longitude": 30.5225,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Fāraskūr",
+      "province": "杜姆亚特省",
+      "latitude": 31.3298,
+      "longitude": 31.7151,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Abū Ḩammād",
+      "province": "Sharqia",
+      "latitude": 30.5377,
+      "longitude": 31.6788,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Shubrākhīt",
+      "province": "布海拉省",
+      "latitude": 31.028,
+      "longitude": 30.7149,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Madīnat Wādī an Naţrūn",
+      "province": "布海拉省",
+      "latitude": 30.3775,
+      "longitude": 30.3503,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Aţ Ţārif",
+      "province": "新河谷省",
+      "latitude": 25.7383,
+      "longitude": 32.6368,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "沙姆沙伊赫",
+      "name_en": "Sharm el-Sheikh",
+      "province": "南西奈省",
+      "latitude": 27.9158,
+      "longitude": 34.3299,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "El-Tor",
+      "province": "南西奈省",
+      "latitude": 28.2417,
+      "longitude": 33.6222,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Sīdī Barānī",
+      "province": "马特鲁省",
+      "latitude": 31.6117,
+      "longitude": 25.9254,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Dār as Salām",
+      "province": "索哈杰省",
+      "latitude": 26.2784,
+      "longitude": 32.0561,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "‘Izbat al Burj",
+      "province": "代盖赫利耶省",
+      "latitude": 31.5084,
+      "longitude": 31.8411,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Sumusţā as Sulţānī",
+      "province": "Beni Suweif",
+      "latitude": 28.9167,
+      "longitude": 30.85,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Qahā",
+      "province": "盖卢比尤省",
+      "latitude": 30.2801,
+      "longitude": 31.2053,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Fāyīd",
+      "province": "伊斯梅利亚省",
+      "latitude": 30.3126,
+      "longitude": 32.3094,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Al Waqf",
+      "province": "基纳省",
+      "latitude": 26.0866,
+      "longitude": 32.4226,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Al Maḩmūdīyah",
+      "province": "布海拉省",
+      "latitude": 31.1835,
+      "longitude": 30.5245,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Sāqultah",
+      "province": "索哈杰省",
+      "latitude": 26.6582,
+      "longitude": 31.6714,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Badr",
+      "province": "开罗省",
+      "latitude": 30.136,
+      "longitude": 31.715,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Al Başalīyah Baḩrī",
+      "province": "阿斯旺省",
+      "latitude": 25.15,
+      "longitude": 32.7167,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Awlād Şaqr",
+      "province": "Sharqia",
+      "latitude": 30.9306,
+      "longitude": 31.6986,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Abu Suweir-el-Mahatta",
+      "province": "Sharqia",
+      "latitude": 30.5698,
+      "longitude": 32.1146,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Banī Suwayf al Jadīdah",
+      "province": "红海省",
+      "latitude": 29.033,
+      "longitude": 31.1141,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Quţūr",
+      "province": "西部省",
+      "latitude": 30.9722,
+      "longitude": 30.9561,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Maḩallat Damanah",
+      "province": "代盖赫利耶省",
+      "latitude": 31.0729,
+      "longitude": 31.495,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Al Qanţarah",
+      "province": "伊斯梅利亚省",
+      "latitude": 30.8571,
+      "longitude": 32.3118,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Ar-Rawḍah",
+      "province": "杜姆亚特省",
+      "latitude": 31.3234,
+      "longitude": 31.7612,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Şān al Ḩajar al Qiblīyah",
+      "province": "Sharqia",
+      "latitude": 30.9748,
+      "longitude": 31.8723,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Kafr Shukr",
+      "province": "米努夫省",
+      "latitude": 30.5497,
+      "longitude": 31.2444,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Ţūd",
+      "province": "卢克索省",
+      "latitude": 25.5828,
+      "longitude": 32.5329,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Şidfā",
+      "province": "艾斯尤特省",
+      "latitude": 26.9664,
+      "longitude": 31.3795,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "As Sarw",
+      "province": "杜姆亚特省",
+      "latitude": 31.2387,
+      "longitude": 31.6538,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "New Bani Sewif City",
+      "province": "Beni Suweif",
+      "latitude": 29.0356,
+      "longitude": 31.1179,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Sīdī Ghāzī",
+      "province": "谢赫村省",
+      "latitude": 31.2111,
+      "longitude": 31.0512,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Badr",
+      "province": "布海拉省",
+      "latitude": 30.136,
+      "longitude": 31.715,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "El Dabaa",
+      "province": "马特鲁省",
+      "latitude": 31.0282,
+      "longitude": 28.445,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Az Zarqā",
+      "province": "杜姆亚特省",
+      "latitude": 31.2086,
+      "longitude": 31.6353,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Aţfīḩ",
+      "province": "吉萨省",
+      "latitude": 29.4075,
+      "longitude": 31.2525,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Mūţ",
+      "province": "新河谷省",
+      "latitude": 25.4874,
+      "longitude": 28.9792,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Naqādah",
+      "province": "基纳省",
+      "latitude": 25.9011,
+      "longitude": 32.7239,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Ash Shaykh Zuwayd",
+      "province": "北西奈省",
+      "latitude": 31.2163,
+      "longitude": 34.1107,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Bi’r al ‘Abd",
+      "province": "北西奈省",
+      "latitude": 31.0189,
+      "longitude": 33.0098,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Al ‘Idwah",
+      "province": "明亚省",
+      "latitude": 28.6992,
+      "longitude": 30.7673,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Sīwah",
+      "province": "马特鲁省",
+      "latitude": 29.2032,
+      "longitude": 25.5196,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Al Quşayr",
+      "province": "红海省",
+      "latitude": 26.1061,
+      "longitude": 34.2772,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Al Qaşşāşīn",
+      "province": "Sharqia",
+      "latitude": 30.5641,
+      "longitude": 31.9339,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Ar Riyāḑ",
+      "province": "谢赫村省",
+      "latitude": 31.2419,
+      "longitude": 30.945,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Qifţ",
+      "province": "基纳省",
+      "latitude": 25.9984,
+      "longitude": 32.8181,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Yūsuf aṣ-Ṣiddīq",
+      "province": "法尤姆省",
+      "latitude": 29.385,
+      "longitude": 30.557,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Al Bayāḑīyah",
+      "province": "卢克索省",
+      "latitude": 25.6648,
+      "longitude": 32.6354,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "An Nūbārīyah",
+      "province": "布海拉省",
+      "latitude": 30.6687,
+      "longitude": 30.0739,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Munsha‘at Abū ‘Umar",
+      "province": "Sharqia",
+      "latitude": 30.9071,
+      "longitude": 32.0234,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Burj al ‘Arab",
+      "province": "亚历山大省",
+      "latitude": 30.9032,
+      "longitude": 29.5528,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "An Nāşirīyah",
+      "province": "艾斯尤特省",
+      "latitude": 27.2058,
+      "longitude": 31.1964,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "As Sibā‘īyah",
+      "province": "阿斯旺省",
+      "latitude": 25.1941,
+      "longitude": 32.6771,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Mīt Abū Ghālib",
+      "province": "杜姆亚特省",
+      "latitude": 31.2884,
+      "longitude": 31.6772,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Jarājūs",
+      "province": "基纳省",
+      "latitude": 25.872,
+      "longitude": 32.7559,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Timayy al Imdīd",
+      "province": "代盖赫利耶省",
+      "latitude": 30.9438,
+      "longitude": 31.5293,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Az Zaynīyah Qiblī",
+      "province": "卢克索省",
+      "latitude": 25.7509,
+      "longitude": 32.6776,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "An-Najaylah",
+      "province": "马特鲁省",
+      "latitude": 31.4071,
+      "longitude": 26.5832,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Manshīyat al Qanāţir",
+      "province": "吉萨省",
+      "latitude": 30.1848,
+      "longitude": 31.1065,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Al Ḩammām",
+      "province": "马特鲁省",
+      "latitude": 30.8453,
+      "longitude": 29.3882,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Abū Ţisht",
+      "province": "基纳省",
+      "latitude": 26.1204,
+      "longitude": 32.0954,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Kafr Sa‘d",
+      "province": "杜姆亚特省",
+      "latitude": 31.3557,
+      "longitude": 31.6848,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Al-Minyā al-Jadīdah",
+      "province": "明亚省",
+      "latitude": 28.0864,
+      "longitude": 30.8146,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "As Sallūm",
+      "province": "马特鲁省",
+      "latitude": 31.5537,
+      "longitude": 25.1579,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Ar Radīsīyah Qiblī",
+      "province": "红海省",
+      "latitude": 24.9065,
+      "longitude": 32.8856,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Al Bawīţī",
+      "province": "吉萨省",
+      "latitude": 28.3483,
+      "longitude": 28.8694,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "El Gouna",
+      "province": "红海省",
+      "latitude": 27.3942,
+      "longitude": 33.6782,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "沙拉丁",
+      "name_en": "Shalateen",
+      "province": "红海省",
+      "latitude": 23.1323,
+      "longitude": 35.5909,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Shalātīn",
+      "province": "红海省",
+      "latitude": 23.1391,
+      "longitude": 35.5982,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Râs el-Barr",
+      "province": "代盖赫利耶省",
+      "latitude": 31.5103,
+      "longitude": 31.8285,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Marsa Alam",
+      "province": "红海省",
+      "latitude": 25.0631,
+      "longitude": 34.8901,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Dahab",
+      "province": "南西奈省",
+      "latitude": 28.4821,
+      "longitude": 34.495,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "阿莱曼",
+      "name_en": "Al ‘Alamayn",
+      "province": "马特鲁省",
+      "latitude": 30.8301,
+      "longitude": 28.955,
+      "timezone": "Africa/Cairo"
+    },
+    {
+      "name": "",
+      "name_en": "Al Yāsīnīyah",
+      "province": "布海拉省",
+      "latitude": 30.95,
+      "longitude": 30.0667,
+      "timezone": "Africa/Cairo"
+    }
+  ]
+}

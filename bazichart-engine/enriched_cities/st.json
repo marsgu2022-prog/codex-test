@@ -1,0 +1,46 @@
+{
+  "country_code": "ST",
+  "country_name": "圣多美和普林西比",
+  "cities": [
+    {
+      "name": "圣多美",
+      "name_en": "São Tomé",
+      "province": "圣多美岛",
+      "latitude": 0.3376,
+      "longitude": 6.7299,
+      "timezone": "Africa/Sao_Tome"
+    },
+    {
+      "name": "",
+      "name_en": "Neves",
+      "province": "圣多美岛",
+      "latitude": 0.3567,
+      "longitude": 6.549,
+      "timezone": "Africa/Sao_Tome"
+    },
+    {
+      "name": "",
+      "name_en": "Água Izé",
+      "province": "圣多美岛",
+      "latitude": 0.2195,
+      "longitude": 6.7278,
+      "timezone": "Africa/Sao_Tome"
+    },
+    {
+      "name": "",
+      "name_en": "Folha Fede",
+      "province": "圣多美岛",
+      "latitude": 0.284,
+      "longitude": 6.684,
+      "timezone": "Africa/Sao_Tome"
+    },
+    {
+      "name": "圣安东尼奥",
+      "name_en": "Santo António",
+      "province": "普林西比岛",
+      "latitude": 1.6394,
+      "longitude": 7.4195,
+      "timezone": "Africa/Sao_Tome"
+    }
+  ]
+}

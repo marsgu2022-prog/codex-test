@@ -1,0 +1,54 @@
+{
+  "country_code": "VU",
+  "country_name": "瓦努阿图",
+  "cities": [
+    {
+      "name": "维拉港",
+      "name_en": "Port-Vila",
+      "province": "Shefa",
+      "latitude": -17.7365,
+      "longitude": 168.3137,
+      "timezone": "Pacific/Efate"
+    },
+    {
+      "name": "卢甘维尔",
+      "name_en": "Luganville",
+      "province": "桑马省",
+      "latitude": -15.5199,
+      "longitude": 167.1624,
+      "timezone": "Pacific/Efate"
+    },
+    {
+      "name": "",
+      "name_en": "Isangel",
+      "province": "塔菲亚省",
+      "latitude": -19.5417,
+      "longitude": 169.2817,
+      "timezone": "Pacific/Efate"
+    },
+    {
+      "name": "",
+      "name_en": "Sola",
+      "province": "托尔巴省",
+      "latitude": -13.8761,
+      "longitude": 167.5517,
+      "timezone": "Pacific/Efate"
+    },
+    {
+      "name": "",
+      "name_en": "Lakatoro",
+      "province": "马朗巴省",
+      "latitude": -16.0999,
+      "longitude": 167.4164,
+      "timezone": "Pacific/Efate"
+    },
+    {
+      "name": "",
+      "name_en": "Saratamata",
+      "province": "彭纳马省",
+      "latitude": -15.2903,
+      "longitude": 167.9668,
+      "timezone": "Pacific/Efate"
+    }
+  ]
+}

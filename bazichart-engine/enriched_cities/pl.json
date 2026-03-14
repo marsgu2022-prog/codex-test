@@ -1,0 +1,6030 @@
+{
+  "country_code": "PL",
+  "country_name": "波兰",
+  "cities": [
+    {
+      "name": "华沙",
+      "name_en": "Warsaw",
+      "province": "Mazovia",
+      "latitude": 52.2298,
+      "longitude": 21.0118,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "克拉科夫",
+      "name_en": "Kraków",
+      "province": "小波兰省",
+      "latitude": 50.0614,
+      "longitude": 19.9366,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "弗罗茨瓦夫",
+      "name_en": "Wrocław",
+      "province": "下西里西亚省",
+      "latitude": 51.1029,
+      "longitude": 17.0301,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "罗兹",
+      "name_en": "Łódź",
+      "province": "罗兹省",
+      "latitude": 51.7706,
+      "longitude": 19.4739,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "波兹南",
+      "name_en": "Poznań",
+      "province": "大波兰省",
+      "latitude": 52.4069,
+      "longitude": 16.9299,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "格但斯克",
+      "name_en": "Gdańsk",
+      "province": "波美拉尼亚省",
+      "latitude": 54.3523,
+      "longitude": 18.6491,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "什切青",
+      "name_en": "Szczecin",
+      "province": "西滨海省",
+      "latitude": 53.4289,
+      "longitude": 14.553,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "卢布林",
+      "name_en": "Lublin",
+      "province": "卢布林省",
+      "latitude": 51.2506,
+      "longitude": 22.5701,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "比得哥什",
+      "name_en": "Bydgoszcz",
+      "province": "Kujawsko-Pomorskie",
+      "latitude": 53.1235,
+      "longitude": 18.0076,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "比亚韦斯托克",
+      "name_en": "Białystok",
+      "province": "Podlasie",
+      "latitude": 53.1333,
+      "longitude": 23.1643,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "卡托维兹",
+      "name_en": "Katowice",
+      "province": "西里西亚省",
+      "latitude": 50.2597,
+      "longitude": 19.0217,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "格丁尼亚",
+      "name_en": "Gdynia",
+      "province": "波美拉尼亚省",
+      "latitude": 54.5189,
+      "longitude": 18.5319,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "琴斯托霍瓦",
+      "name_en": "Częstochowa",
+      "province": "西里西亚省",
+      "latitude": 50.7965,
+      "longitude": 19.1241,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Sosnowiec",
+      "province": "西里西亚省",
+      "latitude": 50.2868,
+      "longitude": 19.1039,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "拉多姆",
+      "name_en": "Radom",
+      "province": "Mazovia",
+      "latitude": 51.4025,
+      "longitude": 21.1471,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "莫科托夫区",
+      "name_en": "Mokotów",
+      "province": "Mazovia",
+      "latitude": 52.1934,
+      "longitude": 21.0349,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "格利维采",
+      "name_en": "Gliwice",
+      "province": "西里西亚省",
+      "latitude": 50.2976,
+      "longitude": 18.6766,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "热舒夫",
+      "name_en": "Rzeszów",
+      "province": "喀尔巴阡山省",
+      "latitude": 50.0413,
+      "longitude": 21.999,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "托伦",
+      "name_en": "Toruń",
+      "province": "Kujawsko-Pomorskie",
+      "latitude": 53.0138,
+      "longitude": 18.5981,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "凯尔采",
+      "name_en": "Kielce",
+      "province": "Świętokrzyskie",
+      "latitude": 50.8703,
+      "longitude": 20.6275,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "扎布热",
+      "name_en": "Zabrze",
+      "province": "西里西亚省",
+      "latitude": 50.3249,
+      "longitude": 18.7858,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "比托姆",
+      "name_en": "Bytom",
+      "province": "西里西亚省",
+      "latitude": 50.348,
+      "longitude": 18.9328,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Praga Południe",
+      "province": "Mazovia",
+      "latitude": 52.2442,
+      "longitude": 21.0855,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "别尔斯科-比亚瓦",
+      "name_en": "Bielsko-Biala",
+      "province": "西里西亚省",
+      "latitude": 49.8225,
+      "longitude": 19.0469,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Olsztyn",
+      "province": "瓦尔米亚-马祖里省",
+      "latitude": 53.7838,
+      "longitude": 20.4927,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Ursynów",
+      "province": "Mazovia",
+      "latitude": 52.1505,
+      "longitude": 21.0504,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "鲁达希隆斯卡",
+      "name_en": "Ruda Śląska",
+      "province": "西里西亚省",
+      "latitude": 50.2584,
+      "longitude": 18.8563,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "雷布尼克",
+      "name_en": "Rybnik",
+      "province": "西里西亚省",
+      "latitude": 50.0971,
+      "longitude": 18.5418,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Wola",
+      "province": "Mazovia",
+      "latitude": 52.2348,
+      "longitude": 20.96,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "别拉内区",
+      "name_en": "Bielany",
+      "province": "Mazovia",
+      "latitude": 52.2924,
+      "longitude": 20.9353,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "蒂黑",
+      "name_en": "Tychy",
+      "province": "西里西亚省",
+      "latitude": 50.1372,
+      "longitude": 18.9664,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Białołeka",
+      "province": "Mazovia",
+      "latitude": 52.3213,
+      "longitude": 20.972,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "奥波莱",
+      "name_en": "Opole",
+      "province": "Opole Voivodeship",
+      "latitude": 50.6712,
+      "longitude": 17.926,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "埃尔布隆格",
+      "name_en": "Elbląg",
+      "province": "瓦尔米亚-马祖里省",
+      "latitude": 54.1522,
+      "longitude": 19.4088,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "普沃茨克",
+      "name_en": "Płock",
+      "province": "Mazovia",
+      "latitude": 52.5468,
+      "longitude": 19.7064,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "瓦乌布日赫",
+      "name_en": "Wałbrzych",
+      "province": "下西里西亚省",
+      "latitude": 50.7714,
+      "longitude": 16.2843,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Targówek",
+      "province": "Mazovia",
+      "latitude": 52.2918,
+      "longitude": 21.0484,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Bemowo",
+      "province": "Mazovia",
+      "latitude": 52.2546,
+      "longitude": 20.9084,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "弗沃茨瓦韦克",
+      "name_en": "Włocławek",
+      "province": "Kujawsko-Pomorskie",
+      "latitude": 52.6482,
+      "longitude": 19.0678,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "绿山城",
+      "name_en": "Zielona Góra",
+      "province": "卢布斯卡省",
+      "latitude": 51.9355,
+      "longitude": 15.5064,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "塔尔努夫",
+      "name_en": "Tarnów",
+      "province": "小波兰省",
+      "latitude": 50.0138,
+      "longitude": 20.987,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "栋布罗瓦古尔尼恰",
+      "name_en": "Dąbrowa Górnicza",
+      "province": "西里西亚省",
+      "latitude": 50.3339,
+      "longitude": 19.2048,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "大波兰地区戈茹夫",
+      "name_en": "Gorzów Wielkopolski",
+      "province": "卢布斯卡省",
+      "latitude": 52.7337,
+      "longitude": 15.225,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "霍茹夫",
+      "name_en": "Chorzów",
+      "province": "西里西亚省",
+      "latitude": 50.3058,
+      "longitude": 18.9742,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "卡利什",
+      "name_en": "Kalisz",
+      "province": "大波兰省",
+      "latitude": 51.7611,
+      "longitude": 18.091,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "科沙林",
+      "name_en": "Koszalin",
+      "province": "西滨海省",
+      "latitude": 54.1944,
+      "longitude": 16.1722,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "莱格尼察",
+      "name_en": "Legnica",
+      "province": "下西里西亚省",
+      "latitude": 51.2101,
+      "longitude": 16.1619,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Śródmieście",
+      "province": "Mazovia",
+      "latitude": 52.229,
+      "longitude": 21.0164,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Śródmieście",
+      "province": "下西里西亚省",
+      "latitude": 52.229,
+      "longitude": 21.0164,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "斯武普斯克",
+      "name_en": "Słupsk",
+      "province": "波美拉尼亚省",
+      "latitude": 54.4641,
+      "longitude": 17.0287,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "亚沃日诺",
+      "name_en": "Jaworzno",
+      "province": "西里西亚省",
+      "latitude": 50.2053,
+      "longitude": 19.275,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Jastrzębie Zdrój",
+      "province": "西里西亚省",
+      "latitude": 49.9554,
+      "longitude": 18.5748,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Psie Pole",
+      "province": "下西里西亚省",
+      "latitude": 51.1459,
+      "longitude": 17.0352,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Praga Północ",
+      "province": "Mazovia",
+      "latitude": 52.2544,
+      "longitude": 21.0347,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "格鲁琼兹",
+      "name_en": "Grudziądz",
+      "province": "Kujawsko-Pomorskie",
+      "latitude": 53.4841,
+      "longitude": 18.7537,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "新松奇",
+      "name_en": "Nowy Sącz",
+      "province": "小波兰省",
+      "latitude": 49.6218,
+      "longitude": 20.6971,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "奥乔塔",
+      "name_en": "Ochota",
+      "province": "Mazovia",
+      "latitude": 52.221,
+      "longitude": 20.9853,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "科宁",
+      "name_en": "Konin",
+      "province": "大波兰省",
+      "latitude": 52.2234,
+      "longitude": 18.2512,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "彼得库夫特雷布纳尔斯基",
+      "name_en": "Piotrków Trybunalski",
+      "province": "罗兹省",
+      "latitude": 51.4055,
+      "longitude": 19.7032,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "伊诺弗罗茨瓦夫",
+      "name_en": "Inowrocław",
+      "province": "Kujawsko-Pomorskie",
+      "latitude": 52.7989,
+      "longitude": 18.2639,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "卢宾",
+      "name_en": "Lubin",
+      "province": "下西里西亚省",
+      "latitude": 51.4009,
+      "longitude": 16.2015,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Jelenia Góra",
+      "province": "下西里西亚省",
+      "latitude": 50.8997,
+      "longitude": 15.729,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Wawer",
+      "province": "Mazovia",
+      "latitude": 52.1966,
+      "longitude": 21.1775,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "谢德尔采",
+      "name_en": "Siedlce",
+      "province": "Mazovia",
+      "latitude": 52.1677,
+      "longitude": 22.2901,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "皮瓦",
+      "name_en": "Piła",
+      "province": "大波兰省",
+      "latitude": 53.1514,
+      "longitude": 16.7378,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "圣十字地区奥斯特罗维茨",
+      "name_en": "Ostrowiec Świętokrzyski",
+      "province": "Świętokrzyskie",
+      "latitude": 50.9294,
+      "longitude": 21.3852,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "希隆斯克地区谢米亚诺维采",
+      "name_en": "Siemianowice Śląskie",
+      "province": "西里西亚省",
+      "latitude": 50.3274,
+      "longitude": 19.029,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "大波兰地区奥斯特鲁夫",
+      "name_en": "Ostrów Wielkopolski",
+      "province": "大波兰省",
+      "latitude": 51.655,
+      "longitude": 17.8069,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "梅斯沃维采",
+      "name_en": "Mysłowice",
+      "province": "西里西亚省",
+      "latitude": 50.2075,
+      "longitude": 19.1667,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "什切青旧城",
+      "name_en": "Stargard",
+      "province": "西滨海省",
+      "latitude": 53.3367,
+      "longitude": 15.0499,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "帕比亚尼采",
+      "name_en": "Pabianice",
+      "province": "罗兹省",
+      "latitude": 51.6645,
+      "longitude": 19.3547,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "格涅兹诺",
+      "name_en": "Gniezno",
+      "province": "大波兰省",
+      "latitude": 52.5348,
+      "longitude": 17.5826,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Fordon",
+      "province": "Kujawsko-Pomorskie",
+      "latitude": 53.1482,
+      "longitude": 18.1704,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "苏瓦乌基",
+      "name_en": "Suwałki",
+      "province": "Podlasie",
+      "latitude": 54.1118,
+      "longitude": 22.9309,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "马佐夫舍地区托马舒夫",
+      "name_en": "Tomaszów Mazowiecki",
+      "province": "罗兹省",
+      "latitude": 51.5313,
+      "longitude": 20.0085,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "普热梅希尔",
+      "name_en": "Przemyśl",
+      "province": "喀尔巴阡山省",
+      "latitude": 49.785,
+      "longitude": 22.7673,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "斯塔洛瓦沃拉",
+      "name_en": "Stalowa Wola",
+      "province": "喀尔巴阡山省",
+      "latitude": 50.5829,
+      "longitude": 22.0533,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "扎莫希奇",
+      "name_en": "Zamość",
+      "province": "卢布林省",
+      "latitude": 50.7231,
+      "longitude": 23.252,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "肯杰任科兹莱",
+      "name_en": "Kędzierzyn-Koźle",
+      "province": "Opole Voivodeship",
+      "latitude": 50.3498,
+      "longitude": 18.2261,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "格沃古夫",
+      "name_en": "Głogów",
+      "province": "下西里西亚省",
+      "latitude": 51.6636,
+      "longitude": 16.0845,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Wrzeszcz",
+      "province": "波美拉尼亚省",
+      "latitude": 54.3765,
+      "longitude": 18.6075,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "莱什诺",
+      "name_en": "Leszno",
+      "province": "大波兰省",
+      "latitude": 51.8403,
+      "longitude": 16.5749,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "若雷",
+      "name_en": "Żory",
+      "province": "西里西亚省",
+      "latitude": 50.0452,
+      "longitude": 18.7006,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "贝乌哈图夫",
+      "name_en": "Bełchatów",
+      "province": "罗兹省",
+      "latitude": 51.3688,
+      "longitude": 19.3567,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "沃姆扎",
+      "name_en": "Łomża",
+      "province": "Podlasie",
+      "latitude": 53.1781,
+      "longitude": 22.0593,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "塔尔诺夫斯凯古雷",
+      "name_en": "Tarnowskie Góry",
+      "province": "西里西亚省",
+      "latitude": 50.4455,
+      "longitude": 18.8615,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "希维德尼察",
+      "name_en": "Świdnica",
+      "province": "下西里西亚省",
+      "latitude": 50.8438,
+      "longitude": 16.4886,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "海乌姆",
+      "name_en": "Chełm",
+      "province": "卢布林省",
+      "latitude": 51.1431,
+      "longitude": 23.4716,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Tczew",
+      "province": "波美拉尼亚省",
+      "latitude": 54.0924,
+      "longitude": 18.7779,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "希隆斯克地区佩卡雷",
+      "name_en": "Piekary Śląskie",
+      "province": "西里西亚省",
+      "latitude": 50.3802,
+      "longitude": 18.9265,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "梅莱茨",
+      "name_en": "Mielec",
+      "province": "喀尔巴阡山省",
+      "latitude": 50.2871,
+      "longitude": 21.4239,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "拉齐布日",
+      "name_en": "Racibórz",
+      "province": "西里西亚省",
+      "latitude": 50.0919,
+      "longitude": 18.2193,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "本津",
+      "name_en": "Będzin",
+      "province": "西里西亚省",
+      "latitude": 50.3261,
+      "longitude": 19.1257,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "兹盖日",
+      "name_en": "Zgierz",
+      "province": "罗兹省",
+      "latitude": 51.8556,
+      "longitude": 19.4062,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "比亚瓦-波德拉斯卡",
+      "name_en": "Biała Podlaska",
+      "province": "卢布林省",
+      "latitude": 52.0324,
+      "longitude": 23.1165,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "埃乌克",
+      "name_en": "Ełk",
+      "province": "瓦尔米亚-马祖里省",
+      "latitude": 53.8282,
+      "longitude": 22.3647,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "希维托赫洛维采",
+      "name_en": "Świętochłowice",
+      "province": "西里西亚省",
+      "latitude": 50.2964,
+      "longitude": 18.9173,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "普鲁斯科夫",
+      "name_en": "Pruszków",
+      "province": "Mazovia",
+      "latitude": 52.1707,
+      "longitude": 20.8121,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "奥斯特罗文卡",
+      "name_en": "Ostrołęka",
+      "province": "Mazovia",
+      "latitude": 53.0862,
+      "longitude": 21.5757,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "斯塔拉霍维采",
+      "name_en": "Starachowice",
+      "province": "Świętokrzyskie",
+      "latitude": 51.0374,
+      "longitude": 21.0713,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "扎维尔切",
+      "name_en": "Zawiercie",
+      "province": "西里西亚省",
+      "latitude": 50.4877,
+      "longitude": 19.4168,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "若利博日区",
+      "name_en": "Żoliborz",
+      "province": "Mazovia",
+      "latitude": 52.269,
+      "longitude": 20.9864,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "莱吉奥诺沃",
+      "name_en": "Legionowo",
+      "province": "Mazovia",
+      "latitude": 52.4015,
+      "longitude": 20.9266,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "塔尔诺布热格",
+      "name_en": "Tarnobrzeg",
+      "province": "喀尔巴阡山省",
+      "latitude": 50.573,
+      "longitude": 21.6794,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "普瓦维",
+      "name_en": "Puławy",
+      "province": "卢布林省",
+      "latitude": 51.4166,
+      "longitude": 21.9694,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "希隆斯克地区沃济斯瓦夫",
+      "name_en": "Wodzisław Śląski",
+      "province": "西里西亚省",
+      "latitude": 50.0038,
+      "longitude": 18.472,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "斯卡日斯科-卡缅纳",
+      "name_en": "Skarżysko-Kamienna",
+      "province": "Świętokrzyskie",
+      "latitude": 51.1131,
+      "longitude": 20.8716,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "斯凯尔涅维采",
+      "name_en": "Skierniewice",
+      "province": "罗兹省",
+      "latitude": 51.9549,
+      "longitude": 20.1584,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "库特娜",
+      "name_en": "Kutno",
+      "province": "罗兹省",
+      "latitude": 52.2306,
+      "longitude": 19.3641,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "克罗斯诺",
+      "name_en": "Krosno",
+      "province": "喀尔巴阡山省",
+      "latitude": 49.6887,
+      "longitude": 21.7706,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "登比察",
+      "name_en": "Dębica",
+      "province": "喀尔巴阡山省",
+      "latitude": 50.0515,
+      "longitude": 21.4114,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "乌尔苏斯区",
+      "name_en": "Ursus",
+      "province": "Mazovia",
+      "latitude": 52.1952,
+      "longitude": 20.8842,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "尼斯",
+      "name_en": "Nysa",
+      "province": "Opole Voivodeship",
+      "latitude": 50.4738,
+      "longitude": 17.3344,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "格但斯克旧城",
+      "name_en": "Starogard Gdański",
+      "province": "波美拉尼亚省",
+      "latitude": 53.964,
+      "longitude": 18.5264,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "韦伊海罗沃",
+      "name_en": "Wejherowo",
+      "province": "波美拉尼亚省",
+      "latitude": 54.6057,
+      "longitude": 18.2356,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "切哈努夫",
+      "name_en": "Ciechanów",
+      "province": "Mazovia",
+      "latitude": 52.8814,
+      "longitude": 20.62,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "鲁米亚",
+      "name_en": "Rumia",
+      "province": "波美拉尼亚省",
+      "latitude": 54.5709,
+      "longitude": 18.388,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "拉多姆斯科",
+      "name_en": "Radomsko",
+      "province": "罗兹省",
+      "latitude": 51.0671,
+      "longitude": 19.4448,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "兹敦斯卡沃拉",
+      "name_en": "Zduńska Wola",
+      "province": "罗兹省",
+      "latitude": 51.5992,
+      "longitude": 18.9397,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "谢拉兹",
+      "name_en": "Sieradz",
+      "province": "罗兹省",
+      "latitude": 51.5958,
+      "longitude": 18.7302,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "科沃布热格",
+      "name_en": "Kołobrzeg",
+      "province": "西滨海省",
+      "latitude": 54.1756,
+      "longitude": 15.5834,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Rejon placu Świętego Macieja",
+      "province": "下西里西亚省",
+      "latitude": 51.1206,
+      "longitude": 17.0376,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "奥特沃茨克",
+      "name_en": "Otwock",
+      "province": "Mazovia",
+      "latitude": 52.1058,
+      "longitude": 21.2613,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Bieńczyce",
+      "province": "小波兰省",
+      "latitude": 50.0881,
+      "longitude": 20.0279,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "日拉尔杜夫",
+      "name_en": "Żyrardów",
+      "province": "Mazovia",
+      "latitude": 52.0488,
+      "longitude": 20.446,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "希维诺乌伊希切",
+      "name_en": "Świnoujście",
+      "province": "西滨海省",
+      "latitude": 53.9105,
+      "longitude": 14.2471,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Bolesławiec",
+      "province": "下西里西亚省",
+      "latitude": 51.2642,
+      "longitude": 15.5697,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "新苏尔",
+      "name_en": "Nowa Sól",
+      "province": "卢布斯卡省",
+      "latitude": 51.8033,
+      "longitude": 15.717,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Świdnik",
+      "province": "卢布林省",
+      "latitude": 51.219,
+      "longitude": 22.6962,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "赫扎努夫",
+      "name_en": "Chrzanów",
+      "province": "小波兰省",
+      "latitude": 50.1355,
+      "longitude": 19.402,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "克努鲁夫",
+      "name_en": "Knurów",
+      "province": "西里西亚省",
+      "latitude": 50.2197,
+      "longitude": 18.6507,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "萨诺克",
+      "name_en": "Sanok",
+      "province": "喀尔巴阡山省",
+      "latitude": 49.5557,
+      "longitude": 22.2056,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "米科武夫",
+      "name_en": "Mikołów",
+      "province": "西里西亚省",
+      "latitude": 50.171,
+      "longitude": 18.9041,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "霍伊尼采",
+      "name_en": "Chojnice",
+      "province": "波美拉尼亚省",
+      "latitude": 53.6955,
+      "longitude": 17.557,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "扎雷",
+      "name_en": "Żary",
+      "province": "卢布斯卡省",
+      "latitude": 51.642,
+      "longitude": 15.1373,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "什切齐内克",
+      "name_en": "Szczecinek",
+      "province": "西滨海省",
+      "latitude": 53.7079,
+      "longitude": 16.6994,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "索哈契夫",
+      "name_en": "Sochaczew",
+      "province": "Mazovia",
+      "latitude": 52.2294,
+      "longitude": 20.2384,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "布热格",
+      "name_en": "Brzeg",
+      "province": "Opole Voivodeship",
+      "latitude": 50.8608,
+      "longitude": 17.4674,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "亚斯沃",
+      "name_en": "Jasło",
+      "province": "喀尔巴阡山省",
+      "latitude": 49.7451,
+      "longitude": 21.4725,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "奥尔库什",
+      "name_en": "Olkusz",
+      "province": "小波兰省",
+      "latitude": 50.2813,
+      "longitude": 19.565,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "克维曾",
+      "name_en": "Kwidzyn",
+      "province": "波美拉尼亚省",
+      "latitude": 53.7249,
+      "longitude": 18.9311,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "马佐夫舍地区明斯克",
+      "name_en": "Mińsk Mazowiecki",
+      "province": "Mazovia",
+      "latitude": 52.1793,
+      "longitude": 21.5725,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "奥莱希尼察",
+      "name_en": "Oleśnica",
+      "province": "下西里西亚省",
+      "latitude": 51.2134,
+      "longitude": 17.3899,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Malbork",
+      "province": "波美拉尼亚省",
+      "latitude": 54.0359,
+      "longitude": 19.0266,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "沃沃明",
+      "name_en": "Wołomin",
+      "province": "Mazovia",
+      "latitude": 52.3401,
+      "longitude": 21.2421,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "皮亚塞奇诺",
+      "name_en": "Piaseczno",
+      "province": "Mazovia",
+      "latitude": 52.0814,
+      "longitude": 21.024,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Włochy",
+      "province": "Mazovia",
+      "latitude": 52.1794,
+      "longitude": 20.9461,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "克拉希尼克",
+      "name_en": "Kraśnik",
+      "province": "卢布林省",
+      "latitude": 50.9236,
+      "longitude": 22.2271,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "切申",
+      "name_en": "Cieszyn",
+      "province": "西里西亚省",
+      "latitude": 49.7513,
+      "longitude": 18.6321,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "雅罗斯瓦夫",
+      "name_en": "Jarosław",
+      "province": "喀尔巴阡山省",
+      "latitude": 50.0162,
+      "longitude": 22.6778,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "伦堡",
+      "name_en": "Lębork",
+      "province": "波美拉尼亚省",
+      "latitude": 54.5392,
+      "longitude": 17.7501,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "索波特",
+      "name_en": "Sopot",
+      "province": "波美拉尼亚省",
+      "latitude": 54.4418,
+      "longitude": 18.56,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "切霍维采-杰济采",
+      "name_en": "Czechowice-Dziedzice",
+      "province": "西里西亚省",
+      "latitude": 49.9134,
+      "longitude": 19.0048,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "波利采",
+      "name_en": "Police",
+      "province": "西滨海省",
+      "latitude": 53.5521,
+      "longitude": 14.5718,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Czeladź",
+      "province": "西里西亚省",
+      "latitude": 50.3154,
+      "longitude": 19.0782,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "奥斯威辛",
+      "name_en": "Oświęcim",
+      "province": "小波兰省",
+      "latitude": 50.0344,
+      "longitude": 19.2104,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "杰尔若纽夫",
+      "name_en": "Dzierżoniów",
+      "province": "下西里西亚省",
+      "latitude": 50.7282,
+      "longitude": 16.6514,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "新塔尔格",
+      "name_en": "Nowy Targ",
+      "province": "小波兰省",
+      "latitude": 49.4778,
+      "longitude": 20.0323,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "奥斯特鲁达",
+      "name_en": "Ostróda",
+      "province": "瓦尔米亚-马祖里省",
+      "latitude": 53.6967,
+      "longitude": 19.9649,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "梅什库夫",
+      "name_en": "Myszków",
+      "province": "西里西亚省",
+      "latitude": 50.5752,
+      "longitude": 19.3246,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "兹戈热莱茨",
+      "name_en": "Zgorzelec",
+      "province": "下西里西亚省",
+      "latitude": 51.1494,
+      "longitude": 15.0084,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "奥瓦瓦",
+      "name_en": "Oława",
+      "province": "下西里西亚省",
+      "latitude": 50.9466,
+      "longitude": 17.2926,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "伊瓦瓦",
+      "name_en": "Iława",
+      "province": "瓦尔米亚-马祖里省",
+      "latitude": 53.596,
+      "longitude": 19.5685,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "日维茨",
+      "name_en": "Żywiec",
+      "province": "西里西亚省",
+      "latitude": 49.6853,
+      "longitude": 19.1924,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Karłowice-Różanka",
+      "province": "下西里西亚省",
+      "latitude": 51.1367,
+      "longitude": 17.0432,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Pilczyce-Kozanów-Popowice Północne",
+      "province": "下西里西亚省",
+      "latitude": 51.1309,
+      "longitude": 16.9765,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Ołbin",
+      "province": "下西里西亚省",
+      "latitude": 51.1213,
+      "longitude": 17.053,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Chełm",
+      "province": "波美拉尼亚省",
+      "latitude": 51.1431,
+      "longitude": 23.4716,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "武库夫",
+      "name_en": "Łuków",
+      "province": "卢布林省",
+      "latitude": 51.929,
+      "longitude": 22.3796,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Śrem",
+      "province": "大波兰省",
+      "latitude": 52.0887,
+      "longitude": 17.0151,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Kabaty",
+      "province": "Mazovia",
+      "latitude": 52.1301,
+      "longitude": 21.0815,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "吉日茨科",
+      "name_en": "Giżycko",
+      "province": "瓦尔米亚-马祖里省",
+      "latitude": 54.0381,
+      "longitude": 21.7644,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Ujeścisko-Łostowice",
+      "province": "波美拉尼亚省",
+      "latitude": 54.3244,
+      "longitude": 18.6027,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "沃维奇",
+      "name_en": "Łowicz",
+      "province": "罗兹省",
+      "latitude": 52.1071,
+      "longitude": 19.9453,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Augustów",
+      "province": "Podlasie",
+      "latitude": 53.8432,
+      "longitude": 22.9798,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Psie Pole Zawidawie",
+      "province": "下西里西亚省",
+      "latitude": 51.1476,
+      "longitude": 17.1144,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Turek",
+      "province": "大波兰省",
+      "latitude": 52.0155,
+      "longitude": 18.5006,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "姆瓦瓦",
+      "name_en": "Mława",
+      "province": "Mazovia",
+      "latitude": 53.1128,
+      "longitude": 20.3841,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "别拉瓦",
+      "name_en": "Bielawa",
+      "province": "下西里西亚省",
+      "latitude": 50.6908,
+      "longitude": 16.623,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "克罗托申",
+      "name_en": "Krotoszyn",
+      "province": "大波兰省",
+      "latitude": 51.6987,
+      "longitude": 17.4374,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "博赫尼亚",
+      "name_en": "Bochnia",
+      "province": "小波兰省",
+      "latitude": 49.9691,
+      "longitude": 20.4303,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "斯瓦任兹",
+      "name_en": "Swarzędz",
+      "province": "大波兰省",
+      "latitude": 52.4129,
+      "longitude": 17.085,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Grzegórzki",
+      "province": "小波兰省",
+      "latitude": 50.0642,
+      "longitude": 19.9676,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Czerwionka-Leszczyny",
+      "province": "西里西亚省",
+      "latitude": 50.1501,
+      "longitude": 18.6776,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "弗热希尼亚",
+      "name_en": "Września",
+      "province": "大波兰省",
+      "latitude": 52.3251,
+      "longitude": 17.5652,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "戈尔利采",
+      "name_en": "Gorlice",
+      "province": "小波兰省",
+      "latitude": 49.6556,
+      "longitude": 21.1604,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Gierłoż",
+      "province": "瓦尔米亚-马祖里省",
+      "latitude": 54.0813,
+      "longitude": 21.4955,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "马佐夫舍地区新庄园",
+      "name_en": "Nowy Dwór Mazowiecki",
+      "province": "Mazovia",
+      "latitude": 52.4302,
+      "longitude": 20.7165,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "肯琴",
+      "name_en": "Kętrzyn",
+      "province": "瓦尔米亚-马祖里省",
+      "latitude": 54.0768,
+      "longitude": 21.3753,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "布罗德尼察",
+      "name_en": "Brodnica",
+      "province": "Kujawsko-Pomorskie",
+      "latitude": 53.2597,
+      "longitude": 19.3965,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "扎科帕内",
+      "name_en": "Zakopane",
+      "province": "小波兰省",
+      "latitude": 49.299,
+      "longitude": 19.9489,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Piecki-Migowo",
+      "province": "波美拉尼亚省",
+      "latitude": 54.357,
+      "longitude": 18.5817,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Rejon placu Grunwaldzkiego",
+      "province": "下西里西亚省",
+      "latitude": 51.1167,
+      "longitude": 17.0613,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "比乌戈拉伊",
+      "name_en": "Biłgoraj",
+      "province": "卢布林省",
+      "latitude": 50.5411,
+      "longitude": 22.722,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "马佐夫舍地区格罗济斯克",
+      "name_en": "Grodzisk Mazowiecki",
+      "province": "Mazovia",
+      "latitude": 52.1039,
+      "longitude": 20.6337,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "维什库夫",
+      "name_en": "Wyszków",
+      "province": "Mazovia",
+      "latitude": 52.5928,
+      "longitude": 21.4584,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "波德拉谢地区别尔斯克",
+      "name_en": "Bielsk Podlaski",
+      "province": "Podlasie",
+      "latitude": 52.7651,
+      "longitude": 23.1865,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "卢邦",
+      "name_en": "Luboń",
+      "province": "大波兰省",
+      "latitude": 52.3471,
+      "longitude": 16.8927,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "什奇特诺",
+      "name_en": "Szczytno",
+      "province": "瓦尔米亚-马祖里省",
+      "latitude": 53.5626,
+      "longitude": 20.9875,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "克卢奇堡",
+      "name_en": "Kluczbork",
+      "province": "Opole Voivodeship",
+      "latitude": 50.9728,
+      "longitude": 18.2182,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "瓦乌奇",
+      "name_en": "Wałcz",
+      "province": "西滨海省",
+      "latitude": 53.2779,
+      "longitude": 16.4712,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Świecie",
+      "province": "Kujawsko-Pomorskie",
+      "latitude": 53.4095,
+      "longitude": 18.4474,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "萨根",
+      "name_en": "Żagań",
+      "province": "卢布斯卡省",
+      "latitude": 51.6176,
+      "longitude": 15.3149,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "克沃兹科",
+      "name_en": "Kłodzko",
+      "province": "下西里西亚省",
+      "latitude": 50.4349,
+      "longitude": 16.6614,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "翁格罗维茨",
+      "name_en": "Wągrowiec",
+      "province": "大波兰省",
+      "latitude": 52.8084,
+      "longitude": 17.1996,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "亚罗钦",
+      "name_en": "Jarocin",
+      "province": "大波兰省",
+      "latitude": 51.9727,
+      "longitude": 17.5026,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "普什奇纳",
+      "name_en": "Pszczyna",
+      "province": "西里西亚省",
+      "latitude": 49.9804,
+      "longitude": 18.9538,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "桑多梅日",
+      "name_en": "Sandomierz",
+      "province": "Świętokrzyskie",
+      "latitude": 50.6827,
+      "longitude": 21.749,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "新鲁达",
+      "name_en": "Nowa Ruda",
+      "province": "下西里西亚省",
+      "latitude": 50.5801,
+      "longitude": 16.5016,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Gądów-Popowice Południowe",
+      "province": "下西里西亚省",
+      "latitude": 51.1272,
+      "longitude": 16.9703,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "比亚沃加德",
+      "name_en": "Białogard",
+      "province": "西滨海省",
+      "latitude": 54.007,
+      "longitude": 15.9875,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Przymorze Wielkie",
+      "province": "波美拉尼亚省",
+      "latitude": 54.4117,
+      "longitude": 18.5984,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Osiedle Powstańców Śląskich",
+      "province": "下西里西亚省",
+      "latitude": 51.0929,
+      "longitude": 17.0206,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "科希强",
+      "name_en": "Kościan",
+      "province": "大波兰省",
+      "latitude": 52.0883,
+      "longitude": 16.6487,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "亚沃尔",
+      "name_en": "Jawor",
+      "province": "下西里西亚省",
+      "latitude": 51.0513,
+      "longitude": 16.1935,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "卢布利涅茨",
+      "name_en": "Lubliniec",
+      "province": "西里西亚省",
+      "latitude": 50.669,
+      "longitude": 18.6844,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "斯卡维纳",
+      "name_en": "Skawina",
+      "province": "小波兰省",
+      "latitude": 49.9752,
+      "longitude": 19.8287,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "格但斯克普鲁什奇",
+      "name_en": "Pruszcz Gdański",
+      "province": "波美拉尼亚省",
+      "latitude": 54.2622,
+      "longitude": 18.6363,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "科沃",
+      "name_en": "Koło",
+      "province": "大波兰省",
+      "latitude": 52.2002,
+      "longitude": 18.6386,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "巴尔托希采",
+      "name_en": "Bartoszyce",
+      "province": "瓦尔米亚-马祖里省",
+      "latitude": 54.2535,
+      "longitude": 20.8082,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "宗布基",
+      "name_en": "Ząbki",
+      "province": "Mazovia",
+      "latitude": 52.2927,
+      "longitude": 21.1054,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Środmieście",
+      "province": "波美拉尼亚省",
+      "latitude": 54.3505,
+      "longitude": 18.6556,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "普鲁德尼克",
+      "name_en": "Prudnik",
+      "province": "Opole Voivodeship",
+      "latitude": 50.3212,
+      "longitude": 17.5746,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "科希切日纳",
+      "name_en": "Kościerzyna",
+      "province": "波美拉尼亚省",
+      "latitude": 54.1223,
+      "longitude": 17.9812,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "皮亚斯图夫",
+      "name_en": "Piastów",
+      "province": "Mazovia",
+      "latitude": 52.1844,
+      "longitude": 20.8395,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "希维博济采",
+      "name_en": "Świebodzice",
+      "province": "下西里西亚省",
+      "latitude": 50.8597,
+      "longitude": 16.3197,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "马尔基",
+      "name_en": "Marki",
+      "province": "Mazovia",
+      "latitude": 52.3207,
+      "longitude": 21.1047,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Nadodrze",
+      "province": "下西里西亚省",
+      "latitude": 51.1254,
+      "longitude": 17.0307,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "赞布鲁夫",
+      "name_en": "Zambrów",
+      "province": "Podlasie",
+      "latitude": 52.9855,
+      "longitude": 22.2432,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "卢巴尔图夫",
+      "name_en": "Lubartów",
+      "province": "卢布林省",
+      "latitude": 51.4603,
+      "longitude": 22.6095,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "格拉耶沃",
+      "name_en": "Grajewo",
+      "province": "Podlasie",
+      "latitude": 53.6473,
+      "longitude": 22.4554,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Drzetowo-Grabowo",
+      "province": "西滨海省",
+      "latitude": 53.4489,
+      "longitude": 14.5792,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "马佐夫舍地区奥斯特鲁夫",
+      "name_en": "Ostrów Mazowiecka",
+      "province": "Mazovia",
+      "latitude": 52.8025,
+      "longitude": 21.8951,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "奥波奇诺",
+      "name_en": "Opoczno",
+      "province": "罗兹省",
+      "latitude": 51.3757,
+      "longitude": 20.2783,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "戈莱纽夫",
+      "name_en": "Goleniów",
+      "province": "西滨海省",
+      "latitude": 53.5639,
+      "longitude": 14.8285,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "卢班",
+      "name_en": "Lubań",
+      "province": "下西里西亚省",
+      "latitude": 51.1201,
+      "longitude": 15.2877,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "普翁斯克",
+      "name_en": "Płońsk",
+      "province": "Mazovia",
+      "latitude": 52.6235,
+      "longitude": 20.3755,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "哈伊努夫卡",
+      "name_en": "Hajnówka",
+      "province": "Podlasie",
+      "latitude": 52.7433,
+      "longitude": 23.5812,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "上瓦济斯卡",
+      "name_en": "Łaziska Górne",
+      "province": "西里西亚省",
+      "latitude": 50.1495,
+      "longitude": 18.8422,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "姆龙戈沃",
+      "name_en": "Mrągowo",
+      "province": "瓦尔米亚-马祖里省",
+      "latitude": 53.8644,
+      "longitude": 21.3051,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Andrychów",
+      "province": "小波兰省",
+      "latitude": 49.855,
+      "longitude": 19.3383,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "伦贝托夫区",
+      "name_en": "Rembertów",
+      "province": "Mazovia",
+      "latitude": 52.2606,
+      "longitude": 21.1636,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "雷杜乌托维",
+      "name_en": "Rydułtowy",
+      "province": "西里西亚省",
+      "latitude": 50.0586,
+      "longitude": 18.417,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Gajowice",
+      "province": "下西里西亚省",
+      "latitude": 51.0963,
+      "longitude": 17.002,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "大波兰地区希罗达",
+      "name_en": "Środa Wielkopolska",
+      "province": "大波兰省",
+      "latitude": 52.2284,
+      "longitude": 17.2762,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Świebodzin",
+      "province": "卢布斯卡省",
+      "latitude": 52.2475,
+      "longitude": 15.5335,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "卡缅纳古拉",
+      "name_en": "Kamienna Góra",
+      "province": "下西里西亚省",
+      "latitude": 50.7831,
+      "longitude": 16.0304,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "文奇纳",
+      "name_en": "Łęczna",
+      "province": "卢布林省",
+      "latitude": 51.3012,
+      "longitude": 22.8814,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Wrzeszcz Dolny",
+      "province": "波美拉尼亚省",
+      "latitude": 54.3847,
+      "longitude": 18.6127,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "维隆",
+      "name_en": "Wieluń",
+      "province": "罗兹省",
+      "latitude": 51.221,
+      "longitude": 18.5696,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "波尔科维采",
+      "name_en": "Polkowice",
+      "province": "下西里西亚省",
+      "latitude": 51.5039,
+      "longitude": 16.0726,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "拉维奇",
+      "name_en": "Rawicz",
+      "province": "大波兰省",
+      "latitude": 51.6095,
+      "longitude": 16.8585,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "格雷菲诺",
+      "name_en": "Gryfino",
+      "province": "西滨海省",
+      "latitude": 53.2524,
+      "longitude": 14.4883,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Krzyki-Partynice",
+      "province": "下西里西亚省",
+      "latitude": 51.0641,
+      "longitude": 17.0019,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "贾乌多沃",
+      "name_en": "Działdowo",
+      "province": "瓦尔米亚-马祖里省",
+      "latitude": 53.2396,
+      "longitude": 20.17,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Wrzeszcz Górny",
+      "province": "波美拉尼亚省",
+      "latitude": 54.3798,
+      "longitude": 18.5954,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "戈斯滕",
+      "name_en": "Gostyń",
+      "province": "大波兰省",
+      "latitude": 51.8825,
+      "longitude": 17.0123,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Końskie",
+      "province": "Świętokrzyskie",
+      "latitude": 51.1917,
+      "longitude": 20.4061,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Rejon ulicy Traugutta",
+      "province": "下西里西亚省",
+      "latitude": 51.1025,
+      "longitude": 17.0483,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "奥佐尔库夫",
+      "name_en": "Ozorków",
+      "province": "罗兹省",
+      "latitude": 51.9634,
+      "longitude": 19.2914,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "海乌姆诺",
+      "name_en": "Chełmno",
+      "province": "Kujawsko-Pomorskie",
+      "latitude": 53.3486,
+      "longitude": 18.4251,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Przedmieście Oławskie",
+      "province": "下西里西亚省",
+      "latitude": 51.1021,
+      "longitude": 17.0483,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "罗兹地区亚历山德鲁夫",
+      "name_en": "Aleksandrów Łódzki",
+      "province": "罗兹省",
+      "latitude": 51.8197,
+      "longitude": 19.3038,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "卢布林地区托马舒夫",
+      "name_en": "Tomaszów Lubelski",
+      "province": "卢布林省",
+      "latitude": 50.4477,
+      "longitude": 23.4162,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "斯切尔采奥波莱斯基",
+      "name_en": "Strzelce Opolskie",
+      "province": "Opole Voivodeship",
+      "latitude": 50.5107,
+      "longitude": 18.3006,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Wesoła",
+      "province": "Mazovia",
+      "latitude": 52.2545,
+      "longitude": 21.2241,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "皮翁基",
+      "name_en": "Pionki",
+      "province": "Mazovia",
+      "latitude": 51.476,
+      "longitude": 21.45,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Biskupin-Sępolno-Dąbie-Bartoszowice",
+      "province": "下西里西亚省",
+      "latitude": 51.1083,
+      "longitude": 17.0913,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Orunia Górna-Gdańsk Południe",
+      "province": "波美拉尼亚省",
+      "latitude": 54.3249,
+      "longitude": 18.6157,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "霍杰日",
+      "name_en": "Chodzież",
+      "province": "大波兰省",
+      "latitude": 52.995,
+      "longitude": 16.9198,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "别伦",
+      "name_en": "Bieruń",
+      "province": "西里西亚省",
+      "latitude": 50.09,
+      "longitude": 19.0929,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "诺泰奇河畔纳克沃",
+      "name_en": "Nakło nad Notecią",
+      "province": "Kujawsko-Pomorskie",
+      "latitude": 53.1421,
+      "longitude": 17.6018,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "克拉斯内斯塔夫",
+      "name_en": "Krasnystaw",
+      "province": "卢布林省",
+      "latitude": 50.9846,
+      "longitude": 23.1742,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "肯蒂",
+      "name_en": "Kęty",
+      "province": "小波兰省",
+      "latitude": 49.8821,
+      "longitude": 19.2233,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "瓦多维采",
+      "name_en": "Wadowice",
+      "province": "小波兰省",
+      "latitude": 49.8834,
+      "longitude": 19.4929,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "皮什",
+      "name_en": "Pisz",
+      "province": "瓦尔米亚-马祖里省",
+      "latitude": 53.6274,
+      "longitude": 21.8125,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Gaj",
+      "province": "下西里西亚省",
+      "latitude": 51.0801,
+      "longitude": 17.0402,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "索库乌卡",
+      "name_en": "Sokółka",
+      "province": "Podlasie",
+      "latitude": 53.4072,
+      "longitude": 23.5023,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Osiedle Kosmonautów",
+      "province": "下西里西亚省",
+      "latitude": 51.1275,
+      "longitude": 16.9619,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "普乌图斯克",
+      "name_en": "Pułtusk",
+      "province": "Mazovia",
+      "latitude": 52.7025,
+      "longitude": 21.0828,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "佩斯科维采",
+      "name_en": "Pyskowice",
+      "province": "西里西亚省",
+      "latitude": 50.4,
+      "longitude": 18.6333,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "戈斯蒂宁",
+      "name_en": "Gostynin",
+      "province": "Mazovia",
+      "latitude": 52.4294,
+      "longitude": 19.4619,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "谢尔普茨",
+      "name_en": "Sierpc",
+      "province": "Mazovia",
+      "latitude": 52.8568,
+      "longitude": 19.6691,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "切比尼亚",
+      "name_en": "Trzebinia",
+      "province": "小波兰省",
+      "latitude": 50.1593,
+      "longitude": 19.4697,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Huby",
+      "province": "下西里西亚省",
+      "latitude": 51.0893,
+      "longitude": 17.0411,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "维利奇卡",
+      "name_en": "Wieliczka",
+      "province": "小波兰省",
+      "latitude": 49.9874,
+      "longitude": 20.0647,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "缅济热奇",
+      "name_en": "Międzyrzecz",
+      "province": "卢布斯卡省",
+      "latitude": 52.4446,
+      "longitude": 15.578,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "赫鲁别舒夫",
+      "name_en": "Hrubieszów",
+      "province": "卢布林省",
+      "latitude": 50.805,
+      "longitude": 23.8925,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "沙莫图维",
+      "name_en": "Szamotuły",
+      "province": "大波兰省",
+      "latitude": 52.612,
+      "longitude": 16.5779,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "瓦斯克",
+      "name_en": "Łask",
+      "province": "罗兹省",
+      "latitude": 51.5906,
+      "longitude": 19.1328,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Szczepin",
+      "province": "下西里西亚省",
+      "latitude": 51.1161,
+      "longitude": 17.0102,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Orzesze",
+      "province": "西里西亚省",
+      "latitude": 50.1559,
+      "longitude": 18.7792,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Sulejówek",
+      "province": "Mazovia",
+      "latitude": 52.2522,
+      "longitude": 21.269,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "兹沃图夫",
+      "name_en": "Złotów",
+      "province": "大波兰省",
+      "latitude": 53.3635,
+      "longitude": 17.0408,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "布拉涅沃",
+      "name_en": "Braniewo",
+      "province": "瓦尔米亚-马祖里省",
+      "latitude": 54.3797,
+      "longitude": 19.8196,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "罗兹省康斯坦丁努夫",
+      "name_en": "Konstantynów Łódzki",
+      "province": "罗兹省",
+      "latitude": 51.7478,
+      "longitude": 19.3256,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "克拉普科维采",
+      "name_en": "Krapkowice",
+      "province": "Opole Voivodeship",
+      "latitude": 50.4751,
+      "longitude": 17.9654,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "万楚特",
+      "name_en": "Łańcut",
+      "province": "喀尔巴阡山省",
+      "latitude": 50.0687,
+      "longitude": 22.2291,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "波德拉谢地区索科武夫",
+      "name_en": "Sokołów Podlaski",
+      "province": "Mazovia",
+      "latitude": 52.4068,
+      "longitude": 22.2531,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "雷达",
+      "name_en": "Reda",
+      "province": "波美拉尼亚省",
+      "latitude": 54.6053,
+      "longitude": 18.3472,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "苏莱胡夫",
+      "name_en": "Sulechów",
+      "province": "卢布斯卡省",
+      "latitude": 52.0836,
+      "longitude": 15.6251,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "奥博尔尼基",
+      "name_en": "Oborniki",
+      "province": "大波兰省",
+      "latitude": 52.6474,
+      "longitude": 16.8141,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "约瑟夫乌",
+      "name_en": "Józefów",
+      "province": "Mazovia",
+      "latitude": 52.1371,
+      "longitude": 21.2359,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "利比翁日",
+      "name_en": "Libiąż",
+      "province": "小波兰省",
+      "latitude": 50.104,
+      "longitude": 19.3157,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "奥得河畔科斯琴",
+      "name_en": "Kostrzyn nad Odrą",
+      "province": "卢布斯卡省",
+      "latitude": 52.5871,
+      "longitude": 14.6495,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "登布林",
+      "name_en": "Dęblin",
+      "province": "卢布林省",
+      "latitude": 51.5591,
+      "longitude": 21.8483,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "马佐夫舍地区拉瓦",
+      "name_en": "Rawa Mazowiecka",
+      "province": "罗兹省",
+      "latitude": 51.7644,
+      "longitude": 20.2549,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "梅希莱尼采",
+      "name_en": "Myślenice",
+      "province": "小波兰省",
+      "latitude": 49.8338,
+      "longitude": 19.9383,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "科贝乌卡",
+      "name_en": "Kobyłka",
+      "province": "Mazovia",
+      "latitude": 52.3395,
+      "longitude": 21.1959,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "普莱谢夫",
+      "name_en": "Pleszew",
+      "province": "大波兰省",
+      "latitude": 51.8964,
+      "longitude": 17.7855,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "斯武比采",
+      "name_en": "Słubice",
+      "province": "卢布斯卡省",
+      "latitude": 52.3509,
+      "longitude": 14.5607,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "杰隆卡",
+      "name_en": "Zielonka",
+      "province": "Mazovia",
+      "latitude": 52.3038,
+      "longitude": 21.1602,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Radlin",
+      "province": "西里西亚省",
+      "latitude": 50.0502,
+      "longitude": 18.4763,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "拉济翁科夫",
+      "name_en": "Radzionków",
+      "province": "西里西亚省",
+      "latitude": 50.4003,
+      "longitude": 18.9023,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "缅济热茨",
+      "name_en": "Międzyrzec Podlaski",
+      "province": "卢布林省",
+      "latitude": 51.9864,
+      "longitude": 22.7825,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "布斯科兹德鲁伊",
+      "name_en": "Busko-Zdrój",
+      "province": "Świętokrzyskie",
+      "latitude": 50.4708,
+      "longitude": 20.7188,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "科杰尼采",
+      "name_en": "Kozienice",
+      "province": "Mazovia",
+      "latitude": 51.5829,
+      "longitude": 21.5478,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "奇强卡",
+      "name_en": "Trzcianka",
+      "province": "大波兰省",
+      "latitude": 53.0406,
+      "longitude": 16.4563,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Brzesko",
+      "province": "小波兰省",
+      "latitude": 49.9691,
+      "longitude": 20.6061,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Jędrzejów",
+      "province": "Świętokrzyskie",
+      "latitude": 50.6394,
+      "longitude": 20.3045,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "博古舒夫-戈尔采",
+      "name_en": "Boguszów-Gorce",
+      "province": "下西里西亚省",
+      "latitude": 50.7551,
+      "longitude": 16.2049,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "贝图夫",
+      "name_en": "Bytów",
+      "province": "波美拉尼亚省",
+      "latitude": 54.1706,
+      "longitude": 17.4919,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "格雷菲采",
+      "name_en": "Gryfice",
+      "province": "西滨海省",
+      "latitude": 53.9165,
+      "longitude": 15.2003,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "普扎斯内什",
+      "name_en": "Przasnysz",
+      "province": "Mazovia",
+      "latitude": 53.0191,
+      "longitude": 20.8803,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "诺沃加德",
+      "name_en": "Nowogard",
+      "province": "西滨海省",
+      "latitude": 53.6744,
+      "longitude": 15.1163,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "古宾",
+      "name_en": "Gubin",
+      "province": "卢布斯卡省",
+      "latitude": 51.9496,
+      "longitude": 14.7284,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "雷平",
+      "name_en": "Rypin",
+      "province": "Kujawsko-Pomorskie",
+      "latitude": 53.066,
+      "longitude": 19.4094,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "康斯坦钦-耶焦尔纳",
+      "name_en": "Konstancin-Jeziorna",
+      "province": "Mazovia",
+      "latitude": 52.0938,
+      "longitude": 21.1176,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "瓦尔米亚地区利兹巴克",
+      "name_en": "Lidzbark Warmiński",
+      "province": "瓦尔米亚-马祖里省",
+      "latitude": 54.1259,
+      "longitude": 20.5795,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "博加蒂尼亚",
+      "name_en": "Bogatynia",
+      "province": "下西里西亚省",
+      "latitude": 50.9075,
+      "longitude": 14.9563,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "瓦佩",
+      "name_en": "Łapy",
+      "province": "Podlasie",
+      "latitude": 52.9911,
+      "longitude": 22.8842,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "纳梅斯武夫",
+      "name_en": "Namysłów",
+      "province": "Opole Voivodeship",
+      "latitude": 51.0759,
+      "longitude": 17.7228,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "伦济内",
+      "name_en": "Lędziny",
+      "province": "西里西亚省",
+      "latitude": 50.1426,
+      "longitude": 19.1315,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "乌斯特卡",
+      "name_en": "Ustka",
+      "province": "波美拉尼亚省",
+      "latitude": 54.5805,
+      "longitude": 16.8619,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "斯塔舒夫",
+      "name_en": "Staszów",
+      "province": "Świętokrzyskie",
+      "latitude": 50.5631,
+      "longitude": 21.1659,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "斯切戈姆",
+      "name_en": "Strzegom",
+      "province": "下西里西亚省",
+      "latitude": 50.9626,
+      "longitude": 16.3501,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "波德拉谢地区拉曾",
+      "name_en": "Radzyń Podlaski",
+      "province": "卢布林省",
+      "latitude": 51.7833,
+      "longitude": 22.6167,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Świerczewo",
+      "province": "西滨海省",
+      "latitude": 53.4273,
+      "longitude": 14.513,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "奥索瓦",
+      "name_en": "Osowa",
+      "province": "波美拉尼亚省",
+      "latitude": 54.4311,
+      "longitude": 18.4673,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "奥莱茨科",
+      "name_en": "Olecko",
+      "province": "瓦尔米亚-马祖里省",
+      "latitude": 54.0337,
+      "longitude": 22.507,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "加尔沃林",
+      "name_en": "Garwolin",
+      "province": "Mazovia",
+      "latitude": 51.8975,
+      "longitude": 21.6147,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Kozanów",
+      "province": "下西里西亚省",
+      "latitude": 51.1445,
+      "longitude": 16.9694,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "普热沃斯克",
+      "name_en": "Przeworsk",
+      "province": "喀尔巴阡山省",
+      "latitude": 50.0591,
+      "longitude": 22.4941,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "米拉努韦克",
+      "name_en": "Milanówek",
+      "province": "Mazovia",
+      "latitude": 52.1188,
+      "longitude": 20.6715,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Różanka-Polanka",
+      "province": "下西里西亚省",
+      "latitude": 51.1434,
+      "longitude": 17.0199,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "霍什奇诺",
+      "name_en": "Choszczno",
+      "province": "西滨海省",
+      "latitude": 53.169,
+      "longitude": 15.4205,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "希维德温",
+      "name_en": "Świdwin",
+      "province": "西滨海省",
+      "latitude": 53.7746,
+      "longitude": 15.7767,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "乌斯特龙",
+      "name_en": "Ustroń",
+      "province": "西里西亚省",
+      "latitude": 49.7215,
+      "longitude": 18.802,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "尼斯科",
+      "name_en": "Nisko",
+      "province": "喀尔巴阡山省",
+      "latitude": 50.5199,
+      "longitude": 22.1397,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "兹沃托雷亚",
+      "name_en": "Złotoryja",
+      "province": "下西里西亚省",
+      "latitude": 51.1264,
+      "longitude": 15.9198,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "文奇察",
+      "name_en": "Łęczyca",
+      "province": "罗兹省",
+      "latitude": 52.0596,
+      "longitude": 19.1997,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "谢米亚蒂切",
+      "name_en": "Siemiatycze",
+      "province": "Podlasie",
+      "latitude": 52.4272,
+      "longitude": 22.8623,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "海乌姆扎",
+      "name_en": "Chełmża",
+      "province": "Kujawsko-Pomorskie",
+      "latitude": 53.1846,
+      "longitude": 18.6047,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Jelcz Laskowice",
+      "province": "下西里西亚省",
+      "latitude": 51.0213,
+      "longitude": 17.3165,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "沃米安基",
+      "name_en": "Łomianki",
+      "province": "Mazovia",
+      "latitude": 52.3341,
+      "longitude": 20.886,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "イェルチ社",
+      "name_en": "Jelcz",
+      "province": "下西里西亚省",
+      "latitude": 51.021,
+      "longitude": 17.3209,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "罗普奇采",
+      "name_en": "Ropczyce",
+      "province": "喀尔巴阡山省",
+      "latitude": 50.0523,
+      "longitude": 21.6089,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "新托梅希尔",
+      "name_en": "Nowy Tomyśl",
+      "province": "大波兰省",
+      "latitude": 52.3195,
+      "longitude": 16.1284,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "库亚维地区索莱茨",
+      "name_en": "Solec Kujawski",
+      "province": "Kujawsko-Pomorskie",
+      "latitude": 53.0837,
+      "longitude": 18.2257,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "格武霍瓦济",
+      "name_en": "Głuchołazy",
+      "province": "Opole Voivodeship",
+      "latitude": 50.315,
+      "longitude": 17.3835,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "格沃夫诺",
+      "name_en": "Głowno",
+      "province": "罗兹省",
+      "latitude": 51.9646,
+      "longitude": 19.7157,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "希隆斯克地区宗布科维采",
+      "name_en": "Ząbkowice Śląskie",
+      "province": "下西里西亚省",
+      "latitude": 50.5897,
+      "longitude": 16.8124,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "卡尔图济",
+      "name_en": "Kartuzy",
+      "province": "波美拉尼亚省",
+      "latitude": 54.3342,
+      "longitude": 18.1974,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Cieplice Śląskie Zdrój",
+      "province": "下西里西亚省",
+      "latitude": 50.8655,
+      "longitude": 15.6837,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "卢布斯科",
+      "name_en": "Lubsko",
+      "province": "卢布斯卡省",
+      "latitude": 51.7847,
+      "longitude": 14.972,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Przymorze Małe",
+      "province": "波美拉尼亚省",
+      "latitude": 54.4098,
+      "longitude": 18.5784,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "弗瓦迪斯瓦沃沃",
+      "name_en": "Władysławowo",
+      "province": "波美拉尼亚省",
+      "latitude": 54.7909,
+      "longitude": 18.4009,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "格鲁耶茨",
+      "name_en": "Grójec",
+      "province": "Mazovia",
+      "latitude": 51.8625,
+      "longitude": 20.8676,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Nowy Dwór",
+      "province": "下西里西亚省",
+      "latitude": 52.4302,
+      "longitude": 20.7165,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Lipno",
+      "province": "Kujawsko-Pomorskie",
+      "latitude": 52.8444,
+      "longitude": 19.1785,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "肯普诺",
+      "name_en": "Kępno",
+      "province": "大波兰省",
+      "latitude": 51.2784,
+      "longitude": 17.9891,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "斯科丘夫",
+      "name_en": "Skoczów",
+      "province": "西里西亚省",
+      "latitude": 49.8009,
+      "longitude": 18.7877,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Koźle",
+      "province": "Opole Voivodeship",
+      "latitude": 50.3356,
+      "longitude": 18.1433,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "莫龙格",
+      "name_en": "Morąg",
+      "province": "瓦尔米亚-马祖里省",
+      "latitude": 53.9171,
+      "longitude": 19.926,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "利马诺瓦",
+      "name_en": "Limanowa",
+      "province": "小波兰省",
+      "latitude": 49.7059,
+      "longitude": 20.422,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "尼济察",
+      "name_en": "Nidzica",
+      "province": "瓦尔米亚-马祖里省",
+      "latitude": 53.3605,
+      "longitude": 20.4275,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Oliwa",
+      "province": "波美拉尼亚省",
+      "latitude": 54.4072,
+      "longitude": 18.5536,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Żabianka-Wejhera-Jelitkowo-Tysiąclecia",
+      "province": "波美拉尼亚省",
+      "latitude": 54.4231,
+      "longitude": 18.5744,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "斯武普察",
+      "name_en": "Słupca",
+      "province": "大波兰省",
+      "latitude": 52.2873,
+      "longitude": 17.8719,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "弗斯霍瓦",
+      "name_en": "Wschowa",
+      "province": "卢布斯卡省",
+      "latitude": 51.807,
+      "longitude": 16.3166,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "奥斯切舒夫",
+      "name_en": "Ostrzeszów",
+      "province": "大波兰省",
+      "latitude": 51.4264,
+      "longitude": 17.9336,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "巴尔利内克",
+      "name_en": "Barlinek",
+      "province": "西滨海省",
+      "latitude": 52.9946,
+      "longitude": 15.2186,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "霍伊努夫",
+      "name_en": "Chojnów",
+      "province": "下西里西亚省",
+      "latitude": 51.2737,
+      "longitude": 15.9366,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Orunia-Św. Wojciech-Lipce",
+      "province": "波美拉尼亚省",
+      "latitude": 54.3147,
+      "longitude": 18.6368,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Stabłowice",
+      "province": "下西里西亚省",
+      "latitude": 51.1538,
+      "longitude": 16.9002,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "维拉诺夫区",
+      "name_en": "Wilanów",
+      "province": "Mazovia",
+      "latitude": 52.1631,
+      "longitude": 21.0875,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "普舒夫",
+      "name_en": "Pszów",
+      "province": "西里西亚省",
+      "latitude": 50.0399,
+      "longitude": 18.3947,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "日宁",
+      "name_en": "Żnin",
+      "province": "Kujawsko-Pomorskie",
+      "latitude": 52.8496,
+      "longitude": 17.7199,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Szerszenie",
+      "province": "Podlasie",
+      "latitude": 52.3978,
+      "longitude": 22.9563,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "莱扎伊斯克",
+      "name_en": "Leżajsk",
+      "province": "喀尔巴阡山省",
+      "latitude": 50.2626,
+      "longitude": 22.4193,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "翁布热伊诺",
+      "name_en": "Wąbrzeźno",
+      "province": "Kujawsko-Pomorskie",
+      "latitude": 53.2799,
+      "longitude": 18.9477,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Przedmieście Świdnickie",
+      "province": "下西里西亚省",
+      "latitude": 51.1008,
+      "longitude": 17.0346,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "大波兰地区格罗济斯克",
+      "name_en": "Grodzisk Wielkopolski",
+      "province": "大波兰省",
+      "latitude": 52.2276,
+      "longitude": 16.3653,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "登布诺",
+      "name_en": "Dębno",
+      "province": "西滨海省",
+      "latitude": 52.739,
+      "longitude": 14.698,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "戈乌达普",
+      "name_en": "Gołdap",
+      "province": "瓦尔米亚-马祖里省",
+      "latitude": 54.3063,
+      "longitude": 22.3036,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "格武布奇采",
+      "name_en": "Głubczyce",
+      "province": "Opole Voivodeship",
+      "latitude": 50.2009,
+      "longitude": 17.8286,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "沃尔什滕",
+      "name_en": "Wolsztyn",
+      "province": "大波兰省",
+      "latitude": 52.1155,
+      "longitude": 16.1171,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "图霍拉",
+      "name_en": "Tuchola",
+      "province": "Kujawsko-Pomorskie",
+      "latitude": 53.5879,
+      "longitude": 17.859,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "斯瓦夫诺",
+      "name_en": "Sławno",
+      "province": "西滨海省",
+      "latitude": 54.3628,
+      "longitude": 16.6789,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "兹杰绍维采",
+      "name_en": "Zdzieszowice",
+      "province": "Opole Voivodeship",
+      "latitude": 50.4248,
+      "longitude": 18.1235,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "奇武胡夫",
+      "name_en": "Człuchów",
+      "province": "波美拉尼亚省",
+      "latitude": 53.6672,
+      "longitude": 17.3588,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "科卢什基",
+      "name_en": "Koluszki",
+      "province": "罗兹省",
+      "latitude": 51.7387,
+      "longitude": 19.8199,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "兹沃切涅茨",
+      "name_en": "Złocieniec",
+      "province": "西滨海省",
+      "latitude": 53.5329,
+      "longitude": 16.0113,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "达尔沃沃",
+      "name_en": "Darłowo",
+      "province": "西滨海省",
+      "latitude": 54.4209,
+      "longitude": 16.4107,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Dąbie",
+      "province": "西滨海省",
+      "latitude": 53.4003,
+      "longitude": 14.6764,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Plac Grunwaldzki",
+      "province": "下西里西亚省",
+      "latitude": 51.1116,
+      "longitude": 17.0601,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Grabiszyn-Grabiszynek",
+      "province": "下西里西亚省",
+      "latitude": 51.0935,
+      "longitude": 16.9815,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "弗沃达瓦",
+      "name_en": "Włodawa",
+      "province": "卢布林省",
+      "latitude": 51.55,
+      "longitude": 23.55,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Muchobór Wielki",
+      "province": "下西里西亚省",
+      "latitude": 51.0974,
+      "longitude": 16.9448,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "拉布卡-兹德鲁伊",
+      "name_en": "Rabka-Zdrój",
+      "province": "小波兰省",
+      "latitude": 49.6089,
+      "longitude": 19.9665,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Krzyki",
+      "province": "下西里西亚省",
+      "latitude": 51.0709,
+      "longitude": 16.9947,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "戈卢布-多布任",
+      "name_en": "Golub-Dobrzyń",
+      "province": "Kujawsko-Pomorskie",
+      "latitude": 53.1109,
+      "longitude": 19.0538,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "克沃布茨克",
+      "name_en": "Kłobuck",
+      "province": "西里西亚省",
+      "latitude": 50.9008,
+      "longitude": 18.9367,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "佩日采",
+      "name_en": "Pyrzyce",
+      "province": "西滨海省",
+      "latitude": 53.1462,
+      "longitude": 14.8926,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Maślice",
+      "province": "下西里西亚省",
+      "latitude": 51.1577,
+      "longitude": 16.9272,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "什普罗塔瓦",
+      "name_en": "Szprotawa",
+      "province": "卢布斯卡省",
+      "latitude": 51.5656,
+      "longitude": 15.5366,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "古拉",
+      "name_en": "Góra",
+      "province": "下西里西亚省",
+      "latitude": 51.6664,
+      "longitude": 16.5349,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Karłowice",
+      "province": "下西里西亚省",
+      "latitude": 51.1413,
+      "longitude": 17.0521,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "卢巴丘夫",
+      "name_en": "Lubaczów",
+      "province": "喀尔巴阡山省",
+      "latitude": 50.157,
+      "longitude": 23.1234,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "文格鲁夫",
+      "name_en": "Węgrów",
+      "province": "Mazovia",
+      "latitude": 52.3995,
+      "longitude": 22.0163,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "下布热格",
+      "name_en": "Brzeg Dolny",
+      "province": "下西里西亚省",
+      "latitude": 51.273,
+      "longitude": 16.7081,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Siedlce",
+      "province": "波美拉尼亚省",
+      "latitude": 52.1677,
+      "longitude": 22.2901,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "莫吉尔诺",
+      "name_en": "Mogilno",
+      "province": "Kujawsko-Pomorskie",
+      "latitude": 52.6581,
+      "longitude": 17.9558,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Zaspa-Rozstaje",
+      "province": "波美拉尼亚省",
+      "latitude": 54.3967,
+      "longitude": 18.613,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "沃林",
+      "name_en": "Wolin",
+      "province": "西滨海省",
+      "latitude": 53.8421,
+      "longitude": 14.6146,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Strzelin",
+      "province": "下西里西亚省",
+      "latitude": 50.7816,
+      "longitude": 17.0648,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Zaspa-Młyniec",
+      "province": "波美拉尼亚省",
+      "latitude": 54.3913,
+      "longitude": 18.5985,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "莫西纳",
+      "name_en": "Mosina",
+      "province": "大波兰省",
+      "latitude": 52.2454,
+      "longitude": 16.8471,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Brwinów",
+      "province": "Mazovia",
+      "latitude": 52.1427,
+      "longitude": 20.717,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "库亚维地区亚历山德鲁夫",
+      "name_en": "Aleksandrów Kujawski",
+      "province": "Kujawsko-Pomorskie",
+      "latitude": 52.8766,
+      "longitude": 18.6934,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "布札希尼",
+      "name_en": "Brzeziny",
+      "province": "罗兹省",
+      "latitude": 51.8002,
+      "longitude": 19.7514,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "沃武夫",
+      "name_en": "Wołów",
+      "province": "下西里西亚省",
+      "latitude": 51.3366,
+      "longitude": 16.6443,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "克雷尼察-兹德鲁伊",
+      "name_en": "Krynica-Zdrój",
+      "province": "小波兰省",
+      "latitude": 49.4222,
+      "longitude": 20.9594,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "帕斯文克",
+      "name_en": "Pasłęk",
+      "province": "瓦尔米亚-马祖里省",
+      "latitude": 54.0616,
+      "longitude": 19.6593,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "切布尼察",
+      "name_en": "Trzebnica",
+      "province": "下西里西亚省",
+      "latitude": 51.3108,
+      "longitude": 17.0633,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "布沃涅",
+      "name_en": "Błonie",
+      "province": "Mazovia",
+      "latitude": 52.1985,
+      "longitude": 20.6171,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "奥得河畔克罗斯诺",
+      "name_en": "Krosno Odrzańskie",
+      "province": "卢布斯卡省",
+      "latitude": 52.0549,
+      "longitude": 15.0988,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "希德沃维茨",
+      "name_en": "Szydłowiec",
+      "province": "Mazovia",
+      "latitude": 51.2282,
+      "longitude": 20.8611,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "梅希利布日",
+      "name_en": "Myślibórz",
+      "province": "西滨海省",
+      "latitude": 52.9238,
+      "longitude": 14.8679,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Powstańców Śląskich Zachód-Centrum Południow",
+      "province": "下西里西亚省",
+      "latitude": 51.0961,
+      "longitude": 17.0177,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Zgorzelisko",
+      "province": "下西里西亚省",
+      "latitude": 51.1383,
+      "longitude": 17.1336,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Kozy",
+      "province": "西里西亚省",
+      "latitude": 49.8476,
+      "longitude": 19.1489,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Borek",
+      "province": "下西里西亚省",
+      "latitude": 51.0843,
+      "longitude": 17.0095,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "文戈热沃",
+      "name_en": "Węgorzewo",
+      "province": "瓦尔米亚-马祖里省",
+      "latitude": 54.2157,
+      "longitude": 21.7372,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "卢布林地区亚努夫",
+      "name_en": "Janów Lubelski",
+      "province": "卢布林省",
+      "latitude": 50.7069,
+      "longitude": 22.4104,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "平丘夫",
+      "name_en": "Pińczów",
+      "province": "Świętokrzyskie",
+      "latitude": 50.5205,
+      "longitude": 20.5265,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "梅胡夫",
+      "name_en": "Miechów",
+      "province": "小波兰省",
+      "latitude": 50.3565,
+      "longitude": 20.0279,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "恰恩库夫",
+      "name_en": "Czarnków",
+      "province": "大波兰省",
+      "latitude": 52.9021,
+      "longitude": 16.5641,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "新登巴",
+      "name_en": "Nowa Dęba",
+      "province": "喀尔巴阡山省",
+      "latitude": 50.4297,
+      "longitude": 21.7508,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "弗龙基",
+      "name_en": "Wronki",
+      "province": "大波兰省",
+      "latitude": 52.7105,
+      "longitude": 16.3804,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Powstańców Śląskich Wschód",
+      "province": "下西里西亚省",
+      "latitude": 51.0916,
+      "longitude": 17.0247,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Puck",
+      "province": "波美拉尼亚省",
+      "latitude": 54.7179,
+      "longitude": 18.4084,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Wisła",
+      "province": "西里西亚省",
+      "latitude": 49.6563,
+      "longitude": 18.8591,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "米利奇",
+      "name_en": "Milicz",
+      "province": "下西里西亚省",
+      "latitude": 51.5277,
+      "longitude": 17.2714,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Biskupin",
+      "province": "下西里西亚省",
+      "latitude": 51.101,
+      "longitude": 17.1044,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "塔尔努夫的栋布罗瓦",
+      "name_en": "Dąbrowa Tarnowska",
+      "province": "小波兰省",
+      "latitude": 50.1746,
+      "longitude": 20.9863,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "波莫瑞地区德拉夫斯科",
+      "name_en": "Drawsko Pomorskie",
+      "province": "西滨海省",
+      "latitude": 53.5306,
+      "longitude": 15.8097,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Grabiszynek",
+      "province": "下西里西亚省",
+      "latitude": 51.087,
+      "longitude": 16.9863,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "瓦尔卡",
+      "name_en": "Warka",
+      "province": "Mazovia",
+      "latitude": 51.7843,
+      "longitude": 21.1909,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "卢巴瓦新城",
+      "name_en": "Nowe Miasto Lubawskie",
+      "province": "瓦尔米亚-马祖里省",
+      "latitude": 53.4208,
+      "longitude": 19.5952,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "缅济胡德",
+      "name_en": "Międzychód",
+      "province": "大波兰省",
+      "latitude": 52.5988,
+      "longitude": 15.897,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "科罗诺沃",
+      "name_en": "Koronowo",
+      "province": "Kujawsko-Pomorskie",
+      "latitude": 53.3137,
+      "longitude": 17.937,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "米亚斯特科",
+      "name_en": "Miastko",
+      "province": "波美拉尼亚省",
+      "latitude": 54.0028,
+      "longitude": 16.9826,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Brzeźno Gdańskie",
+      "province": "波美拉尼亚省",
+      "latitude": 54.4036,
+      "longitude": 18.6314,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "布热什切",
+      "name_en": "Brzeszcze",
+      "province": "小波兰省",
+      "latitude": 49.982,
+      "longitude": 19.1516,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "布科夫诺",
+      "name_en": "Bukowno",
+      "province": "小波兰省",
+      "latitude": 50.2647,
+      "longitude": 19.4596,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "科瓦雷",
+      "name_en": "Kowary",
+      "province": "下西里西亚省",
+      "latitude": 50.7931,
+      "longitude": 15.8356,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "罗戈伊诺",
+      "name_en": "Rogoźno",
+      "province": "大波兰省",
+      "latitude": 52.7523,
+      "longitude": 16.9905,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Niedobczyce",
+      "province": "西里西亚省",
+      "latitude": 50.0654,
+      "longitude": 18.4953,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "切霍齐内克",
+      "name_en": "Ciechocinek",
+      "province": "Kujawsko-Pomorskie",
+      "latitude": 52.8791,
+      "longitude": 18.795,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "瑟楚夫",
+      "name_en": "Syców",
+      "province": "下西里西亚省",
+      "latitude": 51.3081,
+      "longitude": 17.7198,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "古拉卡尔瓦里亚",
+      "name_en": "Góra Kalwaria",
+      "province": "Mazovia",
+      "latitude": 51.9765,
+      "longitude": 21.2154,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Zakrzów",
+      "province": "下西里西亚省",
+      "latitude": 51.1662,
+      "longitude": 17.1369,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "弗沃什乔瓦",
+      "name_en": "Włoszczowa",
+      "province": "Świętokrzyskie",
+      "latitude": 50.8526,
+      "longitude": 19.9659,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "科尔诺",
+      "name_en": "Kolno",
+      "province": "Podlasie",
+      "latitude": 53.4115,
+      "longitude": 21.9291,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "沃贝兹",
+      "name_en": "Łobez",
+      "province": "西滨海省",
+      "latitude": 53.6392,
+      "longitude": 15.6213,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "蒙基",
+      "name_en": "Mońki",
+      "province": "Podlasie",
+      "latitude": 53.405,
+      "longitude": 22.7979,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "德雷兹登科",
+      "name_en": "Drezdenko",
+      "province": "卢布斯卡省",
+      "latitude": 52.8383,
+      "longitude": 15.8308,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "多布雷城",
+      "name_en": "Dobre Miasto",
+      "province": "瓦尔米亚-马祖里省",
+      "latitude": 53.9867,
+      "longitude": 20.3975,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "科尔布绍瓦",
+      "name_en": "Kolbuszowa",
+      "province": "喀尔巴阡山省",
+      "latitude": 50.2441,
+      "longitude": 21.7761,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "贝斯奇察克沃兹卡",
+      "name_en": "Bystrzyca Kłodzka",
+      "province": "下西里西亚省",
+      "latitude": 50.3018,
+      "longitude": 16.6423,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "比斯库佩茨",
+      "name_en": "Biskupiec",
+      "province": "瓦尔米亚-马祖里省",
+      "latitude": 53.8647,
+      "longitude": 20.9569,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "切比亚图夫",
+      "name_en": "Trzebiatów",
+      "province": "西滨海省",
+      "latitude": 54.0615,
+      "longitude": 15.2647,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "卡尔切夫",
+      "name_en": "Karczew",
+      "province": "Mazovia",
+      "latitude": 52.0765,
+      "longitude": 21.2496,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "帕尔切夫",
+      "name_en": "Parczew",
+      "province": "卢布林省",
+      "latitude": 51.6402,
+      "longitude": 22.9006,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Kokoszki",
+      "province": "波美拉尼亚省",
+      "latitude": 54.3556,
+      "longitude": 18.491,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "奥莱斯诺",
+      "name_en": "Olesno",
+      "province": "Opole Voivodeship",
+      "latitude": 50.877,
+      "longitude": 18.4209,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "库多瓦-兹德鲁伊",
+      "name_en": "Kudowa-Zdrój",
+      "province": "下西里西亚省",
+      "latitude": 50.443,
+      "longitude": 16.244,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Sulęcin",
+      "province": "小波兰省",
+      "latitude": 52.4443,
+      "longitude": 15.1168,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "波尼亚托瓦",
+      "name_en": "Poniatowa",
+      "province": "卢布林省",
+      "latitude": 51.1798,
+      "longitude": 22.1309,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "斯克维日纳",
+      "name_en": "Skwierzyna",
+      "province": "卢布斯卡省",
+      "latitude": 52.5991,
+      "longitude": 15.5065,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Wielki Kack",
+      "province": "波美拉尼亚省",
+      "latitude": 54.4675,
+      "longitude": 18.4881,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "穆罗瓦纳-戈希利纳",
+      "name_en": "Murowana Goślina",
+      "province": "大波兰省",
+      "latitude": 52.5746,
+      "longitude": 17.0093,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "克热绍维采",
+      "name_en": "Krzeszowice",
+      "province": "小波兰省",
+      "latitude": 50.1425,
+      "longitude": 19.6322,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "马佐夫舍地区马库夫",
+      "name_en": "Maków Mazowiecki",
+      "province": "Mazovia",
+      "latitude": 52.8649,
+      "longitude": 21.1005,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "斯切尔采-克拉延斯凯",
+      "name_en": "Strzelce Krajeńskie",
+      "province": "卢布斯卡省",
+      "latitude": 52.8773,
+      "longitude": 15.5298,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "奥济梅克",
+      "name_en": "Ozimek",
+      "province": "Opole Voivodeship",
+      "latitude": 50.6794,
+      "longitude": 18.2137,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Pawłowice",
+      "province": "西里西亚省",
+      "latitude": 49.9613,
+      "longitude": 18.7178,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Blachownia",
+      "province": "西里西亚省",
+      "latitude": 50.7801,
+      "longitude": 18.9639,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Nadarzyn",
+      "province": "Mazovia",
+      "latitude": 52.0944,
+      "longitude": 20.8078,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "格但斯克新庄园",
+      "name_en": "Nowy Dwór Gdański",
+      "province": "波美拉尼亚省",
+      "latitude": 54.2131,
+      "longitude": 19.1177,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "贝斯基德地区苏哈",
+      "name_en": "Sucha Beskidzka",
+      "province": "小波兰省",
+      "latitude": 49.7419,
+      "longitude": 19.5943,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "什图姆",
+      "name_en": "Sztum",
+      "province": "波美拉尼亚省",
+      "latitude": 53.9208,
+      "longitude": 19.0307,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "科茹胡夫",
+      "name_en": "Kożuchów",
+      "province": "卢布斯卡省",
+      "latitude": 51.7456,
+      "longitude": 15.5949,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Lwówek Śląski",
+      "province": "下西里西亚省",
+      "latitude": 51.1107,
+      "longitude": 15.5858,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "雷基",
+      "name_en": "Ryki",
+      "province": "卢布林省",
+      "latitude": 51.6257,
+      "longitude": 21.9327,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "下乌斯奇基",
+      "name_en": "Ustrzyki Dolne",
+      "province": "喀尔巴阡山省",
+      "latitude": 49.4304,
+      "longitude": 22.5938,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "黑比亚沃斯托茨卡",
+      "name_en": "Czarna Białostocka",
+      "province": "Podlasie",
+      "latitude": 53.3051,
+      "longitude": 23.2815,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Suchanino",
+      "province": "波美拉尼亚省",
+      "latitude": 54.3549,
+      "longitude": 18.6041,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "克鲁什维察",
+      "name_en": "Kruszwica",
+      "province": "Kujawsko-Pomorskie",
+      "latitude": 52.6756,
+      "longitude": 18.3313,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "瓦西尔库夫",
+      "name_en": "Wasilków",
+      "province": "Podlasie",
+      "latitude": 53.1991,
+      "longitude": 23.2078,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "奥尔内塔",
+      "name_en": "Orneta",
+      "province": "瓦尔米亚-马祖里省",
+      "latitude": 54.1148,
+      "longitude": 20.1333,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "佩希采",
+      "name_en": "Pieszyce",
+      "province": "下西里西亚省",
+      "latitude": 50.7129,
+      "longitude": 16.5823,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "切尔斯克",
+      "name_en": "Czersk",
+      "province": "波美拉尼亚省",
+      "latitude": 53.7959,
+      "longitude": 17.9765,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "涅波沃米采",
+      "name_en": "Niepołomice",
+      "province": "小波兰省",
+      "latitude": 50.0407,
+      "longitude": 20.2226,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Jagodno",
+      "province": "下西里西亚省",
+      "latitude": 51.0516,
+      "longitude": 17.0587,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "津比采",
+      "name_en": "Ziębice",
+      "province": "下西里西亚省",
+      "latitude": 50.6012,
+      "longitude": 17.0406,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "卢巴瓦",
+      "name_en": "Lubawa",
+      "province": "瓦尔米亚-马祖里省",
+      "latitude": 53.5043,
+      "longitude": 19.7497,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "森普尔诺-克拉延斯凯",
+      "name_en": "Sępólno Krajeńskie",
+      "province": "Kujawsko-Pomorskie",
+      "latitude": 53.452,
+      "longitude": 17.5317,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Szubin",
+      "province": "Kujawsko-Pomorskie",
+      "latitude": 53.0097,
+      "longitude": 17.74,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "马佐夫舍地区维索凯",
+      "name_en": "Wysokie Mazowieckie",
+      "province": "Podlasie",
+      "latitude": 52.9166,
+      "longitude": 22.5171,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "苏海德纽夫",
+      "name_en": "Suchedniów",
+      "province": "Świętokrzyskie",
+      "latitude": 51.0478,
+      "longitude": 20.8292,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Janikowo",
+      "province": "Kujawsko-Pomorskie",
+      "latitude": 52.7533,
+      "longitude": 18.1133,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "沃尔布罗姆",
+      "name_en": "Wolbrom",
+      "province": "小波兰省",
+      "latitude": 50.3796,
+      "longitude": 19.7583,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "普什奇科沃",
+      "name_en": "Puszczykowo",
+      "province": "大波兰省",
+      "latitude": 52.2857,
+      "longitude": 16.8493,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Tarnogaj",
+      "province": "下西里西亚省",
+      "latitude": 51.0817,
+      "longitude": 17.0634,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "海乌梅克",
+      "name_en": "Chełmek",
+      "province": "小波兰省",
+      "latitude": 50.1016,
+      "longitude": 19.248,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "波莫瑞地区卡缅",
+      "name_en": "Kamień Pomorski",
+      "province": "西滨海省",
+      "latitude": 53.9685,
+      "longitude": 14.7726,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "茹罗明",
+      "name_en": "Żuromin",
+      "province": "Mazovia",
+      "latitude": 53.0661,
+      "longitude": 19.9089,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "日赫林",
+      "name_en": "Żychlin",
+      "province": "罗兹省",
+      "latitude": 52.244,
+      "longitude": 19.6261,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "奥帕莱尼察",
+      "name_en": "Opalenica",
+      "province": "大波兰省",
+      "latitude": 52.3089,
+      "longitude": 16.4128,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "科斯琴",
+      "name_en": "Kostrzyn",
+      "province": "大波兰省",
+      "latitude": 52.3985,
+      "longitude": 17.2281,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "旧松奇",
+      "name_en": "Stary Sącz",
+      "province": "小波兰省",
+      "latitude": 49.5636,
+      "longitude": 20.635,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "沃伊科维采",
+      "name_en": "Wojkowice",
+      "province": "西里西亚省",
+      "latitude": 50.3651,
+      "longitude": 19.0365,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "希隆斯克地区希罗达",
+      "name_en": "Środa Śląska",
+      "province": "下西里西亚省",
+      "latitude": 51.1641,
+      "longitude": 16.5951,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Stare Miasto",
+      "province": "下西里西亚省",
+      "latitude": 51.1103,
+      "longitude": 17.0371,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "拉济明",
+      "name_en": "Radzymin",
+      "province": "Mazovia",
+      "latitude": 52.4159,
+      "longitude": 21.1841,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Opole Lubelskie",
+      "province": "卢布林省",
+      "latitude": 51.1478,
+      "longitude": 21.969,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "斯奇茹夫",
+      "name_en": "Strzyżów",
+      "province": "喀尔巴阡山省",
+      "latitude": 49.8707,
+      "longitude": 21.7941,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Leśnica-Ratyń-Pustki",
+      "province": "下西里西亚省",
+      "latitude": 51.1423,
+      "longitude": 16.8477,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "波伦巴",
+      "name_en": "Poręba",
+      "province": "西里西亚省",
+      "latitude": 50.4883,
+      "longitude": 19.339,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "维鲁舒夫",
+      "name_en": "Wieruszów",
+      "province": "罗兹省",
+      "latitude": 51.2949,
+      "longitude": 18.1555,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "波乌琴-兹德鲁伊",
+      "name_en": "Połczyn-Zdrój",
+      "province": "西滨海省",
+      "latitude": 53.7642,
+      "longitude": 16.0957,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "波别济斯卡",
+      "name_en": "Pobiedziska",
+      "province": "大波兰省",
+      "latitude": 52.4775,
+      "longitude": 17.2877,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "卡莱蒂",
+      "name_en": "Kalety",
+      "province": "西里西亚省",
+      "latitude": 50.5627,
+      "longitude": 18.8926,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "格罗德库夫",
+      "name_en": "Grodków",
+      "province": "Opole Voivodeship",
+      "latitude": 50.6984,
+      "longitude": 17.3845,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Podjuchy",
+      "province": "西滨海省",
+      "latitude": 53.3622,
+      "longitude": 14.5995,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Wola",
+      "province": "西里西亚省",
+      "latitude": 52.2348,
+      "longitude": 20.96,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Mierzyn",
+      "province": "西滨海省",
+      "latitude": 53.43,
+      "longitude": 14.4653,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "普拉布蒂",
+      "name_en": "Prabuty",
+      "province": "波美拉尼亚省",
+      "latitude": 53.755,
+      "longitude": 19.2055,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Nowy Port",
+      "province": "波美拉尼亚省",
+      "latitude": 54.4016,
+      "longitude": 18.6677,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "亚斯特罗维",
+      "name_en": "Jastrowie",
+      "province": "大波兰省",
+      "latitude": 53.4205,
+      "longitude": 16.8176,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "希隆斯克地区奥博尔尼基",
+      "name_en": "Oborniki Śląskie",
+      "province": "下西里西亚省",
+      "latitude": 51.3014,
+      "longitude": 16.9147,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "扎瓦兹凯",
+      "name_en": "Zawadzkie",
+      "province": "Opole Voivodeship",
+      "latitude": 50.605,
+      "longitude": 18.4847,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Pelplin",
+      "province": "波美拉尼亚省",
+      "latitude": 53.9283,
+      "longitude": 18.6977,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "马佐夫舍地区奥扎鲁夫",
+      "name_en": "Ożarów Mazowiecki",
+      "province": "Mazovia",
+      "latitude": 52.2104,
+      "longitude": 20.7972,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "霍恰努夫",
+      "name_en": "Chocianów",
+      "province": "下西里西亚省",
+      "latitude": 51.4187,
+      "longitude": 15.9017,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "利兹巴克",
+      "name_en": "Lidzbark",
+      "province": "瓦尔米亚-马祖里省",
+      "latitude": 53.2628,
+      "longitude": 19.8266,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Połaniec",
+      "province": "Świętokrzyskie",
+      "latitude": 50.4332,
+      "longitude": 21.2812,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "普拉什卡",
+      "name_en": "Praszka",
+      "province": "Opole Voivodeship",
+      "latitude": 51.0538,
+      "longitude": 18.4532,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "帕奇库夫",
+      "name_en": "Paczków",
+      "province": "Opole Voivodeship",
+      "latitude": 50.4639,
+      "longitude": 17.0066,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "伊梅林",
+      "name_en": "Imielin",
+      "province": "西里西亚省",
+      "latitude": 50.1453,
+      "longitude": 19.186,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "兹沃伦",
+      "name_en": "Zwoleń",
+      "province": "Mazovia",
+      "latitude": 51.3554,
+      "longitude": 21.5877,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Gorzyce",
+      "province": "喀尔巴阡山省",
+      "latitude": 50.6672,
+      "longitude": 21.8401,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "泽卢夫",
+      "name_en": "Zelów",
+      "province": "罗兹省",
+      "latitude": 51.4645,
+      "longitude": 19.2197,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Osiek",
+      "province": "小波兰省",
+      "latitude": 49.9507,
+      "longitude": 19.2644,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Poddębice",
+      "province": "罗兹省",
+      "latitude": 51.8934,
+      "longitude": 18.9573,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "切梅什诺",
+      "name_en": "Trzemeszno",
+      "province": "大波兰省",
+      "latitude": 52.5614,
+      "longitude": 17.8231,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "布若祖夫",
+      "name_en": "Brzozów",
+      "province": "喀尔巴阡山省",
+      "latitude": 49.695,
+      "longitude": 22.0193,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "维特科沃",
+      "name_en": "Witkowo",
+      "province": "大波兰省",
+      "latitude": 52.4396,
+      "longitude": 17.7726,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "普涅维",
+      "name_en": "Pniewy",
+      "province": "大波兰省",
+      "latitude": 52.5094,
+      "longitude": 16.2567,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Sępolno",
+      "province": "下西里西亚省",
+      "latitude": 53.452,
+      "longitude": 17.5317,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "巴尔钦",
+      "name_en": "Barcin",
+      "province": "Kujawsko-Pomorskie",
+      "latitude": 52.8661,
+      "longitude": 17.9462,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "奥尔什蒂内克",
+      "name_en": "Olsztynek",
+      "province": "瓦尔米亚-马祖里省",
+      "latitude": 53.5837,
+      "longitude": 20.2847,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Muchobór Mały",
+      "province": "下西里西亚省",
+      "latitude": 51.1089,
+      "longitude": 16.9686,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "下姆沙纳",
+      "name_en": "Mszana Dolna",
+      "province": "小波兰省",
+      "latitude": 49.6743,
+      "longitude": 20.0799,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Tłuszcz",
+      "province": "Mazovia",
+      "latitude": 52.4306,
+      "longitude": 21.4356,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Brętowo",
+      "province": "波美拉尼亚省",
+      "latitude": 54.3701,
+      "longitude": 18.571,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Nasielsk",
+      "province": "Mazovia",
+      "latitude": 52.5889,
+      "longitude": 20.8055,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Kleczków",
+      "province": "下西里西亚省",
+      "latitude": 51.1282,
+      "longitude": 17.0279,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "霍伊纳",
+      "name_en": "Chojna",
+      "province": "西滨海省",
+      "latitude": 52.9639,
+      "longitude": 14.428,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "比亚沃布热吉",
+      "name_en": "Białobrzegi",
+      "province": "Mazovia",
+      "latitude": 51.6469,
+      "longitude": 20.9504,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "巴尔切沃",
+      "name_en": "Barczewo",
+      "province": "瓦尔米亚-马祖里省",
+      "latitude": 53.8306,
+      "longitude": 20.6911,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Wojszyce",
+      "province": "下西里西亚省",
+      "latitude": 51.0584,
+      "longitude": 17.0451,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "格涅夫科沃",
+      "name_en": "Gniewkowo",
+      "province": "Kujawsko-Pomorskie",
+      "latitude": 52.8946,
+      "longitude": 18.4078,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "沃西采",
+      "name_en": "Łosice",
+      "province": "Mazovia",
+      "latitude": 52.2113,
+      "longitude": 22.718,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "库尔尼克",
+      "name_en": "Kórnik",
+      "province": "大波兰省",
+      "latitude": 52.2477,
+      "longitude": 17.0895,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "兹邦申",
+      "name_en": "Zbąszyń",
+      "province": "大波兰省",
+      "latitude": 52.2509,
+      "longitude": 15.9252,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "瓦济",
+      "name_en": "Łazy",
+      "province": "西里西亚省",
+      "latitude": 50.4277,
+      "longitude": 19.3946,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "图申",
+      "name_en": "Tuszyn",
+      "province": "罗兹省",
+      "latitude": 51.6095,
+      "longitude": 19.5301,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Raszyn",
+      "province": "Mazovia",
+      "latitude": 52.156,
+      "longitude": 20.9226,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "小波兰地区森济舒夫",
+      "name_en": "Sędziszów Małopolski",
+      "province": "喀尔巴阡山省",
+      "latitude": 50.0707,
+      "longitude": 21.7006,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Sierakowice",
+      "province": "波美拉尼亚省",
+      "latitude": 54.3461,
+      "longitude": 17.8925,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Bolszewo",
+      "province": "波美拉尼亚省",
+      "latitude": 54.618,
+      "longitude": 18.1759,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Luzino",
+      "province": "波美拉尼亚省",
+      "latitude": 54.566,
+      "longitude": 18.1091,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Miasteczko Śląskie",
+      "province": "西里西亚省",
+      "latitude": 50.5026,
+      "longitude": 18.9395,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Gądów Mały",
+      "province": "下西里西亚省",
+      "latitude": 51.1185,
+      "longitude": 16.986,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "什克拉尔斯卡-波伦巴",
+      "name_en": "Szklarska Poręba",
+      "province": "下西里西亚省",
+      "latitude": 50.8257,
+      "longitude": 15.5227,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "波兰尼卡-兹德鲁伊",
+      "name_en": "Polanica-Zdrój",
+      "province": "下西里西亚省",
+      "latitude": 50.4037,
+      "longitude": 16.5127,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "贝乌日采",
+      "name_en": "Bełżyce",
+      "province": "卢布林省",
+      "latitude": 51.1741,
+      "longitude": 22.2803,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Ołtaszyn",
+      "province": "下西里西亚省",
+      "latitude": 51.0618,
+      "longitude": 17.0287,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "斯卡尔谢维",
+      "name_en": "Skarszewy",
+      "province": "波美拉尼亚省",
+      "latitude": 54.0691,
+      "longitude": 18.4442,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "恰普利内克",
+      "name_en": "Czaplinek",
+      "province": "西滨海省",
+      "latitude": 53.5577,
+      "longitude": 16.2333,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Łodygowice",
+      "province": "西里西亚省",
+      "latitude": 49.7299,
+      "longitude": 19.1394,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "索布特卡",
+      "name_en": "Sobótka",
+      "province": "下西里西亚省",
+      "latitude": 50.8999,
+      "longitude": 16.7444,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "斯瓦夫库夫",
+      "name_en": "Sławków",
+      "province": "西里西亚省",
+      "latitude": 50.2994,
+      "longitude": 19.3897,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "格武希察",
+      "name_en": "Głuszyca",
+      "province": "下西里西亚省",
+      "latitude": 50.6874,
+      "longitude": 16.3717,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Rakszawa",
+      "province": "喀尔巴阡山省",
+      "latitude": 50.1605,
+      "longitude": 22.2391,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "希隆斯克地区格雷富夫",
+      "name_en": "Gryfów Śląski",
+      "province": "下西里西亚省",
+      "latitude": 51.0308,
+      "longitude": 15.4202,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "特瓦尔多古拉",
+      "name_en": "Twardogóra",
+      "province": "下西里西亚省",
+      "latitude": 51.3649,
+      "longitude": 17.4688,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "维特尼察",
+      "name_en": "Witnica",
+      "province": "卢布斯卡省",
+      "latitude": 52.6732,
+      "longitude": 14.8977,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Rejon ulicy Mieleckiej",
+      "province": "下西里西亚省",
+      "latitude": 51.0915,
+      "longitude": 17.0021,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "奥帕图夫",
+      "name_en": "Opatów",
+      "province": "Świętokrzyskie",
+      "latitude": 50.8006,
+      "longitude": 21.4254,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "森济舒夫",
+      "name_en": "Sędziszów",
+      "province": "Świętokrzyskie",
+      "latitude": 50.5659,
+      "longitude": 20.0556,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "桑河畔鲁德尼克",
+      "name_en": "Rudnik nad Sanem",
+      "province": "喀尔巴阡山省",
+      "latitude": 50.4415,
+      "longitude": 22.2486,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "格涅夫",
+      "name_en": "Gniew",
+      "province": "波美拉尼亚省",
+      "latitude": 53.836,
+      "longitude": 18.8231,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "上皮瓦瓦",
+      "name_en": "Piława Górna",
+      "province": "下西里西亚省",
+      "latitude": 50.6836,
+      "longitude": 16.7436,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "帕延奇诺",
+      "name_en": "Pajęczno",
+      "province": "罗兹省",
+      "latitude": 51.1445,
+      "longitude": 18.9961,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Jaworze",
+      "province": "西里西亚省",
+      "latitude": 49.7935,
+      "longitude": 18.9479,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "扎鲁夫",
+      "name_en": "Żarów",
+      "province": "下西里西亚省",
+      "latitude": 50.9412,
+      "longitude": 16.4947,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "克沃达瓦",
+      "name_en": "Kłodawa",
+      "province": "大波兰省",
+      "latitude": 52.2545,
+      "longitude": 18.9135,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "图胡夫",
+      "name_en": "Tuchów",
+      "province": "小波兰省",
+      "latitude": 49.8948,
+      "longitude": 21.0541,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Koźmin Wielkopolski",
+      "province": "大波兰省",
+      "latitude": 51.8271,
+      "longitude": 17.4539,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "夏努夫",
+      "name_en": "Sianów",
+      "province": "西滨海省",
+      "latitude": 54.2265,
+      "longitude": 16.2913,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Maślice Małe",
+      "province": "下西里西亚省",
+      "latitude": 51.1494,
+      "longitude": 16.9419,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Jabłonna",
+      "province": "Mazovia",
+      "latitude": 52.3788,
+      "longitude": 20.9174,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "日米格鲁德",
+      "name_en": "Żmigród",
+      "province": "下西里西亚省",
+      "latitude": 51.4667,
+      "longitude": 16.9056,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "佩霍维采",
+      "name_en": "Piechowice",
+      "province": "下西里西亚省",
+      "latitude": 50.8496,
+      "longitude": 15.5989,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Wilkowice",
+      "province": "西里西亚省",
+      "latitude": 49.7628,
+      "longitude": 19.0897,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Żukowo",
+      "province": "波美拉尼亚省",
+      "latitude": 54.3422,
+      "longitude": 18.3648,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "热平",
+      "name_en": "Rzepin",
+      "province": "卢布斯卡省",
+      "latitude": 52.3464,
+      "longitude": 14.8323,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "普热姆库夫",
+      "name_en": "Przemków",
+      "province": "下西里西亚省",
+      "latitude": 51.5253,
+      "longitude": 15.7944,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "沃胡夫",
+      "name_en": "Łochów",
+      "province": "Mazovia",
+      "latitude": 52.5308,
+      "longitude": 21.6816,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "卢巴夫卡",
+      "name_en": "Lubawka",
+      "province": "下西里西亚省",
+      "latitude": 50.7046,
+      "longitude": 16.0003,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Księże",
+      "province": "下西里西亚省",
+      "latitude": 51.0752,
+      "longitude": 17.0862,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Sułkowice",
+      "province": "小波兰省",
+      "latitude": 49.8405,
+      "longitude": 19.801,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Sulejów",
+      "province": "罗兹省",
+      "latitude": 51.3544,
+      "longitude": 19.8854,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Goczałkowice Zdrój",
+      "province": "西里西亚省",
+      "latitude": 49.9445,
+      "longitude": 18.9693,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "科涅茨波尔",
+      "name_en": "Koniecpol",
+      "province": "西里西亚省",
+      "latitude": 50.7747,
+      "longitude": 19.689,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "涅莫德林",
+      "name_en": "Niemodlin",
+      "province": "Opole Voivodeship",
+      "latitude": 50.642,
+      "longitude": 17.6193,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "凯奇",
+      "name_en": "Kietrz",
+      "province": "Opole Voivodeship",
+      "latitude": 50.0804,
+      "longitude": 18.0043,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Krzyż Wielkopolski",
+      "province": "大波兰省",
+      "latitude": 52.881,
+      "longitude": 16.0112,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Ksawerów",
+      "province": "罗兹省",
+      "latitude": 51.6829,
+      "longitude": 19.4028,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "姆什乔努夫",
+      "name_en": "Mszczonów",
+      "province": "Mazovia",
+      "latitude": 51.9742,
+      "longitude": 20.5208,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "新萨日纳",
+      "name_en": "Nowa Sarzyna",
+      "province": "喀尔巴阡山省",
+      "latitude": 50.3209,
+      "longitude": 22.3446,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Rejon ulicy Klęczkowskiej",
+      "province": "下西里西亚省",
+      "latitude": 51.1297,
+      "longitude": 17.0338,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "贾沃申",
+      "name_en": "Działoszyn",
+      "province": "罗兹省",
+      "latitude": 51.117,
+      "longitude": 18.8652,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "沃乌琴",
+      "name_en": "Wołczyn",
+      "province": "Opole Voivodeship",
+      "latitude": 51.0185,
+      "longitude": 18.0499,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Polanowice-Poświętne-Ligota",
+      "province": "下西里西亚省",
+      "latitude": 51.1595,
+      "longitude": 17.039,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Zawoja",
+      "province": "小波兰省",
+      "latitude": 49.644,
+      "longitude": 19.5423,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "斯托尼拉斯奇",
+      "name_en": "Stronie Śląskie",
+      "province": "下西里西亚省",
+      "latitude": 50.2955,
+      "longitude": 16.874,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "普日苏哈",
+      "name_en": "Przysucha",
+      "province": "Mazovia",
+      "latitude": 51.3586,
+      "longitude": 20.6289,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "多布奇采",
+      "name_en": "Dobczyce",
+      "province": "小波兰省",
+      "latitude": 49.8811,
+      "longitude": 20.0894,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "普罗绍维采",
+      "name_en": "Proszowice",
+      "province": "小波兰省",
+      "latitude": 50.1927,
+      "longitude": 20.2891,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "隆代克-兹德鲁伊",
+      "name_en": "Lądek-Zdrój",
+      "province": "下西里西亚省",
+      "latitude": 50.3437,
+      "longitude": 16.8795,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "诺韦",
+      "name_en": "Nowe",
+      "province": "Kujawsko-Pomorskie",
+      "latitude": 53.6491,
+      "longitude": 18.7272,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "布克",
+      "name_en": "Buk",
+      "province": "大波兰省",
+      "latitude": 52.3553,
+      "longitude": 16.5196,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Korczyna",
+      "province": "喀尔巴阡山省",
+      "latitude": 49.7156,
+      "longitude": 21.8094,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "谢拉库夫",
+      "name_en": "Sieraków",
+      "province": "大波兰省",
+      "latitude": 52.6513,
+      "longitude": 16.0805,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "戈戈林",
+      "name_en": "Gogolin",
+      "province": "Opole Voivodeship",
+      "latitude": 50.4922,
+      "longitude": 18.0199,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "维伦",
+      "name_en": "Wieleń",
+      "province": "大波兰省",
+      "latitude": 52.8946,
+      "longitude": 16.1714,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "迪努夫",
+      "name_en": "Dynów",
+      "province": "喀尔巴阡山省",
+      "latitude": 49.8151,
+      "longitude": 22.2339,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Matarnia",
+      "province": "波美拉尼亚省",
+      "latitude": 54.3856,
+      "longitude": 18.4728,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "比亚韦斯托克的栋布罗瓦",
+      "name_en": "Dąbrowa Białostocka",
+      "province": "Podlasie",
+      "latitude": 53.6536,
+      "longitude": 23.3479,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "恰尔内",
+      "name_en": "Czarne",
+      "province": "波美拉尼亚省",
+      "latitude": 53.6842,
+      "longitude": 16.9383,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "什恰夫尼察",
+      "name_en": "Szczawnica",
+      "province": "小波兰省",
+      "latitude": 49.4244,
+      "longitude": 20.4849,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Lewin Brzeski",
+      "province": "Opole Voivodeship",
+      "latitude": 50.7487,
+      "longitude": 17.6169,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "泰雷斯波尔",
+      "name_en": "Terespol",
+      "province": "卢布林省",
+      "latitude": 52.0755,
+      "longitude": 23.6161,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "奥日什",
+      "name_en": "Orzysz",
+      "province": "瓦尔米亚-马祖里省",
+      "latitude": 53.8097,
+      "longitude": 21.9481,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "格雷布夫",
+      "name_en": "Grybów",
+      "province": "小波兰省",
+      "latitude": 49.6244,
+      "longitude": 20.948,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Białe Błota",
+      "province": "Kujawsko-Pomorskie",
+      "latitude": 53.0952,
+      "longitude": 17.9162,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "温茨堡",
+      "name_en": "Więcbork",
+      "province": "Kujawsko-Pomorskie",
+      "latitude": 53.3538,
+      "longitude": 17.4906,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "斯切尔诺",
+      "name_en": "Strzelno",
+      "province": "Kujawsko-Pomorskie",
+      "latitude": 52.6279,
+      "longitude": 18.1725,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Stąporków",
+      "province": "Świętokrzyskie",
+      "latitude": 51.1376,
+      "longitude": 20.5717,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Klucze",
+      "province": "小波兰省",
+      "latitude": 50.3357,
+      "longitude": 19.5624,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Sejny",
+      "province": "Podlasie",
+      "latitude": 54.108,
+      "longitude": 23.347,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "希齐纳瓦",
+      "name_en": "Ścinawa",
+      "province": "下西里西亚省",
+      "latitude": 51.4163,
+      "longitude": 16.4251,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Plewiska",
+      "province": "大波兰省",
+      "latitude": 52.3671,
+      "longitude": 16.8099,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "什切尔克",
+      "name_en": "Szczyrk",
+      "province": "西里西亚省",
+      "latitude": 49.7172,
+      "longitude": 19.0318,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Brenna",
+      "province": "西里西亚省",
+      "latitude": 49.7258,
+      "longitude": 18.9025,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "卡尔利诺",
+      "name_en": "Karlino",
+      "province": "西滨海省",
+      "latitude": 54.0352,
+      "longitude": 15.8774,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Boguchwała",
+      "province": "喀尔巴阡山省",
+      "latitude": 49.9847,
+      "longitude": 21.9453,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Grudki",
+      "province": "Podlasie",
+      "latitude": 53.0949,
+      "longitude": 23.6685,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "片斯克",
+      "name_en": "Pieńsk",
+      "province": "下西里西亚省",
+      "latitude": 51.249,
+      "longitude": 15.0468,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Murcki",
+      "province": "西里西亚省",
+      "latitude": 50.2004,
+      "longitude": 19.0435,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "皮夫尼奇纳-兹德鲁伊",
+      "name_en": "Piwniczna-Zdrój",
+      "province": "小波兰省",
+      "latitude": 49.4406,
+      "longitude": 20.7142,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "帕科希奇",
+      "name_en": "Pakość",
+      "province": "Kujawsko-Pomorskie",
+      "latitude": 52.8018,
+      "longitude": 18.0853,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "拉杰尤夫",
+      "name_en": "Radziejów",
+      "province": "Kujawsko-Pomorskie",
+      "latitude": 52.6248,
+      "longitude": 18.5277,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "格沃古韦克",
+      "name_en": "Głogówek",
+      "province": "Opole Voivodeship",
+      "latitude": 50.3535,
+      "longitude": 17.864,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Maków Podhalański",
+      "province": "小波兰省",
+      "latitude": 49.7301,
+      "longitude": 19.6771,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "利普斯科",
+      "name_en": "Lipsko",
+      "province": "Mazovia",
+      "latitude": 51.1595,
+      "longitude": 21.6493,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "莱斯科",
+      "name_en": "Lesko",
+      "province": "喀尔巴阡山省",
+      "latitude": 49.4701,
+      "longitude": 22.3304,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Kazimierza Wielka",
+      "province": "Świętokrzyskie",
+      "latitude": 50.2656,
+      "longitude": 20.4936,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Chełm Śląski",
+      "province": "西里西亚省",
+      "latitude": 50.1082,
+      "longitude": 19.1955,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "耶德利切",
+      "name_en": "Jedlicze",
+      "province": "喀尔巴阡山省",
+      "latitude": 49.7175,
+      "longitude": 21.6489,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "斯滕谢夫",
+      "name_en": "Stęszew",
+      "province": "大波兰省",
+      "latitude": 52.2837,
+      "longitude": 16.7008,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Susz",
+      "province": "瓦尔米亚-马祖里省",
+      "latitude": 53.7174,
+      "longitude": 19.3364,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Szczawno-Zdrój",
+      "province": "下西里西亚省",
+      "latitude": 50.8035,
+      "longitude": 16.2566,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Pilczyce",
+      "province": "下西里西亚省",
+      "latitude": 51.137,
+      "longitude": 16.9575,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Kuźniki",
+      "province": "下西里西亚省",
+      "latitude": 51.1249,
+      "longitude": 16.9509,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Księże Małe-Księże Wielkie",
+      "province": "下西里西亚省",
+      "latitude": 51.0729,
+      "longitude": 17.0888,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Czaniec",
+      "province": "西里西亚省",
+      "latitude": 49.8507,
+      "longitude": 19.2535,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "希米盖尔",
+      "name_en": "Śmigiel",
+      "province": "大波兰省",
+      "latitude": 52.0134,
+      "longitude": 16.527,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "杰日贡",
+      "name_en": "Dzierzgoń",
+      "province": "波美拉尼亚省",
+      "latitude": 53.922,
+      "longitude": 19.347,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Chocznia",
+      "province": "小波兰省",
+      "latitude": 49.8742,
+      "longitude": 19.4544,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "缅济兹德罗耶",
+      "name_en": "Międzyzdroje",
+      "province": "西滨海省",
+      "latitude": 53.9292,
+      "longitude": 14.451,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Kuźnia Raciborska",
+      "province": "西里西亚省",
+      "latitude": 50.2006,
+      "longitude": 18.3115,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "拉迪姆诺",
+      "name_en": "Radymno",
+      "province": "喀尔巴阡山省",
+      "latitude": 49.9472,
+      "longitude": 22.8238,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "小波兰地区格沃古夫",
+      "name_en": "Głogów Małopolski",
+      "province": "喀尔巴阡山省",
+      "latitude": 50.1512,
+      "longitude": 21.9629,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "霍罗什奇",
+      "name_en": "Choroszcz",
+      "province": "Podlasie",
+      "latitude": 53.1433,
+      "longitude": 22.9889,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Czerwonak",
+      "province": "大波兰省",
+      "latitude": 52.4646,
+      "longitude": 16.9817,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "弗罗茨瓦夫的孔蒂",
+      "name_en": "Kąty Wrocławskie",
+      "province": "下西里西亚省",
+      "latitude": 51.031,
+      "longitude": 16.7677,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "谢维日",
+      "name_en": "Siewierz",
+      "province": "西里西亚省",
+      "latitude": 50.4666,
+      "longitude": 19.2303,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Osiedle Henrykowskie",
+      "province": "下西里西亚省",
+      "latitude": 51.09,
+      "longitude": 17.0529,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Lesznowola",
+      "province": "Mazovia",
+      "latitude": 52.0909,
+      "longitude": 20.9348,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Złotniki",
+      "province": "下西里西亚省",
+      "latitude": 51.1377,
+      "longitude": 16.8892,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Jeżowe",
+      "province": "喀尔巴阡山省",
+      "latitude": 50.3749,
+      "longitude": 22.1275,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Bolków",
+      "province": "下西里西亚省",
+      "latitude": 50.922,
+      "longitude": 16.1011,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "贝哈瓦",
+      "name_en": "Bychawa",
+      "province": "卢布林省",
+      "latitude": 51.0161,
+      "longitude": 22.533,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Ornontowice",
+      "province": "西里西亚省",
+      "latitude": 50.1938,
+      "longitude": 18.7543,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Gościcino",
+      "province": "波美拉尼亚省",
+      "latitude": 54.6046,
+      "longitude": 18.1549,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Stryszawa",
+      "province": "小波兰省",
+      "latitude": 49.7133,
+      "longitude": 19.5219,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Psie Pole Południe-Kiełczów",
+      "province": "下西里西亚省",
+      "latitude": 51.1478,
+      "longitude": 17.1274,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "维日斯克",
+      "name_en": "Wyrzysk",
+      "province": "大波兰省",
+      "latitude": 53.153,
+      "longitude": 17.268,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "什切布热申",
+      "name_en": "Szczebrzeszyn",
+      "province": "卢布林省",
+      "latitude": 50.695,
+      "longitude": 22.9795,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "代布日诺",
+      "name_en": "Debrzno",
+      "province": "波美拉尼亚省",
+      "latitude": 53.5382,
+      "longitude": 17.2364,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "希隆斯克地区亚沃日纳",
+      "name_en": "Jaworzyna Śląska",
+      "province": "下西里西亚省",
+      "latitude": 50.9134,
+      "longitude": 16.4324,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Szczytna",
+      "province": "下西里西亚省",
+      "latitude": 50.4134,
+      "longitude": 16.4474,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "雷谢尔",
+      "name_en": "Reszel",
+      "province": "瓦尔米亚-马祖里省",
+      "latitude": 54.0504,
+      "longitude": 21.1458,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Małkinia Górna",
+      "province": "Mazovia",
+      "latitude": 52.6922,
+      "longitude": 22.0284,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "约尔达努夫",
+      "name_en": "Jordanów",
+      "province": "小波兰省",
+      "latitude": 49.6493,
+      "longitude": 19.8298,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Oleszyce",
+      "province": "喀尔巴阡山省",
+      "latitude": 50.1675,
+      "longitude": 23.0348,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "奥特穆胡夫",
+      "name_en": "Otmuchów",
+      "province": "Opole Voivodeship",
+      "latitude": 50.4663,
+      "longitude": 17.1735,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Markłowice",
+      "province": "西里西亚省",
+      "latitude": 50.017,
+      "longitude": 18.521,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Żołynia",
+      "province": "喀尔巴阡山省",
+      "latitude": 50.162,
+      "longitude": 22.3083,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Komorniki",
+      "province": "大波兰省",
+      "latitude": 52.3387,
+      "longitude": 16.8106,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Strzałkowo",
+      "province": "大波兰省",
+      "latitude": 52.307,
+      "longitude": 17.8181,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Komorów",
+      "province": "Mazovia",
+      "latitude": 52.1456,
+      "longitude": 20.8157,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "扎古日",
+      "name_en": "Zagórz",
+      "province": "喀尔巴阡山省",
+      "latitude": 49.5146,
+      "longitude": 22.2671,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "伊乌扎",
+      "name_en": "Iłża",
+      "province": "Mazovia",
+      "latitude": 51.1631,
+      "longitude": 21.2398,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Nowogród Bobrzański",
+      "province": "卢布斯卡省",
+      "latitude": 51.7986,
+      "longitude": 15.2352,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "大波兰地区亚诺维茨",
+      "name_en": "Janowiec Wielkopolski",
+      "province": "Kujawsko-Pomorskie",
+      "latitude": 52.7558,
+      "longitude": 17.4898,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Mysłakowice",
+      "province": "下西里西亚省",
+      "latitude": 50.8412,
+      "longitude": 15.7789,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "琴平",
+      "name_en": "Czempiń",
+      "province": "大波兰省",
+      "latitude": 52.144,
+      "longitude": 16.7641,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Strzyża",
+      "province": "波美拉尼亚省",
+      "latitude": 54.3865,
+      "longitude": 18.5865,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "兹邦希内克",
+      "name_en": "Zbąszynek",
+      "province": "卢布斯卡省",
+      "latitude": 52.2431,
+      "longitude": 15.8165,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "别鲁图夫",
+      "name_en": "Bierutów",
+      "province": "下西里西亚省",
+      "latitude": 51.1244,
+      "longitude": 17.5461,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "耶德利纳-兹德鲁伊",
+      "name_en": "Jedlina-Zdrój",
+      "province": "下西里西亚省",
+      "latitude": 50.7201,
+      "longitude": 16.3465,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Zebrzydowice",
+      "province": "西里西亚省",
+      "latitude": 49.8779,
+      "longitude": 18.6113,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Ludwin",
+      "province": "卢布林省",
+      "latitude": 51.346,
+      "longitude": 22.9058,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "库亚维地区彼得库夫",
+      "name_en": "Piotrków Kujawski",
+      "province": "Kujawsko-Pomorskie",
+      "latitude": 52.5511,
+      "longitude": 18.4991,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "穆希纳",
+      "name_en": "Muszyna",
+      "province": "小波兰省",
+      "latitude": 49.3566,
+      "longitude": 20.8972,
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "name": "",
+      "name_en": "Wieprz",
+      "province": "小波兰省",
+      "latitude": 49.8909,
+      "longitude": 19.3569,
+      "timezone": "Europe/Warsaw"
+    }
+  ]
+}

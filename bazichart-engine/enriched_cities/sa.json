@@ -1,0 +1,998 @@
+{
+  "country_code": "SA",
+  "country_name": "沙特阿拉伯",
+  "cities": [
+    {
+      "name": "吉达",
+      "name_en": "Jeddah",
+      "province": "Mecca Region",
+      "latitude": 21.4901,
+      "longitude": 39.1862,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "利雅德",
+      "name_en": "Riyadh",
+      "province": "利雅得省",
+      "latitude": 24.6877,
+      "longitude": 46.7219,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "麦加",
+      "name_en": "Makkah",
+      "province": "Mecca Region",
+      "latitude": 21.4266,
+      "longitude": 39.8256,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "麦地那",
+      "name_en": "Madinah",
+      "province": "Medina Region",
+      "latitude": 24.4686,
+      "longitude": 39.6142,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "达曼",
+      "name_en": "Dammam",
+      "province": "东部省",
+      "latitude": 26.4344,
+      "longitude": 50.1033,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Sulţānah",
+      "province": "Medina Region",
+      "latitude": 24.4926,
+      "longitude": 39.5857,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Buraydah",
+      "province": "Al-Qassim Region",
+      "latitude": 26.326,
+      "longitude": 43.975,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "塔伊夫",
+      "name_en": "Ta’if",
+      "province": "Mecca Region",
+      "latitude": 21.2703,
+      "longitude": 40.4158,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "塔布克",
+      "name_en": "Tabuk",
+      "province": "塔布克省",
+      "latitude": 28.3998,
+      "longitude": 36.5715,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Ha'il",
+      "province": "Ha'il Region",
+      "latitude": 27.5219,
+      "longitude": 41.6907,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Najrān",
+      "province": "奈季兰省",
+      "latitude": 17.4933,
+      "longitude": 44.1277,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Al Kharj",
+      "province": "利雅得省",
+      "latitude": 24.1554,
+      "longitude": 47.3346,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "海米斯穆谢特",
+      "name_en": "Khamis Mushait",
+      "province": "阿西尔省",
+      "latitude": 18.3,
+      "longitude": 42.7333,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Al Hufūf",
+      "province": "东部省",
+      "latitude": 25.3647,
+      "longitude": 49.5876,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Al Mubarraz",
+      "province": "东部省",
+      "latitude": 25.4077,
+      "longitude": 49.5903,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Hafar Al-Batin",
+      "province": "东部省",
+      "latitude": 28.4328,
+      "longitude": 45.9708,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Thuqbah",
+      "province": "东部省",
+      "latitude": 26.2602,
+      "longitude": 50.2049,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Al Jubayl",
+      "province": "东部省",
+      "latitude": 27.0174,
+      "longitude": 49.6225,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "艾卜哈",
+      "name_en": "Abha",
+      "province": "阿西尔省",
+      "latitude": 18.2164,
+      "longitude": 42.5053,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Yanbu",
+      "province": "Medina Region",
+      "latitude": 24.0895,
+      "longitude": 38.0618,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Unaizah",
+      "province": "Al-Qassim Region",
+      "latitude": 26.1,
+      "longitude": 44.0,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Khobar",
+      "province": "东部省",
+      "latitude": 26.2794,
+      "longitude": 50.2083,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Arar",
+      "province": "Northern Borders Region",
+      "latitude": 30.9753,
+      "longitude": 41.0381,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "塞卡凯",
+      "name_en": "Sakakah",
+      "province": "Al Jawf Region",
+      "latitude": 29.9697,
+      "longitude": 40.2064,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Az Zulfī",
+      "province": "利雅得省",
+      "latitude": 26.2995,
+      "longitude": 44.8154,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Jizan",
+      "province": "Jazan Region",
+      "latitude": 16.8892,
+      "longitude": 42.5511,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Qurayyat",
+      "province": "Al Jawf Region",
+      "latitude": 31.3318,
+      "longitude": 37.3428,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Sabt Alalayah",
+      "province": "阿西尔省",
+      "latitude": 19.5773,
+      "longitude": 41.9636,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "宰赫兰",
+      "name_en": "Dhahran",
+      "province": "东部省",
+      "latitude": 26.2886,
+      "longitude": 50.114,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Al Qaţīf",
+      "province": "东部省",
+      "latitude": 26.5654,
+      "longitude": 50.0089,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "巴哈",
+      "name_en": "Al Bahah",
+      "province": "Al Bahah Region",
+      "latitude": 20.0129,
+      "longitude": 41.4677,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Tārūt",
+      "province": "东部省",
+      "latitude": 26.5733,
+      "longitude": 50.0403,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Qal‘at Bīshah",
+      "province": "阿西尔省",
+      "latitude": 20.0005,
+      "longitude": 42.6052,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "拉斯",
+      "name_en": "Ar Rass",
+      "province": "Al-Qassim Region",
+      "latitude": 25.8694,
+      "longitude": 43.4973,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Bariq",
+      "province": "阿西尔省",
+      "latitude": 18.9297,
+      "longitude": 41.9295,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Rābigh",
+      "province": "Mecca Region",
+      "latitude": 22.7986,
+      "longitude": 39.0349,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Ash Shafā",
+      "province": "Mecca Region",
+      "latitude": 21.0727,
+      "longitude": 40.3184,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Al Līth",
+      "province": "Mecca Region",
+      "latitude": 20.148,
+      "longitude": 40.2722,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Sayhāt",
+      "province": "东部省",
+      "latitude": 26.4835,
+      "longitude": 50.0485,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Ţurayf",
+      "province": "Northern Borders Region",
+      "latitude": 31.672,
+      "longitude": 38.663,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Ad Dir‘īyah",
+      "province": "利雅得省",
+      "latitude": 24.7519,
+      "longitude": 46.5387,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Al Khafjī",
+      "province": "东部省",
+      "latitude": 28.4391,
+      "longitude": 48.4913,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Ad Dawādimī",
+      "province": "利雅得省",
+      "latitude": 24.5077,
+      "longitude": 44.3924,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Şabyā",
+      "province": "Jazan Region",
+      "latitude": 17.1495,
+      "longitude": 42.6254,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Abū ‘Arīsh",
+      "province": "Jazan Region",
+      "latitude": 16.9689,
+      "longitude": 42.8325,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Al Badā’i‘ al Wusţá",
+      "province": "Al-Qassim Region",
+      "latitude": 25.9855,
+      "longitude": 43.7366,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Şafwá",
+      "province": "东部省",
+      "latitude": 26.6497,
+      "longitude": 49.9552,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Afif",
+      "province": "利雅得省",
+      "latitude": 23.9065,
+      "longitude": 42.9172,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Al Bukayrīyah",
+      "province": "Al-Qassim Region",
+      "latitude": 26.1392,
+      "longitude": 43.6578,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "‘Irqah",
+      "province": "利雅得省",
+      "latitude": 24.6803,
+      "longitude": 46.6111,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Raḩīmah",
+      "province": "东部省",
+      "latitude": 26.7079,
+      "longitude": 50.0619,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "图赖夫",
+      "name_en": "Turaif",
+      "province": "Northern Borders Region",
+      "latitude": 31.672,
+      "longitude": 38.663,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Ţubarjal",
+      "province": "Al Jawf Region",
+      "latitude": 30.4999,
+      "longitude": 38.216,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Taymā’",
+      "province": "塔布克省",
+      "latitude": 27.6223,
+      "longitude": 38.5388,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Ad Dilam",
+      "province": "利雅得省",
+      "latitude": 23.991,
+      "longitude": 47.1618,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Umluj",
+      "province": "塔布克省",
+      "latitude": 25.0213,
+      "longitude": 37.2685,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Al Mithnab",
+      "province": "Al-Qassim Region",
+      "latitude": 25.8601,
+      "longitude": 44.2223,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "欧拉",
+      "name_en": "Al-`Ula",
+      "province": "Medina Region",
+      "latitude": 26.6085,
+      "longitude": 37.9232,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Shaqra",
+      "province": "利雅得省",
+      "latitude": 25.2402,
+      "longitude": 45.251,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Fayfā’",
+      "province": "Jazan Region",
+      "latitude": 17.2806,
+      "longitude": 43.1373,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Laylá",
+      "province": "利雅得省",
+      "latitude": 22.2921,
+      "longitude": 46.7238,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "布盖格",
+      "name_en": "Abqaiq",
+      "province": "东部省",
+      "latitude": 25.934,
+      "longitude": 49.6688,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Turubah",
+      "province": "Ha'il Region",
+      "latitude": 28.2585,
+      "longitude": 42.9246,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Badr Ḩunayn",
+      "province": "Medina Region",
+      "latitude": 23.7829,
+      "longitude": 38.7905,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Thuwal",
+      "province": "Mecca Region",
+      "latitude": 22.2827,
+      "longitude": 39.1125,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Şāmitah",
+      "province": "Jazan Region",
+      "latitude": 16.596,
+      "longitude": 42.9444,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Al Wajh",
+      "province": "塔布克省",
+      "latitude": 26.2309,
+      "longitude": 36.4649,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Al ‘Awwāmīyah",
+      "province": "东部省",
+      "latitude": 26.5914,
+      "longitude": 49.9795,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Ḩaql",
+      "province": "Al Jawf Region",
+      "latitude": 29.2863,
+      "longitude": 34.9469,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Riyāḑ al Khabrā’",
+      "province": "Al-Qassim Region",
+      "latitude": 26.0667,
+      "longitude": 43.5534,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Rumāḩ",
+      "province": "利雅得省",
+      "latitude": 25.5639,
+      "longitude": 47.1641,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "An Nimas",
+      "province": "阿西尔省",
+      "latitude": 19.1455,
+      "longitude": 42.1201,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "As Sulayyil",
+      "province": "利雅得省",
+      "latitude": 20.4607,
+      "longitude": 45.5779,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Turabah",
+      "province": "Mecca Region",
+      "latitude": 21.2141,
+      "longitude": 41.6331,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Al Jumūm",
+      "province": "Mecca Region",
+      "latitude": 21.6195,
+      "longitude": 39.6966,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Duba",
+      "province": "塔布克省",
+      "latitude": 27.3513,
+      "longitude": 35.6901,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Aţ Ţaraf",
+      "province": "东部省",
+      "latitude": 25.3623,
+      "longitude": 49.7276,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "盖苏迈",
+      "name_en": "Qaisumah",
+      "province": "东部省",
+      "latitude": 28.3112,
+      "longitude": 46.1273,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Mahd adh Dhahab",
+      "province": "Medina Region",
+      "latitude": 23.4997,
+      "longitude": 40.8841,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Khulayş",
+      "province": "Mecca Region",
+      "latitude": 22.1555,
+      "longitude": 39.3201,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "‘Inak",
+      "province": "东部省",
+      "latitude": 26.5196,
+      "longitude": 50.0271,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Sarāt ‘Abīdah",
+      "province": "阿西尔省",
+      "latitude": 18.089,
+      "longitude": 43.132,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Baq‘ā’",
+      "province": "Ha'il Region",
+      "latitude": 27.9065,
+      "longitude": 42.389,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Al ‘Aqīq",
+      "province": "Al Bahah Region",
+      "latitude": 20.65,
+      "longitude": 41.4167,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Al Khabrā’",
+      "province": "Al-Qassim Region",
+      "latitude": 26.0718,
+      "longitude": 43.625,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Al Baţţālīyah",
+      "province": "东部省",
+      "latitude": 25.4333,
+      "longitude": 49.6333,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Al Munayzilah",
+      "province": "东部省",
+      "latitude": 25.3833,
+      "longitude": 49.6667,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "‘Uyūn al Jiwā’",
+      "province": "Al-Qassim Region",
+      "latitude": 26.4983,
+      "longitude": 43.6312,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Al Majāridah",
+      "province": "阿西尔省",
+      "latitude": 19.132,
+      "longitude": 41.924,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Tanūmah",
+      "province": "Al-Qassim Region",
+      "latitude": 27.1,
+      "longitude": 44.1333,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Al Qurayn",
+      "province": "东部省",
+      "latitude": 25.4833,
+      "longitude": 49.6,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Umm as Sāhik",
+      "province": "东部省",
+      "latitude": 26.6536,
+      "longitude": 49.9164,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Sājir",
+      "province": "利雅得省",
+      "latitude": 25.1825,
+      "longitude": 44.5996,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Qibah",
+      "province": "Al-Qassim Region",
+      "latitude": 27.4029,
+      "longitude": 44.3277,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Al Awjām",
+      "province": "东部省",
+      "latitude": 26.5632,
+      "longitude": 49.9433,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Farasān",
+      "province": "Jazan Region",
+      "latitude": 16.7022,
+      "longitude": 42.1183,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "‘Uqlat aş Şuqūr",
+      "province": "Al-Qassim Region",
+      "latitude": 25.8292,
+      "longitude": 42.2012,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Al Mindak",
+      "province": "Al Bahah Region",
+      "latitude": 20.1588,
+      "longitude": 41.2834,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Al Arţāwīyah",
+      "province": "利雅得省",
+      "latitude": 26.5039,
+      "longitude": 45.3481,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Al Jubayl",
+      "province": "东部省",
+      "latitude": 27.0174,
+      "longitude": 49.6225,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Al Qārah",
+      "province": "东部省",
+      "latitude": 25.4167,
+      "longitude": 49.6667,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Marāt",
+      "province": "利雅得省",
+      "latitude": 25.0706,
+      "longitude": 45.4577,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Al Jafr",
+      "province": "东部省",
+      "latitude": 25.3774,
+      "longitude": 49.7215,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Şuwayr",
+      "province": "Al Jawf Region",
+      "latitude": 30.1171,
+      "longitude": 40.3892,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Tumayr",
+      "province": "利雅得省",
+      "latitude": 25.7035,
+      "longitude": 45.8683,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "At Tūbī",
+      "province": "东部省",
+      "latitude": 26.5578,
+      "longitude": 49.9917,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Al Jarādīyah",
+      "province": "Jazan Region",
+      "latitude": 16.5795,
+      "longitude": 42.9124,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Al Muwayh",
+      "province": "Mecca Region",
+      "latitude": 22.4333,
+      "longitude": 41.7583,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "As Saffānīyah",
+      "province": "东部省",
+      "latitude": 27.9708,
+      "longitude": 48.73,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Al Mulaydā’",
+      "province": "Al-Qassim Region",
+      "latitude": 26.3178,
+      "longitude": 43.7853,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Al Hadā",
+      "province": "Mecca Region",
+      "latitude": 21.359,
+      "longitude": 40.2803,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Ayn Ibn Fuhayd",
+      "province": "Al-Qassim Region",
+      "latitude": 26.7716,
+      "longitude": 44.2071,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Al Markaz",
+      "province": "东部省",
+      "latitude": 25.4,
+      "longitude": 49.7333,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Dukhnah",
+      "province": "Al-Qassim Region",
+      "latitude": 25.3562,
+      "longitude": 43.6227,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Mislīyah",
+      "province": "Jazan Region",
+      "latitude": 17.4599,
+      "longitude": 42.5572,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Al Muţayrifī",
+      "province": "东部省",
+      "latitude": 25.4788,
+      "longitude": 49.5582,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Mizhirah",
+      "province": "Jazan Region",
+      "latitude": 16.8261,
+      "longitude": 42.7333,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Al Ju‘aymah",
+      "province": "东部省",
+      "latitude": 26.7501,
+      "longitude": 49.9047,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Ad Darb",
+      "province": "Jazan Region",
+      "latitude": 17.7229,
+      "longitude": 42.2526,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Julayjilah",
+      "province": "东部省",
+      "latitude": 25.5,
+      "longitude": 49.6,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Mulayjah",
+      "province": "东部省",
+      "latitude": 27.271,
+      "longitude": 48.4242,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Al Fuwayliq",
+      "province": "Al-Qassim Region",
+      "latitude": 26.4436,
+      "longitude": 43.2516,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Tabālah",
+      "province": "阿西尔省",
+      "latitude": 19.95,
+      "longitude": 42.4,
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "name": "",
+      "name_en": "Adh Dhibiyah",
+      "province": "Al-Qassim Region",
+      "latitude": 26.027,
+      "longitude": 43.157,
+      "timezone": "Asia/Riyadh"
+    }
+  ]
+}

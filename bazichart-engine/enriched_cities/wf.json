@@ -1,0 +1,30 @@
+{
+  "country_code": "WF",
+  "country_name": "瓦利斯和富图纳",
+  "cities": [
+    {
+      "name": "马塔乌图",
+      "name_en": "Mata-Utu",
+      "province": "Uvea",
+      "latitude": -13.2816,
+      "longitude": -176.1745,
+      "timezone": "Pacific/Wallis"
+    },
+    {
+      "name": "",
+      "name_en": "Leava",
+      "province": "Sigave",
+      "latitude": -14.2933,
+      "longitude": -178.1583,
+      "timezone": "Pacific/Wallis"
+    },
+    {
+      "name": "",
+      "name_en": "Alo",
+      "province": "Alo",
+      "latitude": -14.311,
+      "longitude": -178.1109,
+      "timezone": "Pacific/Wallis"
+    }
+  ]
+}

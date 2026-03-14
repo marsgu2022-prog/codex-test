@@ -1,0 +1,278 @@
+{
+  "country_code": "YE",
+  "country_name": "也门",
+  "cities": [
+    {
+      "name": "萨那",
+      "name_en": "Sanaa",
+      "province": "Amanat Alasimah",
+      "latitude": 15.3545,
+      "longitude": 44.2065,
+      "timezone": "Asia/Aden"
+    },
+    {
+      "name": "亚丁",
+      "name_en": "Aden",
+      "province": "Aden",
+      "latitude": 12.7796,
+      "longitude": 45.0385,
+      "timezone": "Asia/Aden"
+    },
+    {
+      "name": "",
+      "name_en": "Taiz",
+      "province": "塔伊兹省",
+      "latitude": 13.5795,
+      "longitude": 44.0209,
+      "timezone": "Asia/Aden"
+    },
+    {
+      "name": "伊卜",
+      "name_en": "Ibb",
+      "province": "伊卜省",
+      "latitude": 13.9667,
+      "longitude": 44.1833,
+      "timezone": "Asia/Aden"
+    },
+    {
+      "name": "",
+      "name_en": "Al Ḩudaydah",
+      "province": "荷台达省",
+      "latitude": 14.7978,
+      "longitude": 42.9545,
+      "timezone": "Asia/Aden"
+    },
+    {
+      "name": "",
+      "name_en": "Mukalla",
+      "province": "哈德拉毛省",
+      "latitude": 14.5425,
+      "longitude": 49.1242,
+      "timezone": "Asia/Aden"
+    },
+    {
+      "name": "",
+      "name_en": "Dhamār",
+      "province": "扎马尔省",
+      "latitude": 14.5427,
+      "longitude": 44.4051,
+      "timezone": "Asia/Aden"
+    },
+    {
+      "name": "",
+      "name_en": "‘Amrān",
+      "province": "阿姆兰省",
+      "latitude": 15.6594,
+      "longitude": 43.9438,
+      "timezone": "Asia/Aden"
+    },
+    {
+      "name": "",
+      "name_en": "Sayyān",
+      "province": "萨那省",
+      "latitude": 15.1718,
+      "longitude": 44.3244,
+      "timezone": "Asia/Aden"
+    },
+    {
+      "name": "",
+      "name_en": "Zabīd",
+      "province": "荷台达省",
+      "latitude": 14.1951,
+      "longitude": 43.3152,
+      "timezone": "Asia/Aden"
+    },
+    {
+      "name": "",
+      "name_en": "Sa'dah",
+      "province": "萨达省",
+      "latitude": 16.9402,
+      "longitude": 43.7639,
+      "timezone": "Asia/Aden"
+    },
+    {
+      "name": "",
+      "name_en": "Bājil",
+      "province": "荷台达省",
+      "latitude": 15.059,
+      "longitude": 43.2873,
+      "timezone": "Asia/Aden"
+    },
+    {
+      "name": "",
+      "name_en": "Ḩajjah",
+      "province": "哈杰省",
+      "latitude": 15.6943,
+      "longitude": 43.6058,
+      "timezone": "Asia/Aden"
+    },
+    {
+      "name": "",
+      "name_en": "Dhī as Sufāl",
+      "province": "伊卜省",
+      "latitude": 13.8345,
+      "longitude": 44.1147,
+      "timezone": "Asia/Aden"
+    },
+    {
+      "name": "",
+      "name_en": "Al Bayda",
+      "province": "贝达省",
+      "latitude": 13.9852,
+      "longitude": 45.5727,
+      "timezone": "Asia/Aden"
+    },
+    {
+      "name": "",
+      "name_en": "Ataq",
+      "province": "舍卜沃省",
+      "latitude": 14.5377,
+      "longitude": 46.8319,
+      "timezone": "Asia/Aden"
+    },
+    {
+      "name": "",
+      "name_en": "Bayt al Faqīh",
+      "province": "荷台达省",
+      "latitude": 14.5163,
+      "longitude": 43.3245,
+      "timezone": "Asia/Aden"
+    },
+    {
+      "name": "",
+      "name_en": "Yarīm",
+      "province": "伊卜省",
+      "latitude": 14.298,
+      "longitude": 44.3779,
+      "timezone": "Asia/Aden"
+    },
+    {
+      "name": "",
+      "name_en": "Saḩar",
+      "province": "萨那省",
+      "latitude": 15.3164,
+      "longitude": 44.3088,
+      "timezone": "Asia/Aden"
+    },
+    {
+      "name": "",
+      "name_en": "Laḩij",
+      "province": "拉赫季省",
+      "latitude": 13.0567,
+      "longitude": 44.8819,
+      "timezone": "Asia/Aden"
+    },
+    {
+      "name": "",
+      "name_en": "Ghayl Bā Wazīr",
+      "province": "哈德拉毛省",
+      "latitude": 14.7761,
+      "longitude": 49.3661,
+      "timezone": "Asia/Aden"
+    },
+    {
+      "name": "",
+      "name_en": "Zinjibār",
+      "province": "阿比扬省",
+      "latitude": 13.1287,
+      "longitude": 45.3807,
+      "timezone": "Asia/Aden"
+    },
+    {
+      "name": "",
+      "name_en": "Al Ḩazm",
+      "province": "焦夫省",
+      "latitude": 16.1641,
+      "longitude": 44.7769,
+      "timezone": "Asia/Aden"
+    },
+    {
+      "name": "",
+      "name_en": "Ma'rib",
+      "province": "马里卜省",
+      "latitude": 15.4625,
+      "longitude": 45.3258,
+      "timezone": "Asia/Aden"
+    },
+    {
+      "name": "摩卡",
+      "name_en": "Mocha",
+      "province": "塔伊兹省",
+      "latitude": 13.3181,
+      "longitude": 43.2499,
+      "timezone": "Asia/Aden"
+    },
+    {
+      "name": "",
+      "name_en": "Aḑ Ḑāli‘",
+      "province": "达利阿省",
+      "latitude": 13.6957,
+      "longitude": 44.7314,
+      "timezone": "Asia/Aden"
+    },
+    {
+      "name": "",
+      "name_en": "Jawf al Maqbābah",
+      "province": "阿比扬省",
+      "latitude": 13.8378,
+      "longitude": 45.8349,
+      "timezone": "Asia/Aden"
+    },
+    {
+      "name": "",
+      "name_en": "Al Ghayz̧ah",
+      "province": "迈赫拉省",
+      "latitude": 16.2079,
+      "longitude": 52.176,
+      "timezone": "Asia/Aden"
+    },
+    {
+      "name": "",
+      "name_en": "Al Maḩwīt",
+      "province": "迈赫维特省",
+      "latitude": 15.4701,
+      "longitude": 43.5448,
+      "timezone": "Asia/Aden"
+    },
+    {
+      "name": "",
+      "name_en": "Jadder Cemetery",
+      "province": "Amanat Alasimah",
+      "latitude": 15.467,
+      "longitude": 44.1779,
+      "timezone": "Asia/Aden"
+    },
+    {
+      "name": "",
+      "name_en": "Hadibu",
+      "province": "索科特拉省",
+      "latitude": 12.6488,
+      "longitude": 54.0189,
+      "timezone": "Asia/Aden"
+    },
+    {
+      "name": "",
+      "name_en": "Shibām",
+      "province": "哈德拉毛省",
+      "latitude": 15.9269,
+      "longitude": 48.6267,
+      "timezone": "Asia/Aden"
+    },
+    {
+      "name": "",
+      "name_en": "CPF",
+      "province": "哈德拉毛省",
+      "latitude": 15.5917,
+      "longitude": 49.136,
+      "timezone": "Asia/Aden"
+    },
+    {
+      "name": "",
+      "name_en": "Al Jabīn",
+      "province": "赖马省",
+      "latitude": 14.7039,
+      "longitude": 43.5992,
+      "timezone": "Asia/Aden"
+    }
+  ]
+}

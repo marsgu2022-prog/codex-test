@@ -1,0 +1,246 @@
+{
+  "country_code": "OM",
+  "country_name": "阿曼",
+  "cities": [
+    {
+      "name": "马斯喀特",
+      "name_en": "Muscat",
+      "province": "马斯喀特省",
+      "latitude": 23.5841,
+      "longitude": 58.4078,
+      "timezone": "Asia/Muscat"
+    },
+    {
+      "name": "锡卜",
+      "name_en": "Seeb",
+      "province": "马斯喀特省",
+      "latitude": 23.6703,
+      "longitude": 58.1891,
+      "timezone": "Asia/Muscat"
+    },
+    {
+      "name": "",
+      "name_en": "Bawshar",
+      "province": "马斯喀特省",
+      "latitude": 23.5777,
+      "longitude": 58.3998,
+      "timezone": "Asia/Muscat"
+    },
+    {
+      "name": "",
+      "name_en": "‘Ibrī",
+      "province": "扎希拉省",
+      "latitude": 23.2257,
+      "longitude": 56.5157,
+      "timezone": "Asia/Muscat"
+    },
+    {
+      "name": "",
+      "name_en": "Şalālah",
+      "province": "佐法尔省",
+      "latitude": 17.015,
+      "longitude": 54.0924,
+      "timezone": "Asia/Muscat"
+    },
+    {
+      "name": "",
+      "name_en": "Şaḩam",
+      "province": "Al Batinah North",
+      "latitude": 24.1722,
+      "longitude": 56.8886,
+      "timezone": "Asia/Muscat"
+    },
+    {
+      "name": "",
+      "name_en": "Rustaq",
+      "province": "Al Batinah South",
+      "latitude": 23.3908,
+      "longitude": 57.4244,
+      "timezone": "Asia/Muscat"
+    },
+    {
+      "name": "苏哈尔",
+      "name_en": "Sohar",
+      "province": "Al Batinah North",
+      "latitude": 24.3474,
+      "longitude": 56.7094,
+      "timezone": "Asia/Muscat"
+    },
+    {
+      "name": "",
+      "name_en": "As Suwayq",
+      "province": "Al Batinah North",
+      "latitude": 23.8494,
+      "longitude": 57.4386,
+      "timezone": "Asia/Muscat"
+    },
+    {
+      "name": "",
+      "name_en": "Barkā’",
+      "province": "Al Batinah South",
+      "latitude": 23.6787,
+      "longitude": 57.886,
+      "timezone": "Asia/Muscat"
+    },
+    {
+      "name": "",
+      "name_en": "Samā’il",
+      "province": "内地省",
+      "latitude": 23.2984,
+      "longitude": 57.9531,
+      "timezone": "Asia/Muscat"
+    },
+    {
+      "name": "",
+      "name_en": "Al Buraymī",
+      "province": "布赖米省",
+      "latitude": 24.2509,
+      "longitude": 55.7931,
+      "timezone": "Asia/Muscat"
+    },
+    {
+      "name": "",
+      "name_en": "Nizwá",
+      "province": "内地省",
+      "latitude": 22.9333,
+      "longitude": 57.5333,
+      "timezone": "Asia/Muscat"
+    },
+    {
+      "name": "苏尔",
+      "name_en": "Sur",
+      "province": "Southeastern Governorate",
+      "latitude": 22.5667,
+      "longitude": 59.5289,
+      "timezone": "Asia/Muscat"
+    },
+    {
+      "name": "",
+      "name_en": "Qurayyāt",
+      "province": "马斯喀特省",
+      "latitude": 23.263,
+      "longitude": 58.9201,
+      "timezone": "Asia/Muscat"
+    },
+    {
+      "name": "",
+      "name_en": "Bahlā’",
+      "province": "内地省",
+      "latitude": 22.9789,
+      "longitude": 57.3047,
+      "timezone": "Asia/Muscat"
+    },
+    {
+      "name": "",
+      "name_en": "Al Khābūrah",
+      "province": "Al Batinah North",
+      "latitude": 23.9714,
+      "longitude": 57.0931,
+      "timezone": "Asia/Muscat"
+    },
+    {
+      "name": "",
+      "name_en": "Shināş",
+      "province": "Al Batinah North",
+      "latitude": 24.7426,
+      "longitude": 56.467,
+      "timezone": "Asia/Muscat"
+    },
+    {
+      "name": "",
+      "name_en": "Sufālat Samā’il",
+      "province": "内地省",
+      "latitude": 23.3167,
+      "longitude": 58.0167,
+      "timezone": "Asia/Muscat"
+    },
+    {
+      "name": "",
+      "name_en": "Izkī",
+      "province": "内地省",
+      "latitude": 22.9333,
+      "longitude": 57.7667,
+      "timezone": "Asia/Muscat"
+    },
+    {
+      "name": "",
+      "name_en": "Liwá",
+      "province": "Al Batinah North",
+      "latitude": 24.5308,
+      "longitude": 56.563,
+      "timezone": "Asia/Muscat"
+    },
+    {
+      "name": "",
+      "name_en": "Ibrā’",
+      "province": "东北省",
+      "latitude": 22.6906,
+      "longitude": 58.5334,
+      "timezone": "Asia/Muscat"
+    },
+    {
+      "name": "",
+      "name_en": "Bidbid",
+      "province": "内地省",
+      "latitude": 23.4079,
+      "longitude": 58.1283,
+      "timezone": "Asia/Muscat"
+    },
+    {
+      "name": "",
+      "name_en": "Badīyah",
+      "province": "东北省",
+      "latitude": 22.45,
+      "longitude": 58.8,
+      "timezone": "Asia/Muscat"
+    },
+    {
+      "name": "",
+      "name_en": "Khasab",
+      "province": "穆桑代姆省",
+      "latitude": 26.1799,
+      "longitude": 56.2477,
+      "timezone": "Asia/Muscat"
+    },
+    {
+      "name": "",
+      "name_en": "Adam",
+      "province": "内地省",
+      "latitude": 22.3793,
+      "longitude": 57.5272,
+      "timezone": "Asia/Muscat"
+    },
+    {
+      "name": "",
+      "name_en": "Yanqul",
+      "province": "扎希拉省",
+      "latitude": 23.5864,
+      "longitude": 56.5397,
+      "timezone": "Asia/Muscat"
+    },
+    {
+      "name": "",
+      "name_en": "Al Qābil",
+      "province": "东北省",
+      "latitude": 22.571,
+      "longitude": 58.6947,
+      "timezone": "Asia/Muscat"
+    },
+    {
+      "name": "",
+      "name_en": "Bayt al ‘Awābī",
+      "province": "Al Batinah South",
+      "latitude": 23.3032,
+      "longitude": 57.5246,
+      "timezone": "Asia/Muscat"
+    },
+    {
+      "name": "",
+      "name_en": "Haymā’",
+      "province": "中部省",
+      "latitude": 19.9593,
+      "longitude": 56.2758,
+      "timezone": "Asia/Muscat"
+    }
+  ]
+}

@@ -1,0 +1,838 @@
+{
+  "country_code": "LY",
+  "country_name": "利比亚",
+  "cities": [
+    {
+      "name": "的黎波里",
+      "name_en": "Tripoli",
+      "province": "Tripoli",
+      "latitude": 32.8874,
+      "longitude": 13.1873,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "班加西",
+      "name_en": "Benghazi",
+      "province": "Banghāzī",
+      "latitude": 32.1149,
+      "longitude": 20.0686,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Misratah",
+      "province": "Mişrātah",
+      "latitude": 32.3753,
+      "longitude": 15.0925,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "兹利坦",
+      "name_en": "Zliten",
+      "province": "Mişrātah",
+      "latitude": 32.4674,
+      "longitude": 14.5687,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "胡姆斯",
+      "name_en": "Al Khums",
+      "province": "Al Marqab",
+      "latitude": 32.6486,
+      "longitude": 14.2619,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Az Zāwīyah",
+      "province": "Az Zāwiyah",
+      "latitude": 32.7571,
+      "longitude": 12.7276,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Zawiya",
+      "province": "Az Zāwiyah",
+      "latitude": 32.7522,
+      "longitude": 12.7278,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Janzūr",
+      "province": "Al Jafārah",
+      "latitude": 32.8187,
+      "longitude": 13.0173,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "塞卜哈",
+      "name_en": "Sabha",
+      "province": "塞卜哈省",
+      "latitude": 27.0377,
+      "longitude": 14.4283,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "图卜鲁格",
+      "name_en": "Tobruk",
+      "province": "Al Buţnān",
+      "latitude": 32.0896,
+      "longitude": 23.9538,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "艾季达比耶",
+      "name_en": "Ajdabiya",
+      "province": "Al Wāḩāt",
+      "latitude": 30.7554,
+      "longitude": 20.2263,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Al Ajaylat",
+      "province": "An Nuqāţ al Khams",
+      "latitude": 32.7572,
+      "longitude": 12.3763,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Al Bayḑā’",
+      "province": "Al Jabal al Akhḑar",
+      "latitude": 32.7627,
+      "longitude": 21.7551,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Al Jadīd",
+      "province": "塞卜哈省",
+      "latitude": 27.05,
+      "longitude": 14.4,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "苏特",
+      "name_en": "Sirte",
+      "province": "Surt",
+      "latitude": 31.2089,
+      "longitude": 16.5887,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Darnah",
+      "province": "Darnah",
+      "latitude": 32.767,
+      "longitude": 22.6367,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Al Jumayl",
+      "province": "An Nuqāţ al Khams",
+      "latitude": 32.8529,
+      "longitude": 12.0612,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Qaşr Bin Ghashīr",
+      "province": "Tripoli",
+      "latitude": 32.6833,
+      "longitude": 13.1833,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Tājūrā’",
+      "province": "Tripoli",
+      "latitude": 32.8817,
+      "longitude": 13.3506,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Al Marj",
+      "province": "Al Marj",
+      "latitude": 32.4926,
+      "longitude": 20.8291,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Şabrātah",
+      "province": "Az Zāwiyah",
+      "latitude": 32.7933,
+      "longitude": 12.4885,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Al Ḩurshah",
+      "province": "Az Zāwiyah",
+      "latitude": 32.7647,
+      "longitude": 12.6739,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Şurmān",
+      "province": "Az Zāwiyah",
+      "latitude": 32.7567,
+      "longitude": 12.5716,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Msalātah",
+      "province": "Al Marqab",
+      "latitude": 32.5834,
+      "longitude": 14.0363,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "As Sawānī",
+      "province": "Al Jafārah",
+      "latitude": 32.7167,
+      "longitude": 13.0667,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Tarhuna",
+      "province": "Al Marqab",
+      "latitude": 32.435,
+      "longitude": 13.6332,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Al ‘Azīzīyah",
+      "province": "Al Jafārah",
+      "latitude": 32.5319,
+      "longitude": 13.0175,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Qaşr al Qarabūllī",
+      "province": "Tripoli",
+      "latitude": 32.7451,
+      "longitude": 13.7147,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "At Tāj",
+      "province": "库夫拉省",
+      "latitude": 24.2049,
+      "longitude": 23.2857,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "拜尼沃利德",
+      "name_en": "Bani Walid",
+      "province": "Mişrātah",
+      "latitude": 31.7455,
+      "longitude": 13.9835,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "焦夫",
+      "name_en": "Al Jawf",
+      "province": "库夫拉省",
+      "latitude": 24.1989,
+      "longitude": 23.2909,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Gharyan",
+      "province": "西山省",
+      "latitude": 32.1722,
+      "longitude": 13.0203,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "祖瓦拉",
+      "name_en": "Zuwarah",
+      "province": "An Nuqāţ al Khams",
+      "latitude": 32.9312,
+      "longitude": 12.082,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Ubari",
+      "province": "Wādī al Ḩayāt",
+      "latitude": 26.5903,
+      "longitude": 12.7751,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Zintan",
+      "province": "西山省",
+      "latitude": 31.9316,
+      "longitude": 12.2529,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Al Abyār",
+      "province": "Al Marj",
+      "latitude": 32.19,
+      "longitude": 20.5965,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Sīdī Bin Zīnah",
+      "province": "An Nuqāţ al Khams",
+      "latitude": 32.8872,
+      "longitude": 11.9873,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Al Burayqah",
+      "province": "Al Wāḩāt",
+      "latitude": 30.4062,
+      "longitude": 19.5739,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Murzuk",
+      "province": "穆尔祖格省",
+      "latitude": 25.9155,
+      "longitude": 13.9184,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Shahhat",
+      "province": "Al Jabal al Akhḑar",
+      "latitude": 32.8043,
+      "longitude": 21.8661,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Nālūt",
+      "province": "Nālūt",
+      "latitude": 31.8685,
+      "longitude": 10.9812,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Al Aşābi‘ah",
+      "province": "西山省",
+      "latitude": 32.0333,
+      "longitude": 12.8667,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Az Zahrā’",
+      "province": "Al Jafārah",
+      "latitude": 32.6789,
+      "longitude": 12.8733,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Al Qubbah",
+      "province": "Darnah",
+      "latitude": 32.7568,
+      "longitude": 22.2411,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Hūn",
+      "province": "朱夫拉省",
+      "latitude": 29.1268,
+      "longitude": 15.9477,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Al Ghurayfah",
+      "province": "Wādī al Ḩayāt",
+      "latitude": 26.5216,
+      "longitude": 13.0107,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Yafran",
+      "province": "西山省",
+      "latitude": 32.0633,
+      "longitude": 12.5286,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Az Zuwaytīnah",
+      "province": "Al Wāḩāt",
+      "latitude": 30.9522,
+      "longitude": 20.1202,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "An Nāşirīyah",
+      "province": "Al Jafārah",
+      "latitude": 32.6328,
+      "longitude": 12.8736,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Qaryat Sulūq",
+      "province": "Banghāzī",
+      "latitude": 31.6682,
+      "longitude": 20.2521,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Qarqūzah",
+      "province": "Az Zāwiyah",
+      "latitude": 32.7457,
+      "longitude": 12.8423,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Al-'Alūaṣ",
+      "province": "Al Marqab",
+      "latitude": 32.7101,
+      "longitude": 13.9671,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Wādī 'Utbah",
+      "province": "穆尔祖格省",
+      "latitude": 26.095,
+      "longitude": 13.5574,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Mizdah",
+      "province": "西山省",
+      "latitude": 31.4493,
+      "longitude": 12.9853,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Qaşr Khiyār",
+      "province": "Tripoli",
+      "latitude": 32.6968,
+      "longitude": 13.8463,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "比拉克",
+      "name_en": "Brak",
+      "province": "Ash Shāţiʼ",
+      "latitude": 27.5496,
+      "longitude": 14.2714,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Bin Jawwād",
+      "province": "Surt",
+      "latitude": 30.8042,
+      "longitude": 18.0772,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Al Qawāsim",
+      "province": "西山省",
+      "latitude": 32.1842,
+      "longitude": 13.0604,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Ar Rayāyinah",
+      "province": "西山省",
+      "latitude": 32.0268,
+      "longitude": 12.3564,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Ghat",
+      "province": "Ghāt",
+      "latitude": 24.9633,
+      "longitude": 10.18,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Abū Zayyān",
+      "province": "西山省",
+      "latitude": 32.0997,
+      "longitude": 12.9786,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Al Māyah",
+      "province": "Al Jafārah",
+      "latitude": 32.8019,
+      "longitude": 12.8792,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Zalţan",
+      "province": "An Nuqāţ al Khams",
+      "latitude": 32.947,
+      "longitude": 11.8667,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Jālū",
+      "province": "Al Wāḩāt",
+      "latitude": 29.0333,
+      "longitude": 21.55,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Tūkrah",
+      "province": "Al Marj",
+      "latitude": 32.5341,
+      "longitude": 20.5791,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Jādū",
+      "province": "西山省",
+      "latitude": 31.9551,
+      "longitude": 12.029,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Ghadames",
+      "province": "Nālūt",
+      "latitude": 30.1337,
+      "longitude": 9.5007,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Sūknah",
+      "province": "朱夫拉省",
+      "latitude": 29.0694,
+      "longitude": 15.7827,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Kiklah",
+      "province": "西山省",
+      "latitude": 32.0833,
+      "longitude": 12.7,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Wardāmah",
+      "province": "Al Jabal al Akhḑar",
+      "latitude": 32.7966,
+      "longitude": 21.791,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Umm al Arānib",
+      "province": "穆尔祖格省",
+      "latitude": 26.1339,
+      "longitude": 14.7372,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Waddān",
+      "province": "朱夫拉省",
+      "latitude": 29.1614,
+      "longitude": 16.139,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Zillah",
+      "province": "朱夫拉省",
+      "latitude": 28.551,
+      "longitude": 17.5436,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Ar-Raḥaībāt",
+      "province": "西山省",
+      "latitude": 31.8464,
+      "longitude": 11.8436,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Al Barakāt",
+      "province": "Ghāt",
+      "latitude": 24.894,
+      "longitude": 10.1834,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Sīdī aş Şayd",
+      "province": "Tripoli",
+      "latitude": 32.3346,
+      "longitude": 13.4794,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Al Khaḑrā’",
+      "province": "Al Marqab",
+      "latitude": 32.444,
+      "longitude": 13.7674,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Martūbah",
+      "province": "Darnah",
+      "latitude": 32.5742,
+      "longitude": 22.7635,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Al Bardīyah",
+      "province": "Al Buţnān",
+      "latitude": 31.756,
+      "longitude": 25.0853,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Umm ar Rizam",
+      "province": "Darnah",
+      "latitude": 32.5333,
+      "longitude": 23.009,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Qamīnis",
+      "province": "Banghāzī",
+      "latitude": 31.6576,
+      "longitude": 20.017,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Umm Sā'ad",
+      "province": "Al Buţnān",
+      "latitude": 31.6097,
+      "longitude": 25.05,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Al Abraq",
+      "province": "Al Jabal al Akhḑar",
+      "latitude": 32.7899,
+      "longitude": 22.0005,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Tarāghin",
+      "province": "穆尔祖格省",
+      "latitude": 25.9233,
+      "longitude": 14.4206,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Tāzirbū",
+      "province": "库夫拉省",
+      "latitude": 25.6729,
+      "longitude": 21.0729,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Qaryat ‘Umar al Mukhtār",
+      "province": "Al Jabal al Akhḑar",
+      "latitude": 32.6298,
+      "longitude": 21.6765,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Massah",
+      "province": "Al Jabal al Akhḑar",
+      "latitude": 32.7525,
+      "longitude": 21.6281,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Qandūlah",
+      "province": "Al Jabal al Akhḑar",
+      "latitude": 32.538,
+      "longitude": 21.5753,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Kābāw",
+      "province": "Nālūt",
+      "latitude": 31.8472,
+      "longitude": 11.3306,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Daryānah",
+      "province": "Banghāzī",
+      "latitude": 32.3475,
+      "longitude": 20.3093,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Tamzāwah",
+      "province": "Ash Shāţiʼ",
+      "latitude": 27.5715,
+      "longitude": 14.2023,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Sūsah",
+      "province": "Al Jabal al Akhḑar",
+      "latitude": 32.897,
+      "longitude": 21.9658,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Al Qaţrūn",
+      "province": "穆尔祖格省",
+      "latitude": 24.9514,
+      "longitude": 14.6486,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Qīrah",
+      "province": "Ash Shāţiʼ",
+      "latitude": 27.586,
+      "longitude": 14.3537,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Kambūt",
+      "province": "Al Buţnān",
+      "latitude": 31.9043,
+      "longitude": 24.4784,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Tījī",
+      "province": "Nālūt",
+      "latitude": 32.0149,
+      "longitude": 11.3546,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Jardas al ‘Abīd",
+      "province": "Al Marj",
+      "latitude": 32.3034,
+      "longitude": 20.9861,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Ar Rujbān",
+      "province": "西山省",
+      "latitude": 31.95,
+      "longitude": 12.1667,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Daraj",
+      "province": "Nālūt",
+      "latitude": 30.165,
+      "longitude": 10.458,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Qaşr Lībiyā",
+      "province": "Al Jabal al Akhḑar",
+      "latitude": 32.6333,
+      "longitude": 21.4167,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Barqin",
+      "province": "Ash Shāţiʼ",
+      "latitude": 27.548,
+      "longitude": 13.6291,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Qaryat al Bayyāḑah",
+      "province": "Al Marj",
+      "latitude": 32.565,
+      "longitude": 21.2541,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Awjilah",
+      "province": "Al Wāḩāt",
+      "latitude": 29.1081,
+      "longitude": 21.2869,
+      "timezone": "Africa/Tripoli"
+    },
+    {
+      "name": "",
+      "name_en": "Idrī",
+      "province": "Ash Shāţiʼ",
+      "latitude": 27.4471,
+      "longitude": 13.0517,
+      "timezone": "Africa/Tripoli"
+    }
+  ]
+}

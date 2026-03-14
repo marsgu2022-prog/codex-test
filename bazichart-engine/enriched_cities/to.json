@@ -1,0 +1,46 @@
+{
+  "country_code": "TO",
+  "country_name": "汤加",
+  "cities": [
+    {
+      "name": "努库阿洛法",
+      "name_en": "Nuku‘alofa",
+      "province": "Tongatapu",
+      "latitude": -21.1368,
+      "longitude": -175.2011,
+      "timezone": "Pacific/Tongatapu"
+    },
+    {
+      "name": "",
+      "name_en": "Neiafu",
+      "province": "Vava‘u",
+      "latitude": -18.6514,
+      "longitude": -173.9835,
+      "timezone": "Pacific/Tongatapu"
+    },
+    {
+      "name": "",
+      "name_en": "Pangai",
+      "province": "Ha‘apai",
+      "latitude": -19.8147,
+      "longitude": -174.3542,
+      "timezone": "Pacific/Tongatapu"
+    },
+    {
+      "name": "",
+      "name_en": "'Ohonua",
+      "province": "埃瓦岛",
+      "latitude": -21.3413,
+      "longitude": -174.9566,
+      "timezone": "Pacific/Tongatapu"
+    },
+    {
+      "name": "",
+      "name_en": "Hihifo",
+      "province": "纽阿斯群岛",
+      "latitude": -15.9544,
+      "longitude": -173.7962,
+      "timezone": "Pacific/Tongatapu"
+    }
+  ]
+}

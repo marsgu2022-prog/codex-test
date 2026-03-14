@@ -1,0 +1,3142 @@
+{
+  "country_code": "VN",
+  "country_name": "越南",
+  "cities": [
+    {
+      "name": "胡志明市",
+      "name_en": "Ho Chi Minh City",
+      "province": "Ho Chi Minh City (HCMC)",
+      "latitude": 10.823,
+      "longitude": 106.6296,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "河内市",
+      "name_en": "Hanoi",
+      "province": "Hanoi",
+      "latitude": 21.0245,
+      "longitude": 105.8412,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "海防市",
+      "name_en": "Haiphong",
+      "province": "Hai Phong",
+      "latitude": 20.8648,
+      "longitude": 106.6834,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "芹苴市",
+      "name_en": "Cần Thơ",
+      "province": "Can Tho City",
+      "latitude": 10.0371,
+      "longitude": 105.7883,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "顺化",
+      "name_en": "Huế",
+      "province": "Thừa Thiên Huế Province",
+      "latitude": 16.4619,
+      "longitude": 107.5955,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "岘港",
+      "name_en": "Da Nang",
+      "province": "Da Nang City",
+      "latitude": 16.0678,
+      "longitude": 108.2208,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Biên Hòa",
+      "province": "Dong Nai",
+      "latitude": 10.9447,
+      "longitude": 106.8243,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "清化市",
+      "name_en": "Thanh Hóa",
+      "province": "清化省",
+      "latitude": 19.8,
+      "longitude": 105.7667,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "荣市",
+      "name_en": "Vinh",
+      "province": "Nghệ An Province",
+      "latitude": 18.6734,
+      "longitude": 105.6923,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Thuận An",
+      "province": "Ho Chi Minh City (HCMC)",
+      "latitude": 10.9239,
+      "longitude": 106.7143,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "芽庄市",
+      "name_en": "Nha Trang",
+      "province": "Khanh Hoa",
+      "latitude": 12.2451,
+      "longitude": 109.1943,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Chợ Lớn",
+      "province": "Ho Chi Minh City (HCMC)",
+      "latitude": 10.75,
+      "longitude": 106.65,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Bình Thạnh",
+      "province": "Ho Chi Minh City (HCMC)",
+      "latitude": 10.811,
+      "longitude": 106.706,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Thủ Đức",
+      "province": "Ho Chi Minh City (HCMC)",
+      "latitude": 10.8486,
+      "longitude": 106.7721,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "归仁市",
+      "name_en": "Qui Nhon",
+      "province": "Gia Lai",
+      "latitude": 13.7765,
+      "longitude": 109.2237,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "头 顿市",
+      "name_en": "Vũng Tàu",
+      "province": "Ho Chi Minh City (HCMC)",
+      "latitude": 10.346,
+      "longitude": 107.0843,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Dĩ An",
+      "province": "Ho Chi Minh City (HCMC)",
+      "latitude": 10.9068,
+      "longitude": 106.7694,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "迪石市",
+      "name_en": "Rạch Giá",
+      "province": "An Giang",
+      "latitude": 10.0124,
+      "longitude": 105.0809,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "北江市",
+      "name_en": "Bắc Giang",
+      "province": "Bac Ninh",
+      "latitude": 21.2731,
+      "longitude": 106.1946,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Nam Định",
+      "province": "Ninh Binh",
+      "latitude": 20.4339,
+      "longitude": 106.1773,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Buôn Ma Thuột",
+      "province": "Dak Lak",
+      "latitude": 12.6675,
+      "longitude": 108.0378,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Thái Nguyên",
+      "province": "Thai Nguyen",
+      "latitude": 21.5942,
+      "longitude": 105.8482,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Việt Trì",
+      "province": "Phu Tho",
+      "latitude": 21.3227,
+      "longitude": 105.402,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Quận Mười",
+      "province": "Ho Chi Minh City (HCMC)",
+      "latitude": 10.7682,
+      "longitude": 106.6663,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "土龙木市社",
+      "name_en": "Thủ Dầu Một",
+      "province": "Ho Chi Minh City (HCMC)",
+      "latitude": 10.9804,
+      "longitude": 106.6519,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Đống Đa",
+      "province": "Hanoi",
+      "latitude": 21.013,
+      "longitude": 105.825,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bến Cát",
+      "province": "Ho Chi Minh City (HCMC)",
+      "latitude": 11.15,
+      "longitude": 106.6,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Long Bien",
+      "province": "Hanoi",
+      "latitude": 21.0333,
+      "longitude": 105.9,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bắc Từ Liêm",
+      "province": "Hanoi",
+      "latitude": 21.0653,
+      "longitude": 105.7466,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Quận Mười Một",
+      "province": "Ho Chi Minh City (HCMC)",
+      "latitude": 10.7638,
+      "longitude": 106.6436,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Gia Lâm",
+      "province": "Hanoi",
+      "latitude": 21.02,
+      "longitude": 105.939,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "An Nhơn",
+      "province": "Gia Lai",
+      "latitude": 13.8858,
+      "longitude": 109.1082,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Hai Bà Trưng",
+      "province": "Hanoi",
+      "latitude": 21.0134,
+      "longitude": 105.8477,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Nghi Sơn",
+      "province": "清化省",
+      "latitude": 19.3275,
+      "longitude": 105.8214,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "富国岛",
+      "name_en": "Phu Quoc",
+      "province": "An Giang",
+      "latitude": 10.2241,
+      "longitude": 103.9716,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Thanh Xuân",
+      "province": "Hanoi",
+      "latitude": 20.9947,
+      "longitude": 105.7998,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Cầu Giấy",
+      "province": "Hanoi",
+      "latitude": 21.0323,
+      "longitude": 105.8007,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bắc Ninh",
+      "province": "Bac Ninh",
+      "latitude": 21.1861,
+      "longitude": 106.0763,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Phú Mỹ",
+      "province": "Ho Chi Minh City (HCMC)",
+      "latitude": 10.6333,
+      "longitude": 107.0667,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Long Xuyên",
+      "province": "An Giang",
+      "latitude": 10.3864,
+      "longitude": 105.4352,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Ba Vì",
+      "province": "Hanoi",
+      "latitude": 21.0833,
+      "longitude": 105.3833,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "广义市",
+      "name_en": "Quảng Ngãi",
+      "province": "Quang Ngai",
+      "latitude": 15.1205,
+      "longitude": 108.7923,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Quận Sáu",
+      "province": "Ho Chi Minh City (HCMC)",
+      "latitude": 10.7468,
+      "longitude": 106.649,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Mỹ Tho",
+      "province": "Dong Thap",
+      "latitude": 10.36,
+      "longitude": 106.36,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "下龙市",
+      "name_en": "Hạ Long",
+      "province": "广宁省",
+      "latitude": 20.9505,
+      "longitude": 107.0734,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ðà Lạt",
+      "province": "Lam Dong",
+      "latitude": 11.9465,
+      "longitude": 108.4419,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Xuân Lộc",
+      "province": "Dong Nai",
+      "latitude": 10.9333,
+      "longitude": 107.2333,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Thị Trấn Đông Triều",
+      "province": "广宁省",
+      "latitude": 21.0824,
+      "longitude": 106.5138,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Hải Dương",
+      "province": "Hai Phong",
+      "latitude": 20.941,
+      "longitude": 106.333,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Thành Phố Bà Rịa",
+      "province": "Ho Chi Minh City (HCMC)",
+      "latitude": 10.4963,
+      "longitude": 107.1685,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Phổ Yên",
+      "province": "Thai Nguyen",
+      "latitude": 21.4198,
+      "longitude": 105.8899,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Sơn Tây",
+      "province": "Hanoi",
+      "latitude": 21.1405,
+      "longitude": 105.5069,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ninh Hòa",
+      "province": "Khanh Hoa",
+      "latitude": 12.4919,
+      "longitude": 109.1249,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "潘切",
+      "name_en": "Phan Thiết",
+      "province": "Lam Dong",
+      "latitude": 10.9289,
+      "longitude": 108.1021,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Điện Bàn",
+      "province": "Da Nang City",
+      "latitude": 15.8885,
+      "longitude": 108.2545,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Cà Mau",
+      "province": "Ca Mau",
+      "latitude": 9.1768,
+      "longitude": 105.1524,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Ba Dinh",
+      "province": "Hanoi",
+      "latitude": 21.0365,
+      "longitude": 105.8268,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Sóc Trăng",
+      "province": "Can Tho City",
+      "latitude": 9.5999,
+      "longitude": 105.9719,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Chí Linh",
+      "province": "Hai Phong",
+      "latitude": 21.0667,
+      "longitude": 106.3167,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Quận Ba",
+      "province": "Ho Chi Minh City (HCMC)",
+      "latitude": 10.7749,
+      "longitude": 106.6863,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Tân An",
+      "province": "Tay Ninh",
+      "latitude": 10.5359,
+      "longitude": 106.4137,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Sa Dec",
+      "province": "Dong Thap",
+      "latitude": 10.2909,
+      "longitude": 105.7563,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Cao Lãnh",
+      "province": "Dong Thap",
+      "latitude": 10.4602,
+      "longitude": 105.6329,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Phan Rang-Tháp Chàm",
+      "province": "Khanh Hoa",
+      "latitude": 11.5643,
+      "longitude": 108.9886,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Việt Yên",
+      "province": "Bac Ninh",
+      "latitude": 21.2667,
+      "longitude": 106.1333,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Kon Tum",
+      "province": "Quang Ngai",
+      "latitude": 14.3545,
+      "longitude": 108.0076,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Thanh Khê",
+      "province": "Da Nang City",
+      "latitude": 16.0706,
+      "longitude": 108.191,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Lạng Sơn",
+      "province": "谅山省",
+      "latitude": 21.8526,
+      "longitude": 106.761,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Thuận Thanh",
+      "province": "Bac Ninh",
+      "latitude": 21.046,
+      "longitude": 106.079,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Quận Bốn",
+      "province": "Ho Chi Minh City (HCMC)",
+      "latitude": 10.7668,
+      "longitude": 106.7057,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "锦普市",
+      "name_en": "Cẩm Phả",
+      "province": "广宁省",
+      "latitude": 21.01,
+      "longitude": 107.2734,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Quận Năm",
+      "province": "Ho Chi Minh City (HCMC)",
+      "latitude": 10.7557,
+      "longitude": 106.6675,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Vĩnh Châu",
+      "province": "Can Tho City",
+      "latitude": 9.3244,
+      "longitude": 105.9801,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Phúc Yên",
+      "province": "Phu Tho",
+      "latitude": 21.237,
+      "longitude": 105.7048,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Phú Quốc",
+      "province": "An Giang",
+      "latitude": 10.2241,
+      "longitude": 103.9716,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Thị Trấn Đại Từ",
+      "province": "Thai Nguyen",
+      "latitude": 21.6338,
+      "longitude": 105.6377,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Tân Châu",
+      "province": "An Giang",
+      "latitude": 10.7983,
+      "longitude": 105.2389,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Long Khánh",
+      "province": "Dong Nai",
+      "latitude": 10.9266,
+      "longitude": 107.2478,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Bảo Lộc",
+      "province": "Lam Dong",
+      "latitude": 11.548,
+      "longitude": 107.8077,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Tây Hồ",
+      "province": "Hanoi",
+      "latitude": 21.069,
+      "longitude": 105.8105,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Đồng Xoài",
+      "province": "Dong Nai",
+      "latitude": 11.535,
+      "longitude": 106.8832,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Tam Kỳ",
+      "province": "Da Nang City",
+      "latitude": 15.5736,
+      "longitude": 108.474,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Ðông Hà",
+      "province": "Quang Tri",
+      "latitude": 16.8163,
+      "longitude": 107.1003,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Trảng Bàng",
+      "province": "Tay Ninh",
+      "latitude": 11.0299,
+      "longitude": 106.3575,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Đưc Trọng",
+      "province": "Lam Dong",
+      "latitude": 11.7356,
+      "longitude": 108.3733,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "罗夷市社",
+      "name_en": "La Gi",
+      "province": "Lam Dong",
+      "latitude": 10.6599,
+      "longitude": 107.7721,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Thành phố Trà Vinh",
+      "province": "Vinh Long",
+      "latitude": 9.9472,
+      "longitude": 106.3423,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Thốt Nốt",
+      "province": "Can Tho City",
+      "latitude": 10.2721,
+      "longitude": 105.5338,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Bạc Liêu",
+      "province": "Ca Mau",
+      "latitude": 9.2941,
+      "longitude": 105.7278,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "绥和市",
+      "name_en": "Tuy Hòa",
+      "province": "Dak Lak",
+      "latitude": 13.0955,
+      "longitude": 109.3209,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Đức Phổ",
+      "province": "Quang Ngai",
+      "latitude": 14.8135,
+      "longitude": 108.9593,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Thị Trấn Thuận Châu",
+      "province": "山罗省",
+      "latitude": 21.4385,
+      "longitude": 103.69,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Cần Giuộc",
+      "province": "Tay Ninh",
+      "latitude": 10.6086,
+      "longitude": 106.6714,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Kỳ Anh",
+      "province": "河静省",
+      "latitude": 18.0624,
+      "longitude": 106.2983,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Hòa Thành",
+      "province": "Tay Ninh",
+      "latitude": 11.287,
+      "longitude": 106.1294,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "金兰市",
+      "name_en": "Cam Ranh",
+      "province": "Khanh Hoa",
+      "latitude": 11.9214,
+      "longitude": 109.1591,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Giá Rai",
+      "province": "Ca Mau",
+      "latitude": 9.2344,
+      "longitude": 105.4583,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Huyện Lâm Hà",
+      "province": "Lam Dong",
+      "latitude": 11.8155,
+      "longitude": 108.2144,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Tịnh Biên",
+      "province": "An Giang",
+      "latitude": 10.5959,
+      "longitude": 104.9367,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Cai Lậy",
+      "province": "Dong Thap",
+      "latitude": 10.4,
+      "longitude": 106.1167,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Vĩnh Long",
+      "province": "Vinh Long",
+      "latitude": 10.2537,
+      "longitude": 105.9722,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Phủ Lý",
+      "province": "Ninh Binh",
+      "latitude": 20.5453,
+      "longitude": 105.9122,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Hoàn Kiếm",
+      "province": "Hanoi",
+      "latitude": 21.0286,
+      "longitude": 105.8506,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Cẩm Phả Mines",
+      "province": "广宁省",
+      "latitude": 21.0167,
+      "longitude": 107.3,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "西宁市",
+      "name_en": "Tây Ninh",
+      "province": "Tay Ninh",
+      "latitude": 11.31,
+      "longitude": 106.0983,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "同海市",
+      "name_en": "Đồng Hới",
+      "province": "Quang Tri",
+      "latitude": 17.4688,
+      "longitude": 106.6223,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Quận Đức Thịnh",
+      "province": "",
+      "latitude": 10.3099,
+      "longitude": 105.7386,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Hải Châu",
+      "province": "Da Nang City",
+      "latitude": 15.9167,
+      "longitude": 108.1333,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "老街市",
+      "name_en": "Lào Cai",
+      "province": "Lao Cai",
+      "latitude": 22.4856,
+      "longitude": 103.9707,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Sầm Sơn",
+      "province": "清化省",
+      "latitude": 19.7333,
+      "longitude": 105.9,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Ô Môn",
+      "province": "Can Tho City",
+      "latitude": 10.1097,
+      "longitude": 105.6232,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Thành phố Sông Công",
+      "province": "Thai Nguyen",
+      "latitude": 21.4772,
+      "longitude": 105.8414,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Buôn Hồ",
+      "province": "Dak Lak",
+      "latitude": 12.9523,
+      "longitude": 108.2962,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Chũ",
+      "province": "Bac Ninh",
+      "latitude": 21.3738,
+      "longitude": 106.5665,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bến Tre",
+      "province": "Vinh Long",
+      "latitude": 10.2415,
+      "longitude": 106.3758,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Chơn Thành",
+      "province": "Dong Nai",
+      "latitude": 11.4282,
+      "longitude": 106.6354,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Bồ Đề",
+      "province": "Hanoi",
+      "latitude": 21.0562,
+      "longitude": 105.8667,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Hòa Cường",
+      "province": "Da Nang City",
+      "latitude": 16.0431,
+      "longitude": 108.1821,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Vĩnh Yên",
+      "province": "Phu Tho",
+      "latitude": 21.3089,
+      "longitude": 105.6049,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bắc Quang",
+      "province": "Tuyen Quang",
+      "latitude": 22.4833,
+      "longitude": 104.8667,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Hưng Yên",
+      "province": "Hưng Yên Province",
+      "latitude": 20.6464,
+      "longitude": 106.0511,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Kiến An",
+      "province": "Hai Phong",
+      "latitude": 20.8053,
+      "longitude": 106.6256,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Nghi Xuân",
+      "province": "河静省",
+      "latitude": 18.658,
+      "longitude": 105.752,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Cờ Đỏ",
+      "province": "Can Tho City",
+      "latitude": 10.0938,
+      "longitude": 105.4292,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Mỹ Hào",
+      "province": "Hưng Yên Province",
+      "latitude": 20.9167,
+      "longitude": 106.0833,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Phong Điền",
+      "province": "Thừa Thiên Huế Province",
+      "latitude": 16.5832,
+      "longitude": 107.3644,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "波来古市",
+      "name_en": "Pleiku",
+      "province": "Gia Lai",
+      "latitude": 13.9833,
+      "longitude": 108.0,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Bình Thủy",
+      "province": "Can Tho City",
+      "latitude": 10.0743,
+      "longitude": 105.7397,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Hoàng Mai",
+      "province": "Nghệ An Province",
+      "latitude": 19.2676,
+      "longitude": 105.7159,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Gò Vấp",
+      "province": "Ho Chi Minh City (HCMC)",
+      "latitude": 10.8167,
+      "longitude": 106.6833,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Thới Lai",
+      "province": "Can Tho City",
+      "latitude": 10.0652,
+      "longitude": 105.5586,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Móng Cái",
+      "province": "广宁省",
+      "latitude": 21.5247,
+      "longitude": 107.9662,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Yên Vinh",
+      "province": "Nghệ An Province",
+      "latitude": 18.6667,
+      "longitude": 105.6667,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ba Đồn",
+      "province": "Quang Tri",
+      "latitude": 17.7535,
+      "longitude": 106.4236,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "山罗市",
+      "name_en": "Sơn La",
+      "province": "山罗省",
+      "latitude": 21.3256,
+      "longitude": 103.9188,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Hòa Bình",
+      "province": "Phu Tho",
+      "latitude": 20.8172,
+      "longitude": 105.3376,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Tuyên Quang",
+      "province": "Tuyen Quang",
+      "latitude": 21.8236,
+      "longitude": 105.2142,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ngã Bảy",
+      "province": "Can Tho City",
+      "latitude": 9.8137,
+      "longitude": 105.821,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Hồng Ngự",
+      "province": "Dong Thap",
+      "latitude": 10.8,
+      "longitude": 105.35,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Yên Bái",
+      "province": "Lao Cai",
+      "latitude": 21.7229,
+      "longitude": 104.9113,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Hà Tiên",
+      "province": "An Giang",
+      "latitude": 10.3831,
+      "longitude": 104.4875,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Phong Điền",
+      "province": "Can Tho City",
+      "latitude": 16.5832,
+      "longitude": 107.3644,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Vĩnh Thạnh",
+      "province": "Can Tho City",
+      "latitude": 10.2226,
+      "longitude": 105.3984,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Gò Công",
+      "province": "Dong Thap",
+      "latitude": 10.3667,
+      "longitude": 106.6667,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Nghĩa Đô",
+      "province": "Hanoi",
+      "latitude": 21.05,
+      "longitude": 105.8,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Hương Thủy",
+      "province": "Thừa Thiên Huế Province",
+      "latitude": 16.4218,
+      "longitude": 107.64,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Bình Minh",
+      "province": "Vinh Long",
+      "latitude": 10.0682,
+      "longitude": 105.8222,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Sông Cầu",
+      "province": "Dak Lak",
+      "latitude": 13.4556,
+      "longitude": 109.2235,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Phú Thọ",
+      "province": "Phu Tho",
+      "latitude": 21.3996,
+      "longitude": 105.2222,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bạch Mai",
+      "province": "Hanoi",
+      "latitude": 20.9833,
+      "longitude": 105.8333,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Tân Bình",
+      "province": "Ho Chi Minh City (HCMC)",
+      "latitude": 10.8025,
+      "longitude": 106.66,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Thượng Cát",
+      "province": "Hanoi",
+      "latitude": 21.0934,
+      "longitude": 105.7319,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Sơn Trà",
+      "province": "Da Nang City",
+      "latitude": 16.0607,
+      "longitude": 108.2326,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Vĩnh Tuy",
+      "province": "Hanoi",
+      "latitude": 21.0,
+      "longitude": 105.8833,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Cái Răng",
+      "province": "Can Tho City",
+      "latitude": 10.0009,
+      "longitude": 105.751,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Sóc Sơn",
+      "province": "Hanoi",
+      "latitude": 21.2578,
+      "longitude": 105.8489,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Gia Nghĩa",
+      "province": "Lam Dong",
+      "latitude": 12.0042,
+      "longitude": 107.6907,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "奠边府",
+      "name_en": "Dien Bien Phu",
+      "province": "Điện Biên Province",
+      "latitude": 21.386,
+      "longitude": 103.023,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Cam Lộ",
+      "province": "Quang Tri",
+      "latitude": 16.808,
+      "longitude": 106.9941,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "An Hải",
+      "province": "Da Nang City",
+      "latitude": 16.0667,
+      "longitude": 108.2333,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "An Khê",
+      "province": "Gia Lai",
+      "latitude": 13.95,
+      "longitude": 108.65,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Cung Kiệm",
+      "province": "Bac Ninh",
+      "latitude": 21.187,
+      "longitude": 106.1608,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Cẩm Lệ",
+      "province": "Da Nang City",
+      "latitude": 16.0177,
+      "longitude": 108.2038,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Yên Hòa",
+      "province": "Hanoi",
+      "latitude": 21.0219,
+      "longitude": 105.7915,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Thanh Liệt",
+      "province": "Hanoi",
+      "latitude": 20.9667,
+      "longitude": 105.8167,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Củ Chi",
+      "province": "Ho Chi Minh City (HCMC)",
+      "latitude": 10.9733,
+      "longitude": 106.4933,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "カオバン市",
+      "name_en": "Cao Bằng",
+      "province": "高平省",
+      "latitude": 22.6657,
+      "longitude": 106.2579,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Hương Trà",
+      "province": "Thừa Thiên Huế Province",
+      "latitude": 16.5254,
+      "longitude": 107.4755,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Thị Trấn Mạo Khê",
+      "province": "广宁省",
+      "latitude": 21.0586,
+      "longitude": 106.5926,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Cổ Đô",
+      "province": "Hanoi",
+      "latitude": 21.2796,
+      "longitude": 105.364,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Châu Đốc",
+      "province": "An Giang",
+      "latitude": 10.7,
+      "longitude": 105.1167,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Linh Đàm",
+      "province": "Hanoi",
+      "latitude": 20.9644,
+      "longitude": 105.8305,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Duyên Hải",
+      "province": "Vinh Long",
+      "latitude": 9.635,
+      "longitude": 106.4924,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Núi Thành",
+      "province": "Da Nang City",
+      "latitude": 15.4319,
+      "longitude": 108.6595,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Nghĩa Lộ",
+      "province": "Lao Cai",
+      "latitude": 21.6,
+      "longitude": 104.5167,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Thái Hòa",
+      "province": "Nghệ An Province",
+      "latitude": 18.9203,
+      "longitude": 104.9744,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Thành Phố Uông Bí",
+      "province": "广宁省",
+      "latitude": 21.0343,
+      "longitude": 106.7705,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Long Mỹ",
+      "province": "Can Tho City",
+      "latitude": 9.6814,
+      "longitude": 105.5723,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Vinhomes Ocean Park",
+      "province": "Hanoi",
+      "latitude": 20.9948,
+      "longitude": 105.9465,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Dại Mỗ",
+      "province": "Hanoi",
+      "latitude": 20.9833,
+      "longitude": 105.7667,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ngã Năm",
+      "province": "Can Tho City",
+      "latitude": 9.5651,
+      "longitude": 105.599,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Trảng Bom",
+      "province": "Dong Nai",
+      "latitude": 10.9536,
+      "longitude": 107.0059,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Châu Phong",
+      "province": "An Giang",
+      "latitude": 10.7167,
+      "longitude": 105.1333,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Trần Văn Thời",
+      "province": "Ca Mau",
+      "latitude": 9.0771,
+      "longitude": 104.9791,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "ハザン市",
+      "name_en": "Hà Giang",
+      "province": "Tuyen Quang",
+      "latitude": 22.8233,
+      "longitude": 104.9836,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Cần Giờ",
+      "province": "Ho Chi Minh City (HCMC)",
+      "latitude": 10.4111,
+      "longitude": 106.9547,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Xóm Cái Nước",
+      "province": "An Giang",
+      "latitude": 9.8,
+      "longitude": 105.1,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Phong Thạnh",
+      "province": "Ca Mau",
+      "latitude": 9.3236,
+      "longitude": 105.3464,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Bỉm Sơn",
+      "province": "清化省",
+      "latitude": 20.0781,
+      "longitude": 105.8603,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Thái Bình",
+      "province": "Hưng Yên Province",
+      "latitude": 20.45,
+      "longitude": 106.34,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Tân Uyên",
+      "province": "Ho Chi Minh City (HCMC)",
+      "latitude": 11.0842,
+      "longitude": 106.7883,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Cửa Nam",
+      "province": "Hanoi",
+      "latitude": 21.0211,
+      "longitude": 105.8523,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Thị Trấn Phước Bửu",
+      "province": "Ho Chi Minh City (HCMC)",
+      "latitude": 10.5347,
+      "longitude": 107.402,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Đố Sơn",
+      "province": "Hai Phong",
+      "latitude": 20.7136,
+      "longitude": 106.7894,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Hà Đông",
+      "province": "Hanoi",
+      "latitude": 20.9714,
+      "longitude": 105.7788,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Cần Đước",
+      "province": "Tay Ninh",
+      "latitude": 10.5097,
+      "longitude": 106.6031,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Mui Ne",
+      "province": "Lam Dong",
+      "latitude": 10.9331,
+      "longitude": 108.2833,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Vinhomes Smart City",
+      "province": "Hanoi",
+      "latitude": 21.0045,
+      "longitude": 105.7404,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Vinhomes Times City",
+      "province": "Hanoi",
+      "latitude": 20.9945,
+      "longitude": 105.8677,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Thị Trấn Ngải Giao",
+      "province": "Ho Chi Minh City (HCMC)",
+      "latitude": 10.6471,
+      "longitude": 107.2458,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Phú Khương",
+      "province": "Tay Ninh",
+      "latitude": 11.2833,
+      "longitude": 106.1333,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Thị Trấn Đầm Hà",
+      "province": "广宁省",
+      "latitude": 21.3531,
+      "longitude": 107.5972,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Tây Mỗ",
+      "province": "Hanoi",
+      "latitude": 21.0025,
+      "longitude": 105.7457,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Bắc Kạn",
+      "province": "Thai Nguyen",
+      "latitude": 22.147,
+      "longitude": 105.8348,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Lai Châu",
+      "province": "莱州省",
+      "latitude": 22.3964,
+      "longitude": 103.4582,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ấp Một",
+      "province": "Can Tho City",
+      "latitude": 9.8422,
+      "longitude": 105.536,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Mai Dịch",
+      "province": "Hanoi",
+      "latitude": 21.0333,
+      "longitude": 105.7833,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Đan Phượng",
+      "province": "Hanoi",
+      "latitude": 21.0892,
+      "longitude": 105.6625,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Óc Eo",
+      "province": "An Giang",
+      "latitude": 10.2421,
+      "longitude": 105.155,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Lương Bằng",
+      "province": "Hưng Yên Province",
+      "latitude": 20.74,
+      "longitude": 106.06,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Hưng Mỹ",
+      "province": "Ca Mau",
+      "latitude": 8.9,
+      "longitude": 104.9833,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Thới Bình",
+      "province": "Ca Mau",
+      "latitude": 9.3558,
+      "longitude": 105.0993,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "鸿岭市社",
+      "name_en": "Hồng Lĩnh",
+      "province": "河静省",
+      "latitude": 18.5286,
+      "longitude": 105.7064,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ninh Bình",
+      "province": "Ninh Binh",
+      "latitude": 20.2581,
+      "longitude": 105.9797,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Cái Đôi Vàm",
+      "province": "Ca Mau",
+      "latitude": 8.8571,
+      "longitude": 104.812,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Ô Chợ Dừa",
+      "province": "Hanoi",
+      "latitude": 21.0215,
+      "longitude": 105.8246,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Quán Hàu",
+      "province": "Quang Tri",
+      "latitude": 17.4044,
+      "longitude": 106.6407,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Dương Minh Châu",
+      "province": "Tay Ninh",
+      "latitude": 11.3841,
+      "longitude": 106.2308,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Xã Long Hải",
+      "province": "Ho Chi Minh City (HCMC)",
+      "latitude": 10.3871,
+      "longitude": 107.2388,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "A Yun Pa",
+      "province": "Gia Lai",
+      "latitude": 13.4002,
+      "longitude": 108.435,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Hàm Ninh",
+      "province": "An Giang",
+      "latitude": 10.1806,
+      "longitude": 104.0477,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Thị Trấn Lam Sơn",
+      "province": "清化省",
+      "latitude": 19.9047,
+      "longitude": 105.4056,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Thị Trấn Phố Lu",
+      "province": "Lao Cai",
+      "latitude": 22.3192,
+      "longitude": 104.1872,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "会安市",
+      "name_en": "Hoi An",
+      "province": "Da Nang City",
+      "latitude": 15.8794,
+      "longitude": 108.335,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Xóm Mỹ Xuân",
+      "province": "Ho Chi Minh City (HCMC)",
+      "latitude": 10.6167,
+      "longitude": 107.0667,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Gành Hào",
+      "province": "Ca Mau",
+      "latitude": 9.0283,
+      "longitude": 105.4212,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Láng Thượng",
+      "province": "Hanoi",
+      "latitude": 21.0237,
+      "longitude": 105.8036,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Năm Căn",
+      "province": "Ca Mau",
+      "latitude": 8.759,
+      "longitude": 104.9929,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Trâu Quỳ",
+      "province": "Hanoi",
+      "latitude": 21.0195,
+      "longitude": 105.9369,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Cát Bà",
+      "province": "Hai Phong",
+      "latitude": 20.7278,
+      "longitude": 107.0482,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Tu Bông",
+      "province": "Khanh Hoa",
+      "latitude": 12.7667,
+      "longitude": 109.3,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "An Trạch",
+      "province": "Ca Mau",
+      "latitude": 9.0686,
+      "longitude": 105.3958,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Dịch Vọng",
+      "province": "Hanoi",
+      "latitude": 21.0333,
+      "longitude": 105.8,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "河静市",
+      "name_en": "Hà Tĩnh",
+      "province": "河静省",
+      "latitude": 18.3428,
+      "longitude": 105.9057,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Cầu Diễn",
+      "province": "Hanoi",
+      "latitude": 21.0393,
+      "longitude": 105.7666,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Quảng Phú",
+      "province": "Dak Lak",
+      "latitude": 12.8196,
+      "longitude": 108.0774,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Núi Sập",
+      "province": "An Giang",
+      "latitude": 10.2648,
+      "longitude": 105.2668,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Phú Quý",
+      "province": "Lam Dong",
+      "latitude": 10.5166,
+      "longitude": 108.9329,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Phước An",
+      "province": "Dak Lak",
+      "latitude": 12.713,
+      "longitude": 108.3015,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Xuân Mai",
+      "province": "Hanoi",
+      "latitude": 20.9,
+      "longitude": 105.5833,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Ecopark",
+      "province": "Hưng Yên Province",
+      "latitude": 20.9621,
+      "longitude": 105.9318,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Quang Minh",
+      "province": "Hanoi",
+      "latitude": 21.1888,
+      "longitude": 105.7727,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Vị Thanh",
+      "province": "Can Tho City",
+      "latitude": 9.7845,
+      "longitude": 105.4701,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Thị Trấn Na Dương",
+      "province": "谅山省",
+      "latitude": 21.7025,
+      "longitude": 106.9555,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Mỹ Khê",
+      "province": "Quang Ngai",
+      "latitude": 15.15,
+      "longitude": 108.9,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Mỹ Lại",
+      "province": "Quang Ngai",
+      "latitude": 15.1876,
+      "longitude": 108.889,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Yên Phụ",
+      "province": "Hanoi",
+      "latitude": 21.0333,
+      "longitude": 105.8333,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Buôn Trấp",
+      "province": "Dak Lak",
+      "latitude": 12.4848,
+      "longitude": 108.0298,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "thị xã Quảng Trị",
+      "province": "Quang Tri",
+      "latitude": 16.7508,
+      "longitude": 107.1828,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Tam Giang",
+      "province": "Ca Mau",
+      "latitude": 8.8,
+      "longitude": 105.1833,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Kiên Hải",
+      "province": "An Giang",
+      "latitude": 9.9727,
+      "longitude": 104.8475,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Tràm Chim",
+      "province": "Dong Thap",
+      "latitude": 10.67,
+      "longitude": 105.5647,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Ấp Hô Phòng",
+      "province": "Ca Mau",
+      "latitude": 9.2258,
+      "longitude": 105.4186,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Lý Sơn",
+      "province": "Quang Ngai",
+      "latitude": 15.372,
+      "longitude": 109.1189,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Thị Trấn Tiên Yên",
+      "province": "广宁省",
+      "latitude": 21.3313,
+      "longitude": 107.4053,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Ấp Phước Tĩnh",
+      "province": "Ho Chi Minh City (HCMC)",
+      "latitude": 10.4,
+      "longitude": 107.1833,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Diễn Thành",
+      "province": "Nghệ An Province",
+      "latitude": 18.9765,
+      "longitude": 105.6003,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ea Drăng",
+      "province": "Dak Lak",
+      "latitude": 13.2045,
+      "longitude": 108.2103,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Liễu Giai",
+      "province": "Hanoi",
+      "latitude": 21.0333,
+      "longitude": 105.8167,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Mường Lay",
+      "province": "Điện Biên Province",
+      "latitude": 22.0,
+      "longitude": 103.1333,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Thị Trấn Nước Hai",
+      "province": "高平省",
+      "latitude": 22.7374,
+      "longitude": 106.1522,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Thị Trấn Đất Đỏ",
+      "province": "Ho Chi Minh City (HCMC)",
+      "latitude": 10.4909,
+      "longitude": 107.2701,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Thị Trấn Thất Khê",
+      "province": "谅山省",
+      "latitude": 22.2553,
+      "longitude": 106.4736,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Vinhomes Royal City",
+      "province": "Hanoi",
+      "latitude": 21.0028,
+      "longitude": 105.8151,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Nghèn",
+      "province": "河静省",
+      "latitude": 18.4512,
+      "longitude": 105.7797,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Thị Trấn Trùng Khánh",
+      "province": "高平省",
+      "latitude": 22.8351,
+      "longitude": 106.525,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Thị Trấn Ba Chẽ",
+      "province": "广宁省",
+      "latitude": 21.2716,
+      "longitude": 107.2836,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Nhà Bè",
+      "province": "Ho Chi Minh City (HCMC)",
+      "latitude": 10.6967,
+      "longitude": 106.7403,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Bến Thủy",
+      "province": "Nghệ An Province",
+      "latitude": 18.65,
+      "longitude": 105.7,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Trung Phụng",
+      "province": "Hanoi",
+      "latitude": 21.0,
+      "longitude": 105.8333,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Cổ Lóa",
+      "province": "Hanoi",
+      "latitude": 21.1167,
+      "longitude": 105.8667,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Đại Lộc",
+      "province": "Da Nang City",
+      "latitude": 15.8821,
+      "longitude": 108.1209,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Ít Ong",
+      "province": "山罗省",
+      "latitude": 21.5175,
+      "longitude": 104.027,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Thị Trấn Việt Quang",
+      "province": "Tuyen Quang",
+      "latitude": 22.4151,
+      "longitude": 104.8068,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Đinh Văn",
+      "province": "Lam Dong",
+      "latitude": 11.7862,
+      "longitude": 108.2428,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Phú Đô",
+      "province": "Hanoi",
+      "latitude": 21.0167,
+      "longitude": 105.7667,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Phước Hòa",
+      "province": "Dong Nai",
+      "latitude": 12.1,
+      "longitude": 107.1167,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Ấp Bình Châu",
+      "province": "Ho Chi Minh City (HCMC)",
+      "latitude": 10.55,
+      "longitude": 107.55,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Bà Nà",
+      "province": "Da Nang City",
+      "latitude": 15.9833,
+      "longitude": 107.9833,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Bình Long",
+      "province": "Dong Nai",
+      "latitude": 11.6471,
+      "longitude": 106.6059,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Dương Đông",
+      "province": "An Giang",
+      "latitude": 10.2172,
+      "longitude": 103.9593,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Quỳnh Lôi",
+      "province": "Hanoi",
+      "latitude": 20.9833,
+      "longitude": 105.8667,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Yên Viên",
+      "province": "Hanoi",
+      "latitude": 21.0833,
+      "longitude": 105.9167,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ông Yến",
+      "province": "Ca Mau",
+      "latitude": 9.483,
+      "longitude": 105.3459,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Thị Trấn Na Sầm",
+      "province": "谅山省",
+      "latitude": 22.0564,
+      "longitude": 106.6151,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Thổ Tăng",
+      "province": "Phu Tho",
+      "latitude": 21.2553,
+      "longitude": 105.4894,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Khe Sanh",
+      "province": "Quang Tri",
+      "latitude": 16.6283,
+      "longitude": 106.7388,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Mường Chà",
+      "province": "Điện Biên Province",
+      "latitude": 21.7617,
+      "longitude": 103.0978,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Thụy Phương",
+      "province": "Hanoi",
+      "latitude": 21.0833,
+      "longitude": 105.7833,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Thạch Hà",
+      "province": "河静省",
+      "latitude": 18.3679,
+      "longitude": 105.8612,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ngọc Hồi",
+      "province": "Hanoi",
+      "latitude": 20.9219,
+      "longitude": 105.852,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Rạch Gốc",
+      "province": "Ca Mau",
+      "latitude": 8.6119,
+      "longitude": 105.0051,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Ba Chúc",
+      "province": "An Giang",
+      "latitude": 10.4943,
+      "longitude": 104.9072,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Côn Đảo",
+      "province": "Ho Chi Minh City (HCMC)",
+      "latitude": 8.7029,
+      "longitude": 106.6489,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Thị Trấn Ba Hàng",
+      "province": "Thai Nguyen",
+      "latitude": 21.4155,
+      "longitude": 105.8732,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Hồ Xá",
+      "province": "Quang Tri",
+      "latitude": 17.0684,
+      "longitude": 107.0052,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Tây Đằng",
+      "province": "Hanoi",
+      "latitude": 21.1981,
+      "longitude": 105.4222,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Lao Bảo",
+      "province": "Quang Tri",
+      "latitude": 16.6141,
+      "longitude": 106.6007,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Cẩm Xuyên",
+      "province": "河静省",
+      "latitude": 18.2503,
+      "longitude": 106.0013,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ea Na",
+      "province": "Dak Lak",
+      "latitude": 12.5429,
+      "longitude": 107.9898,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Thị Trấn Yên Bình",
+      "province": "Lao Cai",
+      "latitude": 21.7259,
+      "longitude": 104.9635,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Phú Túc",
+      "province": "Gia Lai",
+      "latitude": 13.1968,
+      "longitude": 108.6904,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Suối Nghệ",
+      "province": "Ho Chi Minh City (HCMC)",
+      "latitude": 10.5919,
+      "longitude": 107.2162,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Cửa Lô",
+      "province": "Nghệ An Province",
+      "latitude": 18.8167,
+      "longitude": 105.7167,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Trại Khoai",
+      "province": "Hanoi",
+      "latitude": 21.1317,
+      "longitude": 105.3448,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Kép",
+      "province": "Bac Ninh",
+      "latitude": 21.4,
+      "longitude": 106.2667,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Đức Thọ",
+      "province": "河静省",
+      "latitude": 18.5396,
+      "longitude": 105.583,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Mường Nhé",
+      "province": "Điện Biên Province",
+      "latitude": 22.1924,
+      "longitude": 102.4579,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Xuân Trùng",
+      "province": "Phu Tho",
+      "latitude": 21.0575,
+      "longitude": 105.2838,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Hàng Trạm",
+      "province": "Phu Tho",
+      "latitude": 20.3947,
+      "longitude": 105.6224,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Phụng Nghia",
+      "province": "Hanoi",
+      "latitude": 20.95,
+      "longitude": 105.7167,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Lăng Cô",
+      "province": "Thừa Thiên Huế Province",
+      "latitude": 16.2387,
+      "longitude": 108.0804,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Đại Nghĩa",
+      "province": "Da Nang City",
+      "latitude": 15.879,
+      "longitude": 108.089,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Hương Khê",
+      "province": "河静省",
+      "latitude": 18.1767,
+      "longitude": 105.7002,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Đại Quang",
+      "province": "Da Nang City",
+      "latitude": 15.8667,
+      "longitude": 108.05,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Đại Đồng",
+      "province": "Da Nang City",
+      "latitude": 15.8744,
+      "longitude": 108.0213,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Sa Pa",
+      "province": "Lao Cai",
+      "latitude": 22.3402,
+      "longitude": 103.8441,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "庆永安",
+      "name_en": "Khánh Vĩnh Yên",
+      "province": "河静省",
+      "latitude": 18.4631,
+      "longitude": 105.7131,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Nguyễn Du",
+      "province": "Hanoi",
+      "latitude": 21.0167,
+      "longitude": 105.85,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Tra Que Vegetable Village",
+      "province": "Da Nang City",
+      "latitude": 15.9022,
+      "longitude": 108.3388,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Ấp Bình Chánh",
+      "province": "An Giang",
+      "latitude": 10.5533,
+      "longitude": 105.2581,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Lim",
+      "province": "Bac Ninh",
+      "latitude": 21.1439,
+      "longitude": 106.0202,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Xuyên Mộc",
+      "province": "Ho Chi Minh City (HCMC)",
+      "latitude": 10.5667,
+      "longitude": 107.4167,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Xã Bình Giả",
+      "province": "Ho Chi Minh City (HCMC)",
+      "latitude": 10.65,
+      "longitude": 107.2667,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Vụ Bản",
+      "province": "Phu Tho",
+      "latitude": 20.4642,
+      "longitude": 105.4435,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Lộc Bình",
+      "province": "谅山省",
+      "latitude": 21.7587,
+      "longitude": 106.9233,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ông Do",
+      "province": "Ca Mau",
+      "latitude": 8.8243,
+      "longitude": 105.0087,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Ấp Xuân Sơn",
+      "province": "Ho Chi Minh City (HCMC)",
+      "latitude": 10.65,
+      "longitude": 107.35,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Sa Rài",
+      "province": "Dong Thap",
+      "latitude": 10.8702,
+      "longitude": 105.4658,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Liên Quan",
+      "province": "Hanoi",
+      "latitude": 21.0572,
+      "longitude": 105.5792,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Ấp Tân Mỹ",
+      "province": "Dong Thap",
+      "latitude": 10.6167,
+      "longitude": 105.5167,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Thị Trấn Đồng Đăng",
+      "province": "谅山省",
+      "latitude": 21.9511,
+      "longitude": 106.6977,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Kim Song Trường",
+      "province": "河静省",
+      "latitude": 18.4634,
+      "longitude": 105.6873,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Ấp Tân Ngãi",
+      "province": "Vinh Long",
+      "latitude": 10.2333,
+      "longitude": 106.2833,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Thị Trấn Phố Ràng",
+      "province": "Lao Cai",
+      "latitude": 22.2343,
+      "longitude": 104.4764,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Vượng Lộc",
+      "province": "河静省",
+      "latitude": 18.4806,
+      "longitude": 105.7337,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Trường Sơn",
+      "province": "河静省",
+      "latitude": 18.3833,
+      "longitude": 105.7333,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "U Minh",
+      "province": "Ca Mau",
+      "latitude": 9.4129,
+      "longitude": 104.9735,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Thị Trấn Cao Lộc",
+      "province": "谅山省",
+      "latitude": 21.8665,
+      "longitude": 106.7683,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Tuần Giáo",
+      "province": "Điện Biên Province",
+      "latitude": 21.5833,
+      "longitude": 103.4167,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Phố Châu",
+      "province": "河静省",
+      "latitude": 18.5133,
+      "longitude": 105.4241,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Nhã Nam",
+      "province": "Bac Ninh",
+      "latitude": 21.45,
+      "longitude": 106.1,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Đại Cường",
+      "province": "Da Nang City",
+      "latitude": 15.85,
+      "longitude": 108.0833,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Tùng Lộc",
+      "province": "河静省",
+      "latitude": 18.4576,
+      "longitude": 105.8148,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Đường Lâm",
+      "province": "Hanoi",
+      "latitude": 21.1533,
+      "longitude": 105.4712,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Vân Tùng",
+      "province": "Thai Nguyen",
+      "latitude": 22.4308,
+      "longitude": 105.9969,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "An Hà",
+      "province": "Da Nang City",
+      "latitude": 15.5833,
+      "longitude": 108.4833,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Tân Ninh",
+      "province": "Dong Thap",
+      "latitude": 10.3335,
+      "longitude": 106.4449,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Thuần Thiện",
+      "province": "河静省",
+      "latitude": 18.4742,
+      "longitude": 105.7869,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Thị Trấn Đồng Văn",
+      "province": "Tuyen Quang",
+      "latitude": 23.2784,
+      "longitude": 105.3629,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Phúc Sơn",
+      "province": "Nghệ An Province",
+      "latitude": 18.9667,
+      "longitude": 105.05,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Ich Hau",
+      "province": "河静省",
+      "latitude": 18.45,
+      "longitude": 105.85,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Tú Trưng",
+      "province": "Phu Tho",
+      "latitude": 21.1989,
+      "longitude": 105.5328,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Buôn Tur",
+      "province": "Dak Lak",
+      "latitude": 12.5,
+      "longitude": 108.0167,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Ea Súp",
+      "province": "Dak Lak",
+      "latitude": 13.0662,
+      "longitude": 107.8855,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Xuân Lộc",
+      "province": "河静省",
+      "latitude": 10.9333,
+      "longitude": 107.2333,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Phong Châu",
+      "province": "Hanoi",
+      "latitude": 21.2393,
+      "longitude": 105.4325,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Mỹ Lộc",
+      "province": "河静省",
+      "latitude": 18.3653,
+      "longitude": 105.7533,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Gio Linh",
+      "province": "Quang Tri",
+      "latitude": 16.9248,
+      "longitude": 107.0844,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Thị Trấn Mèo Vạc",
+      "province": "Tuyen Quang",
+      "latitude": 23.1641,
+      "longitude": 105.4099,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Côn Sơn",
+      "province": "Ho Chi Minh City (HCMC)",
+      "latitude": 8.6864,
+      "longitude": 106.6082,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Bùi Xá",
+      "province": "河静省",
+      "latitude": 18.3898,
+      "longitude": 105.825,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Bắc Lũng",
+      "province": "Bac Ninh",
+      "latitude": 21.2667,
+      "longitude": 106.3833,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Thị Trấn Khánh Yên",
+      "province": "Lao Cai",
+      "latitude": 22.0893,
+      "longitude": 104.2515,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Thiên Lộc",
+      "province": "河静省",
+      "latitude": 18.5042,
+      "longitude": 105.7688,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Trà My",
+      "province": "Da Nang City",
+      "latitude": 15.3397,
+      "longitude": 108.2207,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Na Lay",
+      "province": "Điện Biên Province",
+      "latitude": 22.0351,
+      "longitude": 103.1535,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Bích Chu",
+      "province": "Phu Tho",
+      "latitude": 21.2072,
+      "longitude": 105.4755,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Gôi",
+      "province": "Ninh Binh",
+      "latitude": 20.3333,
+      "longitude": 106.0783,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Nà Tấu",
+      "province": "Điện Biên Province",
+      "latitude": 21.5064,
+      "longitude": 103.1178,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Sơn Lộc",
+      "province": "河静省",
+      "latitude": 18.3719,
+      "longitude": 105.7795,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Si Pa Phìn",
+      "province": "Điện Biên Province",
+      "latitude": 21.8015,
+      "longitude": 102.9626,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Quang Lộc",
+      "province": "河静省",
+      "latitude": 18.4036,
+      "longitude": 105.7694,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Đồng Lộc",
+      "province": "河静省",
+      "latitude": 18.3761,
+      "longitude": 105.7175,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Vĩnh Tường",
+      "province": "Phu Tho",
+      "latitude": 21.2165,
+      "longitude": 105.5125,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Đại Tân",
+      "province": "Da Nang City",
+      "latitude": 15.8333,
+      "longitude": 108.05,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Thị Trấn Tĩnh Túc",
+      "province": "高平省",
+      "latitude": 22.6535,
+      "longitude": 105.8849,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Gia Hanh",
+      "province": "河静省",
+      "latitude": 18.4245,
+      "longitude": 105.6872,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Xuân Sơn",
+      "province": "Quang Tri",
+      "latitude": 17.6167,
+      "longitude": 106.3167,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Xã An Ngãi",
+      "province": "Ho Chi Minh City (HCMC)",
+      "latitude": 10.4833,
+      "longitude": 107.2333,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Si Ma Cai",
+      "province": "Lao Cai",
+      "latitude": 22.6951,
+      "longitude": 104.2786,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Thị Trấn Sìn Hồ",
+      "province": "莱州省",
+      "latitude": 22.3665,
+      "longitude": 103.2344,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Phúc Trạch",
+      "province": "河静省",
+      "latitude": 18.1333,
+      "longitude": 105.7667,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Than Uyên",
+      "province": "莱州省",
+      "latitude": 21.9591,
+      "longitude": 103.88,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Liên Sơn",
+      "province": "Dak Lak",
+      "latitude": 12.4109,
+      "longitude": 108.1768,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Phú Lộc",
+      "province": "河静省",
+      "latitude": 18.4408,
+      "longitude": 105.6707,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Lay Nưa",
+      "province": "Điện Biên Province",
+      "latitude": 22.0176,
+      "longitude": 103.1162,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Xóm Bến Củi",
+      "province": "Tay Ninh",
+      "latitude": 11.2667,
+      "longitude": 106.35,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Nông Trường Trần Phú",
+      "province": "Lao Cai",
+      "latitude": 21.4824,
+      "longitude": 104.7288,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Quán Hành",
+      "province": "Nghệ An Province",
+      "latitude": 18.7793,
+      "longitude": 105.646,
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "name": "",
+      "name_en": "Nghĩa Đàn",
+      "province": "Nghệ An Province",
+      "latitude": 19.3,
+      "longitude": 105.4333,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "A Lưới",
+      "province": "Thừa Thiên Huế Province",
+      "latitude": 16.2723,
+      "longitude": 107.2339,
+      "timezone": "Asia/Bangkok"
+    }
+  ]
+}

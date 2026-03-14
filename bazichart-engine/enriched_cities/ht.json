@@ -1,0 +1,414 @@
+{
+  "country_code": "HT",
+  "country_name": "海地",
+  "cities": [
+    {
+      "name": "太子港",
+      "name_en": "Port-au-Prince",
+      "province": "西部省",
+      "latitude": 18.5435,
+      "longitude": -72.3388,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "",
+      "name_en": "Carrefour",
+      "province": "西部省",
+      "latitude": 18.5411,
+      "longitude": -72.3992,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "",
+      "name_en": "Delmas",
+      "province": "西部省",
+      "latitude": 18.5448,
+      "longitude": -72.3004,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "和平港",
+      "name_en": "Port-de-Paix",
+      "province": "西北省",
+      "latitude": 19.9398,
+      "longitude": -72.8304,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "",
+      "name_en": "Pétionville",
+      "province": "西部省",
+      "latitude": 18.5125,
+      "longitude": -72.2853,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "",
+      "name_en": "Croix-des-Bouquets",
+      "province": "西部省",
+      "latitude": 18.5768,
+      "longitude": -72.2262,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "雅克梅勒",
+      "name_en": "Jacmel",
+      "province": "东南省",
+      "latitude": 18.2357,
+      "longitude": -72.5369,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "海地角",
+      "name_en": "Cap-Haïtien",
+      "province": "北部省",
+      "latitude": 19.7594,
+      "longitude": -72.1981,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "莱奥甘",
+      "name_en": "Léogâne",
+      "province": "西部省",
+      "latitude": 18.5111,
+      "longitude": -72.6334,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "",
+      "name_en": "Arcahaie",
+      "province": "西部省",
+      "latitude": 18.7702,
+      "longitude": -72.5123,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "莱凯",
+      "name_en": "Les Cayes",
+      "province": "南部省",
+      "latitude": 18.192,
+      "longitude": -73.7495,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "",
+      "name_en": "Tigwav",
+      "province": "西部省",
+      "latitude": 18.4312,
+      "longitude": -72.8652,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "热雷米",
+      "name_en": "Jérémie",
+      "province": "大湾省",
+      "latitude": 18.65,
+      "longitude": -74.1167,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "",
+      "name_en": "Saint-Michel de l'Atalaye",
+      "province": "阿蒂博尼特省",
+      "latitude": 19.3708,
+      "longitude": -72.3347,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "",
+      "name_en": "Miragoâne",
+      "province": "尼普斯省",
+      "latitude": 18.446,
+      "longitude": -73.0896,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "",
+      "name_en": "Gonaïves",
+      "province": "阿蒂博尼特省",
+      "latitude": 19.4475,
+      "longitude": -72.6893,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "",
+      "name_en": "Saint-Marc",
+      "province": "阿蒂博尼特省",
+      "latitude": 19.1114,
+      "longitude": -72.7008,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "",
+      "name_en": "Thomazeau",
+      "province": "西部省",
+      "latitude": 18.653,
+      "longitude": -72.0939,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "",
+      "name_en": "Grangwav",
+      "province": "西部省",
+      "latitude": 18.4259,
+      "longitude": -72.7699,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "",
+      "name_en": "Verrettes",
+      "province": "阿蒂博尼特省",
+      "latitude": 19.0505,
+      "longitude": -72.4659,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "",
+      "name_en": "Kenscoff",
+      "province": "西部省",
+      "latitude": 18.4477,
+      "longitude": -72.284,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "",
+      "name_en": "Saint-Raphaël",
+      "province": "北部省",
+      "latitude": 19.4388,
+      "longitude": -72.1991,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "",
+      "name_en": "Ti Port-de-Paix",
+      "province": "西北省",
+      "latitude": 19.9333,
+      "longitude": -72.8333,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "",
+      "name_en": "Lenbe",
+      "province": "北部省",
+      "latitude": 19.706,
+      "longitude": -72.4034,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "",
+      "name_en": "Gressier",
+      "province": "西部省",
+      "latitude": 18.5409,
+      "longitude": -72.5268,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "",
+      "name_en": "Terrier Rouge",
+      "province": "东北省",
+      "latitude": 19.6363,
+      "longitude": -71.9548,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "安什",
+      "name_en": "Hinche",
+      "province": "中央省",
+      "latitude": 19.1409,
+      "longitude": -72.0119,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "",
+      "name_en": "Fond Parisien",
+      "province": "西部省",
+      "latitude": 18.5055,
+      "longitude": -71.9812,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "",
+      "name_en": "Grand Gosier",
+      "province": "东南省",
+      "latitude": 18.1854,
+      "longitude": -71.9182,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "",
+      "name_en": "Désarmes",
+      "province": "阿蒂博尼特省",
+      "latitude": 18.9934,
+      "longitude": -72.3906,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "",
+      "name_en": "Dessalines",
+      "province": "阿蒂博尼特省",
+      "latitude": 19.2618,
+      "longitude": -72.5161,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "",
+      "name_en": "Saint-Louis du Nord",
+      "province": "西北省",
+      "latitude": 19.934,
+      "longitude": -72.7214,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "",
+      "name_en": "Fort Liberté",
+      "province": "东北省",
+      "latitude": 19.6625,
+      "longitude": -71.8351,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "",
+      "name_en": "Trou du Nord",
+      "province": "东北省",
+      "latitude": 19.6167,
+      "longitude": -72.0244,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "",
+      "name_en": "Ouanaminthe",
+      "province": "东北省",
+      "latitude": 19.5493,
+      "longitude": -71.7248,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "",
+      "name_en": "Sassier",
+      "province": "大湾省",
+      "latitude": 18.5834,
+      "longitude": -74.1183,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "",
+      "name_en": "Mirebalais",
+      "province": "中央省",
+      "latitude": 18.8346,
+      "longitude": -72.1048,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "",
+      "name_en": "Grande Rivière du Nord",
+      "province": "北部省",
+      "latitude": 19.5774,
+      "longitude": -72.1687,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "",
+      "name_en": "Les Anglais",
+      "province": "南部省",
+      "latitude": 18.3054,
+      "longitude": -74.2197,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "",
+      "name_en": "Lascahobas",
+      "province": "中央省",
+      "latitude": 18.8305,
+      "longitude": -71.9356,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "",
+      "name_en": "Cornillon",
+      "province": "西部省",
+      "latitude": 18.6755,
+      "longitude": -71.9527,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "",
+      "name_en": "Gros Morne",
+      "province": "阿蒂博尼特省",
+      "latitude": 19.6708,
+      "longitude": -72.6781,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "",
+      "name_en": "Anse à Galets",
+      "province": "西部省",
+      "latitude": 18.8345,
+      "longitude": -72.8664,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "",
+      "name_en": "Pignon",
+      "province": "北部省",
+      "latitude": 19.3359,
+      "longitude": -72.1166,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "",
+      "name_en": "Dame-Marie",
+      "province": "大湾省",
+      "latitude": 18.5611,
+      "longitude": -74.4217,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "",
+      "name_en": "Sources Chaudes",
+      "province": "大湾省",
+      "latitude": 18.4839,
+      "longitude": -74.2867,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "",
+      "name_en": "Milot",
+      "province": "北部省",
+      "latitude": 19.6084,
+      "longitude": -72.2132,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "",
+      "name_en": "Jean-Rabel",
+      "province": "西北省",
+      "latitude": 19.8538,
+      "longitude": -73.1913,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "",
+      "name_en": "Aquin",
+      "province": "南部省",
+      "latitude": 18.2797,
+      "longitude": -73.3943,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "",
+      "name_en": "Mayisad",
+      "province": "中央省",
+      "latitude": 19.1761,
+      "longitude": -72.1396,
+      "timezone": "America/Port-au-Prince"
+    },
+    {
+      "name": "",
+      "name_en": "Dondon",
+      "province": "北部省",
+      "latitude": 19.5273,
+      "longitude": -72.2434,
+      "timezone": "America/Port-au-Prince"
+    }
+  ]
+}

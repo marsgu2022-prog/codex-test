@@ -82,6 +82,36 @@ def test_enrich_countries_prefers_geonames_match_and_writes_country_files(tmp_pa
     assert payload["cities"][1]["latitude"] == 30.2936
 
 
+def test_normalize_country_payload_splits_continent_city_list_by_country():
+    payload = [
+        {
+            "nameZh": "上海",
+            "nameEn": "Shanghai",
+            "country": "CN",
+            "countryZh": "中国",
+            "admin1Zh": "上海市",
+            "lat": 31.2304,
+            "lng": 121.4737,
+            "timezone": "Asia/Shanghai",
+        },
+        {
+            "nameZh": "东京",
+            "nameEn": "Tokyo",
+            "country": "JP",
+            "countryZh": "日本",
+            "admin1Zh": "东京都",
+            "lat": 35.6764,
+            "lng": 139.6500,
+            "timezone": "Asia/Tokyo",
+        },
+    ]
+
+    countries = ENRICH_MODULE.normalize_country_payload(payload, "cities-asia.json")
+    assert len(countries) == 2
+    codes = sorted(item["country_code"] for item in countries)
+    assert codes == ["CN", "JP"]
+
+
 def test_enrich_city_uses_timezonefinder_when_timezone_missing(monkeypatch):
     monkeypatch.setattr(ENRICH_MODULE, "get_timezonefinder", lambda: DummyFinder())
     city = {

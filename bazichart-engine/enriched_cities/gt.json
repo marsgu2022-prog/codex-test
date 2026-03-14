@@ -1,0 +1,1646 @@
+{
+  "country_code": "GT",
+  "country_name": "危地马拉",
+  "cities": [
+    {
+      "name": "瓜地马拉市",
+      "name_en": "Guatemala City",
+      "province": "瓜地马拉省",
+      "latitude": 14.6407,
+      "longitude": -90.5133,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "比亚努埃瓦",
+      "name_en": "Villa Nueva",
+      "province": "瓜地马拉省",
+      "latitude": 14.5251,
+      "longitude": -90.5854,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Mixco",
+      "province": "瓜地马拉省",
+      "latitude": 14.6308,
+      "longitude": -90.6071,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "科万",
+      "name_en": "Cobán",
+      "province": "上维拉帕斯省",
+      "latitude": 15.4703,
+      "longitude": -90.3745,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "克萨尔特南戈",
+      "name_en": "Quetzaltenango",
+      "province": "克萨尔特南戈省",
+      "latitude": 14.8446,
+      "longitude": -91.5232,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Jalapa",
+      "province": "Jalapa",
+      "latitude": 14.6354,
+      "longitude": -89.9911,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Escuintla",
+      "province": "Escuintla",
+      "latitude": 14.301,
+      "longitude": -90.7882,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Villa Canales",
+      "province": "瓜地马拉省",
+      "latitude": 14.4828,
+      "longitude": -90.5343,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Jutiapa",
+      "province": "Jutiapa",
+      "latitude": 14.2849,
+      "longitude": -89.888,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Chichicastenango",
+      "province": "基切省",
+      "latitude": 14.9433,
+      "longitude": -91.1112,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "San Juan Sacatepéquez",
+      "province": "瓜地马拉省",
+      "latitude": 14.7189,
+      "longitude": -90.6442,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Petapa",
+      "province": "瓜地马拉省",
+      "latitude": 14.5019,
+      "longitude": -90.562,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Lucía Cotzumalguapa",
+      "province": "Escuintla",
+      "latitude": 14.3351,
+      "longitude": -91.0234,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Chiquimula",
+      "province": "奇基穆拉省",
+      "latitude": 14.8009,
+      "longitude": -89.5464,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "科阿特佩克",
+      "name_en": "Coatepeque",
+      "province": "克萨尔特南戈省",
+      "latitude": 14.7041,
+      "longitude": -91.8643,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Chinautla",
+      "province": "瓜地马拉省",
+      "latitude": 14.7029,
+      "longitude": -90.4998,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Totonicapán",
+      "province": "Totonicapán",
+      "latitude": 14.9119,
+      "longitude": -91.3605,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "巴里奥斯港",
+      "name_en": "Puerto Barrios",
+      "province": "伊萨瓦尔省",
+      "latitude": 15.7272,
+      "longitude": -88.5979,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Chimaltenango",
+      "province": "奇马尔特南戈省",
+      "latitude": 14.6588,
+      "longitude": -90.8216,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Malacatán",
+      "province": "圣马科斯省",
+      "latitude": 14.9113,
+      "longitude": -92.0579,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Retalhuleu",
+      "province": "Retalhuleu",
+      "latitude": 14.5358,
+      "longitude": -91.6785,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Catarina Pinula",
+      "province": "瓜地马拉省",
+      "latitude": 14.5705,
+      "longitude": -90.4993,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "San José Pinula",
+      "province": "瓜地马拉省",
+      "latitude": 14.546,
+      "longitude": -90.4129,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "韦韦特南戈",
+      "name_en": "Huehuetenango",
+      "province": "Huehuetenango",
+      "latitude": 15.321,
+      "longitude": -91.47,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Cruz del Quiché",
+      "province": "基切省",
+      "latitude": 15.0299,
+      "longitude": -91.1488,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Mazatenango",
+      "province": "Suchitepeque",
+      "latitude": 14.5341,
+      "longitude": -91.5031,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Panzos",
+      "province": "上维拉帕斯省",
+      "latitude": 15.3986,
+      "longitude": -89.6415,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Amatitlán",
+      "province": "瓜地马拉省",
+      "latitude": 14.4774,
+      "longitude": -90.6349,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Palín",
+      "province": "Escuintla",
+      "latitude": 14.4036,
+      "longitude": -90.6966,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Salamá",
+      "province": "下维拉帕斯省",
+      "latitude": 15.1021,
+      "longitude": -90.3191,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Chicacao",
+      "province": "Suchitepeque",
+      "latitude": 14.5429,
+      "longitude": -91.3264,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Zacapa",
+      "province": "萨卡帕省",
+      "latitude": 14.9687,
+      "longitude": -89.5273,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Comitancillo",
+      "province": "圣马科斯省",
+      "latitude": 15.0894,
+      "longitude": -91.7497,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Fraijanes",
+      "province": "瓜地马拉省",
+      "latitude": 14.4653,
+      "longitude": -90.4408,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "San Pedro Ayampuc",
+      "province": "瓜地马拉省",
+      "latitude": 14.7794,
+      "longitude": -90.4532,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Patzún",
+      "province": "奇马尔特南戈省",
+      "latitude": 14.6819,
+      "longitude": -91.014,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "San Francisco El Alto",
+      "province": "Totonicapán",
+      "latitude": 14.9449,
+      "longitude": -91.4431,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Ostuncalco",
+      "province": "克萨尔特南戈省",
+      "latitude": 14.869,
+      "longitude": -91.6214,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Soloma",
+      "province": "Huehuetenango",
+      "latitude": 15.6584,
+      "longitude": -91.4299,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Asunción Mita",
+      "province": "Jutiapa",
+      "latitude": 14.3337,
+      "longitude": -89.7109,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Colomba",
+      "province": "克萨尔特南戈省",
+      "latitude": 14.7073,
+      "longitude": -91.7317,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Barberena",
+      "province": "圣罗萨省",
+      "latitude": 14.3074,
+      "longitude": -90.3616,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "圣马科斯",
+      "name_en": "San Marcos",
+      "province": "圣马科斯省",
+      "latitude": 14.9644,
+      "longitude": -91.7949,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "安地瓜",
+      "name_en": "Antigua Guatemala",
+      "province": "萨卡特佩克斯省",
+      "latitude": 14.5564,
+      "longitude": -90.7332,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Sololá",
+      "province": "索洛拉省",
+      "latitude": 14.7707,
+      "longitude": -91.1834,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Masagua",
+      "province": "Escuintla",
+      "latitude": 14.2031,
+      "longitude": -90.8481,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Cantel",
+      "province": "克萨尔特南戈省",
+      "latitude": 14.8115,
+      "longitude": -91.4554,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Cuilapa",
+      "province": "圣罗萨省",
+      "latitude": 14.2754,
+      "longitude": -90.2986,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Patulul",
+      "province": "Suchitepeque",
+      "latitude": 14.4232,
+      "longitude": -91.1605,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "圣佩德罗萨卡特佩克斯",
+      "name_en": "San Pedro Sacatepéquez",
+      "province": "圣马科斯省",
+      "latitude": 14.9681,
+      "longitude": -91.7617,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Nuevo San Carlos",
+      "province": "Retalhuleu",
+      "latitude": 14.593,
+      "longitude": -91.6939,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Jacaltenango",
+      "province": "Huehuetenango",
+      "latitude": 15.6666,
+      "longitude": -91.7118,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Yepocapa",
+      "province": "奇马尔特南戈省",
+      "latitude": 14.502,
+      "longitude": -90.954,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Tecpán Guatemala",
+      "province": "奇马尔特南戈省",
+      "latitude": 14.7618,
+      "longitude": -90.9925,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Ciudad Vieja",
+      "province": "萨卡特佩克斯省",
+      "latitude": 14.524,
+      "longitude": -90.7631,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Santiago Atitlán",
+      "province": "索洛拉省",
+      "latitude": 14.6382,
+      "longitude": -91.229,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Comalapa",
+      "province": "奇马尔特南戈省",
+      "latitude": 14.7409,
+      "longitude": -90.8876,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Momostenango",
+      "province": "Totonicapán",
+      "latitude": 15.0444,
+      "longitude": -91.4086,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "San Benito",
+      "province": "贝登省",
+      "latitude": 16.9168,
+      "longitude": -89.919,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Santiago Sacatepéquez",
+      "province": "萨卡特佩克斯省",
+      "latitude": 14.6351,
+      "longitude": -90.6765,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "San Sebastián",
+      "province": "Retalhuleu",
+      "latitude": 14.5618,
+      "longitude": -91.6487,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Jalpatagua",
+      "province": "Jutiapa",
+      "latitude": 14.1369,
+      "longitude": -90.0091,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Sumpango",
+      "province": "萨卡特佩克斯省",
+      "latitude": 14.6462,
+      "longitude": -90.7343,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Nahualá",
+      "province": "索洛拉省",
+      "latitude": 14.8429,
+      "longitude": -91.318,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "San Andrés Itzapa",
+      "province": "奇马尔特南戈省",
+      "latitude": 14.6222,
+      "longitude": -90.8431,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Guastatoya",
+      "province": "普罗格雷索省",
+      "latitude": 14.8544,
+      "longitude": -90.0699,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "San Luis Jilotepeque",
+      "province": "Jalapa",
+      "latitude": 14.6472,
+      "longitude": -89.7246,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "San Felipe",
+      "province": "Retalhuleu",
+      "latitude": 14.623,
+      "longitude": -91.595,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Zaragoza",
+      "province": "奇马尔特南戈省",
+      "latitude": 14.6497,
+      "longitude": -90.8903,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "La Gomera",
+      "province": "Escuintla",
+      "latitude": 14.0821,
+      "longitude": -91.0538,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Alotenango",
+      "province": "萨卡特佩克斯省",
+      "latitude": 14.4858,
+      "longitude": -90.8044,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Nebaj",
+      "province": "基切省",
+      "latitude": 15.4061,
+      "longitude": -91.1468,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Cabricán",
+      "province": "克萨尔特南戈省",
+      "latitude": 15.0748,
+      "longitude": -91.648,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "San Francisco Zapotitlán",
+      "province": "Suchitepeque",
+      "latitude": 14.5894,
+      "longitude": -91.5214,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Santa María de Jesús",
+      "province": "萨卡特佩克斯省",
+      "latitude": 14.4945,
+      "longitude": -90.7104,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Patzicía",
+      "province": "奇马尔特南戈省",
+      "latitude": 14.6319,
+      "longitude": -90.9266,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "San Lucas Sacatepéquez",
+      "province": "萨卡特佩克斯省",
+      "latitude": 14.6107,
+      "longitude": -90.6568,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "埃斯基普拉斯",
+      "name_en": "Esquipulas",
+      "province": "奇基穆拉省",
+      "latitude": 14.5657,
+      "longitude": -89.3517,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "El Estor",
+      "province": "伊萨瓦尔省",
+      "latitude": 15.5322,
+      "longitude": -89.3311,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "弗洛雷斯",
+      "name_en": "Flores",
+      "province": "贝登省",
+      "latitude": 16.9226,
+      "longitude": -89.8994,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "San Pablo Jocopilas",
+      "province": "Suchitepeque",
+      "latitude": 14.5888,
+      "longitude": -91.4519,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "San Cristóbal Verapaz",
+      "province": "上维拉帕斯省",
+      "latitude": 15.3666,
+      "longitude": -90.4783,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Salcajá",
+      "province": "克萨尔特南戈省",
+      "latitude": 14.8796,
+      "longitude": -91.457,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Gualán",
+      "province": "萨卡帕省",
+      "latitude": 15.1195,
+      "longitude": -89.3572,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Morales",
+      "province": "伊萨瓦尔省",
+      "latitude": 15.4723,
+      "longitude": -88.8407,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Guazacapán",
+      "province": "圣罗萨省",
+      "latitude": 14.0742,
+      "longitude": -90.4167,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "圣何塞港",
+      "name_en": "Puerto San José",
+      "province": "Escuintla",
+      "latitude": 13.9222,
+      "longitude": -90.8191,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Palencia",
+      "province": "瓜地马拉省",
+      "latitude": 14.6671,
+      "longitude": -90.3572,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Tiquisate",
+      "province": "Escuintla",
+      "latitude": 14.2836,
+      "longitude": -91.3606,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Lívingston",
+      "province": "伊萨瓦尔省",
+      "latitude": 15.8283,
+      "longitude": -88.7504,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Jocotenango",
+      "province": "萨卡特佩克斯省",
+      "latitude": 14.5781,
+      "longitude": -90.738,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "El Asintal",
+      "province": "Retalhuleu",
+      "latitude": 14.5963,
+      "longitude": -91.7274,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Poptún",
+      "province": "贝登省",
+      "latitude": 16.3311,
+      "longitude": -89.4169,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Bárbara",
+      "province": "Suchitepeque",
+      "latitude": 16.3311,
+      "longitude": -89.4169,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Chisec",
+      "province": "上维拉帕斯省",
+      "latitude": 15.8131,
+      "longitude": -90.289,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "La Esperanza",
+      "province": "克萨尔特南戈省",
+      "latitude": 14.8717,
+      "longitude": -91.5614,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "San Pedro Carchá",
+      "province": "上维拉帕斯省",
+      "latitude": 15.4774,
+      "longitude": -90.311,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Sanarate",
+      "province": "普罗格雷索省",
+      "latitude": 14.7883,
+      "longitude": -90.1988,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "El Tejar",
+      "province": "奇马尔特南戈省",
+      "latitude": 14.6468,
+      "longitude": -90.7912,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "El Palmar",
+      "province": "克萨尔特南戈省",
+      "latitude": 14.6508,
+      "longitude": -91.578,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Rabinal",
+      "province": "下维拉帕斯省",
+      "latitude": 15.0853,
+      "longitude": -90.4925,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "San Andrés Xecul",
+      "province": "Totonicapán",
+      "latitude": 14.9048,
+      "longitude": -91.4831,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Catarina Ixtahuacán",
+      "province": "索洛拉省",
+      "latitude": 14.798,
+      "longitude": -91.3587,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "San Lucas Tolimán",
+      "province": "索洛拉省",
+      "latitude": 14.5947,
+      "longitude": -91.1466,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "San Pedro Sacatepéquez",
+      "province": "瓜地马拉省",
+      "latitude": 14.9681,
+      "longitude": -91.7617,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Zunil",
+      "province": "克萨尔特南戈省",
+      "latitude": 14.7846,
+      "longitude": -91.4835,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Barillas",
+      "province": "Huehuetenango",
+      "latitude": 15.8036,
+      "longitude": -91.3158,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "San Miguel Chicaj",
+      "province": "下维拉帕斯省",
+      "latitude": 15.0947,
+      "longitude": -90.3944,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "San Pablo",
+      "province": "圣马科斯省",
+      "latitude": 14.5888,
+      "longitude": -91.4519,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "San Antonio Suchitepéquez",
+      "province": "Suchitepeque",
+      "latitude": 14.5394,
+      "longitude": -91.4144,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Monjas",
+      "province": "Jalapa",
+      "latitude": 14.5031,
+      "longitude": -89.8725,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "La Democracia",
+      "province": "Escuintla",
+      "latitude": 14.2292,
+      "longitude": -90.9481,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "San Juan Chamelco",
+      "province": "上维拉帕斯省",
+      "latitude": 15.4243,
+      "longitude": -90.3304,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "San Mateo Ixtatán",
+      "province": "Huehuetenango",
+      "latitude": 15.8319,
+      "longitude": -91.4781,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Joyabaj",
+      "province": "基切省",
+      "latitude": 14.9931,
+      "longitude": -90.8016,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Chiquimulilla",
+      "province": "圣罗萨省",
+      "latitude": 14.0838,
+      "longitude": -90.3855,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Pastores",
+      "province": "萨卡特佩克斯省",
+      "latitude": 14.5943,
+      "longitude": -90.7547,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Almolonga",
+      "province": "克萨尔特南戈省",
+      "latitude": 14.8159,
+      "longitude": -91.4946,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Lucía Milpas Altas",
+      "province": "萨卡特佩克斯省",
+      "latitude": 14.5765,
+      "longitude": -90.6763,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Acatenango",
+      "province": "奇马尔特南戈省",
+      "latitude": 14.5545,
+      "longitude": -90.9437,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "El Quetzal",
+      "province": "圣马科斯省",
+      "latitude": 14.7686,
+      "longitude": -91.8176,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Sacapulas",
+      "province": "基切省",
+      "latitude": 15.288,
+      "longitude": -91.0891,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Senahú",
+      "province": "上维拉帕斯省",
+      "latitude": 15.4164,
+      "longitude": -89.8221,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Flores Costa Cuca",
+      "province": "克萨尔特南戈省",
+      "latitude": 14.6324,
+      "longitude": -91.8634,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Magdalena Milpas Altas",
+      "province": "萨卡特佩克斯省",
+      "latitude": 14.548,
+      "longitude": -90.6748,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Chajul",
+      "province": "基切省",
+      "latitude": 15.4852,
+      "longitude": -91.0352,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Atescatempa",
+      "province": "Jutiapa",
+      "latitude": 14.1755,
+      "longitude": -89.7418,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Melchor de Mencos",
+      "province": "贝登省",
+      "latitude": 17.0661,
+      "longitude": -89.1523,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Ciudad Tecún Umán",
+      "province": "圣马科斯省",
+      "latitude": 14.6774,
+      "longitude": -92.1404,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Panajachel",
+      "province": "索洛拉省",
+      "latitude": 14.7418,
+      "longitude": -91.1568,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Nueva Concepción",
+      "province": "Escuintla",
+      "latitude": 14.2,
+      "longitude": -91.3,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "San Juan Cotzal",
+      "province": "基切省",
+      "latitude": 15.4337,
+      "longitude": -91.0348,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Cuyotenango",
+      "province": "Suchitepeque",
+      "latitude": 14.5401,
+      "longitude": -91.5718,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Catarina Mita",
+      "province": "Jutiapa",
+      "latitude": 14.4513,
+      "longitude": -89.7429,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Cubulco",
+      "province": "下维拉帕斯省",
+      "latitude": 15.1045,
+      "longitude": -90.6287,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Dolores",
+      "province": "贝登省",
+      "latitude": 16.5118,
+      "longitude": -89.417,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "San Agustín Acasaguastlán",
+      "province": "普罗格雷索省",
+      "latitude": 14.945,
+      "longitude": -89.9697,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Oratorio",
+      "province": "圣罗萨省",
+      "latitude": 14.2281,
+      "longitude": -90.1758,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Nueva Santa Rosa",
+      "province": "圣罗萨省",
+      "latitude": 14.3811,
+      "longitude": -90.2761,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Nuevo León",
+      "province": "Huehuetenango",
+      "latitude": 15.7937,
+      "longitude": -91.0924,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Huitán",
+      "province": "克萨尔特南戈省",
+      "latitude": 15.0492,
+      "longitude": -91.6394,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Champerico",
+      "province": "Retalhuleu",
+      "latitude": 14.2921,
+      "longitude": -91.9134,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "San Martín Jilotepeque",
+      "province": "奇马尔特南戈省",
+      "latitude": 14.7801,
+      "longitude": -90.7926,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "San Pedro La Laguna",
+      "province": "索洛拉省",
+      "latitude": 14.693,
+      "longitude": -91.272,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Parramos",
+      "province": "奇马尔特南戈省",
+      "latitude": 14.6089,
+      "longitude": -90.803,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Ana",
+      "province": "贝登省",
+      "latitude": 16.8058,
+      "longitude": -89.8271,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Zacualpa",
+      "province": "基切省",
+      "latitude": 15.0268,
+      "longitude": -90.8782,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "San Cristóbal Cucho",
+      "province": "圣马科斯省",
+      "latitude": 14.905,
+      "longitude": -91.7812,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Sayaxché",
+      "province": "贝登省",
+      "latitude": 16.5245,
+      "longitude": -90.188,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Tactic",
+      "province": "上维拉帕斯省",
+      "latitude": 15.3222,
+      "longitude": -90.3545,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Samayac",
+      "province": "克萨尔特南戈省",
+      "latitude": 14.5808,
+      "longitude": -91.4613,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Estanzuela",
+      "province": "萨卡帕省",
+      "latitude": 14.9978,
+      "longitude": -89.5729,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Concepción Huista",
+      "province": "Huehuetenango",
+      "latitude": 15.6238,
+      "longitude": -91.6652,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "El Tumbador",
+      "province": "圣马科斯省",
+      "latitude": 14.8637,
+      "longitude": -91.9342,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Santo Domingo Xenacoj",
+      "province": "萨卡特佩克斯省",
+      "latitude": 14.6806,
+      "longitude": -90.7001,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "San Raimundo",
+      "province": "瓜地马拉省",
+      "latitude": 14.7646,
+      "longitude": -90.5949,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "拉利伯塔德",
+      "name_en": "La Libertad",
+      "province": "贝登省",
+      "latitude": 16.7885,
+      "longitude": -90.117,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Chiantla",
+      "province": "Huehuetenango",
+      "latitude": 15.3548,
+      "longitude": -91.4581,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "San Miguel Dueñas",
+      "province": "萨卡特佩克斯省",
+      "latitude": 14.5224,
+      "longitude": -90.7994,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Cunén",
+      "province": "基切省",
+      "latitude": 15.3363,
+      "longitude": -91.0278,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Jocotán",
+      "province": "奇基穆拉省",
+      "latitude": 14.8207,
+      "longitude": -89.3899,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Pajapita",
+      "province": "圣马科斯省",
+      "latitude": 14.7215,
+      "longitude": -92.0352,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Moyuta",
+      "province": "Jutiapa",
+      "latitude": 14.0386,
+      "longitude": -90.0808,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Nuevo Progreso",
+      "province": "圣马科斯省",
+      "latitude": 14.7917,
+      "longitude": -91.9195,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "San Jerónimo",
+      "province": "下维拉帕斯省",
+      "latitude": 15.0603,
+      "longitude": -90.2405,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Concepción Chiquirichapa",
+      "province": "克萨尔特南戈省",
+      "latitude": 14.8551,
+      "longitude": -91.6236,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Cruz Balanyá",
+      "province": "奇马尔特南戈省",
+      "latitude": 14.6852,
+      "longitude": -90.9191,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "San Antonio Aguas Calientes",
+      "province": "萨卡特佩克斯省",
+      "latitude": 14.5468,
+      "longitude": -90.7805,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "San Antonio La Paz",
+      "province": "普罗格雷索省",
+      "latitude": 14.7589,
+      "longitude": -90.2849,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Casillas",
+      "province": "圣罗萨省",
+      "latitude": 14.4192,
+      "longitude": -90.2433,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Río Bravo",
+      "province": "Suchitepeque",
+      "latitude": 14.4004,
+      "longitude": -91.3171,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "San Miguel Sigüilá",
+      "province": "克萨尔特南戈省",
+      "latitude": 14.8955,
+      "longitude": -91.6146,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Mataquescuintla",
+      "province": "Jalapa",
+      "latitude": 14.5292,
+      "longitude": -90.1842,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Chahal",
+      "province": "上维拉帕斯省",
+      "latitude": 15.7912,
+      "longitude": -89.6052,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "El Progreso",
+      "province": "Jutiapa",
+      "latitude": 14.8544,
+      "longitude": -90.0699,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "圣安德雷斯",
+      "name_en": "San Andrés",
+      "province": "贝登省",
+      "latitude": 14.9048,
+      "longitude": -91.4831,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "San Vicente Pacaya",
+      "province": "Escuintla",
+      "latitude": 14.4147,
+      "longitude": -90.6361,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Chuarrancho",
+      "province": "瓜地马拉省",
+      "latitude": 14.8179,
+      "longitude": -90.5157,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Santo Tomás La Unión",
+      "province": "Suchitepeque",
+      "latitude": 14.6322,
+      "longitude": -91.4107,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Santa María Chiquimula",
+      "province": "Totonicapán",
+      "latitude": 15.0299,
+      "longitude": -91.3292,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "San Carlos Sija",
+      "province": "克萨尔特南戈省",
+      "latitude": 14.9844,
+      "longitude": -91.5491,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "San Luis",
+      "province": "贝登省",
+      "latitude": 14.6472,
+      "longitude": -89.7246,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Uspantán",
+      "province": "基切省",
+      "latitude": 15.3467,
+      "longitude": -90.8705,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Taxisco",
+      "province": "圣罗萨省",
+      "latitude": 14.0672,
+      "longitude": -90.4679,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "La Libertad",
+      "province": "Huehuetenango",
+      "latitude": 16.7885,
+      "longitude": -90.117,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Tacaná",
+      "province": "圣马科斯省",
+      "latitude": 15.2406,
+      "longitude": -92.0672,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Teculután",
+      "province": "萨卡帕省",
+      "latitude": 14.989,
+      "longitude": -89.7194,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "San José Acatempa",
+      "province": "Jutiapa",
+      "latitude": 14.2653,
+      "longitude": -90.1269,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Santo Domingo Suchitepéquez",
+      "province": "Suchitepeque",
+      "latitude": 14.479,
+      "longitude": -91.4833,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "San Bartolomé Milpas Altas",
+      "province": "萨卡特佩克斯省",
+      "latitude": 14.6069,
+      "longitude": -90.6781,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Cruz Naranjo",
+      "province": "圣罗萨省",
+      "latitude": 14.3881,
+      "longitude": -90.3697,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "San Pablo La Laguna",
+      "province": "索洛拉省",
+      "latitude": 14.7209,
+      "longitude": -91.2724,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Concepción Tutuapa",
+      "province": "圣马科斯省",
+      "latitude": 15.2394,
+      "longitude": -91.8446,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Río Hondo",
+      "province": "萨卡帕省",
+      "latitude": 15.045,
+      "longitude": -89.5852,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "San José Poaquil",
+      "province": "奇马尔特南戈省",
+      "latitude": 14.8181,
+      "longitude": -90.9125,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Rosa de Lima",
+      "province": "圣罗萨省",
+      "latitude": 14.3881,
+      "longitude": -90.2956,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Cruz Verapaz",
+      "province": "上维拉帕斯省",
+      "latitude": 15.3734,
+      "longitude": -90.4286,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "San Antonio Huista",
+      "province": "Huehuetenango",
+      "latitude": 15.6501,
+      "longitude": -91.7716,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Aguacatán",
+      "province": "Huehuetenango",
+      "latitude": 15.3422,
+      "longitude": -91.3114,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "San Mateo",
+      "province": "克萨尔特南戈省",
+      "latitude": 14.858,
+      "longitude": -91.59,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "San Bernardino",
+      "province": "Suchitepeque",
+      "latitude": 14.5424,
+      "longitude": -91.4581,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Purulhá",
+      "province": "下维拉帕斯省",
+      "latitude": 15.2357,
+      "longitude": -90.2357,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Clara La Laguna",
+      "province": "索洛拉省",
+      "latitude": 14.7151,
+      "longitude": -91.3036,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "Ipala",
+      "province": "奇基穆拉省",
+      "latitude": 14.6199,
+      "longitude": -89.6194,
+      "timezone": "America/Guatemala"
+    },
+    {
+      "name": "",
+      "name_en": "San Andrés Villa Seca",
+      "province": "Retalhuleu",
+      "latitude": 14.578,
+      "longitude": -91.5854,
+      "timezone": "America/Guatemala"
+    }
+  ]
+}

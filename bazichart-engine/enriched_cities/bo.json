@@ -1,0 +1,606 @@
+{
+  "country_code": "BO",
+  "country_name": "玻利维亚",
+  "cities": [
+    {
+      "name": "拉巴斯",
+      "name_en": "La Paz",
+      "province": "拉巴斯省",
+      "latitude": -16.5,
+      "longitude": -68.15,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Cruz de la Sierra",
+      "province": "圣克鲁斯省",
+      "latitude": -17.7863,
+      "longitude": -63.1812,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "科恰班巴",
+      "name_en": "Cochabamba",
+      "province": "Cochabamba",
+      "latitude": -17.3819,
+      "longitude": -66.1599,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "苏克雷",
+      "name_en": "Sucre",
+      "province": "丘基萨卡省",
+      "latitude": -19.0333,
+      "longitude": -65.2627,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "奥鲁罗",
+      "name_en": "Oruro",
+      "province": "奥鲁罗省",
+      "latitude": -17.9715,
+      "longitude": -67.0932,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "萨卡瓦",
+      "name_en": "Sacaba",
+      "province": "Cochabamba",
+      "latitude": -17.398,
+      "longitude": -66.0383,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "基亚科约",
+      "name_en": "Quillacollo",
+      "province": "Cochabamba",
+      "latitude": -17.3923,
+      "longitude": -66.2784,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "塔里哈",
+      "name_en": "Tarija",
+      "province": "塔里哈省",
+      "latitude": -21.5355,
+      "longitude": -64.7296,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "波托西",
+      "name_en": "Potosí",
+      "province": "波托西省",
+      "latitude": -19.5836,
+      "longitude": -65.7531,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "里韦拉尔塔",
+      "name_en": "Riberalta",
+      "province": "贝尼省",
+      "latitude": -11.0103,
+      "longitude": -66.0526,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "蒙特罗",
+      "name_en": "Montero",
+      "province": "圣克鲁斯省",
+      "latitude": -17.3387,
+      "longitude": -63.2509,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "比亚查",
+      "name_en": "Viacha",
+      "province": "拉巴斯省",
+      "latitude": -16.65,
+      "longitude": -68.3,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "特立尼达",
+      "name_en": "Trinidad",
+      "province": "贝尼省",
+      "latitude": -14.8322,
+      "longitude": -64.9034,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "",
+      "name_en": "Yacuiba",
+      "province": "塔里哈省",
+      "latitude": -22.0164,
+      "longitude": -63.6775,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "蒂基帕亚",
+      "name_en": "Tiquipaya",
+      "province": "Cochabamba",
+      "latitude": -17.338,
+      "longitude": -66.2158,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "宾托",
+      "name_en": "Vinto",
+      "province": "Cochabamba",
+      "latitude": -17.3914,
+      "longitude": -66.3168,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "科尔卡皮尔瓦",
+      "name_en": "Colcapirhua",
+      "province": "Cochabamba",
+      "latitude": -17.3857,
+      "longitude": -66.2381,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "",
+      "name_en": "Sipe Sipe",
+      "province": "Cochabamba",
+      "latitude": -17.4542,
+      "longitude": -66.3574,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "卡拉纳维",
+      "name_en": "Caranavi",
+      "province": "拉巴斯省",
+      "latitude": -15.834,
+      "longitude": -67.5659,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "比亚蒙特斯",
+      "name_en": "Villamontes",
+      "province": "塔里哈省",
+      "latitude": -21.2624,
+      "longitude": -63.469,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "瓜亚拉梅林",
+      "name_en": "Guayaramerín",
+      "province": "贝尼省",
+      "latitude": -10.8258,
+      "longitude": -65.3581,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "贝尔梅霍",
+      "name_en": "Bermejo",
+      "province": "塔里哈省",
+      "latitude": -22.7321,
+      "longitude": -64.3372,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "米斯克",
+      "name_en": "Mizque",
+      "province": "Cochabamba",
+      "latitude": -17.941,
+      "longitude": -65.3402,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "比亚松",
+      "name_en": "Villazón",
+      "province": "波托西省",
+      "latitude": -22.0866,
+      "longitude": -65.5942,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "拉拉瓜",
+      "name_en": "Llallagua",
+      "province": "波托西省",
+      "latitude": -18.4249,
+      "longitude": -66.5778,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "卡米里",
+      "name_en": "Camiri",
+      "province": "圣克鲁斯省",
+      "latitude": -20.0406,
+      "longitude": -63.524,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "科维哈",
+      "name_en": "Cobija",
+      "province": "Pando",
+      "latitude": -11.0267,
+      "longitude": -68.7692,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "圣博尔哈",
+      "name_en": "San Borja",
+      "province": "贝尼省",
+      "latitude": -14.852,
+      "longitude": -66.7495,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "圣伊格纳西奥",
+      "name_en": "San Ignacio de Velasco",
+      "province": "圣克鲁斯省",
+      "latitude": -16.3777,
+      "longitude": -60.9647,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "图皮萨",
+      "name_en": "Tupiza",
+      "province": "波托西省",
+      "latitude": -21.4434,
+      "longitude": -65.7188,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "瓦尔内斯",
+      "name_en": "Warnes",
+      "province": "圣克鲁斯省",
+      "latitude": -17.5163,
+      "longitude": -63.1678,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "",
+      "name_en": "Achocalla",
+      "province": "拉巴斯省",
+      "latitude": -16.5739,
+      "longitude": -68.1511,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "",
+      "name_en": "Ascención de Guarayos",
+      "province": "圣克鲁斯省",
+      "latitude": -15.893,
+      "longitude": -63.1885,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "",
+      "name_en": "Cotoca",
+      "province": "圣克鲁斯省",
+      "latitude": -17.8167,
+      "longitude": -63.05,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "",
+      "name_en": "Villa Yapacaní",
+      "province": "圣克鲁斯省",
+      "latitude": -17.4,
+      "longitude": -63.8333,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "",
+      "name_en": "Laja",
+      "province": "拉巴斯省",
+      "latitude": -16.5333,
+      "longitude": -68.3833,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "",
+      "name_en": "El Torno",
+      "province": "圣克鲁斯省",
+      "latitude": -18.0001,
+      "longitude": -63.3871,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "瓦努尼",
+      "name_en": "Huanuni",
+      "province": "奥鲁罗省",
+      "latitude": -18.289,
+      "longitude": -66.8358,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "普纳塔",
+      "name_en": "Punata",
+      "province": "Cochabamba",
+      "latitude": -17.5423,
+      "longitude": -65.8347,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "",
+      "name_en": "Ascensión",
+      "province": "圣克鲁斯省",
+      "latitude": -15.7,
+      "longitude": -63.0833,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "",
+      "name_en": "Mineros",
+      "province": "圣克鲁斯省",
+      "latitude": -17.1192,
+      "longitude": -63.2323,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "麦卡帕卡",
+      "name_en": "Mecapaca",
+      "province": "拉巴斯省",
+      "latitude": -16.6683,
+      "longitude": -68.0181,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Ana de Yacuma",
+      "province": "贝尼省",
+      "latitude": -13.7441,
+      "longitude": -65.4269,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "苏亚雷斯港",
+      "name_en": "Puerto Suárez",
+      "province": "圣克鲁斯省",
+      "latitude": -18.9672,
+      "longitude": -57.8013,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "",
+      "name_en": "Okinawa Uno",
+      "province": "圣克鲁斯省",
+      "latitude": -17.2189,
+      "longitude": -62.8953,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "帕塔卡马亚",
+      "name_en": "Patacamaya",
+      "province": "拉巴斯省",
+      "latitude": -17.2361,
+      "longitude": -67.9144,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "科尔查尼（波托西）",
+      "name_en": "Colchani",
+      "province": "波托西省",
+      "latitude": -20.3,
+      "longitude": -66.9333,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "鲁雷纳瓦克",
+      "name_en": "Rurrenabaque",
+      "province": "贝尼省",
+      "latitude": -14.4413,
+      "longitude": -67.5278,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "波尔丘埃洛",
+      "name_en": "Portachuelo",
+      "province": "圣克鲁斯省",
+      "latitude": -17.3537,
+      "longitude": -63.3957,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "",
+      "name_en": "Puerto Quijarro",
+      "province": "圣克鲁斯省",
+      "latitude": -17.7833,
+      "longitude": -57.7667,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "乌尤尼",
+      "name_en": "Uyuni",
+      "province": "波托西省",
+      "latitude": -20.4597,
+      "longitude": -66.825,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "",
+      "name_en": "San Ignacio de Moxo",
+      "province": "贝尼省",
+      "latitude": -14.9947,
+      "longitude": -65.6407,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "罗沃雷",
+      "name_en": "Roboré",
+      "province": "圣克鲁斯省",
+      "latitude": -18.3347,
+      "longitude": -59.7614,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "派隆",
+      "name_en": "Pailón",
+      "province": "圣克鲁斯省",
+      "latitude": -17.6639,
+      "longitude": -62.718,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "",
+      "name_en": "Uncía",
+      "province": "波托西省",
+      "latitude": -18.4671,
+      "longitude": -66.5671,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "克利萨",
+      "name_en": "Cliza",
+      "province": "Cochabamba",
+      "latitude": -17.5878,
+      "longitude": -65.9325,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "阿查卡奇",
+      "name_en": "Achacachi",
+      "province": "拉巴斯省",
+      "latitude": -16.0471,
+      "longitude": -68.6853,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "巴耶格兰德",
+      "name_en": "Vallegrande",
+      "province": "圣克鲁斯省",
+      "latitude": -18.4889,
+      "longitude": -64.1083,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "蒙特阿古多",
+      "name_en": "Monteagudo",
+      "province": "丘基萨卡省",
+      "latitude": -19.8,
+      "longitude": -63.9562,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "",
+      "name_en": "Aiquile",
+      "province": "Cochabamba",
+      "latitude": -18.2041,
+      "longitude": -65.1807,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "塔拉塔",
+      "name_en": "Tarata",
+      "province": "Cochabamba",
+      "latitude": -17.609,
+      "longitude": -66.0213,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "查亚帕塔",
+      "name_en": "Challapata",
+      "province": "奥鲁罗省",
+      "latitude": -18.9021,
+      "longitude": -66.7705,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "",
+      "name_en": "San Julian",
+      "province": "圣克鲁斯省",
+      "latitude": -17.7833,
+      "longitude": -62.8667,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "",
+      "name_en": "Reyes",
+      "province": "贝尼省",
+      "latitude": -14.2952,
+      "longitude": -67.3362,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "",
+      "name_en": "Concepción",
+      "province": "圣克鲁斯省",
+      "latitude": -16.4333,
+      "longitude": -60.9,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "",
+      "name_en": "San Matías",
+      "province": "圣克鲁斯省",
+      "latitude": -16.3597,
+      "longitude": -58.4004,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "科帕卡瓦纳",
+      "name_en": "Copacabana",
+      "province": "拉巴斯省",
+      "latitude": -16.1699,
+      "longitude": -69.0792,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "",
+      "name_en": "Porco",
+      "province": "波托西省",
+      "latitude": -21.0529,
+      "longitude": -66.4302,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "伊西亚马斯",
+      "name_en": "Ixiamas",
+      "province": "拉巴斯省",
+      "latitude": -13.7677,
+      "longitude": -68.128,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "拉贝尔吉卡",
+      "name_en": "La Bélgica",
+      "province": "圣克鲁斯省",
+      "latitude": -17.55,
+      "longitude": -63.2167,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "",
+      "name_en": "Pucarani",
+      "province": "拉巴斯省",
+      "latitude": -16.3996,
+      "longitude": -68.4775,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Rosa del Sara",
+      "province": "圣克鲁斯省",
+      "latitude": -17.108,
+      "longitude": -63.5997,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "",
+      "name_en": "Capinota",
+      "province": "Cochabamba",
+      "latitude": -17.7111,
+      "longitude": -66.2608,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "奇莫雷",
+      "name_en": "Chimoré",
+      "province": "Cochabamba",
+      "latitude": -16.9942,
+      "longitude": -65.1533,
+      "timezone": "America/La_Paz"
+    },
+    {
+      "name": "",
+      "name_en": "San Pedro",
+      "province": "拉巴斯省",
+      "latitude": -16.2372,
+      "longitude": -68.8506,
+      "timezone": "America/La_Paz"
+    }
+  ]
+}

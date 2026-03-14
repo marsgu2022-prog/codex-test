@@ -1,0 +1,1438 @@
+{
+  "country_code": "IL",
+  "country_name": "以色列",
+  "cities": [
+    {
+      "name": "耶路撒冷",
+      "name_en": "Jerusalem",
+      "province": "耶路撒冷区",
+      "latitude": 31.769,
+      "longitude": 35.2163,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "特拉维夫",
+      "name_en": "Tel Aviv",
+      "province": "特拉维夫区",
+      "latitude": 32.0809,
+      "longitude": 34.7806,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "West Jerusalem",
+      "province": "耶路撒冷区",
+      "latitude": 31.782,
+      "longitude": 35.2196,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "海法",
+      "name_en": "Haifa",
+      "province": "海法区",
+      "latitude": 32.813,
+      "longitude": 34.9993,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Rishon LeTsiyyon",
+      "province": "中央区",
+      "latitude": 31.971,
+      "longitude": 34.7894,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "佩塔提克瓦",
+      "name_en": "Petaẖ Tiqva",
+      "province": "中央区",
+      "latitude": 32.0871,
+      "longitude": 34.8875,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "内坦亚",
+      "name_en": "Netanya",
+      "province": "中央区",
+      "latitude": 32.3329,
+      "longitude": 34.8599,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "阿什杜德",
+      "name_en": "Ashdod",
+      "province": "南部区",
+      "latitude": 31.7921,
+      "longitude": 34.6497,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "贝内贝拉克",
+      "name_en": "Bnei Brak",
+      "province": "特拉维夫区",
+      "latitude": 32.0807,
+      "longitude": 34.8338,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "H̱olon",
+      "province": "特拉维夫区",
+      "latitude": 32.0103,
+      "longitude": 34.7792,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "贝尔谢巴",
+      "name_en": "Beersheba",
+      "province": "南部区",
+      "latitude": 31.2518,
+      "longitude": 34.7913,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "拉马干",
+      "name_en": "Ramat Gan",
+      "province": "特拉维夫区",
+      "latitude": 32.0823,
+      "longitude": 34.8107,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Reẖovot",
+      "province": "中央区",
+      "latitude": 31.8942,
+      "longitude": 34.812,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Ashkelon",
+      "province": "南部区",
+      "latitude": 31.6693,
+      "longitude": 34.5715,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "巴特亚姆",
+      "name_en": "Bat Yam",
+      "province": "特拉维夫区",
+      "latitude": 32.0238,
+      "longitude": 34.7518,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Bet Shemesh",
+      "province": "耶路撒冷区",
+      "latitude": 31.7307,
+      "longitude": 34.9929,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "卡法萨巴",
+      "name_en": "Kfar Saba",
+      "province": "中央区",
+      "latitude": 32.175,
+      "longitude": 34.9069,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Jaffa",
+      "province": "特拉维夫区",
+      "latitude": 32.0504,
+      "longitude": 34.7522,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Herzliya",
+      "province": "特拉维夫区",
+      "latitude": 32.1663,
+      "longitude": 34.8254,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Hadera",
+      "province": "海法区",
+      "latitude": 32.4419,
+      "longitude": 34.9039,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Modi‘in Makkabbim Re‘ut",
+      "province": "中央区",
+      "latitude": 31.8939,
+      "longitude": 35.015,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "拿撒勒",
+      "name_en": "Nazareth",
+      "province": "北部区",
+      "latitude": 32.7009,
+      "longitude": 35.2972,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "卢德",
+      "name_en": "Lod",
+      "province": "中央区",
+      "latitude": 31.9467,
+      "longitude": 34.8903,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Modiin Ilit",
+      "province": "耶路撒冷区",
+      "latitude": 31.9322,
+      "longitude": 35.0442,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "拉姆拉",
+      "name_en": "Ramla",
+      "province": "中央区",
+      "latitude": 31.9262,
+      "longitude": 34.8635,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Ra'anana",
+      "province": "中央区",
+      "latitude": 32.1836,
+      "longitude": 34.8739,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Rosh Ha‘Ayin",
+      "province": "中央区",
+      "latitude": 32.0956,
+      "longitude": 34.9566,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "霍德夏沙隆",
+      "name_en": "Hod HaSharon",
+      "province": "中央区",
+      "latitude": 32.1593,
+      "longitude": 34.8932,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Kiryat Gat",
+      "province": "南部区",
+      "latitude": 31.61,
+      "longitude": 34.7642,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Givatayim",
+      "province": "特拉维夫区",
+      "latitude": 32.0722,
+      "longitude": 34.8125,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Qiryat Ata",
+      "province": "海法区",
+      "latitude": 32.8115,
+      "longitude": 35.1132,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "纳哈里亚",
+      "name_en": "Nahariyya",
+      "province": "北部区",
+      "latitude": 33.0089,
+      "longitude": 35.0981,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Umm el Faḥm",
+      "province": "海法区",
+      "latitude": 32.5172,
+      "longitude": 35.1535,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "埃拉特",
+      "name_en": "Eilat",
+      "province": "南部区",
+      "latitude": 29.5581,
+      "longitude": 34.9482,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "阿科",
+      "name_en": "Acre",
+      "province": "北部区",
+      "latitude": 32.9281,
+      "longitude": 35.0765,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "耐斯茨奥纳",
+      "name_en": "Ness Ziona",
+      "province": "中央区",
+      "latitude": 31.9293,
+      "longitude": 34.7987,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "El‘ad",
+      "province": "中央区",
+      "latitude": 32.0498,
+      "longitude": 34.9538,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "亚夫内",
+      "name_en": "Yavné",
+      "province": "中央区",
+      "latitude": 31.8781,
+      "longitude": 34.7398,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "拉马特沙龙",
+      "name_en": "Ramat HaSharon",
+      "province": "特拉维夫区",
+      "latitude": 32.1461,
+      "longitude": 34.8394,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Karmi’el",
+      "province": "北部区",
+      "latitude": 32.9171,
+      "longitude": 35.305,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "阿富拉",
+      "name_en": "Afula",
+      "province": "北部区",
+      "latitude": 32.6091,
+      "longitude": 35.2892,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Pardés H̱anna Karkur",
+      "province": "海法区",
+      "latitude": 32.4741,
+      "longitude": 34.9778,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "提比里亚",
+      "name_en": "Tiberias",
+      "province": "北部区",
+      "latitude": 32.7922,
+      "longitude": 35.5312,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Eṭ Ṭaiyiba",
+      "province": "中央区",
+      "latitude": 32.2662,
+      "longitude": 35.0089,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Qiryat Bialik",
+      "province": "海法区",
+      "latitude": 32.8275,
+      "longitude": 35.0858,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "内提沃特",
+      "name_en": "Netivot",
+      "province": "南部区",
+      "latitude": 31.423,
+      "longitude": 34.5891,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Naẕerat ‘Illit",
+      "province": "北部区",
+      "latitude": 32.7082,
+      "longitude": 35.3247,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Qiryat Motsqin",
+      "province": "海法区",
+      "latitude": 32.8371,
+      "longitude": 35.0776,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Shefar‘am",
+      "province": "北部区",
+      "latitude": 32.8058,
+      "longitude": 35.169,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Kiryat Ono",
+      "province": "特拉维夫区",
+      "latitude": 32.0612,
+      "longitude": 34.8562,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Qiryat Yam",
+      "province": "海法区",
+      "latitude": 32.8497,
+      "longitude": 35.0697,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Or Yehuda",
+      "province": "特拉维夫区",
+      "latitude": 32.0292,
+      "longitude": 34.8579,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "迪莫纳",
+      "name_en": "Dimona",
+      "province": "南部区",
+      "latitude": 31.0708,
+      "longitude": 35.0327,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "采法特",
+      "name_en": "Safed",
+      "province": "北部区",
+      "latitude": 32.9646,
+      "longitude": 35.496,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Ofaqim",
+      "province": "南部区",
+      "latitude": 31.3141,
+      "longitude": 34.6202,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "萨赫宁",
+      "name_en": "Sakhnīn",
+      "province": "北部区",
+      "latitude": 32.8642,
+      "longitude": 35.2971,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "盖代拉",
+      "name_en": "Gedera",
+      "province": "中央区",
+      "latitude": 31.8146,
+      "longitude": 34.78,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "西巴盖",
+      "name_en": "Bāqa el Gharbīya",
+      "province": "海法区",
+      "latitude": 32.4181,
+      "longitude": 35.0431,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Yehud-Monosson",
+      "province": "特拉维夫区",
+      "latitude": 32.0284,
+      "longitude": 34.8796,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Giv'at Shmuel",
+      "province": "特拉维夫区",
+      "latitude": 32.0782,
+      "longitude": 34.8486,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Arad",
+      "province": "南部区",
+      "latitude": 31.2588,
+      "longitude": 35.2128,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Tirat Karmel",
+      "province": "海法区",
+      "latitude": 32.7602,
+      "longitude": 34.9718,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Be’er Ya‘aqov",
+      "province": "中央区",
+      "latitude": 31.9386,
+      "longitude": 34.8375,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Sderot",
+      "province": "南部区",
+      "latitude": 31.525,
+      "longitude": 34.5969,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Eṭ Ṭīra",
+      "province": "中央区",
+      "latitude": 32.2341,
+      "longitude": 34.9502,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "塔姆拉",
+      "name_en": "Tamra",
+      "province": "北部区",
+      "latitude": 32.853,
+      "longitude": 35.1987,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "米格达勒埃梅克",
+      "name_en": "Migdal Ha‘Emeq",
+      "province": "北部区",
+      "latitude": 32.676,
+      "longitude": 35.2399,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "耶胡德",
+      "name_en": "Yehud",
+      "province": "中央区",
+      "latitude": 32.0332,
+      "longitude": 34.8909,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Qiryat Mal’akhi",
+      "province": "南部区",
+      "latitude": 31.7289,
+      "longitude": 34.7463,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Ganei Tikva",
+      "province": "中央区",
+      "latitude": 32.0597,
+      "longitude": 34.8732,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Daliyat al Karmel",
+      "province": "海法区",
+      "latitude": 32.6938,
+      "longitude": 35.0469,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Qiryat HaYovel",
+      "province": "耶路撒冷区",
+      "latitude": 31.7667,
+      "longitude": 35.1667,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "‘Ar‘ara",
+      "province": "海法区",
+      "latitude": 32.4955,
+      "longitude": 35.0941,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Kfar Yona",
+      "province": "中央区",
+      "latitude": 32.3167,
+      "longitude": 34.9351,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "内谢尔",
+      "name_en": "Nesher",
+      "province": "海法区",
+      "latitude": 32.7662,
+      "longitude": 35.0442,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "梅瓦塞莱特锡安",
+      "name_en": "Mevasseret Tsiyyon",
+      "province": "耶路撒冷区",
+      "latitude": 31.8019,
+      "longitude": 35.1507,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Gan Yavne",
+      "province": "中央区",
+      "latitude": 31.7874,
+      "longitude": 34.7066,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Kafr Qāsim",
+      "province": "中央区",
+      "latitude": 32.1141,
+      "longitude": 34.9762,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Yoqne‘am ‘Illit",
+      "province": "北部区",
+      "latitude": 32.6538,
+      "longitude": 35.1038,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Zikhron Ya‘aqov",
+      "province": "海法区",
+      "latitude": 32.5665,
+      "longitude": 34.9563,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Maghār",
+      "province": "北部区",
+      "latitude": 32.8898,
+      "longitude": 35.407,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Kafr Kannā",
+      "province": "北部区",
+      "latitude": 32.7466,
+      "longitude": 35.3424,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "谢莫纳城",
+      "name_en": "Qiryat Shmona",
+      "province": "北部区",
+      "latitude": 33.2073,
+      "longitude": 35.5721,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Kadima Zoran",
+      "province": "中央区",
+      "latitude": 32.2778,
+      "longitude": 34.9194,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "maalot Tarshīhā",
+      "province": "北部区",
+      "latitude": 33.0167,
+      "longitude": 35.2667,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "H̱ura",
+      "province": "南部区",
+      "latitude": 31.3008,
+      "longitude": 34.9361,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Judeida Makr",
+      "province": "北部区",
+      "latitude": 32.9282,
+      "longitude": 35.157,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Kuseifa",
+      "province": "南部区",
+      "latitude": 31.2453,
+      "longitude": 35.0931,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "索哈姆",
+      "name_en": "Shoham",
+      "province": "中央区",
+      "latitude": 31.9987,
+      "longitude": 34.9456,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Ariel",
+      "province": "Judea and Samaria Area",
+      "latitude": 31.769,
+      "longitude": 35.2163,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Tel Sheva‘",
+      "province": "南部区",
+      "latitude": 31.2486,
+      "longitude": 34.8601,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Kafr Mandā",
+      "province": "北部区",
+      "latitude": 32.8103,
+      "longitude": 35.2601,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "拉哈特",
+      "name_en": "Rahat",
+      "province": "南部区",
+      "latitude": 31.3955,
+      "longitude": 34.757,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Kafr Qari‘",
+      "province": "海法区",
+      "latitude": 32.5067,
+      "longitude": 35.0539,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Or Akiva",
+      "province": "海法区",
+      "latitude": 32.5064,
+      "longitude": 34.9209,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Yāfā",
+      "province": "北部区",
+      "latitude": 32.0504,
+      "longitude": 34.7522,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Qiryat Tiv‘on",
+      "province": "海法区",
+      "latitude": 32.7162,
+      "longitude": 35.1249,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "‘Ar‘ara BaNegev",
+      "province": "南部区",
+      "latitude": 31.1605,
+      "longitude": 35.0227,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Yirkā",
+      "province": "北部区",
+      "latitude": 32.9543,
+      "longitude": 35.212,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Qalansuwa",
+      "province": "中央区",
+      "latitude": 32.2849,
+      "longitude": 34.9811,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "贝特谢安",
+      "name_en": "Bet She’an",
+      "province": "北部区",
+      "latitude": 32.4973,
+      "longitude": 35.4963,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Binyamina",
+      "province": "海法区",
+      "latitude": 32.5232,
+      "longitude": 34.945,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Binyamina-Giv'at Ada",
+      "province": "海法区",
+      "latitude": 32.5182,
+      "longitude": 34.954,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Er Reina",
+      "province": "北部区",
+      "latitude": 32.7234,
+      "longitude": 35.3162,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Giv`at H̱ananya",
+      "province": "耶路撒冷区",
+      "latitude": 31.7667,
+      "longitude": 35.2333,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Majd el Kurūm",
+      "province": "北部区",
+      "latitude": 32.9219,
+      "longitude": 35.2557,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Jisr ez Zarqā",
+      "province": "海法区",
+      "latitude": 32.5368,
+      "longitude": 34.9127,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "麦扎奇纳特巴特雅",
+      "name_en": "Mazkeret Batya",
+      "province": "中央区",
+      "latitude": 31.8536,
+      "longitude": 34.8465,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Maale Iron",
+      "province": "北部区",
+      "latitude": 32.5538,
+      "longitude": 35.1841,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Iksāl",
+      "province": "北部区",
+      "latitude": 32.6816,
+      "longitude": 35.3237,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Abū Sinān",
+      "province": "北部区",
+      "latitude": 32.9589,
+      "longitude": 35.1715,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "卡布勒",
+      "name_en": "Kābūl",
+      "province": "北部区",
+      "latitude": 32.8686,
+      "longitude": 35.2117,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Laqiyya",
+      "province": "南部区",
+      "latitude": 31.3185,
+      "longitude": 34.8589,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "艾凡耶胡达",
+      "name_en": "Even Yehuda",
+      "province": "中央区",
+      "latitude": 32.2696,
+      "longitude": 34.8876,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "‘Ein Māhil",
+      "province": "北部区",
+      "latitude": 32.723,
+      "longitude": 35.353,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "I‘billīn",
+      "province": "北部区",
+      "latitude": 32.8223,
+      "longitude": 35.1927,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "El Fureidīs",
+      "province": "海法区",
+      "latitude": 32.5981,
+      "longitude": 34.9515,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "特拉蒙德",
+      "name_en": "Tel Mond",
+      "province": "中央区",
+      "latitude": 32.2499,
+      "longitude": 34.9174,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Naḥf",
+      "province": "北部区",
+      "latitude": 32.9344,
+      "longitude": 35.3168,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Azor",
+      "province": "特拉维夫区",
+      "latitude": 32.0243,
+      "longitude": 34.8063,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Rekhasim",
+      "province": "海法区",
+      "latitude": 32.7491,
+      "longitude": 35.099,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Deir el Asad",
+      "province": "北部区",
+      "latitude": 32.936,
+      "longitude": 35.27,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "‘Isfiyā",
+      "province": "海法区",
+      "latitude": 32.7184,
+      "longitude": 35.0651,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Jatt",
+      "province": "海法区",
+      "latitude": 32.3984,
+      "longitude": 35.0393,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Beit Jann",
+      "province": "北部区",
+      "latitude": 32.9646,
+      "longitude": 35.3815,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Majdal Shams",
+      "province": "北部区",
+      "latitude": 33.2703,
+      "longitude": 35.7716,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "基列以革伦",
+      "name_en": "Qiryat ‘Eqron",
+      "province": "中央区",
+      "latitude": 31.8612,
+      "longitude": 34.8227,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Segev Shalom",
+      "province": "南部区",
+      "latitude": 31.1992,
+      "longitude": 34.8396,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Deir Ḥannā",
+      "province": "北部区",
+      "latitude": 32.862,
+      "longitude": 35.3636,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Yeroẖam",
+      "province": "南部区",
+      "latitude": 30.9882,
+      "longitude": 34.9318,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "贾尔朱利亚",
+      "name_en": "Jaljūlya",
+      "province": "中央区",
+      "latitude": 32.1547,
+      "longitude": 34.9537,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Kfar Yasif",
+      "province": "北部区",
+      "latitude": 32.9545,
+      "longitude": 35.1623,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Herzliya Pituah",
+      "province": "特拉维夫区",
+      "latitude": 32.1741,
+      "longitude": 34.8028,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Basma",
+      "province": "海法区",
+      "latitude": 32.529,
+      "longitude": 35.1006,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Bu'ayna-Nujaydat",
+      "province": "北部区",
+      "latitude": 32.8097,
+      "longitude": 35.3699,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "H̱atsor HaGelilit",
+      "province": "北部区",
+      "latitude": 32.9805,
+      "longitude": 35.5424,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "阿特里特",
+      "name_en": "Atlit",
+      "province": "海法区",
+      "latitude": 32.6889,
+      "longitude": 34.9424,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Kisra - Sume'a",
+      "province": "北部区",
+      "latitude": 32.9726,
+      "longitude": 35.2988,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Kokhav Ya’ir",
+      "province": "中央区",
+      "latitude": 32.2262,
+      "longitude": 35.0022,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Meitar",
+      "province": "南部区",
+      "latitude": 31.3273,
+      "longitude": 34.9385,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Bi’na",
+      "province": "北部区",
+      "latitude": 32.9307,
+      "longitude": 35.2716,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "‘Ilūṭ",
+      "province": "北部区",
+      "latitude": 32.7164,
+      "longitude": 35.2594,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Dabbūrīya",
+      "province": "北部区",
+      "latitude": 32.6926,
+      "longitude": 35.3712,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Zarzir",
+      "province": "北部区",
+      "latitude": 32.7275,
+      "longitude": 35.2138,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Basmat Ṭab‘ūn",
+      "province": "北部区",
+      "latitude": 32.739,
+      "longitude": 35.1572,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Bu‘eina",
+      "province": "北部区",
+      "latitude": 32.8064,
+      "longitude": 35.3649,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Ramat Yishay",
+      "province": "北部区",
+      "latitude": 32.7044,
+      "longitude": 35.1707,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Rama",
+      "province": "北部区",
+      "latitude": 32.9384,
+      "longitude": 35.3675,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Abū Ghaush",
+      "province": "耶路撒冷区",
+      "latitude": 31.8059,
+      "longitude": 35.1093,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "H̱arish",
+      "province": "海法区",
+      "latitude": 32.461,
+      "longitude": 35.0435,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "‘Omer",
+      "province": "南部区",
+      "latitude": 31.2649,
+      "longitude": 34.8477,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "卡兹林",
+      "name_en": "Katzrin",
+      "province": "",
+      "latitude": 32.9919,
+      "longitude": 35.6914,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Bīr el Maksūr",
+      "province": "北部区",
+      "latitude": 32.7773,
+      "longitude": 35.2207,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Bet Dagan",
+      "province": "中央区",
+      "latitude": 32.9646,
+      "longitude": 35.3815,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Zemer",
+      "province": "中央区",
+      "latitude": 32.3666,
+      "longitude": 35.0331,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Bnei Ayish",
+      "province": "中央区",
+      "latitude": 31.79,
+      "longitude": 34.759,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Sha‘av",
+      "province": "北部区",
+      "latitude": 32.8894,
+      "longitude": 35.2409,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Tūbā Zangarīya",
+      "province": "北部区",
+      "latitude": 32.9661,
+      "longitude": 35.593,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Yanuah Jat",
+      "province": "北部区",
+      "latitude": 32.9798,
+      "longitude": 35.2381,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Yanuh-Jat",
+      "province": "北部区",
+      "latitude": 32.9798,
+      "longitude": 35.2381,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "卡法哈巴德",
+      "name_en": "Kfar H̱abad",
+      "province": "中央区",
+      "latitude": 31.9879,
+      "longitude": 34.8516,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Shlomi",
+      "province": "北部区",
+      "latitude": 33.0719,
+      "longitude": 35.1453,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Jūlis",
+      "province": "北部区",
+      "latitude": 32.9427,
+      "longitude": 35.1828,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "莱哈维姆",
+      "name_en": "Lehavim",
+      "province": "南部区",
+      "latitude": 31.3728,
+      "longitude": 34.8162,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Ḥurfeish",
+      "province": "北部区",
+      "latitude": 33.0171,
+      "longitude": 35.3484,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Qiryat Ye‘arim",
+      "province": "耶路撒冷区",
+      "latitude": 31.803,
+      "longitude": 35.102,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Tsur Itshak",
+      "province": "中央区",
+      "latitude": 32.2405,
+      "longitude": 34.9979,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Bet El‘azari",
+      "province": "中央区",
+      "latitude": 31.8443,
+      "longitude": 34.8037,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Shibli–Umm al-Ghanam",
+      "province": "北部区",
+      "latitude": 32.684,
+      "longitude": 35.3962,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Pardesiyya",
+      "province": "中央区",
+      "latitude": 32.3058,
+      "longitude": 34.9091,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Buqei‘a",
+      "province": "北部区",
+      "latitude": 32.9775,
+      "longitude": 35.3334,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "‘Eilabun",
+      "province": "北部区",
+      "latitude": 32.8369,
+      "longitude": 35.4003,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Bir Hadaj",
+      "province": "南部区",
+      "latitude": 31.0242,
+      "longitude": 34.7086,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "AlSayid Tribe",
+      "province": "南部区",
+      "latitude": 31.2825,
+      "longitude": 34.9151,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Ka‘abiyya",
+      "province": "北部区",
+      "latitude": 32.7499,
+      "longitude": 35.1836,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Kfar Veradim",
+      "province": "北部区",
+      "latitude": 32.9939,
+      "longitude": 35.2779,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "凯撒利亚",
+      "name_en": "Caesarea",
+      "province": "海法区",
+      "latitude": 32.5189,
+      "longitude": 34.9046,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Bat H̱efer",
+      "province": "中央区",
+      "latitude": 32.3331,
+      "longitude": 35.0127,
+      "timezone": "Asia/Jerusalem"
+    },
+    {
+      "name": "",
+      "name_en": "Mitzpe Ramon",
+      "province": "南部区",
+      "latitude": 30.6094,
+      "longitude": 34.8011,
+      "timezone": "Asia/Jerusalem"
+    }
+  ]
+}

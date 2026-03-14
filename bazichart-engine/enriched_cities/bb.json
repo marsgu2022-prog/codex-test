@@ -1,0 +1,94 @@
+{
+  "country_code": "BB",
+  "country_name": "巴巴多斯",
+  "cities": [
+    {
+      "name": "布里奇敦",
+      "name_en": "Bridgetown",
+      "province": "圣迈克尔区",
+      "latitude": 13.1073,
+      "longitude": -59.6202,
+      "timezone": "America/Barbados"
+    },
+    {
+      "name": "",
+      "name_en": "White Hill",
+      "province": "圣安德鲁区",
+      "latitude": 13.2137,
+      "longitude": -59.5811,
+      "timezone": "America/Barbados"
+    },
+    {
+      "name": "",
+      "name_en": "Speightstown",
+      "province": "圣彼得教区",
+      "latitude": 13.2507,
+      "longitude": -59.644,
+      "timezone": "America/Barbados"
+    },
+    {
+      "name": "",
+      "name_en": "Oistins",
+      "province": "基督城教区",
+      "latitude": 13.0707,
+      "longitude": -59.5464,
+      "timezone": "America/Barbados"
+    },
+    {
+      "name": "",
+      "name_en": "Bathsheba",
+      "province": "圣约瑟夫区",
+      "latitude": 13.2113,
+      "longitude": -59.526,
+      "timezone": "America/Barbados"
+    },
+    {
+      "name": "",
+      "name_en": "Holetown",
+      "province": "圣詹姆斯教区",
+      "latitude": 13.1867,
+      "longitude": -59.6381,
+      "timezone": "America/Barbados"
+    },
+    {
+      "name": "",
+      "name_en": "Crane",
+      "province": "圣菲利普区",
+      "latitude": 13.1049,
+      "longitude": -59.4486,
+      "timezone": "America/Barbados"
+    },
+    {
+      "name": "",
+      "name_en": "Greenland",
+      "province": "圣安德鲁区",
+      "latitude": 13.2581,
+      "longitude": -59.5776,
+      "timezone": "America/Barbados"
+    },
+    {
+      "name": "",
+      "name_en": "Checker Hall",
+      "province": "圣露西教区",
+      "latitude": 13.2844,
+      "longitude": -59.6422,
+      "timezone": "America/Barbados"
+    },
+    {
+      "name": "",
+      "name_en": "Four Cross Roads",
+      "province": "圣约翰教区",
+      "latitude": 13.1702,
+      "longitude": -59.5219,
+      "timezone": "America/Barbados"
+    },
+    {
+      "name": "",
+      "name_en": "Welchman Hall",
+      "province": "圣托马斯区",
+      "latitude": 13.1868,
+      "longitude": -59.5766,
+      "timezone": "America/Barbados"
+    }
+  ]
+}

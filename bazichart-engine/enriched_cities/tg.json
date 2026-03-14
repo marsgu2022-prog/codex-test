@@ -1,0 +1,262 @@
+{
+  "country_code": "TG",
+  "country_name": "多哥",
+  "cities": [
+    {
+      "name": "洛美",
+      "name_en": "Lomé",
+      "province": "滨海区",
+      "latitude": 6.1287,
+      "longitude": 1.2215,
+      "timezone": "Africa/Lome"
+    },
+    {
+      "name": "索科德",
+      "name_en": "Sokodé",
+      "province": "中部区",
+      "latitude": 8.9833,
+      "longitude": 1.1333,
+      "timezone": "Africa/Lome"
+    },
+    {
+      "name": "",
+      "name_en": "Kara",
+      "province": "卡拉区",
+      "latitude": 9.5511,
+      "longitude": 1.1861,
+      "timezone": "Africa/Lome"
+    },
+    {
+      "name": "阿塔帕梅",
+      "name_en": "Atakpamé",
+      "province": "高原区",
+      "latitude": 7.5333,
+      "longitude": 1.1333,
+      "timezone": "Africa/Lome"
+    },
+    {
+      "name": "帕利梅",
+      "name_en": "Kpalimé",
+      "province": "高原区",
+      "latitude": 6.9,
+      "longitude": 0.6333,
+      "timezone": "Africa/Lome"
+    },
+    {
+      "name": "巴萨",
+      "name_en": "Bassar",
+      "province": "卡拉区",
+      "latitude": 9.2502,
+      "longitude": 0.7821,
+      "timezone": "Africa/Lome"
+    },
+    {
+      "name": "达庞",
+      "name_en": "Dapaong",
+      "province": "草原区",
+      "latitude": 10.8622,
+      "longitude": 0.2076,
+      "timezone": "Africa/Lome"
+    },
+    {
+      "name": "策维埃",
+      "name_en": "Tsévié",
+      "province": "滨海区",
+      "latitude": 6.4261,
+      "longitude": 1.2133,
+      "timezone": "Africa/Lome"
+    },
+    {
+      "name": "阿内霍",
+      "name_en": "Aného",
+      "province": "滨海区",
+      "latitude": 6.228,
+      "longitude": 1.5919,
+      "timezone": "Africa/Lome"
+    },
+    {
+      "name": "曼戈",
+      "name_en": "Mango",
+      "province": "草原区",
+      "latitude": 10.3592,
+      "longitude": 0.4708,
+      "timezone": "Africa/Lome"
+    },
+    {
+      "name": "",
+      "name_en": "Anié",
+      "province": "高原区",
+      "latitude": 7.75,
+      "longitude": 1.2,
+      "timezone": "Africa/Lome"
+    },
+    {
+      "name": "诺策",
+      "name_en": "Notsé",
+      "province": "高原区",
+      "latitude": 6.95,
+      "longitude": 1.1667,
+      "timezone": "Africa/Lome"
+    },
+    {
+      "name": "",
+      "name_en": "Sinkassé",
+      "province": "草原区",
+      "latitude": 11.1039,
+      "longitude": 0.0094,
+      "timezone": "Africa/Lome"
+    },
+    {
+      "name": "昌巴",
+      "name_en": "Tchamba",
+      "province": "中部区",
+      "latitude": 9.0333,
+      "longitude": 1.4167,
+      "timezone": "Africa/Lome"
+    },
+    {
+      "name": "索图布阿",
+      "name_en": "Sotouboua",
+      "province": "中部区",
+      "latitude": 8.5634,
+      "longitude": 0.984,
+      "timezone": "Africa/Lome"
+    },
+    {
+      "name": "",
+      "name_en": "Badou",
+      "province": "高原区",
+      "latitude": 7.5833,
+      "longitude": 0.6,
+      "timezone": "Africa/Lome"
+    },
+    {
+      "name": "尼亚姆图古",
+      "name_en": "Niamtougou",
+      "province": "卡拉区",
+      "latitude": 9.7681,
+      "longitude": 1.1053,
+      "timezone": "Africa/Lome"
+    },
+    {
+      "name": "巴菲洛",
+      "name_en": "Bafilo",
+      "province": "卡拉区",
+      "latitude": 9.35,
+      "longitude": 1.2667,
+      "timezone": "Africa/Lome"
+    },
+    {
+      "name": "",
+      "name_en": "Tabligbo",
+      "province": "滨海区",
+      "latitude": 6.5833,
+      "longitude": 1.5,
+      "timezone": "Africa/Lome"
+    },
+    {
+      "name": "",
+      "name_en": "Vogan",
+      "province": "滨海区",
+      "latitude": 6.3333,
+      "longitude": 1.5333,
+      "timezone": "Africa/Lome"
+    },
+    {
+      "name": "康代",
+      "name_en": "Kandé",
+      "province": "卡拉区",
+      "latitude": 9.9578,
+      "longitude": 1.0447,
+      "timezone": "Africa/Lome"
+    },
+    {
+      "name": "阿姆拉梅",
+      "name_en": "Amlamé",
+      "province": "高原区",
+      "latitude": 7.4667,
+      "longitude": 0.9,
+      "timezone": "Africa/Lome"
+    },
+    {
+      "name": "",
+      "name_en": "Blitta",
+      "province": "中部区",
+      "latitude": 8.3233,
+      "longitude": 0.9859,
+      "timezone": "Africa/Lome"
+    },
+    {
+      "name": "",
+      "name_en": "Guérin-Kouka",
+      "province": "卡拉区",
+      "latitude": 9.6906,
+      "longitude": 0.6114,
+      "timezone": "Africa/Lome"
+    },
+    {
+      "name": "",
+      "name_en": "Afanyangan",
+      "province": "滨海区",
+      "latitude": 6.4833,
+      "longitude": 1.65,
+      "timezone": "Africa/Lome"
+    },
+    {
+      "name": "",
+      "name_en": "Adéta",
+      "province": "高原区",
+      "latitude": 7.1333,
+      "longitude": 0.7333,
+      "timezone": "Africa/Lome"
+    },
+    {
+      "name": "",
+      "name_en": "Pagouda",
+      "province": "卡拉区",
+      "latitude": 9.7525,
+      "longitude": 1.3278,
+      "timezone": "Africa/Lome"
+    },
+    {
+      "name": "",
+      "name_en": "Tohoun",
+      "province": "高原区",
+      "latitude": 7.0333,
+      "longitude": 1.6167,
+      "timezone": "Africa/Lome"
+    },
+    {
+      "name": "",
+      "name_en": "Elavagnon",
+      "province": "高原区",
+      "latitude": 7.2833,
+      "longitude": 0.7167,
+      "timezone": "Africa/Lome"
+    },
+    {
+      "name": "",
+      "name_en": "Kouniohou",
+      "province": "高原区",
+      "latitude": 7.6667,
+      "longitude": 0.8,
+      "timezone": "Africa/Lome"
+    },
+    {
+      "name": "",
+      "name_en": "Danyi-Apéyémé",
+      "province": "高原区",
+      "latitude": 7.2036,
+      "longitude": 0.6956,
+      "timezone": "Africa/Lome"
+    },
+    {
+      "name": "曼杜里",
+      "name_en": "Mandouri",
+      "province": "草原区",
+      "latitude": 10.85,
+      "longitude": 0.8167,
+      "timezone": "Africa/Lome"
+    }
+  ]
+}

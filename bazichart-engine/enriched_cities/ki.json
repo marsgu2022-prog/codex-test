@@ -1,0 +1,30 @@
+{
+  "country_code": "KI",
+  "country_name": "基里巴斯",
+  "cities": [
+    {
+      "name": "",
+      "name_en": "Tarawa",
+      "province": "Gilbert Islands",
+      "latitude": 1.3278,
+      "longitude": 172.977,
+      "timezone": "Pacific/Tarawa"
+    },
+    {
+      "name": "",
+      "name_en": "Betio Village",
+      "province": "Gilbert Islands",
+      "latitude": 1.358,
+      "longitude": 172.9211,
+      "timezone": "Pacific/Tarawa"
+    },
+    {
+      "name": "",
+      "name_en": "Bikenibeu Village",
+      "province": "Gilbert Islands",
+      "latitude": 1.3673,
+      "longitude": 173.1241,
+      "timezone": "Pacific/Tarawa"
+    }
+  ]
+}

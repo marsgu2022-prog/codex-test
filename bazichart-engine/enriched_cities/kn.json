@@ -1,0 +1,118 @@
+{
+  "country_code": "KN",
+  "country_name": "圣基茨和尼维斯",
+  "cities": [
+    {
+      "name": "巴斯特尔",
+      "name_en": "Basseterre",
+      "province": "Saint George Basseterre",
+      "latitude": 17.2955,
+      "longitude": -62.725,
+      "timezone": "America/St_Kitts"
+    },
+    {
+      "name": "",
+      "name_en": "Sandy Point Town",
+      "province": "Saint Anne Sandy Point",
+      "latitude": 17.3591,
+      "longitude": -62.8486,
+      "timezone": "America/St_Kitts"
+    },
+    {
+      "name": "",
+      "name_en": "Fig Tree",
+      "province": "Saint John Figtree",
+      "latitude": 17.1262,
+      "longitude": -62.6026,
+      "timezone": "America/St_Kitts"
+    },
+    {
+      "name": "",
+      "name_en": "Market Shop",
+      "province": "Saint George Gingerland",
+      "latitude": 17.1322,
+      "longitude": -62.5727,
+      "timezone": "America/St_Kitts"
+    },
+    {
+      "name": "",
+      "name_en": "Saint Paul’s",
+      "province": "Saint Paul Capesterre",
+      "latitude": 17.4061,
+      "longitude": -62.8356,
+      "timezone": "America/St_Kitts"
+    },
+    {
+      "name": "",
+      "name_en": "Middle Island",
+      "province": "Middle Island",
+      "latitude": 17.3259,
+      "longitude": -62.8105,
+      "timezone": "America/St_Kitts"
+    },
+    {
+      "name": "",
+      "name_en": "Nicola Town",
+      "province": "Christ Church Nichola Town",
+      "latitude": 17.3796,
+      "longitude": -62.7532,
+      "timezone": "America/St_Kitts"
+    },
+    {
+      "name": "",
+      "name_en": "Trinity",
+      "province": "Trinity Palmetto Point",
+      "latitude": 17.3004,
+      "longitude": -62.7758,
+      "timezone": "America/St_Kitts"
+    },
+    {
+      "name": "",
+      "name_en": "Charlestown",
+      "province": "Saint Paul Charlestown",
+      "latitude": 17.1333,
+      "longitude": -62.6167,
+      "timezone": "America/St_Kitts"
+    },
+    {
+      "name": "",
+      "name_en": "Cayon",
+      "province": "Saint Mary Cayon",
+      "latitude": 17.35,
+      "longitude": -62.7333,
+      "timezone": "America/St_Kitts"
+    },
+    {
+      "name": "",
+      "name_en": "Dieppe Bay Town",
+      "province": "Saint John Capesterre",
+      "latitude": 17.4147,
+      "longitude": -62.8139,
+      "timezone": "America/St_Kitts"
+    },
+    {
+      "name": "",
+      "name_en": "Monkey Hill",
+      "province": "Saint Peter Basseterre",
+      "latitude": 17.3233,
+      "longitude": -62.7291,
+      "timezone": "America/St_Kitts"
+    },
+    {
+      "name": "",
+      "name_en": "Newcastle",
+      "province": "Saint James Windwa",
+      "latitude": 17.2,
+      "longitude": -62.5833,
+      "timezone": "America/St_Kitts"
+    },
+    {
+      "name": "",
+      "name_en": "Cotton Ground",
+      "province": "Saint Thomas Lowland",
+      "latitude": 17.1667,
+      "longitude": -62.6167,
+      "timezone": "America/St_Kitts"
+    }
+  ]
+}

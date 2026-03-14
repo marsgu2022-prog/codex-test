@@ -1,0 +1,14 @@
+{
+  "country_code": "PN",
+  "country_name": "皮特凯恩",
+  "cities": [
+    {
+      "name": "亚当斯敦",
+      "name_en": "Adamstown",
+      "province": "",
+      "latitude": -25.066,
+      "longitude": -130.1015,
+      "timezone": "Pacific/Pitcairn"
+    }
+  ]
+}

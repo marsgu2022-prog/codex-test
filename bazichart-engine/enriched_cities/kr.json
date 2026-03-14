@@ -1,0 +1,1230 @@
+{
+  "country_code": "KR",
+  "country_name": "韩国",
+  "cities": [
+    {
+      "name": "首尔特别市",
+      "name_en": "Seoul",
+      "province": "首尔特别市",
+      "latitude": 37.566,
+      "longitude": 126.9784,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "釜山广域市",
+      "name_en": "Busan",
+      "province": "釜山广域市",
+      "latitude": 35.1017,
+      "longitude": 129.03,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "仁川广域市",
+      "name_en": "Incheon",
+      "province": "Incheon",
+      "latitude": 37.4565,
+      "longitude": 126.7052,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "大邱广域市",
+      "name_en": "Daegu",
+      "province": "Daegu",
+      "latitude": 35.8703,
+      "longitude": 128.5911,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "大田广域市",
+      "name_en": "Daejeon",
+      "province": "Daejeon",
+      "latitude": 36.3491,
+      "longitude": 127.3849,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "光州广域市",
+      "name_en": "Gwangju",
+      "province": "光州广域市",
+      "latitude": 35.1547,
+      "longitude": 126.9156,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "水原市",
+      "name_en": "Suwon",
+      "province": "京畿道",
+      "latitude": 37.2911,
+      "longitude": 127.0089,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "蔚山",
+      "name_en": "Ulsan",
+      "province": "Ulsan",
+      "latitude": 35.5372,
+      "longitude": 129.3167,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Goyang-si",
+      "province": "京畿道",
+      "latitude": 37.6564,
+      "longitude": 126.835,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "昌原市",
+      "name_en": "Changwon",
+      "province": "Gyeongsangnam-do",
+      "latitude": 35.2281,
+      "longitude": 128.6811,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Seongnam-si",
+      "province": "京畿道",
+      "latitude": 37.4386,
+      "longitude": 127.1378,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Cheongju-si",
+      "province": "North Chungcheong",
+      "latitude": 36.6372,
+      "longitude": 127.4897,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Bucheon-si",
+      "province": "京畿道",
+      "latitude": 37.4989,
+      "longitude": 126.7831,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "天安市",
+      "name_en": "Cheonan",
+      "province": "Chungcheongnam-do",
+      "latitude": 36.8065,
+      "longitude": 127.1522,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Hwaseong-si",
+      "province": "京畿道",
+      "latitude": 37.2068,
+      "longitude": 126.8169,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "全州市",
+      "name_en": "Jeonju",
+      "province": "Jeollabuk-do",
+      "latitude": 35.8219,
+      "longitude": 127.1489,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "安山",
+      "name_en": "Ansan-si",
+      "province": "京畿道",
+      "latitude": 37.3236,
+      "longitude": 126.8219,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Anyang-si",
+      "province": "京畿道",
+      "latitude": 37.3925,
+      "longitude": 126.9269,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Kimhae",
+      "province": "Gyeongsangnam-do",
+      "latitude": 35.2342,
+      "longitude": 128.8811,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Pohang",
+      "province": "Gyeongsangbuk-do",
+      "latitude": 36.0292,
+      "longitude": 129.3648,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "済州市",
+      "name_en": "Jeju City",
+      "province": "Jeju-do",
+      "latitude": 33.5097,
+      "longitude": 126.5219,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Uijeongbu-si",
+      "province": "京畿道",
+      "latitude": 37.7415,
+      "longitude": 127.0474,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Masan",
+      "province": "光州广域市",
+      "latitude": 35.1272,
+      "longitude": 126.8315,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "龟尾市",
+      "name_en": "Gumi",
+      "province": "Gyeongsangbuk-do",
+      "latitude": 36.1136,
+      "longitude": 128.336,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "世宗",
+      "name_en": "Sejong",
+      "province": "Sejong-si",
+      "latitude": 36.5924,
+      "longitude": 127.2922,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Pyeongtaek",
+      "province": "京畿道",
+      "latitude": 36.9947,
+      "longitude": 127.0889,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "梁山市",
+      "name_en": "Yangsan",
+      "province": "Gyeongsangnam-do",
+      "latitude": 35.342,
+      "longitude": 129.0336,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "光明市",
+      "name_en": "Gwangmyeong",
+      "province": "京畿道",
+      "latitude": 37.4772,
+      "longitude": 126.8664,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "原州市",
+      "name_en": "Wŏnju",
+      "province": "Gangwon-do",
+      "latitude": 37.3514,
+      "longitude": 127.9453,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "晋州",
+      "name_en": "Chinju",
+      "province": "Gyeongsangnam-do",
+      "latitude": 35.1928,
+      "longitude": 128.0847,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "益山市",
+      "name_en": "Iksan",
+      "province": "Jeollabuk-do",
+      "latitude": 35.9439,
+      "longitude": 126.9544,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Gunpo",
+      "province": "京畿道",
+      "latitude": 37.3675,
+      "longitude": 126.9469,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "春川市",
+      "name_en": "Chuncheon",
+      "province": "Gangwon-do",
+      "latitude": 37.8747,
+      "longitude": 127.7342,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Suncheon",
+      "province": "Jeollanam-do",
+      "latitude": 34.9505,
+      "longitude": 127.4878,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "丽水市",
+      "name_en": "Yeosu",
+      "province": "Jeollanam-do",
+      "latitude": 34.7606,
+      "longitude": 127.6621,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Mokpo",
+      "province": "Jeollanam-do",
+      "latitude": 34.8128,
+      "longitude": 126.3918,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "庆山市",
+      "name_en": "Gyeongsan-si",
+      "province": "Gyeongsangbuk-do",
+      "latitude": 35.8233,
+      "longitude": 128.7378,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "群山市",
+      "name_en": "Gunsan",
+      "province": "Jeollabuk-do",
+      "latitude": 35.9786,
+      "longitude": 126.7114,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Hanam",
+      "province": "京畿道",
+      "latitude": 37.54,
+      "longitude": 127.2056,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "庆州",
+      "name_en": "Gyeongju",
+      "province": "Gyeongsangbuk-do",
+      "latitude": 35.8428,
+      "longitude": 129.2117,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "乌山市",
+      "name_en": "Osan",
+      "province": "京畿道",
+      "latitude": 37.1522,
+      "longitude": 127.0706,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Geoje",
+      "province": "Gyeongsangnam-do",
+      "latitude": 34.8138,
+      "longitude": 128.7056,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "忠州市",
+      "name_en": "Chungju",
+      "province": "North Chungcheong",
+      "latitude": 36.9767,
+      "longitude": 127.9287,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "江陵市",
+      "name_en": "Gangneung",
+      "province": "Gangwon-do",
+      "latitude": 37.7527,
+      "longitude": 128.8724,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Icheon-si",
+      "province": "京畿道",
+      "latitude": 37.2792,
+      "longitude": 127.4425,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Guri-si",
+      "province": "京畿道",
+      "latitude": 37.5986,
+      "longitude": 127.1394,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "杨州市",
+      "name_en": "Yangju",
+      "province": "京畿道",
+      "latitude": 37.8331,
+      "longitude": 127.0617,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Seogwipo",
+      "province": "Jeju-do",
+      "latitude": 33.2533,
+      "longitude": 126.5618,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Gijang",
+      "province": "釜山广域市",
+      "latitude": 35.2442,
+      "longitude": 129.2139,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Gwangyang",
+      "province": "Jeollanam-do",
+      "latitude": 34.9414,
+      "longitude": 127.6957,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "安东市",
+      "name_en": "Andong",
+      "province": "Gyeongsangbuk-do",
+      "latitude": 36.5664,
+      "longitude": 128.7227,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "金泉市",
+      "name_en": "Gimcheon",
+      "province": "Gyeongsangbuk-do",
+      "latitude": 36.1218,
+      "longitude": 128.1198,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "井邑市",
+      "name_en": "Jeongeup",
+      "province": "Jeollabuk-do",
+      "latitude": 35.6,
+      "longitude": 126.917,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Siheungdong",
+      "province": "首尔特别市",
+      "latitude": 37.4518,
+      "longitude": 126.9108,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "骊州市",
+      "name_en": "Yeoju",
+      "province": "京畿道",
+      "latitude": 37.2958,
+      "longitude": 127.6339,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Hwado",
+      "province": "京畿道",
+      "latitude": 37.6525,
+      "longitude": 127.3075,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Sangju",
+      "province": "Gyeongsangbuk-do",
+      "latitude": 36.4153,
+      "longitude": 128.1606,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Donghae City",
+      "province": "Gangwon-do",
+      "latitude": 37.5439,
+      "longitude": 129.1069,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "牙山市",
+      "name_en": "Asan",
+      "province": "Chungcheongnam-do",
+      "latitude": 36.7836,
+      "longitude": 127.0042,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Wabu",
+      "province": "京畿道",
+      "latitude": 37.5897,
+      "longitude": 127.2203,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "保宁市",
+      "name_en": "Boryeong",
+      "province": "Chungcheongnam-do",
+      "latitude": 36.3493,
+      "longitude": 126.5977,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Muan",
+      "province": "Jeollanam-do",
+      "latitude": 34.9901,
+      "longitude": 126.479,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "南杨州市",
+      "name_en": "Namyangju",
+      "province": "京畿道",
+      "latitude": 37.6367,
+      "longitude": 127.2142,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Kwangyang",
+      "province": "Jeollanam-do",
+      "latitude": 34.9414,
+      "longitude": 127.6957,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Hongseong",
+      "province": "Chungcheongnam-do",
+      "latitude": 36.6009,
+      "longitude": 126.665,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Yeongju",
+      "province": "Gyeongsangbuk-do",
+      "latitude": 36.8217,
+      "longitude": 128.6308,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Wanju",
+      "province": "Jeollabuk-do",
+      "latitude": 35.8451,
+      "longitude": 127.1475,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Yangp'yŏng",
+      "province": "京畿道",
+      "latitude": 37.4897,
+      "longitude": 127.4906,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Ungsang",
+      "province": "Gyeongsangnam-do",
+      "latitude": 35.4061,
+      "longitude": 129.1686,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Sinhyeon",
+      "province": "Gyeongsangnam-do",
+      "latitude": 34.8825,
+      "longitude": 128.6267,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "广州市",
+      "name_en": "Gwangju",
+      "province": "京畿道",
+      "latitude": 35.1547,
+      "longitude": 126.9156,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Nangen",
+      "province": "Jeollabuk-do",
+      "latitude": 35.41,
+      "longitude": 127.3858,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Sokcho",
+      "province": "Gangwon-do",
+      "latitude": 38.207,
+      "longitude": 128.5918,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Naesŏ",
+      "province": "Gyeongsangnam-do",
+      "latitude": 35.2497,
+      "longitude": 128.52,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "闻庆市",
+      "name_en": "Mungyeong",
+      "province": "Gyeongsangbuk-do",
+      "latitude": 36.5946,
+      "longitude": 128.1995,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Hongch’ŏn",
+      "province": "Gangwon-do",
+      "latitude": 37.6918,
+      "longitude": 127.8857,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Changnyeong",
+      "province": "Gyeongsangnam-do",
+      "latitude": 35.5414,
+      "longitude": 128.4951,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "瑞山市",
+      "name_en": "Seosan",
+      "province": "Chungcheongnam-do",
+      "latitude": 36.7817,
+      "longitude": 126.4522,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Koch'ang",
+      "province": "Jeollabuk-do",
+      "latitude": 35.4333,
+      "longitude": 126.7,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "公州",
+      "name_en": "Gongju",
+      "province": "Chungcheongnam-do",
+      "latitude": 36.4556,
+      "longitude": 127.1247,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Kyosai",
+      "province": "Gyeongsangnam-do",
+      "latitude": 34.8503,
+      "longitude": 128.5886,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Tongyeong",
+      "province": "Gyeongsangnam-do",
+      "latitude": 34.8496,
+      "longitude": 128.4278,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "安城市",
+      "name_en": "Anseong",
+      "province": "京畿道",
+      "latitude": 37.0108,
+      "longitude": 127.2703,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Hwawŏn",
+      "province": "Daegu",
+      "latitude": 35.8017,
+      "longitude": 128.5008,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Uiwang",
+      "province": "京畿道",
+      "latitude": 37.3653,
+      "longitude": 126.9478,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Pubal",
+      "province": "京畿道",
+      "latitude": 37.2917,
+      "longitude": 127.5078,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Kosong",
+      "province": "Gangwon-do",
+      "latitude": 38.3788,
+      "longitude": 128.4676,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Chinch'ŏn",
+      "province": "North Chungcheong",
+      "latitude": 36.8567,
+      "longitude": 127.4433,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Hwasun",
+      "province": "Jeollanam-do",
+      "latitude": 35.0613,
+      "longitude": 126.9875,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Buyeo",
+      "province": "Chungcheongnam-do",
+      "latitude": 36.2747,
+      "longitude": 126.9091,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Okcheon",
+      "province": "North Chungcheong",
+      "latitude": 36.3012,
+      "longitude": 127.568,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Eisen",
+      "province": "Gyeongsangbuk-do",
+      "latitude": 36.8217,
+      "longitude": 128.6308,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "加平郡",
+      "name_en": "Gapyeong",
+      "province": "京畿道",
+      "latitude": 37.831,
+      "longitude": 127.5106,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Tallang-dong",
+      "province": "Jeju-do",
+      "latitude": 33.4903,
+      "longitude": 126.4753,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Yecheon",
+      "province": "Gyeongsangbuk-do",
+      "latitude": 36.6574,
+      "longitude": 128.4551,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Sinan",
+      "province": "Jeollanam-do",
+      "latitude": 34.8262,
+      "longitude": 126.1086,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "密阳市",
+      "name_en": "Miryang",
+      "province": "Gyeongsangnam-do",
+      "latitude": 35.4933,
+      "longitude": 128.7489,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Yeonggwang",
+      "province": "Jeollanam-do",
+      "latitude": 35.2781,
+      "longitude": 126.5118,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Yeongam",
+      "province": "Jeollanam-do",
+      "latitude": 34.8006,
+      "longitude": 126.6967,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "T’aebaek",
+      "province": "Gangwon-do",
+      "latitude": 37.1759,
+      "longitude": 128.9889,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Ido-dong",
+      "province": "Jeju-do",
+      "latitude": 33.4978,
+      "longitude": 126.5272,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Kimje",
+      "province": "Jeollabuk-do",
+      "latitude": 35.8017,
+      "longitude": 126.8889,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Damyang",
+      "province": "Jeollanam-do",
+      "latitude": 35.3189,
+      "longitude": 126.9839,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Koesan",
+      "province": "North Chungcheong",
+      "latitude": 36.8108,
+      "longitude": 127.7947,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "论山市",
+      "name_en": "Nonsan",
+      "province": "Chungcheongnam-do",
+      "latitude": 36.2039,
+      "longitude": 127.0847,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Yeongdong",
+      "province": "North Chungcheong",
+      "latitude": 36.175,
+      "longitude": 127.7764,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Munsan",
+      "province": "京畿道",
+      "latitude": 37.8594,
+      "longitude": 126.785,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Seodong",
+      "province": "Jeju-do",
+      "latitude": 33.4844,
+      "longitude": 126.4925,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "罗州市",
+      "name_en": "Naju",
+      "province": "Jeollanam-do",
+      "latitude": 35.0292,
+      "longitude": 126.7175,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Santyoku",
+      "province": "Gangwon-do",
+      "latitude": 37.4406,
+      "longitude": 129.1708,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Jangseong",
+      "province": "Jeollanam-do",
+      "latitude": 35.2978,
+      "longitude": 126.7844,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Hadong",
+      "province": "Gyeongsangnam-do",
+      "latitude": 35.068,
+      "longitude": 127.7515,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Cheorwon",
+      "province": "Gangwon-do",
+      "latitude": 38.2092,
+      "longitude": 127.2175,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Ara-dong",
+      "province": "Jeju-do",
+      "latitude": 33.4689,
+      "longitude": 126.5275,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Yesan",
+      "province": "Chungcheongnam-do",
+      "latitude": 36.6776,
+      "longitude": 126.8427,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Jungpyong",
+      "province": "North Chungcheong",
+      "latitude": 36.7847,
+      "longitude": 127.5819,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Boseong",
+      "province": "Jeollanam-do",
+      "latitude": 34.7715,
+      "longitude": 127.08,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Heunghae",
+      "province": "Gyeongsangbuk-do",
+      "latitude": 36.1095,
+      "longitude": 129.3452,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Yeonil",
+      "province": "Gyeongsangbuk-do",
+      "latitude": 36.0045,
+      "longitude": 129.3185,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Jangheung",
+      "province": "Jeollanam-do",
+      "latitude": 34.6816,
+      "longitude": 126.9069,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Kunwi",
+      "province": "Gyeongsangbuk-do",
+      "latitude": 36.2347,
+      "longitude": 128.5728,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Tangjin",
+      "province": "Chungcheongnam-do",
+      "latitude": 36.8944,
+      "longitude": 126.6297,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Cheongsong gun",
+      "province": "Gyeongsangbuk-do",
+      "latitude": 36.4335,
+      "longitude": 129.057,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Jinan-gun",
+      "province": "Jeollabuk-do",
+      "latitude": 35.7917,
+      "longitude": 127.4253,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Kurye",
+      "province": "Jeollanam-do",
+      "latitude": 35.2094,
+      "longitude": 127.4644,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Waegwan",
+      "province": "Gyeongsangbuk-do",
+      "latitude": 35.9925,
+      "longitude": 128.3979,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Seonghwan",
+      "province": "Chungcheongnam-do",
+      "latitude": 36.9156,
+      "longitude": 127.1314,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Hayang",
+      "province": "Gyeongsangbuk-do",
+      "latitude": 35.9133,
+      "longitude": 128.82,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Goseong",
+      "province": "Gyeongsangnam-do",
+      "latitude": 38.3788,
+      "longitude": 128.4676,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Changsu",
+      "province": "Jeollabuk-do",
+      "latitude": 35.6484,
+      "longitude": 127.5152,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Imsil",
+      "province": "Jeollabuk-do",
+      "latitude": 35.6131,
+      "longitude": 127.2794,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Ganghwa-gun",
+      "province": "Incheon",
+      "latitude": 37.7472,
+      "longitude": 126.4856,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Neietsu",
+      "province": "Gangwon-do",
+      "latitude": 37.1845,
+      "longitude": 128.4682,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Kinzan",
+      "province": "Chungcheongnam-do",
+      "latitude": 36.1031,
+      "longitude": 127.4889,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Yŏnmu",
+      "province": "Chungcheongnam-do",
+      "latitude": 36.1294,
+      "longitude": 127.1,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Yanggu",
+      "province": "Gangwon-do",
+      "latitude": 38.1058,
+      "longitude": 127.9894,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Haenam",
+      "province": "Jeollanam-do",
+      "latitude": 34.5711,
+      "longitude": 126.5989,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Gaigeturi",
+      "province": "Jeju-do",
+      "latitude": 33.4644,
+      "longitude": 126.3183,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Namsa",
+      "province": "Jeollabuk-do",
+      "latitude": 35.9333,
+      "longitude": 127.05,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Taesal-li",
+      "province": "Chungcheongnam-do",
+      "latitude": 36.9714,
+      "longitude": 126.4542,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Hwacheon",
+      "province": "Gangwon-do",
+      "latitude": 38.1071,
+      "longitude": 127.7063,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Puan",
+      "province": "Jeollabuk-do",
+      "latitude": 35.7281,
+      "longitude": 126.7319,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Jenzan",
+      "province": "Gyeongsangbuk-do",
+      "latitude": 36.2408,
+      "longitude": 128.2975,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Jumunjin",
+      "province": "Gangwon-do",
+      "latitude": 37.8914,
+      "longitude": 128.8258,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Beolgyo",
+      "province": "Jeollanam-do",
+      "latitude": 34.849,
+      "longitude": 127.3405,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Ora-dong",
+      "province": "Jeju-do",
+      "latitude": 33.4819,
+      "longitude": 126.5064,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Sintansin",
+      "province": "Daejeon",
+      "latitude": 36.4536,
+      "longitude": 127.4311,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Yongsan-dong",
+      "province": "首尔特别市",
+      "latitude": 37.5445,
+      "longitude": 126.9837,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Songgangdong",
+      "province": "Daejeon",
+      "latitude": 36.4339,
+      "longitude": 127.3759,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "平昌郡",
+      "name_en": "Pyeongchang",
+      "province": "Gangwon-do",
+      "latitude": 37.3703,
+      "longitude": 128.3931,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Dodong-ri",
+      "province": "Gyeongsangbuk-do",
+      "latitude": 37.495,
+      "longitude": 130.9043,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Sanji",
+      "province": "Jeju-do",
+      "latitude": 33.5167,
+      "longitude": 126.5333,
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "name": "",
+      "name_en": "Ponggae-dong",
+      "province": "Jeju-do",
+      "latitude": 33.4908,
+      "longitude": 126.5944,
+      "timezone": "Asia/Seoul"
+    }
+  ]
+}

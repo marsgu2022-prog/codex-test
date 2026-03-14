@@ -1,0 +1,950 @@
+{
+  "country_code": "KP",
+  "country_name": "朝鲜",
+  "cities": [
+    {
+      "name": "平壤",
+      "name_en": "Pyongyang",
+      "province": "Pyongyang",
+      "latitude": 39.0339,
+      "longitude": 125.7543,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "咸兴市",
+      "name_en": "Hamhŭng",
+      "province": "South Hamgyong",
+      "latitude": 39.9183,
+      "longitude": 127.5364,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Namp’o",
+      "province": "Nampo",
+      "latitude": 38.7375,
+      "longitude": 125.4078,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Sunch’ŏn",
+      "province": "South Pyongan",
+      "latitude": 39.4317,
+      "longitude": 125.9328,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Hŭngnam",
+      "province": "South Hamgyong",
+      "latitude": 39.842,
+      "longitude": 127.6321,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "开城特级市",
+      "name_en": "Kaesŏng",
+      "province": "Kaesong",
+      "latitude": 37.9708,
+      "longitude": 126.5544,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "元山市",
+      "name_en": "Wŏnsan",
+      "province": "Kangwŏn-do",
+      "latitude": 39.1528,
+      "longitude": 127.4436,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "清津市",
+      "name_en": "Chongjin",
+      "province": "North Hamgyong",
+      "latitude": 41.7956,
+      "longitude": 129.7758,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Man’gyŏngdae-ri",
+      "province": "Pyongyang",
+      "latitude": 38.9918,
+      "longitude": 125.6587,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Kaech’ŏn",
+      "province": "South Pyongan",
+      "latitude": 39.7006,
+      "longitude": 125.8933,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "沙里院",
+      "name_en": "Sariwŏn-si",
+      "province": "North Hwanghae",
+      "latitude": 38.5072,
+      "longitude": 125.7558,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "新义州",
+      "name_en": "Sinŭiju",
+      "province": "P'yŏngan-bukto",
+      "latitude": 40.1006,
+      "longitude": 124.3981,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Tŏkch’ŏn",
+      "province": "South Pyongan",
+      "latitude": 39.7526,
+      "longitude": 126.258,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Haeju",
+      "province": "South Hwanghae",
+      "latitude": 38.0406,
+      "longitude": 125.7147,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "江界",
+      "name_en": "Kanggye",
+      "province": "Chagang",
+      "latitude": 40.9695,
+      "longitude": 126.5852,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Changam-ch’on",
+      "province": "South Hamgyong",
+      "latitude": 40.6061,
+      "longitude": 128.7819,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "惠山市",
+      "name_en": "Hyesan",
+      "province": "Yanggang-do",
+      "latitude": 41.4017,
+      "longitude": 128.1778,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Paech’ŏn-ŭp",
+      "province": "South Hwanghae",
+      "latitude": 37.9931,
+      "longitude": 126.3014,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Sinp’o",
+      "province": "South Hamgyong",
+      "latitude": 40.0397,
+      "longitude": 128.1943,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Songnim-ni",
+      "province": "North Hwanghae",
+      "latitude": 38.7635,
+      "longitude": 125.641,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Ch’ŏngdan-ŭp",
+      "province": "South Hwanghae",
+      "latitude": 37.9703,
+      "longitude": 125.9375,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Sinch’ŏn-ŭp",
+      "province": "South Hwanghae",
+      "latitude": 38.3532,
+      "longitude": 125.4842,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Paek'ak",
+      "province": "South Pyongan",
+      "latitude": 39.4627,
+      "longitude": 125.6059,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Chaeryŏng-ni",
+      "province": "South Pyongan",
+      "latitude": 38.7358,
+      "longitude": 125.2308,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Manp’o",
+      "province": "Chagang",
+      "latitude": 41.1547,
+      "longitude": 126.2894,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Ŭllyul",
+      "province": "South Hwanghae",
+      "latitude": 38.5139,
+      "longitude": 125.1897,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Kangnyŏng",
+      "province": "South Hwanghae",
+      "latitude": 37.9075,
+      "longitude": 125.51,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Kangsŏn",
+      "province": "South Pyongan",
+      "latitude": 38.9364,
+      "longitude": 125.5811,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "P’yŏngsŏng",
+      "province": "South Pyongan",
+      "latitude": 39.2464,
+      "longitude": 125.8719,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Hwasŏng",
+      "province": "North Hamgyong",
+      "latitude": 41.2556,
+      "longitude": 129.4928,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Myŏnggan-dong",
+      "province": "North Hamgyong",
+      "latitude": 41.1372,
+      "longitude": 129.4947,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Hyesan-dong",
+      "province": "Yanggang-do",
+      "latitude": 41.3953,
+      "longitude": 128.1873,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Ŭnch’ŏn-ŭp",
+      "province": "South Hwanghae",
+      "latitude": 38.5656,
+      "longitude": 125.4272,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Kwail-ŭp",
+      "province": "South Hwanghae",
+      "latitude": 38.4461,
+      "longitude": 125.0186,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Ŭndŏk",
+      "province": "North Hamgyong",
+      "latitude": 42.5188,
+      "longitude": 130.3348,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Ŏrang",
+      "province": "North Hamgyong",
+      "latitude": 41.4478,
+      "longitude": 129.6556,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Samch’ŏn",
+      "province": "South Hwanghae",
+      "latitude": 38.3594,
+      "longitude": 125.3259,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Sinwŏn-ŭp",
+      "province": "South Hwanghae",
+      "latitude": 38.2353,
+      "longitude": 125.7624,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Pongch’ŏn-ŭp",
+      "province": "South Hwanghae",
+      "latitude": 38.1239,
+      "longitude": 126.2047,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Yuktae-dong",
+      "province": "South Hamgyong",
+      "latitude": 40.0247,
+      "longitude": 128.1597,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Hongwŏn",
+      "province": "South Hamgyong",
+      "latitude": 40.0253,
+      "longitude": 127.9558,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Hwadae",
+      "province": "North Hamgyong",
+      "latitude": 40.8381,
+      "longitude": 129.4969,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "罗先",
+      "name_en": "Rajin",
+      "province": "罗先市",
+      "latitude": 42.2556,
+      "longitude": 130.2831,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Namyang-nodongjagu",
+      "province": "North Hamgyong",
+      "latitude": 42.9539,
+      "longitude": 129.8572,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Myŏngch’ŏn",
+      "province": "North Hamgyong",
+      "latitude": 41.0706,
+      "longitude": 129.4292,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "T’aet’an-ŭp",
+      "province": "South Hwanghae",
+      "latitude": 38.0882,
+      "longitude": 125.2983,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Ongjin",
+      "province": "South Hwanghae",
+      "latitude": 37.9347,
+      "longitude": 125.3619,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Kilju",
+      "province": "North Hamgyong",
+      "latitude": 40.9642,
+      "longitude": 129.3278,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Chaeryŏng-ŭp",
+      "province": "South Hwanghae",
+      "latitude": 38.3992,
+      "longitude": 125.6156,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Anju",
+      "province": "South Pyongan",
+      "latitude": 39.6178,
+      "longitude": 125.6647,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Uiju",
+      "province": "P'yŏngan-bukto",
+      "latitude": 40.1994,
+      "longitude": 124.5317,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "富宁",
+      "name_en": "Puryŏng-ŭp",
+      "province": "North Hamgyong",
+      "latitude": 42.0622,
+      "longitude": 129.7046,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Yŏch’im-dong",
+      "province": "Chagang",
+      "latitude": 40.3617,
+      "longitude": 126.6585,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Songhwa",
+      "province": "South Hwanghae",
+      "latitude": 38.3603,
+      "longitude": 125.1372,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Hoeryŏng",
+      "province": "North Hamgyong",
+      "latitude": 42.4411,
+      "longitude": 129.746,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Ch’ŏsal-li",
+      "province": "South Pyongan",
+      "latitude": 39.4033,
+      "longitude": 125.5089,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Sijung",
+      "province": "Chagang",
+      "latitude": 41.0789,
+      "longitude": 126.375,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Chunggang",
+      "province": "Chagang",
+      "latitude": 41.7772,
+      "longitude": 126.8736,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Sŭngho 1-tong",
+      "province": "Pyongyang",
+      "latitude": 38.9914,
+      "longitude": 125.9778,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Changyŏn",
+      "province": "South Hwanghae",
+      "latitude": 38.2508,
+      "longitude": 125.0961,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "松院邑",
+      "name_en": "Songwŏn",
+      "province": "Chagang",
+      "latitude": 40.377,
+      "longitude": 125.8787,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Songwŏn-ŭp",
+      "province": "Chagang",
+      "latitude": 40.377,
+      "longitude": 125.8787,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Yŏnsa-ŭp",
+      "province": "North Hamgyong",
+      "latitude": 41.9081,
+      "longitude": 129.0111,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Sunan",
+      "province": "Pyongyang",
+      "latitude": 39.2032,
+      "longitude": 125.6931,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Hwangju-ŭp",
+      "province": "North Hwanghae",
+      "latitude": 38.6703,
+      "longitude": 125.7761,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Kyŏngsŏng",
+      "province": "North Hamgyong",
+      "latitude": 41.5878,
+      "longitude": 129.6061,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Aoji-ri",
+      "province": "North Hamgyong",
+      "latitude": 42.5218,
+      "longitude": 130.3957,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Ranam",
+      "province": "North Hamgyong",
+      "latitude": 41.7136,
+      "longitude": 129.6844,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Anbyŏn-ŭp",
+      "province": "Kangwŏn-do",
+      "latitude": 39.0425,
+      "longitude": 127.5239,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Kop’ung",
+      "province": "Chagang",
+      "latitude": 40.6039,
+      "longitude": 125.9467,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Samjiyŏn-ŭp",
+      "province": "Yanggang-do",
+      "latitude": 41.8036,
+      "longitude": 128.3189,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "亀城",
+      "name_en": "Kusŏng-si",
+      "province": "P'yŏngan-bukto",
+      "latitude": 39.9797,
+      "longitude": 125.2529,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Chŏngju",
+      "province": "P'yŏngan-bukto",
+      "latitude": 39.6933,
+      "longitude": 125.2103,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Kangdong-ŭp",
+      "province": "Pyongyang",
+      "latitude": 39.1425,
+      "longitude": 126.0961,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Sŏnbong",
+      "province": "罗先市",
+      "latitude": 42.3512,
+      "longitude": 130.3831,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Unggi",
+      "province": "罗先市",
+      "latitude": 42.3417,
+      "longitude": 130.4108,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Iwŏn-ŭp",
+      "province": "South Hamgyong",
+      "latitude": 40.3231,
+      "longitude": 128.6553,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Hŭkkyo-ri",
+      "province": "North Hwanghae",
+      "latitude": 38.7986,
+      "longitude": 125.7919,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Kosan",
+      "province": "Kangwŏn-do",
+      "latitude": 38.8558,
+      "longitude": 127.4181,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Yŏnan-ŭp",
+      "province": "South Hwanghae",
+      "latitude": 37.9089,
+      "longitude": 126.1611,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Namyang",
+      "province": "North Hamgyong",
+      "latitude": 42.9539,
+      "longitude": 129.8572,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Yŏnggwang-ŭp",
+      "province": "South Hamgyong",
+      "latitude": 40.0183,
+      "longitude": 127.4547,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Musan-ŭp",
+      "province": "North Hamgyong",
+      "latitude": 42.2261,
+      "longitude": 129.2078,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Kowŏn-ŭp",
+      "province": "South Hamgyong",
+      "latitude": 39.4381,
+      "longitude": 127.2431,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Hoeyang",
+      "province": "Kangwŏn-do",
+      "latitude": 38.7103,
+      "longitude": 127.5983,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "T’ongch’ŏn-ŭp",
+      "province": "Kangwŏn-do",
+      "latitude": 38.9539,
+      "longitude": 127.8917,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Kapsan-ŭp",
+      "province": "Yanggang-do",
+      "latitude": 41.0903,
+      "longitude": 128.2933,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Anak",
+      "province": "North Hwanghae",
+      "latitude": 38.5108,
+      "longitude": 125.4942,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Onsŏng",
+      "province": "North Hamgyong",
+      "latitude": 42.9539,
+      "longitude": 129.8572,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Kujang-ŭp",
+      "province": "P'yŏngan-bukto",
+      "latitude": 39.8672,
+      "longitude": 126.0303,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Sil-li",
+      "province": "South Pyongan",
+      "latitude": 39.4947,
+      "longitude": 125.4736,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Chunghwa",
+      "province": "Pyongyang",
+      "latitude": 38.8639,
+      "longitude": 125.8,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Samho-rodongjagu",
+      "province": "South Hamgyong",
+      "latitude": 39.9475,
+      "longitude": 127.8711,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Sinmak",
+      "province": "North Hwanghae",
+      "latitude": 38.4167,
+      "longitude": 126.2333,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Sakchu-ŭp",
+      "province": "P'yŏngan-bukto",
+      "latitude": 40.3894,
+      "longitude": 125.0467,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Ayang-ni",
+      "province": "South Hwanghae",
+      "latitude": 38.2472,
+      "longitude": 125.7948,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Sinanju",
+      "province": "South Pyongan",
+      "latitude": 39.5981,
+      "longitude": 125.6097,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Sinsang-ni",
+      "province": "South Hamgyong",
+      "latitude": 39.6499,
+      "longitude": 127.4073,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Pukchil-lodongjagu",
+      "province": "P'yŏngan-bukto",
+      "latitude": 40.2019,
+      "longitude": 125.7483,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Hau-ri",
+      "province": "North Hamgyong",
+      "latitude": 41.2006,
+      "longitude": 129.4703,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Ryonggang-ŭp",
+      "province": "Nampo",
+      "latitude": 38.8561,
+      "longitude": 125.4244,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Twimoraet’ŏ",
+      "province": "Pyongyang",
+      "latitude": 38.9957,
+      "longitude": 125.6903,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Pyŏksŏng-ŭp",
+      "province": "South Hwanghae",
+      "latitude": 38.0475,
+      "longitude": 125.5567,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Koksan-ŭp",
+      "province": "North Hwanghae",
+      "latitude": 38.7819,
+      "longitude": 126.6664,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Chasŏng",
+      "province": "Chagang",
+      "latitude": 41.4608,
+      "longitude": 126.6414,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Sŏngnae-ri",
+      "province": "North Hamgyong",
+      "latitude": 42.8124,
+      "longitude": 130.154,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Komusan Il-tong",
+      "province": "North Hamgyong",
+      "latitude": 42.1101,
+      "longitude": 129.6992,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Sindo",
+      "province": "P'yŏngan-bukto",
+      "latitude": 39.8064,
+      "longitude": 124.2342,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Sŭngjibaegam",
+      "province": "Yanggang-do",
+      "latitude": 41.2428,
+      "longitude": 128.7989,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Hoemul-li",
+      "province": "North Hamgyong",
+      "latitude": 41.4339,
+      "longitude": 129.67,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Sŭngam-nodongjagu",
+      "province": "North Hamgyong",
+      "latitude": 41.6697,
+      "longitude": 129.6689,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Panghyŏn-dong",
+      "province": "P'yŏngan-bukto",
+      "latitude": 39.8872,
+      "longitude": 125.2414,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Kwaksan",
+      "province": "P'yŏngan-bukto",
+      "latitude": 39.6875,
+      "longitude": 125.0828,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Sangsŏng-ni",
+      "province": "South Pyongan",
+      "latitude": 39.1694,
+      "longitude": 126.8856,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Yŏngbyŏn",
+      "province": "P'yŏngan-bukto",
+      "latitude": 39.8133,
+      "longitude": 125.8042,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Yŏmju-ŭp",
+      "province": "P'yŏngan-bukto",
+      "latitude": 39.8933,
+      "longitude": 124.5981,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Ungsang-nodongjagu",
+      "province": "罗先市",
+      "latitude": 42.3578,
+      "longitude": 130.4622,
+      "timezone": "Asia/Pyongyang"
+    },
+    {
+      "name": "",
+      "name_en": "Satan",
+      "province": "North Hamgyong",
+      "latitude": 42.4821,
+      "longitude": 130.143,
+      "timezone": "Asia/Pyongyang"
+    }
+  ]
+}

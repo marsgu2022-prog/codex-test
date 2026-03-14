@@ -1,0 +1,190 @@
+{
+  "country_code": "BT",
+  "country_name": "不丹",
+  "cities": [
+    {
+      "name": "廷布",
+      "name_en": "Thimphu",
+      "province": "Thimphu District",
+      "latitude": 27.4661,
+      "longitude": 89.6419,
+      "timezone": "Asia/Thimphu"
+    },
+    {
+      "name": "彭措林",
+      "name_en": "Phuntsholing",
+      "province": "Chukha",
+      "latitude": 26.8516,
+      "longitude": 89.3884,
+      "timezone": "Asia/Thimphu"
+    },
+    {
+      "name": "",
+      "name_en": "Tsirang",
+      "province": "Tsirang District",
+      "latitude": 27.0219,
+      "longitude": 90.1229,
+      "timezone": "Asia/Thimphu"
+    },
+    {
+      "name": "普那卡",
+      "name_en": "Punākha",
+      "province": "Punakha",
+      "latitude": 27.5914,
+      "longitude": 89.8774,
+      "timezone": "Asia/Thimphu"
+    },
+    {
+      "name": "",
+      "name_en": "Pemagatshel",
+      "province": "Pemagatshel",
+      "latitude": 27.0379,
+      "longitude": 91.403,
+      "timezone": "Asia/Thimphu"
+    },
+    {
+      "name": "帕罗",
+      "name_en": "Paro",
+      "province": "Paro",
+      "latitude": 27.4305,
+      "longitude": 89.4133,
+      "timezone": "Asia/Thimphu"
+    },
+    {
+      "name": "",
+      "name_en": "Sarpang",
+      "province": "Sarpang District",
+      "latitude": 26.8639,
+      "longitude": 90.2674,
+      "timezone": "Asia/Thimphu"
+    },
+    {
+      "name": "",
+      "name_en": "Geylegphug",
+      "province": "Sarpang District",
+      "latitude": 26.8683,
+      "longitude": 90.4878,
+      "timezone": "Asia/Thimphu"
+    },
+    {
+      "name": "",
+      "name_en": "Samdrup Jongkhar",
+      "province": "Samdrup Jongkhar",
+      "latitude": 26.8007,
+      "longitude": 91.5052,
+      "timezone": "Asia/Thimphu"
+    },
+    {
+      "name": "",
+      "name_en": "Wangdue Phodrang",
+      "province": "Wangdi Phodrang",
+      "latitude": 27.4861,
+      "longitude": 89.8992,
+      "timezone": "Asia/Thimphu"
+    },
+    {
+      "name": "",
+      "name_en": "Jakar",
+      "province": "Bumthang District",
+      "latitude": 27.5492,
+      "longitude": 90.7525,
+      "timezone": "Asia/Thimphu"
+    },
+    {
+      "name": "",
+      "name_en": "Samtse",
+      "province": "Samtse District",
+      "latitude": 26.899,
+      "longitude": 89.0995,
+      "timezone": "Asia/Thimphu"
+    },
+    {
+      "name": "",
+      "name_en": "Trashi Yangtse",
+      "province": "Trashi Yangste",
+      "latitude": 27.6116,
+      "longitude": 91.498,
+      "timezone": "Asia/Thimphu"
+    },
+    {
+      "name": "",
+      "name_en": "Mongar",
+      "province": "Mongar",
+      "latitude": 27.2747,
+      "longitude": 91.2396,
+      "timezone": "Asia/Thimphu"
+    },
+    {
+      "name": "",
+      "name_en": "Tsimasham",
+      "province": "Chukha",
+      "latitude": 27.0989,
+      "longitude": 89.536,
+      "timezone": "Asia/Thimphu"
+    },
+    {
+      "name": "",
+      "name_en": "Trongsa",
+      "province": "Tongsa",
+      "latitude": 27.5026,
+      "longitude": 90.5072,
+      "timezone": "Asia/Thimphu"
+    },
+    {
+      "name": "",
+      "name_en": "Daga",
+      "province": "Dagana",
+      "latitude": 27.0753,
+      "longitude": 89.8769,
+      "timezone": "Asia/Thimphu"
+    },
+    {
+      "name": "",
+      "name_en": "Ha",
+      "province": "Haa",
+      "latitude": 27.3875,
+      "longitude": 89.2807,
+      "timezone": "Asia/Thimphu"
+    },
+    {
+      "name": "",
+      "name_en": "Trashigang",
+      "province": "Trashigang District",
+      "latitude": 27.3331,
+      "longitude": 91.5542,
+      "timezone": "Asia/Thimphu"
+    },
+    {
+      "name": "",
+      "name_en": "Shemgang",
+      "province": "Zhemgang District",
+      "latitude": 27.2169,
+      "longitude": 90.6579,
+      "timezone": "Asia/Thimphu"
+    },
+    {
+      "name": "",
+      "name_en": "Gasa",
+      "province": "Gasa",
+      "latitude": 27.9037,
+      "longitude": 89.7269,
+      "timezone": "Asia/Thimphu"
+    },
+    {
+      "name": "",
+      "name_en": "Lhuentse",
+      "province": "Lhuntse",
+      "latitude": 27.6679,
+      "longitude": 91.1839,
+      "timezone": "Asia/Thimphu"
+    },
+    {
+      "name": "",
+      "name_en": "Lungtenzampa",
+      "province": "Thimphu District",
+      "latitude": 27.4682,
+      "longitude": 89.6444,
+      "timezone": "Asia/Thimphu"
+    }
+  ]
+}

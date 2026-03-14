@@ -1,0 +1,230 @@
+{
+  "country_code": "LS",
+  "country_name": "莱索托",
+  "cities": [
+    {
+      "name": "马塞卢",
+      "name_en": "Maseru",
+      "province": "马塞卢区",
+      "latitude": -29.3167,
+      "longitude": 27.4833,
+      "timezone": "Africa/Maseru"
+    },
+    {
+      "name": "",
+      "name_en": "Maputsoe",
+      "province": "莱里贝区",
+      "latitude": -28.8866,
+      "longitude": 27.8991,
+      "timezone": "Africa/Maseru"
+    },
+    {
+      "name": "",
+      "name_en": "Mohale's Hoek",
+      "province": "莫哈莱斯胡克区",
+      "latitude": -30.1514,
+      "longitude": 27.4769,
+      "timezone": "Africa/Maseru"
+    },
+    {
+      "name": "",
+      "name_en": "Mafeteng",
+      "province": "马费滕区",
+      "latitude": -29.823,
+      "longitude": 27.2374,
+      "timezone": "Africa/Maseru"
+    },
+    {
+      "name": "",
+      "name_en": "Hlotse",
+      "province": "莱里贝区",
+      "latitude": -28.8718,
+      "longitude": 28.045,
+      "timezone": "Africa/Maseru"
+    },
+    {
+      "name": "",
+      "name_en": "Butha-Buthe",
+      "province": "布塔-布泰区",
+      "latitude": -28.7666,
+      "longitude": 28.2494,
+      "timezone": "Africa/Maseru"
+    },
+    {
+      "name": "",
+      "name_en": "Mabote",
+      "province": "伯里亚区",
+      "latitude": -29.2786,
+      "longitude": 27.5242,
+      "timezone": "Africa/Maseru"
+    },
+    {
+      "name": "",
+      "name_en": "Quthing",
+      "province": "古廷区",
+      "latitude": -30.4,
+      "longitude": 27.7003,
+      "timezone": "Africa/Maseru"
+    },
+    {
+      "name": "",
+      "name_en": "Teyateyaneng",
+      "province": "伯里亚区",
+      "latitude": -29.1472,
+      "longitude": 27.749,
+      "timezone": "Africa/Maseru"
+    },
+    {
+      "name": "",
+      "name_en": "Qacha’s Nek",
+      "province": "加查斯内克区",
+      "latitude": -30.1154,
+      "longitude": 28.6894,
+      "timezone": "Africa/Maseru"
+    },
+    {
+      "name": "",
+      "name_en": "Thaba-Tseka",
+      "province": "塔巴-采卡区",
+      "latitude": -29.522,
+      "longitude": 28.6084,
+      "timezone": "Africa/Maseru"
+    },
+    {
+      "name": "",
+      "name_en": "Mokhotlong",
+      "province": "莫霍特隆区",
+      "latitude": -29.2894,
+      "longitude": 29.0675,
+      "timezone": "Africa/Maseru"
+    },
+    {
+      "name": "罗马",
+      "name_en": "Roma",
+      "province": "马塞卢区",
+      "latitude": -29.4467,
+      "longitude": 27.7081,
+      "timezone": "Africa/Maseru"
+    },
+    {
+      "name": "",
+      "name_en": "Mapoteng",
+      "province": "伯里亚区",
+      "latitude": -29.1098,
+      "longitude": 27.9741,
+      "timezone": "Africa/Maseru"
+    },
+    {
+      "name": "",
+      "name_en": "Nako",
+      "province": "马塞卢区",
+      "latitude": -29.6167,
+      "longitude": 27.7667,
+      "timezone": "Africa/Maseru"
+    },
+    {
+      "name": "",
+      "name_en": "Mazenod",
+      "province": "马塞卢区",
+      "latitude": -29.419,
+      "longitude": 27.5689,
+      "timezone": "Africa/Maseru"
+    },
+    {
+      "name": "",
+      "name_en": "Mantsebo",
+      "province": "",
+      "latitude": -29.4833,
+      "longitude": 27.5167,
+      "timezone": "Africa/Maseru"
+    },
+    {
+      "name": "",
+      "name_en": "Semonkong",
+      "province": "马塞卢区",
+      "latitude": -29.8433,
+      "longitude": 28.0504,
+      "timezone": "Africa/Maseru"
+    },
+    {
+      "name": "",
+      "name_en": "Phamong",
+      "province": "莫哈莱斯胡克区",
+      "latitude": -30.2481,
+      "longitude": 27.8014,
+      "timezone": "Africa/Maseru"
+    },
+    {
+      "name": "",
+      "name_en": "Mamathes",
+      "province": "",
+      "latitude": -29.1264,
+      "longitude": 27.8336,
+      "timezone": "Africa/Maseru"
+    },
+    {
+      "name": "",
+      "name_en": "Mount Moorosi",
+      "province": "古廷区",
+      "latitude": -30.2731,
+      "longitude": 27.8708,
+      "timezone": "Africa/Maseru"
+    },
+    {
+      "name": "",
+      "name_en": "Pitseng",
+      "province": "莱里贝区",
+      "latitude": -29.007,
+      "longitude": 28.2133,
+      "timezone": "Africa/Maseru"
+    },
+    {
+      "name": "",
+      "name_en": "Thabana Morena",
+      "province": "",
+      "latitude": -29.9601,
+      "longitude": 27.4204,
+      "timezone": "Africa/Maseru"
+    },
+    {
+      "name": "",
+      "name_en": "Mantsonyane",
+      "province": "塔巴-采卡区",
+      "latitude": -29.5332,
+      "longitude": 28.2699,
+      "timezone": "Africa/Maseru"
+    },
+    {
+      "name": "",
+      "name_en": "Peka",
+      "province": "莱里贝区",
+      "latitude": -28.9688,
+      "longitude": 27.7626,
+      "timezone": "Africa/Maseru"
+    },
+    {
+      "name": "",
+      "name_en": "Kolo",
+      "province": "马塞卢区",
+      "latitude": -29.6888,
+      "longitude": 27.6875,
+      "timezone": "Africa/Maseru"
+    },
+    {
+      "name": "莫里亚",
+      "name_en": "Morija",
+      "province": "马塞卢区",
+      "latitude": -29.6298,
+      "longitude": 27.5135,
+      "timezone": "Africa/Maseru"
+    },
+    {
+      "name": "",
+      "name_en": "Sefikeng",
+      "province": "伯里亚区",
+      "latitude": -29.2789,
+      "longitude": 27.8076,
+      "timezone": "Africa/Maseru"
+    }
+  ]
+}

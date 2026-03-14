@@ -1,0 +1,654 @@
+{
+  "country_code": "AM",
+  "country_name": "亚美尼亚",
+  "cities": [
+    {
+      "name": "叶里温",
+      "name_en": "Yerevan",
+      "province": "埃里温",
+      "latitude": 40.1776,
+      "longitude": 44.5126,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Malatia-Sebastia",
+      "province": "埃里温",
+      "latitude": 40.174,
+      "longitude": 44.4457,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Shengavit",
+      "province": "埃里温",
+      "latitude": 40.1557,
+      "longitude": 44.4779,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Nor Nork",
+      "province": "埃里温",
+      "latitude": 40.1966,
+      "longitude": 44.5669,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "肯特隆区",
+      "name_en": "Kentron",
+      "province": "埃里温",
+      "latitude": 40.1781,
+      "longitude": 44.513,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Erebuni",
+      "province": "埃里温",
+      "latitude": 40.1331,
+      "longitude": 44.5301,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Ajapnyak",
+      "province": "埃里温",
+      "latitude": 40.1992,
+      "longitude": 44.4706,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Arabkir",
+      "province": "埃里温",
+      "latitude": 40.2062,
+      "longitude": 44.5037,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "久姆里",
+      "name_en": "Gyumri",
+      "province": "希拉克省",
+      "latitude": 40.7931,
+      "longitude": 43.8464,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "瓦纳佐尔",
+      "name_en": "Vanadzor",
+      "province": "Lori",
+      "latitude": 40.8074,
+      "longitude": 44.497,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Kanaker-Zeytun",
+      "province": "埃里温",
+      "latitude": 40.22,
+      "longitude": 44.5383,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Avan",
+      "province": "埃里温",
+      "latitude": 40.2144,
+      "longitude": 44.5785,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Davtashen",
+      "province": "埃里温",
+      "latitude": 40.2164,
+      "longitude": 44.4809,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "赫拉兹丹",
+      "name_en": "Hrazdan",
+      "province": "科泰克省",
+      "latitude": 40.5169,
+      "longitude": 44.7559,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "阿博维扬",
+      "name_en": "Abovyan",
+      "province": "科泰克省",
+      "latitude": 40.2717,
+      "longitude": 44.6334,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "瓦加尔沙帕特",
+      "name_en": "Vagharshapat",
+      "province": "阿尔马维尔省",
+      "latitude": 40.1656,
+      "longitude": 44.2946,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "卡潘",
+      "name_en": "Kapan",
+      "province": "休尼克省",
+      "latitude": 39.2076,
+      "longitude": 46.4068,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "阿尔马维尔",
+      "name_en": "Armavir",
+      "province": "阿尔马维尔省",
+      "latitude": 40.1555,
+      "longitude": 44.0388,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "阿尔塔沙特",
+      "name_en": "Artashat",
+      "province": "阿拉拉特省",
+      "latitude": 39.9548,
+      "longitude": 44.5487,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Charentsavan",
+      "province": "科泰克省",
+      "latitude": 40.4029,
+      "longitude": 44.6445,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Masis",
+      "province": "阿拉拉特省",
+      "latitude": 40.066,
+      "longitude": 44.4367,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "伊杰万",
+      "name_en": "Ijevan",
+      "province": "塔武什省",
+      "latitude": 40.8804,
+      "longitude": 45.1478,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "塞凡",
+      "name_en": "Sevan",
+      "province": "格加尔库尼克省",
+      "latitude": 40.548,
+      "longitude": 44.9531,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Gavar",
+      "province": "格加尔库尼克省",
+      "latitude": 40.354,
+      "longitude": 45.1239,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Artik",
+      "province": "希拉克省",
+      "latitude": 40.6192,
+      "longitude": 43.9721,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "阿什塔拉克",
+      "name_en": "Ashtarak",
+      "province": "阿拉加措特恩省",
+      "latitude": 40.2976,
+      "longitude": 44.3615,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Goris",
+      "province": "休尼克省",
+      "latitude": 39.5111,
+      "longitude": 46.3417,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "亚拉腊",
+      "name_en": "Ararat",
+      "province": "阿拉拉特省",
+      "latitude": 39.8549,
+      "longitude": 44.6947,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "迪利然",
+      "name_en": "Dilijan",
+      "province": "塔武什省",
+      "latitude": 40.7404,
+      "longitude": 44.8634,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Nork-Marash",
+      "province": "埃里温",
+      "latitude": 40.1742,
+      "longitude": 44.5408,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "斯皮塔克",
+      "name_en": "Spitak",
+      "province": "Lori",
+      "latitude": 40.8313,
+      "longitude": 44.2702,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "钖西安",
+      "name_en": "Sisian",
+      "province": "休尼克省",
+      "latitude": 39.5219,
+      "longitude": 46.027,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Yeghvard",
+      "province": "科泰克省",
+      "latitude": 40.3229,
+      "longitude": 44.4842,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "瓦尔代尼斯",
+      "name_en": "Vardenis",
+      "province": "格加尔库尼克省",
+      "latitude": 40.1827,
+      "longitude": 45.7316,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Stepanavan",
+      "province": "Lori",
+      "latitude": 41.01,
+      "longitude": 44.3853,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Martuni",
+      "province": "格加尔库尼克省",
+      "latitude": 40.1403,
+      "longitude": 45.3023,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Vedi",
+      "province": "阿拉拉特省",
+      "latitude": 39.9129,
+      "longitude": 44.7208,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "阿拉韦尔迪",
+      "name_en": "Alaverdi",
+      "province": "Lori",
+      "latitude": 41.0977,
+      "longitude": 44.6732,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Nubarashen",
+      "province": "埃里温",
+      "latitude": 40.0907,
+      "longitude": 44.5519,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Byureghavan",
+      "province": "科泰克省",
+      "latitude": 40.3133,
+      "longitude": 44.5969,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Ayntap",
+      "province": "阿拉拉特省",
+      "latitude": 40.0966,
+      "longitude": 44.4646,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "诺尔哈钦市",
+      "name_en": "Nor Hachn",
+      "province": "科泰克省",
+      "latitude": 40.303,
+      "longitude": 44.5831,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Akhuryan",
+      "province": "希拉克省",
+      "latitude": 40.7808,
+      "longitude": 43.9004,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Nerkin Getashen",
+      "province": "格加尔库尼克省",
+      "latitude": 40.1417,
+      "longitude": 45.2709,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Metsamor",
+      "province": "阿尔马维尔省",
+      "latitude": 40.1446,
+      "longitude": 44.1148,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Nor Kharberd",
+      "province": "阿拉拉特省",
+      "latitude": 40.0917,
+      "longitude": 44.4805,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Vardenik",
+      "province": "格加尔库尼克省",
+      "latitude": 40.1372,
+      "longitude": 45.4291,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Garni",
+      "province": "科泰克省",
+      "latitude": 40.1193,
+      "longitude": 44.7344,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Ararat village",
+      "province": "阿拉拉特省",
+      "latitude": 39.8317,
+      "longitude": 44.7049,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Tashir",
+      "province": "Lori",
+      "latitude": 41.1192,
+      "longitude": 44.2865,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Sarukhan",
+      "province": "格加尔库尼克省",
+      "latitude": 40.2917,
+      "longitude": 45.1307,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Arinj",
+      "province": "科泰克省",
+      "latitude": 40.2336,
+      "longitude": 44.5821,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "叶海格纳佐尔",
+      "name_en": "Yeghegnadzor",
+      "province": "Vayots Dzor",
+      "latitude": 39.7644,
+      "longitude": 45.3327,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Zovuni",
+      "province": "科泰克省",
+      "latitude": 40.2331,
+      "longitude": 44.5113,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Nor Geghi",
+      "province": "科泰克省",
+      "latitude": 40.3167,
+      "longitude": 44.5778,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Berd",
+      "province": "塔武什省",
+      "latitude": 40.8807,
+      "longitude": 45.389,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Jrvezh",
+      "province": "科泰克省",
+      "latitude": 40.1889,
+      "longitude": 44.6241,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Parakar",
+      "province": "阿尔马维尔省",
+      "latitude": 40.1639,
+      "longitude": 44.4057,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Zolakar",
+      "province": "格加尔库尼克省",
+      "latitude": 40.1251,
+      "longitude": 45.3807,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Kasakh",
+      "province": "科泰克省",
+      "latitude": 40.2356,
+      "longitude": 44.4516,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Sardarapat",
+      "province": "阿尔马维尔省",
+      "latitude": 40.1555,
+      "longitude": 44.0388,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "卡贾兰",
+      "name_en": "Kajaran",
+      "province": "休尼克省",
+      "latitude": 39.1509,
+      "longitude": 46.1567,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Aragatsavan",
+      "province": "阿拉加措特恩省",
+      "latitude": 40.3212,
+      "longitude": 43.6621,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Noratus",
+      "province": "格加尔库尼克省",
+      "latitude": 40.3779,
+      "longitude": 45.1805,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Oshakan",
+      "province": "阿拉加措特恩省",
+      "latitude": 40.2639,
+      "longitude": 44.3167,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "阿帕兰",
+      "name_en": "Aparan",
+      "province": "阿拉加措特恩省",
+      "latitude": 40.593,
+      "longitude": 44.3595,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Metsavan",
+      "province": "Lori",
+      "latitude": 41.2016,
+      "longitude": 44.2288,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Geghhovit",
+      "province": "格加尔库尼克省",
+      "latitude": 40.1048,
+      "longitude": 45.2855,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Byurakan",
+      "province": "阿拉加措特恩省",
+      "latitude": 40.3389,
+      "longitude": 44.2728,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Karmirgyugh",
+      "province": "格加尔库尼克省",
+      "latitude": 40.331,
+      "longitude": 45.146,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Proshyan",
+      "province": "科泰克省",
+      "latitude": 40.2473,
+      "longitude": 44.4195,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Gugark",
+      "province": "Lori",
+      "latitude": 40.8046,
+      "longitude": 44.5403,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Margara",
+      "province": "阿尔马维尔省",
+      "latitude": 40.0333,
+      "longitude": 44.1805,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Azatan",
+      "province": "希拉克省",
+      "latitude": 40.7196,
+      "longitude": 43.8273,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "查巴拉克",
+      "name_en": "Chambarak",
+      "province": "格加尔库尼克省",
+      "latitude": 40.5966,
+      "longitude": 45.355,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Vayk",
+      "province": "Vayots Dzor",
+      "latitude": 39.6903,
+      "longitude": 45.4692,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Maralik",
+      "province": "希拉克省",
+      "latitude": 40.5759,
+      "longitude": 43.8706,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Yeranos",
+      "province": "格加尔库尼克省",
+      "latitude": 40.2043,
+      "longitude": 45.1921,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Lichk",
+      "province": "格加尔库尼克省",
+      "latitude": 40.1593,
+      "longitude": 45.2347,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Karanlukh",
+      "province": "格加尔库尼克省",
+      "latitude": 40.1044,
+      "longitude": 45.2897,
+      "timezone": "Asia/Yerevan"
+    },
+    {
+      "name": "",
+      "name_en": "Mkhchyan",
+      "province": "阿拉拉特省",
+      "latitude": 40.0223,
+      "longitude": 44.4917,
+      "timezone": "Asia/Yerevan"
+    }
+  ]
+}

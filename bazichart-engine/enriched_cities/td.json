@@ -1,0 +1,550 @@
+{
+  "country_code": "TD",
+  "country_name": "乍得",
+  "cities": [
+    {
+      "name": "恩贾梅纳",
+      "name_en": "N'Djamena",
+      "province": "N’Djaména",
+      "latitude": 12.1067,
+      "longitude": 15.0444,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "蒙杜",
+      "name_en": "Moundou",
+      "province": "西洛贡区",
+      "latitude": 8.5744,
+      "longitude": 16.0772,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "阿贝歇",
+      "name_en": "Abéché",
+      "province": "瓦达伊区",
+      "latitude": 13.8292,
+      "longitude": 20.8324,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Sarh",
+      "province": "中沙里区",
+      "latitude": 9.1456,
+      "longitude": 18.3833,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Kelo",
+      "province": "坦吉莱区",
+      "latitude": 9.3086,
+      "longitude": 15.8066,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Am Timan",
+      "province": "萨拉马特区",
+      "latitude": 11.0433,
+      "longitude": 20.2834,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Doba",
+      "province": "东洛贡区",
+      "latitude": 8.6639,
+      "longitude": 16.8532,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Pala",
+      "province": "西凯比河区",
+      "latitude": 9.3646,
+      "longitude": 14.9072,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Bongor",
+      "province": "东凯比河区",
+      "latitude": 10.2809,
+      "longitude": 15.3742,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Goz Beida",
+      "province": "西拉区",
+      "latitude": 12.2264,
+      "longitude": 21.4098,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Koumra",
+      "province": "芒杜尔区",
+      "latitude": 8.9159,
+      "longitude": 17.5505,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Mongo",
+      "province": "盖拉区",
+      "latitude": 12.1851,
+      "longitude": 18.6884,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Bol",
+      "province": "湖区",
+      "latitude": 13.4673,
+      "longitude": 14.7135,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Mao",
+      "province": "加奈姆区",
+      "latitude": 14.1229,
+      "longitude": 15.3119,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Déressia",
+      "province": "坦吉莱区",
+      "latitude": 9.7602,
+      "longitude": 16.2698,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Iriba",
+      "province": "瓦迪菲拉区",
+      "latitude": 15.1167,
+      "longitude": 22.25,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "法亚-拉若",
+      "name_en": "Faya-Largeau",
+      "province": "博尔库区",
+      "latitude": 17.9257,
+      "longitude": 19.1043,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Bitkine",
+      "province": "盖拉区",
+      "latitude": 11.9801,
+      "longitude": 18.2138,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Bébédja",
+      "province": "东洛贡区",
+      "latitude": 8.6761,
+      "longitude": 16.566,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Massakory",
+      "province": "哈杰尔-拉密区",
+      "latitude": 12.9981,
+      "longitude": 15.7319,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Umm Hājar",
+      "province": "巴塔区",
+      "latitude": 13.2954,
+      "longitude": 19.6966,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Moussoro",
+      "province": "Barh el Gazel",
+      "latitude": 13.6444,
+      "longitude": 16.4895,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Biltine",
+      "province": "瓦迪菲拉区",
+      "latitude": 14.5273,
+      "longitude": 20.926,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Léré",
+      "province": "西凯比河区",
+      "latitude": 9.6447,
+      "longitude": 14.2151,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "菲昂加",
+      "name_en": "Fianga",
+      "province": "东凯比河区",
+      "latitude": 9.9146,
+      "longitude": 15.1399,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Goré",
+      "province": "东洛贡区",
+      "latitude": 8.65,
+      "longitude": 16.5167,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Ati",
+      "province": "巴塔区",
+      "latitude": 13.2138,
+      "longitude": 18.3393,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Amdjarass",
+      "province": "东恩内迪区",
+      "latitude": 16.0667,
+      "longitude": 22.8354,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Gounou Gaya",
+      "province": "东凯比河区",
+      "latitude": 9.6294,
+      "longitude": 15.5132,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Massaguet",
+      "province": "哈杰尔-拉密区",
+      "latitude": 12.4755,
+      "longitude": 15.4365,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Laï",
+      "province": "坦吉莱区",
+      "latitude": 9.3972,
+      "longitude": 16.3007,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "博科罗",
+      "name_en": "Bokoro",
+      "province": "哈杰尔-拉密区",
+      "latitude": 12.3781,
+      "longitude": 17.0588,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Guelendeng",
+      "province": "东凯比河区",
+      "latitude": 10.9176,
+      "longitude": 15.5501,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Kyabé",
+      "province": "中沙里区",
+      "latitude": 9.4515,
+      "longitude": 18.9449,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Adré",
+      "province": "瓦达伊区",
+      "latitude": 13.4665,
+      "longitude": 22.1988,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Maro",
+      "province": "芒杜尔区",
+      "latitude": 9.2235,
+      "longitude": 17.7102,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Mandelia",
+      "province": "沙里-巴吉尔米区",
+      "latitude": 11.7302,
+      "longitude": 15.2447,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Dourbali",
+      "province": "沙里-巴吉尔米区",
+      "latitude": 11.8062,
+      "longitude": 15.8669,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Benoy",
+      "province": "西洛贡区",
+      "latitude": 8.9833,
+      "longitude": 16.3199,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "莫埃萨拉",
+      "name_en": "Moïssala",
+      "province": "芒杜尔区",
+      "latitude": 8.3404,
+      "longitude": 17.7663,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Fada",
+      "province": "西恩内迪区",
+      "latitude": 17.1919,
+      "longitude": 21.5808,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Mboursou Léré",
+      "province": "西凯比河区",
+      "latitude": 9.7639,
+      "longitude": 14.1539,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "布索",
+      "name_en": "Bousso",
+      "province": "沙里-巴吉尔米区",
+      "latitude": 10.4847,
+      "longitude": 16.7108,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Mangalmé",
+      "province": "盖拉区",
+      "latitude": 12.3546,
+      "longitude": 19.6139,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Bédiondo",
+      "province": "芒杜尔区",
+      "latitude": 8.6289,
+      "longitude": 17.1864,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Béré",
+      "province": "坦吉莱区",
+      "latitude": 9.3202,
+      "longitude": 16.1552,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Baïbokoum",
+      "province": "东洛贡区",
+      "latitude": 7.7423,
+      "longitude": 15.69,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Ngama",
+      "province": "哈杰尔-拉密区",
+      "latitude": 11.7873,
+      "longitude": 17.1593,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Melfi",
+      "province": "盖拉区",
+      "latitude": 11.0598,
+      "longitude": 17.9355,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Beïnamar",
+      "province": "西洛贡区",
+      "latitude": 8.6698,
+      "longitude": 15.3813,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Ngama",
+      "province": "沙里-巴吉尔米区",
+      "latitude": 11.7873,
+      "longitude": 17.1593,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Krim Krim",
+      "province": "西洛贡区",
+      "latitude": 8.9723,
+      "longitude": 15.8036,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Abou Déïa",
+      "province": "萨拉马特区",
+      "latitude": 11.448,
+      "longitude": 19.2789,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Goundi",
+      "province": "芒杜尔区",
+      "latitude": 9.3627,
+      "longitude": 17.366,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Ngouri",
+      "province": "西洛贡区",
+      "latitude": 8.5135,
+      "longitude": 16.0068,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Ounianga Kébir",
+      "province": "西恩内迪区",
+      "latitude": 19.0526,
+      "longitude": 20.4889,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Bodo",
+      "province": "沙里-巴吉尔米区",
+      "latitude": 11.787,
+      "longitude": 15.715,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Kirdimi",
+      "province": "博尔库区",
+      "latitude": 18.1522,
+      "longitude": 18.5385,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Béboto",
+      "province": "东洛贡区",
+      "latitude": 8.2668,
+      "longitude": 16.939,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Abdi",
+      "province": "瓦达伊区",
+      "latitude": 12.8,
+      "longitude": 21.3,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Haraze",
+      "province": "萨拉马特区",
+      "latitude": 9.9397,
+      "longitude": 20.9052,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Nokou",
+      "province": "加奈姆区",
+      "latitude": 14.579,
+      "longitude": 14.7793,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Am Dam",
+      "province": "西拉区",
+      "latitude": 12.7667,
+      "longitude": 20.4833,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Yao",
+      "province": "巴塔区",
+      "latitude": 12.8488,
+      "longitude": 17.5566,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Salal",
+      "province": "Barh el Gazel",
+      "latitude": 14.8439,
+      "longitude": 17.2254,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Guéréda",
+      "province": "瓦迪菲拉区",
+      "latitude": 14.5167,
+      "longitude": 22.0833,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Massenya",
+      "province": "沙里-巴吉尔米区",
+      "latitude": 11.4034,
+      "longitude": 16.1704,
+      "timezone": "Africa/Ndjamena"
+    },
+    {
+      "name": "",
+      "name_en": "Bardaï",
+      "province": "提贝斯提区",
+      "latitude": 21.3547,
+      "longitude": 17.0016,
+      "timezone": "Africa/Ndjamena"
+    }
+  ]
+}

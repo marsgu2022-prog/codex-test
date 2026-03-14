@@ -1,0 +1,62 @@
+{
+  "country_code": "NR",
+  "country_name": "瑙鲁",
+  "cities": [
+    {
+      "name": "亚伦区",
+      "name_en": "Yaren",
+      "province": "亚伦区",
+      "latitude": -0.5508,
+      "longitude": 166.9252,
+      "timezone": "Pacific/Nauru"
+    },
+    {
+      "name": "白帝区",
+      "name_en": "Baiti",
+      "province": "拜齐区",
+      "latitude": -0.508,
+      "longitude": 166.9295,
+      "timezone": "Pacific/Nauru"
+    },
+    {
+      "name": "",
+      "name_en": "Anabar",
+      "province": "阿纳巴尔区",
+      "latitude": -0.5084,
+      "longitude": 166.9533,
+      "timezone": "Pacific/Nauru"
+    },
+    {
+      "name": "",
+      "name_en": "Uaboe",
+      "province": "瓦博埃区",
+      "latitude": -0.5139,
+      "longitude": 166.9238,
+      "timezone": "Pacific/Nauru"
+    },
+    {
+      "name": "",
+      "name_en": "Ijuw",
+      "province": "伊朱乌区",
+      "latitude": -0.521,
+      "longitude": 166.9581,
+      "timezone": "Pacific/Nauru"
+    },
+    {
+      "name": "",
+      "name_en": "Anibare",
+      "province": "阿尼巴雷区",
+      "latitude": -0.5279,
+      "longitude": 166.9525,
+      "timezone": "Pacific/Nauru"
+    },
+    {
+      "name": "",
+      "name_en": "Yangor",
+      "province": "艾沃区",
+      "latitude": -0.5354,
+      "longitude": 166.9105,
+      "timezone": "Pacific/Nauru"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "country_code": "GL",
+  "country_name": "格陵兰",
+  "cities": [
+    {
+      "name": "努克",
+      "name_en": "Nuuk",
+      "province": "Sermersooq",
+      "latitude": 64.1835,
+      "longitude": -51.7216,
+      "timezone": "America/Nuuk"
+    },
+    {
+      "name": "西西缪特",
+      "name_en": "Sisimiut",
+      "province": "凯克卡塔",
+      "latitude": 66.9395,
+      "longitude": -53.6735,
+      "timezone": "America/Nuuk"
+    },
+    {
+      "name": "伊卢利萨特",
+      "name_en": "Ilulissat",
+      "province": "Avannaata",
+      "latitude": 69.2198,
+      "longitude": -51.0986,
+      "timezone": "America/Nuuk"
+    },
+    {
+      "name": "卡科尔托克",
+      "name_en": "Qaqortoq",
+      "province": "库雅雷克",
+      "latitude": 60.7184,
+      "longitude": -46.0356,
+      "timezone": "America/Nuuk"
+    },
+    {
+      "name": "亚西亚特",
+      "name_en": "Aasiaat",
+      "province": "Qeqertalik",
+      "latitude": 68.7087,
+      "longitude": -52.8637,
+      "timezone": "America/Nuuk"
+    }
+  ]
+}

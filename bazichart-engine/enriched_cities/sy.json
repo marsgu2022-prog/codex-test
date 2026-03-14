@@ -1,0 +1,854 @@
+{
+  "country_code": "SY",
+  "country_name": "叙利亚",
+  "cities": [
+    {
+      "name": "阿勒颇",
+      "name_en": "Aleppo",
+      "province": "阿勒颇省",
+      "latitude": 36.2012,
+      "longitude": 37.1612,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "大马士革",
+      "name_en": "Damascus",
+      "province": "大马士革省",
+      "latitude": 33.5102,
+      "longitude": 36.2913,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "霍姆斯",
+      "name_en": "Homs",
+      "province": "霍姆斯省",
+      "latitude": 34.724,
+      "longitude": 36.7256,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "拉塔基亚",
+      "name_en": "Latakia",
+      "province": "拉塔基亚省",
+      "latitude": 35.5312,
+      "longitude": 35.7909,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Ar Raqqah",
+      "province": "Raqqa",
+      "latitude": 35.9528,
+      "longitude": 39.0079,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Ḩamāh",
+      "province": "哈马省",
+      "latitude": 35.1318,
+      "longitude": 36.7578,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Ţarţūs",
+      "province": "塔尔图斯省",
+      "latitude": 34.889,
+      "longitude": 35.8866,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Al Ḩasakah",
+      "province": "哈塞克省",
+      "latitude": 36.5024,
+      "longitude": 40.7477,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "代尔祖尔",
+      "name_en": "Deir ez-Zor",
+      "province": "代尔祖尔省",
+      "latitude": 35.3359,
+      "longitude": 40.1408,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Al Bāb",
+      "province": "阿勒颇省",
+      "latitude": 36.3705,
+      "longitude": 37.5157,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "伊德利卜",
+      "name_en": "Idlib",
+      "province": "伊德利卜省",
+      "latitude": 35.9306,
+      "longitude": 36.6339,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Dūmā",
+      "province": "大马士革农村省",
+      "latitude": 33.5718,
+      "longitude": 36.4027,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "曼比季",
+      "name_en": "Manbij",
+      "province": "阿勒颇省",
+      "latitude": 36.5281,
+      "longitude": 37.9549,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Dar‘ā",
+      "province": "德拉省",
+      "latitude": 32.6189,
+      "longitude": 36.1021,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "As Salamīyah",
+      "province": "哈马省",
+      "latitude": 35.0113,
+      "longitude": 37.0532,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Al-Tabqa",
+      "province": "Raqqa",
+      "latitude": 35.8376,
+      "longitude": 38.5483,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Dārayyā",
+      "province": "大马士革农村省",
+      "latitude": 33.4584,
+      "longitude": 36.2326,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "I‘zāz",
+      "province": "阿勒颇省",
+      "latitude": 36.5866,
+      "longitude": 37.0463,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Jablah",
+      "province": "拉塔基亚省",
+      "latitude": 35.3621,
+      "longitude": 35.9276,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "As Safīrah",
+      "province": "阿勒颇省",
+      "latitude": 36.077,
+      "longitude": 37.3725,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "苏韦达",
+      "name_en": "As-Suwayda",
+      "province": "苏韦达省",
+      "latitude": 32.709,
+      "longitude": 36.5695,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Ālbū Kamāl",
+      "province": "代尔祖尔省",
+      "latitude": 34.4523,
+      "longitude": 40.9185,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "At Tall",
+      "province": "大马士革农村省",
+      "latitude": 33.6103,
+      "longitude": 36.3107,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Al Mayādīn",
+      "province": "代尔祖尔省",
+      "latitude": 35.0198,
+      "longitude": 40.4515,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Ar Rastan",
+      "province": "霍姆斯省",
+      "latitude": 34.9267,
+      "longitude": 36.7324,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Kabbasin",
+      "province": "阿勒颇省",
+      "latitude": 36.4327,
+      "longitude": 37.5686,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "巴尔米拉",
+      "name_en": "Tadmur",
+      "province": "霍姆斯省",
+      "latitude": 34.5624,
+      "longitude": 38.284,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Al Qāmishlī",
+      "province": "哈塞克省",
+      "latitude": 37.0521,
+      "longitude": 41.2314,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "‘Ayn al ‘Arab",
+      "province": "阿勒颇省",
+      "latitude": 36.8909,
+      "longitude": 38.3535,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "An Nabk",
+      "province": "大马士革农村省",
+      "latitude": 34.024,
+      "longitude": 36.7285,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Khān Shaykhūn",
+      "province": "伊德利卜省",
+      "latitude": 35.4421,
+      "longitude": 36.651,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "‘Afrīn",
+      "province": "阿勒颇省",
+      "latitude": 36.5119,
+      "longitude": 36.8695,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Nawá",
+      "province": "德拉省",
+      "latitude": 32.8865,
+      "longitude": 36.0391,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Kafranbel",
+      "province": "伊德利卜省",
+      "latitude": 35.6138,
+      "longitude": 36.5645,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "‘Irbīn",
+      "province": "大马士革农村省",
+      "latitude": 33.5372,
+      "longitude": 36.3663,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Al Quşayr",
+      "province": "霍姆斯省",
+      "latitude": 34.5078,
+      "longitude": 36.5803,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Yabrūd",
+      "province": "大马士革农村省",
+      "latitude": 33.9692,
+      "longitude": 36.6573,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Jisr ash Shughūr",
+      "province": "伊德利卜省",
+      "latitude": 35.8142,
+      "longitude": 36.3198,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Bāniyās",
+      "province": "塔尔图斯省",
+      "latitude": 35.1819,
+      "longitude": 35.9487,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Tallbīsah",
+      "province": "霍姆斯省",
+      "latitude": 34.8407,
+      "longitude": 36.7309,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Ḩarastā",
+      "province": "大马士革农村省",
+      "latitude": 33.5587,
+      "longitude": 36.3651,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Al Qunayţirah",
+      "province": "库奈特拉省",
+      "latitude": 33.126,
+      "longitude": 35.8246,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Tādif",
+      "province": "阿勒颇省",
+      "latitude": 36.3481,
+      "longitude": 37.5309,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Saraqib",
+      "province": "伊德利卜省",
+      "latitude": 35.8645,
+      "longitude": 36.8059,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Jayrūd",
+      "province": "大马士革农村省",
+      "latitude": 33.8071,
+      "longitude": 36.7386,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Maşyāf",
+      "province": "哈马省",
+      "latitude": 35.0653,
+      "longitude": 36.3406,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Ma‘arratmişrīn",
+      "province": "伊德利卜省",
+      "latitude": 36.0115,
+      "longitude": 36.6718,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Al Qaryatayn",
+      "province": "霍姆斯省",
+      "latitude": 34.2296,
+      "longitude": 37.2407,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Salqīn",
+      "province": "伊德利卜省",
+      "latitude": 36.1386,
+      "longitude": 36.4524,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Ţafas",
+      "province": "德拉省",
+      "latitude": 32.7371,
+      "longitude": 36.0665,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Şūrān",
+      "province": "哈马省",
+      "latitude": 35.2919,
+      "longitude": 36.7485,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Binnish",
+      "province": "伊德利卜省",
+      "latitude": 35.9566,
+      "longitude": 36.7138,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Jāsim",
+      "province": "德拉省",
+      "latitude": 32.9913,
+      "longitude": 36.0609,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Burj Islām",
+      "province": "拉塔基亚省",
+      "latitude": 35.674,
+      "longitude": 35.8026,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Tallkalakh",
+      "province": "霍姆斯省",
+      "latitude": 34.6684,
+      "longitude": 36.26,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Az Zabadānī",
+      "province": "大马士革农村省",
+      "latitude": 33.7249,
+      "longitude": 36.1005,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Dā‘il",
+      "province": "德拉省",
+      "latitude": 32.7535,
+      "longitude": 36.1308,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Ţayyibat al Imām",
+      "province": "哈马省",
+      "latitude": 35.2659,
+      "longitude": 36.7122,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Hajīn",
+      "province": "代尔祖尔省",
+      "latitude": 34.6951,
+      "longitude": 40.8314,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Inkhil",
+      "province": "德拉省",
+      "latitude": 33.0181,
+      "longitude": 36.1283,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Dayr Ḩāfir",
+      "province": "阿勒颇省",
+      "latitude": 36.1569,
+      "longitude": 37.7078,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Şāfītā",
+      "province": "塔尔图斯省",
+      "latitude": 34.821,
+      "longitude": 36.1177,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "‘Āmūdā",
+      "province": "哈塞克省",
+      "latitude": 37.1042,
+      "longitude": 40.93,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Al Mālikīyah",
+      "province": "哈塞克省",
+      "latitude": 37.177,
+      "longitude": 42.1401,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Shaykh Miskīn",
+      "province": "德拉省",
+      "latitude": 32.8267,
+      "longitude": 36.1605,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Aş Şanamayn",
+      "province": "德拉省",
+      "latitude": 33.0719,
+      "longitude": 36.1832,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Tall Rif‘at",
+      "province": "阿勒颇省",
+      "latitude": 36.4723,
+      "longitude": 37.0947,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Batabo",
+      "province": "阿勒颇省",
+      "latitude": 36.1345,
+      "longitude": 36.7398,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Nubl",
+      "province": "阿勒颇省",
+      "latitude": 36.3787,
+      "longitude": 36.9929,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Subaykhān",
+      "province": "代尔祖尔省",
+      "latitude": 34.8531,
+      "longitude": 40.5999,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Jarābulus",
+      "province": "阿勒颇省",
+      "latitude": 36.8175,
+      "longitude": 38.0111,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Al Ḩirāk",
+      "province": "德拉省",
+      "latitude": 32.7495,
+      "longitude": 36.3058,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Al Kiswah",
+      "province": "大马士革农村省",
+      "latitude": 33.3581,
+      "longitude": 36.2419,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Ḩalfāyā",
+      "province": "哈马省",
+      "latitude": 35.2601,
+      "longitude": 36.6058,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Kafr Takhārīm",
+      "province": "伊德利卜省",
+      "latitude": 36.1168,
+      "longitude": 36.5152,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Ad Dānā",
+      "province": "伊德利卜省",
+      "latitude": 36.2125,
+      "longitude": 36.77,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Kafr Zaytā",
+      "province": "哈马省",
+      "latitude": 35.3743,
+      "longitude": 36.6033,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Kafr Lāhā",
+      "province": "霍姆斯省",
+      "latitude": 34.8947,
+      "longitude": 36.4958,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Ad Darbāsīyah",
+      "province": "哈塞克省",
+      "latitude": 37.0728,
+      "longitude": 40.652,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Qārah",
+      "province": "大马士革农村省",
+      "latitude": 34.1556,
+      "longitude": 36.7428,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Zākīyah",
+      "province": "大马士革农村省",
+      "latitude": 33.3341,
+      "longitude": 36.1588,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Qaţanā",
+      "province": "大马士革农村省",
+      "latitude": 33.4376,
+      "longitude": 36.0789,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Maharda",
+      "province": "哈马省",
+      "latitude": 35.2479,
+      "longitude": 36.5725,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Al Quţayfah",
+      "province": "大马士革农村省",
+      "latitude": 33.7385,
+      "longitude": 36.6007,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Shahbā",
+      "province": "苏韦达省",
+      "latitude": 32.8524,
+      "longitude": 36.6285,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Mūrak",
+      "province": "哈马省",
+      "latitude": 35.3762,
+      "longitude": 36.6897,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Kanākir",
+      "province": "大马士革农村省",
+      "latitude": 33.2666,
+      "longitude": 36.0962,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Izra‘",
+      "province": "德拉省",
+      "latitude": 32.8671,
+      "longitude": 36.2507,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Jindayris",
+      "province": "阿勒颇省",
+      "latitude": 36.395,
+      "longitude": 36.6889,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Şalākhid",
+      "province": "苏韦达省",
+      "latitude": 32.8715,
+      "longitude": 36.5728,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Kafr Shams",
+      "province": "德拉省",
+      "latitude": 33.1181,
+      "longitude": 36.1063,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Kafr Buhum",
+      "province": "哈马省",
+      "latitude": 35.0596,
+      "longitude": 36.699,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Qabbāsīn",
+      "province": "阿勒颇省",
+      "latitude": 36.4327,
+      "longitude": 37.5686,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Ad Duraykīsh",
+      "province": "塔尔图斯省",
+      "latitude": 34.8951,
+      "longitude": 36.143,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Al Ghanţū",
+      "province": "霍姆斯省",
+      "latitude": 34.822,
+      "longitude": 36.6961,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Mukharram al Fawqānī",
+      "province": "霍姆斯省",
+      "latitude": 34.8152,
+      "longitude": 37.0868,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "As Sūsah",
+      "province": "代尔祖尔省",
+      "latitude": 34.5337,
+      "longitude": 40.9582,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Qanawāt",
+      "province": "苏韦达省",
+      "latitude": 32.754,
+      "longitude": 36.6145,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Shaţḩah",
+      "province": "哈马省",
+      "latitude": 35.5051,
+      "longitude": 36.2438,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Tremseh",
+      "province": "哈马省",
+      "latitude": 35.2718,
+      "longitude": 36.504,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Al Qurayyā",
+      "province": "苏韦达省",
+      "latitude": 32.5434,
+      "longitude": 36.5978,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Buq‘ātā",
+      "province": "库奈特拉省",
+      "latitude": 33.2011,
+      "longitude": 35.7792,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Afis",
+      "province": "伊德利卜省",
+      "latitude": 35.9069,
+      "longitude": 36.8042,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Dayr al ‘Aşāfīr",
+      "province": "大马士革农村省",
+      "latitude": 33.4659,
+      "longitude": 36.4204,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Jabā",
+      "province": "库奈特拉省",
+      "latitude": 33.1628,
+      "longitude": 35.9259,
+      "timezone": "Asia/Damascus"
+    },
+    {
+      "name": "",
+      "name_en": "Shaqqā",
+      "province": "苏韦达省",
+      "latitude": 32.8977,
+      "longitude": 36.6965,
+      "timezone": "Asia/Damascus"
+    }
+  ]
+}

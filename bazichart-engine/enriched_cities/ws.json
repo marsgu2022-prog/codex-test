@@ -1,0 +1,94 @@
+{
+  "country_code": "WS",
+  "country_name": "萨摩亚",
+  "cities": [
+    {
+      "name": "阿皮亚",
+      "name_en": "Apia",
+      "province": "图阿马萨加",
+      "latitude": -13.8333,
+      "longitude": -171.7667,
+      "timezone": "Pacific/Apia"
+    },
+    {
+      "name": "",
+      "name_en": "Asau",
+      "province": "韦西加诺",
+      "latitude": -13.5196,
+      "longitude": -172.6378,
+      "timezone": "Pacific/Apia"
+    },
+    {
+      "name": "",
+      "name_en": "Mulifanua",
+      "province": "艾加伊勒泰",
+      "latitude": -13.8318,
+      "longitude": -172.036,
+      "timezone": "Pacific/Apia"
+    },
+    {
+      "name": "",
+      "name_en": "Afega",
+      "province": "图阿马萨加",
+      "latitude": -13.7973,
+      "longitude": -171.8531,
+      "timezone": "Pacific/Apia"
+    },
+    {
+      "name": "",
+      "name_en": "Leulumoega",
+      "province": "阿纳",
+      "latitude": -13.823,
+      "longitude": -171.9613,
+      "timezone": "Pacific/Apia"
+    },
+    {
+      "name": "",
+      "name_en": "Safotu",
+      "province": "加盖福毛加",
+      "latitude": -13.4513,
+      "longitude": -172.4018,
+      "timezone": "Pacific/Apia"
+    },
+    {
+      "name": "",
+      "name_en": "Lufilufi",
+      "province": "阿图阿",
+      "latitude": -13.8745,
+      "longitude": -171.5986,
+      "timezone": "Pacific/Apia"
+    },
+    {
+      "name": "",
+      "name_en": "Vailoa",
+      "province": "帕劳利",
+      "latitude": -13.7555,
+      "longitude": -172.307,
+      "timezone": "Pacific/Apia"
+    },
+    {
+      "name": "",
+      "name_en": "Samamea",
+      "province": "瓦奥福诺蒂",
+      "latitude": -13.9337,
+      "longitude": -171.5312,
+      "timezone": "Pacific/Apia"
+    },
+    {
+      "name": "",
+      "name_en": "Safotulafai",
+      "province": "法塞莱莱阿加",
+      "latitude": -13.6715,
+      "longitude": -172.1777,
+      "timezone": "Pacific/Apia"
+    },
+    {
+      "name": "",
+      "name_en": "Satupa‘itea",
+      "province": "萨图帕伊泰阿",
+      "latitude": -13.7659,
+      "longitude": -172.3269,
+      "timezone": "Pacific/Apia"
+    }
+  ]
+}

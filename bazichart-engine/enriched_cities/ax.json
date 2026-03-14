@@ -1,0 +1,30 @@
+{
+  "country_code": "AX",
+  "country_name": "奥兰群岛",
+  "cities": [
+    {
+      "name": "",
+      "name_en": "Mariehamn",
+      "province": "Mariehamns stad",
+      "latitude": 60.0973,
+      "longitude": 19.9348,
+      "timezone": "Europe/Mariehamn"
+    },
+    {
+      "name": "",
+      "name_en": "Ytterby",
+      "province": "Ålands landsbygd",
+      "latitude": 60.1667,
+      "longitude": 20.0167,
+      "timezone": "Europe/Mariehamn"
+    },
+    {
+      "name": "",
+      "name_en": "Yomala",
+      "province": "Ålands landsbygd",
+      "latitude": 60.1669,
+      "longitude": 19.9334,
+      "timezone": "Europe/Mariehamn"
+    }
+  ]
+}

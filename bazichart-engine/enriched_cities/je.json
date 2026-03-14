@@ -1,0 +1,22 @@
+{
+  "country_code": "JE",
+  "country_name": "泽西岛",
+  "cities": [
+    {
+      "name": "",
+      "name_en": "Saint Helier",
+      "province": "St Helier",
+      "latitude": 49.188,
+      "longitude": -2.1049,
+      "timezone": "Europe/Jersey"
+    },
+    {
+      "name": "",
+      "name_en": "Le Hocq",
+      "province": "St Clement",
+      "latitude": 49.1682,
+      "longitude": -2.0618,
+      "timezone": "Europe/Jersey"
+    }
+  ]
+}

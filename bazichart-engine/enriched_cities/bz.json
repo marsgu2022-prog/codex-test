@@ -1,0 +1,110 @@
+{
+  "country_code": "BZ",
+  "country_name": "伯利兹",
+  "cities": [
+    {
+      "name": "伯利兹市",
+      "name_en": "Belize City",
+      "province": "伯利兹区",
+      "latitude": 17.4995,
+      "longitude": -88.1976,
+      "timezone": "America/Belize"
+    },
+    {
+      "name": "圣佩德罗",
+      "name_en": "San Pedro",
+      "province": "伯利兹区",
+      "latitude": 17.916,
+      "longitude": -87.9659,
+      "timezone": "America/Belize"
+    },
+    {
+      "name": "",
+      "name_en": "Orange Walk",
+      "province": "橘园区",
+      "latitude": 18.0812,
+      "longitude": -88.5633,
+      "timezone": "America/Belize"
+    },
+    {
+      "name": "贝尔墨邦",
+      "name_en": "Belmopan",
+      "province": "卡约区",
+      "latitude": 17.2538,
+      "longitude": -88.764,
+      "timezone": "America/Belize"
+    },
+    {
+      "name": "圣伊格纳西奥",
+      "name_en": "San Ignacio",
+      "province": "卡约区",
+      "latitude": 17.1588,
+      "longitude": -89.0696,
+      "timezone": "America/Belize"
+    },
+    {
+      "name": "",
+      "name_en": "Dangriga",
+      "province": "斯坦克里克区",
+      "latitude": 16.9697,
+      "longitude": -88.2331,
+      "timezone": "America/Belize"
+    },
+    {
+      "name": "",
+      "name_en": "Corozal",
+      "province": "科罗萨尔区",
+      "latitude": 18.3938,
+      "longitude": -88.3885,
+      "timezone": "America/Belize"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Elena",
+      "province": "卡约区",
+      "latitude": 17.1614,
+      "longitude": -89.0546,
+      "timezone": "America/Belize"
+    },
+    {
+      "name": "",
+      "name_en": "Ladyville",
+      "province": "伯利兹区",
+      "latitude": 17.5543,
+      "longitude": -88.29,
+      "timezone": "America/Belize"
+    },
+    {
+      "name": "",
+      "name_en": "Benque Viejo el Carmen",
+      "province": "卡约区",
+      "latitude": 17.075,
+      "longitude": -89.1392,
+      "timezone": "America/Belize"
+    },
+    {
+      "name": "",
+      "name_en": "Bella Vista",
+      "province": "托莱多区",
+      "latitude": 16.5095,
+      "longitude": -88.5317,
+      "timezone": "America/Belize"
+    },
+    {
+      "name": "",
+      "name_en": "Trial Farm",
+      "province": "橘园区",
+      "latitude": 18.1012,
+      "longitude": -88.5658,
+      "timezone": "America/Belize"
+    },
+    {
+      "name": "蓬塔戈尔达",
+      "name_en": "Punta Gorda",
+      "province": "托莱多区",
+      "latitude": 16.0983,
+      "longitude": -88.8097,
+      "timezone": "America/Belize"
+    }
+  ]
+}

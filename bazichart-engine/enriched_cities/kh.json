@@ -1,0 +1,982 @@
+{
+  "country_code": "KH",
+  "country_name": "柬埔寨",
+  "cities": [
+    {
+      "name": "金边",
+      "name_en": "Phnom Penh",
+      "province": "Phnom Penh",
+      "latitude": 11.5625,
+      "longitude": 104.916,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Takeo",
+      "province": "Takeo",
+      "latitude": 10.9908,
+      "longitude": 104.785,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "暹粒省",
+      "name_en": "Siem Reap",
+      "province": "Siem Reap",
+      "latitude": 13.3618,
+      "longitude": 103.8606,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "马德望",
+      "name_en": "Battambang",
+      "province": "马德望省",
+      "latitude": 13.1027,
+      "longitude": 103.1982,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Paoy Paet",
+      "province": "班迭棉吉省",
+      "latitude": 13.658,
+      "longitude": 102.5636,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Dangkao",
+      "province": "Phnom Penh",
+      "latitude": 11.5088,
+      "longitude": 104.8914,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Kampong Chhnang",
+      "province": "磅清扬省",
+      "latitude": 12.25,
+      "longitude": 104.6667,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "西哈努克市",
+      "name_en": "Sihanoukville",
+      "province": "西哈努克市",
+      "latitude": 10.6093,
+      "longitude": 103.5296,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Preaek Prasab",
+      "province": "Kratie",
+      "latitude": 12.3537,
+      "longitude": 106.0356,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Kampong Cham",
+      "province": "磅湛省",
+      "latitude": 11.9934,
+      "longitude": 105.4635,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Anlong Veaeng",
+      "province": "Ŏtâr Méanchey",
+      "latitude": 14.2322,
+      "longitude": 104.0811,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Pursat",
+      "province": "菩萨省",
+      "latitude": 12.5388,
+      "longitude": 103.9192,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Ta Khmau",
+      "province": "干丹省",
+      "latitude": 11.4833,
+      "longitude": 104.95,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Phumĭ Yoŭl Toŭng",
+      "province": "Takeo",
+      "latitude": 11.2823,
+      "longitude": 104.738,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Phumĭ Véal Srê",
+      "province": "Takeo",
+      "latitude": 10.9808,
+      "longitude": 104.7783,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Bavet",
+      "province": "柴桢省",
+      "latitude": 11.0632,
+      "longitude": 106.1356,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Kandoeng",
+      "province": "Takeo",
+      "latitude": 11.2916,
+      "longitude": 104.841,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Kampong Speu",
+      "province": "磅士卑省",
+      "latitude": 11.4533,
+      "longitude": 104.5208,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Koh Kong",
+      "province": "戈公省",
+      "latitude": 11.6153,
+      "longitude": 102.9838,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Prey Veng",
+      "province": "波萝勉省",
+      "latitude": 11.4868,
+      "longitude": 105.3253,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Suong",
+      "province": "Tboung Khmum",
+      "latitude": 11.9118,
+      "longitude": 105.6582,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Smach Mean Chey",
+      "province": "戈公省",
+      "latitude": 11.5466,
+      "longitude": 103.0357,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Phumĭ Véal Tônsay",
+      "province": "磅士卑省",
+      "latitude": 11.6962,
+      "longitude": 104.5806,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Stung Treng",
+      "province": "上丁省",
+      "latitude": 13.5259,
+      "longitude": 105.9683,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Boeng Kak Pir",
+      "province": "Phnom Penh",
+      "latitude": 11.5727,
+      "longitude": 104.8902,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Tbeng Meanchey",
+      "province": "柏威夏省",
+      "latitude": 13.8073,
+      "longitude": 104.9805,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Svay Rieng",
+      "province": "柴桢省",
+      "latitude": 11.0878,
+      "longitude": 105.7994,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Sisophon",
+      "province": "班迭棉吉省",
+      "latitude": 13.5859,
+      "longitude": 102.9737,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Chrang Chamreh Muoy",
+      "province": "Phnom Penh",
+      "latitude": 11.6305,
+      "longitude": 104.8854,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Dar",
+      "province": "Tboung Khmum",
+      "latitude": 11.7885,
+      "longitude": 106.0933,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "贡布",
+      "name_en": "Kampot",
+      "province": "贡布省",
+      "latitude": 10.6104,
+      "longitude": 104.1814,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Phumĭ Tnaôt",
+      "province": "磅同省",
+      "latitude": 12.9473,
+      "longitude": 104.5691,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Kratié",
+      "province": "Kratie",
+      "latitude": 12.4881,
+      "longitude": 106.0188,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Kampong Thom",
+      "province": "磅同省",
+      "latitude": 12.7111,
+      "longitude": 104.8887,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Lumphat",
+      "province": "腊塔纳基里省",
+      "latitude": 13.4915,
+      "longitude": 106.9802,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Samraong",
+      "province": "Ŏtâr Méanchey",
+      "latitude": 14.1817,
+      "longitude": 103.5176,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Pailin",
+      "province": "拜林省",
+      "latitude": 12.849,
+      "longitude": 102.6093,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Mémót",
+      "province": "Tboung Khmum",
+      "latitude": 11.8288,
+      "longitude": 106.1821,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Banlung",
+      "province": "腊塔纳基里省",
+      "latitude": 13.7394,
+      "longitude": 106.9873,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Phum Ânlŭng Vĭl",
+      "province": "马德望省",
+      "latitude": 13.0834,
+      "longitude": 103.235,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Snuol",
+      "province": "Kratie",
+      "latitude": 12.0724,
+      "longitude": 106.4208,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Yeang",
+      "province": "Siem Reap",
+      "latitude": 13.5497,
+      "longitude": 103.609,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Phumĭ Âmpĭl Leu",
+      "province": "磅湛省",
+      "latitude": 12.0092,
+      "longitude": 105.4341,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Ângk Tasaôm",
+      "province": "Takeo",
+      "latitude": 11.0129,
+      "longitude": 104.6729,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Ou Bei Choan",
+      "province": "班迭棉吉省",
+      "latitude": 13.7736,
+      "longitude": 102.7373,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Veal Sbov",
+      "province": "Phnom Penh",
+      "latitude": 11.5352,
+      "longitude": 104.9759,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Ou Char",
+      "province": "马德望省",
+      "latitude": 13.1069,
+      "longitude": 103.1872,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Boeng Kak Muoy",
+      "province": "Phnom Penh",
+      "latitude": 11.5793,
+      "longitude": 104.8982,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Phumĭ Ânhchaeum",
+      "province": "Tboung Khmum",
+      "latitude": 11.8471,
+      "longitude": 105.7142,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Tăng Krâsăng",
+      "province": "磅同省",
+      "latitude": 12.5674,
+      "longitude": 105.0456,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Ampil Pram Daeum",
+      "province": "马德望省",
+      "latitude": 13.26,
+      "longitude": 102.7697,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Ou Ruessei",
+      "province": "Kratie",
+      "latitude": 12.4981,
+      "longitude": 106.0383,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Krong Kep",
+      "province": "白马市",
+      "latitude": 10.4829,
+      "longitude": 104.3167,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Otdam Souriya",
+      "province": "Takeo",
+      "latitude": 11.0637,
+      "longitude": 104.7064,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Phumĭ Ângkôr Borei",
+      "province": "Takeo",
+      "latitude": 10.995,
+      "longitude": 104.9748,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Andoung Khmaer",
+      "province": "贡布省",
+      "latitude": 10.6069,
+      "longitude": 104.1742,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Khnach Romeas",
+      "province": "马德望省",
+      "latitude": 13.2643,
+      "longitude": 102.9504,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Rung",
+      "province": "Tboung Khmum",
+      "latitude": 11.5088,
+      "longitude": 104.8914,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Ou Smach",
+      "province": "Ŏtâr Méanchey",
+      "latitude": 14.4248,
+      "longitude": 103.6957,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Angkor Sar",
+      "province": "波萝勉省",
+      "latitude": 11.2515,
+      "longitude": 105.6226,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Preaek Khsay Kha",
+      "province": "波萝勉省",
+      "latitude": 11.2623,
+      "longitude": 105.2861,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Svay Rumpea",
+      "province": "磅士卑省",
+      "latitude": 11.2128,
+      "longitude": 104.5761,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Anlong Thnaot",
+      "province": "菩萨省",
+      "latitude": 12.528,
+      "longitude": 104.1999,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Tœ̆k L’ák",
+      "province": "Phnom Penh",
+      "latitude": 11.5672,
+      "longitude": 104.9047,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Koun Sat",
+      "province": "贡布省",
+      "latitude": 10.6006,
+      "longitude": 104.2796,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Damrei Phong",
+      "province": "Kratie",
+      "latitude": 12.1692,
+      "longitude": 106.0804,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Preaek Saman",
+      "province": "Kratie",
+      "latitude": 12.2841,
+      "longitude": 106.0272,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Ou Svay",
+      "province": "Ŏtâr Méanchey",
+      "latitude": 14.3265,
+      "longitude": 104.3195,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Roka Khnaor",
+      "province": "Tboung Khmum",
+      "latitude": 12.2462,
+      "longitude": 105.7614,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Phumĭ Khchau",
+      "province": "磅湛省",
+      "latitude": 11.9156,
+      "longitude": 105.1371,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Angkoul",
+      "province": "白马市",
+      "latitude": 10.467,
+      "longitude": 104.3855,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Kampong Trabaek",
+      "province": "波萝勉省",
+      "latitude": 11.1438,
+      "longitude": 105.4827,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "乌栋",
+      "name_en": "Ŏdŏngk",
+      "province": "磅同省",
+      "latitude": 11.8225,
+      "longitude": 104.7436,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Sen Monorom",
+      "province": "Mondolkiri",
+      "latitude": 12.4558,
+      "longitude": 107.1881,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Yeang Dangkum",
+      "province": "班迭棉吉省",
+      "latitude": 13.7547,
+      "longitude": 102.7556,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Tuek Kraham",
+      "province": "柏威夏省",
+      "latitude": 14.215,
+      "longitude": 104.9469,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Pongro",
+      "province": "Kratie",
+      "latitude": 12.2565,
+      "longitude": 105.9217,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Phumĭ Tnaôt Chŭm",
+      "province": "磅同省",
+      "latitude": 12.5231,
+      "longitude": 105.0629,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Khŭm Ângkôr Ban",
+      "province": "磅湛省",
+      "latitude": 11.9558,
+      "longitude": 105.2079,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Khŭm Ânsaông",
+      "province": "波萝勉省",
+      "latitude": 11.1289,
+      "longitude": 105.544,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Tuŏl Tumpung",
+      "province": "Phnom Penh",
+      "latitude": 11.5512,
+      "longitude": 104.9063,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Ampov Prey",
+      "province": "干丹省",
+      "latitude": 11.3871,
+      "longitude": 104.8796,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Ou Krasar",
+      "province": "白马市",
+      "latitude": 10.5554,
+      "longitude": 104.2883,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Areaks Tnaot",
+      "province": "磅湛省",
+      "latitude": 12.367,
+      "longitude": 105.638,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Angkor Meas",
+      "province": "贡布省",
+      "latitude": 10.769,
+      "longitude": 104.3763,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Chealea",
+      "province": "磅湛省",
+      "latitude": 11.9104,
+      "longitude": 104.9295,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Damrei Choan Khla",
+      "province": "磅同省",
+      "latitude": 12.6928,
+      "longitude": 104.8988,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Ph’av",
+      "province": "磅湛省",
+      "latitude": 12.0282,
+      "longitude": 104.9648,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Andoung Thma",
+      "province": "西哈努克市",
+      "latitude": 10.6699,
+      "longitude": 103.797,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Banteay Meas Khang Kaeut",
+      "province": "贡布省",
+      "latitude": 10.625,
+      "longitude": 104.6543,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "L’ang",
+      "province": "贡布省",
+      "latitude": 10.7449,
+      "longitude": 104.3458,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Kuttasat",
+      "province": "班迭棉吉省",
+      "latitude": 13.5867,
+      "longitude": 102.7632,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Kampong Damrei",
+      "province": "Kratie",
+      "latitude": 12.1143,
+      "longitude": 106.0773,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Kak",
+      "province": "磅士卑省",
+      "latitude": 11.1956,
+      "longitude": 104.5368,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Lvea Leu",
+      "province": "磅湛省",
+      "latitude": 12.3449,
+      "longitude": 105.2848,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Phumĭ Koŭk Kóng",
+      "province": "波萝勉省",
+      "latitude": 11.7292,
+      "longitude": 105.5827,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Chhloung",
+      "province": "Kratie",
+      "latitude": 12.2561,
+      "longitude": 105.97,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Phumĭ Ândong Snay",
+      "province": "磅清扬省",
+      "latitude": 12.1668,
+      "longitude": 104.6688,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Damnak Khchas",
+      "province": "Siem Reap",
+      "latitude": 13.4964,
+      "longitude": 103.4099,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Han Chey",
+      "province": "Kratie",
+      "latitude": 12.2582,
+      "longitude": 105.9484,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Trapeang Chan",
+      "province": "磅清扬省",
+      "latitude": 12.4719,
+      "longitude": 104.4105,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Andoung Trabaek",
+      "province": "柴桢省",
+      "latitude": 11.58,
+      "longitude": 105.7652,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Chhnok Tru",
+      "province": "磅清扬省",
+      "latitude": 12.5151,
+      "longitude": 104.4515,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Aachar Leak",
+      "province": "磅同省",
+      "latitude": 12.7255,
+      "longitude": 104.8943,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Doun Yay",
+      "province": "贡布省",
+      "latitude": 10.78,
+      "longitude": 104.4438,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Kampong Thkov",
+      "province": "Siem Reap",
+      "latitude": 13.6,
+      "longitude": 103.4168,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Kdol",
+      "province": "磅清扬省",
+      "latitude": 12.2388,
+      "longitude": 104.2785,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Siem Reab",
+      "province": "Siem Reap",
+      "latitude": 13.3618,
+      "longitude": 103.8606,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Kouk Trab",
+      "province": "干丹省",
+      "latitude": 11.4046,
+      "longitude": 104.8461,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Chŏng Kal",
+      "province": "Ŏtâr Méanchey",
+      "latitude": 13.9554,
+      "longitude": 103.5738,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Voat Angk Khang Tboung",
+      "province": "贡布省",
+      "latitude": 10.721,
+      "longitude": 104.5296,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Khpob Ateav",
+      "province": "干丹省",
+      "latitude": 11.0628,
+      "longitude": 105.1903,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Kanhchor",
+      "province": "Kratie",
+      "latitude": 12.3066,
+      "longitude": 106.0406,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Anhchanh Rung",
+      "province": "磅清扬省",
+      "latitude": 12.3521,
+      "longitude": 104.4255,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Haong Samnam",
+      "province": "磅士卑省",
+      "latitude": 11.5715,
+      "longitude": 104.2342,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Kantueu Pir",
+      "province": "马德望省",
+      "latitude": 12.9316,
+      "longitude": 103.1382,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Voat Angk Khang Cheung",
+      "province": "贡布省",
+      "latitude": 10.743,
+      "longitude": 104.5177,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Sdach Kong Khang Cheung",
+      "province": "贡布省",
+      "latitude": 10.6059,
+      "longitude": 104.5534,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Anlong Reab",
+      "province": "菩萨省",
+      "latitude": 12.2791,
+      "longitude": 103.0166,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Angkor Angk",
+      "province": "波萝勉省",
+      "latitude": 11.1606,
+      "longitude": 105.3144,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Phumĭ Ândong Poŭthĭ",
+      "province": "柴桢省",
+      "latitude": 11.3598,
+      "longitude": 105.8081,
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "",
+      "name_en": "Roka Kandal",
+      "province": "Kratie",
+      "latitude": 12.4613,
+      "longitude": 106.0281,
+      "timezone": "Asia/Phnom_Penh"
+    }
+  ]
+}

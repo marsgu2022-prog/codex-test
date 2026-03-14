@@ -1,0 +1,934 @@
+{
+  "country_code": "AZ",
+  "country_name": "阿塞拜疆",
+  "cities": [
+    {
+      "name": "巴库",
+      "name_en": "Baku",
+      "province": "Baki",
+      "latitude": 40.3777,
+      "longitude": 49.892,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Sumqayıt",
+      "province": "Sumqayit",
+      "latitude": 40.5897,
+      "longitude": 49.6686,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "占贾",
+      "name_en": "Ganja",
+      "province": "Gǝncǝ",
+      "latitude": 40.6816,
+      "longitude": 46.3613,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Lankaran",
+      "province": "Lənkəran",
+      "latitude": 38.7543,
+      "longitude": 48.8506,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Tovuz",
+      "province": "塔乌兹区",
+      "latitude": 40.9925,
+      "longitude": 45.6284,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Yevlakh",
+      "province": "Yevlax City",
+      "latitude": 40.6183,
+      "longitude": 47.1501,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "明盖恰乌尔",
+      "name_en": "Mingachevir",
+      "province": "Mingǝcevir",
+      "latitude": 40.7642,
+      "longitude": 47.0623,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Naxçıvan",
+      "province": "纳希切万自治共和国",
+      "latitude": 39.2089,
+      "longitude": 45.4122,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Qaraçuxur",
+      "province": "Baki",
+      "latitude": 40.3967,
+      "longitude": 49.9736,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Lerik",
+      "province": "列里克区",
+      "latitude": 38.7739,
+      "longitude": 48.415,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Saatlı",
+      "province": "Saatlı",
+      "latitude": 39.9321,
+      "longitude": 48.3689,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Şirvan",
+      "province": "Shirvan",
+      "latitude": 39.9378,
+      "longitude": 48.929,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Sheki",
+      "province": "Shaki City",
+      "latitude": 41.1919,
+      "longitude": 47.1706,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Bakıxanov",
+      "province": "Baki",
+      "latitude": 40.4189,
+      "longitude": 49.9669,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Agdzhabedy",
+      "province": "Ağcabǝdi",
+      "latitude": 40.0502,
+      "longitude": 47.4594,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Göyçay",
+      "province": "Göyçay",
+      "latitude": 40.6506,
+      "longitude": 47.7422,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Bilajari",
+      "province": "Baki",
+      "latitude": 40.4444,
+      "longitude": 49.8057,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Maştağa",
+      "province": "Baki",
+      "latitude": 40.5298,
+      "longitude": 50.0062,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "阿格达姆",
+      "name_en": "Ağdam",
+      "province": "Ağdam",
+      "latitude": 39.991,
+      "longitude": 46.9274,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Khirdalan",
+      "province": "Abşeron",
+      "latitude": 40.4481,
+      "longitude": 49.755,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "巴尔达",
+      "name_en": "Barda",
+      "province": "巴尔达区",
+      "latitude": 40.3758,
+      "longitude": 47.1262,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "哈奇马斯",
+      "name_en": "Xaçmaz",
+      "province": "Xaçmaz",
+      "latitude": 41.4643,
+      "longitude": 48.8056,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Salyan",
+      "province": "萨利扬区",
+      "latitude": 39.5962,
+      "longitude": 48.9848,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Hövsan",
+      "province": "Baki",
+      "latitude": 40.3744,
+      "longitude": 50.0853,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Jalilabad",
+      "province": "贾利拉巴德区",
+      "latitude": 39.2096,
+      "longitude": 48.4919,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Shamkhor",
+      "province": "Şǝmkir",
+      "latitude": 40.8297,
+      "longitude": 46.0178,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Imishli",
+      "province": "İmişli",
+      "latitude": 39.871,
+      "longitude": 48.06,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Zaqatala",
+      "province": "扎卡塔雷区",
+      "latitude": 41.6316,
+      "longitude": 46.6448,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Lokbatan",
+      "province": "Baki",
+      "latitude": 40.3256,
+      "longitude": 49.7338,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "萨比拉巴德",
+      "name_en": "Sabirabad",
+      "province": "萨比拉巴德区",
+      "latitude": 40.0087,
+      "longitude": 48.477,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Shamakhi",
+      "province": "Şamaxı",
+      "latitude": 40.6314,
+      "longitude": 48.6414,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "İsmayıllı",
+      "province": "伊斯梅尔雷区",
+      "latitude": 40.7848,
+      "longitude": 48.1514,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Amirdzhan",
+      "province": "Baki",
+      "latitude": 40.4264,
+      "longitude": 49.9836,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Fizuli",
+      "province": "菲祖利区",
+      "latitude": 39.6009,
+      "longitude": 47.1453,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "布佐夫纳",
+      "name_en": "Buzovna",
+      "province": "Baki",
+      "latitude": 40.519,
+      "longitude": 50.1144,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Biny Selo",
+      "province": "Baki",
+      "latitude": 40.4508,
+      "longitude": 50.0869,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "阿格达什",
+      "name_en": "Ağdaş",
+      "province": "Ağdaş",
+      "latitude": 40.647,
+      "longitude": 47.4738,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Divichibazar",
+      "province": "迪维奇区",
+      "latitude": 41.2012,
+      "longitude": 48.9871,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Hacıqabul",
+      "province": "Hacıqabul",
+      "latitude": 40.0387,
+      "longitude": 48.9429,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "库巴",
+      "name_en": "Quba",
+      "province": "Quba",
+      "latitude": 41.3611,
+      "longitude": 48.5134,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Zabrat",
+      "province": "Baki",
+      "latitude": 40.4775,
+      "longitude": 49.9417,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Sabunçu",
+      "province": "Baki",
+      "latitude": 40.4425,
+      "longitude": 49.9481,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Kyurdarmir",
+      "province": "丘尔达米尔区",
+      "latitude": 40.3426,
+      "longitude": 48.1565,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Hacı Zeynalabdin",
+      "province": "Sumqayit",
+      "latitude": 40.6233,
+      "longitude": 49.5586,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "哈萨克",
+      "name_en": "Qazax",
+      "province": "Qazax",
+      "latitude": 41.0925,
+      "longitude": 45.3656,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Şuşa",
+      "province": "Shusha",
+      "latitude": 39.7601,
+      "longitude": 46.7499,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Neftçala",
+      "province": "Neftçala",
+      "latitude": 39.3768,
+      "longitude": 49.247,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Terter",
+      "province": "泰尔泰尔区",
+      "latitude": 40.342,
+      "longitude": 46.9316,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Pushkino",
+      "province": "比利亚苏瓦尔区",
+      "latitude": 39.4583,
+      "longitude": 48.545,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Göygöl",
+      "province": "Goygol Rayon",
+      "latitude": 40.5858,
+      "longitude": 46.3189,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Əhmədbəyli",
+      "province": "Saatlı",
+      "latitude": 39.8807,
+      "longitude": 48.3916,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Aghsu",
+      "province": "阿赫苏区",
+      "latitude": 40.5703,
+      "longitude": 48.4009,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Yeni Suraxanı",
+      "province": "Baki",
+      "latitude": 40.4303,
+      "longitude": 50.036,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Qusar",
+      "province": "库萨雷区",
+      "latitude": 41.4275,
+      "longitude": 48.4302,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Ujar",
+      "province": "Ucar",
+      "latitude": 40.519,
+      "longitude": 47.6542,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Beylagan",
+      "province": "Beyləqan",
+      "latitude": 39.7756,
+      "longitude": 47.6186,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Mardakan",
+      "province": "Baki",
+      "latitude": 40.4918,
+      "longitude": 50.1429,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "阿斯塔拉",
+      "name_en": "Astara",
+      "province": "阿斯塔拉区",
+      "latitude": 38.456,
+      "longitude": 48.875,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Belokany",
+      "province": "巴拉肯区",
+      "latitude": 41.7263,
+      "longitude": 46.4048,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Binagadi",
+      "province": "Baki",
+      "latitude": 40.466,
+      "longitude": 49.8278,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "胡达特",
+      "name_en": "Xudat",
+      "province": "Xaçmaz",
+      "latitude": 41.6305,
+      "longitude": 48.6816,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Pirallahı",
+      "province": "Baki",
+      "latitude": 40.4701,
+      "longitude": 50.3248,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "哥布斯坦",
+      "name_en": "Qobustan",
+      "province": "Baki",
+      "latitude": 40.0824,
+      "longitude": 49.4121,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Geytepe",
+      "province": "贾利拉巴德区",
+      "latitude": 39.12,
+      "longitude": 48.5938,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Aghstafa",
+      "province": "Ağstafa",
+      "latitude": 41.1189,
+      "longitude": 45.4539,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Culfa",
+      "province": "纳希切万自治共和国",
+      "latitude": 38.954,
+      "longitude": 45.6296,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Qax",
+      "province": "Qax",
+      "latitude": 41.4183,
+      "longitude": 46.9204,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Qabala",
+      "province": "盖贝莱区",
+      "latitude": 40.9814,
+      "longitude": 47.8458,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Badamdar",
+      "province": "Baki",
+      "latitude": 40.3402,
+      "longitude": 49.8045,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Balakhani",
+      "province": "Baki",
+      "latitude": 40.4634,
+      "longitude": 49.9189,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Zardob",
+      "province": "Zərdab",
+      "latitude": 40.2184,
+      "longitude": 47.7121,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Goranboy",
+      "province": "戈兰博伊区",
+      "latitude": 40.6103,
+      "longitude": 46.7897,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Saray",
+      "province": "Abşeron",
+      "latitude": 40.533,
+      "longitude": 49.7168,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Zyrya",
+      "province": "Baki",
+      "latitude": 40.3661,
+      "longitude": 50.292,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Yukhary-Dashkesan",
+      "province": "Daşkǝsǝn",
+      "latitude": 40.5239,
+      "longitude": 46.0819,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "奥尔杜巴德",
+      "name_en": "Ordubad",
+      "province": "纳希切万自治共和国",
+      "latitude": 38.9096,
+      "longitude": 46.0227,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Türkan",
+      "province": "Baki",
+      "latitude": 40.3646,
+      "longitude": 50.2208,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Masally",
+      "province": "马萨雷区",
+      "latitude": 39.0353,
+      "longitude": 48.6654,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Aliabad",
+      "province": "扎卡塔雷区",
+      "latitude": 41.4829,
+      "longitude": 46.6348,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Bilajer",
+      "province": "Baki",
+      "latitude": 40.5644,
+      "longitude": 50.04,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Ramana",
+      "province": "Baki",
+      "latitude": 40.4422,
+      "longitude": 49.9806,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Kyadabek",
+      "province": "凯达贝克区",
+      "latitude": 40.5705,
+      "longitude": 45.8123,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Corat",
+      "province": "Sumqayit",
+      "latitude": 40.5718,
+      "longitude": 49.7051,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Yaycı",
+      "province": "纳希切万自治共和国",
+      "latitude": 38.9405,
+      "longitude": 45.7324,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Kalbajar",
+      "province": "克尔巴贾尔区",
+      "latitude": 40.1098,
+      "longitude": 46.0445,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Jebrail",
+      "province": "杰布拉伊尔区",
+      "latitude": 39.3992,
+      "longitude": 47.0284,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Cahri",
+      "province": "纳希切万自治共和国",
+      "latitude": 39.3484,
+      "longitude": 45.4156,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "纳尔达兰",
+      "name_en": "Nardaran",
+      "province": "Baki",
+      "latitude": 40.5561,
+      "longitude": 50.0056,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Qalaqayın",
+      "province": "萨比拉巴德区",
+      "latitude": 39.9836,
+      "longitude": 48.4836,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Yardımlı",
+      "province": "亚尔德姆雷区",
+      "latitude": 38.9077,
+      "longitude": 48.2405,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Zangilan",
+      "province": "赞格兰区",
+      "latitude": 39.0837,
+      "longitude": 46.6599,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Dzagam",
+      "province": "Şǝmkir",
+      "latitude": 40.9033,
+      "longitude": 45.8856,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Sharur City",
+      "province": "纳希切万自治共和国",
+      "latitude": 39.553,
+      "longitude": 44.9799,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Qobu",
+      "province": "Abşeron",
+      "latitude": 40.4047,
+      "longitude": 49.7131,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Severo-Vostotchnyi Bank",
+      "province": "Neftçala",
+      "latitude": 39.4112,
+      "longitude": 49.2479,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Naftalan",
+      "province": "Naftalan",
+      "latitude": 40.5082,
+      "longitude": 46.8203,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "库巴特雷",
+      "name_en": "Qubadlı",
+      "province": "Qubadlı",
+      "latitude": 39.3444,
+      "longitude": 46.5818,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Aran",
+      "province": "Yevlax",
+      "latitude": 40.6253,
+      "longitude": 46.9756,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Oğuz",
+      "province": "Oğuz",
+      "latitude": 41.0713,
+      "longitude": 47.4653,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Çinarlı",
+      "province": "Qax",
+      "latitude": 41.4697,
+      "longitude": 46.9158,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "明奇凡",
+      "name_en": "Mincivan",
+      "province": "赞格兰区",
+      "latitude": 39.0302,
+      "longitude": 46.7233,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Qızılhacılı",
+      "province": "戈兰博伊区",
+      "latitude": 40.5772,
+      "longitude": 46.8578,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Samux",
+      "province": "Samux",
+      "latitude": 40.7649,
+      "longitude": 46.4087,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Dünyamalılar",
+      "province": "Beyləqan",
+      "latitude": 39.7728,
+      "longitude": 47.7589,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Boradigah",
+      "province": "马萨雷区",
+      "latitude": 38.9301,
+      "longitude": 48.7092,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "霍贾雷区",
+      "name_en": "Khojaly",
+      "province": "Khojaly",
+      "latitude": 39.9136,
+      "longitude": 46.7921,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Ceyranbatan",
+      "province": "Abşeron",
+      "latitude": 40.5419,
+      "longitude": 49.6607,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Avşar",
+      "province": "Ağcabǝdi",
+      "latitude": 39.9739,
+      "longitude": 47.4239,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Qarayeri",
+      "province": "Samux",
+      "latitude": 40.7867,
+      "longitude": 46.3137,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Bum",
+      "province": "盖贝莱区",
+      "latitude": 41.0144,
+      "longitude": 47.7781,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Khojasan",
+      "province": "Baki",
+      "latitude": 40.4129,
+      "longitude": 49.769,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Novyy Karanlug",
+      "province": "霍贾文德区",
+      "latitude": 39.795,
+      "longitude": 47.1117,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Qobustan",
+      "province": "Qobustan",
+      "latitude": 40.0824,
+      "longitude": 49.4121,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Laçın",
+      "province": "Lachin Rayon",
+      "latitude": 39.6374,
+      "longitude": 46.5498,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Xızı",
+      "province": "Xızı",
+      "latitude": 40.9085,
+      "longitude": 49.0748,
+      "timezone": "Asia/Baku"
+    },
+    {
+      "name": "",
+      "name_en": "Kyzyl-Burun",
+      "province": "Siyǝzǝn",
+      "latitude": 41.0781,
+      "longitude": 49.1156,
+      "timezone": "Asia/Baku"
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "country_code": "SB",
+  "country_name": "所罗门群岛",
+  "cities": [
+    {
+      "name": "霍尼亚拉",
+      "name_en": "Honiara",
+      "province": "Honiara",
+      "latitude": -9.4333,
+      "longitude": 159.95,
+      "timezone": "Pacific/Guadalcanal"
+    },
+    {
+      "name": "",
+      "name_en": "Panatina",
+      "province": "Honiara",
+      "latitude": -9.4322,
+      "longitude": 160.0061,
+      "timezone": "Pacific/Guadalcanal"
+    },
+    {
+      "name": "",
+      "name_en": "Nggosi",
+      "province": "瓜达尔卡纳尔省",
+      "latitude": -9.4306,
+      "longitude": 159.921,
+      "timezone": "Pacific/Guadalcanal"
+    },
+    {
+      "name": "",
+      "name_en": "Tandai",
+      "province": "瓜达尔卡纳尔省",
+      "latitude": -9.4467,
+      "longitude": 159.9455,
+      "timezone": "Pacific/Guadalcanal"
+    },
+    {
+      "name": "",
+      "name_en": "Kola'a",
+      "province": "Honiara",
+      "latitude": -9.4411,
+      "longitude": 159.97,
+      "timezone": "Pacific/Guadalcanal"
+    },
+    {
+      "name": "",
+      "name_en": "Vura",
+      "province": "Honiara",
+      "latitude": -9.442,
+      "longitude": 159.9888,
+      "timezone": "Pacific/Guadalcanal"
+    },
+    {
+      "name": "",
+      "name_en": "Malango",
+      "province": "瓜达尔卡纳尔省",
+      "latitude": -9.425,
+      "longitude": 160.0533,
+      "timezone": "Pacific/Guadalcanal"
+    },
+    {
+      "name": "",
+      "name_en": "Vavaea",
+      "province": "Honiara",
+      "latitude": -9.4361,
+      "longitude": 159.957,
+      "timezone": "Pacific/Guadalcanal"
+    },
+    {
+      "name": "",
+      "name_en": "Malango",
+      "province": "瓜达尔卡纳尔省",
+      "latitude": -9.425,
+      "longitude": 160.0533,
+      "timezone": "Pacific/Guadalcanal"
+    },
+    {
+      "name": "",
+      "name_en": "Noro",
+      "province": "西部省",
+      "latitude": -8.2227,
+      "longitude": 157.1998,
+      "timezone": "Pacific/Guadalcanal"
+    },
+    {
+      "name": "",
+      "name_en": "Gizo",
+      "province": "西部省",
+      "latitude": -8.103,
+      "longitude": 156.8419,
+      "timezone": "Pacific/Guadalcanal"
+    },
+    {
+      "name": "",
+      "name_en": "Auki",
+      "province": "马莱塔省",
+      "latitude": -8.7678,
+      "longitude": 160.6978,
+      "timezone": "Pacific/Guadalcanal"
+    },
+    {
+      "name": "",
+      "name_en": "Mbumburu",
+      "province": "Honiara",
+      "latitude": -9.4333,
+      "longitude": 159.9333,
+      "timezone": "Pacific/Guadalcanal"
+    },
+    {
+      "name": "",
+      "name_en": "Mataniko",
+      "province": "Honiara",
+      "latitude": -9.4397,
+      "longitude": 159.9626,
+      "timezone": "Pacific/Guadalcanal"
+    },
+    {
+      "name": "",
+      "name_en": "Buala",
+      "province": "伊莎贝尔省",
+      "latitude": -8.145,
+      "longitude": 159.5921,
+      "timezone": "Pacific/Guadalcanal"
+    },
+    {
+      "name": "基拉基拉",
+      "name_en": "Kirakira",
+      "province": "马基拉-乌拉瓦省",
+      "latitude": -10.4544,
+      "longitude": 161.9204,
+      "timezone": "Pacific/Guadalcanal"
+    },
+    {
+      "name": "",
+      "name_en": "Tulagi",
+      "province": "中部群岛省",
+      "latitude": -9.1031,
+      "longitude": 160.1506,
+      "timezone": "Pacific/Guadalcanal"
+    },
+    {
+      "name": "",
+      "name_en": "Taro",
+      "province": "舒瓦瑟尔省",
+      "latitude": -6.7111,
+      "longitude": 156.3972,
+      "timezone": "Pacific/Guadalcanal"
+    },
+    {
+      "name": "",
+      "name_en": "Lata",
+      "province": "泰莫图省",
+      "latitude": -10.725,
+      "longitude": 165.7972,
+      "timezone": "Pacific/Guadalcanal"
+    }
+  ]
+}

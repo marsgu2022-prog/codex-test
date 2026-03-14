@@ -1,0 +1,710 @@
+{
+  "country_code": "IQ",
+  "country_name": "伊拉克",
+  "cities": [
+    {
+      "name": "巴格达",
+      "name_en": "Baghdad",
+      "province": "巴格达省",
+      "latitude": 33.3406,
+      "longitude": 44.4009,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Al Mawşil al Jadīdah",
+      "province": "尼尼微省",
+      "latitude": 36.3327,
+      "longitude": 43.1056,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Al Başrah al Qadīmah",
+      "province": "巴士拉省",
+      "latitude": 30.5032,
+      "longitude": 47.8151,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "摩苏尔",
+      "name_en": "Mosul",
+      "province": "尼尼微省",
+      "latitude": 36.335,
+      "longitude": 43.1189,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "埃尔比勒省",
+      "name_en": "Erbil",
+      "province": "埃尔比勒省",
+      "latitude": 36.1912,
+      "longitude": 44.0094,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "巴士拉",
+      "name_en": "Basrah",
+      "province": "巴士拉省",
+      "latitude": 30.5085,
+      "longitude": 47.7804,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "卡尔巴拉",
+      "name_en": "Karbala",
+      "province": "Karbala",
+      "latitude": 32.616,
+      "longitude": 44.0249,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "基尔库克",
+      "name_en": "Kirkuk",
+      "province": "Kirkuk",
+      "latitude": 35.4681,
+      "longitude": 44.3922,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Abū Ghurayb",
+      "province": "巴格达省",
+      "latitude": 33.3056,
+      "longitude": 44.1848,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Sulaymaniyah",
+      "province": "Sulaymaniyah",
+      "latitude": 35.565,
+      "longitude": 45.4329,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Nasiriyah",
+      "province": "济加尔省",
+      "latitude": 31.058,
+      "longitude": 46.2573,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "纳杰夫",
+      "name_en": "Najaf",
+      "province": "An Najaf",
+      "latitude": 32.0259,
+      "longitude": 44.3462,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "希拉",
+      "name_en": "Al Hillah",
+      "province": "巴比伦省",
+      "latitude": 32.4637,
+      "longitude": 44.4196,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Al Maḩmūdīyah",
+      "province": "巴格达省",
+      "latitude": 33.0622,
+      "longitude": 44.3656,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "达霍克",
+      "name_en": "Dihok",
+      "province": "杜胡克省",
+      "latitude": 36.8661,
+      "longitude": 42.9879,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Al ‘Amārah",
+      "province": "米桑省",
+      "latitude": 31.8356,
+      "longitude": 47.1448,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Al Diwaniyah",
+      "province": "卡迪西亚省",
+      "latitude": 31.9929,
+      "longitude": 44.9255,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Al-Kut",
+      "province": "Wasit",
+      "latitude": 32.5128,
+      "longitude": 45.8182,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Al Qurnah",
+      "province": "巴士拉省",
+      "latitude": 31.0155,
+      "longitude": 47.4336,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Al Madīnah",
+      "province": "巴士拉省",
+      "latitude": 30.9632,
+      "longitude": 47.27,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Kelar",
+      "province": "Sulaymaniyah",
+      "latitude": 34.6281,
+      "longitude": 45.3185,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "拉马迪",
+      "name_en": "Ramadi",
+      "province": "安巴尔省",
+      "latitude": 33.4206,
+      "longitude": 43.3078,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "费卢杰",
+      "name_en": "Al Fallūjah",
+      "province": "安巴尔省",
+      "latitude": 33.3491,
+      "longitude": 43.786,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Ash Shaţrah",
+      "province": "济加尔省",
+      "latitude": 31.4091,
+      "longitude": 46.1727,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Khānaqīn",
+      "province": "迪亚拉省",
+      "latitude": 34.3482,
+      "longitude": 45.3907,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Bayjī",
+      "province": "萨拉赫丁省",
+      "latitude": 34.9291,
+      "longitude": 43.4888,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Ash Sharqāt",
+      "province": "萨拉赫丁省",
+      "latitude": 35.5172,
+      "longitude": 43.2281,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Sāmarrā’",
+      "province": "萨拉赫丁省",
+      "latitude": 34.1959,
+      "longitude": 43.8857,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Al Miqdādīyah",
+      "province": "迪亚拉省",
+      "latitude": 33.9786,
+      "longitude": 44.9369,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "As Samawah",
+      "province": "穆萨纳省",
+      "latitude": 31.332,
+      "longitude": 45.2944,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "巴古拜",
+      "name_en": "Baqubah",
+      "province": "迪亚拉省",
+      "latitude": 33.754,
+      "longitude": 44.6052,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Sīnah",
+      "province": "杜胡克省",
+      "latitude": 36.8085,
+      "longitude": 43.0393,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Soran",
+      "province": "埃尔比勒省",
+      "latitude": 36.6556,
+      "longitude": 44.5422,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Az Zubayr",
+      "province": "巴士拉省",
+      "latitude": 30.3921,
+      "longitude": 47.7017,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "An Nu‘mānīyah",
+      "province": "Wasit",
+      "latitude": 32.5562,
+      "longitude": 45.4129,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "库费",
+      "name_en": "Kufa",
+      "province": "An Najaf",
+      "latitude": 32.0511,
+      "longitude": 44.4402,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Qal‘at Sukkar",
+      "province": "济加尔省",
+      "latitude": 31.8632,
+      "longitude": 46.0732,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Umm Qaşr",
+      "province": "巴士拉省",
+      "latitude": 30.0362,
+      "longitude": 47.9195,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Al Fāw",
+      "province": "巴士拉省",
+      "latitude": 29.9742,
+      "longitude": 48.4731,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Nāḩiyat al Iskandarīyah",
+      "province": "巴比伦省",
+      "latitude": 32.8873,
+      "longitude": 44.3462,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Zaxo",
+      "province": "杜胡克省",
+      "latitude": 37.1487,
+      "longitude": 42.6859,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Al Hārithah",
+      "province": "巴士拉省",
+      "latitude": 30.5848,
+      "longitude": 47.7611,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Al Hindīyah",
+      "province": "Karbala",
+      "latitude": 32.5419,
+      "longitude": 44.2247,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Hajiawa",
+      "province": "Sulaymaniyah",
+      "latitude": 36.2358,
+      "longitude": 44.7947,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Al Ḩayy",
+      "province": "Wasit",
+      "latitude": 32.1742,
+      "longitude": 46.0434,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Aş Şuwayrah",
+      "province": "Wasit",
+      "latitude": 32.9256,
+      "longitude": 44.7758,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Jamjamāl",
+      "province": "Sulaymaniyah",
+      "latitude": 35.5336,
+      "longitude": 44.8343,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Al Qā’im",
+      "province": "安巴尔省",
+      "latitude": 34.3925,
+      "longitude": 40.9894,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Simele",
+      "province": "杜胡克省",
+      "latitude": 36.8583,
+      "longitude": 42.8501,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Khāliş",
+      "province": "迪亚拉省",
+      "latitude": 33.8081,
+      "longitude": 44.5334,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Ţūz Khūrmātū",
+      "province": "萨拉赫丁省",
+      "latitude": 34.8881,
+      "longitude": 44.6326,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Ash Shāmīyah",
+      "province": "卡迪西亚省",
+      "latitude": 31.9626,
+      "longitude": 44.6007,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Halabja",
+      "province": "Halabja",
+      "latitude": 35.1778,
+      "longitude": 45.9861,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Al Musayyib",
+      "province": "巴比伦省",
+      "latitude": 32.7787,
+      "longitude": 44.2901,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Al-Hamdaniya",
+      "province": "尼尼微省",
+      "latitude": 36.2709,
+      "longitude": 43.3776,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Ar Rumaythah",
+      "province": "穆萨纳省",
+      "latitude": 31.5284,
+      "longitude": 45.2038,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Koysinceq",
+      "province": "埃尔比勒省",
+      "latitude": 36.0829,
+      "longitude": 44.6287,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Al ‘Azīzīyah",
+      "province": "Wasit",
+      "latitude": 32.9094,
+      "longitude": 45.0636,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "提克里特",
+      "name_en": "Tikrīt",
+      "province": "萨拉赫丁省",
+      "latitude": 34.6158,
+      "longitude": 43.6786,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Balad",
+      "province": "萨拉赫丁省",
+      "latitude": 34.0149,
+      "longitude": 44.1457,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Sinjār",
+      "province": "尼尼微省",
+      "latitude": 36.3209,
+      "longitude": 41.8766,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "al-Qasim",
+      "province": "巴比伦省",
+      "latitude": 32.298,
+      "longitude": 44.6828,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "‘Afak",
+      "province": "卡迪西亚省",
+      "latitude": 32.0643,
+      "longitude": 45.2474,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Hīt",
+      "province": "安巴尔省",
+      "latitude": 33.6366,
+      "longitude": 42.8277,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Al Maḩāwīl",
+      "province": "巴比伦省",
+      "latitude": 32.6614,
+      "longitude": 44.4085,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Ḩadīthah",
+      "province": "安巴尔省",
+      "latitude": 34.1366,
+      "longitude": 42.3773,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Nahiyat Ghammas",
+      "province": "卡迪西亚省",
+      "latitude": 31.7431,
+      "longitude": 44.6196,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Nāḩīyat Saddat al Hindīyah",
+      "province": "巴比伦省",
+      "latitude": 32.7156,
+      "longitude": 44.2786,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Kifrī",
+      "province": "迪亚拉省",
+      "latitude": 34.6896,
+      "longitude": 44.9606,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Mandalī",
+      "province": "迪亚拉省",
+      "latitude": 33.7481,
+      "longitude": 45.555,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "巴蒂法",
+      "name_en": "Batifa",
+      "province": "杜胡克省",
+      "latitude": 37.1745,
+      "longitude": 43.0123,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Baynjiwayn",
+      "province": "Sulaymaniyah",
+      "latitude": 35.6205,
+      "longitude": 45.9491,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "‘Anah",
+      "province": "安巴尔省",
+      "latitude": 34.3686,
+      "longitude": 41.9819,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Ad Dujayl",
+      "province": "萨拉赫丁省",
+      "latitude": 33.8467,
+      "longitude": 44.2344,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Tallkayf",
+      "province": "尼尼微省",
+      "latitude": 36.4912,
+      "longitude": 43.1211,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Al Mishkhāb",
+      "province": "An Najaf",
+      "latitude": 31.8044,
+      "longitude": 44.4893,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "‘Aqrah",
+      "province": "尼尼微省",
+      "latitude": 36.7604,
+      "longitude": 43.8943,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Ṟuwandiz",
+      "province": "埃尔比勒省",
+      "latitude": 36.6114,
+      "longitude": 44.5219,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Nāḩiyat ash Shināfīyah",
+      "province": "卡迪西亚省",
+      "latitude": 31.5838,
+      "longitude": 44.6467,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Ar Ruţbah",
+      "province": "安巴尔省",
+      "latitude": 33.0372,
+      "longitude": 40.2859,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Nāḩiyat al Fuhūd",
+      "province": "济加尔省",
+      "latitude": 30.9697,
+      "longitude": 46.7228,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "‘Anat al Qadīmah",
+      "province": "安巴尔省",
+      "latitude": 34.4693,
+      "longitude": 41.9422,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "‘Alī al Gharbī",
+      "province": "米桑省",
+      "latitude": 32.4619,
+      "longitude": 46.6879,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "AlZwya",
+      "province": "萨拉赫丁省",
+      "latitude": 35.2608,
+      "longitude": 43.4067,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Barţalah",
+      "province": "尼尼微省",
+      "latitude": 36.3537,
+      "longitude": 43.3813,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Begova",
+      "province": "杜胡克省",
+      "latitude": 37.2375,
+      "longitude": 43.1628,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Rāwah",
+      "province": "安巴尔省",
+      "latitude": 34.4823,
+      "longitude": 41.919,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Kays Qal‘ah",
+      "province": "尼尼微省",
+      "latitude": 36.6301,
+      "longitude": 43.3038,
+      "timezone": "Asia/Baghdad"
+    }
+  ]
+}

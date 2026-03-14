@@ -1,0 +1,14 @@
+{
+  "country_code": "VG",
+  "country_name": "英属维尔京群岛",
+  "cities": [
+    {
+      "name": "罗德城",
+      "name_en": "Road Town",
+      "province": "",
+      "latitude": 18.4269,
+      "longitude": -64.6208,
+      "timezone": "America/Tortola"
+    }
+  ]
+}

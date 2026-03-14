@@ -1,0 +1,1902 @@
+{
+  "country_code": "NZ",
+  "country_name": "新西兰",
+  "cities": [
+    {
+      "name": "奥克兰都会区",
+      "name_en": "Auckland",
+      "province": "奥克兰大区",
+      "latitude": -36.8485,
+      "longitude": 174.7635,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "基督城",
+      "name_en": "Christchurch",
+      "province": "坎特伯雷",
+      "latitude": -43.5333,
+      "longitude": 172.6333,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "惠灵顿",
+      "name_en": "Wellington",
+      "province": "惠灵顿大区",
+      "latitude": -41.2866,
+      "longitude": 174.7756,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Manukau City",
+      "province": "奥克兰大区",
+      "latitude": -36.9928,
+      "longitude": 174.8799,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "北岸市",
+      "name_en": "North Shore",
+      "province": "奥克兰大区",
+      "latitude": -36.8,
+      "longitude": 174.75,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "哈密尔顿",
+      "name_en": "Hamilton",
+      "province": "怀卡托",
+      "latitude": -37.7833,
+      "longitude": 175.2833,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "陶朗加",
+      "name_en": "Tauranga",
+      "province": "普伦蒂湾大区",
+      "latitude": -37.6861,
+      "longitude": 176.1667,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "但尼丁",
+      "name_en": "Dunedin",
+      "province": "奥塔哥大区",
+      "latitude": -45.8742,
+      "longitude": 170.5036,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "下哈特",
+      "name_en": "Lower Hutt",
+      "province": "惠灵顿大区",
+      "latitude": -41.2167,
+      "longitude": 174.9167,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "北帕莫斯顿",
+      "name_en": "Palmerston North",
+      "province": "Manawatu-Wanganui",
+      "latitude": -40.3564,
+      "longitude": 175.6111,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "新普利茅斯",
+      "name_en": "New Plymouth",
+      "province": "塔拉纳基大区",
+      "latitude": -39.0667,
+      "longitude": 174.0833,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Hastings",
+      "province": "霍克湾大区",
+      "latitude": -39.6381,
+      "longitude": 176.8492,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "内皮尔",
+      "name_en": "Napier",
+      "province": "霍克湾大区",
+      "latitude": -39.4926,
+      "longitude": 176.9123,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "罗托路亚",
+      "name_en": "Rotorua",
+      "province": "普伦蒂湾大区",
+      "latitude": -38.1387,
+      "longitude": 176.2452,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "波里鲁阿",
+      "name_en": "Porirua",
+      "province": "惠灵顿大区",
+      "latitude": -41.1333,
+      "longitude": 174.85,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "因弗卡吉尔",
+      "name_en": "Invercargill",
+      "province": "南地大区",
+      "latitude": -46.4,
+      "longitude": 168.35,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Papatoetoe",
+      "province": "奥克兰大区",
+      "latitude": -36.9682,
+      "longitude": 174.8402,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "尼尔逊",
+      "name_en": "Nelson",
+      "province": "Nelson Region",
+      "latitude": -41.2708,
+      "longitude": 173.284,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "旺阿雷",
+      "name_en": "Whangarei",
+      "province": "北地大区",
+      "latitude": -35.7317,
+      "longitude": 174.3239,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "旺阿努伊",
+      "name_en": "Whanganui",
+      "province": "Manawatu-Wanganui",
+      "latitude": -39.9333,
+      "longitude": 175.05,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "乌伯亨特",
+      "name_en": "Upper Hutt",
+      "province": "惠灵顿大区",
+      "latitude": -41.1383,
+      "longitude": 175.0502,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Manurewa",
+      "province": "奥克兰大区",
+      "latitude": -37.0182,
+      "longitude": 174.8802,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "吉斯伯恩",
+      "name_en": "Gisborne",
+      "province": "吉斯伯恩大区",
+      "latitude": -38.6533,
+      "longitude": 178.0042,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Papakura",
+      "province": "奥克兰大区",
+      "latitude": -37.0646,
+      "longitude": 174.9421,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Rolleston",
+      "province": "坎特伯雷",
+      "latitude": -43.5833,
+      "longitude": 172.3833,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "布伦亨",
+      "name_en": "Blenheim",
+      "province": "马尔堡",
+      "latitude": -41.516,
+      "longitude": 173.9528,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Paraparaumu",
+      "province": "惠灵顿大区",
+      "latitude": -40.9167,
+      "longitude": 175.0167,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "提马鲁",
+      "name_en": "Timaru",
+      "province": "坎特伯雷",
+      "latitude": -44.3967,
+      "longitude": 171.2536,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "马斯特顿",
+      "name_en": "Masterton",
+      "province": "惠灵顿大区",
+      "latitude": -40.9597,
+      "longitude": 175.6575,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Mangere East",
+      "province": "奥克兰大区",
+      "latitude": -36.9659,
+      "longitude": 174.8239,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Remuera",
+      "province": "奥克兰大区",
+      "latitude": -36.8804,
+      "longitude": 174.7982,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Avondale",
+      "province": "奥克兰大区",
+      "latitude": -36.8833,
+      "longitude": 174.7,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "陶波",
+      "name_en": "Taupo",
+      "province": "怀卡托",
+      "latitude": -38.6833,
+      "longitude": 176.0833,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Otara",
+      "province": "奥克兰大区",
+      "latitude": -36.9482,
+      "longitude": 174.8702,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "New Lynn",
+      "province": "奥克兰大区",
+      "latitude": -36.9069,
+      "longitude": 174.687,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Mangere",
+      "province": "奥克兰大区",
+      "latitude": -36.9681,
+      "longitude": 174.7988,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Massey",
+      "province": "奥克兰大区",
+      "latitude": -36.8382,
+      "longitude": 174.6102,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Massey East",
+      "province": "奥克兰大区",
+      "latitude": -36.8282,
+      "longitude": 174.6202,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Pukekohe East",
+      "province": "奥克兰大区",
+      "latitude": -37.2,
+      "longitude": 174.95,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Ashburton",
+      "province": "坎特伯雷",
+      "latitude": -43.8983,
+      "longitude": 171.7301,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Wainuiomata",
+      "province": "惠灵顿大区",
+      "latitude": -41.2667,
+      "longitude": 174.95,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Epsom",
+      "province": "奥克兰大区",
+      "latitude": -36.8875,
+      "longitude": 174.7706,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Stoke",
+      "province": "Nelson Region",
+      "latitude": -41.3167,
+      "longitude": 173.2333,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Levin",
+      "province": "Manawatu-Wanganui",
+      "latitude": -40.6333,
+      "longitude": 175.275,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Richmond",
+      "province": "塔斯曼",
+      "latitude": -41.3333,
+      "longitude": 173.1833,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Rangiora",
+      "province": "坎特伯雷",
+      "latitude": -43.3044,
+      "longitude": 172.5836,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Henderson",
+      "province": "奥克兰大区",
+      "latitude": -36.8801,
+      "longitude": 174.6198,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "华卡塔尼",
+      "name_en": "Whakatane",
+      "province": "普伦蒂湾大区",
+      "latitude": -37.9586,
+      "longitude": 176.9854,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Otahuhu",
+      "province": "奥克兰大区",
+      "latitude": -36.9382,
+      "longitude": 174.8402,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Lincoln",
+      "province": "奥克兰大区",
+      "latitude": -36.8582,
+      "longitude": 174.6202,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Te Atatu South",
+      "province": "奥克兰大区",
+      "latitude": -36.8647,
+      "longitude": 174.6477,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Takanini",
+      "province": "奥克兰大区",
+      "latitude": -37.0393,
+      "longitude": 174.9281,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Mount Eden",
+      "province": "奥克兰大区",
+      "latitude": -36.8816,
+      "longitude": 174.762,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Titirangi",
+      "province": "奥克兰大区",
+      "latitude": -36.9375,
+      "longitude": 174.6558,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "卡罗里",
+      "name_en": "Karori",
+      "province": "惠灵顿大区",
+      "latitude": -41.2837,
+      "longitude": 174.7414,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Hamilton East",
+      "province": "怀卡托",
+      "latitude": -37.7882,
+      "longitude": 175.2902,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Te Atatu Peninsula",
+      "province": "奥克兰大区",
+      "latitude": -36.841,
+      "longitude": 174.6522,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Cambridge",
+      "province": "怀卡托",
+      "latitude": -37.8782,
+      "longitude": 175.4402,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Homai",
+      "province": "奥克兰大区",
+      "latitude": -37.0167,
+      "longitude": 174.8833,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Havelock North",
+      "province": "霍克湾大区",
+      "latitude": -39.6667,
+      "longitude": 176.8833,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Mosgiel",
+      "province": "奥塔哥大区",
+      "latitude": -45.875,
+      "longitude": 170.3472,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Te Aro",
+      "province": "惠灵顿大区",
+      "latitude": -41.294,
+      "longitude": 174.7773,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Blockhouse Bay",
+      "province": "奥克兰大区",
+      "latitude": -36.9182,
+      "longitude": 174.7002,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Tokoroa",
+      "province": "怀卡托",
+      "latitude": -38.2333,
+      "longitude": 175.8667,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Te Awamutu",
+      "province": "怀卡托",
+      "latitude": -38.0082,
+      "longitude": 175.3302,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Kaiapoi",
+      "province": "坎特伯雷",
+      "latitude": -43.3783,
+      "longitude": 172.6401,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Waikanae",
+      "province": "惠灵顿大区",
+      "latitude": -40.8833,
+      "longitude": 175.0667,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Hillsborough",
+      "province": "奥克兰大区",
+      "latitude": -36.9182,
+      "longitude": 174.7502,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Halswell",
+      "province": "坎特伯雷",
+      "latitude": -43.5833,
+      "longitude": 172.5667,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "瓦纳卡",
+      "name_en": "Wanaka",
+      "province": "奥塔哥大区",
+      "latitude": -44.7,
+      "longitude": 169.15,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Gore",
+      "province": "南地大区",
+      "latitude": -46.1028,
+      "longitude": 168.9436,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Oamaru",
+      "province": "奥塔哥大区",
+      "latitude": -45.0976,
+      "longitude": 170.9709,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Taradale",
+      "province": "霍克湾大区",
+      "latitude": -39.5333,
+      "longitude": 176.85,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Sandringham",
+      "province": "奥克兰大区",
+      "latitude": -36.8882,
+      "longitude": 174.7302,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Onehunga",
+      "province": "奥克兰大区",
+      "latitude": -36.9182,
+      "longitude": 174.7802,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "奥雷瓦",
+      "name_en": "Orewa",
+      "province": "奥克兰大区",
+      "latitude": -36.581,
+      "longitude": 174.679,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "塔卡普纳",
+      "name_en": "Takapuna",
+      "province": "奥克兰大区",
+      "latitude": -36.7917,
+      "longitude": 174.7758,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Albany",
+      "province": "奥克兰大区",
+      "latitude": -36.7167,
+      "longitude": 174.7,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Whitby",
+      "province": "惠灵顿大区",
+      "latitude": -41.1083,
+      "longitude": 174.8902,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Johnsonville",
+      "province": "惠灵顿大区",
+      "latitude": -41.2213,
+      "longitude": 174.803,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "West Harbour",
+      "province": "奥克兰大区",
+      "latitude": -36.8182,
+      "longitude": 174.6102,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Howick",
+      "province": "奥克兰大区",
+      "latitude": -36.8936,
+      "longitude": 174.9317,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Wigram",
+      "province": "坎特伯雷",
+      "latitude": -43.55,
+      "longitude": 172.55,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Grey Lynn",
+      "province": "奥克兰大区",
+      "latitude": -36.8649,
+      "longitude": 174.737,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Hokowhitu",
+      "province": "Manawatu-Wanganui",
+      "latitude": -40.3626,
+      "longitude": 175.6338,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Riccarton",
+      "province": "坎特伯雷",
+      "latitude": -43.5283,
+      "longitude": 172.5901,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Hillcrest",
+      "province": "奥克兰大区",
+      "latitude": -36.7882,
+      "longitude": 174.7302,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Redwoodtown",
+      "province": "马尔堡",
+      "latitude": -41.5283,
+      "longitude": 173.9502,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Flaxmere",
+      "province": "霍克湾大区",
+      "latitude": -39.6182,
+      "longitude": 176.7802,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Favona",
+      "province": "奥克兰大区",
+      "latitude": -36.9333,
+      "longitude": 174.8,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Beach Haven",
+      "province": "奥克兰大区",
+      "latitude": -36.7882,
+      "longitude": 174.6802,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Stokes Valley",
+      "province": "惠灵顿大区",
+      "latitude": -41.1783,
+      "longitude": 174.9802,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Browns Bay",
+      "province": "奥克兰大区",
+      "latitude": -36.7193,
+      "longitude": 174.7367,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Parklands",
+      "province": "坎特伯雷",
+      "latitude": -43.4783,
+      "longitude": 172.6901,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Forrest Hill",
+      "province": "奥克兰大区",
+      "latitude": -36.7645,
+      "longitude": 174.7477,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Birkenhead",
+      "province": "奥克兰大区",
+      "latitude": -36.8082,
+      "longitude": 174.7202,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Te Puke",
+      "province": "普伦蒂湾大区",
+      "latitude": -37.7782,
+      "longitude": 176.3302,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "皇后镇",
+      "name_en": "Queenstown",
+      "province": "奥塔哥大区",
+      "latitude": -45.0302,
+      "longitude": 168.6627,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Balmoral",
+      "province": "奥克兰大区",
+      "latitude": -36.8882,
+      "longitude": 174.7402,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Hawera",
+      "province": "塔拉纳基大区",
+      "latitude": -39.5917,
+      "longitude": 174.2833,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Carterton",
+      "province": "惠灵顿大区",
+      "latitude": -41.0183,
+      "longitude": 175.5302,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Avonhead",
+      "province": "坎特伯雷",
+      "latitude": -43.5083,
+      "longitude": 172.5501,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Spreydon",
+      "province": "坎特伯雷",
+      "latitude": -43.5567,
+      "longitude": 172.6169,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Newtown",
+      "province": "惠灵顿大区",
+      "latitude": -41.3111,
+      "longitude": 174.7793,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Ilam",
+      "province": "坎特伯雷",
+      "latitude": -43.5183,
+      "longitude": 172.5701,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Pakuranga",
+      "province": "奥克兰大区",
+      "latitude": -36.8833,
+      "longitude": 174.9167,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Western Heights",
+      "province": "奥克兰大区",
+      "latitude": -36.8782,
+      "longitude": 174.6102,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Pakuranga Heights",
+      "province": "奥克兰大区",
+      "latitude": -36.9082,
+      "longitude": 174.8802,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Waiuku",
+      "province": "奥克兰大区",
+      "latitude": -37.2481,
+      "longitude": 174.7349,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Bishopdale",
+      "province": "坎特伯雷",
+      "latitude": -43.4783,
+      "longitude": 172.5801,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Wattle Downs",
+      "province": "奥克兰大区",
+      "latitude": -37.0382,
+      "longitude": 174.8902,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "North East Valley",
+      "province": "奥塔哥大区",
+      "latitude": -45.85,
+      "longitude": 170.5333,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Ellerslie",
+      "province": "奥克兰大区",
+      "latitude": -36.8982,
+      "longitude": 174.8102,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Burnside",
+      "province": "坎特伯雷",
+      "latitude": -43.4983,
+      "longitude": 172.5601,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Bryndwr",
+      "province": "坎特伯雷",
+      "latitude": -43.4983,
+      "longitude": 172.5901,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Glen Innes",
+      "province": "奥克兰大区",
+      "latitude": -36.8682,
+      "longitude": 174.8602,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Naenae",
+      "province": "惠灵顿大区",
+      "latitude": -41.1983,
+      "longitude": 174.9402,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Birkdale",
+      "province": "奥克兰大区",
+      "latitude": -36.7972,
+      "longitude": 174.7046,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Morrinsville",
+      "province": "怀卡托",
+      "latitude": -37.6482,
+      "longitude": 175.5202,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Tawa",
+      "province": "惠灵顿大区",
+      "latitude": -41.1704,
+      "longitude": 174.8261,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Hoon Hay",
+      "province": "坎特伯雷",
+      "latitude": -43.5644,
+      "longitude": 172.6077,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Bucklands Beach",
+      "province": "奥克兰大区",
+      "latitude": -36.8582,
+      "longitude": 174.9002,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Greymouth",
+      "province": "西岸大区",
+      "latitude": -42.4667,
+      "longitude": 171.2,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Bethlehem",
+      "province": "普伦蒂湾大区",
+      "latitude": -37.695,
+      "longitude": 176.1086,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Cannons Creek",
+      "province": "惠灵顿大区",
+      "latitude": -41.1399,
+      "longitude": 174.8665,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Lincoln",
+      "province": "坎特伯雷",
+      "latitude": -36.8582,
+      "longitude": 174.6202,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Lynfield",
+      "province": "奥克兰大区",
+      "latitude": -36.9282,
+      "longitude": 174.7202,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Mahora",
+      "province": "霍克湾大区",
+      "latitude": -39.6182,
+      "longitude": 176.8402,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Awapuni",
+      "province": "Manawatu-Wanganui",
+      "latitude": -40.3762,
+      "longitude": 175.5838,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Glendowie",
+      "province": "奥克兰大区",
+      "latitude": -36.8582,
+      "longitude": 174.8702,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Point Chevalier",
+      "province": "奥克兰大区",
+      "latitude": -36.8633,
+      "longitude": 174.7049,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Newlands",
+      "province": "惠灵顿大区",
+      "latitude": -41.2244,
+      "longitude": 174.8219,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Huntly",
+      "province": "怀卡托",
+      "latitude": -37.5582,
+      "longitude": 175.1602,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Greenhithe",
+      "province": "奥克兰大区",
+      "latitude": -36.7708,
+      "longitude": 174.6865,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Hornby",
+      "province": "坎特伯雷",
+      "latitude": -43.55,
+      "longitude": 172.5333,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "New Windsor",
+      "province": "奥克兰大区",
+      "latitude": -36.8982,
+      "longitude": 174.7002,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Kaiti",
+      "province": "吉斯伯恩大区",
+      "latitude": -38.6682,
+      "longitude": 178.0302,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Frankton Junction",
+      "province": "怀卡托",
+      "latitude": -37.8,
+      "longitude": 175.2667,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Te Hapara",
+      "province": "吉斯伯恩大区",
+      "latitude": -38.6482,
+      "longitude": 177.9902,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Khandallah",
+      "province": "惠灵顿大区",
+      "latitude": -41.245,
+      "longitude": 174.7942,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Otumoetai",
+      "province": "普伦蒂湾大区",
+      "latitude": -37.6716,
+      "longitude": 176.1387,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Kumeu",
+      "province": "奥克兰大区",
+      "latitude": -36.7667,
+      "longitude": 174.5667,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Ngaruawahia",
+      "province": "怀卡托",
+      "latitude": -37.6674,
+      "longitude": 175.1555,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Redwood",
+      "province": "坎特伯雷",
+      "latitude": -43.4683,
+      "longitude": 172.6101,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Tikipunga",
+      "province": "北地大区",
+      "latitude": -35.6882,
+      "longitude": 174.3202,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Petone",
+      "province": "惠灵顿大区",
+      "latitude": -41.2283,
+      "longitude": 174.8702,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Glendene",
+      "province": "奥克兰大区",
+      "latitude": -36.8882,
+      "longitude": 174.6402,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Beachlands",
+      "province": "奥克兰大区",
+      "latitude": -36.8833,
+      "longitude": 175.0,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "East Gore",
+      "province": "南地大区",
+      "latitude": -46.0884,
+      "longitude": 168.9501,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Half Moon Bay",
+      "province": "奥克兰大区",
+      "latitude": -36.8782,
+      "longitude": 174.8902,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Churton Park",
+      "province": "惠灵顿大区",
+      "latitude": -41.2066,
+      "longitude": 174.8073,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "凯里凯里",
+      "name_en": "Kerikeri",
+      "province": "北地大区",
+      "latitude": -35.2268,
+      "longitude": 173.9474,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Bell Block",
+      "province": "塔拉纳基大区",
+      "latitude": -39.0333,
+      "longitude": 174.15,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Upper Riccarton",
+      "province": "坎特伯雷",
+      "latitude": -43.5283,
+      "longitude": 172.5701,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Kelvin Grove",
+      "province": "Manawatu-Wanganui",
+      "latitude": -40.3287,
+      "longitude": 175.6451,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Papanui",
+      "province": "坎特伯雷",
+      "latitude": -43.5,
+      "longitude": 172.6167,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Waitara",
+      "province": "塔拉纳基大区",
+      "latitude": -39.0016,
+      "longitude": 174.2384,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "帕奈尔",
+      "name_en": "Parnell",
+      "province": "奥克兰大区",
+      "latitude": -36.8667,
+      "longitude": 174.7833,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Kawerau",
+      "province": "普伦蒂湾大区",
+      "latitude": -38.1,
+      "longitude": 176.7,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Rosedale",
+      "province": "南地大区",
+      "latitude": -46.3884,
+      "longitude": 168.3601,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Mount Cook",
+      "province": "惠灵顿大区",
+      "latitude": -41.3015,
+      "longitude": 174.7748,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Motueka",
+      "province": "塔斯曼",
+      "latitude": -41.1333,
+      "longitude": 173.0167,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Solway",
+      "province": "惠灵顿大区",
+      "latitude": -40.9583,
+      "longitude": 175.6102,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Onekawa",
+      "province": "霍克湾大区",
+      "latitude": -39.5091,
+      "longitude": 176.8896,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Mount Maunganui",
+      "province": "普伦蒂湾大区",
+      "latitude": -37.6417,
+      "longitude": 176.1861,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Claudelands",
+      "province": "怀卡托",
+      "latitude": -37.7833,
+      "longitude": 175.2833,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Island Bay",
+      "province": "惠灵顿大区",
+      "latitude": -41.3362,
+      "longitude": 174.7735,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "泰晤士",
+      "name_en": "Thames",
+      "province": "怀卡托",
+      "latitude": -37.1383,
+      "longitude": 175.5401,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Mairehau",
+      "province": "坎特伯雷",
+      "latitude": -43.4983,
+      "longitude": 172.6401,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Somerfield",
+      "province": "坎特伯雷",
+      "latitude": -43.5593,
+      "longitude": 172.6313,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Shirley",
+      "province": "坎特伯雷",
+      "latitude": -43.4983,
+      "longitude": 172.6501,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Taita",
+      "province": "惠灵顿大区",
+      "latitude": -41.1783,
+      "longitude": 174.9502,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Warkworth",
+      "province": "奥克兰大区",
+      "latitude": -36.4,
+      "longitude": 174.6667,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Cashmere",
+      "province": "坎特伯雷",
+      "latitude": -43.5678,
+      "longitude": 172.628,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Epuni",
+      "province": "惠灵顿大区",
+      "latitude": -41.2026,
+      "longitude": 174.9304,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Onerahi",
+      "province": "北地大区",
+      "latitude": -35.7667,
+      "longitude": 174.3667,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Titahi Bay",
+      "province": "惠灵顿大区",
+      "latitude": -41.1,
+      "longitude": 174.8333,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Allenton",
+      "province": "坎特伯雷",
+      "latitude": -43.8883,
+      "longitude": 171.7401,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Wiri",
+      "province": "奥克兰大区",
+      "latitude": -36.9982,
+      "longitude": 174.8602,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Milson",
+      "province": "Manawatu-Wanganui",
+      "latitude": -40.3282,
+      "longitude": 175.6102,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Terrace End",
+      "province": "Manawatu-Wanganui",
+      "latitude": -40.3483,
+      "longitude": 175.6302,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Sunnyvale",
+      "province": "奥克兰大区",
+      "latitude": -36.8882,
+      "longitude": 174.6302,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Unsworth Heights",
+      "province": "奥克兰大区",
+      "latitude": -36.7537,
+      "longitude": 174.7215,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Papatowai",
+      "province": "奥塔哥大区",
+      "latitude": -46.5607,
+      "longitude": 169.4707,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "New Brighton",
+      "province": "坎特伯雷",
+      "latitude": -43.5167,
+      "longitude": 172.7333,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Stratford",
+      "province": "塔拉纳基大区",
+      "latitude": -39.3376,
+      "longitude": 174.2837,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Matamata",
+      "province": "怀卡托",
+      "latitude": -37.8106,
+      "longitude": 175.7624,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Saint Johns",
+      "province": "奥克兰大区",
+      "latitude": -36.8682,
+      "longitude": 174.8402,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Homedale",
+      "province": "惠灵顿大区",
+      "latitude": -41.2667,
+      "longitude": 174.95,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Sydenham",
+      "province": "坎特伯雷",
+      "latitude": -43.547,
+      "longitude": 172.6359,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Whitianga",
+      "province": "怀卡托",
+      "latitude": -36.8333,
+      "longitude": 175.7,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Springlands",
+      "province": "马尔堡",
+      "latitude": -41.5085,
+      "longitude": 173.9373,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Tuakau",
+      "province": "怀卡托",
+      "latitude": -37.2705,
+      "longitude": 174.9438,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Vogeltown",
+      "province": "塔拉纳基大区",
+      "latitude": -39.0782,
+      "longitude": 174.0802,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Royal Oak",
+      "province": "奥克兰大区",
+      "latitude": -36.9082,
+      "longitude": 174.7702,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Otaki",
+      "province": "惠灵顿大区",
+      "latitude": -40.7583,
+      "longitude": 175.15,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Takaro",
+      "province": "Manawatu-Wanganui",
+      "latitude": -40.3579,
+      "longitude": 175.5897,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Witherlea",
+      "province": "马尔堡",
+      "latitude": -41.5283,
+      "longitude": 173.9502,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Katikati",
+      "province": "普伦蒂湾大区",
+      "latitude": -37.55,
+      "longitude": 175.9167,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Owairaka",
+      "province": "奥克兰大区",
+      "latitude": -36.8882,
+      "longitude": 174.7102,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Omokoroa",
+      "province": "普伦蒂湾大区",
+      "latitude": -37.6485,
+      "longitude": 176.035,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Raumanga",
+      "province": "北地大区",
+      "latitude": -35.7449,
+      "longitude": 174.3058,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Waterloo",
+      "province": "惠灵顿大区",
+      "latitude": -41.2155,
+      "longitude": 174.9256,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Sunnyhills",
+      "province": "奥克兰大区",
+      "latitude": -36.8982,
+      "longitude": 174.8802,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Oteha Valley",
+      "province": "奥克兰大区",
+      "latitude": -36.7201,
+      "longitude": 174.7182,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Alexandra",
+      "province": "奥塔哥大区",
+      "latitude": -45.2484,
+      "longitude": 169.3701,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Botany Downs",
+      "province": "奥克兰大区",
+      "latitude": -36.906,
+      "longitude": 174.9179,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Kelston",
+      "province": "奥克兰大区",
+      "latitude": -36.8982,
+      "longitude": 174.6602,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Marton",
+      "province": "Manawatu-Wanganui",
+      "latitude": -40.0692,
+      "longitude": 175.3782,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Raureka",
+      "province": "霍克湾大区",
+      "latitude": -39.6382,
+      "longitude": 176.8202,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Saint Kilda",
+      "province": "奥塔哥大区",
+      "latitude": -45.9019,
+      "longitude": 170.5018,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Dannevirke",
+      "province": "Manawatu-Wanganui",
+      "latitude": -40.2055,
+      "longitude": 176.1008,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Burwood",
+      "province": "坎特伯雷",
+      "latitude": -43.5,
+      "longitude": 172.7,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Ngaio",
+      "province": "惠灵顿大区",
+      "latitude": -41.2504,
+      "longitude": 174.7739,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Hataitai",
+      "province": "惠灵顿大区",
+      "latitude": -41.3043,
+      "longitude": 174.7942,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Avalon",
+      "province": "惠灵顿大区",
+      "latitude": -41.1983,
+      "longitude": 174.9202,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Meadowbank",
+      "province": "奥克兰大区",
+      "latitude": -36.8682,
+      "longitude": 174.8202,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Ponsonby",
+      "province": "奥克兰大区",
+      "latitude": -36.85,
+      "longitude": 174.7333,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Waikowhai",
+      "province": "西岸大区",
+      "latitude": -43.45,
+      "longitude": 169.8833,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "West End",
+      "province": "Manawatu-Wanganui",
+      "latitude": -40.3659,
+      "longitude": 175.5984,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Woodend",
+      "province": "坎特伯雷",
+      "latitude": -43.3167,
+      "longitude": 172.6667,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Raumati Beach",
+      "province": "惠灵顿大区",
+      "latitude": -40.9167,
+      "longitude": 174.9833,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Merivale",
+      "province": "坎特伯雷",
+      "latitude": -43.5083,
+      "longitude": 172.6101,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Addington",
+      "province": "坎特伯雷",
+      "latitude": -43.55,
+      "longitude": 172.6167,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Milford",
+      "province": "奥克兰大区",
+      "latitude": -36.7716,
+      "longitude": 174.7659,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Casebrook",
+      "province": "坎特伯雷",
+      "latitude": -43.4783,
+      "longitude": 172.5901,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Prebbleton",
+      "province": "坎特伯雷",
+      "latitude": -43.5833,
+      "longitude": 172.5167,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Ngongotaha",
+      "province": "普伦蒂湾大区",
+      "latitude": -38.0833,
+      "longitude": 176.2,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Akina",
+      "province": "霍克湾大区",
+      "latitude": -39.6482,
+      "longitude": 176.8402,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Cromwell",
+      "province": "奥塔哥大区",
+      "latitude": -45.0384,
+      "longitude": 169.2001,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Mangapapa",
+      "province": "吉斯伯恩大区",
+      "latitude": -38.6382,
+      "longitude": 178.0102,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Tamaki",
+      "province": "奥克兰大区",
+      "latitude": -36.8882,
+      "longitude": 174.8602,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "达格维尔",
+      "name_en": "Dargaville",
+      "province": "北地大区",
+      "latitude": -35.9333,
+      "longitude": 173.8833,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Dairy Flat",
+      "province": "奥克兰大区",
+      "latitude": -36.6667,
+      "longitude": 174.65,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Pokeno",
+      "province": "怀卡托",
+      "latitude": -37.245,
+      "longitude": 175.0205,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Green Bay",
+      "province": "奥克兰大区",
+      "latitude": -36.931,
+      "longitude": 174.6749,
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "name": "",
+      "name_en": "Waitangi",
+      "province": "Chatham Islands",
+      "latitude": -43.9535,
+      "longitude": -176.5597,
+      "timezone": "Pacific/Chatham"
+    }
+  ]
+}

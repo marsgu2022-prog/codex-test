@@ -1,0 +1,142 @@
+{
+  "country_code": "MQ",
+  "country_name": "马提尼克",
+  "cities": [
+    {
+      "name": "法兰西堡",
+      "name_en": "Fort-de-France",
+      "province": "Martinique",
+      "latitude": 14.6037,
+      "longitude": -61.0742,
+      "timezone": "America/Martinique"
+    },
+    {
+      "name": "",
+      "name_en": "Le Lamentin",
+      "province": "Martinique",
+      "latitude": 14.6134,
+      "longitude": -60.9996,
+      "timezone": "America/Martinique"
+    },
+    {
+      "name": "",
+      "name_en": "Le Robert",
+      "province": "Martinique",
+      "latitude": 14.6775,
+      "longitude": -60.9423,
+      "timezone": "America/Martinique"
+    },
+    {
+      "name": "",
+      "name_en": "Sainte-Marie",
+      "province": "Martinique",
+      "latitude": 14.7835,
+      "longitude": -60.9923,
+      "timezone": "America/Martinique"
+    },
+    {
+      "name": "",
+      "name_en": "Le François",
+      "province": "Martinique",
+      "latitude": 14.6151,
+      "longitude": -60.9031,
+      "timezone": "America/Martinique"
+    },
+    {
+      "name": "",
+      "name_en": "Ducos",
+      "province": "Martinique",
+      "latitude": 14.5753,
+      "longitude": -60.9745,
+      "timezone": "America/Martinique"
+    },
+    {
+      "name": "",
+      "name_en": "Saint-Joseph",
+      "province": "Martinique",
+      "latitude": 14.671,
+      "longitude": -61.0391,
+      "timezone": "America/Martinique"
+    },
+    {
+      "name": "",
+      "name_en": "La Trinité",
+      "province": "Martinique",
+      "latitude": 14.7381,
+      "longitude": -60.9632,
+      "timezone": "America/Martinique"
+    },
+    {
+      "name": "",
+      "name_en": "Rivière-Pilote",
+      "province": "Martinique",
+      "latitude": 14.4874,
+      "longitude": -60.9026,
+      "timezone": "America/Martinique"
+    },
+    {
+      "name": "",
+      "name_en": "Le Gros-Morne",
+      "province": "Martinique",
+      "latitude": 14.7,
+      "longitude": -61.0,
+      "timezone": "America/Martinique"
+    },
+    {
+      "name": "",
+      "name_en": "Sainte-Luce",
+      "province": "Martinique",
+      "latitude": 14.4685,
+      "longitude": -60.9214,
+      "timezone": "America/Martinique"
+    },
+    {
+      "name": "",
+      "name_en": "Saint-Esprit",
+      "province": "Martinique",
+      "latitude": 14.55,
+      "longitude": -60.9333,
+      "timezone": "America/Martinique"
+    },
+    {
+      "name": "",
+      "name_en": "Le Lorrain",
+      "province": "Martinique",
+      "latitude": 14.8326,
+      "longitude": -61.0555,
+      "timezone": "America/Martinique"
+    },
+    {
+      "name": "",
+      "name_en": "Le Marin",
+      "province": "Martinique",
+      "latitude": 14.4716,
+      "longitude": -60.8699,
+      "timezone": "America/Martinique"
+    },
+    {
+      "name": "",
+      "name_en": "Le Vauclin",
+      "province": "Martinique",
+      "latitude": 14.5454,
+      "longitude": -60.8383,
+      "timezone": "America/Martinique"
+    },
+    {
+      "name": "",
+      "name_en": "Les Trois-Îlets",
+      "province": "Martinique",
+      "latitude": 14.5391,
+      "longitude": -61.0335,
+      "timezone": "America/Martinique"
+    },
+    {
+      "name": "",
+      "name_en": "Le Morne-Rouge",
+      "province": "Martinique",
+      "latitude": 14.7761,
+      "longitude": -61.1356,
+      "timezone": "America/Martinique"
+    }
+  ]
+}

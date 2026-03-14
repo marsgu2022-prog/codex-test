@@ -1,0 +1,30 @@
+{
+  "country_code": "MS",
+  "country_name": "蒙特塞拉特",
+  "cities": [
+    {
+      "name": "布莱兹",
+      "name_en": "Brades",
+      "province": "Saint Peter",
+      "latitude": 16.7918,
+      "longitude": -62.2106,
+      "timezone": "America/Montserrat"
+    },
+    {
+      "name": "普利茅斯",
+      "name_en": "Plymouth",
+      "province": "Saint Anthony",
+      "latitude": 16.7055,
+      "longitude": -62.2129,
+      "timezone": "America/Montserrat"
+    },
+    {
+      "name": "",
+      "name_en": "Saint Peters",
+      "province": "Saint Peter",
+      "latitude": 16.7727,
+      "longitude": -62.2173,
+      "timezone": "America/Montserrat"
+    }
+  ]
+}

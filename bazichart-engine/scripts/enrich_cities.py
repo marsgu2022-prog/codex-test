@@ -68,32 +68,45 @@ def choose_input_dir(root_dir: Path, preferred: Path | None = None) -> Path:
 
 
 def iter_source_files(source_dir: Path) -> list[Path]:
-    return sorted(source_dir.glob("*.json"))
+    candidates = []
+    for path in sorted(source_dir.glob("*.json")):
+        if path.name in {"countries.json", "admin1.json", "enrichment_report.json", "validation_report.json"}:
+            continue
+        if path.name.startswith("cities-"):
+            candidates.append(path)
+            continue
+        try:
+            payload = json.loads(path.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+        if isinstance(payload, dict) and "cities" in payload:
+            candidates.append(path)
+    return candidates
 
 
 def load_json(path: Path):
     return json.loads(path.read_text(encoding="utf-8"))
 
 
-def normalize_country_payload(payload: list[dict[str, Any]] | dict[str, Any], source_name: str) -> dict[str, Any]:
+def normalize_country_payload(payload: list[dict[str, Any]] | dict[str, Any], source_name: str) -> list[dict[str, Any]]:
     if isinstance(payload, dict) and "cities" in payload:
-        return {
-            "country_code": payload.get("country_code", ""),
-            "country_name": payload.get("country_name", ""),
-            "cities": list(payload.get("cities", [])),
-            "_source_name": source_name,
-        }
+        return [
+            {
+                "country_code": payload.get("country_code", ""),
+                "country_name": payload.get("country_name", ""),
+                "cities": list(payload.get("cities", [])),
+                "_source_name": source_name,
+            }
+        ]
 
     if isinstance(payload, list):
-        cities = []
-        country_code = ""
-        country_name = ""
+        grouped: dict[tuple[str, str], list[dict[str, Any]]] = defaultdict(list)
         for item in payload:
             if not isinstance(item, dict):
                 continue
-            country_code = item.get("country") or country_code
-            country_name = item.get("countryZh") or country_name
-            cities.append(
+            country_code = item.get("country") or ""
+            country_name = item.get("countryZh") or ""
+            grouped[(country_code, country_name)].append(
                 {
                     "name": item.get("nameZh") or item.get("name") or "",
                     "name_en": item.get("nameEn") or item.get("name_en") or "",
@@ -104,12 +117,16 @@ def normalize_country_payload(payload: list[dict[str, Any]] | dict[str, Any], so
                     "timezone": item.get("timezone") or "",
                 }
             )
-        return {
-            "country_code": country_code,
-            "country_name": country_name,
-            "cities": cities,
-            "_source_name": source_name,
-        }
+        return [
+            {
+                "country_code": country_code,
+                "country_name": country_name,
+                "cities": cities,
+                "_source_name": source_name,
+            }
+            for (country_code, country_name), cities in grouped.items()
+            if cities
+        ]
 
     raise ValueError(f"不支持的 JSON 结构: {source_name}")
 
@@ -118,9 +135,10 @@ def load_source_countries(source_dir: Path) -> list[dict[str, Any]]:
     countries = []
     for path in iter_source_files(source_dir):
         payload = load_json(path)
-        normalized = normalize_country_payload(payload, path.name)
-        if normalized["cities"]:
-            countries.append(normalized)
+        normalized_items = normalize_country_payload(payload, path.name)
+        for normalized in normalized_items:
+            if normalized["cities"]:
+                countries.append(normalized)
     return countries
 
 

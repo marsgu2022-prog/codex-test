@@ -1,0 +1,534 @@
+{
+  "country_code": "GM",
+  "country_name": "冈比亚",
+  "cities": [
+    {
+      "name": "",
+      "name_en": "Serekunda",
+      "province": "Banjul",
+      "latitude": 13.4383,
+      "longitude": -16.6781,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "布里卡马",
+      "name_en": "Brikama",
+      "province": "Western",
+      "latitude": 13.2714,
+      "longitude": -16.6494,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Bununka Kunda",
+      "province": "Banjul",
+      "latitude": 13.4272,
+      "longitude": -16.6853,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "苏库塔",
+      "name_en": "Sukuta",
+      "province": "Western",
+      "latitude": 13.4103,
+      "longitude": -16.7081,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Talinding",
+      "province": "Banjul",
+      "latitude": 13.4256,
+      "longitude": -16.6726,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Faji Kunda",
+      "province": "Western",
+      "latitude": 13.4178,
+      "longitude": -16.6667,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "巴考",
+      "name_en": "Bakau",
+      "province": "Banjul",
+      "latitude": 13.4781,
+      "longitude": -16.6819,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "班竹",
+      "name_en": "Banjul",
+      "province": "Banjul",
+      "latitude": 13.4527,
+      "longitude": -16.578,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Nema Kunku",
+      "province": "Western",
+      "latitude": 13.25,
+      "longitude": -15.8833,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "法拉芬尼",
+      "name_en": "Farafenni",
+      "province": "北岸区",
+      "latitude": 13.5667,
+      "longitude": -15.6,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Bakau New Town",
+      "province": "Banjul",
+      "latitude": 13.473,
+      "longitude": -16.6851,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Busumbala",
+      "province": "Western",
+      "latitude": 13.3392,
+      "longitude": -16.6875,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Lamin",
+      "province": "北岸区",
+      "latitude": 13.3522,
+      "longitude": -16.4339,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Welingara",
+      "province": "Western",
+      "latitude": 13.4036,
+      "longitude": -16.6736,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "布鲁夫特",
+      "name_en": "Brufut",
+      "province": "Western",
+      "latitude": 13.3842,
+      "longitude": -16.7514,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Ibo Town",
+      "province": "Banjul",
+      "latitude": 13.4353,
+      "longitude": -16.6764,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Sanchaba",
+      "province": "Western",
+      "latitude": 13.4222,
+      "longitude": -16.7097,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Latri Kunda",
+      "province": "Banjul",
+      "latitude": 13.4486,
+      "longitude": -16.6853,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Gunjur",
+      "province": "Western",
+      "latitude": 13.2019,
+      "longitude": -16.7339,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Manjai Kunda",
+      "province": "Banjul",
+      "latitude": 13.4453,
+      "longitude": -16.7028,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Dippa Kunda",
+      "province": "Banjul",
+      "latitude": 13.4403,
+      "longitude": -16.6869,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "New Jeshwang",
+      "province": "Banjul",
+      "latitude": 13.4474,
+      "longitude": -16.665,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Bakoti",
+      "province": "Western",
+      "latitude": 13.43,
+      "longitude": -16.6983,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Kunkujang",
+      "province": "Western",
+      "latitude": 13.3897,
+      "longitude": -16.6728,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Sinchu Alagi",
+      "province": "Western",
+      "latitude": 13.3749,
+      "longitude": -16.6784,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Kotu",
+      "province": "Banjul",
+      "latitude": 13.4594,
+      "longitude": -16.7053,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Abuko",
+      "province": "Western",
+      "latitude": 13.4042,
+      "longitude": -16.6558,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Latri Sabiji",
+      "province": "Western",
+      "latitude": 13.4133,
+      "longitude": -16.6789,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "滩基",
+      "name_en": "Tanji",
+      "province": "Western",
+      "latitude": 13.3489,
+      "longitude": -16.7908,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Kanifing",
+      "province": "Banjul",
+      "latitude": 13.4464,
+      "longitude": -16.6744,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "索马",
+      "name_en": "Soma",
+      "province": "下河区",
+      "latitude": 13.4333,
+      "longitude": -15.5333,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Sanyang",
+      "province": "Western",
+      "latitude": 13.2667,
+      "longitude": -16.7606,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Farato",
+      "province": "上河区",
+      "latitude": 13.4,
+      "longitude": -14.2167,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "巴塞圣苏",
+      "name_en": "Basse Santa Su",
+      "province": "上河区",
+      "latitude": 13.31,
+      "longitude": -14.2137,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Gambissar",
+      "province": "上河区",
+      "latitude": 13.3167,
+      "longitude": -13.95,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Yundum",
+      "province": "Western",
+      "latitude": 13.3456,
+      "longitude": -16.6728,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Old Yundum",
+      "province": "Western",
+      "latitude": 13.3625,
+      "longitude": -16.6861,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "埃绍",
+      "name_en": "Essau",
+      "province": "北岸区",
+      "latitude": 13.4839,
+      "longitude": -16.5347,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Kerr Serign",
+      "province": "Western",
+      "latitude": 13.4325,
+      "longitude": -16.7203,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Garawol",
+      "province": "上河区",
+      "latitude": 13.4167,
+      "longitude": -13.95,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Mandinari",
+      "province": "Western",
+      "latitude": 13.3728,
+      "longitude": -16.6028,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Jamisa",
+      "province": "Western",
+      "latitude": 13.4167,
+      "longitude": -16.7167,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "班桑",
+      "name_en": "Bansang",
+      "province": "中河区",
+      "latitude": 13.4333,
+      "longitude": -14.65,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Kaimbujae NDing",
+      "province": "Western",
+      "latitude": 13.285,
+      "longitude": -16.6214,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Old Jeswang",
+      "province": "Banjul",
+      "latitude": 13.4586,
+      "longitude": -16.6633,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Tujering",
+      "province": "Western",
+      "latitude": 13.3189,
+      "longitude": -16.7855,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "科洛里",
+      "name_en": "Kololi",
+      "province": "Western",
+      "latitude": 13.45,
+      "longitude": -16.7167,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Bijilo",
+      "province": "Western",
+      "latitude": 13.4181,
+      "longitude": -16.73,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Djalabango",
+      "province": "Western",
+      "latitude": 13.2806,
+      "longitude": -16.6786,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Sinchu Balla",
+      "province": "中河区",
+      "latitude": 13.6,
+      "longitude": -15.0333,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Sabi",
+      "province": "上河区",
+      "latitude": 13.2333,
+      "longitude": -14.2,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Sinchu Sorry",
+      "province": "Western",
+      "latitude": 13.3875,
+      "longitude": -16.6855,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Koina",
+      "province": "上河区",
+      "latitude": 13.4833,
+      "longitude": -13.8667,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Badja Kunda",
+      "province": "上河区",
+      "latitude": 13.4667,
+      "longitude": -14.05,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Kulari",
+      "province": "上河区",
+      "latitude": 13.4,
+      "longitude": -14.0833,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Banjul NDing",
+      "province": "Western",
+      "latitude": 13.3733,
+      "longitude": -16.6572,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Alohungari",
+      "province": "上河区",
+      "latitude": 13.3167,
+      "longitude": -14.2333,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Jambanjali",
+      "province": "Western",
+      "latitude": 13.2803,
+      "longitude": -16.7294,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Madiana",
+      "province": "中河区",
+      "latitude": 13.5167,
+      "longitude": -14.5333,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Barra",
+      "province": "北岸区",
+      "latitude": 13.4828,
+      "longitude": -16.5456,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Sifoe",
+      "province": "Western",
+      "latitude": 13.1836,
+      "longitude": -16.6975,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Kerewan",
+      "province": "北岸区",
+      "latitude": 13.4898,
+      "longitude": -16.0888,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Kartung",
+      "province": "Western",
+      "latitude": 13.0947,
+      "longitude": -16.7622,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "布里卡马巴",
+      "name_en": "Brikama Ba",
+      "province": "中河区",
+      "latitude": 13.5333,
+      "longitude": -14.9333,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Janjanbureh",
+      "province": "中河区",
+      "latitude": 13.5404,
+      "longitude": -14.7637,
+      "timezone": "Africa/Banjul"
+    },
+    {
+      "name": "",
+      "name_en": "Mansa Konko",
+      "province": "下河区",
+      "latitude": 13.4433,
+      "longitude": -15.5357,
+      "timezone": "Africa/Banjul"
+    }
+  ]
+}

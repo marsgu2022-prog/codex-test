@@ -1,0 +1,54 @@
+{
+  "country_code": "FO",
+  "country_name": "法罗群岛",
+  "cities": [
+    {
+      "name": "托尔斯港",
+      "name_en": "Tórshavn",
+      "province": "Streymoy",
+      "latitude": 62.0097,
+      "longitude": -6.7716,
+      "timezone": "Atlantic/Faroe"
+    },
+    {
+      "name": "克拉克斯维克",
+      "name_en": "Klaksvík",
+      "province": "Norðoyar",
+      "latitude": 62.2266,
+      "longitude": -6.589,
+      "timezone": "Atlantic/Faroe"
+    },
+    {
+      "name": "",
+      "name_en": "Fuglafjørður",
+      "province": "Eysturoy",
+      "latitude": 62.244,
+      "longitude": -6.814,
+      "timezone": "Atlantic/Faroe"
+    },
+    {
+      "name": "",
+      "name_en": "Miðvágur",
+      "province": "Vágar",
+      "latitude": 62.0511,
+      "longitude": -7.1939,
+      "timezone": "Atlantic/Faroe"
+    },
+    {
+      "name": "",
+      "name_en": "Tvøroyri",
+      "province": "Suðuroy",
+      "latitude": 61.5556,
+      "longitude": -6.8111,
+      "timezone": "Atlantic/Faroe"
+    },
+    {
+      "name": "",
+      "name_en": "Sandur",
+      "province": "Sandoy",
+      "latitude": 61.8425,
+      "longitude": -6.8078,
+      "timezone": "Atlantic/Faroe"
+    }
+  ]
+}

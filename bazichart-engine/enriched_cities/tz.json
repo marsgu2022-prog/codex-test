@@ -1,0 +1,2478 @@
+{
+  "country_code": "TZ",
+  "country_name": "坦桑尼亚",
+  "cities": [
+    {
+      "name": "达累斯萨拉姆",
+      "name_en": "Dar es Salaam",
+      "province": "达累斯萨拉姆区",
+      "latitude": -6.8235,
+      "longitude": 39.2695,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "姆万扎",
+      "name_en": "Mwanza",
+      "province": "姆万扎区",
+      "latitude": -2.5167,
+      "longitude": 32.9,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "多多马",
+      "name_en": "Dodoma",
+      "province": "多多马区",
+      "latitude": -6.1722,
+      "longitude": 35.7395,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "桑给巴尔市",
+      "name_en": "Zanzibar",
+      "province": "Zanzibar Urban/West",
+      "latitude": -6.1639,
+      "longitude": 39.1979,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "阿鲁沙",
+      "name_en": "Arusha",
+      "province": "阿鲁沙区",
+      "latitude": -3.3667,
+      "longitude": 36.6833,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "姆贝亚",
+      "name_en": "Mbeya",
+      "province": "姆贝亚区",
+      "latitude": -8.9,
+      "longitude": 33.45,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "莫罗戈罗",
+      "name_en": "Morogoro",
+      "province": "莫罗戈罗区",
+      "latitude": -6.821,
+      "longitude": 37.6612,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "卡哈马",
+      "name_en": "Kahama",
+      "province": "欣延加区",
+      "latitude": -3.8333,
+      "longitude": 32.6,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "坦噶",
+      "name_en": "Tanga",
+      "province": "坦噶区",
+      "latitude": -5.0689,
+      "longitude": 39.0988,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Geita",
+      "province": "盖塔区",
+      "latitude": -2.8725,
+      "longitude": 32.2325,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "塔波拉",
+      "name_en": "Tabora",
+      "province": "塔波拉区",
+      "latitude": -5.0162,
+      "longitude": 32.8266,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "松巴万加",
+      "name_en": "Sumbawanga",
+      "province": "鲁夸区",
+      "latitude": -7.9667,
+      "longitude": 31.6167,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "松盖阿",
+      "name_en": "Songea",
+      "province": "鲁伍马区",
+      "latitude": -10.6833,
+      "longitude": 35.65,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Kibaha",
+      "province": "滨海区",
+      "latitude": -6.7667,
+      "longitude": 38.9167,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Bariadi",
+      "province": "锡米尤区",
+      "latitude": -2.8,
+      "longitude": 33.9833,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "卡苏卢",
+      "name_en": "Kasulu",
+      "province": "基戈马区",
+      "latitude": -4.5767,
+      "longitude": 30.1025,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Singida",
+      "province": "辛吉达区",
+      "latitude": -4.8163,
+      "longitude": 34.7436,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "基戈马",
+      "name_en": "Kigoma",
+      "province": "基戈马区",
+      "latitude": -4.8769,
+      "longitude": 29.6267,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "莫希",
+      "name_en": "Moshi",
+      "province": "乞力马扎罗区",
+      "latitude": -3.35,
+      "longitude": 37.3333,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Tunduma",
+      "province": "Songwe",
+      "latitude": -9.3,
+      "longitude": 32.7667,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Ifakara",
+      "province": "莫罗戈罗区",
+      "latitude": -8.1333,
+      "longitude": 36.6833,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mpanda",
+      "province": "卡塔维区",
+      "latitude": -6.3438,
+      "longitude": 31.0695,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "伊林加",
+      "name_en": "Iringa",
+      "province": "伊林加区",
+      "latitude": -7.7667,
+      "longitude": 35.7,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Bunda",
+      "province": "马拉区",
+      "latitude": -2.0215,
+      "longitude": 33.8711,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "穆索马",
+      "name_en": "Musoma",
+      "province": "马拉区",
+      "latitude": -1.5,
+      "longitude": 33.8,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "布科巴",
+      "name_en": "Bukoba",
+      "province": "卡盖拉区",
+      "latitude": -1.3317,
+      "longitude": 31.8122,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mtwara",
+      "province": "姆特瓦拉区",
+      "latitude": -10.2667,
+      "longitude": 40.1833,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "欣延加",
+      "name_en": "Shinyanga",
+      "province": "欣延加区",
+      "latitude": -3.6639,
+      "longitude": 33.4212,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Tarime",
+      "province": "马拉区",
+      "latitude": -1.35,
+      "longitude": 34.3667,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Nzega",
+      "province": "塔波拉区",
+      "latitude": -4.2167,
+      "longitude": 33.1833,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Makumbako",
+      "province": "恩琼贝区",
+      "latitude": -8.85,
+      "longitude": 34.8333,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Sengerema",
+      "province": "姆万扎区",
+      "latitude": -2.6667,
+      "longitude": 32.65,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Handeni",
+      "province": "坦噶区",
+      "latitude": -5.4333,
+      "longitude": 38.0167,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Katumba",
+      "province": "姆贝亚区",
+      "latitude": -9.2333,
+      "longitude": 33.6167,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mafinga",
+      "province": "伊林加区",
+      "latitude": -8.3002,
+      "longitude": 35.2937,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "林迪",
+      "name_en": "Lindi",
+      "province": "林迪区",
+      "latitude": -9.9971,
+      "longitude": 39.7165,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Ushirombo",
+      "province": "盖塔区",
+      "latitude": -3.4919,
+      "longitude": 31.9639,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Njombe",
+      "province": "恩琼贝区",
+      "latitude": -9.3492,
+      "longitude": 34.7717,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Kilosa",
+      "province": "莫罗戈罗区",
+      "latitude": -6.8333,
+      "longitude": 36.9833,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Masasi",
+      "province": "姆特瓦拉区",
+      "latitude": -10.7167,
+      "longitude": 38.8,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Vwawa",
+      "province": "Songwe",
+      "latitude": -9.1081,
+      "longitude": 32.9347,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "巴加莫约",
+      "name_en": "Bagamoyo",
+      "province": "滨海区",
+      "latitude": -6.4422,
+      "longitude": 38.9042,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Kondoa",
+      "province": "多多马区",
+      "latitude": -4.9,
+      "longitude": 35.7833,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Katoro",
+      "province": "盖塔区",
+      "latitude": -2.9998,
+      "longitude": 31.9326,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Vikindu",
+      "province": "滨海区",
+      "latitude": -7.0067,
+      "longitude": 39.2985,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "巴巴蒂",
+      "name_en": "Babati",
+      "province": "曼亚拉区",
+      "latitude": -4.2167,
+      "longitude": 35.75,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Korogwe",
+      "province": "坦噶区",
+      "latitude": -5.15,
+      "longitude": 38.4833,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mbinga",
+      "province": "鲁伍马区",
+      "latitude": -10.9333,
+      "longitude": 35.0167,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Uyovu",
+      "province": "盖塔区",
+      "latitude": -3.2833,
+      "longitude": 31.5258,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Buseresere",
+      "province": "盖塔区",
+      "latitude": -3.0488,
+      "longitude": 31.8854,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Chake Chake",
+      "province": "Pemba South",
+      "latitude": -5.2459,
+      "longitude": 39.7666,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Kibaigwa",
+      "province": "多多马区",
+      "latitude": -6.0812,
+      "longitude": 36.6466,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Masumbwe",
+      "province": "盖塔区",
+      "latitude": -3.6333,
+      "longitude": 32.1833,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Merelani",
+      "province": "阿鲁沙区",
+      "latitude": -3.5618,
+      "longitude": 36.9789,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Tukuyu",
+      "province": "姆贝亚区",
+      "latitude": -9.25,
+      "longitude": 33.65,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Utengule",
+      "province": "姆贝亚区",
+      "latitude": -8.9,
+      "longitude": 33.3333,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mbuguni",
+      "province": "阿鲁沙区",
+      "latitude": -3.5667,
+      "longitude": 36.95,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Tunduru",
+      "province": "鲁伍马区",
+      "latitude": -11.0667,
+      "longitude": 37.35,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Kyela",
+      "province": "姆贝亚区",
+      "latitude": -9.5833,
+      "longitude": 33.85,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mbulu",
+      "province": "曼亚拉区",
+      "latitude": -3.85,
+      "longitude": 35.5333,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Diobahika",
+      "province": "盖塔区",
+      "latitude": -3.3391,
+      "longitude": 31.5234,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Igunga",
+      "province": "塔波拉区",
+      "latitude": -4.2833,
+      "longitude": 33.8833,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Ikwiriri",
+      "province": "滨海区",
+      "latitude": -7.9562,
+      "longitude": 38.9716,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mwandege",
+      "province": "滨海区",
+      "latitude": -6.9756,
+      "longitude": 39.2893,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Nansio",
+      "province": "马拉区",
+      "latitude": -2.1333,
+      "longitude": 33.05,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Rujewa",
+      "province": "姆贝亚区",
+      "latitude": -8.7,
+      "longitude": 34.3833,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Dumila",
+      "province": "莫罗戈罗区",
+      "latitude": -6.3839,
+      "longitude": 37.3433,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Geiro",
+      "province": "莫罗戈罗区",
+      "latitude": -6.15,
+      "longitude": 36.8667,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mapinga",
+      "province": "滨海区",
+      "latitude": -6.6,
+      "longitude": 39.0667,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mlowo",
+      "province": "Songwe",
+      "latitude": -9.0,
+      "longitude": 32.9833,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Namanyere",
+      "province": "鲁夸区",
+      "latitude": -7.5167,
+      "longitude": 31.05,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Nguruka",
+      "province": "基戈马区",
+      "latitude": -5.1092,
+      "longitude": 31.0419,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Newala Kisimani",
+      "province": "姆特瓦拉区",
+      "latitude": -10.95,
+      "longitude": 39.2833,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Kidatu",
+      "province": "莫罗戈罗区",
+      "latitude": -7.6992,
+      "longitude": 36.9572,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Boma la Ngombe",
+      "province": "乞力马扎罗区",
+      "latitude": -3.3333,
+      "longitude": 37.15,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Kidodi",
+      "province": "莫罗戈罗区",
+      "latitude": -7.6036,
+      "longitude": 37.0044,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Wete",
+      "province": "Pemba North",
+      "latitude": -5.0559,
+      "longitude": 39.7294,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Misungwi",
+      "province": "姆万扎区",
+      "latitude": -2.85,
+      "longitude": 33.0833,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Magu",
+      "province": "姆万扎区",
+      "latitude": -2.5907,
+      "longitude": 33.4462,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mlimba",
+      "province": "莫罗戈罗区",
+      "latitude": -8.8,
+      "longitude": 35.8167,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mafinga",
+      "province": "伊林加区",
+      "latitude": -8.3002,
+      "longitude": 35.2937,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Newala",
+      "province": "姆特瓦拉区",
+      "latitude": -10.9333,
+      "longitude": 39.3,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Chalinze",
+      "province": "滨海区",
+      "latitude": -6.6378,
+      "longitude": 38.354,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Same",
+      "province": "乞力马扎罗区",
+      "latitude": -4.0667,
+      "longitude": 37.7333,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Biharamulo",
+      "province": "卡盖拉区",
+      "latitude": -2.6319,
+      "longitude": 31.3089,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Lushoto",
+      "province": "坦噶区",
+      "latitude": -4.7833,
+      "longitude": 38.2833,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Somanda",
+      "province": "锡米尤区",
+      "latitude": -3.3667,
+      "longitude": 33.95,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Kirando",
+      "province": "鲁夸区",
+      "latitude": -7.4167,
+      "longitude": 30.6,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Tumbi",
+      "province": "塔波拉区",
+      "latitude": -5.0667,
+      "longitude": 32.7333,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Bugarama",
+      "province": "卡盖拉区",
+      "latitude": -2.8706,
+      "longitude": 30.5281,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Ngudu",
+      "province": "姆万扎区",
+      "latitude": -2.9667,
+      "longitude": 33.3333,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Urambo",
+      "province": "塔波拉区",
+      "latitude": -5.0667,
+      "longitude": 32.05,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mvomero",
+      "province": "滨海区",
+      "latitude": -6.25,
+      "longitude": 38.6667,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Chanika",
+      "province": "坦噶区",
+      "latitude": -5.4167,
+      "longitude": 38.0167,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Nungwi",
+      "province": "Zanzibar North",
+      "latitude": -5.7265,
+      "longitude": 39.2987,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Kibiti",
+      "province": "滨海区",
+      "latitude": -7.7218,
+      "longitude": 38.9375,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Chato",
+      "province": "盖塔区",
+      "latitude": -2.6378,
+      "longitude": 31.7669,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Kisesa",
+      "province": "姆万扎区",
+      "latitude": -2.55,
+      "longitude": 33.0333,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mpwapwa",
+      "province": "多多马区",
+      "latitude": -6.35,
+      "longitude": 36.4833,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Kisesa",
+      "province": "锡米尤区",
+      "latitude": -2.55,
+      "longitude": 33.0333,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Lukuledi",
+      "province": "姆特瓦拉区",
+      "latitude": -10.5667,
+      "longitude": 38.8,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mlandizi",
+      "province": "滨海区",
+      "latitude": -6.7,
+      "longitude": 38.7333,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Ilula",
+      "province": "伊林加区",
+      "latitude": -7.6766,
+      "longitude": 36.0366,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mugumu",
+      "province": "马拉区",
+      "latitude": -1.85,
+      "longitude": 34.7,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Kibondo",
+      "province": "基戈马区",
+      "latitude": -3.5864,
+      "longitude": 30.7203,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mkuranga",
+      "province": "滨海区",
+      "latitude": -7.118,
+      "longitude": 39.2078,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Shanwa",
+      "province": "锡米尤区",
+      "latitude": -3.1667,
+      "longitude": 33.7667,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Bungu",
+      "province": "滨海区",
+      "latitude": -7.6337,
+      "longitude": 39.0582,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Kasamwa",
+      "province": "盖塔区",
+      "latitude": -2.85,
+      "longitude": 32.4333,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Sikonge",
+      "province": "塔波拉区",
+      "latitude": -5.6333,
+      "longitude": 32.7667,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Malinyi",
+      "province": "莫罗戈罗区",
+      "latitude": -8.9333,
+      "longitude": 36.1333,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mtinko",
+      "province": "辛吉达区",
+      "latitude": -4.55,
+      "longitude": 34.85,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Maramba",
+      "province": "坦噶区",
+      "latitude": -5.05,
+      "longitude": 38.6167,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Magugu",
+      "province": "曼亚拉区",
+      "latitude": -4.0167,
+      "longitude": 35.7667,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Matundasi",
+      "province": "姆贝亚区",
+      "latitude": -8.45,
+      "longitude": 33.2833,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Sokoni",
+      "province": "Zanzibar Central/South",
+      "latitude": -6.4333,
+      "longitude": 39.55,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Sepuka",
+      "province": "辛吉达区",
+      "latitude": -4.75,
+      "longitude": 34.5333,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Luchingu",
+      "province": "姆特瓦拉区",
+      "latitude": -10.9,
+      "longitude": 39.3333,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Igurusi",
+      "province": "姆贝亚区",
+      "latitude": -8.85,
+      "longitude": 33.85,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Liwale",
+      "province": "林迪区",
+      "latitude": -9.7667,
+      "longitude": 37.9333,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Manyoni",
+      "province": "辛吉达区",
+      "latitude": -5.75,
+      "longitude": 34.8333,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mhalamba",
+      "province": "盖塔区",
+      "latitude": -2.5812,
+      "longitude": 32.0099,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Sirari",
+      "province": "马拉区",
+      "latitude": -1.2537,
+      "longitude": 34.476,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Chimala",
+      "province": "姆贝亚区",
+      "latitude": -8.8564,
+      "longitude": 34.0239,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Shelui",
+      "province": "辛吉达区",
+      "latitude": -4.3667,
+      "longitude": 34.2,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Kakonko",
+      "province": "基戈马区",
+      "latitude": -3.2828,
+      "longitude": 30.9642,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Uvinza",
+      "province": "基戈马区",
+      "latitude": -5.1036,
+      "longitude": 30.3911,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Nyalikungu",
+      "province": "锡米尤区",
+      "latitude": -3.1833,
+      "longitude": 33.7833,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Matai",
+      "province": "鲁夸区",
+      "latitude": -8.3,
+      "longitude": 31.5167,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Itigi",
+      "province": "辛吉达区",
+      "latitude": -5.7,
+      "longitude": 34.4833,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Ruaha",
+      "province": "莫罗戈罗区",
+      "latitude": -7.6569,
+      "longitude": 36.983,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Makongolosi",
+      "province": "姆贝亚区",
+      "latitude": -8.4,
+      "longitude": 33.15,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Old Shinyanga",
+      "province": "欣延加区",
+      "latitude": -3.55,
+      "longitude": 33.4,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mkoani",
+      "province": "Pemba South",
+      "latitude": -5.3667,
+      "longitude": 39.65,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mgandu",
+      "province": "辛吉达区",
+      "latitude": -5.95,
+      "longitude": 34.1333,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Songwa",
+      "province": "欣延加区",
+      "latitude": -3.5167,
+      "longitude": 33.5167,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Kiomboi",
+      "province": "辛吉达区",
+      "latitude": -4.2667,
+      "longitude": 34.3667,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Kilindoni",
+      "province": "滨海区",
+      "latitude": -7.9145,
+      "longitude": 39.662,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mwadui",
+      "province": "欣延加区",
+      "latitude": -3.55,
+      "longitude": 33.6,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Nangomba",
+      "province": "姆特瓦拉区",
+      "latitude": -10.9,
+      "longitude": 38.5,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Urunda",
+      "province": "姆贝亚区",
+      "latitude": -8.65,
+      "longitude": 34.3,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Kingori",
+      "province": "阿鲁沙区",
+      "latitude": -3.2833,
+      "longitude": 36.9833,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Igugunu",
+      "province": "辛吉达区",
+      "latitude": -4.5667,
+      "longitude": 34.6333,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Chala",
+      "province": "鲁夸区",
+      "latitude": -7.5833,
+      "longitude": 31.2667,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Lalago",
+      "province": "锡米尤区",
+      "latitude": -3.45,
+      "longitude": 33.95,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Kigonsera",
+      "province": "鲁伍马区",
+      "latitude": -10.8,
+      "longitude": 35.05,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Tinde",
+      "province": "欣延加区",
+      "latitude": -3.8833,
+      "longitude": 33.2,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Rulenge",
+      "province": "卡盖拉区",
+      "latitude": -2.7175,
+      "longitude": 30.6325,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Maswa",
+      "province": "锡米尤区",
+      "latitude": -2.6833,
+      "longitude": 33.9833,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mwanhuzi",
+      "province": "锡米尤区",
+      "latitude": -3.5272,
+      "longitude": 34.3151,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mhango",
+      "province": "欣延加区",
+      "latitude": -3.2833,
+      "longitude": 32.85,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Kilwa Masoko",
+      "province": "林迪区",
+      "latitude": -8.9251,
+      "longitude": 39.5131,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Katesh",
+      "province": "曼亚拉区",
+      "latitude": -4.5248,
+      "longitude": 35.3849,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Kiwira",
+      "province": "姆贝亚区",
+      "latitude": -9.1731,
+      "longitude": 33.5415,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Isaka",
+      "province": "欣延加区",
+      "latitude": -3.9,
+      "longitude": 32.9333,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Hedaru",
+      "province": "乞力马扎罗区",
+      "latitude": -4.5,
+      "longitude": 37.9,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Nachingwea",
+      "province": "林迪区",
+      "latitude": -10.3725,
+      "longitude": 38.7625,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Usa River",
+      "province": "阿鲁沙区",
+      "latitude": -3.3667,
+      "longitude": 36.85,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Usangi",
+      "province": "乞力马扎罗区",
+      "latitude": -3.7,
+      "longitude": 37.6667,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Basotu",
+      "province": "曼亚拉区",
+      "latitude": -4.3667,
+      "longitude": 35.0833,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mazinde",
+      "province": "坦噶区",
+      "latitude": -4.8,
+      "longitude": 38.2167,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Muriti",
+      "province": "马拉区",
+      "latitude": -1.9833,
+      "longitude": 32.9167,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Matui",
+      "province": "坦噶区",
+      "latitude": -4.8,
+      "longitude": 38.25,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Nsunga",
+      "province": "卡盖拉区",
+      "latitude": -1.1439,
+      "longitude": 31.3947,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Kiratu",
+      "province": "阿鲁沙区",
+      "latitude": -3.3333,
+      "longitude": 35.6667,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Makuyuni",
+      "province": "阿鲁沙区",
+      "latitude": -3.55,
+      "longitude": 36.1,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Matongo",
+      "province": "马拉区",
+      "latitude": -1.4677,
+      "longitude": 34.5228,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mikumi",
+      "province": "莫罗戈罗区",
+      "latitude": -7.4041,
+      "longitude": 36.9831,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Muheza",
+      "province": "坦噶区",
+      "latitude": -5.1667,
+      "longitude": 38.7833,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Ruangwa",
+      "province": "林迪区",
+      "latitude": -10.0667,
+      "longitude": 38.9333,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Tandahimba",
+      "province": "姆特瓦拉区",
+      "latitude": -10.75,
+      "longitude": 39.6333,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Dareda",
+      "province": "曼亚拉区",
+      "latitude": -4.2167,
+      "longitude": 35.55,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Nshamba",
+      "province": "卡盖拉区",
+      "latitude": -1.7983,
+      "longitude": 31.5511,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Ikungi",
+      "province": "辛吉达区",
+      "latitude": -5.1333,
+      "longitude": 34.7667,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Nanyamba",
+      "province": "姆特瓦拉区",
+      "latitude": -10.6833,
+      "longitude": 39.8333,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Kibakwe",
+      "province": "多多马区",
+      "latitude": -6.7167,
+      "longitude": 36.3667,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Maposeni",
+      "province": "鲁伍马区",
+      "latitude": -10.5833,
+      "longitude": 35.4,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Kabanga",
+      "province": "卡盖拉区",
+      "latitude": -2.6386,
+      "longitude": 30.4678,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Laela",
+      "province": "鲁夸区",
+      "latitude": -8.5667,
+      "longitude": 32.05,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Bashanet",
+      "province": "曼亚拉区",
+      "latitude": -4.2333,
+      "longitude": 35.4167,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Magomeni",
+      "province": "达累斯萨拉姆区",
+      "latitude": -6.8,
+      "longitude": 39.25,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Kihangara",
+      "province": "姆万扎区",
+      "latitude": -2.5833,
+      "longitude": 33.35,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mtwango",
+      "province": "恩琼贝区",
+      "latitude": -9.0167,
+      "longitude": 34.8,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Shirati",
+      "province": "马拉区",
+      "latitude": -1.1333,
+      "longitude": 33.9833,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Ilembula",
+      "province": "恩琼贝区",
+      "latitude": -8.9,
+      "longitude": 34.5833,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Dongobesh",
+      "province": "曼亚拉区",
+      "latitude": -4.0667,
+      "longitude": 35.3833,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Matiri",
+      "province": "鲁伍马区",
+      "latitude": -10.75,
+      "longitude": 34.9,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Magole",
+      "province": "莫罗戈罗区",
+      "latitude": -6.377,
+      "longitude": 37.3737,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Nangwa",
+      "province": "曼亚拉区",
+      "latitude": -4.4667,
+      "longitude": 35.45,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Galappo",
+      "province": "曼亚拉区",
+      "latitude": -4.2667,
+      "longitude": 35.85,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Katerero",
+      "province": "卡盖拉区",
+      "latitude": -1.4,
+      "longitude": 31.7333,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Nyakabindi",
+      "province": "锡米尤区",
+      "latitude": -2.6333,
+      "longitude": 33.9833,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Izazi",
+      "province": "伊林加区",
+      "latitude": -7.2,
+      "longitude": 35.7333,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Lubata",
+      "province": "莫罗戈罗区",
+      "latitude": -6.1,
+      "longitude": 37.45,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Madizini",
+      "province": "莫罗戈罗区",
+      "latitude": -6.1409,
+      "longitude": 37.636,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Tarakea",
+      "province": "乞力马扎罗区",
+      "latitude": -3.0008,
+      "longitude": 37.5642,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Msowero",
+      "province": "莫罗戈罗区",
+      "latitude": -6.5333,
+      "longitude": 37.2,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Ipinda",
+      "province": "姆贝亚区",
+      "latitude": -9.4833,
+      "longitude": 33.9,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mto wa Mbu",
+      "province": "阿鲁沙区",
+      "latitude": -3.35,
+      "longitude": 35.85,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Usevia",
+      "province": "卡塔维区",
+      "latitude": -7.1,
+      "longitude": 31.2333,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Nanganga",
+      "province": "姆特瓦拉区",
+      "latitude": -10.3833,
+      "longitude": 39.15,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Ilongero",
+      "province": "辛吉达区",
+      "latitude": -4.6667,
+      "longitude": 34.8667,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Kibara",
+      "province": "马拉区",
+      "latitude": -2.15,
+      "longitude": 33.45,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Ngerengere",
+      "province": "莫罗戈罗区",
+      "latitude": -6.75,
+      "longitude": 38.1167,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Puma",
+      "province": "辛吉达区",
+      "latitude": -5.0,
+      "longitude": 34.7333,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Malampaka",
+      "province": "锡米尤区",
+      "latitude": -3.1333,
+      "longitude": 33.5333,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Lugoba",
+      "province": "滨海区",
+      "latitude": -6.45,
+      "longitude": 38.3333,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Ngara",
+      "province": "卡盖拉区",
+      "latitude": -2.5122,
+      "longitude": 30.6558,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mwandiga",
+      "province": "基戈马区",
+      "latitude": -4.83,
+      "longitude": 29.6581,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mungaa",
+      "province": "辛吉达区",
+      "latitude": -4.9667,
+      "longitude": 34.8833,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Nyamuswa",
+      "province": "马拉区",
+      "latitude": -1.9,
+      "longitude": 34.0167,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Butiama",
+      "province": "马拉区",
+      "latitude": -1.7667,
+      "longitude": 33.9667,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Kishapu",
+      "province": "欣延加区",
+      "latitude": -3.6167,
+      "longitude": 33.8667,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Nyangao",
+      "province": "林迪区",
+      "latitude": -10.3333,
+      "longitude": 39.2833,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Tingi",
+      "province": "鲁伍马区",
+      "latitude": -11.3,
+      "longitude": 35.0333,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Kitama",
+      "province": "姆特瓦拉区",
+      "latitude": -10.7167,
+      "longitude": 39.7333,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Lembeni",
+      "province": "乞力马扎罗区",
+      "latitude": -3.7833,
+      "longitude": 37.6167,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Kamachumu",
+      "province": "卡盖拉区",
+      "latitude": -1.6186,
+      "longitude": 31.62,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mlalo",
+      "province": "坦噶区",
+      "latitude": -4.9333,
+      "longitude": 38.9333,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Makuyuni",
+      "province": "坦噶区",
+      "latitude": -3.55,
+      "longitude": 36.1,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Usagara",
+      "province": "姆万扎区",
+      "latitude": -2.6833,
+      "longitude": 33.0,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mabama",
+      "province": "塔波拉区",
+      "latitude": -5.1333,
+      "longitude": 32.5333,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mlangali",
+      "province": "恩琼贝区",
+      "latitude": -9.7833,
+      "longitude": 34.5167,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mahanje",
+      "province": "鲁伍马区",
+      "latitude": -9.9333,
+      "longitude": 35.3333,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Namanga",
+      "province": "阿鲁沙区",
+      "latitude": -2.5512,
+      "longitude": 36.7838,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Nkoaranga",
+      "province": "阿鲁沙区",
+      "latitude": -3.3339,
+      "longitude": 36.8489,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Nyakahanga",
+      "province": "卡盖拉区",
+      "latitude": -1.6033,
+      "longitude": 31.1414,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Endasak",
+      "province": "曼亚拉区",
+      "latitude": -4.4167,
+      "longitude": 35.5167,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Ndungu",
+      "province": "乞力马扎罗区",
+      "latitude": -4.3667,
+      "longitude": 38.05,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Misasi",
+      "province": "姆万扎区",
+      "latitude": -3.0,
+      "longitude": 33.0833,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mabamba",
+      "province": "基戈马区",
+      "latitude": -3.5983,
+      "longitude": 30.5019,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Dunda",
+      "province": "姆贝亚区",
+      "latitude": -8.1167,
+      "longitude": 34.25,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Kyaka",
+      "province": "卡盖拉区",
+      "latitude": -1.2522,
+      "longitude": 31.4203,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mahuta",
+      "province": "姆特瓦拉区",
+      "latitude": -10.8667,
+      "longitude": 39.45,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Nanhyanga",
+      "province": "姆特瓦拉区",
+      "latitude": -10.8,
+      "longitude": 39.55,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Naberera",
+      "province": "曼亚拉区",
+      "latitude": -4.2,
+      "longitude": 36.9333,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Itumba",
+      "province": "Songwe",
+      "latitude": -9.4,
+      "longitude": 33.1833,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Liuli",
+      "province": "鲁伍马区",
+      "latitude": -11.0833,
+      "longitude": 34.6333,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Ndago",
+      "province": "辛吉达区",
+      "latitude": -4.6,
+      "longitude": 34.35,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mwanga",
+      "province": "坦噶区",
+      "latitude": -4.8,
+      "longitude": 38.2,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Chiungutwa",
+      "province": "姆特瓦拉区",
+      "latitude": -10.8833,
+      "longitude": 38.9833,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Masoko",
+      "province": "姆贝亚区",
+      "latitude": -8.9251,
+      "longitude": 39.5131,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Karema",
+      "province": "卡塔维区",
+      "latitude": -6.8205,
+      "longitude": 30.4389,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Malya",
+      "province": "姆万扎区",
+      "latitude": -2.9833,
+      "longitude": 33.5167,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Kisarawe",
+      "province": "滨海区",
+      "latitude": -6.9,
+      "longitude": 39.0667,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Madimba",
+      "province": "姆特瓦拉区",
+      "latitude": -10.4,
+      "longitude": 40.3333,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Soni",
+      "province": "坦噶区",
+      "latitude": -4.85,
+      "longitude": 38.3667,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Kaliua",
+      "province": "塔波拉区",
+      "latitude": -5.0606,
+      "longitude": 31.7936,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Ulenje",
+      "province": "姆贝亚区",
+      "latitude": -8.9333,
+      "longitude": 33.6833,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mtama",
+      "province": "林迪区",
+      "latitude": -10.3,
+      "longitude": 39.3667,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Katoro",
+      "province": "卡盖拉区",
+      "latitude": -2.9998,
+      "longitude": 31.9326,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Utete",
+      "province": "滨海区",
+      "latitude": -7.986,
+      "longitude": 38.758,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Kongwa",
+      "province": "多多马区",
+      "latitude": -6.2,
+      "longitude": 36.4167,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Matonga",
+      "province": "锡米尤区",
+      "latitude": -2.3833,
+      "longitude": 34.0833,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mbekenyera",
+      "province": "林迪区",
+      "latitude": -10.0,
+      "longitude": 38.9833,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Inyonga",
+      "province": "卡塔维区",
+      "latitude": -6.7167,
+      "longitude": 32.0667,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Namikupa",
+      "province": "姆特瓦拉区",
+      "latitude": -10.8333,
+      "longitude": 39.6,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Muleba",
+      "province": "卡盖拉区",
+      "latitude": -1.8397,
+      "longitude": 31.6544,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Lupiro",
+      "province": "莫罗戈罗区",
+      "latitude": -8.3833,
+      "longitude": 36.6667,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Kimamba",
+      "province": "莫罗戈罗区",
+      "latitude": -6.7833,
+      "longitude": 37.1333,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Namalenga",
+      "province": "姆特瓦拉区",
+      "latitude": -10.95,
+      "longitude": 39.1,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mtimbira",
+      "province": "莫罗戈罗区",
+      "latitude": -8.7833,
+      "longitude": 36.35,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Kisanga",
+      "province": "莫罗戈罗区",
+      "latitude": -7.4362,
+      "longitude": 37.7034,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Kitangari",
+      "province": "姆特瓦拉区",
+      "latitude": -10.65,
+      "longitude": 39.3333,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Ngorongoro",
+      "province": "阿鲁沙区",
+      "latitude": -3.2397,
+      "longitude": 35.4875,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Nyanguge",
+      "province": "姆万扎区",
+      "latitude": -2.55,
+      "longitude": 33.2,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Matamba",
+      "province": "恩琼贝区",
+      "latitude": -8.9833,
+      "longitude": 33.9667,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Bugene",
+      "province": "卡盖拉区",
+      "latitude": -1.5911,
+      "longitude": 31.1403,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mugango",
+      "province": "马拉区",
+      "latitude": -1.6833,
+      "longitude": 33.7,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mingoyo",
+      "province": "林迪区",
+      "latitude": -10.1053,
+      "longitude": 39.6186,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Kandete",
+      "province": "姆贝亚区",
+      "latitude": -9.15,
+      "longitude": 33.8,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Makungu",
+      "province": "伊林加区",
+      "latitude": -8.7333,
+      "longitude": 35.2833,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Igurubi",
+      "province": "塔波拉区",
+      "latitude": -4.0,
+      "longitude": 33.7,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Kisasa",
+      "province": "多多马区",
+      "latitude": -6.1753,
+      "longitude": 35.7927,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Majengo",
+      "province": "坦噶区",
+      "latitude": -5.15,
+      "longitude": 38.9833,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Micheweni",
+      "province": "Pemba North",
+      "latitude": -4.9667,
+      "longitude": 39.8333,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Poli",
+      "province": "阿鲁沙区",
+      "latitude": -3.3615,
+      "longitude": 36.8175,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Konde",
+      "province": "Pemba North",
+      "latitude": -4.95,
+      "longitude": 39.75,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Makanya",
+      "province": "乞力马扎罗区",
+      "latitude": -4.3667,
+      "longitude": 37.8333,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Longido",
+      "province": "阿鲁沙区",
+      "latitude": -2.7332,
+      "longitude": 36.6977,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Maneromango",
+      "province": "滨海区",
+      "latitude": -7.1988,
+      "longitude": 38.7848,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mwembe",
+      "province": "乞力马扎罗区",
+      "latitude": -4.15,
+      "longitude": 37.85,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mbamba Bay",
+      "province": "鲁伍马区",
+      "latitude": -11.2833,
+      "longitude": 34.7667,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Magomeni",
+      "province": "坦噶区",
+      "latitude": -6.8,
+      "longitude": 39.25,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Manda",
+      "province": "恩琼贝区",
+      "latitude": -10.4667,
+      "longitude": 34.5833,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Kihurio",
+      "province": "乞力马扎罗区",
+      "latitude": -4.4667,
+      "longitude": 38.0667,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Pangani",
+      "province": "坦噶区",
+      "latitude": -5.4253,
+      "longitude": 38.9747,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Masuguru",
+      "province": "姆特瓦拉区",
+      "latitude": -11.3667,
+      "longitude": 38.4167,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Kintinku",
+      "province": "辛吉达区",
+      "latitude": -5.8833,
+      "longitude": 35.2333,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Lulindi",
+      "province": "姆特瓦拉区",
+      "latitude": -10.8167,
+      "longitude": 39.1333,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Issenye",
+      "province": "马拉区",
+      "latitude": -2.0,
+      "longitude": 34.3333,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mahenge",
+      "province": "莫罗戈罗区",
+      "latitude": -8.6833,
+      "longitude": 36.7167,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mwaya",
+      "province": "姆贝亚区",
+      "latitude": -9.55,
+      "longitude": 33.95,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Kwakoa",
+      "province": "乞力马扎罗区",
+      "latitude": -3.7667,
+      "longitude": 37.7167,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Bukene",
+      "province": "塔波拉区",
+      "latitude": -4.2333,
+      "longitude": 32.8833,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Usoke",
+      "province": "塔波拉区",
+      "latitude": -5.1667,
+      "longitude": 32.35,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Kisiwani",
+      "province": "乞力马扎罗区",
+      "latitude": -4.1333,
+      "longitude": 37.95,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Malangali",
+      "province": "伊林加区",
+      "latitude": -8.5667,
+      "longitude": 34.85,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mtambile",
+      "province": "Pemba South",
+      "latitude": -5.3833,
+      "longitude": 39.7,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Nakatunguru",
+      "province": "马拉区",
+      "latitude": -2.1167,
+      "longitude": 33.0667,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Kilimatinde",
+      "province": "辛吉达区",
+      "latitude": -5.85,
+      "longitude": 34.95,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Monduli",
+      "province": "阿鲁沙区",
+      "latitude": -3.3,
+      "longitude": 36.45,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Bububu",
+      "province": "Zanzibar Urban/West",
+      "latitude": -6.1,
+      "longitude": 39.2167,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mahonda",
+      "province": "Zanzibar Central/South",
+      "latitude": -6.45,
+      "longitude": 39.4667,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Msanga",
+      "province": "多多马区",
+      "latitude": -6.05,
+      "longitude": 36.0333,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Nkove",
+      "province": "鲁夸区",
+      "latitude": -7.95,
+      "longitude": 30.85,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Kibaya",
+      "province": "曼亚拉区",
+      "latitude": -5.3,
+      "longitude": 36.5667,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Mkokotoni",
+      "province": "Zanzibar North",
+      "latitude": -5.8751,
+      "longitude": 39.2552,
+      "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "name": "",
+      "name_en": "Koani",
+      "province": "Zanzibar Central/South",
+      "latitude": -6.1333,
+      "longitude": 39.2833,
+      "timezone": "Africa/Dar_es_Salaam"
+    }
+  ]
+}

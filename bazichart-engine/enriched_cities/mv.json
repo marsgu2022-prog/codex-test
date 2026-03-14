@@ -1,0 +1,158 @@
+{
+  "country_code": "MV",
+  "country_name": "马尔代夫",
+  "cities": [
+    {
+      "name": "马累",
+      "name_en": "Male",
+      "province": "Kaafu Atoll",
+      "latitude": 4.1752,
+      "longitude": 73.5092,
+      "timezone": "Indian/Maldives"
+    },
+    {
+      "name": "",
+      "name_en": "Fuvahmulah",
+      "province": "Gnyaviyani Atoll",
+      "latitude": -0.2988,
+      "longitude": 73.424,
+      "timezone": "Indian/Maldives"
+    },
+    {
+      "name": "",
+      "name_en": "Hithadhoo",
+      "province": "Seenu",
+      "latitude": -0.6,
+      "longitude": 73.0833,
+      "timezone": "Indian/Maldives"
+    },
+    {
+      "name": "",
+      "name_en": "Kulhudhuffushi",
+      "province": "Haa Dhaalu Atholhu",
+      "latitude": 6.6221,
+      "longitude": 73.07,
+      "timezone": "Indian/Maldives"
+    },
+    {
+      "name": "",
+      "name_en": "Thinadhoo",
+      "province": "Gaafu Dhaalu Atoll",
+      "latitude": 0.5306,
+      "longitude": 72.9997,
+      "timezone": "Indian/Maldives"
+    },
+    {
+      "name": "",
+      "name_en": "Naifaru",
+      "province": "Faadhippolhu Atoll",
+      "latitude": 5.4444,
+      "longitude": 73.3657,
+      "timezone": "Indian/Maldives"
+    },
+    {
+      "name": "",
+      "name_en": "Dhihdhoo",
+      "province": "Haa Alifu Atholhu",
+      "latitude": 6.8874,
+      "longitude": 73.114,
+      "timezone": "Indian/Maldives"
+    },
+    {
+      "name": "",
+      "name_en": "Viligili",
+      "province": "Gaafu Alif Atoll",
+      "latitude": 0.7591,
+      "longitude": 73.433,
+      "timezone": "Indian/Maldives"
+    },
+    {
+      "name": "",
+      "name_en": "Funadhoo",
+      "province": "Shaviyani Atholhu",
+      "latitude": 6.1509,
+      "longitude": 73.2901,
+      "timezone": "Indian/Maldives"
+    },
+    {
+      "name": "",
+      "name_en": "Eydhafushi",
+      "province": "Baa Atholhu",
+      "latitude": 5.1033,
+      "longitude": 73.0708,
+      "timezone": "Indian/Maldives"
+    },
+    {
+      "name": "",
+      "name_en": "Mahibadhoo",
+      "province": "Southern Ari Atoll",
+      "latitude": 3.7571,
+      "longitude": 72.9689,
+      "timezone": "Indian/Maldives"
+    },
+    {
+      "name": "",
+      "name_en": "Fonadhoo",
+      "province": "Laamu",
+      "latitude": 1.8324,
+      "longitude": 73.5026,
+      "timezone": "Indian/Maldives"
+    },
+    {
+      "name": "",
+      "name_en": "Manadhoo",
+      "province": "Noonu Atoll",
+      "latitude": 5.7669,
+      "longitude": 73.4136,
+      "timezone": "Indian/Maldives"
+    },
+    {
+      "name": "",
+      "name_en": "Un’goofaaru",
+      "province": "Raa Atoll",
+      "latitude": 5.6681,
+      "longitude": 73.0302,
+      "timezone": "Indian/Maldives"
+    },
+    {
+      "name": "",
+      "name_en": "Kudahuvadhoo",
+      "province": "Dhaalu Atholhu",
+      "latitude": 2.6707,
+      "longitude": 72.8944,
+      "timezone": "Indian/Maldives"
+    },
+    {
+      "name": "",
+      "name_en": "Veymandoo",
+      "province": "Thaa Atholhu",
+      "latitude": 2.1877,
+      "longitude": 73.0956,
+      "timezone": "Indian/Maldives"
+    },
+    {
+      "name": "",
+      "name_en": "Muli",
+      "province": "Meemu Atholhu",
+      "latitude": 2.9217,
+      "longitude": 73.5811,
+      "timezone": "Indian/Maldives"
+    },
+    {
+      "name": "",
+      "name_en": "Felidhoo",
+      "province": "Vaavu Atholhu",
+      "latitude": 3.4718,
+      "longitude": 73.547,
+      "timezone": "Indian/Maldives"
+    },
+    {
+      "name": "",
+      "name_en": "Nilandhoo",
+      "province": "Faafu Atholhu",
+      "latitude": 3.0567,
+      "longitude": 72.89,
+      "timezone": "Indian/Maldives"
+    }
+  ]
+}

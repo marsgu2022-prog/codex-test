@@ -1,0 +1,278 @@
+{
+  "country_code": "XK",
+  "country_name": "科索沃",
+  "cities": [
+    {
+      "name": "普里什蒂纳",
+      "name_en": "Pristina",
+      "province": "Pristina",
+      "latitude": 42.6727,
+      "longitude": 21.1669,
+      "timezone": "Europe/Belgrade"
+    },
+    {
+      "name": "普里兹伦",
+      "name_en": "Prizren",
+      "province": "Prizren",
+      "latitude": 42.2139,
+      "longitude": 20.7397,
+      "timezone": "Europe/Belgrade"
+    },
+    {
+      "name": "",
+      "name_en": "Mitrovicë",
+      "province": "Mitrovica",
+      "latitude": 42.8833,
+      "longitude": 20.8667,
+      "timezone": "Europe/Belgrade"
+    },
+    {
+      "name": "",
+      "name_en": "Gjakovë",
+      "province": "Gjakova",
+      "latitude": 42.3803,
+      "longitude": 20.4308,
+      "timezone": "Europe/Belgrade"
+    },
+    {
+      "name": "",
+      "name_en": "Suva Reka",
+      "province": "Prizren",
+      "latitude": 42.3586,
+      "longitude": 20.825,
+      "timezone": "Europe/Belgrade"
+    },
+    {
+      "name": "",
+      "name_en": "Ferizaj",
+      "province": "Ferizaj",
+      "latitude": 42.3706,
+      "longitude": 21.1553,
+      "timezone": "Europe/Belgrade"
+    },
+    {
+      "name": "",
+      "name_en": "Glogovac",
+      "province": "Pristina",
+      "latitude": 42.6283,
+      "longitude": 20.8939,
+      "timezone": "Europe/Belgrade"
+    },
+    {
+      "name": "",
+      "name_en": "Gjilan",
+      "province": "Gjilan",
+      "latitude": 42.4605,
+      "longitude": 21.4699,
+      "timezone": "Europe/Belgrade"
+    },
+    {
+      "name": "",
+      "name_en": "Deçan",
+      "province": "Gjakova",
+      "latitude": 42.5402,
+      "longitude": 20.2879,
+      "timezone": "Europe/Belgrade"
+    },
+    {
+      "name": "",
+      "name_en": "Pejë",
+      "province": "Pec",
+      "latitude": 42.6591,
+      "longitude": 20.2883,
+      "timezone": "Europe/Belgrade"
+    },
+    {
+      "name": "",
+      "name_en": "Vitina",
+      "province": "Gjilan",
+      "latitude": 42.3214,
+      "longitude": 21.3583,
+      "timezone": "Europe/Belgrade"
+    },
+    {
+      "name": "",
+      "name_en": "Istok",
+      "province": "Pec",
+      "latitude": 42.7808,
+      "longitude": 20.4875,
+      "timezone": "Europe/Belgrade"
+    },
+    {
+      "name": "",
+      "name_en": "Dragash",
+      "province": "Prizren",
+      "latitude": 42.0265,
+      "longitude": 20.6533,
+      "timezone": "Europe/Belgrade"
+    },
+    {
+      "name": "",
+      "name_en": "Podujeva",
+      "province": "Pristina",
+      "latitude": 42.9106,
+      "longitude": 21.1931,
+      "timezone": "Europe/Belgrade"
+    },
+    {
+      "name": "",
+      "name_en": "Shtime",
+      "province": "Ferizaj",
+      "latitude": 42.4331,
+      "longitude": 21.0397,
+      "timezone": "Europe/Belgrade"
+    },
+    {
+      "name": "",
+      "name_en": "Vushtrri",
+      "province": "Mitrovica",
+      "latitude": 42.8231,
+      "longitude": 20.9675,
+      "timezone": "Europe/Belgrade"
+    },
+    {
+      "name": "",
+      "name_en": "Orahovac",
+      "province": "Gjakova",
+      "latitude": 42.3994,
+      "longitude": 20.6547,
+      "timezone": "Europe/Belgrade"
+    },
+    {
+      "name": "",
+      "name_en": "Llazicë",
+      "province": "Prizren",
+      "latitude": 42.5553,
+      "longitude": 20.7633,
+      "timezone": "Europe/Belgrade"
+    },
+    {
+      "name": "",
+      "name_en": "Leposaviq",
+      "province": "Mitrovica",
+      "latitude": 43.1039,
+      "longitude": 20.8028,
+      "timezone": "Europe/Belgrade"
+    },
+    {
+      "name": "",
+      "name_en": "Zvečan",
+      "province": "Mitrovica",
+      "latitude": 42.9075,
+      "longitude": 20.8403,
+      "timezone": "Europe/Belgrade"
+    },
+    {
+      "name": "",
+      "name_en": "Kosovo Polje",
+      "province": "Pristina",
+      "latitude": 42.6639,
+      "longitude": 21.0961,
+      "timezone": "Europe/Belgrade"
+    },
+    {
+      "name": "",
+      "name_en": "Zubin Potok",
+      "province": "Mitrovica",
+      "latitude": 42.9144,
+      "longitude": 20.6897,
+      "timezone": "Europe/Belgrade"
+    },
+    {
+      "name": "",
+      "name_en": "Obiliq",
+      "province": "Pristina",
+      "latitude": 42.6869,
+      "longitude": 21.0703,
+      "timezone": "Europe/Belgrade"
+    },
+    {
+      "name": "卡查尼克",
+      "name_en": "Kačanik",
+      "province": "Ferizaj",
+      "latitude": 42.2319,
+      "longitude": 21.2594,
+      "timezone": "Europe/Belgrade"
+    },
+    {
+      "name": "",
+      "name_en": "Hani i Elezit",
+      "province": "Ferizaj",
+      "latitude": 42.15,
+      "longitude": 21.2967,
+      "timezone": "Europe/Belgrade"
+    },
+    {
+      "name": "",
+      "name_en": "Kamenica",
+      "province": "Gjilan",
+      "latitude": 42.5781,
+      "longitude": 21.5803,
+      "timezone": "Europe/Belgrade"
+    },
+    {
+      "name": "",
+      "name_en": "Lipljan",
+      "province": "Pristina",
+      "latitude": 42.5217,
+      "longitude": 21.1258,
+      "timezone": "Europe/Belgrade"
+    },
+    {
+      "name": "",
+      "name_en": "Klina",
+      "province": "Pec",
+      "latitude": 42.6217,
+      "longitude": 20.5778,
+      "timezone": "Europe/Belgrade"
+    },
+    {
+      "name": "",
+      "name_en": "Štrpce",
+      "province": "Ferizaj",
+      "latitude": 42.2394,
+      "longitude": 21.0272,
+      "timezone": "Europe/Belgrade"
+    },
+    {
+      "name": "",
+      "name_en": "Novo Brdo",
+      "province": "Pristina",
+      "latitude": 42.6159,
+      "longitude": 21.434,
+      "timezone": "Europe/Belgrade"
+    },
+    {
+      "name": "",
+      "name_en": "Strellc i Epërm",
+      "province": "Gjakova",
+      "latitude": 42.5784,
+      "longitude": 20.294,
+      "timezone": "Europe/Belgrade"
+    },
+    {
+      "name": "",
+      "name_en": "Mamuša",
+      "province": "Prizren",
+      "latitude": 42.3308,
+      "longitude": 20.7269,
+      "timezone": "Europe/Belgrade"
+    },
+    {
+      "name": "",
+      "name_en": "Isniq",
+      "province": "Gjakova",
+      "latitude": 42.5575,
+      "longitude": 20.3028,
+      "timezone": "Europe/Belgrade"
+    },
+    {
+      "name": "",
+      "name_en": "Srbica",
+      "province": "Mitrovica",
+      "latitude": 42.7467,
+      "longitude": 20.7886,
+      "timezone": "Europe/Belgrade"
+    }
+  ]
+}

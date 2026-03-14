@@ -1,0 +1,278 @@
+{
+  "country_code": "MN",
+  "country_name": "蒙古",
+  "cities": [
+    {
+      "name": "库伦",
+      "name_en": "Ulan Bator",
+      "province": "Ulaanbaatar",
+      "latitude": 47.9077,
+      "longitude": 106.8832,
+      "timezone": "Asia/Ulaanbaatar"
+    },
+    {
+      "name": "额尔登特",
+      "name_en": "Erdenet",
+      "province": "Orhon",
+      "latitude": 49.0333,
+      "longitude": 104.0833,
+      "timezone": "Asia/Ulaanbaatar"
+    },
+    {
+      "name": "达尔汗",
+      "name_en": "Darhan",
+      "province": "Darhan Uul",
+      "latitude": 49.4867,
+      "longitude": 105.9228,
+      "timezone": "Asia/Ulaanbaatar"
+    },
+    {
+      "name": "",
+      "name_en": "Choibalsan",
+      "province": "东方省",
+      "latitude": 48.0726,
+      "longitude": 114.5326,
+      "timezone": "Asia/Ulaanbaatar"
+    },
+    {
+      "name": "",
+      "name_en": "Nalayh",
+      "province": "Ulaanbaatar",
+      "latitude": 47.7667,
+      "longitude": 107.2833,
+      "timezone": "Asia/Ulaanbaatar"
+    },
+    {
+      "name": "",
+      "name_en": "Mörön",
+      "province": "Khövsgöl Province",
+      "latitude": 49.6342,
+      "longitude": 100.1625,
+      "timezone": "Asia/Ulaanbaatar"
+    },
+    {
+      "name": "",
+      "name_en": "Bayanhongor",
+      "province": "Bayanhongor",
+      "latitude": 46.1944,
+      "longitude": 100.7181,
+      "timezone": "Asia/Ulaanbaatar"
+    },
+    {
+      "name": "",
+      "name_en": "Ulaangom",
+      "province": "乌布苏省",
+      "latitude": 49.9811,
+      "longitude": 92.0667,
+      "timezone": "Asia/Hovd"
+    },
+    {
+      "name": "",
+      "name_en": "Khovd",
+      "province": "Hovd",
+      "latitude": 48.0056,
+      "longitude": 91.6419,
+      "timezone": "Asia/Hovd"
+    },
+    {
+      "name": "",
+      "name_en": "Arvayheer",
+      "province": "Övörhangay",
+      "latitude": 46.2639,
+      "longitude": 102.775,
+      "timezone": "Asia/Ulaanbaatar"
+    },
+    {
+      "name": "",
+      "name_en": "Ölgii",
+      "province": "Bayan-Ölgii Province",
+      "latitude": 48.9683,
+      "longitude": 89.9625,
+      "timezone": "Asia/Hovd"
+    },
+    {
+      "name": "",
+      "name_en": "Bogd",
+      "province": "Övörhangay",
+      "latitude": 44.6702,
+      "longitude": 102.1749,
+      "timezone": "Asia/Ulaanbaatar"
+    },
+    {
+      "name": "",
+      "name_en": "Dalandzadgad",
+      "province": "南戈壁省",
+      "latitude": 43.5708,
+      "longitude": 104.425,
+      "timezone": "Asia/Ulaanbaatar"
+    },
+    {
+      "name": "",
+      "name_en": "Sühbaatar",
+      "province": "色楞格省",
+      "latitude": 50.2314,
+      "longitude": 106.2078,
+      "timezone": "Asia/Ulaanbaatar"
+    },
+    {
+      "name": "",
+      "name_en": "Undurkhaan",
+      "province": "Hentiy",
+      "latitude": 47.3194,
+      "longitude": 110.6556,
+      "timezone": "Asia/Ulaanbaatar"
+    },
+    {
+      "name": "车车尔勒格",
+      "name_en": "Tsetserleg",
+      "province": "后杭爱省",
+      "latitude": 47.475,
+      "longitude": 101.4542,
+      "timezone": "Asia/Ulaanbaatar"
+    },
+    {
+      "name": "",
+      "name_en": "Saynshand",
+      "province": "东戈壁省",
+      "latitude": 44.8824,
+      "longitude": 110.1163,
+      "timezone": "Asia/Ulaanbaatar"
+    },
+    {
+      "name": "",
+      "name_en": "Dzüünharaa",
+      "province": "色楞格省",
+      "latitude": 48.8523,
+      "longitude": 106.4579,
+      "timezone": "Asia/Ulaanbaatar"
+    },
+    {
+      "name": "西乌尔特",
+      "name_en": "Baruun-Urt",
+      "province": "Sühbaatar",
+      "latitude": 46.6806,
+      "longitude": 113.2792,
+      "timezone": "Asia/Ulaanbaatar"
+    },
+    {
+      "name": "",
+      "name_en": "Altai",
+      "province": "戈壁阿尔泰省",
+      "latitude": 46.3722,
+      "longitude": 96.2583,
+      "timezone": "Asia/Hovd"
+    },
+    {
+      "name": "布尔干",
+      "name_en": "Bulgan",
+      "province": "布尔干省",
+      "latitude": 48.8125,
+      "longitude": 103.5347,
+      "timezone": "Asia/Ulaanbaatar"
+    },
+    {
+      "name": "",
+      "name_en": "Dzuunmod",
+      "province": "Central Aimak",
+      "latitude": 47.7069,
+      "longitude": 106.9528,
+      "timezone": "Asia/Ulaanbaatar"
+    },
+    {
+      "name": "",
+      "name_en": "Zuunmod",
+      "province": "Central Aimak",
+      "latitude": 47.7069,
+      "longitude": 106.9528,
+      "timezone": "Asia/Ulaanbaatar"
+    },
+    {
+      "name": "乌里雅苏台城",
+      "name_en": "Uliastay",
+      "province": "Dzabkhan",
+      "latitude": 47.7417,
+      "longitude": 96.8444,
+      "timezone": "Asia/Hovd"
+    },
+    {
+      "name": "",
+      "name_en": "Mandalgovi",
+      "province": "Middle Govĭ",
+      "latitude": 45.7625,
+      "longitude": 106.2708,
+      "timezone": "Asia/Ulaanbaatar"
+    },
+    {
+      "name": "",
+      "name_en": "Zamiin Uud",
+      "province": "东戈壁省",
+      "latitude": 43.7193,
+      "longitude": 111.9078,
+      "timezone": "Asia/Ulaanbaatar"
+    },
+    {
+      "name": "",
+      "name_en": "Choyr",
+      "province": "Govĭ-Sumber",
+      "latitude": 46.3611,
+      "longitude": 108.3611,
+      "timezone": "Asia/Ulaanbaatar"
+    },
+    {
+      "name": "",
+      "name_en": "Choyr",
+      "province": "Govĭ-Sumber",
+      "latitude": 46.3611,
+      "longitude": 108.3611,
+      "timezone": "Asia/Ulaanbaatar"
+    },
+    {
+      "name": "",
+      "name_en": "Tosontsengel",
+      "province": "Dzabkhan",
+      "latitude": 48.7567,
+      "longitude": 98.2839,
+      "timezone": "Asia/Hovd"
+    },
+    {
+      "name": "",
+      "name_en": "Kharkhorin",
+      "province": "Övörhangay",
+      "latitude": 47.1925,
+      "longitude": 102.8135,
+      "timezone": "Asia/Ulaanbaatar"
+    },
+    {
+      "name": "",
+      "name_en": "Bor-Öndör",
+      "province": "Hentiy",
+      "latitude": 46.2671,
+      "longitude": 109.4382,
+      "timezone": "Asia/Ulaanbaatar"
+    },
+    {
+      "name": "",
+      "name_en": "Tsengel",
+      "province": "Khövsgöl Province",
+      "latitude": 49.4783,
+      "longitude": 100.8894,
+      "timezone": "Asia/Ulaanbaatar"
+    },
+    {
+      "name": "",
+      "name_en": "Sharïngol",
+      "province": "色楞格省",
+      "latitude": 49.2373,
+      "longitude": 106.43,
+      "timezone": "Asia/Ulaanbaatar"
+    },
+    {
+      "name": "",
+      "name_en": "Hongor",
+      "province": "Darhan Uul",
+      "latitude": 49.2301,
+      "longitude": 105.8967,
+      "timezone": "Asia/Ulaanbaatar"
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "country_code": "CG",
+  "country_name": "刚果共和国",
+  "cities": [
+    {
+      "name": "布拉柴维尔",
+      "name_en": "Brazzaville",
+      "province": "Brazzaville",
+      "latitude": -4.2661,
+      "longitude": 15.2832,
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "name": "",
+      "name_en": "Pointe-Noire",
+      "province": "Pointe-Noire",
+      "latitude": -4.7761,
+      "longitude": 11.8635,
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "name": "多利西",
+      "name_en": "Dolisie",
+      "province": "尼阿里省",
+      "latitude": -4.1983,
+      "longitude": 12.6666,
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "name": "",
+      "name_en": "Nkayi",
+      "province": "布恩扎省",
+      "latitude": -4.184,
+      "longitude": 13.2859,
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "name": "",
+      "name_en": "Kayes",
+      "province": "布恩扎省",
+      "latitude": -4.2049,
+      "longitude": 13.2861,
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "name": "",
+      "name_en": "Impfondo",
+      "province": "利夸拉省",
+      "latitude": 1.618,
+      "longitude": 18.0598,
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "name": "",
+      "name_en": "Ouesso",
+      "province": "桑加省",
+      "latitude": 1.6136,
+      "longitude": 16.0517,
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "name": "",
+      "name_en": "Owando",
+      "province": "盆地省",
+      "latitude": -0.4819,
+      "longitude": 15.8999,
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "name": "",
+      "name_en": "Sibiti",
+      "province": "莱库穆省",
+      "latitude": -3.6819,
+      "longitude": 13.3498,
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "name": "",
+      "name_en": "Loutété",
+      "province": "布恩扎省",
+      "latitude": -4.2961,
+      "longitude": 13.8508,
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "name": "",
+      "name_en": "Bouansa",
+      "province": "布恩扎省",
+      "latitude": -4.2186,
+      "longitude": 13.7617,
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "name": "",
+      "name_en": "Gamboma",
+      "province": "高原省",
+      "latitude": -1.8764,
+      "longitude": 15.8644,
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "name": "",
+      "name_en": "Loandjili",
+      "province": "Pointe-Noire",
+      "latitude": -4.7561,
+      "longitude": 11.8578,
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "name": "",
+      "name_en": "Mossaka",
+      "province": "盆地省",
+      "latitude": -1.2198,
+      "longitude": 16.7992,
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "name": "",
+      "name_en": "Mindouli",
+      "province": "利夸拉省",
+      "latitude": 3.1028,
+      "longitude": 18.5111,
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "name": "",
+      "name_en": "Oyo",
+      "province": "盆地省",
+      "latitude": -1.165,
+      "longitude": 15.97,
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "name": "",
+      "name_en": "Makoua",
+      "province": "盆地省",
+      "latitude": 0.0069,
+      "longitude": 15.6333,
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "name": "",
+      "name_en": "Loudima",
+      "province": "布恩扎省",
+      "latitude": -4.1162,
+      "longitude": 13.0676,
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "name": "",
+      "name_en": "Mossendjo",
+      "province": "尼阿里省",
+      "latitude": -2.9497,
+      "longitude": 12.7042,
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "name": "",
+      "name_en": "Mouyondzi",
+      "province": "布恩扎省",
+      "latitude": -3.9944,
+      "longitude": 13.9272,
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "name": "",
+      "name_en": "Bétou",
+      "province": "利夸拉省",
+      "latitude": 3.055,
+      "longitude": 18.5172,
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "name": "",
+      "name_en": "Djambala",
+      "province": "高原省",
+      "latitude": -2.5447,
+      "longitude": 14.7533,
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "name": "",
+      "name_en": "Pokola",
+      "province": "桑加省",
+      "latitude": 1.405,
+      "longitude": 16.3183,
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "name": "",
+      "name_en": "Ngo",
+      "province": "高原省",
+      "latitude": -2.4872,
+      "longitude": 15.7556,
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "name": "",
+      "name_en": "Makabana",
+      "province": "尼阿里省",
+      "latitude": -3.4633,
+      "longitude": 12.6056,
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "name": "",
+      "name_en": "Kinkala",
+      "province": "普尔省",
+      "latitude": -4.3586,
+      "longitude": 14.7646,
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "name": "",
+      "name_en": "Ewo",
+      "province": "西盆地省",
+      "latitude": -0.8747,
+      "longitude": 14.8165,
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "name": "埃通比",
+      "name_en": "Etoumbi",
+      "province": "盆地省",
+      "latitude": 0.0289,
+      "longitude": 14.9056,
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "name": "",
+      "name_en": "Boundji",
+      "province": "盆地省",
+      "latitude": -1.026,
+      "longitude": 15.3591,
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "name": "",
+      "name_en": "Dongou",
+      "province": "利夸拉省",
+      "latitude": 2.0481,
+      "longitude": 18.0547,
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "name": "",
+      "name_en": "Komono",
+      "province": "莱库穆省",
+      "latitude": -3.2775,
+      "longitude": 13.2261,
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "name": "",
+      "name_en": "Kellé",
+      "province": "西盆地省",
+      "latitude": -0.0654,
+      "longitude": 14.4996,
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "name": "",
+      "name_en": "Enyellé",
+      "province": "利夸拉省",
+      "latitude": 2.8075,
+      "longitude": 18.0117,
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "name": "",
+      "name_en": "Kindamba",
+      "province": "普尔省",
+      "latitude": -3.7275,
+      "longitude": 14.5211,
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "name": "",
+      "name_en": "Nzassi",
+      "province": "Pointe-Noire",
+      "latitude": -4.9811,
+      "longitude": 12.0397,
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "name": "",
+      "name_en": "Olombo",
+      "province": "高原省",
+      "latitude": -1.2653,
+      "longitude": 15.9,
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "name": "",
+      "name_en": "Loukoléla",
+      "province": "盆地省",
+      "latitude": -1.0381,
+      "longitude": 17.1139,
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "name": "",
+      "name_en": "Sémbé",
+      "province": "桑加省",
+      "latitude": 1.6481,
+      "longitude": 14.5806,
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "name": "",
+      "name_en": "Mbinda",
+      "province": "尼阿里省",
+      "latitude": -2.1078,
+      "longitude": 12.8708,
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "name": "",
+      "name_en": "Zanaga",
+      "province": "莱库穆省",
+      "latitude": -2.8503,
+      "longitude": 13.8261,
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "name": "",
+      "name_en": "Ntokou-Raymondville",
+      "province": "盆地省",
+      "latitude": 0.0,
+      "longitude": 16.3908,
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "name": "",
+      "name_en": "Lékana",
+      "province": "高原省",
+      "latitude": -2.3253,
+      "longitude": 14.6,
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "name": "",
+      "name_en": "Mokéko",
+      "province": "桑加省",
+      "latitude": 1.5633,
+      "longitude": 15.9411,
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "name": "",
+      "name_en": "Divenié",
+      "province": "尼阿里省",
+      "latitude": -2.7067,
+      "longitude": 12.0297,
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "name": "",
+      "name_en": "Souanké",
+      "province": "桑加省",
+      "latitude": 2.0597,
+      "longitude": 14.1322,
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "name": "",
+      "name_en": "Madingou",
+      "province": "布恩扎省",
+      "latitude": -4.1536,
+      "longitude": 13.55,
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "name": "",
+      "name_en": "Loango",
+      "province": "奎卢省",
+      "latitude": -4.656,
+      "longitude": 11.8103,
+      "timezone": "Africa/Brazzaville"
+    }
+  ]
+}

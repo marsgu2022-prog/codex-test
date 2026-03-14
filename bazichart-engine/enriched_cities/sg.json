@@ -1,0 +1,766 @@
+{
+  "country_code": "SG",
+  "country_name": "新加坡",
+  "cities": [
+    {
+      "name": "新加坡",
+      "name_en": "Singapore",
+      "province": "",
+      "latitude": 1.2897,
+      "longitude": 103.8501,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "勿洛",
+      "name_en": "Bedok New Town",
+      "province": "",
+      "latitude": 1.3264,
+      "longitude": 103.9417,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Ulu Bedok",
+      "province": "",
+      "latitude": 1.3333,
+      "longitude": 103.9333,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Tampines Estate",
+      "province": "",
+      "latitude": 1.3581,
+      "longitude": 103.9403,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "裕廊",
+      "name_en": "Jurong Town",
+      "province": "",
+      "latitude": 1.3342,
+      "longitude": 103.7228,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "淡滨尼",
+      "name_en": "Tampines New Town",
+      "province": "",
+      "latitude": 1.3492,
+      "longitude": 103.9497,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "裕廊西",
+      "name_en": "Jurong West",
+      "province": "",
+      "latitude": 1.3503,
+      "longitude": 103.7228,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "兀兰",
+      "name_en": "Woodlands",
+      "province": "",
+      "latitude": 1.438,
+      "longitude": 103.7888,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "盛港",
+      "name_en": "Sengkang New Town",
+      "province": "",
+      "latitude": 1.3917,
+      "longitude": 103.8944,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Hougang New Town",
+      "province": "",
+      "latitude": 1.3567,
+      "longitude": 103.8908,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "义顺",
+      "name_en": "Yishun New Town",
+      "province": "",
+      "latitude": 1.4333,
+      "longitude": 103.8311,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "榜鹅",
+      "name_en": "Punggol",
+      "province": "",
+      "latitude": 1.4144,
+      "longitude": 103.9069,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "蔡厝港",
+      "name_en": "Choa Chu Kang New Town",
+      "province": "",
+      "latitude": 1.3825,
+      "longitude": 103.7497,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "宏茂桥",
+      "name_en": "Ang Mo Kio New Town",
+      "province": "",
+      "latitude": 1.3803,
+      "longitude": 103.8397,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "武吉巴督",
+      "name_en": "Bukit Batok New Town",
+      "province": "",
+      "latitude": 1.359,
+      "longitude": 103.7637,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Bukit Merah Estate",
+      "province": "",
+      "latitude": 1.2842,
+      "longitude": 103.8231,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "白沙",
+      "name_en": "Kampong Pasir Ris",
+      "province": "",
+      "latitude": 1.3783,
+      "longitude": 103.9319,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "武吉班让",
+      "name_en": "Bukit Panjang New Town",
+      "province": "",
+      "latitude": 1.3797,
+      "longitude": 103.7647,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Kembangan",
+      "province": "",
+      "latitude": 1.3223,
+      "longitude": 103.9113,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "大巴窑",
+      "name_en": "Toa Payoh New Town",
+      "province": "",
+      "latitude": 1.3361,
+      "longitude": 103.85,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Serangoon",
+      "province": "",
+      "latitude": 1.3628,
+      "longitude": 103.8975,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Serangoon New Town",
+      "province": "",
+      "latitude": 1.3508,
+      "longitude": 103.8708,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "芽笼",
+      "name_en": "Geylang",
+      "province": "",
+      "latitude": 1.3195,
+      "longitude": 103.8869,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "Sanbawang",
+      "name_en": "Sembawang Estate",
+      "province": "",
+      "latitude": 1.4508,
+      "longitude": 103.8286,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "加冷",
+      "name_en": "Kallang",
+      "province": "",
+      "latitude": 1.3333,
+      "longitude": 103.8667,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "女皇镇",
+      "name_en": "Queenstown Estate",
+      "province": "",
+      "latitude": 1.2942,
+      "longitude": 103.8025,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Clementi Housing Estate",
+      "province": "",
+      "latitude": 1.3158,
+      "longitude": 103.7647,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Bishan New Town",
+      "province": "",
+      "latitude": 1.3504,
+      "longitude": 103.8487,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "裕廊东",
+      "name_en": "Jurong East",
+      "province": "",
+      "latitude": 1.3289,
+      "longitude": 103.7399,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "武吉知马",
+      "name_en": "Bukit Timah",
+      "province": "",
+      "latitude": 1.328,
+      "longitude": 103.791,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Pasir Ris New Town",
+      "province": "",
+      "latitude": 1.3722,
+      "longitude": 103.9478,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Matilda Estate",
+      "province": "",
+      "latitude": 1.3994,
+      "longitude": 103.9028,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "诺维娜",
+      "name_en": "Novena",
+      "province": "",
+      "latitude": 1.317,
+      "longitude": 103.8438,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "马林百列",
+      "name_en": "Marine Parade",
+      "province": "",
+      "latitude": 1.3031,
+      "longitude": 103.9078,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "油池",
+      "name_en": "Yew Tee",
+      "province": "",
+      "latitude": 1.3966,
+      "longitude": 103.7474,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Simei New Town",
+      "province": "",
+      "latitude": 1.3411,
+      "longitude": 103.9561,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "吉丰",
+      "name_en": "Keat Hong Village",
+      "province": "",
+      "latitude": 1.3778,
+      "longitude": 103.7442,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Kaki Bukit Estate",
+      "province": "",
+      "latitude": 1.3375,
+      "longitude": 103.9092,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "红砂厘",
+      "name_en": "Serangoon Garden",
+      "province": "",
+      "latitude": 1.3639,
+      "longitude": 103.8575,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Peng Siang",
+      "province": "",
+      "latitude": 1.38,
+      "longitude": 103.7407,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Kangkar",
+      "province": "",
+      "latitude": 1.3761,
+      "longitude": 103.9017,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Jelebu",
+      "province": "",
+      "latitude": 1.3795,
+      "longitude": 103.7629,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "芽笼东",
+      "name_en": "Eunos",
+      "province": "",
+      "latitude": 1.3225,
+      "longitude": 103.8982,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Thomson",
+      "province": "",
+      "latitude": 1.3492,
+      "longitude": 103.8436,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "麦波申",
+      "name_en": "MacPherson",
+      "province": "",
+      "latitude": 1.3271,
+      "longitude": 103.8841,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "杨厝港",
+      "name_en": "Yio Chu Kang",
+      "province": "",
+      "latitude": 1.3911,
+      "longitude": 103.8514,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "法嘉",
+      "name_en": "Fajar",
+      "province": "",
+      "latitude": 1.3844,
+      "longitude": 103.7706,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Hong Kah",
+      "province": "",
+      "latitude": 1.3594,
+      "longitude": 103.7228,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "桑加那",
+      "name_en": "Saujana",
+      "province": "",
+      "latitude": 1.3825,
+      "longitude": 103.7679,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Teck Whye",
+      "province": "",
+      "latitude": 1.3803,
+      "longitude": 103.752,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "玛格烈通道",
+      "name_en": "Margaret Drive",
+      "province": "",
+      "latitude": 1.2968,
+      "longitude": 103.8084,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "信佳",
+      "name_en": "Senja",
+      "province": "",
+      "latitude": 1.3852,
+      "longitude": 103.7607,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "安娜武吉",
+      "name_en": "Anak Bukit",
+      "province": "",
+      "latitude": 1.3407,
+      "longitude": 103.773,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "马西岭",
+      "name_en": "Marsiling",
+      "province": "",
+      "latitude": 1.4325,
+      "longitude": 103.7741,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "东陵",
+      "name_en": "Tanglin",
+      "province": "",
+      "latitude": 1.3167,
+      "longitude": 103.8167,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "万吉",
+      "name_en": "Bangkit",
+      "province": "",
+      "latitude": 1.3798,
+      "longitude": 103.7725,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "新邦",
+      "name_en": "Sungai Simpang",
+      "province": "",
+      "latitude": 1.4381,
+      "longitude": 103.8267,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Brickworks Estate",
+      "province": "",
+      "latitude": 1.2872,
+      "longitude": 103.8083,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "直落布兰雅",
+      "name_en": "Telok Blangah",
+      "province": "",
+      "latitude": 1.2747,
+      "longitude": 103.8117,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "文礼/文礼",
+      "name_en": "Boon Lay",
+      "province": "",
+      "latitude": 1.311,
+      "longitude": 103.694,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Outram Park",
+      "province": "",
+      "latitude": 1.2825,
+      "longitude": 103.8381,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Paya Lebar",
+      "province": "",
+      "latitude": 1.3539,
+      "longitude": 103.8906,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "洛阳",
+      "name_en": "Kampong Loyang",
+      "province": "",
+      "latitude": 1.3778,
+      "longitude": 103.9594,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Loyang",
+      "province": "",
+      "latitude": 1.3786,
+      "longitude": 103.9717,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Tiong Bahru Estate",
+      "province": "",
+      "latitude": 1.2833,
+      "longitude": 103.8328,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Bukit Ho Swee Estate",
+      "province": "",
+      "latitude": 1.2878,
+      "longitude": 103.83,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Admiralty",
+      "province": "",
+      "latitude": 1.4407,
+      "longitude": 103.8009,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Tai Seng",
+      "province": "",
+      "latitude": 1.3361,
+      "longitude": 103.9036,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Alexandra Estate",
+      "province": "",
+      "latitude": 1.2939,
+      "longitude": 103.8197,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Henderson Estate",
+      "province": "",
+      "latitude": 1.2892,
+      "longitude": 103.8233,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "锦茂",
+      "name_en": "Ghim Moh",
+      "province": "",
+      "latitude": 1.3111,
+      "longitude": 103.7878,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Rochor",
+      "province": "",
+      "latitude": 1.3041,
+      "longitude": 103.8524,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Holland Drive",
+      "province": "",
+      "latitude": 1.31,
+      "longitude": 103.7929,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "乌美",
+      "name_en": "Kampong Ubi",
+      "province": "",
+      "latitude": 1.3167,
+      "longitude": 103.9,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Kampong Potong Pasir",
+      "province": "",
+      "latitude": 1.3333,
+      "longitude": 103.8667,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Woodlands North Coast",
+      "province": "",
+      "latitude": 1.451,
+      "longitude": 103.7837,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "杜弗",
+      "name_en": "Dover",
+      "province": "",
+      "latitude": 1.3046,
+      "longitude": 103.7803,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Kampong Ulu Pandan",
+      "province": "",
+      "latitude": 1.3461,
+      "longitude": 103.745,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Pandan Valley",
+      "province": "",
+      "latitude": 1.3183,
+      "longitude": 103.7758,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Holland Village",
+      "province": "",
+      "latitude": 1.3119,
+      "longitude": 103.7933,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "联邦",
+      "name_en": "Tanglin Halt",
+      "province": "",
+      "latitude": 1.3014,
+      "longitude": 103.7975,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Kampong Java Teban",
+      "province": "",
+      "latitude": 1.3333,
+      "longitude": 103.7333,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "里峇峇利",
+      "name_en": "River Valley",
+      "province": "",
+      "latitude": 1.2961,
+      "longitude": 103.8361,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Braddell Heights Estate",
+      "province": "",
+      "latitude": 1.3453,
+      "longitude": 103.8653,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Lavender",
+      "province": "",
+      "latitude": 1.3072,
+      "longitude": 103.863,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Hillcrest Park",
+      "province": "",
+      "latitude": 1.3347,
+      "longitude": 103.8092,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Bulim",
+      "province": "",
+      "latitude": 1.3744,
+      "longitude": 103.7178,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Newton",
+      "province": "",
+      "latitude": 1.309,
+      "longitude": 103.8376,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "牛乳场",
+      "name_en": "Dairy Farm",
+      "province": "",
+      "latitude": 1.3664,
+      "longitude": 103.7745,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Lucky Hills",
+      "province": "",
+      "latitude": 1.3256,
+      "longitude": 103.9528,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Sennett Estate",
+      "province": "",
+      "latitude": 1.3319,
+      "longitude": 103.8717,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "西海岸",
+      "name_en": "West Coast Village",
+      "province": "",
+      "latitude": 1.3167,
+      "longitude": 103.75,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Sembawang Hills Estate",
+      "province": "",
+      "latitude": 1.3728,
+      "longitude": 103.8303,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Leedon Park",
+      "province": "",
+      "latitude": 1.3169,
+      "longitude": 103.7942,
+      "timezone": "Asia/Singapore"
+    },
+    {
+      "name": "",
+      "name_en": "Faber Hills",
+      "province": "",
+      "latitude": 1.3208,
+      "longitude": 103.7597,
+      "timezone": "Asia/Singapore"
+    }
+  ]
+}

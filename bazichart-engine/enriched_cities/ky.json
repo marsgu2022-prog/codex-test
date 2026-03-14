@@ -1,0 +1,366 @@
+{
+  "country_code": "KY",
+  "country_name": "开曼群岛",
+  "cities": [
+    {
+      "name": "乔治敦",
+      "name_en": "George Town",
+      "province": "George Town",
+      "latitude": 19.2866,
+      "longitude": -81.3744,
+      "timezone": "America/Cayman"
+    },
+    {
+      "name": "",
+      "name_en": "West Bay",
+      "province": "West Bay",
+      "latitude": 19.382,
+      "longitude": -81.3928,
+      "timezone": "America/Cayman"
+    },
+    {
+      "name": "",
+      "name_en": "Bodden Town",
+      "province": "Bodden Town",
+      "latitude": 19.2765,
+      "longitude": -81.2542,
+      "timezone": "America/Cayman"
+    },
+    {
+      "name": "",
+      "name_en": "Channel Land",
+      "province": "",
+      "latitude": 19.3437,
+      "longitude": -81.2176,
+      "timezone": "America/Cayman"
+    },
+    {
+      "name": "",
+      "name_en": "Midland Acres",
+      "province": "",
+      "latitude": 19.2986,
+      "longitude": -81.2206,
+      "timezone": "America/Cayman"
+    },
+    {
+      "name": "",
+      "name_en": "Further Ground",
+      "province": "",
+      "latitude": 19.3415,
+      "longitude": -81.199,
+      "timezone": "America/Cayman"
+    },
+    {
+      "name": "",
+      "name_en": "The Mountain",
+      "province": "",
+      "latitude": 19.3309,
+      "longitude": -81.199,
+      "timezone": "America/Cayman"
+    },
+    {
+      "name": "",
+      "name_en": "North Sound Estates",
+      "province": "",
+      "latitude": 19.293,
+      "longitude": -81.3024,
+      "timezone": "America/Cayman"
+    },
+    {
+      "name": "",
+      "name_en": "Breakers",
+      "province": "",
+      "latitude": 19.2961,
+      "longitude": -81.1984,
+      "timezone": "America/Cayman"
+    },
+    {
+      "name": "",
+      "name_en": "Frank Sound",
+      "province": "",
+      "latitude": 19.3024,
+      "longitude": -81.1819,
+      "timezone": "America/Cayman"
+    },
+    {
+      "name": "",
+      "name_en": "Whitehall Estates",
+      "province": "",
+      "latitude": 19.3131,
+      "longitude": -81.3821,
+      "timezone": "America/Cayman"
+    },
+    {
+      "name": "",
+      "name_en": "North Ward",
+      "province": "",
+      "latitude": 19.2844,
+      "longitude": -81.2705,
+      "timezone": "America/Cayman"
+    },
+    {
+      "name": "",
+      "name_en": "Pedro",
+      "province": "",
+      "latitude": 19.2758,
+      "longitude": -81.2749,
+      "timezone": "America/Cayman"
+    },
+    {
+      "name": "",
+      "name_en": "Lower Valley",
+      "province": "",
+      "latitude": 19.2804,
+      "longitude": -81.2843,
+      "timezone": "America/Cayman"
+    },
+    {
+      "name": "",
+      "name_en": "Brinkleys",
+      "province": "",
+      "latitude": 19.3491,
+      "longitude": -81.2409,
+      "timezone": "America/Cayman"
+    },
+    {
+      "name": "",
+      "name_en": "Driftwood Village",
+      "province": "",
+      "latitude": 19.3534,
+      "longitude": -81.2465,
+      "timezone": "America/Cayman"
+    },
+    {
+      "name": "",
+      "name_en": "Hutland",
+      "province": "",
+      "latitude": 19.3492,
+      "longitude": -81.2135,
+      "timezone": "America/Cayman"
+    },
+    {
+      "name": "",
+      "name_en": "Old Man Bay",
+      "province": "",
+      "latitude": 19.3442,
+      "longitude": -81.1765,
+      "timezone": "America/Cayman"
+    },
+    {
+      "name": "",
+      "name_en": "Newlands",
+      "province": "",
+      "latitude": 19.2854,
+      "longitude": -81.302,
+      "timezone": "America/Cayman"
+    },
+    {
+      "name": "",
+      "name_en": "Savannah Acres",
+      "province": "",
+      "latitude": 19.2802,
+      "longitude": -81.3,
+      "timezone": "America/Cayman"
+    },
+    {
+      "name": "",
+      "name_en": "Ally Land",
+      "province": "",
+      "latitude": 19.341,
+      "longitude": -81.1194,
+      "timezone": "America/Cayman"
+    },
+    {
+      "name": "",
+      "name_en": "Cayman Palms",
+      "province": "",
+      "latitude": 19.2776,
+      "longitude": -81.2699,
+      "timezone": "America/Cayman"
+    },
+    {
+      "name": "",
+      "name_en": "Saint James",
+      "province": "",
+      "latitude": 19.2671,
+      "longitude": -81.2889,
+      "timezone": "America/Cayman"
+    },
+    {
+      "name": "",
+      "name_en": "Savannah",
+      "province": "",
+      "latitude": 19.2806,
+      "longitude": -81.2987,
+      "timezone": "America/Cayman"
+    },
+    {
+      "name": "",
+      "name_en": "Omega Gardens",
+      "province": "",
+      "latitude": 19.2924,
+      "longitude": -81.3268,
+      "timezone": "America/Cayman"
+    },
+    {
+      "name": "",
+      "name_en": "Belford Estates",
+      "province": "",
+      "latitude": 19.2847,
+      "longitude": -81.2464,
+      "timezone": "America/Cayman"
+    },
+    {
+      "name": "",
+      "name_en": "Pease Bay",
+      "province": "",
+      "latitude": 19.2878,
+      "longitude": -81.2417,
+      "timezone": "America/Cayman"
+    },
+    {
+      "name": "",
+      "name_en": "Prospect Park",
+      "province": "",
+      "latitude": 19.2807,
+      "longitude": -81.3302,
+      "timezone": "America/Cayman"
+    },
+    {
+      "name": "",
+      "name_en": "Spotts",
+      "province": "",
+      "latitude": 19.2742,
+      "longitude": -81.3126,
+      "timezone": "America/Cayman"
+    },
+    {
+      "name": "",
+      "name_en": "Red Bay Estate",
+      "province": "",
+      "latitude": 19.2872,
+      "longitude": -81.3413,
+      "timezone": "America/Cayman"
+    },
+    {
+      "name": "",
+      "name_en": "Tropical Gardens",
+      "province": "",
+      "latitude": 19.2912,
+      "longitude": -81.3489,
+      "timezone": "America/Cayman"
+    },
+    {
+      "name": "",
+      "name_en": "Prospect",
+      "province": "",
+      "latitude": 19.2797,
+      "longitude": -81.3328,
+      "timezone": "America/Cayman"
+    },
+    {
+      "name": "",
+      "name_en": "Breezy Castle",
+      "province": "",
+      "latitude": 19.2961,
+      "longitude": -81.3607,
+      "timezone": "America/Cayman"
+    },
+    {
+      "name": "",
+      "name_en": "Rock Hole",
+      "province": "",
+      "latitude": 19.2998,
+      "longitude": -81.3781,
+      "timezone": "America/Cayman"
+    },
+    {
+      "name": "",
+      "name_en": "Gun Bay",
+      "province": "",
+      "latitude": 19.3108,
+      "longitude": -81.092,
+      "timezone": "America/Cayman"
+    },
+    {
+      "name": "",
+      "name_en": "Half Moon Bay",
+      "province": "",
+      "latitude": 19.2969,
+      "longitude": -81.151,
+      "timezone": "America/Cayman"
+    },
+    {
+      "name": "",
+      "name_en": "Dog City",
+      "province": "",
+      "latitude": 19.308,
+      "longitude": -81.3822,
+      "timezone": "America/Cayman"
+    },
+    {
+      "name": "",
+      "name_en": "Half Way Pond",
+      "province": "",
+      "latitude": 19.2869,
+      "longitude": -81.3721,
+      "timezone": "America/Cayman"
+    },
+    {
+      "name": "",
+      "name_en": "Blakes",
+      "province": "",
+      "latitude": 19.3034,
+      "longitude": -81.0975,
+      "timezone": "America/Cayman"
+    },
+    {
+      "name": "",
+      "name_en": "High Rock",
+      "province": "",
+      "latitude": 19.2947,
+      "longitude": -81.132,
+      "timezone": "America/Cayman"
+    },
+    {
+      "name": "",
+      "name_en": "High Rock Estates",
+      "province": "",
+      "latitude": 19.2987,
+      "longitude": -81.1465,
+      "timezone": "America/Cayman"
+    },
+    {
+      "name": "",
+      "name_en": "Upper Land",
+      "province": "",
+      "latitude": 19.3626,
+      "longitude": -81.387,
+      "timezone": "America/Cayman"
+    },
+    {
+      "name": "",
+      "name_en": "North Side",
+      "province": "North Side",
+      "latitude": 19.3514,
+      "longitude": -81.2085,
+      "timezone": "America/Cayman"
+    },
+    {
+      "name": "",
+      "name_en": "East End",
+      "province": "East End",
+      "latitude": 19.3,
+      "longitude": -81.1167,
+      "timezone": "America/Cayman"
+    },
+    {
+      "name": "",
+      "name_en": "Little Cayman",
+      "province": "Sister Island",
+      "latitude": 19.6611,
+      "longitude": -80.1098,
+      "timezone": "America/Cayman"
+    }
+  ]
+}

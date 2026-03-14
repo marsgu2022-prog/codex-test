@@ -1,0 +1,510 @@
+{
+  "country_code": "MD",
+  "country_name": "摩尔多瓦",
+  "cities": [
+    {
+      "name": "基希讷乌",
+      "name_en": "Chisinau",
+      "province": "Chișinău Municipality",
+      "latitude": 47.009,
+      "longitude": 28.8594,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "蒂拉斯波尔",
+      "name_en": "Tiraspol",
+      "province": "德涅斯特河沿岸自治领土单位",
+      "latitude": 46.8428,
+      "longitude": 29.6284,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "",
+      "name_en": "Bălţi",
+      "province": "Bălţi",
+      "latitude": 47.7629,
+      "longitude": 27.9285,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "宾杰里",
+      "name_en": "Bender",
+      "province": "Bender Municipality",
+      "latitude": 46.8316,
+      "longitude": 29.4767,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "勒布尼察",
+      "name_en": "Rîbniţa",
+      "province": "德涅斯特河沿岸自治领土单位",
+      "latitude": 47.7682,
+      "longitude": 29.01,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "卡胡尔",
+      "name_en": "Cahul",
+      "province": "卡胡尔区",
+      "latitude": 45.9046,
+      "longitude": 28.1952,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "温格内",
+      "name_en": "Ungheni",
+      "province": "温格内区",
+      "latitude": 47.2102,
+      "longitude": 27.8001,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "",
+      "name_en": "Soroca",
+      "province": "索罗卡区",
+      "latitude": 48.1566,
+      "longitude": 28.2849,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "",
+      "name_en": "Durleşti",
+      "province": "Chișinău Municipality",
+      "latitude": 47.0216,
+      "longitude": 28.763,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "奥尔海伊",
+      "name_en": "Orhei",
+      "province": "奥尔海伊区",
+      "latitude": 47.385,
+      "longitude": 28.8254,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "杜伯萨里",
+      "name_en": "Dubăsari",
+      "province": "德涅斯特河沿岸自治领土单位",
+      "latitude": 47.2656,
+      "longitude": 29.1667,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "科姆拉茨",
+      "name_en": "Comrat",
+      "province": "加告兹自治区",
+      "latitude": 46.2949,
+      "longitude": 28.6571,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "",
+      "name_en": "Edineţ",
+      "province": "Raionul Edineţ",
+      "latitude": 48.1732,
+      "longitude": 27.3008,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "",
+      "name_en": "Ceadîr-Lunga",
+      "province": "加告兹自治区",
+      "latitude": 46.0617,
+      "longitude": 28.8308,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "克乌谢尼",
+      "name_en": "Căuşeni",
+      "province": "Căuşeni",
+      "latitude": 46.6374,
+      "longitude": 29.4109,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "",
+      "name_en": "Strășeni",
+      "province": "斯特勒谢尼区",
+      "latitude": 47.1422,
+      "longitude": 28.6077,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "",
+      "name_en": "Hînceşti",
+      "province": "亨切什蒂区",
+      "latitude": 46.8309,
+      "longitude": 28.59,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "",
+      "name_en": "Floreşti",
+      "province": "弗洛雷什蒂区",
+      "latitude": 47.8917,
+      "longitude": 28.2934,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "",
+      "name_en": "Drochia",
+      "province": "Drochia",
+      "latitude": 48.0369,
+      "longitude": 27.8124,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "",
+      "name_en": "Codru",
+      "province": "Chișinău Municipality",
+      "latitude": 46.9765,
+      "longitude": 28.819,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "",
+      "name_en": "Bilicenii Vechi",
+      "province": "森杰雷区",
+      "latitude": 47.6558,
+      "longitude": 28.0473,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "斯洛博齐亚",
+      "name_en": "Slobozia",
+      "province": "德涅斯特河沿岸自治领土单位",
+      "latitude": 46.7293,
+      "longitude": 29.7045,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "",
+      "name_en": "Ialoveni",
+      "province": "亚洛韦尼区",
+      "latitude": 46.9436,
+      "longitude": 28.7815,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "",
+      "name_en": "Sîngerei",
+      "province": "森杰雷区",
+      "latitude": 47.6369,
+      "longitude": 28.1407,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "",
+      "name_en": "Fălești",
+      "province": "弗莱什蒂区",
+      "latitude": 47.5767,
+      "longitude": 27.7126,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "",
+      "name_en": "Vulcăneşti",
+      "province": "加告兹自治区",
+      "latitude": 45.6849,
+      "longitude": 28.4061,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "",
+      "name_en": "Leova",
+      "province": "莱奥瓦区",
+      "latitude": 46.4819,
+      "longitude": 28.253,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "",
+      "name_en": "Briceni",
+      "province": "栋杜谢尼区",
+      "latitude": 48.3563,
+      "longitude": 27.7029,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "",
+      "name_en": "Călăraşi",
+      "province": "Călăraşi",
+      "latitude": 47.2555,
+      "longitude": 28.3095,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "",
+      "name_en": "Taraclia",
+      "province": "塔拉克利亚区",
+      "latitude": 45.9032,
+      "longitude": 28.6663,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "",
+      "name_en": "Congaz",
+      "province": "加告兹自治区",
+      "latitude": 46.1074,
+      "longitude": 28.593,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "",
+      "name_en": "Rîşcani",
+      "province": "雷什卡内区",
+      "latitude": 47.9483,
+      "longitude": 27.5667,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "",
+      "name_en": "Cimişlia",
+      "province": "奇米什利亚区",
+      "latitude": 46.5263,
+      "longitude": 28.7649,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "",
+      "name_en": "Nisporeni",
+      "province": "尼斯波雷尼区",
+      "latitude": 47.0802,
+      "longitude": 28.171,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "卡门卡",
+      "name_en": "Camenca",
+      "province": "德涅斯特河沿岸自治领土单位",
+      "latitude": 48.0323,
+      "longitude": 28.699,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "巴萨拉贝亚斯卡",
+      "name_en": "Basarabeasca",
+      "province": "巴萨拉贝亚斯卡区",
+      "latitude": 46.3335,
+      "longitude": 28.9616,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "德涅斯特罗夫斯克",
+      "name_en": "Dnestrovsc",
+      "province": "德涅斯特河沿岸自治领土单位",
+      "latitude": 46.624,
+      "longitude": 29.906,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "",
+      "name_en": "Glodeni",
+      "province": "格洛代尼区",
+      "latitude": 47.7747,
+      "longitude": 27.5175,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "",
+      "name_en": "Dancu",
+      "province": "亨切什蒂区",
+      "latitude": 46.7582,
+      "longitude": 28.2072,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "",
+      "name_en": "Briceni",
+      "province": "布里切尼区",
+      "latitude": 48.3563,
+      "longitude": 27.7029,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "",
+      "name_en": "Rezina",
+      "province": "雷济纳区",
+      "latitude": 47.7486,
+      "longitude": 28.9677,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "格里戈里奥波尔",
+      "name_en": "Hryhoriopol",
+      "province": "德涅斯特河沿岸自治领土单位",
+      "latitude": 47.1541,
+      "longitude": 29.3001,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "",
+      "name_en": "Donduşeni",
+      "province": "栋杜谢尼区",
+      "latitude": 48.2427,
+      "longitude": 27.6101,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "",
+      "name_en": "Ocniţa",
+      "province": "Raionul Ocniţa",
+      "latitude": 48.3823,
+      "longitude": 27.4386,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "",
+      "name_en": "Mîndreşti",
+      "province": "泰莱内什蒂区",
+      "latitude": 47.5052,
+      "longitude": 28.2769,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "",
+      "name_en": "Chiţcani",
+      "province": "Căuşeni",
+      "latitude": 46.783,
+      "longitude": 29.6168,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "",
+      "name_en": "Otaci",
+      "province": "Raionul Ocniţa",
+      "latitude": 48.4329,
+      "longitude": 27.7991,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "",
+      "name_en": "Anenii Noi",
+      "province": "新阿内尼区",
+      "latitude": 46.8779,
+      "longitude": 29.235,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "",
+      "name_en": "Ştefan Vodă",
+      "province": "Ştefan-Vodă",
+      "latitude": 46.5129,
+      "longitude": 29.6622,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "",
+      "name_en": "Cricova",
+      "province": "Chișinău Municipality",
+      "latitude": 47.1384,
+      "longitude": 28.8616,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "",
+      "name_en": "Pervomaisc",
+      "province": "德涅斯特河沿岸自治领土单位",
+      "latitude": 46.7325,
+      "longitude": 29.9617,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "",
+      "name_en": "Blijnii Hutor",
+      "province": "德涅斯特河沿岸自治领土单位",
+      "latitude": 46.8875,
+      "longitude": 29.6465,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "",
+      "name_en": "Sîngera",
+      "province": "Chișinău Municipality",
+      "latitude": 46.9156,
+      "longitude": 28.9667,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "",
+      "name_en": "Criuleni",
+      "province": "克留莱尼区",
+      "latitude": 47.2134,
+      "longitude": 29.1585,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "",
+      "name_en": "Ciorescu",
+      "province": "Chișinău Municipality",
+      "latitude": 47.13,
+      "longitude": 28.8894,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "",
+      "name_en": "Teleneşti",
+      "province": "泰莱内什蒂区",
+      "latitude": 47.5018,
+      "longitude": 28.3648,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "",
+      "name_en": "Şoldăneşti",
+      "province": "绍尔德内什蒂区",
+      "latitude": 47.8162,
+      "longitude": 28.7984,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "",
+      "name_en": "Tvardița",
+      "province": "塔拉克利亚区",
+      "latitude": 46.1483,
+      "longitude": 28.9649,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "",
+      "name_en": "Stăuceni",
+      "province": "Chișinău Municipality",
+      "latitude": 47.0964,
+      "longitude": 28.8679,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "亚尔加拉",
+      "name_en": "Iargara",
+      "province": "冈代米尔区",
+      "latitude": 46.4252,
+      "longitude": 28.4268,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "瓦杜尔卢伊沃代",
+      "name_en": "Vadul lui Vodă",
+      "province": "Chișinău Municipality",
+      "latitude": 47.0901,
+      "longitude": 29.0757,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "",
+      "name_en": "Cocieri",
+      "province": "杜伯萨里区",
+      "latitude": 47.3017,
+      "longitude": 29.1176,
+      "timezone": "Europe/Chisinau"
+    },
+    {
+      "name": "",
+      "name_en": "Cantemir",
+      "province": "冈代米尔区",
+      "latitude": 46.2775,
+      "longitude": 28.2005,
+      "timezone": "Europe/Chisinau"
+    }
+  ]
+}

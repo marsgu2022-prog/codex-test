@@ -1,0 +1,1110 @@
+{
+  "country_code": "BG",
+  "country_name": "保加利亚",
+  "cities": [
+    {
+      "name": "索菲亚",
+      "name_en": "Sofia",
+      "province": "Sofia-Capital",
+      "latitude": 42.6975,
+      "longitude": 23.3241,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "普罗夫迪夫",
+      "name_en": "Plovdiv",
+      "province": "Plovdiv",
+      "latitude": 42.1539,
+      "longitude": 24.75,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "瓦尔纳",
+      "name_en": "Varna",
+      "province": "Varna",
+      "latitude": 43.2191,
+      "longitude": 27.9102,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "布尔加斯",
+      "name_en": "Burgas",
+      "province": "Burgas",
+      "latitude": 42.5065,
+      "longitude": 27.4689,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "旧扎戈拉",
+      "name_en": "Stara Zagora",
+      "province": "Stara Zagora",
+      "latitude": 42.432,
+      "longitude": 25.6426,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "鲁塞",
+      "name_en": "Ruse",
+      "province": "Ruse",
+      "latitude": 43.8487,
+      "longitude": 25.9534,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "普列文",
+      "name_en": "Pleven",
+      "province": "Pleven",
+      "latitude": 43.4179,
+      "longitude": 24.6167,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "斯利文",
+      "name_en": "Sliven",
+      "province": "Sliven",
+      "latitude": 42.6861,
+      "longitude": 26.3256,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "佩尔尼克",
+      "name_en": "Pernik",
+      "province": "Pernik",
+      "latitude": 42.5967,
+      "longitude": 23.0332,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Shumen",
+      "province": "Shumen",
+      "latitude": 43.2706,
+      "longitude": 26.9229,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "多布里奇",
+      "name_en": "Dobrich",
+      "province": "Dobrich",
+      "latitude": 43.5649,
+      "longitude": 27.8314,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "布拉戈耶夫格勒",
+      "name_en": "Blagoevgrad",
+      "province": "Blagoevgrad",
+      "latitude": 42.0146,
+      "longitude": 23.098,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "哈斯科沃",
+      "name_en": "Haskovo",
+      "province": "Haskovo",
+      "latitude": 41.9342,
+      "longitude": 25.5556,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Yambol",
+      "province": "Yambol",
+      "latitude": 42.4824,
+      "longitude": 26.5001,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Veliko Tŭrnovo",
+      "province": "Veliko Tarnovo",
+      "latitude": 43.0812,
+      "longitude": 25.629,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "帕扎尔吉克",
+      "name_en": "Pazardzhik",
+      "province": "Pazardzhik",
+      "latitude": 42.1993,
+      "longitude": 24.3332,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Asenovgrad",
+      "province": "Plovdiv",
+      "latitude": 42.0167,
+      "longitude": 24.8667,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "弗拉察",
+      "name_en": "Vratsa",
+      "province": "Vratsa",
+      "latitude": 43.2105,
+      "longitude": 23.5631,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "加布罗沃",
+      "name_en": "Gabrovo",
+      "province": "加布罗沃州",
+      "latitude": 42.8742,
+      "longitude": 25.3182,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Kazanlak",
+      "province": "Stara Zagora",
+      "latitude": 42.6167,
+      "longitude": 25.4,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "蒙塔纳",
+      "name_en": "Montana",
+      "province": "Montana",
+      "latitude": 43.4128,
+      "longitude": 23.2217,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Kyustendil",
+      "province": "Kyustendil",
+      "latitude": 42.2831,
+      "longitude": 22.6922,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "克尔贾利",
+      "name_en": "Kardzhali",
+      "province": "Kardzhali",
+      "latitude": 41.645,
+      "longitude": 25.3658,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "季米特洛夫格勒",
+      "name_en": "Dimitrovgrad",
+      "province": "Haskovo",
+      "latitude": 42.05,
+      "longitude": 25.6,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "维丁",
+      "name_en": "Vidin",
+      "province": "Vidin",
+      "latitude": 43.9916,
+      "longitude": 22.8824,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "特尔戈维什特",
+      "name_en": "Targovishte",
+      "province": "Targovishte",
+      "latitude": 43.2512,
+      "longitude": 26.5722,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "杜普尼察",
+      "name_en": "Dupnitsa",
+      "province": "Kyustendil",
+      "latitude": 42.2648,
+      "longitude": 23.1172,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Gorna Oryahovitsa",
+      "province": "Veliko Tarnovo",
+      "latitude": 43.1278,
+      "longitude": 25.7017,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "佩特里奇",
+      "name_en": "Petrich",
+      "province": "Blagoevgrad",
+      "latitude": 41.3985,
+      "longitude": 23.207,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Smolyan",
+      "province": "Smolyan",
+      "latitude": 41.5744,
+      "longitude": 24.712,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "卡尔洛沃",
+      "name_en": "Karlovo",
+      "province": "Plovdiv",
+      "latitude": 42.6333,
+      "longitude": 24.8,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Svishtov",
+      "province": "Veliko Tarnovo",
+      "latitude": 43.6187,
+      "longitude": 25.3503,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "锡利斯特拉",
+      "name_en": "Silistra",
+      "province": "Silistra",
+      "latitude": 44.1171,
+      "longitude": 27.2606,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "拉兹格勒",
+      "name_en": "Razgrad",
+      "province": "Razgrad",
+      "latitude": 43.5333,
+      "longitude": 26.5185,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Sandanski",
+      "province": "Blagoevgrad",
+      "latitude": 41.5667,
+      "longitude": 23.2833,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "洛维奇",
+      "name_en": "Lovech",
+      "province": "Lovech",
+      "latitude": 43.1323,
+      "longitude": 24.7176,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Asparuhovo",
+      "province": "Varna",
+      "latitude": 43.1807,
+      "longitude": 27.8882,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Samokov",
+      "province": "索菲亚州",
+      "latitude": 42.3385,
+      "longitude": 23.5581,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Sevlievo",
+      "province": "加布罗沃州",
+      "latitude": 43.023,
+      "longitude": 25.1036,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "新扎戈拉",
+      "name_en": "Nova Zagora",
+      "province": "Sliven",
+      "latitude": 42.4833,
+      "longitude": 26.0167,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "特罗扬市",
+      "name_en": "Troyan",
+      "province": "Lovech",
+      "latitude": 42.8943,
+      "longitude": 24.7159,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Aytos",
+      "province": "Burgas",
+      "latitude": 42.7032,
+      "longitude": 27.2546,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Botevgrad",
+      "province": "索菲亚州",
+      "latitude": 42.908,
+      "longitude": 23.7927,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "戈采代尔切夫",
+      "name_en": "Gotse Delchev",
+      "province": "Blagoevgrad",
+      "latitude": 41.5667,
+      "longitude": 23.7333,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "韦林格勒",
+      "name_en": "Velingrad",
+      "province": "Pazardzhik",
+      "latitude": 42.0275,
+      "longitude": 23.9916,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Karnobat",
+      "province": "Burgas",
+      "latitude": 42.65,
+      "longitude": 26.9833,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Panagyurishte",
+      "province": "Pazardzhik",
+      "latitude": 42.4952,
+      "longitude": 24.1902,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Harmanli",
+      "province": "Haskovo",
+      "latitude": 41.9323,
+      "longitude": 25.9017,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Peshtera",
+      "province": "Pazardzhik",
+      "latitude": 42.0337,
+      "longitude": 24.2999,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Lom",
+      "province": "Montana",
+      "latitude": 43.8317,
+      "longitude": 23.2379,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Parvomay",
+      "province": "Plovdiv",
+      "latitude": 42.1,
+      "longitude": 25.2167,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Svilengrad",
+      "province": "Haskovo",
+      "latitude": 41.7684,
+      "longitude": 26.1977,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "波波沃",
+      "name_en": "Popovo",
+      "province": "Targovishte",
+      "latitude": 43.35,
+      "longitude": 26.2333,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Rakovski",
+      "province": "Plovdiv",
+      "latitude": 42.2882,
+      "longitude": 24.9678,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Chirpan",
+      "province": "Stara Zagora",
+      "latitude": 42.2,
+      "longitude": 25.3333,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "贝尔科维察市",
+      "name_en": "Berkovitsa",
+      "province": "Montana",
+      "latitude": 43.2374,
+      "longitude": 23.1251,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Radnevo",
+      "province": "Stara Zagora",
+      "latitude": 42.3,
+      "longitude": 25.9333,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "拉多米尔",
+      "name_en": "Radomir",
+      "province": "Pernik",
+      "latitude": 42.5457,
+      "longitude": 22.9655,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Ihtiman",
+      "province": "索菲亚州",
+      "latitude": 42.4382,
+      "longitude": 23.8161,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "特里亚夫纳",
+      "name_en": "Tryavna",
+      "province": "加布罗沃州",
+      "latitude": 42.8667,
+      "longitude": 25.5,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Provadia",
+      "province": "Varna",
+      "latitude": 43.1833,
+      "longitude": 27.4333,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "波摩莱",
+      "name_en": "Pomorie",
+      "province": "Burgas",
+      "latitude": 42.5633,
+      "longitude": 27.6299,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "内塞伯尔",
+      "name_en": "Nesebar",
+      "province": "Burgas",
+      "latitude": 42.6592,
+      "longitude": 27.736,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Novi Pazar",
+      "province": "Shumen",
+      "latitude": 43.35,
+      "longitude": 27.2,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Balchik",
+      "province": "Dobrich",
+      "latitude": 43.4217,
+      "longitude": 28.1585,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Cherven Bryag",
+      "province": "Pleven",
+      "latitude": 43.2788,
+      "longitude": 24.0825,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "拉兹洛格",
+      "name_en": "Razlog",
+      "province": "Blagoevgrad",
+      "latitude": 41.8863,
+      "longitude": 23.4671,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Kostinbrod",
+      "province": "索菲亚州",
+      "latitude": 42.8167,
+      "longitude": 23.2167,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Stamboliyski",
+      "province": "Plovdiv",
+      "latitude": 42.1333,
+      "longitude": 24.5333,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "梅兹德拉",
+      "name_en": "Mezdra",
+      "province": "Vratsa",
+      "latitude": 43.15,
+      "longitude": 23.7,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Levski",
+      "province": "Pleven",
+      "latitude": 43.3667,
+      "longitude": 25.1333,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "科兹洛杜伊",
+      "name_en": "Kozloduy",
+      "province": "Vratsa",
+      "latitude": 43.7769,
+      "longitude": 23.73,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Kavarna",
+      "province": "Dobrich",
+      "latitude": 43.436,
+      "longitude": 28.3395,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "帕夫利凯尼",
+      "name_en": "Pavlikeni",
+      "province": "Veliko Tarnovo",
+      "latitude": 43.2428,
+      "longitude": 25.3219,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "埃特罗波莱",
+      "name_en": "Etropole",
+      "province": "索菲亚州",
+      "latitude": 42.8328,
+      "longitude": 23.9964,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Teteven",
+      "province": "Lovech",
+      "latitude": 42.9167,
+      "longitude": 24.2667,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Elhovo",
+      "province": "Yambol",
+      "latitude": 42.1667,
+      "longitude": 26.5667,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Byala Slatina",
+      "province": "Vratsa",
+      "latitude": 43.4667,
+      "longitude": 23.9333,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Lukovit",
+      "province": "Lovech",
+      "latitude": 43.2,
+      "longitude": 24.1667,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Zlatni Pyasatsi",
+      "province": "Varna",
+      "latitude": 43.285,
+      "longitude": 28.0418,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Isperih",
+      "province": "Razgrad",
+      "latitude": 43.7167,
+      "longitude": 26.8333,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Sredets",
+      "province": "Burgas",
+      "latitude": 42.6975,
+      "longitude": 23.3241,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Veliki Preslav",
+      "province": "Shumen",
+      "latitude": 43.1667,
+      "longitude": 26.8167,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "班斯科",
+      "name_en": "Bansko",
+      "province": "Blagoevgrad",
+      "latitude": 41.8361,
+      "longitude": 23.4874,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "图特拉坎",
+      "name_en": "Tutrakan",
+      "province": "Silistra",
+      "latitude": 44.0491,
+      "longitude": 26.6121,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Omurtag",
+      "province": "Targovishte",
+      "latitude": 43.1,
+      "longitude": 26.4167,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Kubrat",
+      "province": "Razgrad",
+      "latitude": 43.7966,
+      "longitude": 26.5006,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Svoge",
+      "province": "索菲亚州",
+      "latitude": 42.9667,
+      "longitude": 23.35,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Krichim",
+      "province": "Plovdiv",
+      "latitude": 42.1333,
+      "longitude": 24.5333,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Lyaskovets",
+      "province": "Veliko Tarnovo",
+      "latitude": 43.1111,
+      "longitude": 25.7283,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Gŭlŭbovo",
+      "province": "Stara Zagora",
+      "latitude": 42.1333,
+      "longitude": 25.85,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Rakitovo",
+      "province": "Pazardzhik",
+      "latitude": 41.9901,
+      "longitude": 24.0873,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Dryanovo",
+      "province": "加布罗沃州",
+      "latitude": 42.979,
+      "longitude": 25.4785,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Devnya",
+      "province": "Varna",
+      "latitude": 43.2222,
+      "longitude": 27.5694,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "皮尔多普",
+      "name_en": "Pirdop",
+      "province": "索菲亚州",
+      "latitude": 42.7,
+      "longitude": 24.1833,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Septemvri",
+      "province": "Pazardzhik",
+      "latitude": 42.2202,
+      "longitude": 24.1185,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Lyubimets",
+      "province": "Haskovo",
+      "latitude": 41.8443,
+      "longitude": 26.0812,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Beloslav",
+      "province": "Varna",
+      "latitude": 43.1872,
+      "longitude": 27.7035,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Hisarya",
+      "province": "Plovdiv",
+      "latitude": 42.5,
+      "longitude": 24.7,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "General Toshevo",
+      "province": "Dobrich",
+      "latitude": 43.7012,
+      "longitude": 28.0379,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Slivnitsa",
+      "province": "索菲亚州",
+      "latitude": 42.8518,
+      "longitude": 23.0379,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Varshets",
+      "province": "Montana",
+      "latitude": 43.1936,
+      "longitude": 23.2868,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Belene",
+      "province": "Pleven",
+      "latitude": 43.6506,
+      "longitude": 25.1343,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "代温",
+      "name_en": "Devin",
+      "province": "Smolyan",
+      "latitude": 41.7433,
+      "longitude": 24.4,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Simeonovgrad",
+      "province": "Haskovo",
+      "latitude": 42.0333,
+      "longitude": 25.8333,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Elin Pelin",
+      "province": "索菲亚州",
+      "latitude": 42.6667,
+      "longitude": 23.6,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "兹拉托格勒",
+      "name_en": "Zlatograd",
+      "province": "Smolyan",
+      "latitude": 41.3795,
+      "longitude": 25.0961,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Dolni Chiflik",
+      "province": "Varna",
+      "latitude": 42.993,
+      "longitude": 27.716,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "阿克萨科沃市",
+      "name_en": "Aksakovo",
+      "province": "Varna",
+      "latitude": 43.2591,
+      "longitude": 27.8176,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Knezha",
+      "province": "Pleven",
+      "latitude": 43.5,
+      "longitude": 24.0833,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "泰尔韦尔市",
+      "name_en": "Tervel",
+      "province": "Dobrich",
+      "latitude": 43.7479,
+      "longitude": 27.4091,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Dulovo",
+      "province": "Silistra",
+      "latitude": 43.8167,
+      "longitude": 27.15,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Simitli",
+      "province": "Blagoevgrad",
+      "latitude": 41.8833,
+      "longitude": 23.1167,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Tvarditsa",
+      "province": "Sliven",
+      "latitude": 42.7,
+      "longitude": 25.9,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "托波洛夫格勒",
+      "name_en": "Topolovgrad",
+      "province": "Haskovo",
+      "latitude": 42.0833,
+      "longitude": 26.3333,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Saedinenie",
+      "province": "Plovdiv",
+      "latitude": 42.2667,
+      "longitude": 24.55,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Kotel",
+      "province": "Sliven",
+      "latitude": 42.8833,
+      "longitude": 26.45,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Lozen",
+      "province": "Sofia-Capital",
+      "latitude": 42.6027,
+      "longitude": 23.4759,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Bobov Dol",
+      "province": "Kyustendil",
+      "latitude": 42.3638,
+      "longitude": 22.9983,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Tsarevo",
+      "province": "Burgas",
+      "latitude": 42.1696,
+      "longitude": 27.8454,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "埃伦娜",
+      "name_en": "Elena",
+      "province": "Veliko Tarnovo",
+      "latitude": 42.9333,
+      "longitude": 25.8833,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Yakoruda",
+      "province": "Blagoevgrad",
+      "latitude": 42.0253,
+      "longitude": 23.6842,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Straldzha",
+      "province": "Yambol",
+      "latitude": 42.6,
+      "longitude": 26.6833,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Zlatitsa",
+      "province": "索菲亚州",
+      "latitude": 42.7167,
+      "longitude": 24.1333,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Strazhitsa",
+      "province": "Veliko Tarnovo",
+      "latitude": 43.2333,
+      "longitude": 25.9667,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Belogradchik",
+      "province": "Vidin",
+      "latitude": 43.6272,
+      "longitude": 22.6836,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Polski Trambesh",
+      "province": "Veliko Tarnovo",
+      "latitude": 43.3723,
+      "longitude": 25.6352,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Madan",
+      "province": "Smolyan",
+      "latitude": 41.4987,
+      "longitude": 24.9397,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "切佩拉雷",
+      "name_en": "Chepelare",
+      "province": "Smolyan",
+      "latitude": 41.7333,
+      "longitude": 24.6833,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Perushtitsa",
+      "province": "Plovdiv",
+      "latitude": 42.05,
+      "longitude": 24.55,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Dalgopol",
+      "province": "Varna",
+      "latitude": 43.05,
+      "longitude": 27.35,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Krumovgrad",
+      "province": "Kardzhali",
+      "latitude": 41.4713,
+      "longitude": 25.6548,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Dolni Dabnik",
+      "province": "Pleven",
+      "latitude": 43.4,
+      "longitude": 24.4333,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Valchedram",
+      "province": "Montana",
+      "latitude": 43.6928,
+      "longitude": 23.4452,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Vetovo",
+      "province": "Ruse",
+      "latitude": 43.7,
+      "longitude": 26.2667,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Godech",
+      "province": "索菲亚州",
+      "latitude": 43.0168,
+      "longitude": 23.0485,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Nedelino",
+      "province": "Smolyan",
+      "latitude": 41.456,
+      "longitude": 25.0801,
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "name": "",
+      "name_en": "Oryahovo",
+      "province": "Vratsa",
+      "latitude": 43.7381,
+      "longitude": 23.9587,
+      "timezone": "Europe/Sofia"
+    }
+  ]
+}
