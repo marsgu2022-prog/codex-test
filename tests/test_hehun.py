@@ -73,3 +73,26 @@ def test_hehun_endpoint_returns_scored_result():
     body = response.json()
     assert 0 <= body["score"] <= 100
     assert body["level"]
+
+
+def test_hehun_pdf_endpoint_returns_pdf():
+    response = client.post(
+        "/api/report/hehun-pdf",
+        json={
+            "male_year": 1990,
+            "male_month": 1,
+            "male_day": 1,
+            "male_hour": 11,
+            "male_gender": "男",
+            "female_year": 1991,
+            "female_month": 2,
+            "female_day": 2,
+            "female_hour": 9,
+            "female_gender": "女",
+        },
+    )
+
+    assert response.status_code == 200
+    assert response.headers["content-type"] == "application/pdf"
+    assert response.headers["content-disposition"] == 'attachment; filename="hehun_report.pdf"'
+    assert len(response.content) > 0

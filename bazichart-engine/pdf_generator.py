@@ -475,6 +475,32 @@ def _draw_footer(canvas_obj, _doc):
     canvas_obj.restoreState()
 
 
+def _build_pillars_summary_table(styles: dict[str, ParagraphStyle], title: str, data: dict[str, Any]) -> list[Any]:
+    return [
+        Paragraph(f"<b>{title}</b>", styles["subheading"]),
+        _build_four_pillars_table(styles, data),
+        Spacer(1, 12),
+    ]
+
+
+def _build_hehun_analysis_table(styles: dict[str, ParagraphStyle], hehun_result: dict[str, Any]) -> Table:
+    items = [
+        ("日干合化", _coerce_text(hehun_result.get("day_gan_he"))),
+        ("年支关系", _coerce_text(hehun_result.get("year_zhi"))),
+        ("用神互补", _coerce_text(hehun_result.get("yongshen_match"))),
+        ("五行互补", _coerce_text(hehun_result.get("wuxing_complement"))),
+    ]
+    table_data = [
+        [Paragraph("分析项", styles["table"]), Paragraph("内容", styles["table"])]
+    ]
+    for name, content in items:
+        table_data.append([Paragraph(name, styles["table"]), Paragraph(content, styles["body"])])
+    return _build_standard_table(
+        table_data,
+        [120, PAGE_WIDTH - LEFT_MARGIN - RIGHT_MARGIN - 120],
+    )
+
+
 def generate_bazi_report(interpretation_data: dict) -> bytes:
     font_name = _register_chinese_font()
     buffer = BytesIO()
@@ -523,6 +549,51 @@ def generate_bazi_report(interpretation_data: dict) -> bytes:
     if shensha_story:
         story.extend(_build_section_title(styles, "第六节：神煞"))
         story.extend(shensha_story)
+
+    doc.build(story, onFirstPage=_draw_footer, onLaterPages=_draw_footer)
+    return buffer.getvalue()
+
+
+def generate_hehun_report(male_data, female_data, hehun_result) -> bytes:
+    font_name = _register_chinese_font()
+    buffer = BytesIO()
+    doc = SimpleDocTemplate(
+        buffer,
+        pagesize=PAGE_SIZE,
+        leftMargin=LEFT_MARGIN,
+        rightMargin=RIGHT_MARGIN,
+        topMargin=TOP_MARGIN,
+        bottomMargin=BOTTOM_MARGIN,
+        title="八字合婚分析报告",
+    )
+    styles = _build_styles(font_name)
+
+    generated_at = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    story: list[Any] = [
+        Spacer(1, 180),
+        Paragraph("八字合婚分析报告", styles["title"]),
+        Paragraph(f"生成日期：{generated_at}", styles["meta"]),
+        Spacer(1, 12),
+        HRFlowable(width="70%", thickness=1, color=RULE_COLOR, spaceBefore=6, spaceAfter=0),
+        PageBreak(),
+    ]
+
+    story.extend(_build_section_title(styles, "第一节：双方四柱信息"))
+    story.extend(_build_pillars_summary_table(styles, "男方四柱", male_data))
+    story.extend(_build_pillars_summary_table(styles, "女方四柱", female_data))
+
+    story.extend(_build_section_title(styles, "第二节：合婚分析"))
+    story.append(_build_hehun_analysis_table(styles, hehun_result))
+    story.append(Spacer(1, 12))
+
+    story.extend(_build_section_title(styles, "第三节：综合结论"))
+    score = hehun_result.get("score", "未提供")
+    level = hehun_result.get("level", "未提供")
+    story.append(Paragraph(f"综合评分：{score}", styles["subheading"]))
+    story.append(Paragraph(f"婚配等级：{level}", styles["body"]))
+    summary = _coerce_text(hehun_result.get("summary"))
+    if summary:
+        story.append(Paragraph(summary, styles["body"]))
 
     doc.build(story, onFirstPage=_draw_footer, onLaterPages=_draw_footer)
     return buffer.getvalue()

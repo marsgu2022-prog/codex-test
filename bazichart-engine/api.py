@@ -550,3 +550,55 @@ def create_pdf_report(payload: InterpretRequest, request: Request):
         media_type="application/pdf",
         headers={"Content-Disposition": 'attachment; filename="bazi_report.pdf"'},
     )
+
+
+@app.post("/api/report/hehun-pdf")
+def create_hehun_pdf_report(payload: HehunRequest):
+    try:
+        male_payload = InterpretRequest(
+            year=payload.male_year,
+            month=payload.male_month,
+            day=payload.male_day,
+            hour=payload.male_hour,
+            minute=0,
+            gender=payload.male_gender,
+            city="",
+            timezone="Asia/Shanghai",
+            longitude=None,
+        )
+        female_payload = InterpretRequest(
+            year=payload.female_year,
+            month=payload.female_month,
+            day=payload.female_day,
+            hour=payload.female_hour,
+            minute=0,
+            gender=payload.female_gender,
+            city="",
+            timezone="Asia/Shanghai",
+            longitude=None,
+        )
+        male_pillars = build_four_pillars(male_payload)
+        female_pillars = build_four_pillars(female_payload)
+        male_analysis = WUXING_MODULE.analyze_wuxing(male_pillars)
+        female_analysis = WUXING_MODULE.analyze_wuxing(female_pillars)
+        hehun_result = HEHUN_MODULE.analyze_hehun(
+            male_pillars,
+            female_pillars,
+            male_analysis=male_analysis,
+            female_analysis=female_analysis,
+        )
+        pdf_bytes = PDF_MODULE.generate_hehun_report(
+            {"four_pillars": male_pillars, "input": {"gender": male_payload.gender}},
+            {"four_pillars": female_pillars, "input": {"gender": female_payload.gender}},
+            hehun_result,
+        )
+    except HTTPException:
+        raise
+    except Exception as exc:
+        raise HTTPException(status_code=500, detail=f"合婚 PDF 生成失败: {exc}") from exc
+
+    return Response(
+        content=pdf_bytes,
+        media_type="application/pdf",
+        headers={"Content-Disposition": 'attachment; filename="hehun_report.pdf"'},
+    )
