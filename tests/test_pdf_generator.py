@@ -51,6 +51,12 @@ def test_generate_bazi_report_creates_pdf_bytes(tmp_path):
             {"year": 2029, "tiangan": "己", "dizhi": "酉"},
             {"year": 2030, "tiangan": "庚", "dizhi": "戌"},
         ],
+        "shensha": [
+            {"name": "天乙贵人", "type": "吉", "position": "月支、时支", "description": "遇难呈祥，逢凶化吉。"},
+            {"name": "文昌贵人", "type": "吉", "position": "日支", "description": "主聪明好学，利文书表达。"},
+            {"name": "桃花（咸池）", "type": "凶", "position": "年支", "description": "情感缘分多，也易有情事波动。"},
+            {"name": "白虎", "type": "凶", "position": "时支", "description": "需留意冲突损伤与是非。"},
+        ],
         "ten_gods_analysis": {
             "比肩": {"interpretation": "比肩代表自主性、边界感与平级竞争意识。"},
             "正印": {"interpretation": "正印强调支持系统、学习吸收和安全感来源。"},
@@ -118,6 +124,12 @@ def test_generate_bazi_report_writes_sample_output():
             {"year": 2028, "tiangan": "戊", "dizhi": "申"},
             {"year": 2029, "tiangan": "己", "dizhi": "酉"},
             {"year": 2030, "tiangan": "庚", "dizhi": "戌"},
+        ],
+        "shensha": [
+            {"name": "太极贵人", "type": "吉", "position": "年支", "description": "悟性高，喜玄学哲思。"},
+            {"name": "金舆", "type": "吉", "position": "月支", "description": "主福气与物质享受。"},
+            {"name": "孤辰寡宿", "type": "凶", "position": "日支", "description": "内心孤独感较强，需经营关系。"},
+            {"name": "劫煞", "type": "凶", "position": "时支", "description": "处事需防突发阻碍与竞争消耗。"},
         ],
         "ten_gods_analysis": {
             "比肩": {"interpretation": "比肩代表自主性与边界意识，在合作关系里强调对等和主动权。"},

@@ -30,6 +30,7 @@ BODY_COLOR = colors.HexColor("#333333")
 RULE_COLOR = colors.HexColor("#D4A537")
 SUBTITLE_COLOR = colors.HexColor("#666666")
 TABLE_HEADER_BG = colors.HexColor("#F5E6C8")
+TABLE_DANGER_HEADER_BG = colors.HexColor("#E9E9E9")
 
 
 def _register_chinese_font() -> str:
@@ -405,6 +406,48 @@ def _build_luck_table(styles: dict[str, ParagraphStyle], items: list[dict[str, A
     return story
 
 
+def _build_shensha_tables(styles: dict[str, ParagraphStyle], interpretation_data: dict[str, Any]) -> list[Any]:
+    shensha = interpretation_data.get("shensha")
+    if not isinstance(shensha, list) or not shensha:
+        return []
+
+    groups = [("吉神", "吉", TABLE_HEADER_BG), ("凶煞", "凶", TABLE_DANGER_HEADER_BG)]
+    col_widths = [90, 50, 90, PAGE_WIDTH - LEFT_MARGIN - RIGHT_MARGIN - 230]
+    story: list[Any] = []
+
+    for title, shensha_type, header_bg in groups:
+        items = [item for item in shensha if item.get("type") == shensha_type]
+        if not items:
+            continue
+
+        story.append(Paragraph(f"<b>{title}</b>", styles["subheading"]))
+        table_data = [
+            [Paragraph(text, styles["table"]) for text in ["神煞名", "吉/凶", "出现位置", "说明"]]
+        ]
+        for item in items:
+            table_data.append(
+                [
+                    Paragraph(str(item.get("name", "")), styles["table"]),
+                    Paragraph(str(item.get("type", "")), styles["table"]),
+                    Paragraph(str(item.get("position", "")), styles["table"]),
+                    Paragraph(_coerce_text(item.get("description")), styles["body"]),
+                ]
+            )
+
+        table = _build_standard_table(table_data, col_widths)
+        table.setStyle(
+            TableStyle(
+                [
+                    ("BACKGROUND", (0, 0), (-1, 0), header_bg),
+                    ("VALIGN", (0, 0), (-1, -1), "TOP"),
+                ]
+            )
+        )
+        story.append(table)
+        story.append(Spacer(1, 12))
+    return story
+
+
 def _build_named_paragraphs(
     styles: dict[str, ParagraphStyle],
     items: list[tuple[str, str]],
@@ -475,6 +518,11 @@ def generate_bazi_report(interpretation_data: dict) -> bytes:
         if isinstance(liunian, list) and liunian:
             story.append(Paragraph("<b>流年</b>", styles["subheading"]))
             story.extend(_build_luck_table(styles, liunian, 5, "liunian"))
+
+    shensha_story = _build_shensha_tables(styles, interpretation_data)
+    if shensha_story:
+        story.extend(_build_section_title(styles, "第六节：神煞"))
+        story.extend(shensha_story)
 
     doc.build(story, onFirstPage=_draw_footer, onLaterPages=_draw_footer)
     return buffer.getvalue()
