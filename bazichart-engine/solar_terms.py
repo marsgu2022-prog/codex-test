@@ -75,3 +75,29 @@ def resolve_bazi_month_order(dt: datetime) -> int:
 
     # 仅覆盖 1900 年初极小边界。
     return 11
+
+
+def list_jie_datetimes(year: int) -> list[tuple[str, datetime]]:
+    return [(name, _normalize_local_datetime(get_term_datetime(year, name))) for name, _order in JIE_MONTH_STARTS]
+
+
+def get_prev_jie(dt: datetime) -> tuple[str, datetime]:
+    dt = _normalize_local_datetime(dt)
+    candidates: list[tuple[str, datetime]] = []
+    for year in (dt.year - 1, dt.year):
+        candidates.extend(list_jie_datetimes(year))
+    eligible = [item for item in candidates if item[1] <= dt]
+    if not eligible:
+        raise KeyError(f"缺少 {dt.year} 附近的上一节数据")
+    return max(eligible, key=lambda item: item[1])
+
+
+def get_next_jie(dt: datetime) -> tuple[str, datetime]:
+    dt = _normalize_local_datetime(dt)
+    candidates: list[tuple[str, datetime]] = []
+    for year in (dt.year, dt.year + 1):
+        candidates.extend(list_jie_datetimes(year))
+    eligible = [item for item in candidates if item[1] > dt]
+    if not eligible:
+        raise KeyError(f"缺少 {dt.year} 附近的下一节数据")
+    return min(eligible, key=lambda item: item[1])

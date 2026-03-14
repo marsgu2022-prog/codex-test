@@ -376,7 +376,16 @@ def generate_interpretation(payload: InterpretRequest, four_pillars: dict[str, A
     day_master = four_pillars["day"]["heavenly_stem"]
     dominant_gods = ["比肩", "正印"]
     current_year = datetime.now().year
-    dayun = DAYUN_MODULE.calculate_dayun(payload.year, payload.month, payload.day, payload.hour, payload.gender)
+    solar_time_info = _build_solar_time_info(payload)
+    dayun = DAYUN_MODULE.calculate_dayun(
+        payload.year,
+        payload.month,
+        payload.day,
+        payload.hour,
+        payload.gender,
+        minute=payload.minute,
+        solar_time_info=solar_time_info,
+    )
     for item in dayun:
         item["detail"] = DAYUN_DETAIL_MODULE.generate_dayun_detail(
             four_pillars,

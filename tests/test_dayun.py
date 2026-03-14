@@ -31,8 +31,14 @@ def test_dayun_returns_eight_steps():
 def test_yang_year_male_is_forward_and_yin_year_male_is_backward():
     yang_male = MODULE.calculate_dayun(1990, 1, 1, 11, "male")
     yin_male = MODULE.calculate_dayun(1989, 1, 1, 11, "male")
-    assert (yang_male[0]["tiangan"], yang_male[0]["dizhi"]) == ("丙", "寅")
-    assert (yin_male[0]["tiangan"], yin_male[0]["dizhi"]) == ("甲", "子")
+    assert (yang_male[0]["tiangan"], yang_male[0]["dizhi"]) == ("乙", "亥")
+    assert (yin_male[0]["tiangan"], yin_male[0]["dizhi"]) == ("乙", "丑")
+
+
+def test_dayun_start_age_uses_real_jieqi_gap():
+    result = MODULE.calculate_dayun(1990, 1, 1, 11, "male")
+    assert result[0]["start_age"] == 8
+    assert result[0]["end_age"] == 17
 
 
 def test_liunian_for_2025_and_2026_matches_expected():

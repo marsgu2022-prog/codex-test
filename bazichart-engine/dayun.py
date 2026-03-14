@@ -1,6 +1,9 @@
 from __future__ import annotations
 
-from datetime import datetime, timedelta
+from datetime import datetime
+from importlib.util import module_from_spec, spec_from_file_location
+from pathlib import Path
+import sys
 
 
 TIANGAN = "甲乙丙丁戊己庚辛壬癸"
@@ -30,50 +33,60 @@ WUXING_MAP = {
     "戌": "土",
     "亥": "水",
 }
+YEAR_BASE = 1984
+MONTH_START_STEM_MAP = {
+    "甲": "丙",
+    "己": "丙",
+    "乙": "戊",
+    "庚": "戊",
+    "丙": "庚",
+    "辛": "庚",
+    "丁": "壬",
+    "壬": "壬",
+    "戊": "甲",
+    "癸": "甲",
+}
+MONTH_BRANCHES = "寅卯辰巳午未申酉戌亥子丑"
+
+
+def _load_local_module(module_name: str, file_path: Path):
+    spec = spec_from_file_location(module_name, file_path)
+    if spec is None or spec.loader is None:
+        raise RuntimeError(f"无法加载模块: {file_path}")
+    module = module_from_spec(spec)
+    sys.modules[module_name] = module
+    spec.loader.exec_module(module)
+    return module
+
+
+BASE_DIR = Path(__file__).resolve().parent
+SOLAR_TERMS_MODULE = _load_local_module("bazichart_engine_dayun_solar_terms", BASE_DIR / "solar_terms.py")
 
 
 def _ganzhi_for_year(year: int) -> tuple[str, str]:
-    base_year = 1984
-    offset = year - base_year
+    offset = year - YEAR_BASE
     return TIANGAN[offset % 10], DIZHI[offset % 12]
 
 
-def _month_pillar(month: int) -> tuple[str, str]:
-    return TIANGAN[month % 10], DIZHI[month % 12]
+def _month_pillar(dt: datetime) -> tuple[str, str]:
+    bazi_year = SOLAR_TERMS_MODULE.resolve_bazi_year(dt)
+    year_stem, _year_branch = _ganzhi_for_year(bazi_year)
+    month_order = SOLAR_TERMS_MODULE.resolve_bazi_month_order(dt)
+    start_stem = MONTH_START_STEM_MAP[year_stem]
+    stem = TIANGAN[(TIANGAN.index(start_stem) + month_order - 1) % 10]
+    branch = MONTH_BRANCHES[month_order - 1]
+    return stem, branch
 
 
 def _round_trip_days(birth_time: datetime, forward: bool) -> float:
-    current = birth_time
     if forward:
-        candidates = []
-        for day in (6, 21):
-            candidate = datetime(current.year, current.month, day)
-            if candidate > current:
-                candidates.append(candidate)
-        if not candidates:
-            year = current.year + (1 if current.month == 12 else 0)
-            month = 1 if current.month == 12 else current.month + 1
-            target = datetime(year, month, 6)
-        else:
-            target = min(candidates)
-        return (target - current).total_seconds() / 86400
-
-    candidates = []
-    for day in (6, 21):
-        candidate = datetime(current.year, current.month, day)
-        if candidate < current:
-            candidates.append(candidate)
-    if not candidates:
-        year = current.year - (1 if current.month == 1 else 0)
-        month = 12 if current.month == 1 else current.month - 1
-        target = datetime(year, month, 21)
-    else:
-        target = max(candidates)
-    return (current - target).total_seconds() / 86400
+        _name, target = SOLAR_TERMS_MODULE.get_next_jie(birth_time)
+        return (target - birth_time).total_seconds() / 86400
+    _name, target = SOLAR_TERMS_MODULE.get_prev_jie(birth_time)
+    return (birth_time - target).total_seconds() / 86400
 
 
-def _start_age(year: int, month: int, day: int, hour: int, forward: bool) -> int:
-    birth_time = datetime(year, month, day, hour)
+def _start_age(birth_time: datetime, forward: bool) -> int:
     days_delta = _round_trip_days(birth_time, forward=forward)
     return max(1, round(days_delta / 3.0))
 
@@ -89,11 +102,17 @@ def _wuxing(gan: str, zhi: str) -> str:
     return f"{WUXING_MAP[gan]}{WUXING_MAP[zhi]}"
 
 
-def calculate_dayun(year, month, day, hour, gender) -> list:
-    year_stem, _year_branch = _ganzhi_for_year(int(year))
-    month_stem, month_branch = _month_pillar(int(month))
+def calculate_dayun(year, month, day, hour, gender, minute=0, solar_time_info=None) -> list:
+    if solar_time_info and solar_time_info.get("corrected_datetime"):
+        birth_time = datetime.fromisoformat(solar_time_info["corrected_datetime"])
+    else:
+        birth_time = datetime(int(year), int(month), int(day), int(hour), int(minute))
+
+    bazi_year = SOLAR_TERMS_MODULE.resolve_bazi_year(birth_time)
+    year_stem, _year_branch = _ganzhi_for_year(bazi_year)
+    month_stem, month_branch = _month_pillar(birth_time)
     direction = _direction(year_stem, str(gender))
-    start_age = _start_age(int(year), int(month), int(day), int(hour), forward=direction == 1)
+    start_age = _start_age(birth_time, forward=direction == 1)
 
     gan_index = TIANGAN.index(month_stem)
     zhi_index = DIZHI.index(month_branch)
