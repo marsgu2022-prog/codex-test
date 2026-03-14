@@ -41,6 +41,25 @@ def test_pdf_endpoint_returns_pdf():
     assert len(response.content) > 0
 
 
+def test_interpret_endpoint_returns_json():
+    response = client.post(
+        "/api/interpret",
+        json={
+            "birth_year": 1990,
+            "birth_month": 7,
+            "birth_day": 15,
+            "birth_hour": 9,
+            "gender": "女",
+            "birthplace": "上海",
+        },
+    )
+
+    assert response.status_code == 200
+    body = response.json()
+    assert "four_pillars" in body
+    assert "ten_gods_analysis" in body
+
+
 def test_pdf_endpoint_missing_required_field_returns_400():
     response = client.post(
         "/api/report/pdf",
