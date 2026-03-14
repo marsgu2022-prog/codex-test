@@ -55,8 +55,35 @@ def _configure_logger() -> logging.Logger:
 
 LOGGER = _configure_logger()
 PDF_MODULE = _load_local_module("bazichart_engine_pdf_generator", BASE_DIR / "pdf_generator.py")
+SOLAR_TIME_MODULE = _load_local_module("bazichart_engine_solar_time", BASE_DIR / "solar_time.py")
 INTERPRETER_MODULE = _load_local_module("bazichart_engine_ai_interpreter", BASE_DIR.parent / "src" / "ai_interpreter.py")
 INTERPRETATION_CACHE: OrderedDict[str, dict[str, Any]] = OrderedDict()
+CITY_LONGITUDE_MAP = {
+    "上海": 121.47,
+    "shanghai": 121.47,
+    "北京": 116.40,
+    "beijing": 116.40,
+    "乌鲁木齐": 87.62,
+    "urumqi": 87.62,
+    "乌市": 87.62,
+    "纽约": -74.01,
+    "new york": -74.01,
+    "new york city": -74.01,
+}
+SHICHEN_TO_HOUR = {
+    "子时": 23,
+    "丑时": 1,
+    "寅时": 3,
+    "卯时": 5,
+    "辰时": 7,
+    "巳时": 9,
+    "午时": 11,
+    "未时": 13,
+    "申时": 15,
+    "酉时": 17,
+    "戌时": 19,
+    "亥时": 21,
+}
 
 
 class InterpretRequest(BaseModel):
@@ -64,9 +91,11 @@ class InterpretRequest(BaseModel):
     month: Any = Field(default=None)
     day: Any = Field(default=None)
     hour: Any = Field(default=None)
+    minute: Any = Field(default=0)
     gender: Any = Field(default=None)
     city: str | None = Field(default=None)
     timezone: str | None = Field(default=None)
+    longitude: Any = Field(default=None)
 
     @model_validator(mode="after")
     def validate_fields(self) -> "InterpretRequest":
@@ -74,9 +103,11 @@ class InterpretRequest(BaseModel):
         self.month = _validate_int_field(self.month, "请输入出生月份", "月份范围为1-12", 1, 12)
         self.day = _validate_int_field(self.day, "请输入出生日期", "日期范围为1-31", 1, 31)
         self.hour = _validate_int_field(self.hour, "请输入出生时辰", "时辰范围为0-23", 0, 23)
+        self.minute = _validate_int_field(self.minute, "分钟范围为0-59", "分钟范围为0-59", 0, 59)
         self.gender = _normalize_gender(self.gender)
         self.city = (self.city or "").strip()
         self.timezone = (self.timezone or "Asia/Shanghai").strip() or "Asia/Shanghai"
+        self.longitude = _normalize_longitude(self.longitude)
         _validate_date(self.year, self.month, self.day)
         return self
 
@@ -132,6 +163,15 @@ def _normalize_gender(value: Any) -> str:
     raise ValueError("请选择性别")
 
 
+def _normalize_longitude(value: Any) -> float | None:
+    if value is None or value == "":
+        return None
+    try:
+        return float(value)
+    except (TypeError, ValueError) as exc:
+        raise ValueError("经度格式无效") from exc
+
+
 def _validate_date(year: int, month: int, day: int) -> None:
     try:
         datetime(year=year, month=month, day=day)
@@ -154,8 +194,10 @@ def _cache_key(payload: InterpretRequest) -> str:
             str(payload.month),
             str(payload.day),
             str(payload.hour),
+            str(payload.minute),
             payload.gender.strip(),
             payload.city.strip(),
+            str(payload.longitude),
         ]
     )
     return sha256(raw_key.encode("utf-8")).hexdigest()
@@ -180,9 +222,34 @@ def clear_interpretation_cache() -> None:
     INTERPRETATION_CACHE.clear()
 
 
-def build_four_pillars(payload: InterpretRequest) -> dict[str, dict[str, str]]:
+def _resolve_longitude(payload: InterpretRequest) -> float | None:
+    if payload.longitude is not None:
+        return payload.longitude
+    if not payload.city:
+        return None
+    return CITY_LONGITUDE_MAP.get(payload.city) or CITY_LONGITUDE_MAP.get(payload.city.lower())
+
+
+def _build_solar_time_info(payload: InterpretRequest) -> dict[str, Any] | None:
+    longitude = _resolve_longitude(payload)
+    if longitude is None:
+        return None
+    return SOLAR_TIME_MODULE.calculate_true_solar_time(
+        payload.year,
+        payload.month,
+        payload.day,
+        payload.hour,
+        payload.minute,
+        longitude,
+    )
+
+
+def build_four_pillars(payload: InterpretRequest, solar_time_info: dict[str, Any] | None = None) -> dict[str, dict[str, str]]:
     stems = "甲乙丙丁戊己庚辛壬癸"
     branches = "子丑寅卯辰巳午未申酉戌亥"
+    hour_seed = payload.hour
+    if solar_time_info is not None:
+        hour_seed = SHICHEN_TO_HOUR.get(solar_time_info["corrected_shichen"], payload.hour)
 
     def pillar(seed: int) -> dict[str, str]:
         return {
@@ -194,7 +261,7 @@ def build_four_pillars(payload: InterpretRequest) -> dict[str, dict[str, str]]:
         "year": pillar(payload.year),
         "month": pillar(payload.month),
         "day": pillar(payload.day),
-        "hour": pillar(payload.hour),
+        "hour": pillar(hour_seed),
     }
 
 
@@ -216,9 +283,11 @@ def generate_interpretation(payload: InterpretRequest, four_pillars: dict[str, A
             "birth_month": payload.month,
             "birth_day": payload.day,
             "birth_hour": payload.hour,
+            "birth_minute": payload.minute,
             "gender": payload.gender,
             "birthplace": payload.city,
             "timezone": payload.timezone,
+            "longitude": payload.longitude,
         },
         "four_pillars": four_pillars,
         "ten_gods_analysis": {
@@ -243,8 +312,11 @@ def get_or_create_interpretation(payload: InterpretRequest) -> tuple[dict[str, A
     if cached is not None:
         return cached, "HIT"
 
-    four_pillars = build_four_pillars(payload)
+    solar_time_info = _build_solar_time_info(payload)
+    four_pillars = build_four_pillars(payload, solar_time_info=solar_time_info)
     interpretation_data = generate_interpretation(payload, four_pillars)
+    if solar_time_info is not None:
+        interpretation_data["solar_time_info"] = solar_time_info
     _set_cached_interpretation(cache_key, interpretation_data)
     return interpretation_data, "MISS"
 

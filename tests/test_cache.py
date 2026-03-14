@@ -22,6 +22,7 @@ def test_interpret_cache_reuses_same_parameters():
         "month": 7,
         "day": 15,
         "hour": 9,
+        "minute": 0,
         "gender": "女",
         "city": "上海",
     }
@@ -41,6 +42,7 @@ def test_pdf_endpoint_uses_shared_interpretation_cache():
         "month": 10,
         "day": 8,
         "hour": 6,
+        "minute": 0,
         "gender": "男",
         "city": "北京",
     }

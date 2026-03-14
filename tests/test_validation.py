@@ -21,6 +21,7 @@ def valid_payload():
         "month": 7,
         "day": 15,
         "hour": 9,
+        "minute": 0,
         "gender": "女",
         "city": "上海",
     }
