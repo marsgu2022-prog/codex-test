@@ -1,0 +1,212 @@
+{
+  "years": 201,
+  "terms_per_year": 24,
+  "structure_issues": [],
+  "interval_report": {
+    "count": 4623,
+    "average_days": 15.2401,
+    "min_days": 14.7188,
+    "max_days": 15.7361,
+    "violations": []
+  },
+  "engine_comparison": {
+    "count": 4824,
+    "max_delta_minutes": 1.3833,
+    "avg_delta_minutes": 0.4246,
+    "samples": [
+      {
+        "year": 1900,
+        "term": "小寒",
+        "delta_minutes": 0.05
+      },
+      {
+        "year": 1900,
+        "term": "立春",
+        "delta_minutes": 0.4833
+      },
+      {
+        "year": 1900,
+        "term": "清明",
+        "delta_minutes": 0.3167
+      },
+      {
+        "year": 1900,
+        "term": "立秋",
+        "delta_minutes": 0.4333
+      },
+      {
+        "year": 1900,
+        "term": "冬至",
+        "delta_minutes": 0.4333
+      },
+      {
+        "year": 1950,
+        "term": "小寒",
+        "delta_minutes": 0.2833
+      },
+      {
+        "year": 1950,
+        "term": "立春",
+        "delta_minutes": 0.2333
+      },
+      {
+        "year": 1950,
+        "term": "清明",
+        "delta_minutes": 0.45
+      },
+      {
+        "year": 1950,
+        "term": "立秋",
+        "delta_minutes": 0.1833
+      },
+      {
+        "year": 1950,
+        "term": "冬至",
+        "delta_minutes": 0.3
+      },
+      {
+        "year": 2000,
+        "term": "小寒",
+        "delta_minutes": 0.3
+      },
+      {
+        "year": 2000,
+        "term": "立春",
+        "delta_minutes": 0.6
+      },
+      {
+        "year": 2000,
+        "term": "清明",
+        "delta_minutes": 0.0333
+      },
+      {
+        "year": 2000,
+        "term": "立秋",
+        "delta_minutes": 0.0167
+      },
+      {
+        "year": 2000,
+        "term": "冬至",
+        "delta_minutes": 0.4333
+      },
+      {
+        "year": 2024,
+        "term": "小寒",
+        "delta_minutes": 0.3667
+      },
+      {
+        "year": 2024,
+        "term": "立春",
+        "delta_minutes": 0.1167
+      },
+      {
+        "year": 2024,
+        "term": "清明",
+        "delta_minutes": 0.7167
+      },
+      {
+        "year": 2024,
+        "term": "立秋",
+        "delta_minutes": 0.2667
+      },
+      {
+        "year": 2024,
+        "term": "冬至",
+        "delta_minutes": 0.5833
+      },
+      {
+        "year": 2100,
+        "term": "小寒",
+        "delta_minutes": 0.2667
+      },
+      {
+        "year": 2100,
+        "term": "立春",
+        "delta_minutes": 0.2833
+      },
+      {
+        "year": 2100,
+        "term": "清明",
+        "delta_minutes": 0.8
+      },
+      {
+        "year": 2100,
+        "term": "立秋",
+        "delta_minutes": 0.0833
+      },
+      {
+        "year": 2100,
+        "term": "冬至",
+        "delta_minutes": 0.8667
+      }
+    ]
+  },
+  "hko_sample_comparison": {
+    "count": 12,
+    "max_delta_minutes": 1.0,
+    "comparisons": [
+      {
+        "year": 2024,
+        "term": "小寒",
+        "delta_minutes": 0.0
+      },
+      {
+        "year": 2024,
+        "term": "立春",
+        "delta_minutes": 0.0
+      },
+      {
+        "year": 2024,
+        "term": "惊蛰",
+        "delta_minutes": 0.0
+      },
+      {
+        "year": 2024,
+        "term": "清明",
+        "delta_minutes": 1.0
+      },
+      {
+        "year": 2024,
+        "term": "立夏",
+        "delta_minutes": 0.0
+      },
+      {
+        "year": 2024,
+        "term": "芒种",
+        "delta_minutes": 0.0
+      },
+      {
+        "year": 2024,
+        "term": "小暑",
+        "delta_minutes": 1.0
+      },
+      {
+        "year": 2024,
+        "term": "立秋",
+        "delta_minutes": 0.0
+      },
+      {
+        "year": 2024,
+        "term": "白露",
+        "delta_minutes": 1.0
+      },
+      {
+        "year": 2024,
+        "term": "寒露",
+        "delta_minutes": 0.0
+      },
+      {
+        "year": 2024,
+        "term": "立冬",
+        "delta_minutes": 0.0
+      },
+      {
+        "year": 2024,
+        "term": "大雪",
+        "delta_minutes": 0.0
+      }
+    ]
+  },
+  "validation_threshold_minutes": 2.0,
+  "is_valid": true
+}
