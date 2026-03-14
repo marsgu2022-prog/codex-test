@@ -422,6 +422,7 @@ def health_check():
 @app.get("/api/daily-fortune")
 def get_daily_fortune(
     date: str,
+    lang: str = "zh",
     year: int | None = None,
     month: int | None = None,
     day: int | None = None,
@@ -453,7 +454,7 @@ def get_daily_fortune(
             four_pillars = build_four_pillars(payload, solar_time_info=solar_time_info)
             user_bazi = {"four_pillars": four_pillars}
 
-        return DAILY_FORTUNE_MODULE.generate_daily_fortune(date, user_bazi=user_bazi)
+        return DAILY_FORTUNE_MODULE.generate_daily_fortune(date, user_bazi=user_bazi, lang=lang)
     except HTTPException:
         raise
     except ValueError as exc:

@@ -48,6 +48,13 @@ def test_different_dates_return_different_results():
     assert first["day_ganzhi"] != second["day_ganzhi"]
 
 
+def test_daily_fortune_supports_english_output():
+    result = MODULE.generate_daily_fortune("2026-03-14", {"day_master": "壬"}, lang="en")
+    assert result["general_message"]
+    assert result["blessing"]
+    assert any(char.isalpha() for char in result["general_message"])
+
+
 def test_daily_fortune_endpoint_returns_non_empty_messages():
     response = client.get(
         "/api/daily-fortune",
