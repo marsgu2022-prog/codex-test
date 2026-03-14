@@ -23,6 +23,8 @@ LOG_DIR = BASE_DIR.parent / "logs"
 LOG_FILE_PATH = LOG_DIR / "api.log"
 CACHE_LIMIT = 1000
 LOGGER_NAME = "bazichart_engine_api"
+RATE_LIMIT_PER_MINUTE = 30
+MAX_REQUEST_BODY_SIZE = 10 * 1024
 
 
 def _load_local_module(module_name: str, file_path: Path):
@@ -65,6 +67,7 @@ SOLAR_TIME_MODULE = _load_local_module("bazichart_engine_solar_time", BASE_DIR /
 WUXING_MODULE = _load_local_module("bazichart_engine_wuxing_analysis", BASE_DIR / "wuxing_analysis.py")
 INTERPRETER_MODULE = _load_local_module("bazichart_engine_ai_interpreter", BASE_DIR.parent / "src" / "ai_interpreter.py")
 INTERPRETATION_CACHE: OrderedDict[str, dict[str, Any]] = OrderedDict()
+RATE_LIMIT_STORE: dict[str, tuple[int, int]] = {}
 CITY_LONGITUDE_MAP = {
     "上海": 121.47,
     "shanghai": 121.47,
@@ -258,6 +261,39 @@ def clear_interpretation_cache() -> None:
     INTERPRETATION_CACHE.clear()
 
 
+def clear_rate_limit_store() -> None:
+    RATE_LIMIT_STORE.clear()
+
+
+def _get_client_ip(request: Request) -> str:
+    forwarded_for = request.headers.get("x-forwarded-for", "").strip()
+    if forwarded_for:
+        return forwarded_for.split(",")[0].strip() or "unknown"
+    if request.client and request.client.host:
+        return request.client.host
+    return "unknown"
+
+
+def _check_rate_limit(client_ip: str, current_bucket: int) -> bool:
+    previous = RATE_LIMIT_STORE.get(client_ip)
+    if previous is None or previous[0] != current_bucket:
+        RATE_LIMIT_STORE[client_ip] = (current_bucket, 1)
+        return True
+
+    count = previous[1] + 1
+    RATE_LIMIT_STORE[client_ip] = (current_bucket, count)
+    return count <= RATE_LIMIT_PER_MINUTE
+
+
+def _apply_security_headers(response: Response) -> Response:
+    response.headers["X-Content-Type-Options"] = "nosniff"
+    response.headers["X-Frame-Options"] = "DENY"
+    response.headers["Content-Security-Policy"] = "default-src 'none'"
+    if "server" in response.headers:
+        del response.headers["server"]
+    return response
+
+
 def _resolve_longitude(payload: InterpretRequest) -> float | None:
     if payload.longitude is not None:
         return payload.longitude
@@ -392,6 +428,7 @@ app.add_middleware(
 async def log_requests(request: Request, call_next):
     started = time.perf_counter()
     body = await request.body()
+    client_ip = _get_client_ip(request)
     payload: dict[str, Any] | None = None
     if body:
         try:
@@ -405,8 +442,16 @@ async def log_requests(request: Request, call_next):
     request = Request(request.scope, receive)
     request.state.log_params = _mask_request_params(payload)
     request.state.cache_status = "MISS"
+    response: Response
 
-    response = await call_next(request)
+    if len(body) > MAX_REQUEST_BODY_SIZE:
+        response = JSONResponse(status_code=413, content={"error": "请求体过大"})
+    elif not _check_rate_limit(client_ip, int(time.time() // 60)):
+        response = JSONResponse(status_code=429, content={"error": "请求过于频繁，请稍后再试"})
+    else:
+        response = await call_next(request)
+
+    response = _apply_security_headers(response)
 
     elapsed_ms = int((time.perf_counter() - started) * 1000)
     timestamp = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
