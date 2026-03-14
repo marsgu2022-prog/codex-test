@@ -54,6 +54,7 @@ def _configure_logger() -> logging.Logger:
 
 
 LOGGER = _configure_logger()
+DAILY_FORTUNE_MODULE = _load_local_module("bazichart_engine_daily_fortune", BASE_DIR / "daily_fortune.py")
 DAYUN_MODULE = _load_local_module("bazichart_engine_dayun", BASE_DIR / "dayun.py")
 PDF_MODULE = _load_local_module("bazichart_engine_pdf_generator", BASE_DIR / "pdf_generator.py")
 SHENSHA_MODULE = _load_local_module("bazichart_engine_shensha", BASE_DIR / "shensha.py")
@@ -386,6 +387,49 @@ async def handle_validation_error(request: Request, exc: RequestValidationError)
 @app.get("/api/health")
 def health_check():
     return {"status": "ok"}
+
+
+@app.get("/api/daily-fortune")
+def get_daily_fortune(
+    date: str,
+    year: int | None = None,
+    month: int | None = None,
+    day: int | None = None,
+    hour: int | None = None,
+    gender: str | None = None,
+    minute: int = 0,
+    city: str | None = None,
+    timezone: str | None = None,
+    longitude: float | None = None,
+):
+    try:
+        user_bazi = None
+        provided = [year, month, day, hour, gender]
+        if any(value is not None for value in provided):
+            if not all(value is not None for value in provided):
+                raise HTTPException(status_code=400, detail="个性化运势参数不完整")
+            payload = InterpretRequest(
+                year=year,
+                month=month,
+                day=day,
+                hour=hour,
+                minute=minute,
+                gender=gender,
+                city=city,
+                timezone=timezone,
+                longitude=longitude,
+            )
+            solar_time_info = _build_solar_time_info(payload)
+            four_pillars = build_four_pillars(payload, solar_time_info=solar_time_info)
+            user_bazi = {"four_pillars": four_pillars}
+
+        return DAILY_FORTUNE_MODULE.generate_daily_fortune(date, user_bazi=user_bazi)
+    except HTTPException:
+        raise
+    except ValueError as exc:
+        raise HTTPException(status_code=400, detail=str(exc)) from exc
+    except Exception as exc:
+        raise HTTPException(status_code=500, detail=f"每日运势生成失败: {exc}") from exc
 
 
 @app.post("/api/interpret")
