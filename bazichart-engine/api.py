@@ -58,6 +58,7 @@ DAILY_FORTUNE_MODULE = _load_local_module("bazichart_engine_daily_fortune", BASE
 DAYUN_MODULE = _load_local_module("bazichart_engine_dayun", BASE_DIR / "dayun.py")
 DAYUN_DETAIL_MODULE = _load_local_module("bazichart_engine_dayun_detail", BASE_DIR / "dayun_detail.py")
 HEHUN_MODULE = _load_local_module("bazichart_engine_hehun", BASE_DIR / "hehun.py")
+LIUNIAN_DETAIL_MODULE = _load_local_module("bazichart_engine_liunian_detail", BASE_DIR / "liunian_detail.py")
 PDF_MODULE = _load_local_module("bazichart_engine_pdf_generator", BASE_DIR / "pdf_generator.py")
 SHENSHA_MODULE = _load_local_module("bazichart_engine_shensha", BASE_DIR / "shensha.py")
 SOLAR_TIME_MODULE = _load_local_module("bazichart_engine_solar_time", BASE_DIR / "solar_time.py")
@@ -311,6 +312,15 @@ def generate_interpretation(payload: InterpretRequest, four_pillars: dict[str, A
             f"{item['tiangan']}{item['dizhi']}",
             payload.gender,
         )
+    liunian = DAYUN_MODULE.calculate_liunian(payload.year, current_year - 5, 10)
+    current_dayun_ganzhi = f"{dayun[0]['tiangan']}{dayun[0]['dizhi']}" if dayun else "甲子"
+    for item in liunian:
+        item["detail"] = LIUNIAN_DETAIL_MODULE.generate_liunian_detail(
+            four_pillars,
+            current_dayun_ganzhi,
+            f"{item['tiangan']}{item['dizhi']}",
+            payload.gender,
+        )
     narrative = INTERPRETER_MODULE.post_interpret(
         {
             "lang": "zh",
@@ -336,7 +346,7 @@ def generate_interpretation(payload: InterpretRequest, four_pillars: dict[str, A
         "shensha": SHENSHA_MODULE.calculate_shensha(four_pillars, payload.gender),
         "wuxing_analysis": WUXING_MODULE.analyze_wuxing(four_pillars),
         "dayun": dayun,
-        "liunian": DAYUN_MODULE.calculate_liunian(payload.year, current_year - 5, 10),
+        "liunian": liunian,
         "ten_gods_analysis": {
             "比肩": {
                 "interpretation": "比肩体现自主驱动力、边界感与对平等关系的重视。"
