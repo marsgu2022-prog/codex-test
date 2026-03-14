@@ -1,0 +1,2259 @@
+{
+  "generatedAt": "2026-03-14 16:37:08",
+  "sites": [
+    {
+      "name": "BaZi Lab",
+      "url": "https://www.bazi-lab.com",
+      "status": "ok",
+      "finalUrl": "https://www.bazi-lab.com/",
+      "title": "BaZi Lab - Discover Your Chinese Destiny Chart",
+      "metaDescription": "Explore the ancient wisdom of Chinese BaZi (八字) astrology and understand your destiny path with our advanced BaZi calculator and professional analysis.",
+      "metaKeywords": "BaZi,八字,Chinese Astrology,Four Pillars,Destiny Analysis,Birth Chart,Chinese Metaphysics",
+      "features": [
+        "免费排盘",
+        "付费解读",
+        "AI分析",
+        "真太阳时",
+        "大运流年",
+        "神煞",
+        "合婚"
+      ],
+      "pricing": [
+        "免费"
+      ],
+      "techStack": [
+        "Next.js/React",
+        "Cloudflare",
+        "Google Analytics",
+        "Google Tag Manager",
+        "Microsoft Clarity"
+      ],
+      "seo": {
+        "h1": [
+          "BaZi Lab - Free BaZi AI Calculator, Explore Your Destiny with Our BaZi Chart Analysis"
+        ],
+        "canonical": "https://www.bazi-lab.com",
+        "structuredDataTypes": []
+      },
+      "socialLinks": [
+        "https://www.facebook.com/profile.php?id=61575237020023&sk=about_contact_and_basic_info",
+        "https://x.com/ShiMin_alcor"
+      ],
+      "externalResources": {
+        "scripts": [
+          "https://www.bazi-lab.com/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js",
+          "https://www.bazi-lab.com/_next/static/chunks/1255-8befde0980f5cba9.js",
+          "https://www.bazi-lab.com/_next/static/chunks/main-app-b7ac91ae224968d9.js",
+          "https://www.bazi-lab.com/_next/static/chunks/6489-9f5dcbace9d19dbe.js",
+          "https://www.bazi-lab.com/_next/static/chunks/app/layout-0ff9c5f4c9785805.js",
+          "https://www.bazi-lab.com/_next/static/chunks/fc2f6fa8-af05852e49e1a74f.js",
+          "https://www.bazi-lab.com/_next/static/chunks/2619-04bc32f026a0d946.js",
+          "https://www.bazi-lab.com/_next/static/chunks/1356-55692d5ef6a323df.js",
+          "https://www.bazi-lab.com/_next/static/chunks/587-0a2f69143b54c5ea.js",
+          "https://www.bazi-lab.com/_next/static/chunks/5182-788893f9a2c0cab4.js",
+          "https://www.bazi-lab.com/_next/static/chunks/app/(marketing)/layout-ca70406fb70c50a5.js",
+          "https://www.bazi-lab.com/_next/static/chunks/app/(tools)/layout-6c2a5bb471069c70.js",
+          "https://www.bazi-lab.com/_next/static/chunks/4909-5b84ef3be4b6f0dd.js",
+          "https://www.bazi-lab.com/_next/static/chunks/1652-251cc7b28f896747.js",
+          "https://www.bazi-lab.com/_next/static/chunks/5153-068cce6ea06832ee.js",
+          "https://www.bazi-lab.com/_next/static/chunks/273-067d34dbc05d2700.js",
+          "https://www.bazi-lab.com/_next/static/chunks/3257-7c38ccb5c24fa2c3.js",
+          "https://www.bazi-lab.com/_next/static/chunks/317-8669c2d367ffa0bb.js",
+          "https://www.bazi-lab.com/_next/static/chunks/658-05ebeb335e2ed40e.js",
+          "https://www.bazi-lab.com/_next/static/chunks/app/(marketing)/page-5874efd65fd39350.js",
+          "https://www.bazi-lab.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "https://www.bazi-lab.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+          "https://www.bazi-lab.com/_next/static/chunks/webpack-376494601f4f74cc.js"
+        ],
+        "stylesheets": [
+          "https://www.bazi-lab.com/_next/static/css/6ad9841b43ad2bc9.css",
+          "https://www.bazi-lab.com/_next/static/css/75b4e329561cc660.css"
+        ]
+      },
+      "jsRenderingRequired": false,
+      "internalLinks": [
+        "https://www.bazi-lab.com",
+        "https://www.bazi-lab.com/about",
+        "https://www.bazi-lab.com/bazi-ai-chat",
+        "https://www.bazi-lab.com/bazi-calculator",
+        "https://www.bazi-lab.com/bazi-love-compatibility",
+        "https://www.bazi-lab.com/bazilab-basics",
+        "https://www.bazi-lab.com/blog",
+        "https://www.bazi-lab.com/blog/monthly-bazi-report-upgrade",
+        "https://www.bazi-lab.com/cdn-cgi/l/email-protection",
+        "https://www.bazi-lab.com/chinese-zodiac",
+        "https://www.bazi-lab.com/client-cases",
+        "https://www.bazi-lab.com/crystal-bazi",
+        "https://www.bazi-lab.com/daily-chinese-almanac",
+        "https://www.bazi-lab.com/forum",
+        "https://www.bazi-lab.com/love-compatibility",
+        "https://www.bazi-lab.com/privacy-policy",
+        "https://www.bazi-lab.com/reports",
+        "https://www.bazi-lab.com/services",
+        "https://www.bazi-lab.com/ten-gods",
+        "https://www.bazi-lab.com/true-solar-time",
+        "https://www.bazi-lab.com/zodiac-calculator"
+      ],
+      "apiClues": [],
+      "contentSample": "BaZi Lab - Discover Your Chinese Destiny Chart 🎉 Membership Benefits Upgraded! — Check out our new plans before prices increase ⚡ BaZi Lab Home BaZi Basics BaZi Tools Reports Client Cases Services EN Open menu BaZi Lab - Free BaZi AI Calculator, Explore Your Destiny with Our BaZi Chart Analysis Modern AI BaZi Analysis Based on Traditional Chinese Metaphysics 🔔 Reports have been upgraded with monthly insights. Pricing will be updated soon. BaZi analysis is an ancient Chinese metaphysical system t"
+    },
+    {
+      "name": "Master Tsai",
+      "url": "https://www.mastertsai.com",
+      "status": "ok",
+      "finalUrl": "https://www.mastertsai.com/",
+      "title": "Master Tsai 2026 Chinese Five Element Astrology, Four Pillars of Destiny, Bazi Calculator",
+      "metaDescription": "2026 Chinese Zodiac Red-Fire Horse, Chinese Five Element Bazi Calculator, Four Pillar of Destiny, Rise and Fall Life Chart, Fortune Angel Chinese Astrology Software",
+      "metaKeywords": "",
+      "features": [
+        "付费解读",
+        "AI分析",
+        "神煞",
+        "合婚"
+      ],
+      "pricing": [
+        "$130",
+        "免费"
+      ],
+      "techStack": [
+        "静态HTML或未识别"
+      ],
+      "seo": {
+        "h1": [
+          "Master Tsai Chinese Astrology, Bazi Calculator"
+        ],
+        "canonical": "https://www.mastertsai.com/",
+        "structuredDataTypes": [
+          "Article",
+          "Organization"
+        ]
+      },
+      "socialLinks": [],
+      "externalResources": {
+        "scripts": [
+          "https://cdn.ampproject.org/v0.js",
+          "https://cdn.ampproject.org/v0/amp-ad-0.1.js",
+          "https://cdn.ampproject.org/v0/amp-youtube-0.1.js"
+        ],
+        "stylesheets": [
+          "https://www.mastertsai.com/ChineseAstrology/layout-MT.css"
+        ]
+      },
+      "jsRenderingRequired": false,
+      "internalLinks": [
+        "https://www.mastertsai.com",
+        "https://www.mastertsai.com/AI/Master-Tsai-AI-Bazi-Model.htm",
+        "https://www.mastertsai.com/About.htm",
+        "https://www.mastertsai.com/Almanac/Default.htm",
+        "https://www.mastertsai.com/ChineseAstrology/2026-Fire-Horse.htm",
+        "https://www.mastertsai.com/ChineseAstrology/AstrologyPersonality.htm",
+        "https://www.mastertsai.com/ChineseAstrology/ChineseZodiacBirthChart.htm",
+        "https://www.mastertsai.com/ChineseAstrology/ChineseZodiacYear.htm",
+        "https://www.mastertsai.com/ChineseAstrology/Chineseastrology.htm",
+        "https://www.mastertsai.com/ChineseAstrology/Chineseastrology10.htm",
+        "https://www.mastertsai.com/ChineseAstrology/DailyChineseHoroscope.htm",
+        "https://www.mastertsai.com/ChineseAstrology/FB_DatingCalendar.asp?NOFB=Y",
+        "https://www.mastertsai.com/ChineseAstrology/FB_FastMatch.asp",
+        "https://www.mastertsai.com/ChineseAstrology/Five-Elements/Five-Planets-Five-Elements.htm",
+        "https://www.mastertsai.com/ChineseAstrology/Numerology100.htm",
+        "https://www.mastertsai.com/ChineseAstrology/Search.htm",
+        "https://www.mastertsai.com/ChineseAstrology/ZodiacSign.htm",
+        "https://www.mastertsai.com/Examples/Angel/Nvidia-JensenHuang.htm",
+        "https://www.mastertsai.com/Privacy-Policy.htm",
+        "https://www.mastertsai.com/SiteIndex.htm",
+        "https://www.mastertsai.com/TodayAstrologyChart.htm",
+        "https://www.mastertsai.com/Wisdom-Survive.htm",
+        "https://www.mastertsai.com/aiModel.htm",
+        "https://www.mastertsai.com/palm/Default.htm",
+        "https://www.mastertsai.com/palm/Palm-FacialMole.htm",
+        "https://www.mastertsai.com/software/CFAPM.htm"
+      ],
+      "apiClues": [],
+      "contentSample": "Master Tsai 2026 Chinese Five Element Astrology, Four Pillars of Destiny, Bazi Calculator Zodiac Daily Zodiac Numerology Master Tsai Chinese Astrology, Bazi Calculator Bazi Calculator: Your Rise and Fall Chart 10-God Chinese Zodiac Birth Chart 2026 Chinese Five Element Astrology New Five Pillars Chinese Astrology Master Tsai AI Chinese Astrology Bazi Model With the rise of AI chatbot competition, AI technology is advancing at an incredible pace. ChatGPT is now capable of reading and analyzing Ba"
+    },
+    {
+      "name": "SkillOn",
+      "url": "https://www.skillon.com/bazi-calculator.cfm",
+      "status": "ok",
+      "finalUrl": "https://www.skillon.com/bazi-calculator.cfm",
+      "title": "BaZi Calculator – Four Pillars of Destiny with Ten Gods",
+      "metaDescription": "BaZi Calculator for generating your Four Pillars of Destiny chart — uncover insights into career, wealth, relationships, and life path.",
+      "metaKeywords": "",
+      "features": [
+        "免费排盘",
+        "大运流年",
+        "神煞",
+        "合婚"
+      ],
+      "pricing": [
+        "免费"
+      ],
+      "techStack": [
+        "静态HTML或未识别"
+      ],
+      "seo": {
+        "h1": [
+          "BaZi Calculator – Four Pillars of Destiny with Ten Gods"
+        ],
+        "canonical": "https://www.skillon.com/bazi-calculator.cfm",
+        "structuredDataTypes": [
+          "BreadcrumbList",
+          "Organization",
+          "WebSite"
+        ]
+      },
+      "socialLinks": [
+        "https://twitter.com/intent/tweet?text=BaZi Profiling & Feng Shui Consultation&url=https://www.skillon.com/bazi-calculator.cfm&via=Skillon.com",
+        "https://www.facebook.com/dialog/send?app_id=5303202981&display=popup&link=https://www.skillon.com/bazi-calculator.cfm&redirect_uri=https://www.skillon.com/bazi-calculator.cfm",
+        "https://www.facebook.com/sharer.php?u=https://www.skillon.com/bazi-calculator.cfm",
+        "https://www.facebook.com/skillon.fs"
+      ],
+      "externalResources": {
+        "scripts": [],
+        "stylesheets": [
+          "https://www.skillon.com/css-serve.cfm?v=2.89",
+          "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+        ]
+      },
+      "jsRenderingRequired": false,
+      "internalLinks": [
+        "https://www.skillon.com/8-mansions-love-marry.cfm",
+        "https://www.skillon.com/BaZi-FengShui-Questions-Answers.cfm",
+        "https://www.skillon.com/FamousPeople.cfm",
+        "https://www.skillon.com/SearchSite.cfm",
+        "https://www.skillon.com/Testimonials.cfm",
+        "https://www.skillon.com/about-us.cfm",
+        "https://www.skillon.com/almanac.cfm/date/2026-03-14",
+        "https://www.skillon.com/baby-gender-prediction-bazi.cfm",
+        "https://www.skillon.com/bazi-calculator.cfm",
+        "https://www.skillon.com/bazi-feng-shui-articles.cfm",
+        "https://www.skillon.com/bazi-feng-shui-articles.cfm/Search/2026",
+        "https://www.skillon.com/bazi-feng-shui-articles.cfm/Section/BaZi",
+        "https://www.skillon.com/bazi-feng-shui-articles.cfm/Section/FengShui",
+        "https://www.skillon.com/bazi-feng-shui-articles.cfm/Section/bzstudy",
+        "https://www.skillon.com/bazi-feng-shui-course.cfm",
+        "https://www.skillon.com/bazi-feng-shui.cfm/topic/2733/BaZi-A-Deeper-Understanding-of-the-Ten-Gods",
+        "https://www.skillon.com/bazi-feng-shui.cfm/topic/2742/bazi-a-deeper-understanding-of-the-hidden-stems",
+        "https://www.skillon.com/bazi-feng-shui.cfm/topic/2743/bazi-heavenly-stems",
+        "https://www.skillon.com/bazi-feng-shui.cfm/topic/2744/bazi-feng-shui-zodiac-12-zodiac-animal",
+        "https://www.skillon.com/bazi-feng-shui.cfm/topic/61/Chinese-Almanac-Tong-Shu",
+        "https://www.skillon.com/bazi-feng-shui.cfm/topic/90/Chinese-Almanac-Tong-Shu-and-the-12-Day-Officers",
+        "https://www.skillon.com/bazi-feng-shui.cfm/topic/91/Chinese-Almanac-Tong-Shu-Date-Selection-for-Marriage",
+        "https://www.skillon.com/bazi-fengshui-consultation.cfm",
+        "https://www.skillon.com/bazi.html",
+        "https://www.skillon.com/bone-weight-astrology.cfm",
+        "https://www.skillon.com/chinese-almanac-calendar-tong-shu.cfm",
+        "https://www.skillon.com/contactus.cfm",
+        "https://www.skillon.com/eight-mansions-conceive.cfm",
+        "https://www.skillon.com/eight-mansions-wealth.cfm",
+        "https://www.skillon.com/feng-shui-calculator.cfm",
+        "https://www.skillon.com/feng-shui-flying-star-calculator.cfm/date/2026-03",
+        "https://www.skillon.com/feng-shui-flying-star.cfm/date/2026-03-14",
+        "https://www.skillon.com/fengshui-water-placement.cfm",
+        "https://www.skillon.com/kua-number-calculator.cfm",
+        "https://www.skillon.com/loginnormal.cfm",
+        "https://www.skillon.com/piracy.cfm",
+        "https://www.skillon.com/studentarea.cfm",
+        "https://www.skillon.com/tong-shu-almanac.cfm",
+        "https://www.skillon.com/tong-shu-calendar.cfm/year/2026",
+        "https://www.skillon.com/user-agreement.cfm"
+      ],
+      "apiClues": [
+        "https://www.skillon.com/solar-time.cfm?bb=true"
+      ],
+      "contentSample": "BaZi Calculator – Four Pillars of Destiny with Ten Gods Sat, 14 Mar 2026 | https://www.skillon.com/bazi-calculator.cfm ↑ BaZi Feng Shui Skill On Home Articles All Articles 2026 Horse Year Feng Shui Articles BaZi Articles BaZi Student Case Study Almanac Daily Chinese Almanac (Tong Shu) Monthly Chinese Almanac (Tong Shu) 2026 丙午 Bing Wu (Fire Horse) What is Chinese Almanac Tong Shu? Chinese Almanac and The 12 Day Officers Marriage Date Selection BaZi BaZi Calculator BaZi of 30,000+ celebrities, ri"
+    },
+    {
+      "name": "Master Sean Chan",
+      "url": "https://www.masterseanchan.com/bazi-calculator/",
+      "status": "ok",
+      "finalUrl": "https://www.masterseanchan.com/bazi-calculator/",
+      "title": "BaZi Calculator | Four Pillars of Destiny Chart with Solar Time",
+      "metaDescription": "Free Online BaZi Calculator (Four Pillars of Destiny). Includes Solar Time, GMT, and Auxiliary Stars for maximum accuracy. Instant Chinese Astrology chart generation.",
+      "metaKeywords": "",
+      "features": [
+        "免费排盘",
+        "真太阳时",
+        "大运流年",
+        "神煞",
+        "合婚"
+      ],
+      "pricing": [
+        "免费"
+      ],
+      "techStack": [
+        "jQuery",
+        "WordPress",
+        "Cloudflare",
+        "Google Analytics",
+        "Google Tag Manager"
+      ],
+      "seo": {
+        "h1": [
+          "BaZi Calculator 八字排盘"
+        ],
+        "canonical": "https://www.masterseanchan.com/bazi-calculator/",
+        "structuredDataTypes": [
+          "BreadcrumbList",
+          "FAQPage",
+          "Organization",
+          "SoftwareApplication",
+          "WebSite"
+        ]
+      },
+      "socialLinks": [
+        "https://twitter.com/masterSeanChan",
+        "https://www.facebook.com/masterSeanChan/",
+        "https://www.instagram.com/masterseanchan/"
+      ],
+      "externalResources": {
+        "scripts": [
+          "https://www.masterseanchan.com/wp-content/plugins/wordpress-popular-posts/assets/js/wpp.min.js?ver=7.3.8",
+          "https://www.masterseanchan.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://www.masterseanchan.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://www.masterseanchan.com/wp-content/uploads/siteground-optimizer-assets/tt4b_ajax_script.min.js?ver=v1",
+          "https://www.masterseanchan.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.10.5.3",
+          "https://www.masterseanchan.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=10.5.3",
+          "https://www.masterseanchan.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.10.5.3",
+          "https://www.googletagmanager.com/gtag/js?id=G-NJVY13NWQ5",
+          "https://www.masterseanchan.com/wp-content/plugins/wp-review-slider-pro/public/js/wprs-combined.min.js?ver=12.6.5_1",
+          "https://www.masterseanchan.com/wp-content/plugins/wp-review-slider-pro/public/js/wprev-public.min.js?ver=12.6.5_1",
+          "https://app.termly.io/resource-blocker/7d9a00dd-c34b-4e04-9da3-350b74fc8d4f?autoBlock=on",
+          "https://www.googletagmanager.com/gtag/js?id=AW-17679990053",
+          "https://static.klaviyo.com/onsite/js/UFksZS/klaviyo.js?company_id=UFksZS",
+          "https://static.klaviyo.com/onsite/js/UFksZS/klaviyo.js?ver=3.7.2",
+          "https://www.masterseanchan.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=10.5.3",
+          "https://www.masterseanchan.com/wp-content/uploads/siteground-optimizer-assets/divi-custom-script.min.js?ver=5.0.1",
+          "https://www.masterseanchan.com/wp-content/uploads/siteground-optimizer-assets/smoothscroll.min.js?ver=5.0.1",
+          "https://www.masterseanchan.com/wp-content/uploads/siteground-optimizer-assets/divi-theme-scripts-library-woocommerce.min.js?ver=5.0.1",
+          "https://www.masterseanchan.com/wp-content/uploads/siteground-optimizer-assets/divi-theme-scripts-library-hide-menu.min.js?ver=5.0.1",
+          "https://www.masterseanchan.com/wp-content/uploads/siteground-optimizer-assets/divi-theme-scripts-library-split-menu.min.js?ver=5.0.1",
+          "https://www.masterseanchan.com/wp-content/uploads/siteground-optimizer-assets/divi-theme-scripts-library-menu.min.js?ver=5.0.1",
+          "https://www.masterseanchan.com/wp-content/uploads/siteground-optimizer-assets/divi-theme-scripts-library-scroll-to-top.min.js?ver=5.0.1",
+          "https://www.masterseanchan.com/wp-content/uploads/siteground-optimizer-assets/divi-theme-scripts-library-transparent-menu.min.js?ver=5.0.1",
+          "https://www.masterseanchan.com/wp-content/uploads/siteground-optimizer-assets/googlesitekit-consent-mode.min.js",
+          "https://www.masterseanchan.com/wp-content/uploads/siteground-optimizer-assets/divi-script-library-global-functions.min.js?ver=5.0.1",
+          "https://www.masterseanchan.com/wp-content/uploads/siteground-optimizer-assets/divi-script-library-ext-waypoint.min.js?ver=5.0.1",
+          "https://www.masterseanchan.com/wp-content/uploads/siteground-optimizer-assets/fitvids.min.js?ver=5.0.1",
+          "https://www.masterseanchan.com/wp-content/uploads/siteground-optimizer-assets/divi-script-library-fitvids-functions.min.js?ver=5.0.1",
+          "https://www.masterseanchan.com/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=10.5.3",
+          "https://www.masterseanchan.com/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=10.5.3",
+          "https://www.masterseanchan.com/wp-content/plugins/wp-consent-api/assets/js/wp-consent-api.min.js?ver=2.0.0",
+          "https://www.masterseanchan.com/wp-content/plugins/woocommerce/assets/js/frontend/wp-consent-api-integration.min.js?ver=10.5.3",
+          "https://www.masterseanchan.com/wp-content/uploads/siteground-optimizer-assets/kl-identify-browser.min.js?ver=3.7.2",
+          "https://www.masterseanchan.com/wp-content/uploads/siteground-optimizer-assets/et-core-common.min.js?ver=5.0.1",
+          "https://www.masterseanchan.com/wp-content/uploads/siteground-optimizer-assets/mc4wp-forms-api.min.js?ver=4.11.1",
+          "https://www.masterseanchan.com/wp-content/uploads/siteground-optimizer-assets/googlesitekit-events-provider-mailchimp.min.js",
+          "https://www.masterseanchan.com/wp-content/uploads/siteground-optimizer-assets/googlesitekit-events-provider-woocommerce.min.js",
+          "https://www.masterseanchan.com/wp-content/uploads/siteground-optimizer-assets/divi-script-library-frontend-scripts.min.js?ver=5.0.1",
+          "https://www.masterseanchan.com/wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1",
+          "https://www.masterseanchan.com/wp-content/uploads/siteground-optimizer-assets/gla-gtag-events.min.js?ver=6972d3af2e3be67de9f1",
+          "https://www.masterseanchan.com/wp-content/uploads/siteground-optimizer-assets/gla-wp-consent-api.min.js?ver=b436b8f459e7af6b1a5f",
+          "https://www.masterseanchan.com/wp-content/uploads/siteground-optimizer-assets/divi-script-library-multi-view.min.js?ver=5.0.1",
+          "https://www.masterseanchan.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
+        ],
+        "stylesheets": [
+          "https://www.masterseanchan.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-762de4f98cdb124570e4b098cb4bab6b.css",
+          "https://www.masterseanchan.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.min.css?ver=10.5.3"
+        ]
+      },
+      "jsRenderingRequired": false,
+      "internalLinks": [
+        "https://www.masterseanchan.com",
+        "https://www.masterseanchan.com/about",
+        "https://www.masterseanchan.com/auspicious-chinese-name-selection",
+        "https://www.masterseanchan.com/auspicious-date-selection",
+        "https://www.masterseanchan.com/bazi-calculator",
+        "https://www.masterseanchan.com/bazi-consultation",
+        "https://www.masterseanchan.com/blog",
+        "https://www.masterseanchan.com/business-advisory",
+        "https://www.masterseanchan.com/chinese-metaphysics-courses",
+        "https://www.masterseanchan.com/contact",
+        "https://www.masterseanchan.com/faq",
+        "https://www.masterseanchan.com/feng-shui-audit",
+        "https://www.masterseanchan.com/feng-shui-flying-star-calculator",
+        "https://www.masterseanchan.com/feng-shui-house-hunt",
+        "https://www.masterseanchan.com/guanyin-divination-lots",
+        "https://www.masterseanchan.com/hellenistic-western-astrology",
+        "https://www.masterseanchan.com/media-features",
+        "https://www.masterseanchan.com/privacy-policy",
+        "https://www.masterseanchan.com/qi-men-dun-jia-calculator",
+        "https://www.masterseanchan.com/qi-men-dun-jia-forecasting",
+        "https://www.masterseanchan.com/services",
+        "https://www.masterseanchan.com/sitemap",
+        "https://www.masterseanchan.com/terms-and-conditions",
+        "https://www.masterseanchan.com/testimonials",
+        "https://www.masterseanchan.com/zi-wei-dou-shu-calculator",
+        "https://www.masterseanchan.com/zi-wei-dou-shu-consultation"
+      ],
+      "apiClues": [
+        "https://www.masterseanchan.com/wp-content/plugins/woocommerce/assets/js/frontend/wp-consent-api-integration.min.js?ver=10.5.3",
+        "https://www.masterseanchan.com/wp-content/plugins/wp-consent-api/assets/js/wp-consent-api.min.js?ver=2.0.0",
+        "https://www.masterseanchan.com/wp-content/uploads/siteground-optimizer-assets/gla-wp-consent-api.min.js?ver=b436b8f459e7af6b1a5f",
+        "https://www.masterseanchan.com/wp-content/uploads/siteground-optimizer-assets/mc4wp-forms-api.min.js?ver=4.11.1"
+      ],
+      "contentSample": "BaZi Calculator | Four Pillars of Destiny Chart with Solar Time Home Get To Know Me FAQ Media Features Testimonials Services BaZi Consultation｜八字推命 Zi Wei Dou Shu Consultation | 紫微斗數 Qi Men Dun Jia Forecasting | 奇门遁甲 Hellenistic (Western) Astrology | 占星术 Feng Shui Audit｜阳宅风水 Feng Shui House Hunt | 择宅 Auspicious Chinese Name Selection｜姓名学 Auspicious Date Selection | 择日 Business Advisory Academy Diary Of A Fortune-Teller Tools BaZi Calculator | Four Pillars of Destiny Chart with Solar Time Qi Men "
+    },
+    {
+      "name": "FS In Motion",
+      "url": "https://fsinmotion.com/bazi-calculator/",
+      "status": "ok",
+      "finalUrl": "https://fsinmotion.com/bazi-calculator/",
+      "title": "BaZi Calculator - Feng Shui in Motion",
+      "metaDescription": "Free BaZi Calculator. You can use it to calculate your personal Four Pillars of Destiny birth chart. Go beyond a basic Chinese Astrology horoscope and get your free Chinese Zodiac chart.",
+      "metaKeywords": "",
+      "features": [
+        "免费排盘",
+        "大运流年",
+        "合婚"
+      ],
+      "pricing": [
+        "免费"
+      ],
+      "techStack": [
+        "jQuery",
+        "WordPress",
+        "Stripe"
+      ],
+      "seo": {
+        "h1": [
+          "See Your Personal Energy Blueprint - Free BaZi Calculator"
+        ],
+        "canonical": "https://fsinmotion.com/bazi-calculator/",
+        "structuredDataTypes": [
+          "Article",
+          "Organization",
+          "WebSite"
+        ]
+      },
+      "socialLinks": [
+        "https://www.facebook.com/FengShuiJillian",
+        "https://www.instagram.com/fengshuiinmotion/",
+        "https://www.linkedin.com/in/fengshuiinmotion/"
+      ],
+      "externalResources": {
+        "scripts": [
+          "https://fsinmotion.com/wp-content/plugins/cleantalk-spam-protect/js/apbct-public-bundle.min.js?ver=6.73.1_1771616436",
+          "https://fd.cleantalk.org/ct-bot-detector-wrapper.js?ver=6.73.1",
+          "https://fsinmotion.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://fsinmotion.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://js.stripe.com/v3/?ver=3",
+          "https://fsinmotion.com/wp-content/plugins/restrict-content-pro/core/includes/gateways/stripe/js/stripe.min.js?ver=3.5.21",
+          "https://fsinmotion.com/wp-content/plugins/restrict-content-pro/core/includes/gateways/stripe/js/register.min.js?ver=3.5.21",
+          "https://fsinmotion.com/wp-content/plugins/happy-elementor-addons/assets/vendor/dom-purify/purify.min.js?ver=3.1.6",
+          "https://fsinmotion.com/wp-content/plugins/iching-oracle-final/assets/script.js?ver=6.9.1",
+          "https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js?ver=1.2.76.0",
+          "https://fsinmotion.com/wp-content/plugins/mailoptin/src/core/src/assets/js/mailoptin.min.js?ver=1.2.76.0",
+          "https://fsinmotion.com/wp-content/themes/hello-elementor/assets/js/hello-frontend.js?ver=3.4.6",
+          "https://fsinmotion.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.35.5",
+          "https://fsinmotion.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.35.5",
+          "https://fsinmotion.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3",
+          "https://fsinmotion.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.35.5",
+          "https://fsinmotion.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1",
+          "https://fsinmotion.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.35.1",
+          "https://fsinmotion.com/wp-content/plugins/happy-elementor-addons/assets/js/happy-addons.min.js?ver=3.21.0",
+          "https://fsinmotion.com/wp-content/plugins/happy-elementor-addons/assets/js/extension-reading-progress-bar.min.js?ver=3.21.0",
+          "https://fsinmotion.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.35.1",
+          "https://fsinmotion.com/wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1",
+          "https://fsinmotion.com/wp-includes/js/dist/i18n.min.js?ver=c26c3dc7bed366793375",
+          "https://fsinmotion.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.35.1",
+          "https://fsinmotion.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.35.1"
+        ],
+        "stylesheets": [
+          "https://fsinmotion.com/wp-content/cache/breeze-minification/css/breeze_bazi-calculator-1-77-cleantalk-spam-protect-css-cleantalk-public.min.css?ver=1773458025",
+          "https://fsinmotion.com/wp-content/cache/breeze-minification/css/breeze_bazi-calculator-1-77-cleantalk-spam-protect-css-cleantalk-email-decoder.min.css?ver=1773458025",
+          "https://fsinmotion.com/wp-content/cache/breeze-minification/css/breeze_bazi-calculator-1-77-assets-css-wpbaw-public.css?ver=1773458025",
+          "https://fsinmotion.com/wp-content/cache/breeze-minification/css/breeze_bazi-calculator-1-77-assets-css-reset.css?ver=1773458025",
+          "https://fsinmotion.com/wp-content/cache/breeze-minification/css/breeze_bazi-calculator-1-77-assets-css-theme.css?ver=1773458025",
+          "https://fsinmotion.com/wp-content/cache/breeze-minification/css/breeze_bazi-calculator-1-77-assets-css-header-footer.css?ver=1773458025",
+          "https://fsinmotion.com/wp-content/cache/breeze-minification/css/breeze_bazi-calculator-1-77-assets-css-frontend.min.css?ver=1773458025",
+          "https://fsinmotion.com/wp-content/cache/breeze-minification/css/breeze_bazi-calculator-1-77-elementor-css-post-6.css?ver=1773458025",
+          "https://fsinmotion.com/wp-content/cache/breeze-minification/css/breeze_bazi-calculator-1-77-assets-css-widget-nav-menu.min.css?ver=1773458025",
+          "https://fsinmotion.com/wp-content/cache/breeze-minification/css/breeze_bazi-calculator-1-77-assets-css-widget-social-icons.min.css?ver=1773458025",
+          "https://fsinmotion.com/wp-content/cache/breeze-minification/css/breeze_bazi-calculator-1-77-css-conditionals-apple-webkit.min.css?ver=1773458025",
+          "https://fsinmotion.com/wp-content/cache/breeze-minification/css/breeze_bazi-calculator-1-77-eicons-css-elementor-icons.min.css?ver=1773458025",
+          "https://fsinmotion.com/wp-content/cache/breeze-minification/css/breeze_bazi-calculator-1-77-assets-css-widget-heading.min.css?ver=1773458025",
+          "https://fsinmotion.com/wp-content/cache/breeze-minification/css/breeze_bazi-calculator-1-77-css-modules-motion-fx.min.css?ver=1773458025",
+          "https://fsinmotion.com/wp-content/cache/breeze-minification/css/breeze_bazi-calculator-1-77-assets-css-widget-icon-list.min.css?ver=1773458025",
+          "https://fsinmotion.com/wp-content/cache/breeze-minification/css/breeze_bazi-calculator-1-77-assets-css-widget-form.min.css?ver=1773458025",
+          "https://fsinmotion.com/wp-content/cache/breeze-minification/css/breeze_bazi-calculator-1-77-elementor-css-post-77.css?ver=1773458025",
+          "https://fsinmotion.com/wp-content/cache/breeze-minification/css/breeze_bazi-calculator-1-77-elementor-css-post-94.css?ver=1773458025",
+          "https://fsinmotion.com/wp-content/cache/breeze-minification/css/breeze_bazi-calculator-1-77-assets-fonts-style.min.css?ver=1773458025",
+          "https://fsinmotion.com/wp-content/cache/breeze-minification/css/breeze_bazi-calculator-1-77-font-awesome-css-font-awesome.min.css?ver=1773458025",
+          "https://fsinmotion.com/wp-content/cache/breeze-minification/css/breeze_bazi-calculator-1-77-elementor-css-post-100.css?ver=1773458025",
+          "https://fsinmotion.com/wp-content/cache/breeze-minification/css/breeze_bazi-calculator-1-77-google-fonts-css-nunito.css?ver=1773458025",
+          "https://fsinmotion.com/wp-content/cache/breeze-minification/css/breeze_bazi-calculator-1-77-google-fonts-css-lora.css?ver=1773458025",
+          "https://fsinmotion.com/wp-content/cache/breeze-minification/css/breeze_bazi-calculator-1-77-google-fonts-css-roboto.css?ver=1773458025",
+          "https://fsinmotion.com/wp-content/cache/breeze-minification/css/breeze_bazi-calculator-1-77-google-fonts-css-ptserif.css?ver=1773458025",
+          "https://fsinmotion.com/wp-content/cache/breeze-minification/css/breeze_bazi-calculator-1-77-font-awesome-css-fontawesome.min.css?ver=1773458025",
+          "https://fsinmotion.com/wp-content/cache/breeze-minification/css/breeze_bazi-calculator-1-77-font-awesome-css-solid.min.css?ver=1773458025",
+          "https://fsinmotion.com/wp-content/cache/breeze-minification/css/breeze_bazi-calculator-1-77-font-awesome-css-brands.min.css?ver=1773458025"
+        ]
+      },
+      "jsRenderingRequired": false,
+      "internalLinks": [
+        "https://fsinmotion.com",
+        "https://fsinmotion.com/access",
+        "https://fsinmotion.com/bazi-calculator",
+        "https://fsinmotion.com/bf3bbd8ed4e8a27f",
+        "https://fsinmotion.com/business-feng-shui-case-study",
+        "https://fsinmotion.com/contact",
+        "https://fsinmotion.com/cookie-policy",
+        "https://fsinmotion.com/feng-shui-courses",
+        "https://fsinmotion.com/feng-shui-gift-certificate",
+        "https://fsinmotion.com/feng-shui-insights",
+        "https://fsinmotion.com/four-pillars-of-destiny",
+        "https://fsinmotion.com/free-stuff",
+        "https://fsinmotion.com/frequently-asked-questions",
+        "https://fsinmotion.com/is-this-you",
+        "https://fsinmotion.com/jillian-rothschild-scholar",
+        "https://fsinmotion.com/my-approach",
+        "https://fsinmotion.com/personal-calendar",
+        "https://fsinmotion.com/praise",
+        "https://fsinmotion.com/privacy-policy",
+        "https://fsinmotion.com/terms-conditions",
+        "https://fsinmotion.com/work-with-me"
+      ],
+      "apiClues": [
+        "https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js?ver=1.2.76.0"
+      ],
+      "contentSample": "BaZi Calculator - Feng Shui in Motion Skip to content Access Your Home Study Courses 2026 Personal Calendar Orders Now Open Feng Shui In Motion Home About You & Me Is This You? About Me Business Feng Shui Case Study Praise Frequently Asked Questions My Approach Work With Me Free Stuff Shop Personal Calendar Gift Certificate Feng Shui Courses Home About You & Me Is This You? About Me Business Feng Shui Case Study Praise Frequently Asked Questions My Approach Work With Me Free Stuff Shop Personal "
+    },
+    {
+      "name": "Feng Shui Xin Yu",
+      "url": "https://fengshuixinyu.com/bazi-calculator/",
+      "status": "ok",
+      "finalUrl": "https://fengshuixinyu.com/bazi-calculator/",
+      "title": "Free BaZi Calculator | Four Pillars of Destiny",
+      "metaDescription": "Curious about what the universe revealed at the moment you were born?Simply enter your birth year, month, day, and hour, and our Free BaZi Calculator will",
+      "metaKeywords": "",
+      "features": [
+        "免费排盘",
+        "付费解读",
+        "合婚"
+      ],
+      "pricing": [
+        "$0.00",
+        "$129.99",
+        "$199.99",
+        "$269.99",
+        "$99.99",
+        "免费"
+      ],
+      "techStack": [
+        "jQuery",
+        "WordPress",
+        "Google Analytics",
+        "Google Tag Manager"
+      ],
+      "seo": {
+        "h1": [
+          "Free BaZi Calculator",
+          "Free BaZi Calculator — Decode Your Destiny Through the Four Pillars of Destiny (八字)"
+        ],
+        "canonical": "https://fengshuixinyu.com/bazi-calculator/",
+        "structuredDataTypes": [
+          "Article",
+          "Organization",
+          "WebSite"
+        ]
+      },
+      "socialLinks": [
+        "https://www.facebook.com/fengshuixinyu",
+        "https://www.instagram.com/xinyufengshui/",
+        "https://www.tiktok.com/@fengsuuiforluck",
+        "https://www.youtube.com/@Fengshuimasterxinyu"
+      ],
+      "externalResources": {
+        "scripts": [
+          "https://fengshuixinyu.com/wp-content/plugins/revslider-v6.7.38/public/js/libs/tptools.js?ver=6.7.38",
+          "https://fengshuixinyu.com/wp-content/plugins/revslider-v6.7.38/public/js/sr7.js?ver=6.7.38",
+          "https://fengshuixinyu.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://fengshuixinyu.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://fengshuixinyu.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.10.5.0",
+          "https://fengshuixinyu.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=10.5.0",
+          "https://fengshuixinyu.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.10.5.0",
+          "https://fengshuixinyu.com/wp-content/plugins/translatepress-multilingual/assets/js/trp-frontend-compatibility.js?ver=3.0.8",
+          "https://fengshuixinyu.com/wp-content/plugins/translatepress-multilingual/assets/js/trp-frontend-language-switcher.js?ver=3.0.8",
+          "https://www.googletagmanager.com/gtag/js?id=GT-TQSV8574",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/js/scripts/global/scrollBar.min.js?ver=8.3.9",
+          "https://accounts.google.com/gsi/client",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/js/scripts/wc/updateCartFragmentsFix.js?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=10.5.0",
+          "https://fengshuixinyu.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.35.3",
+          "https://fengshuixinyu.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.35.3",
+          "https://fengshuixinyu.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3",
+          "https://fengshuixinyu.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.35.3",
+          "https://fengshuixinyu.com/wp-content/plugins/creame-whatsapp-me/public/js/joinchat.min.js?ver=6.0.10",
+          "https://fengshuixinyu.com/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=10.5.0",
+          "https://fengshuixinyu.com/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=10.5.0",
+          "https://fengshuixinyu.com/wp-content/plugins/hurrytimer-pro/assets/js/cookie.min.js?ver=3.14.1",
+          "https://fengshuixinyu.com/wp-content/plugins/hurrytimer-pro/assets/js/jquery.countdown.min.js?ver=2.2.0",
+          "https://fengshuixinyu.com/wp-content/plugins/hurrytimer-pro/assets/js/hurrytimer.js?ver=2.17.0",
+          "https://fengshuixinyu.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.35.0",
+          "https://fengshuixinyu.com/wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1",
+          "https://fengshuixinyu.com/wp-includes/js/dist/i18n.min.js?ver=c26c3dc7bed366793375",
+          "https://fengshuixinyu.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.35.0",
+          "https://fengshuixinyu.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.35.0",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/js/scripts/global/helpers.min.js?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/js/scripts/wc/woocommerceNotices.min.js?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-events-provider-woocommerce-9717a4b16d0ac7e06633.js",
+          "https://fengshuixinyu.com/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-events-provider-wpforms-ed443a3a3d45126a22ce.js",
+          "https://fengshuixinyu.com/wp-content/plugins/complianz-gdpr-premium/cookiebanner/js/complianz.min.js?ver=1769494636",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/js/scripts/header/headerBuilder.min.js?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/js/scripts/menu/menuOffsets.min.js?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/js/scripts/menu/menuSetUp.min.js?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/js/scripts/wc/loginSidebar.min.js?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/js/libs/autocomplete.min.js?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/js/scripts/global/ajaxSearch.min.js?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/js/scripts/global/clearSearch.min.js?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/js/scripts/wc/wishlist.min.js?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/js/scripts/wc/onRemoveFromCart.min.js?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/js/scripts/wc/quickShop.min.js?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/js/scripts/wc/swatchesVariations.min.js?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/js/scripts/wc/addToCartAllTypes.min.js?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-includes/js/underscore.min.js?ver=1.13.7",
+          "https://fengshuixinyu.com/wp-includes/js/wp-util.min.js?ver=6.9.4",
+          "https://fengshuixinyu.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=10.5.0",
+          "https://fengshuixinyu.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/js/libs/swiper.min.js?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/js/scripts/global/swiperInit.min.js?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/js/scripts/wc/productHover.min.js?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/js/scripts/wc/productMoreDescription.min.js?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/js/scripts/wc/woodmartCompare.min.js?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/js/libs/magnific-popup.min.js?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/js/scripts/wc/productImagesGallery.min.js?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/js/scripts/wc/quickView.min.js?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/js/libs/tooltips.min.js?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/js/scripts/global/btnsToolTips.min.js?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/js/scripts/wc/woocommerceQuantity.min.js?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/js/scripts/wc/actionAfterAddToCart.min.js?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/plugins/mailpoet/assets/dist/js/public.js?ver=5.20.0",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/js/scripts/global/widgetCollapse.min.js?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/js/scripts/global/scrollTop.min.js?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/js/scripts/menu/mobileNavigation.min.js?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/js/scripts/wc/cartWidget.min.js?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=10.5.0"
+        ],
+        "stylesheets": [
+          "https://fengshuixinyu.com/wp-content/plugins/revslider-v6.7.38/public/css/sr7.css?ver=6.7.38",
+          "https://fengshuixinyu.com/wp-content/plugins/complianz-gdpr-premium/assets/css/cookieblocker.min.css?ver=1769494636",
+          "https://fengshuixinyu.com/wp-content/uploads/elementor/css/custom-frontend.min.css?ver=1773026905",
+          "https://fengshuixinyu.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.47.0",
+          "https://fengshuixinyu.com/wp-content/uploads/elementor/css/custom-widget-floating-bars-base.min.css?ver=1773026905",
+          "https://fengshuixinyu.com/wp-content/uploads/elementor/css/post-6.css?ver=1773026906",
+          "https://fengshuixinyu.com/wp-content/uploads/elementor/css/post-30614.css?ver=1773027111",
+          "https://fengshuixinyu.com/wp-content/uploads/elementor/css/post-32455.css?ver=1773026906",
+          "https://fengshuixinyu.com/wp-content/plugins/translatepress-multilingual/assets/css/trp-language-switcher-v2.css?ver=3.0.8",
+          "https://fengshuixinyu.com/wp-content/uploads/hurrytimer/css/bf5d2abfc41b7258.css?ver=6.9.4",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/woo-widget-price-filter.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/woo-widget-other.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/base.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/helpers-wpb-elem.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/int-rev-slider.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/int-woo-paypal-payments.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/int-elem-base.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/int-elementor-pro.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/woocommerce-base.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/mod-star-rating.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/woo-mod-block-notices.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/wp-blocks.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/header-base.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/mod-tools.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/header-el-base.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/woo-mod-login-form.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/header-el-my-account.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/header-el-search.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/wd-search-form.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/wd-search-results.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/wd-search-dropdown.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/header-el-cart-side.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/header-el-cart.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/woo-widget-shopping-cart.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/woo-widget-product-list.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/header-el-mobile-nav-dropdown.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/page-title.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/el-section-title.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/el-text-block.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/woo-product-loop.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/woo-prod-loop-fw-button.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/woo-mod-add-btn-replace.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/mod-more-description.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/woo-opt-stretch-cont.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/woo-opt-title-limit.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/lib-swiper.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/woo-mod-product-labels.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/woo-mod-product-labels-round.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/lib-magnific-popup.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/mod-animations-transform.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/mod-transform.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/lib-swiper-arrows.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/lib-swiper-pagin.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/opt-widget-collapse.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/footer-base.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/el-list.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/el-list-wpb-elem.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/widget-wd-recent-posts.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/widget-nav.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/opt-scrolltotop.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/themes/woodmart/css/parts/header-el-my-account-sidebar.min.css?ver=8.3.9",
+          "https://fengshuixinyu.com/wp-content/uploads/2026/02/xts-theme_settings_default-1770098335.css?ver=8.3.9",
+          "https://fonts.googleapis.com/css?family=Lora%3A400%2C600&ver=8.3.9",
+          "https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+          "https://fengshuixinyu.com/wp-content/uploads/elementor/css/post-818.css?ver=1773026906",
+          "https://fengshuixinyu.com/wp-content/plugins/woocommerce-gateway-stripe/build/upe-blocks.css?ver=5149cca93b0373758856",
+          "https://fengshuixinyu.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.5.0",
+          "https://fonts.googleapis.com/css?family=Abril+FatFace%3A400%2C400i%2C700%2C700i%7CAlegreya%3A400%2C400i%2C700%2C700i%7CAlegreya+Sans%3A400%2C400i%2C700%2C700i%7CAmatic+SC%3A400%2C400i%2C700%2C700i%7CAnonymous+Pro%3A400%2C400i%2C700%2C700i%7CArchitects+Daughter%3A400%2C400i%2C700%2C700i%7CArchivo%3A400%2C400i%2C700%2C700i%7CArchivo+Narrow%3A400%2C400i%2C700%2C700i%7CAsap%3A400%2C400i%2C700%2C700i%7CBarlow%3A400%2C400i%2C700%2C700i%7CBioRhyme%3A400%2C400i%2C700%2C700i%7CBonbon%3A400%2C400i%2C700%2C700i%7CCabin%3A400%2C400i%2C700%2C700i%7CCairo%3A400%2C400i%2C700%2C700i%7CCardo%3A400%2C400i%2C700%2C700i%7CChivo%3A400%2C400i%2C700%2C700i%7CConcert+One%3A400%2C400i%2C700%2C700i%7CCormorant%3A400%2C400i%2C700%2C700i%7CCrimson+Text%3A400%2C400i%2C700%2C700i%7CEczar%3A400%2C400i%2C700%2C700i%7CExo+2%3A400%2C400i%2C700%2C700i%7CFira+Sans%3A400%2C400i%2C700%2C700i%7CFjalla+One%3A400%2C400i%2C700%2C700i%7CFrank+Ruhl+Libre%3A400%2C400i%2C700%2C700i%7CGreat+Vibes%3A400%2C400i%2C700%2C700i&ver=6.9.4",
+          "https://fonts.googleapis.com/css?family=Heebo%3A400%2C400i%2C700%2C700i%7CIBM+Plex%3A400%2C400i%2C700%2C700i%7CInconsolata%3A400%2C400i%2C700%2C700i%7CIndie+Flower%3A400%2C400i%2C700%2C700i%7CInknut+Antiqua%3A400%2C400i%2C700%2C700i%7CInter%3A400%2C400i%2C700%2C700i%7CKarla%3A400%2C400i%2C700%2C700i%7CLibre+Baskerville%3A400%2C400i%2C700%2C700i%7CLibre+Franklin%3A400%2C400i%2C700%2C700i%7CMontserrat%3A400%2C400i%2C700%2C700i%7CNeuton%3A400%2C400i%2C700%2C700i%7CNotable%3A400%2C400i%2C700%2C700i%7CNothing+You+Could+Do%3A400%2C400i%2C700%2C700i%7CNoto+Sans%3A400%2C400i%2C700%2C700i%7CNunito%3A400%2C400i%2C700%2C700i%7COld+Standard+TT%3A400%2C400i%2C700%2C700i%7COxygen%3A400%2C400i%2C700%2C700i%7CPacifico%3A400%2C400i%2C700%2C700i%7CPoppins%3A400%2C400i%2C700%2C700i%7CProza+Libre%3A400%2C400i%2C700%2C700i%7CPT+Sans%3A400%2C400i%2C700%2C700i%7CPT+Serif%3A400%2C400i%2C700%2C700i%7CRakkas%3A400%2C400i%2C700%2C700i%7CReenie+Beanie%3A400%2C400i%2C700%2C700i%7CRoboto+Slab%3A400%2C400i%2C700%2C700i&ver=6.9.4",
+          "https://fonts.googleapis.com/css?family=Ropa+Sans%3A400%2C400i%2C700%2C700i%7CRubik%3A400%2C400i%2C700%2C700i%7CShadows+Into+Light%3A400%2C400i%2C700%2C700i%7CSpace+Mono%3A400%2C400i%2C700%2C700i%7CSpectral%3A400%2C400i%2C700%2C700i%7CSue+Ellen+Francisco%3A400%2C400i%2C700%2C700i%7CTitillium+Web%3A400%2C400i%2C700%2C700i%7CUbuntu%3A400%2C400i%2C700%2C700i%7CVarela%3A400%2C400i%2C700%2C700i%7CVollkorn%3A400%2C400i%2C700%2C700i%7CWork+Sans%3A400%2C400i%2C700%2C700i%7CYatra+One%3A400%2C400i%2C700%2C700i&ver=6.9.4",
+          "https://fengshuixinyu.com/wp-content/plugins/mailpoet/assets/dist/css/mailpoet-public.eb66e3ab.css?ver=6.9.4",
+          "https://fengshuixinyu.com/wp-content/plugins/creame-whatsapp-me/public/css/joinchat.min.css?ver=6.0.10"
+        ]
+      },
+      "jsRenderingRequired": false,
+      "internalLinks": [
+        "https://fengshuixinyu.com",
+        "https://fengshuixinyu.com/about-us",
+        "https://fengshuixinyu.com/bazi-calculator",
+        "https://fengshuixinyu.com/bazi-calculator/?add-to-cart=29521",
+        "https://fengshuixinyu.com/bazi-calculator/?add-to-cart=29530",
+        "https://fengshuixinyu.com/bazi-calculator/?add-to-cart=29535",
+        "https://fengshuixinyu.com/bazi-calculator/?add-to-cart=29538",
+        "https://fengshuixinyu.com/bazi-calculator/?add-to-cart=29913",
+        "https://fengshuixinyu.com/bazi-calculator/?add-to-cart=29917",
+        "https://fengshuixinyu.com/blog",
+        "https://fengshuixinyu.com/cart",
+        "https://fengshuixinyu.com/compare",
+        "https://fengshuixinyu.com/contact-us",
+        "https://fengshuixinyu.com/cookie-policy",
+        "https://fengshuixinyu.com/es/bazi-calculator",
+        "https://fengshuixinyu.com/my-account",
+        "https://fengshuixinyu.com/my-account/?action=register",
+        "https://fengshuixinyu.com/my-account/lost-password",
+        "https://fengshuixinyu.com/privacy-policy",
+        "https://fengshuixinyu.com/product/a-complete-bazi-consultation",
+        "https://fengshuixinyu.com/product/career-bazi-consultation",
+        "https://fengshuixinyu.com/product/health-bazi-consultation",
+        "https://fengshuixinyu.com/product/love-relationship-bazi-consultation",
+        "https://fengshuixinyu.com/product/success-failure-bazi-consultation",
+        "https://fengshuixinyu.com/product/wealth-bazi-consultation",
+        "https://fengshuixinyu.com/refund-policy",
+        "https://fengshuixinyu.com/shipping-delivery",
+        "https://fengshuixinyu.com/shop",
+        "https://fengshuixinyu.com/shop/bazi-reading",
+        "https://fengshuixinyu.com/shop/energy-bracelet",
+        "https://fengshuixinyu.com/shop/energy-cleansing",
+        "https://fengshuixinyu.com/shop/pet-blessing",
+        "https://fengshuixinyu.com/shop/proxy-sacrificial",
+        "https://fengshuixinyu.com/shop/taoist-mobile-wallpapers",
+        "https://fengshuixinyu.com/shop/taoist-talisman",
+        "https://fengshuixinyu.com/terms-conditions",
+        "https://fengshuixinyu.com/the-ultimate-guide-to-feng-shui-interior-design",
+        "https://fengshuixinyu.com/ultimate-bedroom-feng-shui-guide",
+        "https://fengshuixinyu.com/wishlist",
+        "https://fengshuixinyu.com/zh/bazi-calculator"
+      ],
+      "apiClues": [
+        "https://fengshuixinyu.com/wp-login.php?action=googlesitekit_auth"
+      ],
+      "contentSample": "Free BaZi Calculator | Four Pillars of Destiny Skip to navigation Skip to main content English English Español 香港中文 English English Español 香港中文 Home Shop Energy Bracelet Taoist Talisman Taoist Mobile Wallpapers Services Bazi Reading Proxy Sacrificial Energy Cleansing Pet Blessing Calculator Free BaZi Calculator Blog About Contact Login / Register Search Search Wishlist 0 items $ 0.00 Menu 0 items $ 0.00 Free BaZi Calculator Free BaZi Calculator — Decode Your Destiny Through the Four Pillars of "
+    },
+    {
+      "name": "Marlyna Consulting",
+      "url": "https://marlynaconsulting.com/ba-zi-calculator/",
+      "status": "ok",
+      "finalUrl": "https://marlynaconsulting.com/ba-zi-calculator/",
+      "title": "Free BaZi Calculator – Four Pillars of Destiny Chart",
+      "metaDescription": "Use this free BaZi Calculator to discover your Four Pillars of Destiny based on your birth date and time. Get insights into career, relationships, and life path with ancient Chinese astrology.",
+      "metaKeywords": "",
+      "features": [
+        "免费排盘",
+        "神煞",
+        "合婚"
+      ],
+      "pricing": [
+        "免费"
+      ],
+      "techStack": [
+        "React",
+        "jQuery",
+        "WordPress",
+        "Google Analytics",
+        "Google Tag Manager"
+      ],
+      "seo": {
+        "h1": [
+          "Ba Zi Calculator"
+        ],
+        "canonical": "https://marlynaconsulting.com/ba-zi-calculator/",
+        "structuredDataTypes": [
+          "BreadcrumbList",
+          "Organization",
+          "WebSite"
+        ]
+      },
+      "socialLinks": [
+        "https://twitter.com/MarlynaLos",
+        "https://www.facebook.com/MarlynaLosFengShuiConsulting/",
+        "https://www.instagram.com/marlynalos/",
+        "https://www.linkedin.com/in/marlynalos/",
+        "https://www.youtube.com/user/marlynalos"
+      ],
+      "externalResources": {
+        "scripts": [
+          "https://marlynaconsulting.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "https://marlynaconsulting.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "https://marlynaconsulting.com/wp-includes/js/twemoji.min.js?ver=2.9.00",
+          "https://marlynaconsulting.com/wp-content/plugins/buddyboss-platform/bp-core/js/bb-emoji-loader.min.js?ver=2.9.00",
+          "https://marlynaconsulting.com/wp-content/plugins/buddyboss-platform-pro/includes/reactions/assets/js/bb-reaction.min.js?ver=2.7.50",
+          "https://marlynaconsulting.com/wp-content/plugins/buddyboss-platform-pro/includes/integrations/meprlms/assets/js/bb-meprlms-frontend.min.js?ver=2.9.00",
+          "https://marlynaconsulting.com/wp-content/plugins/buddyboss-platform-pro/includes/integrations/tutorlms/assets/js/bb-tutorlms-admin.min.js?ver=2.9.00",
+          "https://marlynaconsulting.com/wp-content/plugins/buddyboss-platform/bp-core/js/widget-members.min.js?ver=2.9.00",
+          "https://marlynaconsulting.com/wp-content/plugins/buddyboss-platform/bp-core/js/jquery-query.min.js?ver=2.9.00",
+          "https://marlynaconsulting.com/wp-content/plugins/buddyboss-platform/bp-core/js/vendor/jquery-cookie.min.js?ver=2.9.00",
+          "https://marlynaconsulting.com/wp-content/plugins/buddyboss-platform/bp-core/js/vendor/jquery-scroll-to.min.js?ver=2.9.00",
+          "https://marlynaconsulting.com/wp-content/plugins/cookie-law-info/legacy/public/js/cookie-law-info-public.js?ver=3.3.1",
+          "https://marlynaconsulting.com/wp-content/plugins/woocommerce-follow-up-emails/templates/js/fue-account-subscriptions.js?ver=4.9.32",
+          "https://marlynaconsulting.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.9.9.7",
+          "https://marlynaconsulting.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=9.9.7",
+          "https://marlynaconsulting.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.9.9.7",
+          "https://marlynaconsulting.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=9.9.7",
+          "https://marlynaconsulting.com/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/js/spin.min.js?ver=27.1",
+          "https://marlynaconsulting.com/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/js/ladda.min.js?ver=27.1",
+          "https://marlynaconsulting.com/wp-content/plugins/bookly-responsive-appointment-booking-tool/backend/resources/js/moment.min.js?ver=27.1",
+          "https://marlynaconsulting.com/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/js/hammer.min.js?ver=27.1",
+          "https://marlynaconsulting.com/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/js/jquery.hammer.min.js?ver=27.1",
+          "https://marlynaconsulting.com/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/js/qrcode.js?ver=27.1",
+          "https://marlynaconsulting.com/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/js/bookly.min.js?ver=27.1",
+          "https://marlynaconsulting.com/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/js/intlTelInput.min.js?ver=27.1",
+          "https://marlynaconsulting.com/wp-content/plugins/bookly-addon-pro/frontend/modules/customer_profile/resources/js/customer-profile.js?ver=8.7",
+          "https://marlynaconsulting.com/wp-content/plugins/hide-admin-bar-based-on-user-roles/public/js/hide-admin-bar-based-on-user-roles-public.js?ver=6.0.3",
+          "https://www.googletagmanager.com/gtag/js?id=GT-WPL293C",
+          "https://marlynaconsulting.com/wp-content/themes/buddyboss-theme-child/assets/js/custom.js?ver=1.0.0",
+          "https://marlynaconsulting.com/wp-content/themes/buddyboss-theme-child/assets/js/custom-zerofp.js?ver=1.0.0",
+          "https://www.googletagmanager.com/gtag/js?id=G-1KZNRQZD8S",
+          "https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit",
+          "https://marlynaconsulting.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3",
+          "https://marlynaconsulting.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.3",
+          "https://marlynaconsulting.com/wp-content/plugins/modern-events-calendar-lite/assets/js/jquery.typewatch.js?ver=7.23.0.1773445833",
+          "https://marlynaconsulting.com/wp-content/plugins/modern-events-calendar-lite/assets/packages/featherlight/featherlight.js?ver=7.23.0.1773445833",
+          "https://marlynaconsulting.com/wp-content/plugins/modern-events-calendar-lite/assets/packages/select2/select2.full.min.js?ver=7.23.0.1773445833",
+          "https://marlynaconsulting.com/wp-content/plugins/modern-events-calendar-lite/assets/js/mec-general-calendar.js?ver=7.23.0.1773445833",
+          "https://marlynaconsulting.com/wp-content/plugins/modern-events-calendar-lite/assets/packages/tooltip/tooltip.js?ver=7.23.0.1773445833",
+          "https://marlynaconsulting.com/wp-content/plugins/modern-events-calendar-lite/assets/js/frontend.js?ver=7.23.0.1773445833",
+          "https://marlynaconsulting.com/wp-content/plugins/modern-events-calendar-lite/assets/js/events.js?ver=7.23.0.1773445833",
+          "https://marlynaconsulting.com/wp-content/plugins/modern-events-calendar-lite/assets/packages/lity/lity.min.js?ver=7.23.0.1773445833",
+          "https://marlynaconsulting.com/wp-content/plugins/modern-events-calendar-lite/assets/packages/colorbrightness/colorbrightness.min.js?ver=7.23.0.1773445833",
+          "https://marlynaconsulting.com/wp-content/plugins/modern-events-calendar-lite/assets/packages/owl-carousel/owl.carousel.min.js?ver=7.23.0.1773445833",
+          "https://marlynaconsulting.com/wp-content/plugins/buddyboss-platform/bp-core/js/vendor/isInViewport.min.js?ver=2.9.00",
+          "https://marlynaconsulting.com/wp-includes/js/dist/vendor/moment.min.js?ver=2.30.1",
+          "https://marlynaconsulting.com/wp-content/plugins/buddyboss-platform/bp-core/js/livestamp.min.js?ver=2.9.00",
+          "https://marlynaconsulting.com/wp-content/plugins/the-events-calendar/common/src/resources/js/underscore-before.js",
+          "https://marlynaconsulting.com/wp-includes/js/underscore.min.js?ver=1.13.7",
+          "https://marlynaconsulting.com/wp-content/plugins/the-events-calendar/common/src/resources/js/underscore-after.js",
+          "https://marlynaconsulting.com/wp-includes/js/wp-util.min.js?ver=6.8.5",
+          "https://marlynaconsulting.com/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6",
+          "https://marlynaconsulting.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6",
+          "https://marlynaconsulting.com/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/js/buddypress-nouveau.min.js?ver=2.9.00",
+          "https://marlynaconsulting.com/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/js/jquery.guillotine.min.js?ver=2.9.00",
+          "https://marlynaconsulting.com/wp-includes/js/comment-reply.min.js?ver=6.8.5",
+          "https://marlynaconsulting.com/wp-includes/js/heartbeat.min.js?ver=6.8.5",
+          "https://marlynaconsulting.com/wp-content/themes/buddyboss-theme/assets/js/vendors/draggabilly.min.js?ver=1.7.3",
+          "https://marlynaconsulting.com/wp-content/themes/buddyboss-theme/assets/js/plugins/bbp-scrubber.js?ver=1.7.3",
+          "https://marlynaconsulting.com/wp-content/plugins/buddyboss-platform/bp-core/js/vendor/jquery.caret.min.js?ver=2.9.00",
+          "https://marlynaconsulting.com/wp-content/plugins/buddyboss-platform/bp-core/js/jquery.atwho.min.js?ver=2.9.00",
+          "https://marlynaconsulting.com/wp-content/plugins/buddyboss-platform/bp-core/js/mentions.min.js?ver=2.9.00",
+          "https://marlynaconsulting.com/wp-content/plugins/cbxtakeatour/assets/vendors/tourguidejs/tour.js?ver=1773420632",
+          "https://marlynaconsulting.com/wp-content/plugins/cbxtakeatour/assets/js/cbxtakeatour-events.js?ver=1773420632",
+          "https://marlynaconsulting.com/wp-content/plugins/cbxtakeatour/assets/js/cbxtakeatour-public.js?ver=1773420632",
+          "https://marlynaconsulting.com/wp-content/plugins/frontend-reset-password/assets/js/password-lost.js?ver=1.0.0",
+          "https://marlynaconsulting.com/wp-includes/js/jquery/ui/tooltip.min.js?ver=1.13.3",
+          "https://marlynaconsulting.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3",
+          "https://marlynaconsulting.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.13.3",
+          "https://marlynaconsulting.com/wp-content/plugins/lifterlms/assets/vendor/webui-popover/jquery.webui-popover.min.js?ver=1.2.15",
+          "https://marlynaconsulting.com/wp-content/plugins/lifterlms/assets/js/llms.min.js?ver=1773445832",
+          "https://marlynaconsulting.com/wp-content/plugins/lifterlms/assets/js/llms-ajax.min.js?ver=9.1.0",
+          "https://marlynaconsulting.com/wp-content/plugins/lifterlms/assets/js/llms-form-checkout.min.js?ver=1773445832",
+          "https://marlynaconsulting.com/wp-content/plugins/mystickymenu/js/morphext/morphext.min.js?ver=2.8.2",
+          "https://marlynaconsulting.com/wp-content/plugins/mystickymenu/js/welcomebar-front.js?ver=2.8.2",
+          "https://marlynaconsulting.com/wp-content/plugins/woocommerce-follow-up-emails/templates/js/fue-front.js?ver=4.9.32",
+          "https://marlynaconsulting.com/wp-content/plugins/genesis-blocks/dist/assets/js/dismiss.js?ver=1764964214",
+          "https://marlynaconsulting.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0",
+          "https://marlynaconsulting.com/wp-includes/js/masonry.min.js?ver=4.2.2",
+          "https://marlynaconsulting.com/wp-content/themes/buddyboss-theme/assets/js/vendors/menu.js?ver=1.7.3",
+          "https://marlynaconsulting.com/wp-content/themes/buddyboss-theme/assets/js/vendors/fitvids.js?ver=1.7.3",
+          "https://marlynaconsulting.com/wp-content/themes/buddyboss-theme/assets/js/vendors/slick.min.js?ver=1.7.3",
+          "https://marlynaconsulting.com/wp-content/themes/buddyboss-theme/assets/js/vendors/panelslider.min.js?ver=1.7.3",
+          "https://marlynaconsulting.com/wp-content/themes/buddyboss-theme/assets/js/vendors/sticky-kit.js?ver=1.7.3",
+          "https://marlynaconsulting.com/wp-content/themes/buddyboss-theme/assets/js/vendors/jssocials.min.js?ver=1.7.3",
+          "https://marlynaconsulting.com/wp-content/themes/buddyboss-theme/assets/js/main.js?ver=1.7.3",
+          "https://marlynaconsulting.com/wp-content/themes/buddyboss-theme/assets/js/vendors/validate.min.js?ver=1.7.3",
+          "https://marlynaconsulting.com/wp-content/plugins/buddyboss-platform/bp-core/js/vendor/magnific-popup.js?ver=2.9.00",
+          "https://marlynaconsulting.com/wp-content/themes/buddyboss-theme/assets/js/vendors/select2.full.min.js?ver=1.7.3",
+          "https://marlynaconsulting.com/wp-content/themes/buddyboss-theme/assets/js/vendors/progressbar.min.js?ver=1.7.3",
+          "https://marlynaconsulting.com/wp-content/themes/buddyboss-theme/assets/js/vendors/mousewheel.min.js?ver=1.7.3",
+          "https://marlynaconsulting.com/wp-content/themes/buddyboss-theme/assets/js/plugins/lifterlms.js?ver=1.7.3",
+          "https://marlynaconsulting.com/wp-content/themes/buddyboss-theme/assets/js/plugins/learndash-sidebar.js?ver=1.7.3",
+          "https://marlynaconsulting.com/wp-content/themes/buddyboss-theme/assets/js/plugins/bb-woocommerce.js?ver=1.7.3",
+          "https://marlynaconsulting.com/wp-content/themes/buddyboss-theme/assets/js/plugins/bb-tec.js?ver=1.7.3",
+          "https://marlynaconsulting.com/wp-content/themes/buddyboss-theme/assets/js/plugins/plugins.js?ver=1.7.3",
+          "https://marlynaconsulting.com/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=9.9.7",
+          "https://marlynaconsulting.com/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=9.9.7",
+          "https://marlynaconsulting.com/wp-content/plugins/livecart-by-wp-engine/scripts/livecart-cart-fragments-min.js?ver=1.0.1",
+          "https://marlynaconsulting.com/wp-content/plugins/buddyboss-platform-pro/assets/js/vendor/jquery.mask.js?ver=5.0.4",
+          "https://marlynaconsulting.com/wp-content/plugins/buddyboss-platform-pro/includes/integrations/zoom/assets/js/bp-zoom.min.js?ver=2.7.50",
+          "https://marlynaconsulting.com/wp-content/plugins/buddyboss-platform-pro/assets/js/bb-countdown.min.js?ver=1.0.1",
+          "https://marlynaconsulting.com/wp-content/plugins/booking/_dist/all/_out/wpbc_all.js?ver=10.14.16",
+          "https://marlynaconsulting.com/wp-content/plugins/booking/vendors/_custom/popper/popper.js?ver=10.14.16",
+          "https://marlynaconsulting.com/wp-content/plugins/booking/vendors/_custom/tippy.js/dist/tippy-bundle.umd.js?ver=10.14.16",
+          "https://marlynaconsulting.com/wp-content/plugins/booking/js/datepick/jquery.datepick.wpbc.9.0.js?ver=10.14.16",
+          "https://marlynaconsulting.com/wp-content/plugins/booking/js/client.js?ver=10.14.16",
+          "https://marlynaconsulting.com/wp-content/plugins/booking/includes/_capacity/_out/create_booking.js?ver=10.14.16",
+          "https://marlynaconsulting.com/wp-content/plugins/booking/js/wpbc_times.js?ver=10.14.16",
+          "https://marlynaconsulting.com/wp-content/plugins/booking/js/wpbc_time-selector.js?ver=10.14.16",
+          "https://marlynaconsulting.com/wp-content/plugins/booking/vendors/imask/dist/imask.js?ver=10.14.16",
+          "https://marlynaconsulting.com/wp-content/plugins/booking/core/timeline/v2/_out/timeline_v2.js?ver=10.14.16",
+          "https://marlynaconsulting.com/wp-content/plugins/wpforms/assets/lib/jquery.validate.min.js?ver=1.21.0",
+          "https://marlynaconsulting.com/wp-content/plugins/wpforms/assets/lib/mailcheck.min.js?ver=1.1.2",
+          "https://marlynaconsulting.com/wp-content/plugins/wpforms/assets/lib/punycode.min.js?ver=1.0.0",
+          "https://marlynaconsulting.com/wp-content/plugins/wpforms/assets/js/share/utils.min.js?ver=1.9.6.1",
+          "https://marlynaconsulting.com/wp-content/plugins/wpforms/assets/js/frontend/wpforms.min.js?ver=1.9.6.1",
+          "https://marlynaconsulting.com/wp-content/plugins/wpforms/assets/js/frontend/wpforms-modern.min.js?ver=1.9.6.1",
+          "https://marlynaconsulting.com/wp-content/plugins/wpforms/assets/lib/flatpickr/flatpickr.min.js?ver=4.6.9",
+          "https://marlynaconsulting.com/wp-content/plugins/wpforms/assets/lib/jquery.timepicker/jquery.timepicker.min.js?ver=1.11.5",
+          "https://marlynaconsulting.com/wp-content/plugins/wpforms/assets/js/frontend/fields/address.min.js?ver=1.9.6.1"
+        ],
+        "stylesheets": [
+          "https://marlynaconsulting.com/wp-content/plugins/genesis-blocks/dist/style-blocks.build.css?ver=1764964214",
+          "https://marlynaconsulting.com/wp-content/plugins/woocommerce-subscriptions/build/index.css?ver=8.3.0",
+          "https://marlynaconsulting.com/wp-content/plugins/modern-events-calendar-lite/assets/packages/select2/select2.min.css?ver=7.23.0.1773445833",
+          "https://marlynaconsulting.com/wp-content/plugins/modern-events-calendar-lite/assets/css/iconfonts.css?ver=7.23.0.1773445833",
+          "https://marlynaconsulting.com/wp-content/plugins/modern-events-calendar-lite/assets/css/frontend.min.css?ver=7.23.0.1773445833",
+          "https://marlynaconsulting.com/wp-content/plugins/modern-events-calendar-lite/assets/packages/tooltip/tooltip.css?ver=7.23.0.1773445833",
+          "https://marlynaconsulting.com/wp-content/plugins/modern-events-calendar-lite/assets/packages/tooltip/tooltipster-sideTip-shadow.min.css?ver=7.23.0.1773445833",
+          "https://marlynaconsulting.com/wp-content/plugins/modern-events-calendar-lite/assets/packages/featherlight/featherlight.css?ver=7.23.0.1773445833",
+          "https://fonts.googleapis.com/css?family=Montserrat%3A400%2C700%7CRoboto%3A100%2C300%2C400%2C700&ver=7.23.0.1773445833",
+          "https://marlynaconsulting.com/wp-content/plugins/modern-events-calendar-lite/assets/packages/lity/lity.min.css?ver=7.23.0.1773445833",
+          "https://marlynaconsulting.com/wp-content/plugins/modern-events-calendar-lite/assets/css/mec-general-calendar.css?ver=7.23.0.1773445833",
+          "https://marlynaconsulting.com/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/icons/css/icons-map.min.css?ver=2.9.00",
+          "https://marlynaconsulting.com/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/icons/css/bb-icons.min.css?ver=1.0.8",
+          "https://marlynaconsulting.com/wp-includes/css/dashicons.min.css?ver=6.8.5",
+          "https://marlynaconsulting.com/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/css/buddypress.min.css?ver=2.9.00",
+          "https://marlynaconsulting.com/wp-includes/css/dist/block-library/style.min.css?ver=6.8.5",
+          "https://marlynaconsulting.com/wp-content/plugins/gutenslider/build/gutenslider-init.css?ver=1741020371",
+          "https://marlynaconsulting.com/wp-content/plugins/woocommerce-gift-cards/assets/dist/frontend/blocks.css?ver=2.6.1",
+          "https://marlynaconsulting.com/wp-content/plugins/buddyboss-platform-pro/assets/css/index.min.css?ver=2.7.50",
+          "https://marlynaconsulting.com/wp-content/plugins/buddyboss-platform-pro/includes/access-control/assets/css/bb-access-control.min.css?ver=2.7.50",
+          "https://marlynaconsulting.com/wp-content/plugins/buddyboss-platform-pro/includes/integrations/meprlms/assets/css/meprlms-frontend.min.css?ver=2.9.00",
+          "https://marlynaconsulting.com/wp-content/plugins/buddyboss-platform-pro/includes/integrations/tutorlms/assets/css/bb-tutorlms-admin.min.css?ver=2.9.00",
+          "https://marlynaconsulting.com/wp-content/plugins/buddyboss-platform/bp-core/css/mentions.min.css?ver=2.9.00",
+          "https://marlynaconsulting.com/wp-content/plugins/cbxtakeatour/assets/css/cbxtakeatour-public.css?ver=1773420632",
+          "https://marlynaconsulting.com/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-public.css?ver=3.3.1",
+          "https://marlynaconsulting.com/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-gdpr.css?ver=3.3.1",
+          "https://marlynaconsulting.com/wp-content/plugins/frontend-reset-password/assets/css/password-lost.css?ver=6.8.5",
+          "https://marlynaconsulting.com/wp-content/plugins/lifterlms/assets/vendor/webui-popover/jquery.webui-popover.min.css?ver=1.2.15",
+          "https://marlynaconsulting.com/wp-content/plugins/lifterlms/assets/css/lifterlms.min.css?ver=1773445832",
+          "https://marlynaconsulting.com/wp-content/plugins/woocommerce-follow-up-emails/templates/followups.css?ver=4.9.32",
+          "https://marlynaconsulting.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=9.9.7",
+          "https://marlynaconsulting.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=9.9.7",
+          "https://marlynaconsulting.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=9.9.7",
+          "https://marlynaconsulting.com/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/css/ladda.min.css?ver=27.1",
+          "https://marlynaconsulting.com/wp-content/plugins/bookly-responsive-appointment-booking-tool/backend/resources/tailwind/tailwind.css?ver=27.1",
+          "https://marlynaconsulting.com/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/css/modern-booking-form-calendar.css?ver=27.1",
+          "https://marlynaconsulting.com/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/css/bootstrap-icons.min.css?ver=27.1",
+          "https://marlynaconsulting.com/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/css/intlTelInput.css?ver=27.1",
+          "https://marlynaconsulting.com/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/css/bookly-main.css?ver=27.1",
+          "https://marlynaconsulting.com/wp-content/plugins/bookly-responsive-appointment-booking-tool/backend/resources/bootstrap/css/bootstrap.min.css?ver=27.1",
+          "https://marlynaconsulting.com/wp-content/plugins/bookly-addon-pro/frontend/modules/customer_profile/resources/css/customer-profile.css?ver=8.7",
+          "https://marlynaconsulting.com/wp-content/plugins/woocommerce-gift-cards/assets/css/frontend/woocommerce.css?ver=2.6.1",
+          "https://marlynaconsulting.com/wp-content/plugins/hide-admin-bar-based-on-user-roles/public/css/hide-admin-bar-based-on-user-roles-public.css?ver=6.0.3",
+          "https://marlynaconsulting.com/wp-content/plugins/if-menu/assets/if-menu-site.css?ver=6.8.5",
+          "https://marlynaconsulting.com/wp-content/plugins/wpforms/assets/css/frontend/modern/wpforms-full.min.css?ver=1.9.6.1",
+          "https://marlynaconsulting.com/wp-content/plugins/wpforms/assets/pro/css/frontend/modern/wpforms-full.min.css?ver=1.9.6.1",
+          "https://marlynaconsulting.com/wp-content/plugins/woocommerce/assets/css/brands.css?ver=9.9.7",
+          "https://marlynaconsulting.com/wp-content/themes/buddyboss-theme/assets/css/vendors/magnific-popup.min.css?ver=1.7.3",
+          "https://marlynaconsulting.com/wp-content/themes/buddyboss-theme/assets/css/vendors/select2.min.css?ver=1.7.3",
+          "https://marlynaconsulting.com/wp-content/themes/buddyboss-theme/assets/css/theme.css?ver=1.7.3",
+          "https://marlynaconsulting.com/wp-content/themes/buddyboss-theme/assets/css/buddypress.css?ver=1.7.3",
+          "https://marlynaconsulting.com/wp-content/themes/buddyboss-theme/assets/css/bbpress.css?ver=1.7.3",
+          "https://marlynaconsulting.com/wp-content/themes/buddyboss-theme/assets/css/woocommerce.css?ver=1.7.3",
+          "https://marlynaconsulting.com/wp-content/themes/buddyboss-theme/assets/css/eventscalendar.css?ver=1.7.3",
+          "https://marlynaconsulting.com/wp-content/themes/buddyboss-theme/assets/css/eventscalendar-v2.css?ver=1.7.3",
+          "https://marlynaconsulting.com/wp-content/themes/buddyboss-theme/assets/css/lifterlms.css?ver=1.7.3",
+          "https://marlynaconsulting.com/wp-content/themes/buddyboss-theme/assets/css/plugins.css?ver=1.7.3",
+          "https://marlynaconsulting.com/wp-content/plugins/buddyboss-platform-pro/includes/integrations/zoom/assets/css/bp-zoom.min.css?ver=2.7.50",
+          "https://marlynaconsulting.com/wp-content/plugins/kadence-blocks/dist/style-blocks-rowlayout.css?ver=3.5.12",
+          "https://marlynaconsulting.com/wp-content/plugins/kadence-blocks/dist/style-blocks-column.css?ver=3.5.12",
+          "https://fonts.googleapis.com/css?family=Noto+Sans%3A400&ver=1744236472",
+          "https://marlynaconsulting.com/wp-content/themes/buddyboss-theme/style.css?ver=6.8.5",
+          "https://marlynaconsulting.com/wp-content/themes/buddyboss-theme-child/assets/css/custom.css?ver=1.0.0",
+          "https://marlynaconsulting.com/wp-content/plugins/booking/vendors/_custom/bootstrap-css/css/bootstrap.css?ver=10.14.16",
+          "https://marlynaconsulting.com/wp-content/plugins/booking/vendors/_custom/bootstrap-css/css/bootstrap-theme.css?ver=10.14.16",
+          "https://marlynaconsulting.com/wp-content/plugins/booking/vendors/_custom/tippy.js/themes/wpbc-tippy-popover.css?ver=10.14.16",
+          "https://marlynaconsulting.com/wp-content/plugins/booking/vendors/_custom/tippy.js/themes/wpbc-tippy-times.css?ver=10.14.16",
+          "https://marlynaconsulting.com/wp-content/plugins/booking/vendors/_custom/material-design-icons/material-design-icons.css?ver=10.14.16",
+          "https://marlynaconsulting.com/wp-content/plugins/booking/css/wpbc_ui_both.css?ver=10.14.16",
+          "https://marlynaconsulting.com/wp-content/plugins/booking/css/wpbc_time-selector.css?ver=10.14.16",
+          "https://marlynaconsulting.com/wp-content/plugins/booking/css/time_picker_skins/grey.css?ver=10.14.16",
+          "https://marlynaconsulting.com/wp-content/plugins/booking/css/client.css?ver=10.14.16",
+          "https://marlynaconsulting.com/wp-content/plugins/booking/_dist/all/_out/wpbc_all_client.css?ver=10.14.16",
+          "https://marlynaconsulting.com/wp-content/plugins/booking/css/calendar.css?ver=10.14.16",
+          "https://marlynaconsulting.com/wp-content/plugins/booking/css/skins/traditional.css?ver=10.14.16",
+          "https://marlynaconsulting.com/wp-content/plugins/booking/core/timeline/v2/_out/timeline_v2.1.css?ver=10.14.16",
+          "https://marlynaconsulting.com/wp-content/plugins/woocommerce-gateway-stripe/build/upe-blocks.css?ver=4d7a9b7de9f3f44a14aa4427e1e48930",
+          "https://marlynaconsulting.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-9.9.7",
+          "https://marlynaconsulting.com/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-table.css?ver=3.3.1",
+          "https://marlynaconsulting.com/wp-content/plugins/wpforms/assets/pro/css/fields/layout.min.css?ver=1.9.6.1",
+          "https://marlynaconsulting.com/wp-content/plugins/wpforms/assets/pro/css/fields/layout-screen-big.min.css?ver=1.9.6.1",
+          "https://marlynaconsulting.com/wp-content/plugins/wpforms/assets/pro/css/fields/layout-screen-small.min.css?ver=1.9.6.1",
+          "https://marlynaconsulting.com/wp-content/plugins/wpforms/assets/lib/jquery.timepicker/jquery.timepicker.min.css?ver=1.11.5",
+          "https://marlynaconsulting.com/wp-content/plugins/wpforms/assets/lib/flatpickr/flatpickr.min.css?ver=4.6.9"
+        ]
+      },
+      "jsRenderingRequired": false,
+      "internalLinks": [
+        "https://marlynaconsulting.com",
+        "https://marlynaconsulting.com/10-gods-100-formations",
+        "https://marlynaconsulting.com/4-pillars-bazi-mastery-immersion-program",
+        "https://marlynaconsulting.com/about",
+        "https://marlynaconsulting.com/ba-zi-calculator",
+        "https://marlynaconsulting.com/blog",
+        "https://marlynaconsulting.com/business-solutions",
+        "https://marlynaconsulting.com/calendar",
+        "https://marlynaconsulting.com/cart",
+        "https://marlynaconsulting.com/collaborate-with-marlyna",
+        "https://marlynaconsulting.com/consulting",
+        "https://marlynaconsulting.com/contact",
+        "https://marlynaconsulting.com/courses",
+        "https://marlynaconsulting.com/faq",
+        "https://marlynaconsulting.com/feng-shui-flying-stars",
+        "https://marlynaconsulting.com/feng-shui-mastery-immersion-program",
+        "https://marlynaconsulting.com/four-pillars-of-destiny-reading",
+        "https://marlynaconsulting.com/living-with-purpose",
+        "https://marlynaconsulting.com/my-book",
+        "https://marlynaconsulting.com/real-estate-development-consultation",
+        "https://marlynaconsulting.com/register",
+        "https://marlynaconsulting.com/residential-consulting",
+        "https://marlynaconsulting.com/testimonials",
+        "https://marlynaconsulting.com/the-60-jia-zi",
+        "https://marlynaconsulting.com/wp-login.php"
+      ],
+      "apiClues": [
+        "https://marlynaconsulting.com/wp-json/v1/subscribe_to_newsletter",
+        "https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit"
+      ],
+      "contentSample": "Free BaZi Calculator – Four Pillars of Destiny Chart Cart No products in the cart. Sign in Stay connected HOME COURSES & MEMBERSHIP AVAILABLE COURSES LIVING WITH PURPOSE MASTERY PROGRAMS 4 Pillars BaZi Mastery Immersion Spring 2026 Feng Shui Mastery Immersion Program The 60 Jia Zi – REPLAY 10 Gods | 100 Formations CONSULTING 4 PILLARS OF DESTINY READING RESIDENTIAL FENG SHUI BUSINESS FENG SHUI REAL ESTATE DEVELOPMENT FENG SHUI RESOURCES CALENDAR BAZI CALCULATOR BOOK: DO YOU SEE WHAT I SEE? BLOG "
+    },
+    {
+      "name": "MingLi",
+      "url": "https://www.mingli.info/bazi",
+      "status": "ok",
+      "finalUrl": "https://www.mingli.info/bazi",
+      "title": "Bazi Calculator (Calculate the Four Pillars of Destiny Chart)",
+      "metaDescription": "Building a chart of bazi, 4 pillars of destiny, hidden heavenly stems, Years of life, Luck pillars, qi Phases, 10 gods, Symbolic stars (spirits and demons), Xuan Kun Da Gua, Na Yin",
+      "metaKeywords": "Calculator BaZi, Ba Zi, Ba, Zi, Zi, Baji, Gua, hidden heavenly trunks, to yin, emptiness, yang tree, yin, yang",
+      "features": [
+        "真太阳时",
+        "神煞",
+        "合婚"
+      ],
+      "pricing": [],
+      "techStack": [
+        "React",
+        "Vue",
+        "jQuery",
+        "Google Analytics",
+        "Google Tag Manager"
+      ],
+      "seo": {
+        "h1": [
+          "Bazi Calculator (Calculate the Four Pillars of Destiny)"
+        ],
+        "canonical": "https://www.mingli.info/bazi",
+        "structuredDataTypes": []
+      },
+      "socialLinks": [
+        "https://www.facebook.com/Mingliru/",
+        "https://www.instagram.com/mingli_ru",
+        "https://www.youtube.com/channel/UCH9wxL1OI7VG14pMNlIViTw"
+      ],
+      "externalResources": {
+        "scripts": [
+          "https://www.mingli.info/js/ML_Cookie.js",
+          "https://www.mingli.info/js/jQuery/3.7.1/jquery-3.7.1.min.js",
+          "https://www.mingli.info/engine/js/jquery-ui/1.12.0/jquery-ui.js",
+          "https://www.mingli.info/js/md5.js",
+          "https://www.mingli.info/engine/js/base64.js",
+          "https://www.mingli.info/js/js_helper_func.js",
+          "https://www.mingli.info/js/device.min.js",
+          "https://www.mingli.info/js/ML_plugin.js?1",
+          "https://www.mingli.info/js/jgrowl/jquery.jgrowl.js",
+          "https://www.mingli.info/js/default.js",
+          "https://www.mingli.info/engine/js/mingli_autocomplete.js",
+          "https://www.mingli.info/js/selector_handling.js?1",
+          "https://www.mingli.info/lang/jsvariable-en-GB.js",
+          "https://www.mingli.info/lang/json_jsvariable-en-GB.js",
+          "https://www.mingli.info/js/vue/2/vue.min.js",
+          "https://www.mingli.info/js/axios.min.js",
+          "https://www.mingli.info/js/vue/httpVueLoader.js",
+          "https://www.mingli.info/js/lodash/lodash.js",
+          "https://www.mingli.info/js/numeral-js/min/numeral.min.js",
+          "https://www.mingli.info/js/numeral-js/min/locales.min.js",
+          "https://www.mingli.info/js/moments/moment-with-locales.min.js",
+          "https://www.mingli.info/js/plugins/pickmeup/jquery.pickmeup.min.js",
+          "https://www.mingli.info/js/paginator/paginator.js",
+          "https://www.mingli.info/js/tooltipster/js/jquery.tooltipster.js?1",
+          "https://www.mingli.info/js/default.js",
+          "https://www.mingli.info/core/plugins/calc/js/solartime.js",
+          "https://www.mingli.info/core/plugins/calc/js/base64.js",
+          "https://www.mingli.info/core/plugins/calc/js/short.js",
+          "https://www.mingli.info/js/autosize.min.js",
+          "https://maps.googleapis.com/maps/api/js?key=AIzaSyCXR0pj5EBVaasNyT1EEw61abrZx__KaKc",
+          "https://www.mingli.info/js/ML_plugin.js",
+          "https://www.mingli.info/tinymce5/tinymce.min.js",
+          "https://www.mingli.info/tinymce5/jquery.tinymce.min.js",
+          "https://www.mingli.info/js/tiniMCE_5_Sett.js",
+          "https://www.mingli.info/engine/js/modal_window.js",
+          "https://www.mingli.info/engine/js/mingli_autocomplete.js",
+          "https://www.mingli.info/core/plugins/calc/js/balance_settings.js",
+          "https://www.mingli.info/core/plugins/calc/js/script.js?4",
+          "https://www.googletagmanager.com/gtag/js?id=G-KP4DXJP5QE",
+          "https://www.mingli.info/js/js_helper_func.js",
+          "https://www.mingli.info/js/short.js?2025-11-06-11-09-46",
+          "https://www.mingli.info/js/login.js?2025-11-06-11-09-46",
+          "https://www.mingli.info/js/register.js?2025-11-06-11-09-46",
+          "https://www.mingli.info/js/feedback.js?2025-11-06-11-09-46",
+          "https://www.mingli.info/js/bazi.js?2025-11-06-11-09-46"
+        ],
+        "stylesheets": [
+          "https://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic",
+          "https://www.mingli.info/core/themes/default/css/style_vars.css",
+          "https://www.mingli.info/core/themes/default/css/style.css?2026-03-12-13-24-49",
+          "https://www.mingli.info/core/themes/default/css/style_form.css?2026-03-12-17-51-42",
+          "https://www.mingli.info/core/themes/default/css/style_flex_and_table.css?2026-03-12-17-51-42",
+          "https://www.mingli.info/core/themes/default/css/style_personal.css",
+          "https://www.mingli.info/core/themes/default/css/style_charts.css",
+          "https://www.mingli.info/core/themes/default/css/jquery-ui_ML.css?2026-03-12-13-24-49",
+          "https://www.mingli.info/core/themes/default/css/register.css",
+          "https://www.mingli.info/core/themes/default/css/bazi-print.css?2025-09-26-15-25-11",
+          "https://www.mingli.info/core/themes/default/css/MLjgrowl.jquery.css",
+          "https://www.mingli.info/core/themes/default/css/tooltipster_ML.css",
+          "https://www.mingli.info/js/plugins/pickmeup/pickmeup.min.css",
+          "https://www.mingli.info/core/themes/default/css/style_qndj.css",
+          "https://www.mingli.info/core/themes/default/css/style_calendar.css"
+        ]
+      },
+      "jsRenderingRequired": false,
+      "internalLinks": [
+        "https://www.mingli.info",
+        "https://www.mingli.info/24mountain",
+        "https://www.mingli.info/about",
+        "https://www.mingli.info/bazi",
+        "https://www.mingli.info/calendar",
+        "https://www.mingli.info/compatibility",
+        "https://www.mingli.info/consulting",
+        "https://www.mingli.info/gdirection",
+        "https://www.mingli.info/minicalc/calculator_two_hour",
+        "https://www.mingli.info/payservices",
+        "https://www.mingli.info/payservices/bazi",
+        "https://www.mingli.info/payservices/calendar",
+        "https://www.mingli.info/profile",
+        "https://www.mingli.info/qmdj",
+        "https://www.mingli.info/school",
+        "https://www.mingli.info/school/main",
+        "https://www.mingli.info/shop",
+        "https://www.mingli.info/shop/app/FSI_1",
+        "https://www.mingli.info/shop/app/NAV"
+      ],
+      "apiClues": [
+        "https://maps.googleapis.com/maps/api/js?key=AIzaSyCXR0pj5EBVaasNyT1EEw61abrZx__KaKc"
+      ],
+      "contentSample": "Bazi Calculator (Calculate the Four Pillars of Destiny Chart) Upcoming courses of the Bazi, Feng Shui, Qi Men Dun Jia and Date Selection training and consulting center \"Mingli\" Hello! Sign Up? Sign In About project Shop Consulting Calculator & Calendar BaZi Calculator Extended version of the Bazi calculator Chinese Calendar Personal calendar Qi Men Dun Jia Calculator Extended version Qi Men 24 Mountains Feng Shui Guide Updated: 01 January 1970 Navigator of Directions Navigator of successful trav"
+    },
+    {
+      "name": "算准网",
+      "url": "https://www.suanzhun.net",
+      "status": "ok",
+      "finalUrl": "https://www.suanzhun.net/",
+      "title": "免费算命,生辰八字算命,八字排盘,排大运,批流年-算准网",
+      "metaDescription": "八字算命,在线算命,周易算命,免费算命,八字排盘,命理典籍在线查询(滴天髓、三命通会、渊海子平、神峰通考、千里命稿、命理约言、命理探源等)",
+      "metaKeywords": "欢迎光临算准(suanzhun.net)算命网！提供项目有生辰八字算命,在线算命,周易算命,免费算命,八字排盘,命理典籍在线查询(滴天髓、三命通会、渊海子平、神峰通考、千里命稿、命理约言、命理探源等)",
+      "features": [
+        "大运流年",
+        "神煞"
+      ],
+      "pricing": [
+        "免费"
+      ],
+      "techStack": [
+        "jQuery"
+      ],
+      "seo": {
+        "h1": [],
+        "canonical": "",
+        "structuredDataTypes": []
+      },
+      "socialLinks": [],
+      "externalResources": {
+        "scripts": [
+          "https://www.suanzhun.net/static/js/jquery.min.js",
+          "https://www.suanzhun.net/static/js/index.js",
+          "https://www.suanzhun.net/static/js/swiper.min.js"
+        ],
+        "stylesheets": [
+          "https://www.suanzhun.net/static/css/style.css"
+        ]
+      },
+      "jsRenderingRequired": false,
+      "internalLinks": [
+        "https://www.suanzhun.net",
+        "https://www.suanzhun.net/article/1203.html",
+        "https://www.suanzhun.net/article/2112.html",
+        "https://www.suanzhun.net/article/2795.html",
+        "https://www.suanzhun.net/article/2928.html",
+        "https://www.suanzhun.net/article/2929.html",
+        "https://www.suanzhun.net/article/2931.html",
+        "https://www.suanzhun.net/article/2932.html",
+        "https://www.suanzhun.net/article/2933.html",
+        "https://www.suanzhun.net/article/2935.html",
+        "https://www.suanzhun.net/article/2936.html",
+        "https://www.suanzhun.net/article/2939.html",
+        "https://www.suanzhun.net/article/2941.html",
+        "https://www.suanzhun.net/article/2942.html",
+        "https://www.suanzhun.net/article/2944.html",
+        "https://www.suanzhun.net/article/2945.html",
+        "https://www.suanzhun.net/article/2947.html",
+        "https://www.suanzhun.net/article/2948.html",
+        "https://www.suanzhun.net/article/2950.html",
+        "https://www.suanzhun.net/article/2951.html",
+        "https://www.suanzhun.net/article/2953.html",
+        "https://www.suanzhun.net/article/2954.html",
+        "https://www.suanzhun.net/article/2956.html",
+        "https://www.suanzhun.net/article/2957.html",
+        "https://www.suanzhun.net/article/2959.html",
+        "https://www.suanzhun.net/article/2960.html",
+        "https://www.suanzhun.net/article/2962.html",
+        "https://www.suanzhun.net/article/2963.html",
+        "https://www.suanzhun.net/article/2965.html",
+        "https://www.suanzhun.net/article/2966.html",
+        "https://www.suanzhun.net/bazipaipan",
+        "https://www.suanzhun.net/book/1214.html",
+        "https://www.suanzhun.net/book/1585.html",
+        "https://www.suanzhun.net/book/2722.html",
+        "https://www.suanzhun.net/book/2927.html",
+        "https://www.suanzhun.net/book/2930.html",
+        "https://www.suanzhun.net/book/2934.html",
+        "https://www.suanzhun.net/book/2937.html",
+        "https://www.suanzhun.net/book/2940.html",
+        "https://www.suanzhun.net/book/2943.html",
+        "https://www.suanzhun.net/book/2946.html",
+        "https://www.suanzhun.net/book/2949.html",
+        "https://www.suanzhun.net/book/2952.html",
+        "https://www.suanzhun.net/book/2955.html",
+        "https://www.suanzhun.net/book/2958.html",
+        "https://www.suanzhun.net/book/2961.html",
+        "https://www.suanzhun.net/book/2964.html",
+        "https://www.suanzhun.net/book/674.html",
+        "https://www.suanzhun.net/book/956.html",
+        "https://www.suanzhun.net/chengu",
+        "https://www.suanzhun.net/dianji",
+        "https://www.suanzhun.net/dianji/baojianlishilu",
+        "https://www.suanzhun.net/dianji/bazitiyao",
+        "https://www.suanzhun.net/dianji/baziyuyongshen",
+        "https://www.suanzhun.net/dianji/ditiansui",
+        "https://www.suanzhun.net/dianji/ditiansuichanwei",
+        "https://www.suanzhun.net/dianji/jinxiangmishu",
+        "https://www.suanzhun.net/dianji/lantaimiaoxuan",
+        "https://www.suanzhun.net/dianji/mangpaichujiminglixue",
+        "https://www.suanzhun.net/dianji/minglitanyuan",
+        "https://www.suanzhun.net/dianji/mingliyueyan",
+        "https://www.suanzhun.net/dianji/minglizhenjuedaodu",
+        "https://www.suanzhun.net/dianji/qianliminggao",
+        "https://www.suanzhun.net/dianji/qianliminggaobuchong",
+        "https://www.suanzhun.net/dianji/qiongtongbaojian",
+        "https://www.suanzhun.net/dianji/qitadanpian",
+        "https://www.suanzhun.net/dianji/sancheyilan",
+        "https://www.suanzhun.net/dianji/sanmingtonghui",
+        "https://www.suanzhun.net/dianji/shenfengtongkao",
+        "https://www.suanzhun.net/dianji/sizhuyucejingyanjiqiao",
+        "https://www.suanzhun.net/dianji/wuxingdayi",
+        "https://www.suanzhun.net/dianji/wuxingjingji",
+        "https://www.suanzhun.net/dianji/xingpinghuihai",
+        "https://www.suanzhun.net/dianji/yuanhaiziping",
+        "https://www.suanzhun.net/dianji/yudinzhipin",
+        "https://www.suanzhun.net/dianji/yuyandianji",
+        "https://www.suanzhun.net/dianji/zipingguanjian",
+        "https://www.suanzhun.net/dianji/zipingzhen",
+        "https://www.suanzhun.net/dianji/zipingzhenpingzhu",
+        "https://www.suanzhun.net/jichu/caiguan",
+        "https://www.suanzhun.net/jichu/changshi",
+        "https://www.suanzhun.net/jichu/diaohou",
+        "https://www.suanzhun.net/jichu/geju",
+        "https://www.suanzhun.net/jichu/mangpai",
+        "https://www.suanzhun.net/jichu/minglishuyu",
+        "https://www.suanzhun.net/jichu/tongguan",
+        "https://www.suanzhun.net/jichu/wangshuai",
+        "https://www.suanzhun.net/jichu/xinpai",
+        "https://www.suanzhun.net/mingrenbazi",
+        "https://www.suanzhun.net/wannianli",
+        "https://www.suanzhun.net/wannianli/2938.html"
+      ],
+      "apiClues": [],
+      "contentSample": "免费算命,生辰八字算命,八字排盘,排大运,批流年-算准网 首页 工具 免费算命 称骨算命 名人库 万年历 基础 术语 常识 格局 旺衰 财官 调侯 通关 盲派 新派 典籍 滴天髓 滴天髓阐微 子平真诠 子平真诠评注 渊海子平 命理约言 千里命稿 千里命稿补充 三命通会 御定子平 神峰通考 穷通宝鉴 穷通宝鉴例释录 命理探源 五行精纪 命理真诀导读 子平管见 五行大义 星平会海 三车一览 八字提要 兰台妙选 巾箱秘术 盲派初级命理学 其它单篇 八字与用神 四柱预测技巧 预言典籍 首页 测八字 称骨 典籍 名人库 黄历 术语 基础 格局 旺衰 财官 调候 通关 盲派 新派 日主合财的局要考虑身旺身弱吗？ 2026.03.10 “合财”，“合官”是我们经常谈论的话题，尤其以盲派运用居多，并称之为“合制结构”，因为盲派的论命法则为：日主有合先看合，因为这是日主直接参与的做功方式，所以能代表日主的意向，但你有意向去“合财”，但也不代表你就能“得财... 假从格与真从格区别 2026.03.10 真从是“彻底投降”，只要顺着旺势走就是好命。假从是“被迫投降但心有不甘”，必须等到好运把它的“不甘心”"
+    },
+    {
+      "name": "卜易居",
+      "url": "https://pp.buyiju.com",
+      "status": "ok",
+      "finalUrl": "https://pp.buyiju.com/",
+      "title": "八字排盘,四柱八字排盘算命,免费排八字,卜易居在线排盘系统",
+      "metaDescription": "欢迎使用卜易居在线排盘系统,卜易居排八字系统包盘四柱八字排盘,紫微斗数排盘,奇门遁甲排盘,六爻排盘,梅花易数排盘等;",
+      "metaKeywords": "八字排盘,在线四柱排盘,四柱八字排盘算命,紫微斗数排盘,梅花易数排盘,六爻排盘,免费排八字,卜易居在线排盘系统",
+      "features": [
+        "真太阳时",
+        "大运流年",
+        "合婚"
+      ],
+      "pricing": [
+        "免费"
+      ],
+      "techStack": [
+        "jQuery"
+      ],
+      "seo": {
+        "h1": [],
+        "canonical": "https://pp.buyiju.com/",
+        "structuredDataTypes": []
+      },
+      "socialLinks": [],
+      "externalResources": {
+        "scripts": [
+          "https://i.buyiju.com/js/jquery.min.js",
+          "https://i.buyiju.com/js/pc.js",
+          "https://i.buyiju.com/js/getcity.js"
+        ],
+        "stylesheets": [
+          "https://i.buyiju.com/css/pc.css"
+        ]
+      },
+      "jsRenderingRequired": false,
+      "internalLinks": [
+        "http://pp.buyiju.com",
+        "https://pp.buyiju.com",
+        "https://pp.buyiju.com/jinkoujue",
+        "https://pp.buyiju.com/liuyao",
+        "https://pp.buyiju.com/meihua",
+        "https://pp.buyiju.com/qimen",
+        "https://pp.buyiju.com/xuankong",
+        "https://pp.buyiju.com/ziwei"
+      ],
+      "apiClues": [],
+      "contentSample": "八字排盘,四柱八字排盘算命,免费排八字,卜易居在线排盘系统 首页 八字 称骨 测名 抽签 号码 配对 算卦 测字 运程 生肖 黄历 塔罗 生日 解梦 起名 八字排盘 紫微斗数 六爻排盘 梅花易数 奇门排盘 玄空排盘 金口诀 当前位置: 首页 〉 八字排盘 〉 四柱八字排盘 命主姓名： 男性 女性 真太阳时： 不使用 使用 出生地点： 请选择省份 北京 上海 天津 重庆 安徽 浙江 江苏 江西 广东 广西 福建 海南 湖南 湖北 河南 河北 山东 山西 辽宁 吉林 黑龙江 四川 云南 贵州 陕西 内蒙古 甘肃 宁夏 青海 新疆 西藏 香港 澳门 台湾 请选择城市 日期类型： 阳历 阴历 农历闰月 八字反推 反推年限： 1864年-1923年 1924年-1983年 1984年-2043年 出生日期： 1800 1801 1802 1803 1804 1805 1806 1807 1808 1809 1810 1811 1812 1813 1814 1815 1816 1817 1818 1819 1820 1821 1822 1823 1824 1825 1826 1827 1828 1"
+    },
+    {
+      "name": "华易网手机版",
+      "url": "https://m.life.httpcn.com/bzpaipan/",
+      "status": "ok",
+      "finalUrl": "https://m.life.httpcn.com/bzpaipan/",
+      "title": "八字排盘-专业级八字免费排盘-生辰八字查询-汉程网",
+      "metaDescription": "汉程网专业级八字排盘，包括四柱八字排盘、生辰八字查询、八字排大运/流年/神煞、八字格局、干支十神、五行力量、喜用神、古籍参考等八字免费排盘内容。",
+      "metaKeywords": "八字排盘,在线八字排盘,八字排盘软件,八字免费排盘,生辰八字查询,四柱八字排盘,免费八字排盘",
+      "features": [
+        "免费排盘",
+        "真太阳时",
+        "大运流年",
+        "神煞",
+        "合婚"
+      ],
+      "pricing": [
+        "免费"
+      ],
+      "techStack": [
+        "React",
+        "jQuery"
+      ],
+      "seo": {
+        "h1": [
+          "八字排盘"
+        ],
+        "canonical": "https://m.life.httpcn.com/bzpaipan/",
+        "structuredDataTypes": []
+      },
+      "socialLinks": [],
+      "externalResources": {
+        "scripts": [
+          "https://m.life.httpcn.com/Scripts/wxurl.js?v=2022050301",
+          "https://jscdn.httpcn.com/m/public/js/zsmenusandian.Mobile.min.js?v=1",
+          "https://jscdn.httpcn.com/m/public/mui/js/mui.min.js",
+          "https://jscdn.httpcn.com/m/public/mui/libs/easymob-webim-sdk/jquery-1.11.1.js",
+          "https://jscdn.httpcn.com/m/public/js/Lazyload.js",
+          "https://m.life.httpcn.com/Scripts/valdate/vip_Popwin.js?v=4",
+          "https://jscdn.httpcn.com/m/public/js/zsInit.Mobile.he.min.js?v=2020.11.216.123455525",
+          "https://m.life.httpcn.com/Scripts/valdate/qzpopwin.js?v=9",
+          "https://m.life.httpcn.com/Scripts/date/mobiscroll.min.js?v=638647755613360301",
+          "https://m.life.httpcn.com/Scripts/date/solar-moni.min.js?v=638647755613360301",
+          "https://m.life.httpcn.com/Scripts/data/zsdatajson.js?v=638647755613360301",
+          "https://jscdn.httpcn.com/m/public/mui/js/mui.picker.min.js?v=638647755613360301",
+          "https://jscdn.httpcn.com/m/public/js/zstestname.Mobile.min.js?v=638647755613360301",
+          "https://m.life.httpcn.com/Scripts/valdate/bazi.js?v=638647755613360301",
+          "https://jscdn.httpcn.com/m/public/js/zsfenxiang.min.js?v=638647755613360301",
+          "https://jscdn.httpcn.com/m/public/js/zsimgnew.min.js?v=638647755613360301",
+          "https://mping.httpcn.com/Scripts/mobileinit.min.js?v=638647755613340498",
+          "https://jscdn.httpcn.com/m/public/js/zshelp.Model.min.js?v=2019.2.1",
+          "https://m.life.httpcn.com/Scripts/valdate/dianzan.js?v=638647755613360301",
+          "https://jscdn.httpcn.com/m/public/js/zstestapp.min.js",
+          "https://m.life.httpcn.com/Scripts/zsjubao.js"
+        ],
+        "stylesheets": [
+          "https://jscdn.httpcn.com/m/public/mui/css/mui.min.css",
+          "https://m.life.httpcn.com/Scripts/date/mobiscroll.custom-2.14.4.min.css",
+          "https://jscdn.httpcn.com/m/public/mui/css/mui.picker.min.css",
+          "https://m.life.httpcn.com/Scripts/mui/css/style.css?v=19",
+          "https://m.life.httpcn.com/Scripts/mui/css/hclife.css?v=24"
+        ]
+      },
+      "jsRenderingRequired": false,
+      "internalLinks": [
+        "https://m.life.httpcn.com",
+        "https://m.life.httpcn.com/app",
+        "https://m.life.httpcn.com/bazi",
+        "https://m.life.httpcn.com/bzcaiyun",
+        "https://m.life.httpcn.com/bzhunyin",
+        "https://m.life.httpcn.com/bzpaipan",
+        "https://m.life.httpcn.com/bzriyun",
+        "https://m.life.httpcn.com/bzshiye",
+        "https://m.life.httpcn.com/bzyear",
+        "https://m.life.httpcn.com/comment/more.shtml?key=bzpaipan&sign=50EAC8C611BECFB743E837F7F408E578&app_name=%e5%85%ab%e5%ad%97%e6%8e%92%e7%9b%98",
+        "https://m.life.httpcn.com/fenlei",
+        "https://m.life.httpcn.com/fscs",
+        "https://m.life.httpcn.com/hehun",
+        "https://m.life.httpcn.com/help",
+        "https://m.life.httpcn.com/huangli",
+        "https://m.life.httpcn.com/jiemeng",
+        "https://m.life.httpcn.com/mfsm",
+        "https://m.life.httpcn.com/pro/?id=1827",
+        "https://m.life.httpcn.com/pro/?id=2317",
+        "https://m.life.httpcn.com/pro/?id=2672",
+        "https://m.life.httpcn.com/pro/?id=2704",
+        "https://m.life.httpcn.com/pro/?id=2705",
+        "https://m.life.httpcn.com/pro/?id=2706",
+        "https://m.life.httpcn.com/pro/?id=2707",
+        "https://m.life.httpcn.com/sjhm",
+        "https://m.life.httpcn.com/vipxys",
+        "https://m.life.httpcn.com/xingming",
+        "https://m.life.httpcn.com/zt/bazi",
+        "https://m.life.httpcn.com/zt/caiyun",
+        "https://m.life.httpcn.com/zt/fengshui",
+        "https://m.life.httpcn.com/zt/haoma",
+        "https://m.life.httpcn.com/zt/huangli",
+        "https://m.life.httpcn.com/zt/jiankang",
+        "https://m.life.httpcn.com/zt/jingpin",
+        "https://m.life.httpcn.com/zt/paipan",
+        "https://m.life.httpcn.com/zt/peidui",
+        "https://m.life.httpcn.com/zt/shengxiao",
+        "https://m.life.httpcn.com/zt/shiye",
+        "https://m.life.httpcn.com/zt/xiangxue",
+        "https://m.life.httpcn.com/zt/xingge",
+        "https://m.life.httpcn.com/zt/xingming",
+        "https://m.life.httpcn.com/zt/xingzuo",
+        "https://m.life.httpcn.com/zt/xinli",
+        "https://m.life.httpcn.com/zt/xinyuan",
+        "https://m.life.httpcn.com/zt/yinyuan",
+        "https://m.life.httpcn.com/zt/yunshi",
+        "https://m.life.httpcn.com/zt/ziwei"
+      ],
+      "apiClues": [],
+      "contentSample": "八字排盘-专业级八字免费排盘-生辰八字查询-汉程网 八字排盘 未登录 请登录或注册 返回首页 全部测试 我的订单 开运商城 在线反馈 下载APP 八字测算 婚姻测算 财运测算 事业测算 八字合婚 流年运程 每日运势 手机吉凶 首页 > 八字 > 八字排盘 出生时间 真太阳时 不使用 使用 出生地点 性别 男 女 姓名 我已阅读并同意 《用户服务条款》 开始测算 3667 已有 1484.42万 人使用 帮助 评论 分享 首页 八字排盘介绍 汉程网专业级八字排盘软件功能强大，除了基本的 八字排盘 外，还包含生辰八字查询、排大运、排流年，四柱神煞、八字干支的刑冲合害、八字格局、日主旺衰、喜用神、五行个数及力量、十神力量、季节力量、同类异类、阴气阳气等详尽分析，并提供调候用神、三命通会、穷通宝鉴等古籍作为排盘参考，是不可多得的 八字免费排盘 软件。 通过 在线八字排盘 ，我们了解 八字 反映的基本信息，才能依据 生辰八字 理论进行各种分析预测。因此，四柱八字排盘是 八字算命 的基本步骤。八字，也叫四柱，是从历法查出的天干地支八个字，用天地天干地支表示人出生的年、月、日、时，合起来是八个字。 "
+    },
+    {
+      "name": "易算网",
+      "url": "https://yisuan.net/app/paipan",
+      "status": "ok",
+      "finalUrl": "https://yisuan.net/app/paipan",
+      "title": "八字排盘、四柱八字排盘算命、在线排盘系统（免费） - 易算",
+      "metaDescription": "八字排盘、八字算命：根据阳历出生日期及时辰，排出生辰八字命盘，根据传统命理典籍，免费提供八字算命服务。测算结果仅供娱乐参考。",
+      "metaKeywords": "",
+      "features": [
+        "真太阳时",
+        "大运流年",
+        "合婚"
+      ],
+      "pricing": [
+        "免费"
+      ],
+      "techStack": [
+        "Vue",
+        "WordPress",
+        "Microsoft Clarity"
+      ],
+      "seo": {
+        "h1": [
+          "八字排盘、四柱八字排盘算命、在线排盘系统（免费）"
+        ],
+        "canonical": "https://yisuan.net/app/paipan",
+        "structuredDataTypes": []
+      },
+      "socialLinks": [],
+      "externalResources": {
+        "scripts": [
+          "https://assets.fenbu.net/wp-content/plugins/wnd-frontend/static/js/lib/axios.min.js?ver=0.9.91",
+          "https://assets.fenbu.net/wp-content/plugins/wnd-frontend/static/js/lib/vue.global.prod.js?ver=0.9.91",
+          "https://assets.fenbu.net/wp-content/plugins/wnd-frontend/static/js/main.min.js?ver=0.9.91",
+          "https://assets.fenbu.net/wp-content/themes/oracle/static/js/functions.js?ver=0.1.66",
+          "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3030540414938051",
+          "https://niu.156669.com/static/s/matching.js",
+          "https://assets.fenbu.net/wp-includes/js/comment-reply.min.js?ver=6.9.4",
+          "https://sdk.51.la/js-sdk-pro.min.js"
+        ],
+        "stylesheets": [
+          "https://assets.fenbu.net/wp-content/plugins/wnd-frontend/static/css/bulma.min.css?ver=0.9.91",
+          "https://assets.fenbu.net/wp-content/plugins/wnd-frontend/static/css/font-awesome-all.min.css?ver=0.9.91",
+          "https://assets.fenbu.net/wp-content/themes/oracle/style.css?ver=0.1.66"
+        ]
+      },
+      "jsRenderingRequired": false,
+      "internalLinks": [
+        "https://yisuan.net",
+        "https://yisuan.net/about-us",
+        "https://yisuan.net/app",
+        "https://yisuan.net/app-category/calculator",
+        "https://yisuan.net/app-category/calendar",
+        "https://yisuan.net/app-category/destiny",
+        "https://yisuan.net/app-category/query",
+        "https://yisuan.net/app/81-judgment",
+        "https://yisuan.net/app/bazi-hehun",
+        "https://yisuan.net/app/bazi-wuxing",
+        "https://yisuan.net/app/check-bankcard-name",
+        "https://yisuan.net/app/check-idcard",
+        "https://yisuan.net/app/check-phone-name",
+        "https://yisuan.net/app/compound-interest-calculator",
+        "https://yisuan.net/app/date-calculator",
+        "https://yisuan.net/app/dayun",
+        "https://yisuan.net/app/haoma",
+        "https://yisuan.net/app/huangli",
+        "https://yisuan.net/app/loan-calculator",
+        "https://yisuan.net/app/name-judgment",
+        "https://yisuan.net/app/paipan",
+        "https://yisuan.net/app/query-phone-status",
+        "https://yisuan.net/app/shengxiao-calculator",
+        "https://yisuan.net/app/suanming",
+        "https://yisuan.net/app/wannianli",
+        "https://yisuan.net/app/zejiri",
+        "https://yisuan.net/app/zejiri-banjia",
+        "https://yisuan.net/app/zejiri-jiehun",
+        "https://yisuan.net/contact",
+        "https://yisuan.net/dashboard",
+        "https://yisuan.net/privacy"
+      ],
+      "apiClues": [],
+      "contentSample": "八字排盘、四柱八字排盘算命、在线排盘系统（免费） - 易算 易算 简体 繁體 日历应用 黄道吉日查询 结婚吉日 搬家吉日 万年历 计算工具 贷款计算器 复利计算器 生肖年龄计算器 日期计算器 命理运势 八字排盘算命 八字合婚配对 名字笔画 手机号码测吉凶 认证查询 身份证校验认证 手机号实名校验 银行卡号+姓名校验 手机号状态查询 搜索 账号 首页 应用 命理运势 意见反馈 出生日期（公历） 1926年 1927年 1928年 1929年 1930年 1931年 1932年 1933年 1934年 1935年 1936年 1937年 1938年 1939年 1940年 1941年 1942年 1943年 1944年 1945年 1946年 1947年 1948年 1949年 1950年 1951年 1952年 1953年 1954年 1955年 1956年 1957年 1958年 1959年 1960年 1961年 1962年 1963年 1964年 1965年 1966年 1967年 1968年 1969年 1970年 1971年 1972年 1973年 1974年 1975年 19"
+    },
+    {
+      "name": "天兔黄历",
+      "url": "https://pan.tthuangli.com",
+      "status": "ok",
+      "finalUrl": "https://pan.tthuangli.com/",
+      "title": "八字命盤查詢,免費排盤喜用神,八字軟體-天天命盤",
+      "metaDescription": "天天命盘以专业八字书籍为排盘依据，为您提供八字命盘免费排盘、自动解读系统，旨在为广大命理学爱好者提供一个专业的八字学习平台，您可在线排命盘，查看相关八字解析。",
+      "metaKeywords": "免费命盘分析终身详解,八字命盘自动解读,在线命盘查询-天天命盤",
+      "features": [
+        "大运流年",
+        "神煞"
+      ],
+      "pricing": [
+        "免费"
+      ],
+      "techStack": [
+        "jQuery"
+      ],
+      "seo": {
+        "h1": [],
+        "canonical": "",
+        "structuredDataTypes": []
+      },
+      "socialLinks": [],
+      "externalResources": {
+        "scripts": [
+          "https://static.tthuangli.com/Public/Ttmp/cn/js/fit_mobile_750.js",
+          "https://static.tthuangli.com/Public/Ttmp/cn/js/jquery-2.0.3.min.js",
+          "https://static.tthuangli.com/Public/Ttmp/cn/js/xuanze/city.js",
+          "https://static.tthuangli.com/Public/Ttmp/cn/js/xuanze/picker.min.js",
+          "https://static.tthuangli.com/Public/Ttmp/cn/js/xuanze/picker.min.js",
+          "https://static.tthuangli.com/Public/Ttmp/cn/js/timeSelect.min.js",
+          "https://static.tthuangli.com/Public/Ttmp/cn/js/xuanze/index.js"
+        ],
+        "stylesheets": [
+          "https://static.tthuangli.com/Public/Ttmp/cn/css/public_pc.css",
+          "https://static.tthuangli.com/Public/Ttmp/cn/css/index_pc.css",
+          "https://static.tthuangli.com/Public/Ttmp/cn/css/timeSelect.css"
+        ]
+      },
+      "jsRenderingRequired": false,
+      "internalLinks": [
+        "https://pan.tthuangli.com",
+        "https://pan.tthuangli.com/zhuanti"
+      ],
+      "apiClues": [],
+      "contentSample": "八字命盤查詢,免費排盤喜用神,八字軟體-天天命盤 天 天 命 盘 弘扬国学文化 汇聚命理爱好者 首页 专题 八字命盘免费查询 姓氏： 日期： 出生地点： 今日八字命盘 八字命盘 四柱 年柱 月柱 日柱 时柱 十神 劫财 偏财 日主 伤官 乾造 丙 午 辛 卯 丁 亥 戊 申 藏干 丁 比肩 己 食神 乙 偏印 壬 正官 甲 正印 庚 正财 壬 正官 戊 伤官 自坐 帝旺 绝 胎 病 星运 临官 病 胎 沐浴 空亡 寅卯 午未 午未 寅卯 纳音 天河水 松柏木 屋上土 大驿土 神煞 禄神 空亡 十干禄 天厨贵人 将星 桃花 天喜 披麻 空亡 太极贵人 劫煞 天乙贵人 十恶大败 德秀贵人 驿马 孤辰 金舆 劫煞 流霞 丧门 文昌贵人 基本信息 公历 2026-03-14 16:33:06 农历 2026年正月廿六日 申时 生肖 马 干支分析 天干留意 丙辛相克、丙戊相生、辛丁相克、辛戊相生、丁戊相生 地支留意 午卯相破、卯亥三合、亥申相害 五行分析 日主属性 丁火 阴阳参考 正常八字 五行旺衰 火旺 土衰 木 旺 火 相 水 休 金 囚 土 死 穷通宝鉴调候用神：用 庚，甲 酌用。 《八字"
+    },
+    {
+      "name": "问真八字排盘",
+      "url": "https://pcbz.iwzwh.com",
+      "status": "ok",
+      "finalUrl": "https://pcbz.iwzwh.com/",
+      "title": "问真八字在线排盘",
+      "metaDescription": "网页版问真八字在线排盘，免下载使用，更适合专业命理师的选择。为您提供八字命盘准确信息、命例云存储、真太阳时、AI智能提示格局、旺衰、五行能量、八字合婚、玄学学堂、名人八字库、断事笔记等功能。",
+      "metaKeywords": "",
+      "features": [],
+      "pricing": [],
+      "techStack": [
+        "jQuery"
+      ],
+      "seo": {
+        "h1": [],
+        "canonical": "",
+        "structuredDataTypes": []
+      },
+      "socialLinks": [],
+      "externalResources": {
+        "scripts": [
+          "https://pcbz.iwzwh.com/static/js/chunk-vendors.8167917f.js",
+          "https://pcbz.iwzwh.com/static/js/app.12fa6a7e.js",
+          "https://www.iwzbz.com/jquery.min.js"
+        ],
+        "stylesheets": [
+          "https://pcbz.iwzwh.com/static/css/chunk-vendors.77af898f.css",
+          "https://pcbz.iwzwh.com/static/css/app.675fb6e1.css"
+        ]
+      },
+      "jsRenderingRequired": false,
+      "internalLinks": [],
+      "apiClues": [],
+      "contentSample": "问真八字在线排盘 We're sorry but 问真八字在线排盘 doesn't work properly without JavaScript enabled. Please enable it to continue."
+    }
+  ],
+  "skippedSites": [],
+  "baziLabDeepDive": {
+    "subpages": [
+      {
+        "url": "https://www.bazi-lab.com/about",
+        "title": "About BaZi Lab - Our Story & Mission | BaZi Lab",
+        "features": [
+          "付费解读",
+          "AI分析",
+          "真太阳时",
+          "神煞",
+          "合婚"
+        ],
+        "h1": [
+          "About Us"
+        ],
+        "pricing": [
+          "免费"
+        ],
+        "jsRenderingRequired": false
+      },
+      {
+        "url": "https://www.bazi-lab.com/bazi-ai-chat",
+        "title": "BaZi AI Chat - Interactive Destiny Consultation | BaZi Lab | BaZi Lab",
+        "features": [
+          "付费解读",
+          "AI分析",
+          "真太阳时",
+          "神煞",
+          "合婚"
+        ],
+        "h1": [
+          "BaZi AI Chat"
+        ],
+        "pricing": [],
+        "jsRenderingRequired": false
+      },
+      {
+        "url": "https://www.bazi-lab.com/bazi-calculator",
+        "title": "Free BaZi Calculator & Online 八字排盘 | Accurate Four Pillars Chart – BaZi Lab | BaZi Lab",
+        "features": [
+          "免费排盘",
+          "付费解读",
+          "AI分析",
+          "真太阳时",
+          "大运流年",
+          "合婚"
+        ],
+        "h1": [
+          "Free BaZi Calculator – Generate Your Four Pillars Chart Instantly"
+        ],
+        "pricing": [
+          "免费"
+        ],
+        "jsRenderingRequired": false
+      },
+      {
+        "url": "https://www.bazi-lab.com/bazi-love-compatibility",
+        "title": "BaZi Lab - Discover Your Chinese Destiny Chart | BaZi Lab",
+        "features": [
+          "免费排盘",
+          "付费解读",
+          "AI分析",
+          "真太阳时",
+          "大运流年",
+          "神煞",
+          "合婚"
+        ],
+        "h1": [
+          "BaZi Lab - Free BaZi AI Calculator to Explore Your Destiny Through BaZi Chart Analysis"
+        ],
+        "pricing": [
+          "免费"
+        ],
+        "jsRenderingRequired": false
+      },
+      {
+        "url": "https://www.bazi-lab.com/bazilab-basics",
+        "title": "BaZi Basics - Learn Chinese Four Pillars Astrology | BaZi Lab | BaZi Lab",
+        "features": [
+          "付费解读",
+          "AI分析",
+          "真太阳时",
+          "神煞",
+          "合婚"
+        ],
+        "h1": [
+          "Understanding BaZi - The Four Pillars of Destiny"
+        ],
+        "pricing": [
+          "免费"
+        ],
+        "jsRenderingRequired": false
+      },
+      {
+        "url": "https://www.bazi-lab.com/blog",
+        "title": "BaZi Blog - Insights, Guides & Research | BaZi Lab | BaZi Lab",
+        "features": [
+          "付费解读",
+          "AI分析",
+          "真太阳时",
+          "合婚"
+        ],
+        "h1": [
+          "Blog & Insights"
+        ],
+        "pricing": [],
+        "jsRenderingRequired": false
+      },
+      {
+        "url": "https://www.bazi-lab.com/blog/monthly-bazi-report-upgrade",
+        "title": "BaZi Blog Article | BaZi Lab",
+        "features": [
+          "付费解读",
+          "AI分析",
+          "真太阳时",
+          "合婚"
+        ],
+        "h1": [],
+        "pricing": [],
+        "jsRenderingRequired": false
+      },
+      {
+        "url": "https://www.bazi-lab.com/chinese-zodiac",
+        "title": "Chinese Zodiac - 12 Animal Signs & Their Meanings | BaZi Lab | BaZi Lab",
+        "features": [
+          "免费排盘",
+          "付费解读",
+          "AI分析",
+          "真太阳时",
+          "合婚"
+        ],
+        "h1": [
+          "Chinese Zodiac Signs & Meanings"
+        ],
+        "pricing": [
+          "免费"
+        ],
+        "jsRenderingRequired": false
+      },
+      {
+        "url": "https://www.bazi-lab.com/client-cases",
+        "title": "Client Cases - BaZi Success Stories & Testimonials | BaZi Lab | BaZi Lab",
+        "features": [
+          "付费解读",
+          "AI分析",
+          "真太阳时",
+          "大运流年",
+          "神煞",
+          "合婚"
+        ],
+        "h1": [
+          "Client Case Studies"
+        ],
+        "pricing": [],
+        "jsRenderingRequired": false
+      },
+      {
+        "url": "https://www.bazi-lab.com/crystal-bazi",
+        "title": "Crystal BaZi - Five Elements Crystal Recommendations | BaZi Lab | BaZi Lab",
+        "features": [
+          "免费排盘",
+          "付费解读",
+          "AI分析",
+          "真太阳时",
+          "大运流年",
+          "神煞",
+          "合婚"
+        ],
+        "h1": [
+          "Crystal & BaZi: Harmony of Elements"
+        ],
+        "pricing": [
+          "免费"
+        ],
+        "jsRenderingRequired": false
+      },
+      {
+        "url": "https://www.bazi-lab.com/daily-chinese-almanac",
+        "title": "Daily Chinese Almanac - Auspicious Days & Activities | BaZi Lab | BaZi Lab",
+        "features": [
+          "付费解读",
+          "AI分析",
+          "真太阳时",
+          "合婚"
+        ],
+        "h1": [
+          "Daily Chinese Almanac"
+        ],
+        "pricing": [],
+        "jsRenderingRequired": false
+      },
+      {
+        "url": "https://www.bazi-lab.com/forum",
+        "title": "BaZi Forum - Coming Soon | BaZi Lab | BaZi Lab",
+        "features": [
+          "付费解读",
+          "AI分析",
+          "真太阳时",
+          "合婚"
+        ],
+        "h1": [
+          "BaZi Forum"
+        ],
+        "pricing": [],
+        "jsRenderingRequired": false
+      },
+      {
+        "url": "https://www.bazi-lab.com/love-compatibility",
+        "title": "BaZi Love Compatibility - Check Your Relationship Match | BaZi Lab | BaZi Lab",
+        "features": [
+          "付费解读",
+          "AI分析",
+          "真太阳时",
+          "神煞",
+          "合婚"
+        ],
+        "h1": [
+          "BaZi Love Compatibility Checker"
+        ],
+        "pricing": [
+          "免费"
+        ],
+        "jsRenderingRequired": false
+      },
+      {
+        "url": "https://www.bazi-lab.com/privacy-policy",
+        "title": "Privacy Policy - BaZi Lab | BaZi Lab",
+        "features": [
+          "付费解读",
+          "AI分析",
+          "真太阳时",
+          "合婚"
+        ],
+        "h1": [
+          "Privacy Policy"
+        ],
+        "pricing": [],
+        "jsRenderingRequired": false
+      },
+      {
+        "url": "https://www.bazi-lab.com/reports",
+        "title": "BaZi Reports - Professional Destiny Analysis Reports | BaZi Lab | BaZi Lab",
+        "features": [
+          "付费解读",
+          "AI分析",
+          "真太阳时",
+          "大运流年",
+          "神煞",
+          "合婚"
+        ],
+        "h1": [
+          "BaZi Analysis Reports"
+        ],
+        "pricing": [
+          "免费"
+        ],
+        "jsRenderingRequired": false
+      },
+      {
+        "url": "https://www.bazi-lab.com/services",
+        "title": "BaZi Services & Pricing - Premium Analysis Plans | BaZi Lab | BaZi Lab",
+        "features": [
+          "付费解读",
+          "AI分析",
+          "真太阳时",
+          "合婚"
+        ],
+        "h1": [
+          "Professional Services"
+        ],
+        "pricing": [
+          "免费"
+        ],
+        "jsRenderingRequired": false
+      },
+      {
+        "url": "https://www.bazi-lab.com/ten-gods",
+        "title": "Ten Gods (Shi Shen) - BaZi Relationship Stars Guide | BaZi Lab | BaZi Lab",
+        "features": [
+          "付费解读",
+          "AI分析",
+          "真太阳时",
+          "神煞",
+          "合婚"
+        ],
+        "h1": [
+          "The Ten Gods (Shi Shen 十神) in BaZi"
+        ],
+        "pricing": [],
+        "jsRenderingRequired": false
+      },
+      {
+        "url": "https://www.bazi-lab.com/true-solar-time",
+        "title": "True Solar Time Calculator - Accurate BaZi Birth Time | BaZi Lab | BaZi Lab",
+        "features": [
+          "付费解读",
+          "AI分析",
+          "真太阳时",
+          "合婚"
+        ],
+        "h1": [
+          "True Solar Time in BaZi Analysis"
+        ],
+        "pricing": [],
+        "jsRenderingRequired": false
+      },
+      {
+        "url": "https://www.bazi-lab.com/zodiac-calculator",
+        "title": "BaZi Lab - Discover Your Chinese Destiny Chart | BaZi Lab",
+        "features": [
+          "免费排盘",
+          "付费解读",
+          "AI分析",
+          "真太阳时",
+          "大运流年",
+          "神煞",
+          "合婚"
+        ],
+        "h1": [
+          "BaZi Lab - Free BaZi AI Calculator to Explore Your Destiny Through BaZi Chart Analysis"
+        ],
+        "pricing": [
+          "免费"
+        ],
+        "jsRenderingRequired": false
+      },
+      {
+        "url": "https://www.bazi-lab.com/bazi-love-compatibility/about",
+        "title": "About BaZi Lab - AI-Powered BaZi Analysis & Destiny Reading",
+        "features": [
+          "付费解读",
+          "AI分析",
+          "真太阳时",
+          "神煞",
+          "合婚"
+        ],
+        "h1": [
+          "About Us"
+        ],
+        "pricing": [
+          "免费"
+        ],
+        "jsRenderingRequired": false
+      },
+      {
+        "url": "https://www.bazi-lab.com/bazi-love-compatibility/bazi-calculator",
+        "title": "BaZi Calculator - Free Four Pillars of Destiny Chart Generator | BaZi Lab",
+        "features": [
+          "免费排盘",
+          "付费解读",
+          "AI分析",
+          "真太阳时",
+          "大运流年",
+          "合婚"
+        ],
+        "h1": [
+          "Free BaZi Calculator – Generate Your Four Pillars Chart Instantly"
+        ],
+        "pricing": [
+          "免费"
+        ],
+        "jsRenderingRequired": false
+      },
+      {
+        "url": "https://www.bazi-lab.com/bazi-love-compatibility/bazilab-basics",
+        "title": "BaZi Basics - Learn the Fundamentals of Chinese Astrology | BaZi Lab",
+        "features": [
+          "付费解读",
+          "AI分析",
+          "真太阳时",
+          "神煞",
+          "合婚"
+        ],
+        "h1": [
+          "Understanding BaZi - The Four Pillars of Destiny"
+        ],
+        "pricing": [
+          "免费"
+        ],
+        "jsRenderingRequired": false
+      },
+      {
+        "url": "https://www.bazi-lab.com/bazi-love-compatibility/blog",
+        "title": "Blog & Insights | BaZi Lab",
+        "features": [
+          "付费解读",
+          "AI分析",
+          "真太阳时",
+          "合婚"
+        ],
+        "h1": [
+          "BaZiLab Blog"
+        ],
+        "pricing": [],
+        "jsRenderingRequired": false
+      },
+      {
+        "url": "https://www.bazi-lab.com/bazi-love-compatibility/chinese-zodiac",
+        "title": "Free Chinese Zodiac Calculator | Find Your Zodiac Sign Online - BaZi Lab",
+        "features": [
+          "免费排盘",
+          "付费解读",
+          "AI分析",
+          "真太阳时",
+          "合婚"
+        ],
+        "h1": [
+          "Chinese Zodiac Signs & Meanings"
+        ],
+        "pricing": [
+          "免费"
+        ],
+        "jsRenderingRequired": false
+      },
+      {
+        "url": "https://www.bazi-lab.com/bazi-love-compatibility/client-cases",
+        "title": "Client Success Stories | BaZi Lab",
+        "features": [
+          "付费解读",
+          "AI分析",
+          "真太阳时",
+          "大运流年",
+          "神煞",
+          "合婚"
+        ],
+        "h1": [
+          "Client Case Studies"
+        ],
+        "pricing": [],
+        "jsRenderingRequired": false
+      }
+    ],
+    "subpageCount": 25,
+    "apiClues": [
+      "https://www.bazi-lab.com/api/auth/session",
+      "https://www.bazi-lab.com/api/auth/signin?"
+    ]
+  },
+  "featureMatrix": [
+    {
+      "网站": "BaZi Lab",
+      "免费排盘": "是",
+      "AI解读": "是",
+      "真太阳时": "是",
+      "大运流年": "是",
+      "神煞": "是",
+      "合婚": "是",
+      "PDF": "否",
+      "付费模式": "免费",
+      "技术栈": "Next.js/React / Cloudflare / Google Analytics / Google Tag Manager / Microsoft Clarity"
+    },
+    {
+      "网站": "Master Tsai",
+      "免费排盘": "否",
+      "AI解读": "是",
+      "真太阳时": "否",
+      "大运流年": "否",
+      "神煞": "是",
+      "合婚": "是",
+      "PDF": "否",
+      "付费模式": "$130、免费",
+      "技术栈": "静态HTML或未识别"
+    },
+    {
+      "网站": "SkillOn",
+      "免费排盘": "是",
+      "AI解读": "否",
+      "真太阳时": "否",
+      "大运流年": "是",
+      "神煞": "是",
+      "合婚": "是",
+      "PDF": "否",
+      "付费模式": "免费",
+      "技术栈": "静态HTML或未识别"
+    },
+    {
+      "网站": "Master Sean Chan",
+      "免费排盘": "是",
+      "AI解读": "否",
+      "真太阳时": "是",
+      "大运流年": "是",
+      "神煞": "是",
+      "合婚": "是",
+      "PDF": "否",
+      "付费模式": "免费",
+      "技术栈": "jQuery / WordPress / Cloudflare / Google Analytics / Google Tag Manager"
+    },
+    {
+      "网站": "FS In Motion",
+      "免费排盘": "是",
+      "AI解读": "否",
+      "真太阳时": "否",
+      "大运流年": "是",
+      "神煞": "否",
+      "合婚": "是",
+      "PDF": "否",
+      "付费模式": "免费",
+      "技术栈": "jQuery / WordPress / Stripe"
+    },
+    {
+      "网站": "Feng Shui Xin Yu",
+      "免费排盘": "是",
+      "AI解读": "否",
+      "真太阳时": "否",
+      "大运流年": "否",
+      "神煞": "否",
+      "合婚": "是",
+      "PDF": "否",
+      "付费模式": "$0.00、$129.99、$199.99、$269.99、$99.99、免费",
+      "技术栈": "jQuery / WordPress / Google Analytics / Google Tag Manager"
+    },
+    {
+      "网站": "Marlyna Consulting",
+      "免费排盘": "是",
+      "AI解读": "否",
+      "真太阳时": "否",
+      "大运流年": "否",
+      "神煞": "是",
+      "合婚": "是",
+      "PDF": "否",
+      "付费模式": "免费",
+      "技术栈": "React / jQuery / WordPress / Google Analytics / Google Tag Manager"
+    },
+    {
+      "网站": "MingLi",
+      "免费排盘": "否",
+      "AI解读": "否",
+      "真太阳时": "是",
+      "大运流年": "否",
+      "神煞": "是",
+      "合婚": "是",
+      "PDF": "否",
+      "付费模式": "未见公开定价",
+      "技术栈": "React / Vue / jQuery / Google Analytics / Google Tag Manager"
+    },
+    {
+      "网站": "算准网",
+      "免费排盘": "否",
+      "AI解读": "否",
+      "真太阳时": "否",
+      "大运流年": "是",
+      "神煞": "是",
+      "合婚": "否",
+      "PDF": "否",
+      "付费模式": "免费",
+      "技术栈": "jQuery"
+    },
+    {
+      "网站": "卜易居",
+      "免费排盘": "否",
+      "AI解读": "否",
+      "真太阳时": "是",
+      "大运流年": "是",
+      "神煞": "否",
+      "合婚": "是",
+      "PDF": "否",
+      "付费模式": "免费",
+      "技术栈": "jQuery"
+    },
+    {
+      "网站": "华易网手机版",
+      "免费排盘": "是",
+      "AI解读": "否",
+      "真太阳时": "是",
+      "大运流年": "是",
+      "神煞": "是",
+      "合婚": "是",
+      "PDF": "否",
+      "付费模式": "免费",
+      "技术栈": "React / jQuery"
+    },
+    {
+      "网站": "易算网",
+      "免费排盘": "否",
+      "AI解读": "否",
+      "真太阳时": "是",
+      "大运流年": "是",
+      "神煞": "否",
+      "合婚": "是",
+      "PDF": "否",
+      "付费模式": "免费",
+      "技术栈": "Vue / WordPress / Microsoft Clarity"
+    },
+    {
+      "网站": "天兔黄历",
+      "免费排盘": "否",
+      "AI解读": "否",
+      "真太阳时": "否",
+      "大运流年": "是",
+      "神煞": "是",
+      "合婚": "否",
+      "PDF": "否",
+      "付费模式": "免费",
+      "技术栈": "jQuery"
+    },
+    {
+      "网站": "问真八字排盘",
+      "免费排盘": "否",
+      "AI解读": "否",
+      "真太阳时": "否",
+      "大运流年": "否",
+      "神煞": "否",
+      "合婚": "否",
+      "PDF": "否",
+      "付费模式": "未见公开定价",
+      "技术栈": "jQuery"
+    }
+  ],
+  "gapAnalysis": {
+    "oursOnly": [
+      "PDF报告"
+    ],
+    "competitorOnly": [
+      "AI分析",
+      "付费解读",
+      "免费排盘"
+    ]
+  },
+  "seoOpportunities": [
+    "部分竞品未设置 meta keywords，可优先围绕八字排盘、真太阳时、AI 解读建立更聚焦的关键词簇。",
+    "多个竞品未明显使用结构化数据，可补充 FAQPage、WebSite、SoftwareApplication 提升富结果机会。",
+    "部分竞品 H1 结构较弱，可围绕主关键词与长尾词设计更清晰的标题层级。"
+  ]
+}
