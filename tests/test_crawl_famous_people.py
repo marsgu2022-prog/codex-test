@@ -88,3 +88,22 @@ def test_validate_people_flags_missing_required_fields():
     assert summary["total_people"] == 2
     assert summary["invalid_count"] == 1
     assert summary["invalid_ids"] == ["Q2"]
+
+
+def test_build_runtime_configs_smoke_uses_small_scope():
+    configs, min_total_people, output_suffix = MODULE.build_runtime_configs("smoke")
+    assert min_total_people == MODULE.SMOKE_MIN_TOTAL_PEOPLE
+    assert output_suffix == "_smoke"
+    assert configs["china_like"]["country_qids"] == MODULE.CHINA_LIKE_QIDS[:1]
+    assert configs["china_like"]["occupations"] == ["politician", "writer"]
+    assert configs["china_like"]["pages"] == 1
+    assert configs["china_like"]["per_query_limit"] == 5
+    assert configs["western"]["extra_country_names"] == []
+
+
+def test_build_runtime_configs_full_preserves_default_scope():
+    configs, min_total_people, output_suffix = MODULE.build_runtime_configs("full")
+    assert min_total_people == MODULE.MIN_TOTAL_PEOPLE
+    assert output_suffix == ""
+    assert configs["western"]["country_qids"] == MODULE.WESTERN_COUNTRY_QIDS
+    assert configs["global_extra"]["pages"] == MODULE.COHORT_CONFIGS["global_extra"]["pages"]

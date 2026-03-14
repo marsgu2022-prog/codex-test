@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
+import argparse
 import json
 import re
 import time
@@ -19,8 +20,9 @@ EN_WIKIPEDIA_API_URL = "https://en.wikipedia.org/w/api.php"
 ZH_WIKIPEDIA_API_URL = "https://zh.wikipedia.org/w/api.php"
 USER_AGENT = "bazichart-engine/1.0 (famous people crawler)"
 ENTITY_BATCH_SIZE = 25
-MIN_TOTAL_PEOPLE = 2000
+MIN_TOTAL_PEOPLE = 10000
 MAX_ACCEPTABLE_RETRY_AFTER = 30
+SMOKE_MIN_TOTAL_PEOPLE = 1
 
 CHINA_LIKE_QIDS = ["Q148", "Q865", "Q8646", "Q14773", "Q1054923", "Q3916279"]
 WESTERN_COUNTRY_QIDS = [
@@ -56,6 +58,52 @@ GLOBAL_EXTRA_COUNTRY_QIDS = [
     "Q43",
     "Q79",
 ]
+WESTERN_EXTRA_COUNTRY_NAMES = [
+    "Netherlands",
+    "Poland",
+    "Czech Republic",
+    "Hungary",
+    "Romania",
+    "Bulgaria",
+    "Croatia",
+    "Serbia",
+    "Ukraine",
+    "Greece",
+    "Luxembourg",
+    "Slovakia",
+    "Slovenia",
+    "Lithuania",
+    "Latvia",
+    "Estonia",
+    "Iceland",
+]
+GLOBAL_EXTRA_COUNTRY_NAMES = [
+    "Turkey",
+    "Iran",
+    "Saudi Arabia",
+    "United Arab Emirates",
+    "Israel",
+    "Nigeria",
+    "Kenya",
+    "Ethiopia",
+    "Argentina",
+    "Chile",
+    "Colombia",
+    "Peru",
+    "Venezuela",
+    "Indonesia",
+    "Malaysia",
+    "Thailand",
+    "Vietnam",
+    "Philippines",
+    "Pakistan",
+    "Bangladesh",
+    "Nepal",
+    "Sri Lanka",
+    "Singapore",
+    "Kazakhstan",
+    "Uzbekistan",
+]
 OCCUPATION_QIDS = {
     "politician": "Q82955",
     "scientist": "Q901",
@@ -71,19 +119,24 @@ COHORT_CONFIGS = {
         "country_qids": CHINA_LIKE_QIDS,
         "language": "zh",
         "occupations": ["politician", "writer", "scientist", "actor", "singer", "businessperson", "entrepreneur"],
-        "per_query_limit": 35,
+        "per_query_limit": 25,
+        "pages": 4,
     },
     "western": {
         "country_qids": WESTERN_COUNTRY_QIDS,
+        "extra_country_names": WESTERN_EXTRA_COUNTRY_NAMES,
         "language": "en",
         "occupations": ["politician", "scientist", "writer", "actor", "singer", "athlete", "businessperson", "entrepreneur"],
-        "per_query_limit": 18,
+        "per_query_limit": 15,
+        "pages": 3,
     },
     "global_extra": {
         "country_qids": GLOBAL_EXTRA_COUNTRY_QIDS,
+        "extra_country_names": GLOBAL_EXTRA_COUNTRY_NAMES,
         "language": "en",
         "occupations": ["politician", "scientist", "writer", "actor", "singer", "athlete", "businessperson", "entrepreneur"],
-        "per_query_limit": 18,
+        "per_query_limit": 15,
+        "pages": 3,
     },
 }
 
@@ -238,7 +291,7 @@ CATEGORY_GROUPS = {
 }
 
 
-def build_sparql_query(language_wikipedia: str, country_qids: list[str], occupation_qid: str, limit: int) -> str:
+def build_sparql_query(language_wikipedia: str, country_qids: list[str], occupation_qid: str, limit: int, offset: int) -> str:
     values = " ".join(f"wd:{qid}" for qid in country_qids)
     return f"""
 SELECT
@@ -260,6 +313,7 @@ WHERE {{
 }}
 ORDER BY DESC(?sitelinks)
 LIMIT {limit}
+OFFSET {offset}
 """.strip()
 
 
@@ -375,6 +429,42 @@ def description_value(entity: dict[str, Any], language: str) -> str:
     return entity.get("descriptions", {}).get(language, {}).get("value", "")
 
 
+def resolve_entity_id(session: requests.Session, name: str) -> str | None:
+    response = session.get(
+        WIKIDATA_API_URL,
+        params={
+            "action": "wbsearchentities",
+            "format": "json",
+            "language": "en",
+            "type": "item",
+            "limit": 5,
+            "search": name,
+        },
+        timeout=30,
+    )
+    response.raise_for_status()
+    for item in response.json().get("search", []):
+        description = (item.get("description") or "").lower()
+        if "country" in description or "sovereign state" in description:
+            return item.get("id")
+    results = response.json().get("search", [])
+    return results[0].get("id") if results else None
+
+
+def expand_country_qids(session: requests.Session, base_qids: list[str], extra_country_names: list[str] | None = None) -> list[str]:
+    qids = list(base_qids)
+    for name in extra_country_names or []:
+        try:
+            entity_id = resolve_entity_id(session, name)
+        except RequestException as exc:
+            print(f"跳过国家名称 {name}：{exc}", flush=True)
+            continue
+        if entity_id and entity_id not in qids:
+            qids.append(entity_id)
+            print(f"追加国家 {name} -> {entity_id}", flush=True)
+    return qids
+
+
 def build_detail_map(session: requests.Session, person_ids: list[str]) -> dict[str, dict[str, Any]]:
     people_entities = fetch_entities(session, person_ids)
     related_ids = set()
@@ -457,23 +547,31 @@ def fetch_cohort_from_countries(
     language: str,
     occupations: list[str],
     per_query_limit: int,
+    pages: int,
 ) -> list[dict[str, Any]]:
     rows: list[dict[str, Any]] = []
     for country_qid in country_qids:
         for occupation_name in occupations:
             occupation_qid = OCCUPATION_QIDS[occupation_name]
-            query = build_sparql_query(language, [country_qid], occupation_qid, per_query_limit)
-            print(f"[{cohort}] SPARQL 国家 {country_qid} × {occupation_name}，限制 {per_query_limit}", flush=True)
-            try:
-                result_rows = query_wikidata(session, query)
-            except RequestException as exc:
-                print(f"[{cohort}] 跳过国家 {country_qid} × {occupation_name}：{exc}", flush=True)
-                continue
-            rows.extend(result_rows)
-            print(
-                f"[{cohort}] 国家 {country_qid} × {occupation_name} 抓取完成：{len(result_rows)}，累计 {len(rows)}",
-                flush=True,
-            )
+            for page in range(pages):
+                offset = page * per_query_limit
+                query = build_sparql_query(language, [country_qid], occupation_qid, per_query_limit, offset)
+                print(
+                    f"[{cohort}] SPARQL 国家 {country_qid} × {occupation_name}，第 {page + 1}/{pages} 页，限制 {per_query_limit}",
+                    flush=True,
+                )
+                try:
+                    result_rows = query_wikidata(session, query)
+                except RequestException as exc:
+                    print(f"[{cohort}] 跳过国家 {country_qid} × {occupation_name} 第 {page + 1} 页：{exc}", flush=True)
+                    break
+                rows.extend(result_rows)
+                print(
+                    f"[{cohort}] 国家 {country_qid} × {occupation_name} 第 {page + 1} 页完成：{len(result_rows)}，累计 {len(rows)}",
+                    flush=True,
+                )
+                if len(result_rows) < per_query_limit:
+                    break
 
     qids = sorted({row["person"]["value"].rsplit("/", 1)[-1] for row in rows})
     print(f"[{cohort}] 准备补详情的去重 QID：{len(qids)}", flush=True)
@@ -739,34 +837,76 @@ def write_json(path: Path, payload: Any) -> None:
     path.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(description="抓取名人数据并生成日柱索引")
+    parser.add_argument(
+        "--mode",
+        choices=["full", "smoke"],
+        default="full",
+        help="full 为默认全量模式，smoke 只跑最小链路验证",
+    )
+    return parser.parse_args()
+
+
+def build_runtime_configs(mode: str) -> tuple[dict[str, dict[str, Any]], int, str]:
+    configs = {name: dict(config) for name, config in COHORT_CONFIGS.items()}
+    if mode == "smoke":
+        for config in configs.values():
+            config["country_qids"] = config["country_qids"][:1]
+            config["occupations"] = config["occupations"][:2]
+            config["pages"] = 1
+            config["per_query_limit"] = min(config["per_query_limit"], 5)
+            if "extra_country_names" in config:
+                config["extra_country_names"] = []
+        return configs, SMOKE_MIN_TOTAL_PEOPLE, "_smoke"
+    return configs, MIN_TOTAL_PEOPLE, ""
+
+
 def main() -> int:
+    args = parse_args()
     session = requests.Session()
     session.headers.update({"User-Agent": USER_AGENT})
+    runtime_configs, min_total_people, output_suffix = build_runtime_configs(args.mode)
+
+    print(f"运行模式：{args.mode}", flush=True)
 
     print("抓取中文名人...", flush=True)
-    chinese_people = fetch_cohort_from_countries(session, "china_like", **COHORT_CONFIGS["china_like"])
+    chinese_config = dict(runtime_configs["china_like"])
+    chinese_people = fetch_cohort_from_countries(session, "china_like", **chinese_config)
     print(f"中文名人抓取完成：{len(chinese_people)}", flush=True)
 
     print("抓取西方名人...", flush=True)
-    western_people = fetch_cohort_from_countries(session, "western", **COHORT_CONFIGS["western"])
+    western_config = dict(runtime_configs["western"])
+    western_config["country_qids"] = expand_country_qids(
+        session,
+        western_config["country_qids"],
+        western_config.pop("extra_country_names", []),
+    )
+    western_people = fetch_cohort_from_countries(session, "western", **western_config)
     print(f"西方名人抓取完成：{len(western_people)}", flush=True)
 
     print("抓取全球补充名人...", flush=True)
-    global_extra_people = fetch_cohort_from_countries(session, "global_extra", **COHORT_CONFIGS["global_extra"])
+    global_extra_config = dict(runtime_configs["global_extra"])
+    global_extra_config["country_qids"] = expand_country_qids(
+        session,
+        global_extra_config["country_qids"],
+        global_extra_config.pop("extra_country_names", []),
+    )
+    global_extra_people = fetch_cohort_from_countries(session, "global_extra", **global_extra_config)
     print(f"全球补充名人抓取完成：{len(global_extra_people)}", flush=True)
 
     people = dedupe_people(chinese_people + western_people + global_extra_people)
-    if len(people) < MIN_TOTAL_PEOPLE:
-        raise RuntimeError(f"名人总数不足 {MIN_TOTAL_PEOPLE}，当前仅 {len(people)}")
+    if len(people) < min_total_people:
+        raise RuntimeError(f"名人总数不足 {min_total_people}，当前仅 {len(people)}")
 
     validation = validate_people(people)
     if validation["invalid_count"] != 0:
         raise RuntimeError(f"存在无效名人记录: {validation}")
 
     data_dir = Path(__file__).resolve().parent.parent / "data"
-    famous_people_path = data_dir / "famous_people.json"
-    day_pillar_index_path = data_dir / "day_pillar_index.json"
-    report_path = data_dir / "famous_people_report.json"
+    famous_people_path = data_dir / f"famous_people{output_suffix}.json"
+    day_pillar_index_path = data_dir / f"day_pillar_index{output_suffix}.json"
+    report_path = data_dir / f"famous_people_report{output_suffix}.json"
 
     write_json(famous_people_path, people)
     write_json(day_pillar_index_path, build_day_pillar_index(people))
@@ -774,6 +914,8 @@ def main() -> int:
         report_path,
         {
             "generated_at": time.strftime("%Y-%m-%d %H:%M:%S"),
+            "mode": args.mode,
+            "min_total_people": min_total_people,
             "total_people": len(people),
             "chinese_people": len(chinese_people),
             "western_people": len(western_people),
