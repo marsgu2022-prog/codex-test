@@ -5,11 +5,14 @@ from io import BytesIO
 from pathlib import Path
 from typing import Any
 
+from reportlab.lib import colors
+from reportlab.lib.enums import TA_CENTER, TA_LEFT
 from reportlab.lib.pagesizes import A4
+from reportlab.lib.styles import ParagraphStyle, getSampleStyleSheet
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.cidfonts import UnicodeCIDFont
 from reportlab.pdfbase.ttfonts import TTFont
-from reportlab.pdfgen import canvas
+from reportlab.platypus import HRFlowable, PageBreak, Paragraph, SimpleDocTemplate, Spacer, Table, TableStyle
 
 
 FONT_NAME = "NotoSansSC"
@@ -17,22 +20,28 @@ FONT_PATH = Path(__file__).resolve().parent / "fonts" / "NotoSansSC-Regular.ttf"
 FALLBACK_FONT_NAME = "STSong-Light"
 PAGE_SIZE = A4
 PAGE_WIDTH, PAGE_HEIGHT = PAGE_SIZE
-LEFT_MARGIN = 72
-RIGHT_MARGIN = 72
-TOP_MARGIN = 72
-BOTTOM_MARGIN = 72
-LINE_HEIGHT = 18
-SECTION_GAP = 10
+LEFT_MARGIN = 60
+RIGHT_MARGIN = 60
+TOP_MARGIN = 50
+BOTTOM_MARGIN = 50
+TITLE_COLOR = colors.HexColor("#8B6914")
+SECTION_COLOR = colors.HexColor("#5C4A1E")
+BODY_COLOR = colors.HexColor("#333333")
+RULE_COLOR = colors.HexColor("#D4A537")
+SUBTITLE_COLOR = colors.HexColor("#666666")
+TABLE_HEADER_BG = colors.HexColor("#F5E6C8")
 
 
 def _register_chinese_font() -> str:
     if FONT_PATH.exists():
         if FONT_NAME not in pdfmetrics.getRegisteredFontNames():
             pdfmetrics.registerFont(TTFont(FONT_NAME, str(FONT_PATH)))
+        pdfmetrics.registerFontFamily(FONT_NAME, normal=FONT_NAME, bold=FONT_NAME)
         return FONT_NAME
 
     if FALLBACK_FONT_NAME not in pdfmetrics.getRegisteredFontNames():
         pdfmetrics.registerFont(UnicodeCIDFont(FALLBACK_FONT_NAME))
+    pdfmetrics.registerFontFamily(FALLBACK_FONT_NAME, normal=FALLBACK_FONT_NAME, bold=FALLBACK_FONT_NAME)
     return FALLBACK_FONT_NAME
 
 
@@ -53,20 +62,8 @@ def _pick_first_value(source: dict[str, Any], keys: list[str]) -> Any:
 
 def _normalize_pillar(pillar: Any) -> tuple[str, str]:
     if isinstance(pillar, dict):
-        stem = str(
-            _pick_first_value(
-                pillar,
-                ["heavenly_stem", "stem", "tiangan", "gan", "天干"],
-            )
-            or ""
-        )
-        branch = str(
-            _pick_first_value(
-                pillar,
-                ["earthly_branch", "branch", "dizhi", "zhi", "地支"],
-            )
-            or ""
-        )
+        stem = str(_pick_first_value(pillar, ["heavenly_stem", "stem", "tiangan", "gan", "天干"]) or "")
+        branch = str(_pick_first_value(pillar, ["earthly_branch", "branch", "dizhi", "zhi", "地支"]) or "")
         return stem, branch
 
     if isinstance(pillar, str):
@@ -78,26 +75,20 @@ def _normalize_pillar(pillar: Any) -> tuple[str, str]:
     return "", ""
 
 
-def _extract_four_pillars(data: dict[str, Any]) -> list[str]:
-    pillars_container = _pick_first_dict(
-        data,
-        ["four_pillars", "pillars", "bazi", "chart", "natal_chart"],
-    )
+def _extract_four_pillars(data: dict[str, Any]) -> list[tuple[str, str, str]]:
+    pillars_container = _pick_first_dict(data, ["four_pillars", "pillars", "bazi", "chart", "natal_chart"])
     labels = [
         ("年柱", ["year", "year_pillar", "年柱"]),
         ("月柱", ["month", "month_pillar", "月柱"]),
         ("日柱", ["day", "day_pillar", "日柱"]),
-        ("时柱", ["hour", "hour_pillar", "time", "hour_pillar", "时柱"]),
+        ("时柱", ["hour", "hour_pillar", "time", "时柱"]),
     ]
 
-    result: list[str] = []
+    result: list[tuple[str, str, str]] = []
     for label, keys in labels:
         pillar_value = _pick_first_value(pillars_container, keys)
         stem, branch = _normalize_pillar(pillar_value)
-        if stem or branch:
-            result.append(f"{label}：天干 {stem or '未提供'}，地支 {branch or '未提供'}")
-        else:
-            result.append(f"{label}：未提供")
+        result.append((label, stem or "未提供", branch or "未提供"))
     return result
 
 
@@ -173,94 +164,207 @@ def _extract_psychology(data: dict[str, Any]) -> list[tuple[str, str]]:
     return [("心理学分析", text)] if text else []
 
 
-def _wrap_text(text: str, font_name: str, font_size: int, max_width: float) -> list[str]:
-    if not text:
-        return [""]
+def _extract_birth_info(data: dict[str, Any]) -> str:
+    raw_input = _pick_first_dict(data, ["input", "request", "birth_info"])
+    year = _pick_first_value(raw_input, ["birth_year", "year", "年"])
+    month = _pick_first_value(raw_input, ["birth_month", "month", "月"])
+    day = _pick_first_value(raw_input, ["birth_day", "day", "日"])
+    hour = _pick_first_value(raw_input, ["birth_hour", "hour", "时"])
+    gender = _pick_first_value(raw_input, ["gender", "sex", "性别"])
+    birthplace = _pick_first_value(raw_input, ["birthplace", "location", "出生地"])
 
-    wrapped_lines: list[str] = []
-    for raw_line in text.splitlines() or [""]:
-        current = ""
-        for char in raw_line:
-            candidate = f"{current}{char}"
-            if current and pdfmetrics.stringWidth(candidate, font_name, font_size) > max_width:
-                wrapped_lines.append(current)
-                current = char
-            else:
-                current = candidate
-        wrapped_lines.append(current)
-    return wrapped_lines or [""]
+    parts = []
+    if year is not None and month is not None and day is not None and hour is not None:
+        parts.append(f"出生信息：{year}年{month}月{day}日 {hour}时")
+    elif raw_input:
+        parts.append("出生信息：已提供")
+    else:
+        parts.append("出生信息：未提供")
 
-
-def _new_page(pdf: canvas.Canvas, font_name: str, title: str | None = None) -> float:
-    pdf.showPage()
-    if title:
-        pdf.setFont(font_name, 16)
-        pdf.drawString(LEFT_MARGIN, PAGE_HEIGHT - TOP_MARGIN, title)
-        return PAGE_HEIGHT - TOP_MARGIN - 30
-    return PAGE_HEIGHT - TOP_MARGIN
+    if gender:
+        parts.append(f"性别：{gender}")
+    if birthplace:
+        parts.append(f"出生地：{birthplace}")
+    return " | ".join(parts)
 
 
-def _draw_paragraphs(
-    pdf: canvas.Canvas,
-    paragraphs: list[str],
-    font_name: str,
-    font_size: int,
-    cursor_y: float,
-    section_title: str | None = None,
-) -> float:
-    max_width = PAGE_WIDTH - LEFT_MARGIN - RIGHT_MARGIN
-    if section_title:
-        if cursor_y < BOTTOM_MARGIN + 40:
-            cursor_y = _new_page(pdf, font_name)
-        pdf.setFont(font_name, 16)
-        pdf.drawString(LEFT_MARGIN, cursor_y, section_title)
-        cursor_y -= 30
+def _build_styles(font_name: str) -> dict[str, ParagraphStyle]:
+    sample = getSampleStyleSheet()
+    return {
+        "title": ParagraphStyle(
+            "TitlePageTitle",
+            parent=sample["Title"],
+            fontName=font_name,
+            fontSize=24,
+            leading=30,
+            alignment=TA_CENTER,
+            textColor=TITLE_COLOR,
+            spaceAfter=16,
+        ),
+        "subtitle": ParagraphStyle(
+            "TitlePageSubtitle",
+            parent=sample["BodyText"],
+            fontName=font_name,
+            fontSize=12,
+            leading=18,
+            alignment=TA_CENTER,
+            textColor=SUBTITLE_COLOR,
+            spaceAfter=8,
+        ),
+        "meta": ParagraphStyle(
+            "TitlePageMeta",
+            parent=sample["BodyText"],
+            fontName=font_name,
+            fontSize=10,
+            leading=14,
+            alignment=TA_CENTER,
+            textColor=SUBTITLE_COLOR,
+            spaceAfter=18,
+        ),
+        "section": ParagraphStyle(
+            "SectionTitle",
+            parent=sample["Heading2"],
+            fontName=font_name,
+            fontSize=16,
+            leading=22,
+            alignment=TA_LEFT,
+            textColor=TITLE_COLOR,
+            spaceAfter=10,
+        ),
+        "subheading": ParagraphStyle(
+            "Subheading",
+            parent=sample["Heading3"],
+            fontName=font_name,
+            fontSize=13,
+            leading=18,
+            alignment=TA_LEFT,
+            textColor=SECTION_COLOR,
+            spaceAfter=4,
+        ),
+        "body": ParagraphStyle(
+            "Body",
+            parent=sample["BodyText"],
+            fontName=font_name,
+            fontSize=11,
+            leading=15.4,
+            alignment=TA_LEFT,
+            textColor=BODY_COLOR,
+            spaceAfter=6,
+        ),
+        "table": ParagraphStyle(
+            "TableText",
+            parent=sample["BodyText"],
+            fontName=font_name,
+            fontSize=11,
+            leading=15,
+            alignment=TA_CENTER,
+            textColor=BODY_COLOR,
+        ),
+    }
 
-    pdf.setFont(font_name, font_size)
-    for paragraph in paragraphs:
-        for line in _wrap_text(paragraph, font_name, font_size, max_width):
-            if cursor_y < BOTTOM_MARGIN:
-                cursor_y = _new_page(pdf, font_name)
-                pdf.setFont(font_name, font_size)
-            pdf.drawString(LEFT_MARGIN, cursor_y, line)
-            cursor_y -= LINE_HEIGHT
-        cursor_y -= SECTION_GAP
-    return cursor_y
+
+def _build_title_page(styles: dict[str, ParagraphStyle], interpretation_data: dict[str, Any]) -> list[Any]:
+    generated_at = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    story: list[Any] = [
+        Spacer(1, 180),
+        Paragraph("八字命盘分析报告", styles["title"]),
+        Paragraph(_extract_birth_info(interpretation_data), styles["subtitle"]),
+        Paragraph(f"生成日期：{generated_at}", styles["meta"]),
+        Spacer(1, 12),
+        HRFlowable(width="70%", thickness=1, color=RULE_COLOR, spaceBefore=6, spaceAfter=0),
+        PageBreak(),
+    ]
+    return story
+
+
+def _build_section_title(styles: dict[str, ParagraphStyle], title: str) -> list[Any]:
+    return [
+        HRFlowable(width="100%", thickness=0.8, color=RULE_COLOR, spaceBefore=8, spaceAfter=8),
+        Paragraph(title, styles["section"]),
+    ]
+
+
+def _build_four_pillars_table(styles: dict[str, ParagraphStyle], interpretation_data: dict[str, Any]) -> Table:
+    pillars = _extract_four_pillars(interpretation_data)
+    table_data = [
+        [Paragraph(label, styles["table"]) for label, _stem, _branch in pillars],
+        [Paragraph(f"天干<br/>{stem}", styles["table"]) for _label, stem, _branch in pillars],
+        [Paragraph(f"地支<br/>{branch}", styles["table"]) for _label, _stem, branch in pillars],
+    ]
+    table = Table(table_data, colWidths=[(PAGE_WIDTH - LEFT_MARGIN - RIGHT_MARGIN) / 4.0] * 4)
+    table.setStyle(
+        TableStyle(
+            [
+                ("BACKGROUND", (0, 0), (-1, 0), TABLE_HEADER_BG),
+                ("TEXTCOLOR", (0, 0), (-1, -1), BODY_COLOR),
+                ("ALIGN", (0, 0), (-1, -1), "CENTER"),
+                ("VALIGN", (0, 0), (-1, -1), "MIDDLE"),
+                ("INNERGRID", (0, 0), (-1, -1), 0.6, RULE_COLOR),
+                ("BOX", (0, 0), (-1, -1), 0.8, RULE_COLOR),
+                ("TOPPADDING", (0, 0), (-1, -1), 8),
+                ("BOTTOMPADDING", (0, 0), (-1, -1), 8),
+                ("LEFTPADDING", (0, 0), (-1, -1), 6),
+                ("RIGHTPADDING", (0, 0), (-1, -1), 6),
+            ]
+        )
+    )
+    return table
+
+
+def _build_named_paragraphs(
+    styles: dict[str, ParagraphStyle],
+    items: list[tuple[str, str]],
+    empty_text: str,
+) -> list[Any]:
+    if not items:
+        return [Paragraph(empty_text, styles["body"])]
+
+    story: list[Any] = []
+    for title, text in items:
+        story.append(Paragraph(f"<b>{title}</b>", styles["subheading"]))
+        for paragraph in (text.splitlines() or [""]):
+            content = paragraph.strip()
+            if content:
+                story.append(Paragraph(content, styles["body"]))
+    return story
+
+
+def _draw_footer(canvas_obj, _doc):
+    canvas_obj.saveState()
+    canvas_obj.setFont(FALLBACK_FONT_NAME if FALLBACK_FONT_NAME in pdfmetrics.getRegisteredFontNames() else FONT_NAME, 9)
+    canvas_obj.setFillColor(SUBTITLE_COLOR)
+    footer = f"- {canvas_obj.getPageNumber()} -"
+    canvas_obj.drawCentredString(PAGE_WIDTH / 2, 24, footer)
+    canvas_obj.restoreState()
 
 
 def generate_bazi_report(interpretation_data: dict) -> bytes:
     font_name = _register_chinese_font()
     buffer = BytesIO()
-    pdf = canvas.Canvas(buffer, pagesize=PAGE_SIZE)
-    pdf.setTitle("八字命盘分析报告")
+    doc = SimpleDocTemplate(
+        buffer,
+        pagesize=PAGE_SIZE,
+        leftMargin=LEFT_MARGIN,
+        rightMargin=RIGHT_MARGIN,
+        topMargin=TOP_MARGIN,
+        bottomMargin=BOTTOM_MARGIN,
+        title="八字命盘分析报告",
+    )
+    styles = _build_styles(font_name)
 
-    generated_at = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    story: list[Any] = []
+    story.extend(_build_title_page(styles, interpretation_data))
 
-    pdf.setFont(font_name, 24)
-    pdf.drawString(LEFT_MARGIN, PAGE_HEIGHT - 140, "八字命盘分析报告")
-    pdf.setFont(font_name, 12)
-    pdf.drawString(LEFT_MARGIN, PAGE_HEIGHT - 175, f"生成日期：{generated_at}")
+    story.extend(_build_section_title(styles, "第一节：四柱信息"))
+    story.append(_build_four_pillars_table(styles, interpretation_data))
+    story.append(Spacer(1, 18))
 
-    cursor_y = _new_page(pdf, font_name, "第一节：四柱信息")
-    cursor_y = _draw_paragraphs(pdf, _extract_four_pillars(interpretation_data), font_name, 12, cursor_y)
+    story.extend(_build_section_title(styles, "第二节：十神分析"))
+    story.extend(_build_named_paragraphs(styles, _extract_ten_gods(interpretation_data), "未提供十神分析。"))
+    story.append(Spacer(1, 12))
 
-    ten_gods = _extract_ten_gods(interpretation_data)
-    ten_god_paragraphs = []
-    for title, text in ten_gods:
-        ten_god_paragraphs.append(f"{title}")
-        ten_god_paragraphs.append(text)
-    if not ten_god_paragraphs:
-        ten_god_paragraphs.append("未提供十神分析。")
-    cursor_y = _draw_paragraphs(pdf, ten_god_paragraphs, font_name, 12, cursor_y, "第二节：十神分析")
+    story.extend(_build_section_title(styles, "第三节：心理学分析"))
+    story.extend(_build_named_paragraphs(styles, _extract_psychology(interpretation_data), "未提供心理学分析。"))
 
-    psychology = _extract_psychology(interpretation_data)
-    psychology_paragraphs = []
-    for title, text in psychology:
-        psychology_paragraphs.append(f"{title}")
-        psychology_paragraphs.append(text)
-    if not psychology_paragraphs:
-        psychology_paragraphs.append("未提供心理学分析。")
-    _draw_paragraphs(pdf, psychology_paragraphs, font_name, 12, cursor_y, "第三节：心理学分析")
-
-    pdf.save()
+    doc.build(story, onFirstPage=_draw_footer, onLaterPages=_draw_footer)
     return buffer.getvalue()
