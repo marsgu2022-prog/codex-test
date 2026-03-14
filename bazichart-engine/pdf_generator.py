@@ -311,6 +311,100 @@ def _build_four_pillars_table(styles: dict[str, ParagraphStyle], interpretation_
     return table
 
 
+def _build_standard_table(table_data: list[list[Any]], col_widths: list[float]) -> Table:
+    table = Table(table_data, colWidths=col_widths)
+    table.setStyle(
+        TableStyle(
+            [
+                ("BACKGROUND", (0, 0), (-1, 0), TABLE_HEADER_BG),
+                ("TEXTCOLOR", (0, 0), (-1, -1), BODY_COLOR),
+                ("ALIGN", (0, 0), (-1, -1), "CENTER"),
+                ("VALIGN", (0, 0), (-1, -1), "MIDDLE"),
+                ("INNERGRID", (0, 0), (-1, -1), 0.6, RULE_COLOR),
+                ("BOX", (0, 0), (-1, -1), 0.8, RULE_COLOR),
+                ("TOPPADDING", (0, 0), (-1, -1), 8),
+                ("BOTTOMPADDING", (0, 0), (-1, -1), 8),
+                ("LEFTPADDING", (0, 0), (-1, -1), 6),
+                ("RIGHTPADDING", (0, 0), (-1, -1), 6),
+            ]
+        )
+    )
+    return table
+
+
+def _build_wuxing_table(styles: dict[str, ParagraphStyle], interpretation_data: dict[str, Any]) -> list[Any]:
+    wuxing_analysis = interpretation_data.get("wuxing_analysis")
+    if not isinstance(wuxing_analysis, dict):
+        return []
+
+    scores = wuxing_analysis.get("wuxing_scores", {})
+    percentages = wuxing_analysis.get("wuxing_percentages", {})
+    elements = ["金", "木", "水", "火", "土"]
+    table_data = [
+        [Paragraph(element, styles["table"]) for element in elements],
+        [Paragraph(str(scores.get(element, 0)), styles["table"]) for element in elements],
+        [Paragraph(f"{percentages.get(element, 0)}%", styles["table"]) for element in elements],
+    ]
+    table = _build_standard_table(
+        table_data,
+        [(PAGE_WIDTH - LEFT_MARGIN - RIGHT_MARGIN) / 5.0] * 5,
+    )
+
+    summary_parts = [
+        f"日主{wuxing_analysis.get('day_master', '未知')}{wuxing_analysis.get('day_master_element', '')}",
+        f"身势：{wuxing_analysis.get('day_master_strength', '未知')}",
+    ]
+    favorable = wuxing_analysis.get("favorable_elements")
+    if favorable:
+        summary_parts.append(f"喜用神：{'、'.join(favorable)}")
+    unfavorable = wuxing_analysis.get("unfavorable_elements")
+    if unfavorable:
+        summary_parts.append(f"忌神：{'、'.join(unfavorable)}")
+
+    story: list[Any] = [table, Spacer(1, 10), Paragraph(" | ".join(summary_parts), styles["body"])]
+    analysis_text = _coerce_text(wuxing_analysis.get("analysis"))
+    if analysis_text:
+        story.append(Paragraph(analysis_text, styles["body"]))
+    story.append(Spacer(1, 12))
+    return story
+
+
+def _chunk_items(items: list[Any], size: int) -> list[list[Any]]:
+    return [items[index : index + size] for index in range(0, len(items), size)]
+
+
+def _build_luck_table(styles: dict[str, ParagraphStyle], items: list[dict[str, Any]], chunk_size: int, key_type: str) -> list[Any]:
+    if not items:
+        return []
+
+    story: list[Any] = []
+    available_width = PAGE_WIDTH - LEFT_MARGIN - RIGHT_MARGIN
+    for chunk in _chunk_items(items, chunk_size):
+        if key_type == "dayun":
+            headers = [
+                Paragraph(f"{item.get('start_age', '')}-{item.get('end_age', '')}岁", styles["table"])
+                for item in chunk
+            ]
+            values = [
+                Paragraph(f"{item.get('tiangan', '')}{item.get('dizhi', '')}", styles["table"])
+                for item in chunk
+            ]
+        else:
+            headers = [Paragraph(str(item.get("year", "")), styles["table"]) for item in chunk]
+            values = [
+                Paragraph(f"{item.get('tiangan', '')}{item.get('dizhi', '')}", styles["table"])
+                for item in chunk
+            ]
+
+        table = _build_standard_table(
+            [headers, values],
+            [available_width / len(chunk)] * len(chunk),
+        )
+        story.append(table)
+        story.append(Spacer(1, 10))
+    return story
+
+
 def _build_named_paragraphs(
     styles: dict[str, ParagraphStyle],
     items: list[tuple[str, str]],
@@ -365,6 +459,22 @@ def generate_bazi_report(interpretation_data: dict) -> bytes:
 
     story.extend(_build_section_title(styles, "第三节：心理学分析"))
     story.extend(_build_named_paragraphs(styles, _extract_psychology(interpretation_data), "未提供心理学分析。"))
+
+    wuxing_story = _build_wuxing_table(styles, interpretation_data)
+    if wuxing_story:
+        story.extend(_build_section_title(styles, "第四节：五行力量分析"))
+        story.extend(wuxing_story)
+
+    dayun = interpretation_data.get("dayun")
+    liunian = interpretation_data.get("liunian")
+    if isinstance(dayun, list) or isinstance(liunian, list):
+        story.extend(_build_section_title(styles, "第五节：大运流年"))
+        if isinstance(dayun, list) and dayun:
+            story.append(Paragraph("<b>大运</b>", styles["subheading"]))
+            story.extend(_build_luck_table(styles, dayun, 4, "dayun"))
+        if isinstance(liunian, list) and liunian:
+            story.append(Paragraph("<b>流年</b>", styles["subheading"]))
+            story.extend(_build_luck_table(styles, liunian, 5, "liunian"))
 
     doc.build(story, onFirstPage=_draw_footer, onLaterPages=_draw_footer)
     return buffer.getvalue()
