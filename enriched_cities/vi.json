@@ -1,0 +1,38 @@
+{
+  "country_code": "VI",
+  "country_name": "美属维尔京群岛",
+  "cities": [
+    {
+      "name": "",
+      "name_en": "Saint Croix",
+      "province": "Saint Croix Island",
+      "latitude": 17.7275,
+      "longitude": -64.747,
+      "timezone": "America/St_Thomas"
+    },
+    {
+      "name": "夏洛特阿马利亚",
+      "name_en": "Charlotte Amalie",
+      "province": "Saint Thomas Island",
+      "latitude": 18.3419,
+      "longitude": -64.9307,
+      "timezone": "America/St_Thomas"
+    },
+    {
+      "name": "",
+      "name_en": "Tutu",
+      "province": "Saint Thomas Island",
+      "latitude": 18.3388,
+      "longitude": -64.8865,
+      "timezone": "America/St_Thomas"
+    },
+    {
+      "name": "",
+      "name_en": "Cruz Bay",
+      "province": "Saint John Island",
+      "latitude": 18.3313,
+      "longitude": -64.7938,
+      "timezone": "America/St_Thomas"
+    }
+  ]
+}

@@ -1,0 +1,3822 @@
+{
+  "country_code": "PK",
+  "country_name": "巴基斯坦",
+  "cities": [
+    {
+      "name": "拉合尔",
+      "name_en": "Lahore",
+      "province": "旁遮普省",
+      "latitude": 31.558,
+      "longitude": 74.3507,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "卡拉奇",
+      "name_en": "Karachi",
+      "province": "信德省",
+      "latitude": 24.8608,
+      "longitude": 67.0104,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "白沙瓦",
+      "name_en": "Peshawar",
+      "province": "开伯尔-普什图省",
+      "latitude": 34.008,
+      "longitude": 71.5785,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Faisalabad",
+      "province": "旁遮普省",
+      "latitude": 31.4155,
+      "longitude": 73.0897,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "拉瓦尔品第",
+      "name_en": "Rawalpindi",
+      "province": "旁遮普省",
+      "latitude": 33.5973,
+      "longitude": 73.0479,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "古杰兰瓦拉",
+      "name_en": "Gujranwala",
+      "province": "旁遮普省",
+      "latitude": 32.1557,
+      "longitude": 74.187,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "木尔坦",
+      "name_en": "Multan",
+      "province": "旁遮普省",
+      "latitude": 30.1968,
+      "longitude": 71.4782,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "海得拉巴",
+      "name_en": "Hyderabad",
+      "province": "信德省",
+      "latitude": 25.3969,
+      "longitude": 68.3772,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "奎达",
+      "name_en": "Quetta",
+      "province": "俾路支省",
+      "latitude": 30.1841,
+      "longitude": 67.0014,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Bannu",
+      "province": "开伯尔-普什图省",
+      "latitude": 32.9853,
+      "longitude": 70.604,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "萨戈达",
+      "name_en": "Sargodha",
+      "province": "旁遮普省",
+      "latitude": 32.0859,
+      "longitude": 72.6742,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "锡亚尔科特",
+      "name_en": "Sialkot",
+      "province": "旁遮普省",
+      "latitude": 32.4927,
+      "longitude": 74.5313,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Bahawalpur",
+      "province": "旁遮普省",
+      "latitude": 29.3978,
+      "longitude": 71.6752,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Dera Ismail Khan",
+      "province": "开伯尔-普什图省",
+      "latitude": 31.8313,
+      "longitude": 70.9017,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Muzaffarābād",
+      "province": "阿扎德克什米尔",
+      "latitude": 34.37,
+      "longitude": 73.4708,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Battagram",
+      "province": "开伯尔-普什图省",
+      "latitude": 34.6772,
+      "longitude": 73.0233,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "伊斯兰堡",
+      "name_en": "Islamabad",
+      "province": "伊斯兰堡首都区",
+      "latitude": 33.7215,
+      "longitude": 73.0433,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "谢胡布尔",
+      "name_en": "Shekhupura",
+      "province": "旁遮普省",
+      "latitude": 31.7129,
+      "longitude": 73.9856,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Gujrat",
+      "province": "旁遮普省",
+      "latitude": 32.5742,
+      "longitude": 74.0754,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "苏库尔",
+      "name_en": "Sukkur",
+      "province": "信德省",
+      "latitude": 27.7032,
+      "longitude": 68.8589,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "萨希瓦尔",
+      "name_en": "Sahiwal",
+      "province": "旁遮普省",
+      "latitude": 30.6659,
+      "longitude": 73.1019,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Okara",
+      "province": "旁遮普省",
+      "latitude": 30.8103,
+      "longitude": 73.4515,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "拉希姆亚尔汗",
+      "name_en": "Rahim Yar Khan",
+      "province": "旁遮普省",
+      "latitude": 28.4199,
+      "longitude": 70.3034,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Kasur",
+      "province": "旁遮普省",
+      "latitude": 31.1187,
+      "longitude": 74.4502,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "德拉加齐汗",
+      "name_en": "Dera Ghazi Khan",
+      "province": "旁遮普省",
+      "latitude": 30.0459,
+      "longitude": 70.6403,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Tando Allahyar",
+      "province": "信德省",
+      "latitude": 25.4605,
+      "longitude": 68.7174,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Wah Cantt",
+      "province": "旁遮普省",
+      "latitude": 33.7709,
+      "longitude": 72.7512,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Larkana",
+      "province": "信德省",
+      "latitude": 27.559,
+      "longitude": 68.212,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Nawabshah",
+      "province": "信德省",
+      "latitude": 26.2394,
+      "longitude": 68.4037,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "章萨德尔",
+      "name_en": "Jhang Sadr",
+      "province": "旁遮普省",
+      "latitude": 31.2698,
+      "longitude": 72.3169,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Hafizabad",
+      "province": "旁遮普省",
+      "latitude": 32.071,
+      "longitude": 73.688,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "吉尼奥德",
+      "name_en": "Chiniot",
+      "province": "旁遮普省",
+      "latitude": 31.7209,
+      "longitude": 72.9784,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "马尔丹",
+      "name_en": "Mardan",
+      "province": "开伯尔-普什图省",
+      "latitude": 34.1979,
+      "longitude": 72.0496,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Malir Cantonment",
+      "province": "信德省",
+      "latitude": 24.9434,
+      "longitude": 67.2059,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "明戈拉",
+      "name_en": "Mingora",
+      "province": "开伯尔-普什图省",
+      "latitude": 34.7795,
+      "longitude": 72.3627,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Abbottabad",
+      "province": "开伯尔-普什图省",
+      "latitude": 34.1463,
+      "longitude": 73.2117,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "米尔布尔哈斯",
+      "name_en": "Mirpur Khas",
+      "province": "信德省",
+      "latitude": 25.5276,
+      "longitude": 69.0126,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "斯卡杜",
+      "name_en": "Skardu",
+      "province": "吉尔吉特－巴尔蒂斯坦",
+      "latitude": 35.2979,
+      "longitude": 75.6337,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Bahawalnagar",
+      "province": "旁遮普省",
+      "latitude": 29.9983,
+      "longitude": 73.2527,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "穆扎法尔格尔县",
+      "name_en": "Muzaffargarh",
+      "province": "旁遮普省",
+      "latitude": 30.0726,
+      "longitude": 71.1938,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "雅各布阿巴德",
+      "name_en": "Jacobabad",
+      "province": "信德省",
+      "latitude": 28.2819,
+      "longitude": 68.4376,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "吉尔吉特",
+      "name_en": "Gilgit",
+      "province": "吉尔吉特－巴尔蒂斯坦",
+      "latitude": 35.9187,
+      "longitude": 74.3124,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Shikarpur",
+      "province": "信德省",
+      "latitude": 27.9556,
+      "longitude": 68.6382,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Dadu",
+      "province": "信德省",
+      "latitude": 26.7303,
+      "longitude": 67.7769,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Shahkot",
+      "province": "旁遮普省",
+      "latitude": 31.5709,
+      "longitude": 73.4853,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Kamoke",
+      "province": "旁遮普省",
+      "latitude": 31.9753,
+      "longitude": 74.223,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Khairpur Mir’s",
+      "province": "信德省",
+      "latitude": 27.5295,
+      "longitude": 68.7592,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "杰赫勒姆",
+      "name_en": "Jhelum",
+      "province": "旁遮普省",
+      "latitude": 32.9345,
+      "longitude": 73.731,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Saddiqabad",
+      "province": "旁遮普省",
+      "latitude": 28.3091,
+      "longitude": 70.1265,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Burewala",
+      "province": "旁遮普省",
+      "latitude": 30.1667,
+      "longitude": 72.65,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "穆里德盖",
+      "name_en": "Muridke",
+      "province": "旁遮普省",
+      "latitude": 31.8026,
+      "longitude": 74.2577,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Arif Wala",
+      "province": "俾路支省",
+      "latitude": 26.3248,
+      "longitude": 66.2959,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Kohat",
+      "province": "开伯尔-普什图省",
+      "latitude": 33.582,
+      "longitude": 71.4493,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Layyah",
+      "province": "旁遮普省",
+      "latitude": 30.9613,
+      "longitude": 70.939,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Tordher",
+      "province": "开伯尔-普什图省",
+      "latitude": 33.9905,
+      "longitude": 72.2863,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Umarkot",
+      "province": "信德省",
+      "latitude": 25.3633,
+      "longitude": 69.7418,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Lodhran",
+      "province": "旁遮普省",
+      "latitude": 29.5339,
+      "longitude": 71.6324,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Khanpur",
+      "province": "旁遮普省",
+      "latitude": 28.6474,
+      "longitude": 70.6569,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Khuzdar",
+      "province": "俾路支省",
+      "latitude": 27.8119,
+      "longitude": 66.611,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Manjhand",
+      "province": "信德省",
+      "latitude": 25.9083,
+      "longitude": 68.2368,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "戈杰拉",
+      "name_en": "Gojra",
+      "province": "旁遮普省",
+      "latitude": 31.1493,
+      "longitude": 72.6832,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Bhakkar",
+      "province": "旁遮普省",
+      "latitude": 31.6269,
+      "longitude": 71.0647,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Narowal",
+      "province": "旁遮普省",
+      "latitude": 32.102,
+      "longitude": 74.873,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Mandi Bahauddin",
+      "province": "旁遮普省",
+      "latitude": 32.587,
+      "longitude": 73.4912,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Mianwali",
+      "province": "旁遮普省",
+      "latitude": 32.5776,
+      "longitude": 71.5285,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Daska Kalan",
+      "province": "旁遮普省",
+      "latitude": 32.3242,
+      "longitude": 74.3504,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Pakpattan",
+      "province": "旁遮普省",
+      "latitude": 30.3431,
+      "longitude": 73.3894,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Bahawalnagar",
+      "province": "旁遮普省",
+      "latitude": 29.9983,
+      "longitude": 73.2527,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Tando Adam",
+      "province": "信德省",
+      "latitude": 25.7682,
+      "longitude": 68.662,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "米尔布尔",
+      "name_en": "New Mirpur City",
+      "province": "阿扎德克什米尔",
+      "latitude": 33.1478,
+      "longitude": 73.7519,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Toba Tek Singh",
+      "province": "旁遮普省",
+      "latitude": 30.9713,
+      "longitude": 72.4827,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chishtian",
+      "province": "旁遮普省",
+      "latitude": 29.7971,
+      "longitude": 72.8577,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Shahdad Kot",
+      "province": "信德省",
+      "latitude": 27.8473,
+      "longitude": 67.9068,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Charsadda",
+      "province": "开伯尔-普什图省",
+      "latitude": 34.1482,
+      "longitude": 71.7406,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Ghotki",
+      "province": "信德省",
+      "latitude": 28.0044,
+      "longitude": 69.3157,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "贾兰瓦拉",
+      "name_en": "Jaranwala",
+      "province": "旁遮普省",
+      "latitude": 31.3332,
+      "longitude": 73.4187,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Badin",
+      "province": "信德省",
+      "latitude": 24.656,
+      "longitude": 68.837,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Ahmadpur East",
+      "province": "旁遮普省",
+      "latitude": 29.1427,
+      "longitude": 71.2577,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Phool Nagar",
+      "province": "旁遮普省",
+      "latitude": 31.2024,
+      "longitude": 73.9486,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Tando Muhammad Khan",
+      "province": "信德省",
+      "latitude": 25.1238,
+      "longitude": 68.5368,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Vihari",
+      "province": "旁遮普省",
+      "latitude": 30.0445,
+      "longitude": 72.3556,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Kamalia",
+      "province": "旁遮普省",
+      "latitude": 30.7271,
+      "longitude": 72.6461,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Kot Addu",
+      "province": "旁遮普省",
+      "latitude": 30.4691,
+      "longitude": 70.967,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Khushāb",
+      "province": "旁遮普省",
+      "latitude": 32.2967,
+      "longitude": 72.3525,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "沃济拉巴德",
+      "name_en": "Wazirabad",
+      "province": "旁遮普省",
+      "latitude": 32.4432,
+      "longitude": 74.12,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chakwal",
+      "province": "旁遮普省",
+      "latitude": 32.9329,
+      "longitude": 72.8539,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Model Town",
+      "province": "旁遮普省",
+      "latitude": 31.481,
+      "longitude": 74.3256,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Swabi",
+      "province": "开伯尔-普什图省",
+      "latitude": 34.1202,
+      "longitude": 72.4698,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Nowshera Cantonment",
+      "province": "开伯尔-普什图省",
+      "latitude": 33.9983,
+      "longitude": 71.9983,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Jalalpur Jattan",
+      "province": "旁遮普省",
+      "latitude": 32.6412,
+      "longitude": 74.2056,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chaman",
+      "province": "俾路支省",
+      "latitude": 30.9177,
+      "longitude": 66.4526,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Kandhkot",
+      "province": "信德省",
+      "latitude": 28.2457,
+      "longitude": 69.1797,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "哈斯里普",
+      "name_en": "Hasilpur",
+      "province": "旁遮普省",
+      "latitude": 29.6922,
+      "longitude": 72.5457,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Nowshera Kalan",
+      "province": "开伯尔-普什图省",
+      "latitude": 34.0191,
+      "longitude": 71.9745,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Arifwala",
+      "province": "旁遮普省",
+      "latitude": 26.3248,
+      "longitude": 66.2959,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Attock City",
+      "province": "旁遮普省",
+      "latitude": 33.7667,
+      "longitude": 72.3598,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chichawatni",
+      "province": "旁遮普省",
+      "latitude": 30.5301,
+      "longitude": 72.6916,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Kharian",
+      "province": "旁遮普省",
+      "latitude": 32.8161,
+      "longitude": 73.887,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Fatehjang",
+      "province": "旁遮普省",
+      "latitude": 33.5649,
+      "longitude": 72.6428,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Alahabad",
+      "province": "旁遮普省",
+      "latitude": 30.877,
+      "longitude": 74.0552,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Kambar",
+      "province": "信德省",
+      "latitude": 27.5875,
+      "longitude": 68.0007,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Moro",
+      "province": "信德省",
+      "latitude": 26.6632,
+      "longitude": 68.0002,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Mian Channun",
+      "province": "旁遮普省",
+      "latitude": 30.4407,
+      "longitude": 72.3568,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "土尔巴特",
+      "name_en": "Turbat",
+      "province": "俾路支省",
+      "latitude": 26.0012,
+      "longitude": 63.0485,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Topi",
+      "province": "开伯尔-普什图省",
+      "latitude": 34.0703,
+      "longitude": 72.6215,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "巴哈瓦",
+      "name_en": "Bhalwal",
+      "province": "旁遮普省",
+      "latitude": 32.2658,
+      "longitude": 72.8981,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Dipalpur",
+      "province": "旁遮普省",
+      "latitude": 30.6698,
+      "longitude": 73.6531,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Pano Aqil",
+      "province": "信德省",
+      "latitude": 27.8562,
+      "longitude": 69.1111,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Kotri",
+      "province": "信德省",
+      "latitude": 25.3657,
+      "longitude": 68.3083,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Harunabad",
+      "province": "旁遮普省",
+      "latitude": 29.6121,
+      "longitude": 73.138,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "瓜达尔",
+      "name_en": "Gwadar",
+      "province": "俾路支省",
+      "latitude": 25.1216,
+      "longitude": 62.3254,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Pattoki",
+      "province": "旁遮普省",
+      "latitude": 31.0202,
+      "longitude": 73.8533,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Rabwah",
+      "province": "旁遮普省",
+      "latitude": 31.7551,
+      "longitude": 72.914,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Kahror Pakka",
+      "province": "旁遮普省",
+      "latitude": 29.6243,
+      "longitude": 71.9144,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Gujar Khan",
+      "province": "旁遮普省",
+      "latitude": 33.2541,
+      "longitude": 73.3043,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Kot Malik Barkhurdar",
+      "province": "俾路支省",
+      "latitude": 30.2038,
+      "longitude": 66.9872,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chuhar Kana",
+      "province": "旁遮普省",
+      "latitude": 31.75,
+      "longitude": 73.8,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Shorkot",
+      "province": "开伯尔-普什图省",
+      "latitude": 31.9102,
+      "longitude": 70.8776,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "沙赫达德布尔",
+      "name_en": "Shahdadpur",
+      "province": "信德省",
+      "latitude": 27.8473,
+      "longitude": 67.9068,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Minchinabad",
+      "province": "旁遮普省",
+      "latitude": 30.1636,
+      "longitude": 73.5686,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Shabqadar",
+      "province": "开伯尔-普什图省",
+      "latitude": 34.216,
+      "longitude": 71.5548,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Mansehra",
+      "province": "开伯尔-普什图省",
+      "latitude": 34.3302,
+      "longitude": 73.1968,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Shujaabad",
+      "province": "旁遮普省",
+      "latitude": 29.8809,
+      "longitude": 71.2934,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Haveli Lakha",
+      "province": "旁遮普省",
+      "latitude": 30.451,
+      "longitude": 73.6937,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Lala Musa",
+      "province": "旁遮普省",
+      "latitude": 32.7014,
+      "longitude": 73.9575,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Mailsi",
+      "province": "旁遮普省",
+      "latitude": 29.8012,
+      "longitude": 72.174,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Shakargarh",
+      "province": "旁遮普省",
+      "latitude": 32.2636,
+      "longitude": 75.1601,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Sibi",
+      "province": "俾路支省",
+      "latitude": 29.543,
+      "longitude": 67.8773,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Jampur",
+      "province": "旁遮普省",
+      "latitude": 29.6424,
+      "longitude": 70.5952,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "萨姆博利阿尔",
+      "name_en": "Sambrial",
+      "province": "旁遮普省",
+      "latitude": 32.4783,
+      "longitude": 74.3534,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Sanghar",
+      "province": "信德省",
+      "latitude": 26.0469,
+      "longitude": 68.9492,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Hujra Shah Muqim",
+      "province": "旁遮普省",
+      "latitude": 30.7417,
+      "longitude": 73.8233,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Kabirwala",
+      "province": "旁遮普省",
+      "latitude": 30.4047,
+      "longitude": 71.8627,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chunian",
+      "province": "旁遮普省",
+      "latitude": 30.9662,
+      "longitude": 73.9791,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Jahangira",
+      "province": "开伯尔-普什图省",
+      "latitude": 33.9642,
+      "longitude": 72.221,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Sangla Hill",
+      "province": "旁遮普省",
+      "latitude": 31.7167,
+      "longitude": 73.3833,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Haripur",
+      "province": "开伯尔-普什图省",
+      "latitude": 33.9978,
+      "longitude": 72.9349,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "南卡纳沙希布",
+      "name_en": "Nankana Sahib",
+      "province": "旁遮普省",
+      "latitude": 31.4501,
+      "longitude": 73.7065,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Sharifabad",
+      "province": "旁遮普省",
+      "latitude": 33.4341,
+      "longitude": 73.3628,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Pasrur",
+      "province": "旁遮普省",
+      "latitude": 32.2629,
+      "longitude": 74.6633,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Pabbi",
+      "province": "开伯尔-普什图省",
+      "latitude": 34.0097,
+      "longitude": 71.7944,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Qabula",
+      "province": "旁遮普省",
+      "latitude": 30.1778,
+      "longitude": 73.0651,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Rajanpur",
+      "province": "旁遮普省",
+      "latitude": 29.1041,
+      "longitude": 70.3297,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Rohri",
+      "province": "信德省",
+      "latitude": 27.692,
+      "longitude": 68.895,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Zhob",
+      "province": "俾路支省",
+      "latitude": 31.3408,
+      "longitude": 69.4493,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Matli",
+      "province": "信德省",
+      "latitude": 25.0429,
+      "longitude": 68.6559,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Jahanian",
+      "province": "旁遮普省",
+      "latitude": 30.0393,
+      "longitude": 71.8167,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Buni",
+      "province": "开伯尔-普什图省",
+      "latitude": 36.2733,
+      "longitude": 72.2593,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "拉沃拉果德",
+      "name_en": "Rawalakot",
+      "province": "阿扎德克什米尔",
+      "latitude": 33.8578,
+      "longitude": 73.7604,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Hadali",
+      "province": "旁遮普省",
+      "latitude": 32.6404,
+      "longitude": 74.569,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Mirpur Mathelo",
+      "province": "信德省",
+      "latitude": 28.0214,
+      "longitude": 69.5491,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Dullewala",
+      "province": "旁遮普省",
+      "latitude": 31.8344,
+      "longitude": 71.4364,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "信德省哈拉城乡",
+      "name_en": "Hala",
+      "province": "信德省",
+      "latitude": 25.8146,
+      "longitude": 68.422,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "日多地尔",
+      "name_en": "Ratodero",
+      "province": "信德省",
+      "latitude": 27.8023,
+      "longitude": 68.289,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Jatoi Shimali",
+      "province": "旁遮普省",
+      "latitude": 29.5183,
+      "longitude": 70.8447,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Kotli",
+      "province": "阿扎德克什米尔",
+      "latitude": 33.5184,
+      "longitude": 73.9022,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Jauharabad",
+      "province": "旁遮普省",
+      "latitude": 32.2902,
+      "longitude": 72.2818,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Bat Khela",
+      "province": "开伯尔-普什图省",
+      "latitude": 34.6178,
+      "longitude": 71.9725,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Kot Radha Kishan",
+      "province": "旁遮普省",
+      "latitude": 31.1707,
+      "longitude": 74.1013,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Kahna Nau",
+      "province": "旁遮普省",
+      "latitude": 31.3671,
+      "longitude": 74.369,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Mustafabad",
+      "province": "旁遮普省",
+      "latitude": 30.8922,
+      "longitude": 73.4989,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chak Thirty-one -Eleven Left",
+      "province": "旁遮普省",
+      "latitude": 30.4239,
+      "longitude": 72.6974,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Talagang",
+      "province": "旁遮普省",
+      "latitude": 32.9277,
+      "longitude": 72.4159,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Taunsa",
+      "province": "旁遮普省",
+      "latitude": 30.7036,
+      "longitude": 70.6505,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "特达市",
+      "name_en": "Thatta",
+      "province": "信德省",
+      "latitude": 24.7475,
+      "longitude": 67.9235,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Sarai Alamgir",
+      "province": "旁遮普省",
+      "latitude": 32.9049,
+      "longitude": 73.7552,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Usta Muhammad",
+      "province": "俾路支省",
+      "latitude": 28.1772,
+      "longitude": 68.0437,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Kamra",
+      "province": "旁遮普省",
+      "latitude": 33.747,
+      "longitude": 73.5123,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Amangarh",
+      "province": "开伯尔-普什图省",
+      "latitude": 34.0058,
+      "longitude": 71.9297,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Basirpur",
+      "province": "旁遮普省",
+      "latitude": 30.5776,
+      "longitude": 73.8391,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "塞赫万地区",
+      "name_en": "Sehwan",
+      "province": "信德省",
+      "latitude": 26.4249,
+      "longitude": 67.8613,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Washuk",
+      "province": "俾路支省",
+      "latitude": 27.7273,
+      "longitude": 64.8097,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Karachi University Employees Co-operative Housing Society",
+      "province": "信德省",
+      "latitude": 24.9628,
+      "longitude": 67.1194,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Naushahra Virkan",
+      "province": "旁遮普省",
+      "latitude": 31.9626,
+      "longitude": 73.9712,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Fort Abbas",
+      "province": "旁遮普省",
+      "latitude": 29.1934,
+      "longitude": 72.8552,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "哈维连",
+      "name_en": "Havelian",
+      "province": "开伯尔-普什图省",
+      "latitude": 34.0535,
+      "longitude": 73.1599,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Khairpur",
+      "province": "信德省",
+      "latitude": 27.5295,
+      "longitude": 68.7592,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Dinga",
+      "province": "旁遮普省",
+      "latitude": 32.641,
+      "longitude": 73.7204,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Ladhewala Waraich",
+      "province": "旁遮普省",
+      "latitude": 32.1569,
+      "longitude": 74.1156,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Khalabat",
+      "province": "开伯尔-普什图省",
+      "latitude": 34.06,
+      "longitude": 72.8896,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "New Badah",
+      "province": "信德省",
+      "latitude": 27.3417,
+      "longitude": 68.0319,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Tank",
+      "province": "开伯尔-普什图省",
+      "latitude": 32.2171,
+      "longitude": 70.3832,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Kot Mumin",
+      "province": "旁遮普省",
+      "latitude": 32.1884,
+      "longitude": 73.0299,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Tandlianwala",
+      "province": "旁遮普省",
+      "latitude": 31.0336,
+      "longitude": 73.1327,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chak Azam Sahu",
+      "province": "旁遮普省",
+      "latitude": 30.752,
+      "longitude": 73.0283,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Loralai",
+      "province": "俾路支省",
+      "latitude": 30.3705,
+      "longitude": 68.5979,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Jalalpur Pirwala",
+      "province": "旁遮普省",
+      "latitude": 29.5051,
+      "longitude": 71.222,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chak Jhumra",
+      "province": "旁遮普省",
+      "latitude": 31.5681,
+      "longitude": 73.1832,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Sahiwal",
+      "province": "旁遮普省",
+      "latitude": 30.6659,
+      "longitude": 73.1019,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "雷纳拉 胡德",
+      "name_en": "Renala Khurd",
+      "province": "旁遮普省",
+      "latitude": 30.8788,
+      "longitude": 73.5986,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Lakki",
+      "province": "开伯尔-普什图省",
+      "latitude": 32.6072,
+      "longitude": 70.9123,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Dhirkot",
+      "province": "阿扎德克什米尔",
+      "latitude": 34.0392,
+      "longitude": 73.5769,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Hangu",
+      "province": "开伯尔-普什图省",
+      "latitude": 33.532,
+      "longitude": 71.0595,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Risalpur Cantonment",
+      "province": "开伯尔-普什图省",
+      "latitude": 34.0605,
+      "longitude": 71.9928,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Pir Jo Goth",
+      "province": "信德省",
+      "latitude": 27.5918,
+      "longitude": 68.6185,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Kundian",
+      "province": "旁遮普省",
+      "latitude": 32.4577,
+      "longitude": 71.4789,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Pir Mahal",
+      "province": "旁遮普省",
+      "latitude": 30.7666,
+      "longitude": 72.4346,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Khurarianwala",
+      "province": "旁遮普省",
+      "latitude": 31.4994,
+      "longitude": 73.2676,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Mehrabpur",
+      "province": "俾路支省",
+      "latitude": 28.1077,
+      "longitude": 68.0255,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Pindi Bhattian",
+      "province": "旁遮普省",
+      "latitude": 31.8984,
+      "longitude": 73.2734,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Malakwal City",
+      "province": "旁遮普省",
+      "latitude": 32.5549,
+      "longitude": 73.2122,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Narang Mandi",
+      "province": "旁遮普省",
+      "latitude": 31.9038,
+      "longitude": 74.5159,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Malakwal",
+      "province": "旁遮普省",
+      "latitude": 32.5545,
+      "longitude": 73.2127,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Thul",
+      "province": "信德省",
+      "latitude": 28.2403,
+      "longitude": 68.7755,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Pindi Gheb",
+      "province": "旁遮普省",
+      "latitude": 33.2409,
+      "longitude": 72.2648,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Utmanzai",
+      "province": "开伯尔-普什图省",
+      "latitude": 34.1878,
+      "longitude": 71.7627,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Zahir Pir",
+      "province": "旁遮普省",
+      "latitude": 28.8128,
+      "longitude": 70.5234,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Dunyapur",
+      "province": "旁遮普省",
+      "latitude": 29.8027,
+      "longitude": 71.7434,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Gambat",
+      "province": "信德省",
+      "latitude": 27.3517,
+      "longitude": 68.5215,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Kashmor",
+      "province": "信德省",
+      "latitude": 28.4326,
+      "longitude": 69.5836,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Alipur",
+      "province": "旁遮普省",
+      "latitude": 29.3824,
+      "longitude": 70.9111,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Bāgh",
+      "province": "阿扎德克什米尔",
+      "latitude": 33.9811,
+      "longitude": 73.7761,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Naudero",
+      "province": "信德省",
+      "latitude": 27.6668,
+      "longitude": 68.3609,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "伯斯尼",
+      "name_en": "Pasni",
+      "province": "俾路支省",
+      "latitude": 25.263,
+      "longitude": 63.4692,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Sukheke Mandi",
+      "province": "旁遮普省",
+      "latitude": 31.8654,
+      "longitude": 73.5088,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Setharja Old",
+      "province": "信德省",
+      "latitude": 27.2127,
+      "longitude": 68.4688,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Khewra",
+      "province": "旁遮普省",
+      "latitude": 32.6491,
+      "longitude": 73.0106,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Mamu Kanjan",
+      "province": "旁遮普省",
+      "latitude": 30.8304,
+      "longitude": 72.7994,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Sharqpur Sharif",
+      "province": "旁遮普省",
+      "latitude": 31.4612,
+      "longitude": 74.1009,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Digri",
+      "province": "信德省",
+      "latitude": 25.1566,
+      "longitude": 69.111,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Bhera",
+      "province": "旁遮普省",
+      "latitude": 32.4821,
+      "longitude": 72.9086,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Dursh Khela",
+      "province": "开伯尔-普什图省",
+      "latitude": 35.0003,
+      "longitude": 72.4522,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Sakrand",
+      "province": "信德省",
+      "latitude": 26.1384,
+      "longitude": 68.2744,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Tando Jam",
+      "province": "信德省",
+      "latitude": 25.4281,
+      "longitude": 68.5292,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Raiwind",
+      "province": "旁遮普省",
+      "latitude": 31.249,
+      "longitude": 74.2153,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Lalian",
+      "province": "旁遮普省",
+      "latitude": 31.8246,
+      "longitude": 72.8012,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Khairpur Tamewah",
+      "province": "旁遮普省",
+      "latitude": 29.5814,
+      "longitude": 72.238,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Kharan",
+      "province": "俾路支省",
+      "latitude": 28.5846,
+      "longitude": 65.415,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Nok Kundi",
+      "province": "俾路支省",
+      "latitude": 28.827,
+      "longitude": 62.7504,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Mehar",
+      "province": "信德省",
+      "latitude": 27.1803,
+      "longitude": 67.8205,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Khangah Dogran",
+      "province": "旁遮普省",
+      "latitude": 31.8329,
+      "longitude": 73.6221,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Khairpur Nathan Shah",
+      "province": "信德省",
+      "latitude": 27.0906,
+      "longitude": 67.7349,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Upper Dir",
+      "province": "开伯尔-普什图省",
+      "latitude": 35.2074,
+      "longitude": 71.8768,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Ghauspur",
+      "province": "信德省",
+      "latitude": 28.1388,
+      "longitude": 69.0824,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Akora Khattak",
+      "province": "开伯尔-普什图省",
+      "latitude": 34.0034,
+      "longitude": 72.1256,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Tangi",
+      "province": "开伯尔-普什图省",
+      "latitude": 34.3009,
+      "longitude": 71.6524,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Thal",
+      "province": "开伯尔-普什图省",
+      "latitude": 35.4784,
+      "longitude": 72.2438,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Garh Maharaja",
+      "province": "旁遮普省",
+      "latitude": 30.8338,
+      "longitude": 71.9049,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Jahanian Shah",
+      "province": "旁遮普省",
+      "latitude": 31.8054,
+      "longitude": 72.2774,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Mastung",
+      "province": "俾路支省",
+      "latitude": 29.7997,
+      "longitude": 66.8455,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Hajira",
+      "province": "阿扎德克什米尔",
+      "latitude": 33.7739,
+      "longitude": 73.8944,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Mananwala",
+      "province": "旁遮普省",
+      "latitude": 31.588,
+      "longitude": 73.6893,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Fazilpur",
+      "province": "旁遮普省",
+      "latitude": 32.1763,
+      "longitude": 75.0658,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Talamba",
+      "province": "旁遮普省",
+      "latitude": 30.5269,
+      "longitude": 72.2408,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Kunjah",
+      "province": "旁遮普省",
+      "latitude": 32.5298,
+      "longitude": 73.9749,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Jhawarian",
+      "province": "旁遮普省",
+      "latitude": 32.3619,
+      "longitude": 72.6227,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Nasirabad",
+      "province": "信德省",
+      "latitude": 27.3814,
+      "longitude": 67.9164,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Nushki",
+      "province": "俾路支省",
+      "latitude": 29.5522,
+      "longitude": 66.0229,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Bhimber",
+      "province": "阿扎德克什米尔",
+      "latitude": 32.9746,
+      "longitude": 74.0785,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Sita Road",
+      "province": "信德省",
+      "latitude": 27.0333,
+      "longitude": 67.85,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Dijkot",
+      "province": "旁遮普省",
+      "latitude": 31.2173,
+      "longitude": 72.9962,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Sillanwali",
+      "province": "旁遮普省",
+      "latitude": 31.8254,
+      "longitude": 72.5406,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Jaglot",
+      "province": "吉尔吉特－巴尔蒂斯坦",
+      "latitude": 35.6884,
+      "longitude": 74.6241,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Kandiaro",
+      "province": "信德省",
+      "latitude": 27.0592,
+      "longitude": 68.2102,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Zaida",
+      "province": "开伯尔-普什图省",
+      "latitude": 34.0595,
+      "longitude": 72.4669,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Kunri",
+      "province": "信德省",
+      "latitude": 25.1787,
+      "longitude": 69.5657,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Kalat",
+      "province": "俾路支省",
+      "latitude": 29.0266,
+      "longitude": 66.5936,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Daud Khel",
+      "province": "旁遮普省",
+      "latitude": 32.8753,
+      "longitude": 71.5712,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Mitha Tiwana",
+      "province": "旁遮普省",
+      "latitude": 32.2454,
+      "longitude": 72.1061,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Hazro City",
+      "province": "旁遮普省",
+      "latitude": 33.9099,
+      "longitude": 72.4918,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Dunga Bunga",
+      "province": "旁遮普省",
+      "latitude": 29.7497,
+      "longitude": 73.2429,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Karor",
+      "province": "旁遮普省",
+      "latitude": 31.2246,
+      "longitude": 70.9515,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Kot Diji",
+      "province": "信德省",
+      "latitude": 27.3416,
+      "longitude": 68.7082,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Kalur Kot",
+      "province": "旁遮普省",
+      "latitude": 32.1551,
+      "longitude": 71.2663,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "穆里",
+      "name_en": "Murree",
+      "province": "旁遮普省",
+      "latitude": 33.9084,
+      "longitude": 73.3903,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Faqirwali",
+      "province": "旁遮普省",
+      "latitude": 29.468,
+      "longitude": 73.0349,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Mian Sahib",
+      "province": "信德省",
+      "latitude": 28.1534,
+      "longitude": 68.6418,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Ahmadpur Sial",
+      "province": "旁遮普省",
+      "latitude": 30.6779,
+      "longitude": 71.7434,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Phalia",
+      "province": "旁遮普省",
+      "latitude": 32.431,
+      "longitude": 73.579,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Yazman",
+      "province": "旁遮普省",
+      "latitude": 29.1212,
+      "longitude": 71.7446,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Raja Jang",
+      "province": "旁遮普省",
+      "latitude": 31.2208,
+      "longitude": 74.2548,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chak Five Hundred Seventy-five",
+      "province": "旁遮普省",
+      "latitude": 31.5451,
+      "longitude": 73.8289,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Pishin",
+      "province": "俾路支省",
+      "latitude": 30.5818,
+      "longitude": 66.9941,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chak One Hundred Twenty Nine Left",
+      "province": "旁遮普省",
+      "latitude": 30.4292,
+      "longitude": 73.0452,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chawinda",
+      "province": "旁遮普省",
+      "latitude": 32.3443,
+      "longitude": 74.7051,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "乌巴罗",
+      "name_en": "Ubauro",
+      "province": "信德省",
+      "latitude": 28.1643,
+      "longitude": 69.7311,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Mithi",
+      "province": "信德省",
+      "latitude": 24.737,
+      "longitude": 69.7971,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Pallandri",
+      "province": "阿扎德克什米尔",
+      "latitude": 33.7153,
+      "longitude": 73.6837,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Zafarwal",
+      "province": "旁遮普省",
+      "latitude": 32.3446,
+      "longitude": 74.8999,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Kot Samaba",
+      "province": "旁遮普省",
+      "latitude": 28.5521,
+      "longitude": 70.4684,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Eminabad",
+      "province": "旁遮普省",
+      "latitude": 32.0424,
+      "longitude": 74.26,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "卡胡塔",
+      "name_en": "Kahuta",
+      "province": "旁遮普省",
+      "latitude": 33.5918,
+      "longitude": 73.3874,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "拉尼布尔",
+      "name_en": "Ranipur",
+      "province": "信德省",
+      "latitude": 27.2872,
+      "longitude": 68.5062,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Kulachi",
+      "province": "开伯尔-普什图省",
+      "latitude": 31.9306,
+      "longitude": 70.4596,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Khanpur Mahar",
+      "province": "信德省",
+      "latitude": 27.8409,
+      "longitude": 69.413,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Hingorja",
+      "province": "信德省",
+      "latitude": 27.2109,
+      "longitude": 68.416,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Naukot",
+      "province": "信德省",
+      "latitude": 24.8582,
+      "longitude": 69.4015,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Pind Dadan Khan",
+      "province": "旁遮普省",
+      "latitude": 32.5866,
+      "longitude": 73.0446,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Kuri Dulal",
+      "province": "旁遮普省",
+      "latitude": 33.3844,
+      "longitude": 73.2637,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Kanganpur",
+      "province": "旁遮普省",
+      "latitude": 30.7647,
+      "longitude": 74.1229,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Faruka",
+      "province": "旁遮普省",
+      "latitude": 31.8864,
+      "longitude": 72.4136,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Kotli Loharan",
+      "province": "旁遮普省",
+      "latitude": 32.5889,
+      "longitude": 74.4947,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Shahpur Chakar",
+      "province": "信德省",
+      "latitude": 26.1541,
+      "longitude": 68.6501,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Talhar",
+      "province": "信德省",
+      "latitude": 24.8845,
+      "longitude": 68.8144,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chaksawari",
+      "province": "阿扎德克什米尔",
+      "latitude": 33.2641,
+      "longitude": 73.7853,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Pad Idan",
+      "province": "信德省",
+      "latitude": 26.7746,
+      "longitude": 68.3009,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Kot Ghulam Muhammad",
+      "province": "旁遮普省",
+      "latitude": 32.3331,
+      "longitude": 74.5469,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Qadirpur Ran",
+      "province": "旁遮普省",
+      "latitude": 30.2918,
+      "longitude": 71.6716,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Bela",
+      "province": "俾路支省",
+      "latitude": 26.2272,
+      "longitude": 66.3118,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Sook Kalan",
+      "province": "旁遮普省",
+      "latitude": 32.597,
+      "longitude": 74.1465,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Surkhpur",
+      "province": "旁遮普省",
+      "latitude": 32.7182,
+      "longitude": 74.4477,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Dhoro Naro",
+      "province": "信德省",
+      "latitude": 25.5048,
+      "longitude": 69.5709,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Khangarh",
+      "province": "旁遮普省",
+      "latitude": 28.2819,
+      "longitude": 68.4376,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Sarai Naurang",
+      "province": "开伯尔-普什图省",
+      "latitude": 32.8258,
+      "longitude": 70.7811,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Gharo",
+      "province": "信德省",
+      "latitude": 24.7418,
+      "longitude": 67.5853,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Pakistan Employees Cooperative Housing Society",
+      "province": "信德省",
+      "latitude": 24.8742,
+      "longitude": 67.0642,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Bhit Shah",
+      "province": "信德省",
+      "latitude": 25.8056,
+      "longitude": 68.4914,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Dayal",
+      "province": "阿扎德克什米尔",
+      "latitude": 33.3122,
+      "longitude": 73.7035,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Khai Gala",
+      "province": "阿扎德克什米尔",
+      "latitude": 33.8459,
+      "longitude": 73.8272,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Matiari",
+      "province": "信德省",
+      "latitude": 25.5971,
+      "longitude": 68.4467,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Dhanot",
+      "province": "旁遮普省",
+      "latitude": 29.5799,
+      "longitude": 71.7521,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Warah",
+      "province": "信德省",
+      "latitude": 27.448,
+      "longitude": 67.7965,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chuhar Jamali",
+      "province": "信德省",
+      "latitude": 24.3944,
+      "longitude": 67.993,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Lachi",
+      "province": "开伯尔-普什图省",
+      "latitude": 33.3829,
+      "longitude": 71.3373,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Taftan",
+      "province": "俾路支省",
+      "latitude": 28.9469,
+      "longitude": 61.5866,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Baddomalhi",
+      "province": "旁遮普省",
+      "latitude": 31.9904,
+      "longitude": 74.6641,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Jand",
+      "province": "旁遮普省",
+      "latitude": 33.433,
+      "longitude": 72.0188,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Fatehpur",
+      "province": "旁遮普省",
+      "latitude": 31.1777,
+      "longitude": 71.2048,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Dera Bugti",
+      "province": "俾路支省",
+      "latitude": 29.0362,
+      "longitude": 69.1585,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Musa Banda/Musa khan kallay",
+      "province": "开伯尔-普什图省",
+      "latitude": 34.0337,
+      "longitude": 72.4818,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Tharu Shah",
+      "province": "信德省",
+      "latitude": 26.9423,
+      "longitude": 68.1176,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Naushahro Firoz",
+      "province": "信德省",
+      "latitude": 26.8401,
+      "longitude": 68.1226,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Dajal",
+      "province": "旁遮普省",
+      "latitude": 29.5577,
+      "longitude": 70.3761,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Daur",
+      "province": "信德省",
+      "latitude": 26.4553,
+      "longitude": 68.3183,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Alipur",
+      "province": "伊斯兰堡首都区",
+      "latitude": 29.3824,
+      "longitude": 70.9111,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Bhopalwala",
+      "province": "旁遮普省",
+      "latitude": 32.4297,
+      "longitude": 74.3635,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Paharpur",
+      "province": "开伯尔-普什图省",
+      "latitude": 32.105,
+      "longitude": 70.9706,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Bhan",
+      "province": "信德省",
+      "latitude": 26.5583,
+      "longitude": 67.7214,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Mach",
+      "province": "俾路支省",
+      "latitude": 29.8637,
+      "longitude": 67.3302,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Goth Radhan",
+      "province": "信德省",
+      "latitude": 27.1985,
+      "longitude": 67.9535,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Islamgarh",
+      "province": "阿扎德克什米尔",
+      "latitude": 33.1897,
+      "longitude": 73.8383,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Uthal",
+      "province": "俾路支省",
+      "latitude": 25.8072,
+      "longitude": 66.6219,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Kaleke Mandi",
+      "province": "旁遮普省",
+      "latitude": 31.976,
+      "longitude": 73.6,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Jiwani",
+      "province": "俾路支省",
+      "latitude": 25.0485,
+      "longitude": 61.7457,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Johi",
+      "province": "信德省",
+      "latitude": 26.6923,
+      "longitude": 67.6143,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chhor",
+      "province": "信德省",
+      "latitude": 25.5126,
+      "longitude": 69.7844,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Mangla",
+      "province": "旁遮普省",
+      "latitude": 31.8931,
+      "longitude": 72.3817,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "巴瓦那",
+      "name_en": "Bhawana",
+      "province": "旁遮普省",
+      "latitude": 31.5688,
+      "longitude": 72.6492,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Shahr Sultan",
+      "province": "旁遮普省",
+      "latitude": 29.5752,
+      "longitude": 71.0221,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Jhol",
+      "province": "信德省",
+      "latitude": 25.9553,
+      "longitude": 68.8887,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Sodhri",
+      "province": "旁遮普省",
+      "latitude": 32.4621,
+      "longitude": 74.1821,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Kalabagh",
+      "province": "旁遮普省",
+      "latitude": 32.9616,
+      "longitude": 71.5464,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Sinjhoro",
+      "province": "信德省",
+      "latitude": 26.0301,
+      "longitude": 68.8087,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Kamar Mushani",
+      "province": "旁遮普省",
+      "latitude": 32.8432,
+      "longitude": 71.3619,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Kallar Kahar",
+      "province": "旁遮普省",
+      "latitude": 32.78,
+      "longitude": 72.6979,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Harnoli",
+      "province": "旁遮普省",
+      "latitude": 32.2787,
+      "longitude": 71.5543,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Sarai Sidhu",
+      "province": "旁遮普省",
+      "latitude": 30.5948,
+      "longitude": 71.9699,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Choa Saidan Shah",
+      "province": "旁遮普省",
+      "latitude": 32.7196,
+      "longitude": 72.9862,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Dadhar",
+      "province": "俾路支省",
+      "latitude": 29.4749,
+      "longitude": 67.6517,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Darya Khan",
+      "province": "旁遮普省",
+      "latitude": 31.7845,
+      "longitude": 71.102,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "哈拉帕",
+      "name_en": "Harappa",
+      "province": "旁遮普省",
+      "latitude": 30.6325,
+      "longitude": 72.8703,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Daira Din Panah",
+      "province": "旁遮普省",
+      "latitude": 30.5705,
+      "longitude": 70.9372,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Garhiyasin",
+      "province": "信德省",
+      "latitude": 27.9063,
+      "longitude": 68.5121,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Madeji",
+      "province": "信德省",
+      "latitude": 27.7531,
+      "longitude": 68.4517,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Dokri",
+      "province": "信德省",
+      "latitude": 27.3742,
+      "longitude": 68.0971,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Sobhodero",
+      "province": "信德省",
+      "latitude": 27.3047,
+      "longitude": 68.3971,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Dalbandin",
+      "province": "俾路支省",
+      "latitude": 28.8885,
+      "longitude": 64.4062,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Daulatpur",
+      "province": "信德省",
+      "latitude": 26.5016,
+      "longitude": 67.9708,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Bhag",
+      "province": "俾路支省",
+      "latitude": 29.0417,
+      "longitude": 67.8239,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Rasulnagar",
+      "province": "旁遮普省",
+      "latitude": 32.3279,
+      "longitude": 73.7804,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chak",
+      "province": "信德省",
+      "latitude": 27.8584,
+      "longitude": 68.8338,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Shahpur",
+      "province": "旁遮普省",
+      "latitude": 32.2682,
+      "longitude": 72.4688,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Tando Bago",
+      "province": "信德省",
+      "latitude": 24.7891,
+      "longitude": 68.9654,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Baffa",
+      "province": "开伯尔-普什图省",
+      "latitude": 34.4377,
+      "longitude": 73.2237,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Muhammad Pur",
+      "province": "旁遮普省",
+      "latitude": 30.7101,
+      "longitude": 73.0178,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Karak",
+      "province": "开伯尔-普什图省",
+      "latitude": 33.1163,
+      "longitude": 71.0935,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Garhi Khairo",
+      "province": "俾路支省",
+      "latitude": 28.0603,
+      "longitude": 67.9803,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Lakhi",
+      "province": "信德省",
+      "latitude": 27.8488,
+      "longitude": 68.6997,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Gadani",
+      "province": "俾路支省",
+      "latitude": 25.1188,
+      "longitude": 66.7322,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Surab",
+      "province": "俾路支省",
+      "latitude": 28.4928,
+      "longitude": 66.26,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chak One Hundred Thirty-eight Nine Left",
+      "province": "旁遮普省",
+      "latitude": 30.5599,
+      "longitude": 72.9674,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Rojhan",
+      "province": "旁遮普省",
+      "latitude": 28.6873,
+      "longitude": 69.9535,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "奥尔马拉",
+      "name_en": "Ormara",
+      "province": "俾路支省",
+      "latitude": 25.2102,
+      "longitude": 64.6363,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chamber",
+      "province": "信德省",
+      "latitude": 25.2936,
+      "longitude": 68.8118,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Kalaswala",
+      "province": "旁遮普省",
+      "latitude": 32.2008,
+      "longitude": 74.6486,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Islamkot",
+      "province": "信德省",
+      "latitude": 24.699,
+      "longitude": 70.1798,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Liliani",
+      "province": "旁遮普省",
+      "latitude": 32.2039,
+      "longitude": 72.9512,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Bhiria",
+      "province": "信德省",
+      "latitude": 26.9104,
+      "longitude": 68.1947,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Mirwah Gorchani",
+      "province": "信德省",
+      "latitude": 25.3098,
+      "longitude": 69.0502,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Dhaunkal",
+      "province": "旁遮普省",
+      "latitude": 32.4061,
+      "longitude": 74.1371,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Abdul Khel",
+      "province": "开伯尔-普什图省",
+      "latitude": 32.3997,
+      "longitude": 70.9131,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Bhagowal",
+      "province": "旁遮普省",
+      "latitude": 32.4375,
+      "longitude": 74.6694,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Saidpur",
+      "province": "伊斯兰堡首都区",
+      "latitude": 33.7419,
+      "longitude": 73.0705,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Hattiān Bāla",
+      "province": "阿扎德克什米尔",
+      "latitude": 34.1704,
+      "longitude": 73.7338,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Daultala",
+      "province": "旁遮普省",
+      "latitude": 33.1928,
+      "longitude": 73.141,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Diplo",
+      "province": "信德省",
+      "latitude": 24.4669,
+      "longitude": 69.5811,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Kohlu",
+      "province": "俾路支省",
+      "latitude": 29.903,
+      "longitude": 69.231,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Harnai",
+      "province": "俾路支省",
+      "latitude": 30.1008,
+      "longitude": 67.9382,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Jandiala Sher Khan",
+      "province": "旁遮普省",
+      "latitude": 31.821,
+      "longitude": 73.9181,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Daromehar",
+      "province": "信德省",
+      "latitude": 24.7938,
+      "longitude": 68.1798,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Mankera",
+      "province": "旁遮普省",
+      "latitude": 31.3877,
+      "longitude": 71.4405,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Bhagwal",
+      "province": "旁遮普省",
+      "latitude": 32.8211,
+      "longitude": 73.9553,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Sanjwal",
+      "province": "旁遮普省",
+      "latitude": 33.761,
+      "longitude": 72.4331,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Miro Khan",
+      "province": "信德省",
+      "latitude": 27.7599,
+      "longitude": 68.0919,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Sehnsa",
+      "province": "阿扎德克什米尔",
+      "latitude": 33.5137,
+      "longitude": 73.7548,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Gahkuch",
+      "province": "吉尔吉特－巴尔蒂斯坦",
+      "latitude": 36.1768,
+      "longitude": 73.7638,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Inzari",
+      "province": "开伯尔-普什图省",
+      "latitude": 34.6688,
+      "longitude": 71.3888,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Khar",
+      "province": "开伯尔-普什图省",
+      "latitude": 34.7361,
+      "longitude": 71.5274,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Kot Sultan",
+      "province": "旁遮普省",
+      "latitude": 30.7737,
+      "longitude": 70.9313,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Khadro",
+      "province": "信德省",
+      "latitude": 26.1471,
+      "longitude": 68.7178,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Berani",
+      "province": "信德省",
+      "latitude": 25.785,
+      "longitude": 68.8075,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Mirdad Muafi",
+      "province": "旁遮普省",
+      "latitude": 30.6768,
+      "longitude": 72.9286,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Tibbi Jay Singh",
+      "province": "旁遮普省",
+      "latitude": 30.877,
+      "longitude": 73.2161,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chak Ninety-eight -Nine Left",
+      "province": "旁遮普省",
+      "latitude": 30.595,
+      "longitude": 73.1133,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chak One Hundred Twelve -Nine Left",
+      "province": "旁遮普省",
+      "latitude": 30.5356,
+      "longitude": 73.1392,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chak Sixty-five A Gugera Distributary",
+      "province": "旁遮普省",
+      "latitude": 30.819,
+      "longitude": 73.2267,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Begowala",
+      "province": "旁遮普省",
+      "latitude": 32.4382,
+      "longitude": 74.2679,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Tangwani",
+      "province": "信德省",
+      "latitude": 28.2789,
+      "longitude": 68.9976,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Bozdar Wada",
+      "province": "信德省",
+      "latitude": 27.183,
+      "longitude": 68.6358,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Jati",
+      "province": "信德省",
+      "latitude": 24.3549,
+      "longitude": 68.2673,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Rustam",
+      "province": "信德省",
+      "latitude": 27.9671,
+      "longitude": 68.8039,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Darya Khan Marri",
+      "province": "信德省",
+      "latitude": 26.6776,
+      "longitude": 68.2867,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Sohbatpur",
+      "province": "俾路支省",
+      "latitude": 28.5204,
+      "longitude": 68.543,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Doaba",
+      "province": "开伯尔-普什图省",
+      "latitude": 33.4245,
+      "longitude": 70.7368,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Mirpur Bhtoro",
+      "province": "信德省",
+      "latitude": 24.7285,
+      "longitude": 68.2601,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Sann",
+      "province": "信德省",
+      "latitude": 26.0403,
+      "longitude": 68.1376,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Samaro",
+      "province": "信德省",
+      "latitude": 25.2814,
+      "longitude": 69.3962,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Barkhan",
+      "province": "俾路支省",
+      "latitude": 29.8977,
+      "longitude": 69.5256,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Bandhi",
+      "province": "信德省",
+      "latitude": 26.5876,
+      "longitude": 68.3021,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Karaundi",
+      "province": "信德省",
+      "latitude": 26.8971,
+      "longitude": 68.4064,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Kaure Shah Zerin",
+      "province": "旁遮普省",
+      "latitude": 30.8422,
+      "longitude": 73.1078,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Mirpur Sakro",
+      "province": "信德省",
+      "latitude": 24.5469,
+      "longitude": 67.628,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chak One Hundred Ninety Nine A Left",
+      "province": "旁遮普省",
+      "latitude": 30.6256,
+      "longitude": 72.9248,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Adilpur",
+      "province": "信德省",
+      "latitude": 27.9368,
+      "longitude": 69.3194,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Khuiratta",
+      "province": "阿扎德克什米尔",
+      "latitude": 33.3573,
+      "longitude": 74.0279,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chak Ninety-nine -Nine Left",
+      "province": "旁遮普省",
+      "latitude": 30.6174,
+      "longitude": 73.1219,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Bagarji",
+      "province": "信德省",
+      "latitude": 27.7543,
+      "longitude": 68.7587,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Athhmuqam",
+      "province": "阿扎德克什米尔",
+      "latitude": 34.5889,
+      "longitude": 73.9131,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chak One Hundred Eighty-six Nine Left",
+      "province": "旁遮普省",
+      "latitude": 30.5874,
+      "longitude": 72.9529,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Garhi Dupatta",
+      "province": "阿扎德克什米尔",
+      "latitude": 34.2256,
+      "longitude": 73.6154,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Goth Phulji",
+      "province": "信德省",
+      "latitude": 26.881,
+      "longitude": 67.6824,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chak One Hundred Eighty-five A Nine Left",
+      "province": "旁遮普省",
+      "latitude": 30.5643,
+      "longitude": 72.9288,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Rajo Khanani",
+      "province": "信德省",
+      "latitude": 24.9839,
+      "longitude": 68.8537,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Alik Ghund",
+      "province": "俾路支省",
+      "latitude": 30.4898,
+      "longitude": 67.5218,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Charhoi",
+      "province": "阿扎德克什米尔",
+      "latitude": 33.3019,
+      "longitude": 73.9548,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Dinan Bashnoian Wala",
+      "province": "旁遮普省",
+      "latitude": 29.7658,
+      "longitude": 73.2656,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Thamewali",
+      "province": "旁遮普省",
+      "latitude": 32.7836,
+      "longitude": 71.7808,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chak One Hundred Eighty-seven Nine Left",
+      "province": "旁遮普省",
+      "latitude": 30.6057,
+      "longitude": 72.9568,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chak One Hundred Twenty-nine -Nine Left",
+      "province": "旁遮普省",
+      "latitude": 30.5682,
+      "longitude": 73.0128,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Jām Sāhib",
+      "province": "信德省",
+      "latitude": 26.2958,
+      "longitude": 68.6292,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Kandiari",
+      "province": "信德省",
+      "latitude": 26.9155,
+      "longitude": 68.5219,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Kadhan",
+      "province": "信德省",
+      "latitude": 24.4804,
+      "longitude": 68.9855,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Goth Garelo",
+      "province": "信德省",
+      "latitude": 27.4352,
+      "longitude": 68.0757,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Nazir Town",
+      "province": "旁遮普省",
+      "latitude": 33.3061,
+      "longitude": 73.4833,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chak One Hundred Eight -Nine Left",
+      "province": "旁遮普省",
+      "latitude": 30.5604,
+      "longitude": 73.0932,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Khadan Khak",
+      "province": "俾路支省",
+      "latitude": 30.7524,
+      "longitude": 67.7113,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chak One Hundred Three Seven Right",
+      "province": "旁遮普省",
+      "latitude": 30.6166,
+      "longitude": 72.8448,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chak One Hundred Forty-two Nine Left",
+      "province": "旁遮普省",
+      "latitude": 30.5518,
+      "longitude": 72.9476,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Pithoro",
+      "province": "信德省",
+      "latitude": 25.5112,
+      "longitude": 69.378,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Duki",
+      "province": "俾路支省",
+      "latitude": 30.1531,
+      "longitude": 68.5732,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chak One Hundred Thirty-nine Nine Left",
+      "province": "旁遮普省",
+      "latitude": 30.5296,
+      "longitude": 72.9887,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chak One Hundred Eighteen Nine Left",
+      "province": "旁遮普省",
+      "latitude": 30.4778,
+      "longitude": 73.056,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Nabisar",
+      "province": "信德省",
+      "latitude": 25.0672,
+      "longitude": 69.6434,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Fatehpur",
+      "province": "阿扎德克什米尔",
+      "latitude": 31.1777,
+      "longitude": 71.2048,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chak One Hundred -Nine Left",
+      "province": "旁遮普省",
+      "latitude": 30.5938,
+      "longitude": 73.0902,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Yougu",
+      "province": "吉尔吉特－巴尔蒂斯坦",
+      "latitude": 35.1843,
+      "longitude": 76.1588,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Narwanwala",
+      "province": "旁遮普省",
+      "latitude": 31.3919,
+      "longitude": 73.5789,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chak One Hundred Ten -Nine Left",
+      "province": "旁遮普省",
+      "latitude": 30.5644,
+      "longitude": 73.1395,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Kario Ghanwar",
+      "province": "信德省",
+      "latitude": 24.8082,
+      "longitude": 68.6048,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chak One Hundred Forty Nine Left",
+      "province": "旁遮普省",
+      "latitude": 30.4977,
+      "longitude": 72.9852,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chak Three Ten Left",
+      "province": "旁遮普省",
+      "latitude": 30.5822,
+      "longitude": 72.8811,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chak Sixty-eight-Four Right",
+      "province": "旁遮普省",
+      "latitude": 30.7523,
+      "longitude": 73.2026,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chak Fifty-six -Four Right",
+      "province": "旁遮普省",
+      "latitude": 30.7397,
+      "longitude": 73.0934,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chak Hundred One",
+      "province": "旁遮普省",
+      "latitude": 30.6441,
+      "longitude": 72.9256,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chak One Hundred Four -Nine Left",
+      "province": "旁遮普省",
+      "latitude": 30.5954,
+      "longitude": 73.0301,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chak One Hundred Twenty-one Nine Left",
+      "province": "旁遮普省",
+      "latitude": 30.429,
+      "longitude": 73.0077,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chak One Hundred Fifty-three -Nine Left",
+      "province": "旁遮普省",
+      "latitude": 30.4454,
+      "longitude": 72.9924,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chak Eighty-eight -Six Right",
+      "province": "旁遮普省",
+      "latitude": 30.7173,
+      "longitude": 73.0819,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Batwar Salarzai",
+      "province": "开伯尔-普什图省",
+      "latitude": 34.9256,
+      "longitude": 71.5141,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chak One Hundred Seventeen Nine Left",
+      "province": "旁遮普省",
+      "latitude": 30.498,
+      "longitude": 73.0799,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chak One Hundred Forty-three Nine Left",
+      "province": "旁遮普省",
+      "latitude": 30.5298,
+      "longitude": 72.94,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chak One Hundred Thirty-two -Nine Left",
+      "province": "旁遮普省",
+      "latitude": 30.6225,
+      "longitude": 73.0127,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chak One Hundred Eighty-eight Nine A Left",
+      "province": "旁遮普省",
+      "latitude": 30.6223,
+      "longitude": 72.9604,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chak One Hundred Forty-one Nine Left",
+      "province": "旁遮普省",
+      "latitude": 30.5156,
+      "longitude": 72.964,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chak Ninety-nine -Six Right",
+      "province": "旁遮普省",
+      "latitude": 30.6362,
+      "longitude": 73.0017,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Chak One Hundred Six -Nine Left",
+      "province": "旁遮普省",
+      "latitude": 30.5692,
+      "longitude": 73.0511,
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "name": "",
+      "name_en": "Goth Shams Pir",
+      "province": "信德省",
+      "latitude": 24.8441,
+      "longitude": 66.9218,
+      "timezone": "Asia/Karachi"
+    }
+  ]
+}

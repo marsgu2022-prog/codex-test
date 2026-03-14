@@ -1,0 +1,270 @@
+{
+  "country_code": "LA",
+  "country_name": "老挝",
+  "cities": [
+    {
+      "name": "永珍",
+      "name_en": "Vientiane",
+      "province": "永珍地区",
+      "latitude": 17.9667,
+      "longitude": 102.6,
+      "timezone": "Asia/Vientiane"
+    },
+    {
+      "name": "サワンナケート県",
+      "name_en": "Savannakhet",
+      "province": "沙湾拿吉省",
+      "latitude": 16.5703,
+      "longitude": 104.7622,
+      "timezone": "Asia/Vientiane"
+    },
+    {
+      "name": "巴色",
+      "name_en": "Pakse",
+      "province": "占巴塞省",
+      "latitude": 15.1202,
+      "longitude": 105.799,
+      "timezone": "Asia/Vientiane"
+    },
+    {
+      "name": "",
+      "name_en": "Thakhèk",
+      "province": "甘蒙省",
+      "latitude": 17.4103,
+      "longitude": 104.8307,
+      "timezone": "Asia/Vientiane"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Khoan",
+      "province": "博胶省",
+      "latitude": 20.3501,
+      "longitude": 100.0902,
+      "timezone": "Asia/Vientiane"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Napè",
+      "province": "博利坎赛省",
+      "latitude": 18.3053,
+      "longitude": 105.0718,
+      "timezone": "Asia/Vientiane"
+    },
+    {
+      "name": "琅勃拉邦",
+      "name_en": "Luang Prabang",
+      "province": "琅勃拉邦省",
+      "latitude": 19.8933,
+      "longitude": 102.1525,
+      "timezone": "Asia/Vientiane"
+    },
+    {
+      "name": "",
+      "name_en": "Xam Nua",
+      "province": "Houaphan",
+      "latitude": 20.4164,
+      "longitude": 104.045,
+      "timezone": "Asia/Vientiane"
+    },
+    {
+      "name": "",
+      "name_en": "Muang Phônsavan",
+      "province": "Xiangkhoang",
+      "latitude": 19.4494,
+      "longitude": 103.1917,
+      "timezone": "Asia/Vientiane"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Xèpôn",
+      "province": "沙湾拿吉省",
+      "latitude": 16.6808,
+      "longitude": 106.239,
+      "timezone": "Asia/Vientiane"
+    },
+    {
+      "name": "",
+      "name_en": "Sekong",
+      "province": "Xékong",
+      "latitude": 15.3458,
+      "longitude": 106.7237,
+      "timezone": "Asia/Vientiane"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Nambak",
+      "province": "琅勃拉邦省",
+      "latitude": 20.6267,
+      "longitude": 102.4526,
+      "timezone": "Asia/Vientiane"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Xénô",
+      "province": "沙湾拿吉省",
+      "latitude": 16.6759,
+      "longitude": 104.988,
+      "timezone": "Asia/Vientiane"
+    },
+    {
+      "name": "",
+      "name_en": "Muang Xay",
+      "province": "Oudômxai",
+      "latitude": 20.6923,
+      "longitude": 101.9837,
+      "timezone": "Asia/Vientiane"
+    },
+    {
+      "name": "",
+      "name_en": "Vang Vieng",
+      "province": "万象省",
+      "latitude": 18.9235,
+      "longitude": 102.4478,
+      "timezone": "Asia/Vientiane"
+    },
+    {
+      "name": "",
+      "name_en": "Muang Sing",
+      "province": "Loungnamtha",
+      "latitude": 21.1921,
+      "longitude": 101.1479,
+      "timezone": "Asia/Vientiane"
+    },
+    {
+      "name": "",
+      "name_en": "Pakxan",
+      "province": "博利坎赛省",
+      "latitude": 18.3942,
+      "longitude": 103.6611,
+      "timezone": "Asia/Vientiane"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Laongam",
+      "province": "沙拉湾省",
+      "latitude": 15.4655,
+      "longitude": 106.1668,
+      "timezone": "Asia/Vientiane"
+    },
+    {
+      "name": "",
+      "name_en": "Borikhan",
+      "province": "博利坎赛省",
+      "latitude": 18.5629,
+      "longitude": 103.7267,
+      "timezone": "Asia/Vientiane"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Houakhoua",
+      "province": "博胶省",
+      "latitude": 20.2467,
+      "longitude": 100.454,
+      "timezone": "Asia/Vientiane"
+    },
+    {
+      "name": "",
+      "name_en": "Muang Không",
+      "province": "占巴塞省",
+      "latitude": 14.1179,
+      "longitude": 105.8547,
+      "timezone": "Asia/Vientiane"
+    },
+    {
+      "name": "",
+      "name_en": "Phôngsali",
+      "province": "Phôngsali",
+      "latitude": 21.6808,
+      "longitude": 102.1003,
+      "timezone": "Asia/Vientiane"
+    },
+    {
+      "name": "",
+      "name_en": "Sainyabuli",
+      "province": "Xiagnabouli",
+      "latitude": 19.2576,
+      "longitude": 101.7103,
+      "timezone": "Asia/Vientiane"
+    },
+    {
+      "name": "",
+      "name_en": "Champasak",
+      "province": "占巴塞省",
+      "latitude": 14.892,
+      "longitude": 105.8779,
+      "timezone": "Asia/Vientiane"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Houayxay",
+      "province": "博胶省",
+      "latitude": 20.2467,
+      "longitude": 100.454,
+      "timezone": "Asia/Vientiane"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Siphôm",
+      "province": "Xiagnabouli",
+      "latitude": 19.5627,
+      "longitude": 100.7742,
+      "timezone": "Asia/Vientiane"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Bachiang",
+      "province": "占巴塞省",
+      "latitude": 15.2531,
+      "longitude": 105.9316,
+      "timezone": "Asia/Vientiane"
+    },
+    {
+      "name": "",
+      "name_en": "Ban Muang-Nan",
+      "province": "琅勃拉邦省",
+      "latitude": 19.4977,
+      "longitude": 101.8798,
+      "timezone": "Asia/Vientiane"
+    },
+    {
+      "name": "",
+      "name_en": "Muang Phôn-Hông",
+      "province": "万象省",
+      "latitude": 18.4953,
+      "longitude": 102.4153,
+      "timezone": "Asia/Vientiane"
+    },
+    {
+      "name": "",
+      "name_en": "Muang Hôngsa",
+      "province": "Xiagnabouli",
+      "latitude": 19.7025,
+      "longitude": 101.3397,
+      "timezone": "Asia/Vientiane"
+    },
+    {
+      "name": "",
+      "name_en": "Salavan",
+      "province": "沙拉湾省",
+      "latitude": 15.7165,
+      "longitude": 106.4174,
+      "timezone": "Asia/Vientiane"
+    },
+    {
+      "name": "阿速坡",
+      "name_en": "Attapeu",
+      "province": "Attapu",
+      "latitude": 14.8107,
+      "longitude": 106.8318,
+      "timezone": "Asia/Vientiane"
+    },
+    {
+      "name": "琅南塔",
+      "name_en": "Luang Namtha",
+      "province": "Loungnamtha",
+      "latitude": 20.9486,
+      "longitude": 101.4019,
+      "timezone": "Asia/Vientiane"
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "country_code": "CY",
+  "country_name": "塞浦路斯",
+  "cities": [
+    {
+      "name": "尼科西亚",
+      "name_en": "Nicosia",
+      "province": "尼科西亚区",
+      "latitude": 35.1728,
+      "longitude": 33.354,
+      "timezone": "Asia/Nicosia"
+    },
+    {
+      "name": "利马索尔",
+      "name_en": "Limassol",
+      "province": "利马索尔区",
+      "latitude": 34.6841,
+      "longitude": 33.0379,
+      "timezone": "Asia/Nicosia"
+    },
+    {
+      "name": "拉纳卡",
+      "name_en": "Larnaca",
+      "province": "拉纳卡区",
+      "latitude": 34.9221,
+      "longitude": 33.6279,
+      "timezone": "Asia/Nicosia"
+    },
+    {
+      "name": "",
+      "name_en": "Stróvolos",
+      "province": "尼科西亚区",
+      "latitude": 35.1487,
+      "longitude": 33.3338,
+      "timezone": "Asia/Nicosia"
+    },
+    {
+      "name": "法马古斯塔",
+      "name_en": "Famagusta",
+      "province": "法马古斯塔区",
+      "latitude": 35.1249,
+      "longitude": 33.9413,
+      "timezone": "Asia/Famagusta"
+    },
+    {
+      "name": "",
+      "name_en": "Káto Lakatámeia",
+      "province": "尼科西亚区",
+      "latitude": 35.1176,
+      "longitude": 33.3254,
+      "timezone": "Asia/Nicosia"
+    },
+    {
+      "name": "",
+      "name_en": "Paphos",
+      "province": "帕福斯区",
+      "latitude": 34.7768,
+      "longitude": 32.4245,
+      "timezone": "Asia/Nicosia"
+    },
+    {
+      "name": "凯里尼亚",
+      "name_en": "Kyrenia",
+      "province": "凯里尼亚区",
+      "latitude": 35.3363,
+      "longitude": 33.3173,
+      "timezone": "Asia/Famagusta"
+    },
+    {
+      "name": "",
+      "name_en": "Mórfou",
+      "province": "尼科西亚区",
+      "latitude": 35.1987,
+      "longitude": 32.9934,
+      "timezone": "Asia/Nicosia"
+    },
+    {
+      "name": "",
+      "name_en": "Káto Polemídia",
+      "province": "利马索尔区",
+      "latitude": 34.6972,
+      "longitude": 32.9932,
+      "timezone": "Asia/Nicosia"
+    },
+    {
+      "name": "",
+      "name_en": "Aradíppou",
+      "province": "拉纳卡区",
+      "latitude": 34.9478,
+      "longitude": 33.5881,
+      "timezone": "Asia/Nicosia"
+    },
+    {
+      "name": "",
+      "name_en": "Aglantziá",
+      "province": "尼科西亚区",
+      "latitude": 35.1542,
+      "longitude": 33.3964,
+      "timezone": "Asia/Nicosia"
+    },
+    {
+      "name": "",
+      "name_en": "Égkomi",
+      "province": "法马古斯塔区",
+      "latitude": 35.1627,
+      "longitude": 33.8832,
+      "timezone": "Asia/Famagusta"
+    },
+    {
+      "name": "普罗塔拉斯",
+      "name_en": "Protaras",
+      "province": "法马古斯塔区",
+      "latitude": 35.0125,
+      "longitude": 34.0583,
+      "timezone": "Asia/Famagusta"
+    },
+    {
+      "name": "",
+      "name_en": "Germasógeia",
+      "province": "利马索尔区",
+      "latitude": 34.7207,
+      "longitude": 33.0845,
+      "timezone": "Asia/Nicosia"
+    },
+    {
+      "name": "",
+      "name_en": "Pérgamos",
+      "province": "拉纳卡区",
+      "latitude": 35.0417,
+      "longitude": 33.7083,
+      "timezone": "Asia/Nicosia"
+    },
+    {
+      "name": "",
+      "name_en": "Ágios Dométios",
+      "province": "尼科西亚区",
+      "latitude": 35.1735,
+      "longitude": 33.3404,
+      "timezone": "Asia/Nicosia"
+    },
+    {
+      "name": "",
+      "name_en": "Dáli",
+      "province": "尼科西亚区",
+      "latitude": 35.0229,
+      "longitude": 33.422,
+      "timezone": "Asia/Nicosia"
+    },
+    {
+      "name": "",
+      "name_en": "Paralímni",
+      "province": "法马古斯塔区",
+      "latitude": 35.0395,
+      "longitude": 33.9818,
+      "timezone": "Asia/Famagusta"
+    },
+    {
+      "name": "",
+      "name_en": "Géri",
+      "province": "尼科西亚区",
+      "latitude": 35.1056,
+      "longitude": 33.4198,
+      "timezone": "Asia/Nicosia"
+    },
+    {
+      "name": "",
+      "name_en": "Geroskipou",
+      "province": "帕福斯区",
+      "latitude": 34.7609,
+      "longitude": 32.4484,
+      "timezone": "Asia/Nicosia"
+    },
+    {
+      "name": "",
+      "name_en": "Léfka",
+      "province": "尼科西亚区",
+      "latitude": 35.112,
+      "longitude": 32.85,
+      "timezone": "Asia/Nicosia"
+    },
+    {
+      "name": "",
+      "name_en": "Ýpsonas",
+      "province": "利马索尔区",
+      "latitude": 34.688,
+      "longitude": 32.9619,
+      "timezone": "Asia/Nicosia"
+    },
+    {
+      "name": "",
+      "name_en": "Dhromolaxia",
+      "province": "拉纳卡区",
+      "latitude": 34.8755,
+      "longitude": 33.5868,
+      "timezone": "Asia/Nicosia"
+    },
+    {
+      "name": "",
+      "name_en": "Kolossi",
+      "province": "拉纳卡区",
+      "latitude": 34.6686,
+      "longitude": 32.9338,
+      "timezone": "Asia/Nicosia"
+    },
+    {
+      "name": "",
+      "name_en": "Chlórakas",
+      "province": "帕福斯区",
+      "latitude": 34.7984,
+      "longitude": 32.4065,
+      "timezone": "Asia/Nicosia"
+    },
+    {
+      "name": "",
+      "name_en": "Derýneia",
+      "province": "法马古斯塔区",
+      "latitude": 35.0648,
+      "longitude": 33.9608,
+      "timezone": "Asia/Famagusta"
+    },
+    {
+      "name": "",
+      "name_en": "Xylofágou",
+      "province": "拉纳卡区",
+      "latitude": 34.9774,
+      "longitude": 33.8489,
+      "timezone": "Asia/Nicosia"
+    },
+    {
+      "name": "",
+      "name_en": "Emba",
+      "province": "帕福斯区",
+      "latitude": 34.807,
+      "longitude": 32.4241,
+      "timezone": "Asia/Nicosia"
+    },
+    {
+      "name": "",
+      "name_en": "Tséri",
+      "province": "尼科西亚区",
+      "latitude": 35.0731,
+      "longitude": 33.3234,
+      "timezone": "Asia/Nicosia"
+    },
+    {
+      "name": "",
+      "name_en": "Livádia",
+      "province": "拉纳卡区",
+      "latitude": 34.9552,
+      "longitude": 33.6273,
+      "timezone": "Asia/Nicosia"
+    },
+    {
+      "name": "",
+      "name_en": "Lápithos",
+      "province": "凯里尼亚区",
+      "latitude": 35.3382,
+      "longitude": 33.1737,
+      "timezone": "Asia/Famagusta"
+    },
+    {
+      "name": "",
+      "name_en": "Rizokárpaso",
+      "province": "法马古斯塔区",
+      "latitude": 35.5972,
+      "longitude": 34.3792,
+      "timezone": "Asia/Famagusta"
+    },
+    {
+      "name": "",
+      "name_en": "Athíenou",
+      "province": "拉纳卡区",
+      "latitude": 35.0618,
+      "longitude": 33.5417,
+      "timezone": "Asia/Nicosia"
+    },
+    {
+      "name": "",
+      "name_en": "Kíti",
+      "province": "拉纳卡区",
+      "latitude": 34.849,
+      "longitude": 33.5752,
+      "timezone": "Asia/Nicosia"
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "country_code": "BI",
+  "country_name": "布隆迪",
+  "cities": [
+    {
+      "name": "布琼布拉",
+      "name_en": "Bujumbura",
+      "province": "布琼布拉市省",
+      "latitude": -3.3819,
+      "longitude": 29.3614,
+      "timezone": "Africa/Bujumbura"
+    },
+    {
+      "name": "",
+      "name_en": "Gitega",
+      "province": "基特加省",
+      "latitude": -3.4271,
+      "longitude": 29.9246,
+      "timezone": "Africa/Bujumbura"
+    },
+    {
+      "name": "恩戈齐",
+      "name_en": "Ngozi",
+      "province": "恩戈齐省",
+      "latitude": -2.9075,
+      "longitude": 29.8306,
+      "timezone": "Africa/Bujumbura"
+    },
+    {
+      "name": "",
+      "name_en": "Mpanda",
+      "province": "布班扎省",
+      "latitude": -3.1703,
+      "longitude": 29.4026,
+      "timezone": "Africa/Bujumbura"
+    },
+    {
+      "name": "",
+      "name_en": "Rumonge",
+      "province": "鲁蒙盖省",
+      "latitude": -3.9736,
+      "longitude": 29.4386,
+      "timezone": "Africa/Bujumbura"
+    },
+    {
+      "name": "",
+      "name_en": "Cibitoke",
+      "province": "锡比托凯省",
+      "latitude": -2.8869,
+      "longitude": 29.1248,
+      "timezone": "Africa/Bujumbura"
+    },
+    {
+      "name": "",
+      "name_en": "Kayanza",
+      "province": "卡扬扎省",
+      "latitude": -2.9221,
+      "longitude": 29.6293,
+      "timezone": "Africa/Bujumbura"
+    },
+    {
+      "name": "",
+      "name_en": "Cendajuru",
+      "province": "坎库佐省",
+      "latitude": -3.289,
+      "longitude": 30.6011,
+      "timezone": "Africa/Bujumbura"
+    },
+    {
+      "name": "布班扎",
+      "name_en": "Bubanza",
+      "province": "布班扎省",
+      "latitude": -3.0804,
+      "longitude": 29.391,
+      "timezone": "Africa/Bujumbura"
+    },
+    {
+      "name": "",
+      "name_en": "Vyanda",
+      "province": "布鲁里省",
+      "latitude": -4.1024,
+      "longitude": 29.606,
+      "timezone": "Africa/Bujumbura"
+    },
+    {
+      "name": "",
+      "name_en": "Zanandore",
+      "province": "基特加省",
+      "latitude": -3.2548,
+      "longitude": 30.114,
+      "timezone": "Africa/Bujumbura"
+    },
+    {
+      "name": "",
+      "name_en": "Gatumba",
+      "province": "布松布拉乡村省",
+      "latitude": -3.3333,
+      "longitude": 29.25,
+      "timezone": "Africa/Bujumbura"
+    },
+    {
+      "name": "",
+      "name_en": "Karusi",
+      "province": "基特加省",
+      "latitude": -3.1014,
+      "longitude": 30.1628,
+      "timezone": "Africa/Bujumbura"
+    },
+    {
+      "name": "",
+      "name_en": "Kirundo",
+      "province": "基龙多省",
+      "latitude": -2.5845,
+      "longitude": 30.0959,
+      "timezone": "Africa/Bujumbura"
+    },
+    {
+      "name": "",
+      "name_en": "Muyinga",
+      "province": "穆因加省",
+      "latitude": -2.8451,
+      "longitude": 30.3414,
+      "timezone": "Africa/Bujumbura"
+    },
+    {
+      "name": "",
+      "name_en": "Makamba",
+      "province": "马坎巴省",
+      "latitude": -4.1348,
+      "longitude": 29.804,
+      "timezone": "Africa/Bujumbura"
+    },
+    {
+      "name": "鲁伊吉",
+      "name_en": "Ruyigi",
+      "province": "鲁伊吉省",
+      "latitude": -3.4764,
+      "longitude": 30.2486,
+      "timezone": "Africa/Bujumbura"
+    },
+    {
+      "name": "鲁塔纳",
+      "name_en": "Rutana",
+      "province": "鲁塔纳省",
+      "latitude": -3.9279,
+      "longitude": 29.992,
+      "timezone": "Africa/Bujumbura"
+    },
+    {
+      "name": "",
+      "name_en": "Muramvya",
+      "province": "基特加省",
+      "latitude": -3.2678,
+      "longitude": 29.6162,
+      "timezone": "Africa/Bujumbura"
+    },
+    {
+      "name": "",
+      "name_en": "Isale",
+      "province": "布松布拉乡村省",
+      "latitude": -3.3489,
+      "longitude": 29.4839,
+      "timezone": "Africa/Bujumbura"
+    },
+    {
+      "name": "布鲁里",
+      "name_en": "Bururi",
+      "province": "布鲁里省",
+      "latitude": -3.9488,
+      "longitude": 29.6244,
+      "timezone": "Africa/Bujumbura"
+    },
+    {
+      "name": "",
+      "name_en": "Kanyosha",
+      "province": "布松布拉乡村省",
+      "latitude": -3.4148,
+      "longitude": 29.4082,
+      "timezone": "Africa/Bujumbura"
+    },
+    {
+      "name": "",
+      "name_en": "Bwambarangwe",
+      "province": "基龙多省",
+      "latitude": -2.5831,
+      "longitude": 30.3328,
+      "timezone": "Africa/Bujumbura"
+    },
+    {
+      "name": "",
+      "name_en": "Cankuzo",
+      "province": "坎库佐省",
+      "latitude": -3.2186,
+      "longitude": 30.5528,
+      "timezone": "Africa/Bujumbura"
+    },
+    {
+      "name": "",
+      "name_en": "Kayogoro",
+      "province": "马坎巴省",
+      "latitude": -4.2298,
+      "longitude": 29.7662,
+      "timezone": "Africa/Bujumbura"
+    },
+    {
+      "name": "",
+      "name_en": "Mabanda",
+      "province": "马坎巴省",
+      "latitude": -4.2743,
+      "longitude": 29.7749,
+      "timezone": "Africa/Bujumbura"
+    }
+  ]
+}

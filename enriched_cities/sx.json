@@ -1,0 +1,46 @@
+{
+  "country_code": "SX",
+  "country_name": "荷属圣马丁",
+  "cities": [
+    {
+      "name": "",
+      "name_en": "Cul de Sac",
+      "province": "",
+      "latitude": 18.0485,
+      "longitude": -63.0651,
+      "timezone": "America/Lower_Princes"
+    },
+    {
+      "name": "下王子区",
+      "name_en": "Lower Prince’s Quarter",
+      "province": "",
+      "latitude": 18.0499,
+      "longitude": -63.0379,
+      "timezone": "America/Lower_Princes"
+    },
+    {
+      "name": "",
+      "name_en": "Koolbaai",
+      "province": "",
+      "latitude": 18.0405,
+      "longitude": -63.084,
+      "timezone": "America/Lower_Princes"
+    },
+    {
+      "name": "",
+      "name_en": "Little Bay",
+      "province": "",
+      "latitude": 18.0264,
+      "longitude": -63.0646,
+      "timezone": "America/Lower_Princes"
+    },
+    {
+      "name": "菲利普斯堡",
+      "name_en": "Philipsburg",
+      "province": "",
+      "latitude": 18.026,
+      "longitude": -63.0458,
+      "timezone": "America/Lower_Princes"
+    }
+  ]
+}

@@ -1,0 +1,1310 @@
+{
+  "country_code": "DK",
+  "country_name": "丹麦",
+  "cities": [
+    {
+      "name": "哥本哈根",
+      "name_en": "Copenhagen",
+      "province": "Capital Region",
+      "latitude": 55.6759,
+      "longitude": 12.5655,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "奥胡斯",
+      "name_en": "Århus",
+      "province": "中日德兰大区",
+      "latitude": 56.1567,
+      "longitude": 10.2108,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "欧登塞",
+      "name_en": "Odense",
+      "province": "南丹麦大区",
+      "latitude": 55.3959,
+      "longitude": 10.3883,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "奥尔堡",
+      "name_en": "Aalborg",
+      "province": "北日德兰大区",
+      "latitude": 57.048,
+      "longitude": 9.9187,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "腓特烈斯贝",
+      "name_en": "Frederiksberg",
+      "province": "Capital Region",
+      "latitude": 55.6794,
+      "longitude": 12.5346,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "埃斯比约",
+      "name_en": "Esbjerg",
+      "province": "南丹麦大区",
+      "latitude": 55.4703,
+      "longitude": 8.4519,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "兰讷斯",
+      "name_en": "Randers",
+      "province": "中日德兰大区",
+      "latitude": 56.4607,
+      "longitude": 10.0364,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "科灵",
+      "name_en": "Kolding",
+      "province": "南丹麦大区",
+      "latitude": 55.4904,
+      "longitude": 9.4722,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "霍尔森斯",
+      "name_en": "Horsens",
+      "province": "中日德兰大区",
+      "latitude": 55.8607,
+      "longitude": 9.8503,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "瓦埃勒",
+      "name_en": "Vejle",
+      "province": "南丹麦大区",
+      "latitude": 55.7093,
+      "longitude": 9.5357,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Hvidovre",
+      "province": "Capital Region",
+      "latitude": 55.643,
+      "longitude": 12.4771,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Avedøre",
+      "province": "Capital Region",
+      "latitude": 55.6272,
+      "longitude": 12.4564,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Klinteby Frihed",
+      "province": "西兰大区",
+      "latitude": 55.197,
+      "longitude": 11.596,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "罗斯基勒",
+      "name_en": "Roskilde",
+      "province": "西兰大区",
+      "latitude": 55.6415,
+      "longitude": 12.0803,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "海宁",
+      "name_en": "Herning",
+      "province": "中日德兰大区",
+      "latitude": 56.1362,
+      "longitude": 8.9766,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "锡尔克堡",
+      "name_en": "Silkeborg",
+      "province": "中日德兰大区",
+      "latitude": 56.1697,
+      "longitude": 9.5451,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Hørsholm",
+      "province": "Capital Region",
+      "latitude": 55.881,
+      "longitude": 12.5011,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Greve",
+      "province": "西兰大区",
+      "latitude": 55.5833,
+      "longitude": 12.3,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Hedensted",
+      "province": "中日德兰大区",
+      "latitude": 55.7704,
+      "longitude": 9.7011,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Valby",
+      "province": "Capital Region",
+      "latitude": 55.6661,
+      "longitude": 12.5139,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "奈斯特韦兹",
+      "name_en": "Næstved",
+      "province": "西兰大区",
+      "latitude": 55.2299,
+      "longitude": 11.7609,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "维堡",
+      "name_en": "Viborg",
+      "province": "中日德兰大区",
+      "latitude": 56.4532,
+      "longitude": 9.402,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Fredericia",
+      "province": "南丹麦大区",
+      "latitude": 55.5657,
+      "longitude": 9.7526,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "勒藻勒自治市",
+      "name_en": "Rødovre",
+      "province": "Capital Region",
+      "latitude": 55.6806,
+      "longitude": 12.4537,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "巴勒鲁普自治市",
+      "name_en": "Ballerup",
+      "province": "Capital Region",
+      "latitude": 55.7317,
+      "longitude": 12.3633,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Charlottenlund",
+      "province": "Capital Region",
+      "latitude": 55.7524,
+      "longitude": 12.5745,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "克厄",
+      "name_en": "Køge",
+      "province": "西兰大区",
+      "latitude": 55.458,
+      "longitude": 12.1821,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Vanløse",
+      "province": "Capital Region",
+      "latitude": 55.6836,
+      "longitude": 12.4871,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Hillerød",
+      "province": "Capital Region",
+      "latitude": 55.9279,
+      "longitude": 12.3008,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Taastrup",
+      "province": "Capital Region",
+      "latitude": 55.6501,
+      "longitude": 12.3016,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "赫尔辛格",
+      "name_en": "Helsingør",
+      "province": "Capital Region",
+      "latitude": 56.0361,
+      "longitude": 12.6136,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "霍尔斯特布罗",
+      "name_en": "Holstebro",
+      "province": "中日德兰大区",
+      "latitude": 56.3601,
+      "longitude": 8.6161,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "斯拉厄尔瑟自治市",
+      "name_en": "Slagelse",
+      "province": "西兰大区",
+      "latitude": 55.4028,
+      "longitude": 11.3546,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Viby",
+      "province": "中日德兰大区",
+      "latitude": 56.1226,
+      "longitude": 10.1515,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "阿尔贝特斯隆自治市",
+      "name_en": "Albertslund",
+      "province": "Capital Region",
+      "latitude": 55.6569,
+      "longitude": 12.3638,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Holbæk",
+      "province": "西兰大区",
+      "latitude": 55.7175,
+      "longitude": 11.7128,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Sønderborg",
+      "province": "南丹麦大区",
+      "latitude": 54.909,
+      "longitude": 9.7892,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Svendborg",
+      "province": "南丹麦大区",
+      "latitude": 55.0598,
+      "longitude": 10.6068,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Indre By",
+      "province": "Capital Region",
+      "latitude": 55.6777,
+      "longitude": 12.573,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "阿勒勒自治市",
+      "name_en": "Allerød",
+      "province": "Capital Region",
+      "latitude": 55.8704,
+      "longitude": 12.3574,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Hjørring",
+      "province": "北日德兰大区",
+      "latitude": 57.4642,
+      "longitude": 9.9823,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "诺勒松比",
+      "name_en": "Nørresundby",
+      "province": "北日德兰大区",
+      "latitude": 57.0588,
+      "longitude": 9.9228,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "格洛斯楚普自治市",
+      "name_en": "Glostrup",
+      "province": "Capital Region",
+      "latitude": 55.6666,
+      "longitude": 12.4038,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "灵斯泰兹",
+      "name_en": "Ringsted",
+      "province": "西兰大区",
+      "latitude": 55.4426,
+      "longitude": 11.7901,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "腓特烈港",
+      "name_en": "Frederikshavn",
+      "province": "北日德兰大区",
+      "latitude": 57.4407,
+      "longitude": 10.5366,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Haderslev",
+      "province": "南丹麦大区",
+      "latitude": 55.2494,
+      "longitude": 9.4877,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "比克勒镇",
+      "name_en": "Birkerød",
+      "province": "Capital Region",
+      "latitude": 55.8476,
+      "longitude": 12.4279,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Farum",
+      "province": "Capital Region",
+      "latitude": 55.8086,
+      "longitude": 12.3607,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Skive",
+      "province": "中日德兰大区",
+      "latitude": 56.567,
+      "longitude": 9.0271,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Brøndbyvester",
+      "province": "Capital Region",
+      "latitude": 55.6455,
+      "longitude": 12.4101,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Stenløse",
+      "province": "Capital Region",
+      "latitude": 55.7683,
+      "longitude": 12.1972,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Nykøbing Falster",
+      "province": "西兰大区",
+      "latitude": 54.7691,
+      "longitude": 11.8742,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Ishøj",
+      "province": "Capital Region",
+      "latitude": 55.6154,
+      "longitude": 12.3518,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Vordingborg",
+      "province": "西兰大区",
+      "latitude": 55.008,
+      "longitude": 11.9106,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "尼堡自治市",
+      "name_en": "Nyborg",
+      "province": "南丹麦大区",
+      "latitude": 55.3127,
+      "longitude": 10.7896,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Solrød Strand",
+      "province": "西兰大区",
+      "latitude": 55.5329,
+      "longitude": 12.2223,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Frederikssund",
+      "province": "Capital Region",
+      "latitude": 55.8396,
+      "longitude": 12.069,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Lillerød",
+      "province": "Capital Region",
+      "latitude": 55.875,
+      "longitude": 12.3458,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Vallensbæk",
+      "province": "Capital Region",
+      "latitude": 55.622,
+      "longitude": 12.3851,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "奥本罗",
+      "name_en": "Aabenraa",
+      "province": "南丹麦大区",
+      "latitude": 55.0443,
+      "longitude": 9.4174,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Tønder",
+      "province": "南丹麦大区",
+      "latitude": 54.9331,
+      "longitude": 8.8667,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Middelfart",
+      "province": "南丹麦大区",
+      "latitude": 55.5059,
+      "longitude": 9.7305,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Kalundborg",
+      "province": "西兰大区",
+      "latitude": 55.6795,
+      "longitude": 11.0886,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "齐尔斯特",
+      "name_en": "Tilst",
+      "province": "中日德兰大区",
+      "latitude": 56.1938,
+      "longitude": 10.1128,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Ikast",
+      "province": "中日德兰大区",
+      "latitude": 56.1388,
+      "longitude": 9.1577,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "科雪尔",
+      "name_en": "Korsør",
+      "province": "西兰大区",
+      "latitude": 55.3299,
+      "longitude": 11.1386,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Grenaa",
+      "province": "中日德兰大区",
+      "latitude": 56.4158,
+      "longitude": 10.8782,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Varde",
+      "province": "南丹麦大区",
+      "latitude": 55.6211,
+      "longitude": 8.4807,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Rønne",
+      "province": "Capital Region",
+      "latitude": 55.1009,
+      "longitude": 14.7066,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Hedehusene",
+      "province": "Capital Region",
+      "latitude": 55.6495,
+      "longitude": 12.1983,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Skanderborg",
+      "province": "中日德兰大区",
+      "latitude": 56.0343,
+      "longitude": 9.9318,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Thisted",
+      "province": "北日德兰大区",
+      "latitude": 56.9552,
+      "longitude": 8.6949,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Værløse",
+      "province": "Capital Region",
+      "latitude": 55.7825,
+      "longitude": 12.3686,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Frederiksværk",
+      "province": "Capital Region",
+      "latitude": 55.9707,
+      "longitude": 12.0225,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Brønderslev",
+      "province": "北日德兰大区",
+      "latitude": 57.2702,
+      "longitude": 9.941,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "纳克斯考",
+      "name_en": "Nakskov",
+      "province": "西兰大区",
+      "latitude": 54.8304,
+      "longitude": 11.1357,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Odder",
+      "province": "中日德兰大区",
+      "latitude": 55.9731,
+      "longitude": 10.153,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "德拉厄自治市",
+      "name_en": "Dragør",
+      "province": "Capital Region",
+      "latitude": 55.5928,
+      "longitude": 12.6722,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Tranekær",
+      "province": "南丹麦大区",
+      "latitude": 54.9976,
+      "longitude": 10.8438,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "勒斯宁",
+      "name_en": "Løsning",
+      "province": "中日德兰大区",
+      "latitude": 55.8024,
+      "longitude": 9.6954,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Haslev",
+      "province": "西兰大区",
+      "latitude": 55.3235,
+      "longitude": 11.9639,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Hobro",
+      "province": "北日德兰大区",
+      "latitude": 56.6431,
+      "longitude": 9.7903,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Brøndby Strand",
+      "province": "Capital Region",
+      "latitude": 55.6178,
+      "longitude": 12.4222,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Gjellerup",
+      "province": "中日德兰大区",
+      "latitude": 56.1568,
+      "longitude": 10.1301,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Espergærde",
+      "province": "Capital Region",
+      "latitude": 55.9946,
+      "longitude": 12.5473,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "斯楚厄自治市",
+      "name_en": "Struer",
+      "province": "中日德兰大区",
+      "latitude": 56.492,
+      "longitude": 8.594,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Fløng",
+      "province": "Capital Region",
+      "latitude": 55.6621,
+      "longitude": 12.187,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Kongens Lyngby",
+      "province": "Capital Region",
+      "latitude": 55.7704,
+      "longitude": 12.5038,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Lystrup",
+      "province": "中日德兰大区",
+      "latitude": 56.4984,
+      "longitude": 10.4689,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Lystrup",
+      "province": "中日德兰大区",
+      "latitude": 56.4984,
+      "longitude": 10.4689,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "克里斯蒂安港",
+      "name_en": "Christianshavn",
+      "province": "Capital Region",
+      "latitude": 55.6738,
+      "longitude": 12.5954,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Jyllinge",
+      "province": "西兰大区",
+      "latitude": 55.7529,
+      "longitude": 12.1031,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Tårnby",
+      "province": "Capital Region",
+      "latitude": 55.6303,
+      "longitude": 12.6004,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Ringkøbing",
+      "province": "中日德兰大区",
+      "latitude": 56.0901,
+      "longitude": 8.244,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Alholm",
+      "province": "西兰大区",
+      "latitude": 54.6648,
+      "longitude": 11.723,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Grindsted",
+      "province": "南丹麦大区",
+      "latitude": 55.7573,
+      "longitude": 8.9275,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Smørumnedre",
+      "province": "Capital Region",
+      "latitude": 55.7423,
+      "longitude": 12.3028,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Støvring",
+      "province": "北日德兰大区",
+      "latitude": 56.8854,
+      "longitude": 9.8384,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Nykøbing Mors",
+      "province": "北日德兰大区",
+      "latitude": 56.7933,
+      "longitude": 8.8528,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Fredensborg",
+      "province": "Capital Region",
+      "latitude": 55.9756,
+      "longitude": 12.4031,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Humlebæk",
+      "province": "Capital Region",
+      "latitude": 55.9618,
+      "longitude": 12.5341,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Sæby",
+      "province": "北日德兰大区",
+      "latitude": 57.3319,
+      "longitude": 10.5225,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Løkken",
+      "province": "北日德兰大区",
+      "latitude": 57.3705,
+      "longitude": 9.7147,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Måløv",
+      "province": "Capital Region",
+      "latitude": 55.7553,
+      "longitude": 12.3233,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Løgten",
+      "province": "中日德兰大区",
+      "latitude": 56.2746,
+      "longitude": 10.3118,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Helsinge",
+      "province": "Capital Region",
+      "latitude": 56.0228,
+      "longitude": 12.1975,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Trørød",
+      "province": "Capital Region",
+      "latitude": 55.8395,
+      "longitude": 12.5443,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Hundested",
+      "province": "Capital Region",
+      "latitude": 55.964,
+      "longitude": 11.8504,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "瓦伊恩自治市",
+      "name_en": "Vejen",
+      "province": "南丹麦大区",
+      "latitude": 55.4812,
+      "longitude": 9.138,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Aars",
+      "province": "北日德兰大区",
+      "latitude": 56.804,
+      "longitude": 9.5144,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Hørning",
+      "province": "中日德兰大区",
+      "latitude": 56.412,
+      "longitude": 10.2002,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Hørning",
+      "province": "中日德兰大区",
+      "latitude": 56.412,
+      "longitude": 10.2002,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "里伯",
+      "name_en": "Ribe",
+      "province": "南丹麦大区",
+      "latitude": 55.3305,
+      "longitude": 8.7697,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Hadsten",
+      "province": "中日德兰大区",
+      "latitude": 56.3282,
+      "longitude": 10.0493,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Hinnerup",
+      "province": "中日德兰大区",
+      "latitude": 56.7347,
+      "longitude": 9.0587,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Hinnerup",
+      "province": "中日德兰大区",
+      "latitude": 56.7347,
+      "longitude": 9.0587,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "索勒",
+      "name_en": "Sorø",
+      "province": "西兰大区",
+      "latitude": 55.4318,
+      "longitude": 11.5555,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Nivå",
+      "province": "Capital Region",
+      "latitude": 55.934,
+      "longitude": 12.5048,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Svenstrup",
+      "province": "北日德兰大区",
+      "latitude": 56.9723,
+      "longitude": 9.8481,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Svenstrup",
+      "province": "北日德兰大区",
+      "latitude": 56.9723,
+      "longitude": 9.8481,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "斯卡恩",
+      "name_en": "Skagen",
+      "province": "北日德兰大区",
+      "latitude": 57.7209,
+      "longitude": 10.5839,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Vigerslev",
+      "province": "Capital Region",
+      "latitude": 55.6629,
+      "longitude": 12.4836,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Vojens",
+      "province": "南丹麦大区",
+      "latitude": 55.2464,
+      "longitude": 9.306,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Brande",
+      "province": "中日德兰大区",
+      "latitude": 55.9432,
+      "longitude": 9.128,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Bjerringbro",
+      "province": "中日德兰大区",
+      "latitude": 56.378,
+      "longitude": 9.6607,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Hasselager",
+      "province": "中日德兰大区",
+      "latitude": 56.1056,
+      "longitude": 10.1,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Lemvig",
+      "province": "中日德兰大区",
+      "latitude": 56.5486,
+      "longitude": 8.3102,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Tranbjerg",
+      "province": "中日德兰大区",
+      "latitude": 56.0952,
+      "longitude": 10.136,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Ebeltoft",
+      "province": "中日德兰大区",
+      "latitude": 56.1944,
+      "longitude": 10.6821,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Ry",
+      "province": "中日德兰大区",
+      "latitude": 56.0904,
+      "longitude": 9.7651,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Skjern",
+      "province": "中日德兰大区",
+      "latitude": 55.95,
+      "longitude": 8.5,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Bramming",
+      "province": "南丹麦大区",
+      "latitude": 55.4695,
+      "longitude": 8.7001,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "福堡",
+      "name_en": "Faaborg",
+      "province": "南丹麦大区",
+      "latitude": 55.0951,
+      "longitude": 10.2423,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Hammel",
+      "province": "中日德兰大区",
+      "latitude": 56.2576,
+      "longitude": 9.8632,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Slangerup",
+      "province": "Capital Region",
+      "latitude": 55.85,
+      "longitude": 12.1833,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Gilleleje",
+      "province": "Capital Region",
+      "latitude": 56.122,
+      "longitude": 12.3106,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "比隆",
+      "name_en": "Billund",
+      "province": "南丹麦大区",
+      "latitude": 55.7335,
+      "longitude": 9.1078,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Ringe",
+      "province": "南丹麦大区",
+      "latitude": 55.2383,
+      "longitude": 10.4786,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Skælskør",
+      "province": "西兰大区",
+      "latitude": 55.2506,
+      "longitude": 11.2935,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Åbybro",
+      "province": "北日德兰大区",
+      "latitude": 57.1625,
+      "longitude": 9.73,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Malling",
+      "province": "中日德兰大区",
+      "latitude": 56.0363,
+      "longitude": 10.1963,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Hornslet",
+      "province": "中日德兰大区",
+      "latitude": 56.3155,
+      "longitude": 10.3204,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Assens",
+      "province": "南丹麦大区",
+      "latitude": 55.2702,
+      "longitude": 9.9008,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Rødekro",
+      "province": "南丹麦大区",
+      "latitude": 55.0708,
+      "longitude": 9.3353,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Hellebæk",
+      "province": "Capital Region",
+      "latitude": 56.0682,
+      "longitude": 12.5578,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Ålsgårde",
+      "province": "Capital Region",
+      "latitude": 56.0756,
+      "longitude": 12.5399,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Kerteminde",
+      "province": "南丹麦大区",
+      "latitude": 55.449,
+      "longitude": 10.6577,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Maribo",
+      "province": "西兰大区",
+      "latitude": 54.7766,
+      "longitude": 11.5002,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Nordborg",
+      "province": "南丹麦大区",
+      "latitude": 55.0573,
+      "longitude": 9.7408,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Stavnsholt",
+      "province": "Capital Region",
+      "latitude": 55.8148,
+      "longitude": 12.4055,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Neder Holluf",
+      "province": "南丹麦大区",
+      "latitude": 55.3645,
+      "longitude": 10.4482,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Munkebo",
+      "province": "南丹麦大区",
+      "latitude": 55.4555,
+      "longitude": 10.5543,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "希茨海尔斯",
+      "name_en": "Hirtshals",
+      "province": "北日德兰大区",
+      "latitude": 57.5881,
+      "longitude": 9.9592,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Bellinge",
+      "province": "南丹麦大区",
+      "latitude": 55.3353,
+      "longitude": 10.3204,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Nibe",
+      "province": "北日德兰大区",
+      "latitude": 56.9815,
+      "longitude": 9.6392,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Ølstykke",
+      "province": "Capital Region",
+      "latitude": 55.7957,
+      "longitude": 12.1551,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Hornbæk",
+      "province": "Capital Region",
+      "latitude": 56.0903,
+      "longitude": 12.4569,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Tune",
+      "province": "西兰大区",
+      "latitude": 55.5929,
+      "longitude": 12.1697,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Otterup",
+      "province": "南丹麦大区",
+      "latitude": 55.5153,
+      "longitude": 10.3976,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "乞信",
+      "name_en": "Hadsund",
+      "province": "北日德兰大区",
+      "latitude": 56.7148,
+      "longitude": 10.1168,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Kolt",
+      "province": "中日德兰大区",
+      "latitude": 56.1084,
+      "longitude": 10.0699,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Mårslet",
+      "province": "中日德兰大区",
+      "latitude": 56.0669,
+      "longitude": 10.1611,
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "name": "",
+      "name_en": "Nykøbing Sjælland",
+      "province": "西兰大区",
+      "latitude": 55.9249,
+      "longitude": 11.6711,
+      "timezone": "Europe/Copenhagen"
+    }
+  ]
+}

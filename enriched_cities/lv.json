@@ -1,0 +1,422 @@
+{
+  "country_code": "LV",
+  "country_name": "拉脱维亚",
+  "cities": [
+    {
+      "name": "里加",
+      "name_en": "Riga",
+      "province": "Riga",
+      "latitude": 56.946,
+      "longitude": 24.1059,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "陶格夫匹尔斯",
+      "name_en": "Daugavpils",
+      "province": "陶格夫匹尔斯",
+      "latitude": 55.8833,
+      "longitude": 26.5333,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "利耶帕亚",
+      "name_en": "Liepāja",
+      "province": "利耶帕亚",
+      "latitude": 56.5047,
+      "longitude": 21.0109,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "",
+      "name_en": "Jelgava",
+      "province": "叶尔加瓦",
+      "latitude": 56.65,
+      "longitude": 23.7128,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "",
+      "name_en": "Jūrmala",
+      "province": "Jūrmala",
+      "latitude": 56.968,
+      "longitude": 23.7704,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "",
+      "name_en": "Ventspils",
+      "province": "文茨皮尔斯",
+      "latitude": 57.3948,
+      "longitude": 21.5612,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "雷泽克内",
+      "name_en": "Rēzekne",
+      "province": "Rēzekne",
+      "latitude": 56.5103,
+      "longitude": 27.34,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "瓦尔米耶拉",
+      "name_en": "Valmiera",
+      "province": "Valmiera",
+      "latitude": 57.5411,
+      "longitude": 25.4275,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "",
+      "name_en": "Ogre",
+      "province": "奥格雷市镇",
+      "latitude": 56.8162,
+      "longitude": 24.614,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "叶卡布皮尔斯",
+      "name_en": "Jēkabpils",
+      "province": "Jēkabpils Municipality",
+      "latitude": 56.499,
+      "longitude": 25.8574,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "",
+      "name_en": "Mārupe",
+      "province": "Mārupe",
+      "latitude": 56.9054,
+      "longitude": 24.0511,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "萨拉斯皮尔斯",
+      "name_en": "Salaspils",
+      "province": "萨拉斯皮尔斯市镇",
+      "latitude": 56.8601,
+      "longitude": 24.3654,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "",
+      "name_en": "Dārzciems",
+      "province": "Riga",
+      "latitude": 56.9456,
+      "longitude": 24.1746,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "图库姆斯",
+      "name_en": "Tukums",
+      "province": "图库姆斯市镇",
+      "latitude": 56.9676,
+      "longitude": 23.1555,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "采西斯",
+      "name_en": "Cēsis",
+      "province": "采西斯市镇",
+      "latitude": 57.3119,
+      "longitude": 25.2746,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "",
+      "name_en": "Bolderaja",
+      "province": "Riga",
+      "latitude": 57.0313,
+      "longitude": 24.0557,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "锡古尔达",
+      "name_en": "Sigulda",
+      "province": "Sigulda Municipality",
+      "latitude": 57.1538,
+      "longitude": 24.8595,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "",
+      "name_en": "Mežciems",
+      "province": "Riga",
+      "latitude": 56.9691,
+      "longitude": 24.2343,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "",
+      "name_en": "Daugavgrīva",
+      "province": "Riga",
+      "latitude": 57.0431,
+      "longitude": 24.0361,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "库尔迪加",
+      "name_en": "Kuldīga",
+      "province": "Kuldīga Municipality",
+      "latitude": 56.974,
+      "longitude": 21.9572,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "包斯卡",
+      "name_en": "Bauska",
+      "province": "Bauska Municipality",
+      "latitude": 56.4071,
+      "longitude": 24.1873,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "",
+      "name_en": "Olaine",
+      "province": "奥莱内市镇",
+      "latitude": 56.7958,
+      "longitude": 23.9373,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "普雷利",
+      "name_en": "Preiļi",
+      "province": "Preiļu novads",
+      "latitude": 56.2944,
+      "longitude": 26.7246,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "萨尔杜斯",
+      "name_en": "Saldus",
+      "province": "Saldus Rajons",
+      "latitude": 56.6636,
+      "longitude": 22.4881,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "塔尔西",
+      "name_en": "Talsi",
+      "province": "Talsu novads",
+      "latitude": 57.2456,
+      "longitude": 22.5814,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "多贝莱",
+      "name_en": "Dobele",
+      "province": "Dobele Municipality",
+      "latitude": 56.6237,
+      "longitude": 23.2751,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "",
+      "name_en": "Aizpute",
+      "province": "南库尔泽梅市镇",
+      "latitude": 56.7211,
+      "longitude": 21.6016,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "",
+      "name_en": "Čiekurkalns",
+      "province": "Riga",
+      "latitude": 56.9844,
+      "longitude": 24.1726,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "",
+      "name_en": "Karosta",
+      "province": "利耶帕亚",
+      "latitude": 56.5513,
+      "longitude": 21.0129,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "",
+      "name_en": "Ikšķile",
+      "province": "奥格雷市镇",
+      "latitude": 56.834,
+      "longitude": 24.4968,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "卢扎",
+      "name_en": "Ludza",
+      "province": "Ludza Municipality",
+      "latitude": 56.5337,
+      "longitude": 27.7216,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "",
+      "name_en": "Dreiliņi",
+      "province": "Riga",
+      "latitude": 56.9438,
+      "longitude": 24.2425,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "克拉斯拉瓦",
+      "name_en": "Krāslava",
+      "province": "Krāslava Municipality",
+      "latitude": 55.8951,
+      "longitude": 27.168,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "利瓦尼",
+      "name_en": "Līvāni",
+      "province": "利瓦尼市镇",
+      "latitude": 56.3543,
+      "longitude": 26.1758,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "",
+      "name_en": "Baloži",
+      "province": "基耶卡瓦市镇",
+      "latitude": 56.8764,
+      "longitude": 24.1182,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "",
+      "name_en": "Ādaži",
+      "province": "Ādaži",
+      "latitude": 57.0708,
+      "longitude": 24.3368,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "古尔贝内",
+      "name_en": "Gulbene",
+      "province": "古尔贝内市镇",
+      "latitude": 57.1777,
+      "longitude": 26.7529,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "爱兹克劳克雷",
+      "name_en": "Aizkraukle",
+      "province": "Aizkraukle Municipality",
+      "latitude": 56.6048,
+      "longitude": 25.2553,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "",
+      "name_en": "Krustpils",
+      "province": "Jēkabpils Municipality",
+      "latitude": 56.5107,
+      "longitude": 25.8612,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "马多纳",
+      "name_en": "Madona",
+      "province": "Madonas novads",
+      "latitude": 56.8533,
+      "longitude": 26.217,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "林巴日",
+      "name_en": "Limbaži",
+      "province": "Limbaži Municipality",
+      "latitude": 57.5129,
+      "longitude": 24.7194,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "阿卢克斯内",
+      "name_en": "Alūksne",
+      "province": "阿卢克斯内市镇",
+      "latitude": 57.4215,
+      "longitude": 27.0467,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "",
+      "name_en": "Ulbroka",
+      "province": "罗帕日市镇",
+      "latitude": 56.9363,
+      "longitude": 24.3039,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "利耶尔瓦尔代",
+      "name_en": "Lielvārde",
+      "province": "奥格雷市镇",
+      "latitude": 56.7207,
+      "longitude": 24.8074,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "巴尔维",
+      "name_en": "Balvi",
+      "province": "Balvi Municipality",
+      "latitude": 57.1313,
+      "longitude": 27.2658,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "",
+      "name_en": "Ķekava",
+      "province": "基耶卡瓦市镇",
+      "latitude": 56.8266,
+      "longitude": 24.23,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "",
+      "name_en": "Kārsava",
+      "province": "Ludza Municipality",
+      "latitude": 56.7841,
+      "longitude": 27.6883,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "",
+      "name_en": "Smiltene",
+      "province": "Smiltene Municipality",
+      "latitude": 57.4244,
+      "longitude": 25.9016,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "瓦尔卡",
+      "name_en": "Valka",
+      "province": "瓦尔卡市镇",
+      "latitude": 57.7752,
+      "longitude": 26.0101,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "绍尔克拉斯蒂",
+      "name_en": "Saulkrasti",
+      "province": "Saulkrasti Municipality",
+      "latitude": 57.2622,
+      "longitude": 24.4147,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "",
+      "name_en": "Berģi",
+      "province": "Riga",
+      "latitude": 56.9864,
+      "longitude": 24.2992,
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "",
+      "name_en": "Varakļāni",
+      "province": "瓦拉克利亚尼市镇",
+      "latitude": 56.6083,
+      "longitude": 26.7538,
+      "timezone": "Europe/Riga"
+    }
+  ]
+}

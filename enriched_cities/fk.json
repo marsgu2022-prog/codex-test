@@ -1,0 +1,14 @@
+{
+  "country_code": "FK",
+  "country_name": "福克兰群岛（马尔维纳斯）",
+  "cities": [
+    {
+      "name": "斯坦利",
+      "name_en": "Stanley",
+      "province": "",
+      "latitude": -51.6938,
+      "longitude": -57.857,
+      "timezone": "Atlantic/Stanley"
+    }
+  ]
+}

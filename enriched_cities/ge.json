@@ -1,0 +1,446 @@
+{
+  "country_code": "GE",
+  "country_name": "格鲁吉亚",
+  "cities": [
+    {
+      "name": "第比利斯",
+      "name_en": "Tbilisi",
+      "province": "第比利斯",
+      "latitude": 41.6914,
+      "longitude": 44.8341,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "巴统",
+      "name_en": "Batumi",
+      "province": "阿扎尔自治共和国",
+      "latitude": 41.6408,
+      "longitude": 41.6306,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "",
+      "name_en": "Kutaisi",
+      "province": "伊梅列季亚州",
+      "latitude": 42.2679,
+      "longitude": 42.6946,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "",
+      "name_en": "Rustavi",
+      "province": "克维莫-卡特利州",
+      "latitude": 41.5627,
+      "longitude": 44.9787,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "苏呼米",
+      "name_en": "Sokhumi",
+      "province": "阿布哈兹",
+      "latitude": 43.007,
+      "longitude": 40.9893,
+      "timezone": "Europe/Moscow"
+    },
+    {
+      "name": "哥里",
+      "name_en": "Gori",
+      "province": "什达-卡特利州",
+      "latitude": 41.9853,
+      "longitude": 44.1129,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "",
+      "name_en": "Poti",
+      "province": "萨梅格列罗-上斯瓦涅季亚州",
+      "latitude": 42.1427,
+      "longitude": 41.6738,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "",
+      "name_en": "Zugdidi",
+      "province": "萨梅格列罗-上斯瓦涅季亚州",
+      "latitude": 42.5084,
+      "longitude": 41.868,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "",
+      "name_en": "Ts’khinvali",
+      "province": "什达-卡特利州",
+      "latitude": 42.2276,
+      "longitude": 43.9686,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "",
+      "name_en": "Stantsiya Novyy Afon",
+      "province": "阿布哈兹",
+      "latitude": 43.0806,
+      "longitude": 40.8383,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "",
+      "name_en": "Marneuli",
+      "province": "克维莫-卡特利州",
+      "latitude": 41.4876,
+      "longitude": 44.7985,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "哈舒里",
+      "name_en": "Khashuri",
+      "province": "什达-卡特利州",
+      "latitude": 41.9973,
+      "longitude": 43.599,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "",
+      "name_en": "Samtredia",
+      "province": "伊梅列季亚州",
+      "latitude": 42.1537,
+      "longitude": 42.3352,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "",
+      "name_en": "Zestaponi",
+      "province": "伊梅列季亚州",
+      "latitude": 42.1075,
+      "longitude": 43.0329,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "",
+      "name_en": "Telavi",
+      "province": "卡赫季州",
+      "latitude": 41.9196,
+      "longitude": 45.47,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "科布列季",
+      "name_en": "Kobuleti",
+      "province": "阿扎尔自治共和国",
+      "latitude": 41.8328,
+      "longitude": 41.7782,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "阿哈尔齐赫",
+      "name_en": "Akhaltsikhe",
+      "province": "萨姆茨赫-扎瓦赫季州",
+      "latitude": 41.6395,
+      "longitude": 42.986,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "",
+      "name_en": "Senaki",
+      "province": "萨梅格列罗-上斯瓦涅季亚州",
+      "latitude": 42.2708,
+      "longitude": 42.0633,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "奥祖尔盖蒂",
+      "name_en": "Ozurgeti",
+      "province": "古利亚州",
+      "latitude": 41.9234,
+      "longitude": 42.0052,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "加尔达巴尼",
+      "name_en": "Gardabani",
+      "province": "克维莫-卡特利州",
+      "latitude": 41.4597,
+      "longitude": 45.0899,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "卡斯皮",
+      "name_en": "Kaspi",
+      "province": "什达-卡特利州",
+      "latitude": 41.9278,
+      "longitude": 44.4235,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "",
+      "name_en": "Chiatura",
+      "province": "伊梅列季亚州",
+      "latitude": 42.2981,
+      "longitude": 43.2989,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "加格拉",
+      "name_en": "Gagra",
+      "province": "阿布哈兹",
+      "latitude": 43.2786,
+      "longitude": 40.2712,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "博尔若米",
+      "name_en": "Borjomi",
+      "province": "萨姆茨赫-扎瓦赫季州",
+      "latitude": 41.8469,
+      "longitude": 43.3971,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "",
+      "name_en": "Kvareli",
+      "province": "卡赫季州",
+      "latitude": 41.9549,
+      "longitude": 45.8172,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "",
+      "name_en": "Sagarejo",
+      "province": "卡赫季州",
+      "latitude": 41.7369,
+      "longitude": 45.326,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "古多里",
+      "name_en": "Gudauri",
+      "province": "姆茨赫塔-姆季阿涅季州",
+      "latitude": 42.478,
+      "longitude": 44.4762,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "古达乌塔",
+      "name_en": "Gudauta",
+      "province": "阿布哈兹",
+      "latitude": 43.1019,
+      "longitude": 40.6225,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "博尔尼西",
+      "name_en": "Bolnisi",
+      "province": "克维莫-卡特利州",
+      "latitude": 41.4512,
+      "longitude": 44.5384,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "",
+      "name_en": "Tqibuli",
+      "province": "伊梅列季亚州",
+      "latitude": 42.3478,
+      "longitude": 42.9977,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "",
+      "name_en": "Diok’nisi",
+      "province": "阿扎尔自治共和国",
+      "latitude": 41.6293,
+      "longitude": 42.3917,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "霍尼",
+      "name_en": "Khoni",
+      "province": "伊梅列季亚州",
+      "latitude": 42.3254,
+      "longitude": 42.4224,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "",
+      "name_en": "Chakvi",
+      "province": "阿扎尔自治共和国",
+      "latitude": 41.7253,
+      "longitude": 41.7328,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "加利",
+      "name_en": "Gali",
+      "province": "阿布哈兹",
+      "latitude": 42.627,
+      "longitude": 41.7364,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "",
+      "name_en": "Akhalkalaki",
+      "province": "萨姆茨赫-扎瓦赫季州",
+      "latitude": 41.4051,
+      "longitude": 43.4863,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "",
+      "name_en": "Mart’q’opi",
+      "province": "克维莫-卡特利州",
+      "latitude": 41.7873,
+      "longitude": 45.023,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "",
+      "name_en": "Dusheti",
+      "province": "姆茨赫塔-姆季阿涅季州",
+      "latitude": 42.0864,
+      "longitude": 44.695,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "姆茨赫塔",
+      "name_en": "Mtskheta",
+      "province": "姆茨赫塔-姆季阿涅季州",
+      "latitude": 41.8451,
+      "longitude": 44.7188,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "",
+      "name_en": "Sadakhlo",
+      "province": "克维莫-卡特利州",
+      "latitude": 41.2402,
+      "longitude": 44.7891,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "",
+      "name_en": "Gurjaani",
+      "province": "卡赫季州",
+      "latitude": 41.7438,
+      "longitude": 45.8025,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "",
+      "name_en": "Tsqnet’i",
+      "province": "克维莫-卡特利州",
+      "latitude": 41.6947,
+      "longitude": 44.6986,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "",
+      "name_en": "Tsqaltubo",
+      "province": "伊梅列季亚州",
+      "latitude": 42.3286,
+      "longitude": 42.5981,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "苏拉米",
+      "name_en": "Surami",
+      "province": "什达-卡特利州",
+      "latitude": 42.0243,
+      "longitude": 43.5556,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "",
+      "name_en": "Kareli",
+      "province": "什达-卡特利州",
+      "latitude": 42.0215,
+      "longitude": 43.8955,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "",
+      "name_en": "Lanchkhuti",
+      "province": "古利亚州",
+      "latitude": 42.0874,
+      "longitude": 42.0361,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "",
+      "name_en": "Sartich’ala",
+      "province": "克维莫-卡特利州",
+      "latitude": 41.7179,
+      "longitude": 45.1757,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "",
+      "name_en": "Akhmeta",
+      "province": "卡赫季州",
+      "latitude": 42.035,
+      "longitude": 45.208,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "",
+      "name_en": "Lagodekhi",
+      "province": "卡赫季州",
+      "latitude": 41.8275,
+      "longitude": 46.2749,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "",
+      "name_en": "Kazreti",
+      "province": "克维莫-卡特利州",
+      "latitude": 41.3816,
+      "longitude": 44.4197,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "",
+      "name_en": "Dedoplistsqaro",
+      "province": "卡赫季州",
+      "latitude": 41.4657,
+      "longitude": 46.1039,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "",
+      "name_en": "Ochamchire",
+      "province": "阿布哈兹",
+      "latitude": 42.7123,
+      "longitude": 41.4686,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "",
+      "name_en": "Sachkhere",
+      "province": "伊梅列季亚州",
+      "latitude": 42.3359,
+      "longitude": 43.4057,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "",
+      "name_en": "Tqvarch'eli",
+      "province": "阿布哈兹",
+      "latitude": 42.8404,
+      "longitude": 41.6801,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "",
+      "name_en": "Tetritsqaro",
+      "province": "克维莫-卡特利州",
+      "latitude": 41.5438,
+      "longitude": 44.4618,
+      "timezone": "Asia/Tbilisi"
+    },
+    {
+      "name": "安布罗劳里",
+      "name_en": "Ambrolauri",
+      "province": "Racha-Lechkhumi and Kvemo Svaneti",
+      "latitude": 42.5232,
+      "longitude": 43.1498,
+      "timezone": "Asia/Tbilisi"
+    }
+  ]
+}

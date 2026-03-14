@@ -1,0 +1,62 @@
+{
+  "country_code": "AD",
+  "country_name": "安道尔",
+  "cities": [
+    {
+      "name": "安道尔城",
+      "name_en": "Andorra la Vella",
+      "province": "Andorra la Vella",
+      "latitude": 42.5078,
+      "longitude": 1.5211,
+      "timezone": "Europe/Andorra"
+    },
+    {
+      "name": "莱塞斯卡尔德－恩戈尔达",
+      "name_en": "les Escaldes",
+      "province": "埃斯卡尔德斯-恩戈尔达尼",
+      "latitude": 42.5073,
+      "longitude": 1.5341,
+      "timezone": "Europe/Andorra"
+    },
+    {
+      "name": "恩坎普",
+      "name_en": "Encamp",
+      "province": "恩坎普",
+      "latitude": 42.5347,
+      "longitude": 1.5801,
+      "timezone": "Europe/Andorra"
+    },
+    {
+      "name": "圣胡利娅-德洛里亚",
+      "name_en": "Sant Julià de Lòria",
+      "province": "圣胡利娅-德洛里亚",
+      "latitude": 42.4637,
+      "longitude": 1.4913,
+      "timezone": "Europe/Andorra"
+    },
+    {
+      "name": "马萨纳",
+      "name_en": "la Massana",
+      "province": "马萨纳",
+      "latitude": 42.545,
+      "longitude": 1.5148,
+      "timezone": "Europe/Andorra"
+    },
+    {
+      "name": "卡尼略",
+      "name_en": "Canillo",
+      "province": "卡尼略",
+      "latitude": 42.5676,
+      "longitude": 1.5976,
+      "timezone": "Europe/Andorra"
+    },
+    {
+      "name": "奥尔迪诺",
+      "name_en": "Ordino",
+      "province": "奥尔迪诺",
+      "latitude": 42.5562,
+      "longitude": 1.5332,
+      "timezone": "Europe/Andorra"
+    }
+  ]
+}

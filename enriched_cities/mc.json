@@ -1,0 +1,46 @@
+{
+  "country_code": "MC",
+  "country_name": "摩纳哥",
+  "cities": [
+    {
+      "name": "",
+      "name_en": "Monaco",
+      "province": "Municipality of Monaco",
+      "latitude": 43.7372,
+      "longitude": 7.4215,
+      "timezone": "Europe/Monaco"
+    },
+    {
+      "name": "",
+      "name_en": "Monte-Carlo",
+      "province": "Municipality of Monaco",
+      "latitude": 43.7398,
+      "longitude": 7.4273,
+      "timezone": "Europe/Monaco"
+    },
+    {
+      "name": "",
+      "name_en": "La Condamine",
+      "province": "Municipality of Monaco",
+      "latitude": 43.7344,
+      "longitude": 7.4202,
+      "timezone": "Europe/Monaco"
+    },
+    {
+      "name": "",
+      "name_en": "La Rousse",
+      "province": "Municipality of Monaco",
+      "latitude": 43.7475,
+      "longitude": 7.4314,
+      "timezone": "Europe/Monaco"
+    },
+    {
+      "name": "",
+      "name_en": "Jardin Exotique",
+      "province": "Municipality of Monaco",
+      "latitude": 43.7305,
+      "longitude": 7.414,
+      "timezone": "Europe/Monaco"
+    }
+  ]
+}

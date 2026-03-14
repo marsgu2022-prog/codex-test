@@ -1,0 +1,374 @@
+{
+  "country_code": "ZW",
+  "country_name": "津巴布韦",
+  "cities": [
+    {
+      "name": "哈拉雷",
+      "name_en": "Harare",
+      "province": "哈拉雷省",
+      "latitude": -17.8277,
+      "longitude": 31.0534,
+      "timezone": "Africa/Harare"
+    },
+    {
+      "name": "布拉瓦约",
+      "name_en": "Bulawayo",
+      "province": "Bulawayo",
+      "latitude": -20.15,
+      "longitude": 28.5833,
+      "timezone": "Africa/Harare"
+    },
+    {
+      "name": "",
+      "name_en": "Chitungwiza",
+      "province": "哈拉雷省",
+      "latitude": -18.0127,
+      "longitude": 31.0755,
+      "timezone": "Africa/Harare"
+    },
+    {
+      "name": "穆塔雷",
+      "name_en": "Mutare",
+      "province": "马尼卡兰省",
+      "latitude": -18.9707,
+      "longitude": 32.6709,
+      "timezone": "Africa/Harare"
+    },
+    {
+      "name": "",
+      "name_en": "Epworth",
+      "province": "哈拉雷省",
+      "latitude": -17.89,
+      "longitude": 31.1475,
+      "timezone": "Africa/Harare"
+    },
+    {
+      "name": "",
+      "name_en": "Gweru",
+      "province": "中部省",
+      "latitude": -19.45,
+      "longitude": 29.8167,
+      "timezone": "Africa/Harare"
+    },
+    {
+      "name": "奎奎市",
+      "name_en": "Kwekwe",
+      "province": "中部省",
+      "latitude": -18.9281,
+      "longitude": 29.8149,
+      "timezone": "Africa/Harare"
+    },
+    {
+      "name": "卡多马",
+      "name_en": "Kadoma",
+      "province": "西马绍纳兰省",
+      "latitude": -18.3333,
+      "longitude": 29.9153,
+      "timezone": "Africa/Harare"
+    },
+    {
+      "name": "鲁瓦",
+      "name_en": "Ruwa",
+      "province": "东马绍纳兰省",
+      "latitude": -17.8897,
+      "longitude": 31.2447,
+      "timezone": "Africa/Harare"
+    },
+    {
+      "name": "奇诺伊",
+      "name_en": "Chinhoyi",
+      "province": "西马绍纳兰省",
+      "latitude": -17.3667,
+      "longitude": 30.2,
+      "timezone": "Africa/Harare"
+    },
+    {
+      "name": "",
+      "name_en": "Masvingo",
+      "province": "马斯温戈省",
+      "latitude": -20.0637,
+      "longitude": 30.8277,
+      "timezone": "Africa/Harare"
+    },
+    {
+      "name": "",
+      "name_en": "Norton",
+      "province": "西马绍纳兰省",
+      "latitude": -17.8833,
+      "longitude": 30.7,
+      "timezone": "Africa/Harare"
+    },
+    {
+      "name": "",
+      "name_en": "Marondera",
+      "province": "东马绍纳兰省",
+      "latitude": -18.1853,
+      "longitude": 31.5519,
+      "timezone": "Africa/Harare"
+    },
+    {
+      "name": "",
+      "name_en": "Chegutu",
+      "province": "西马绍纳兰省",
+      "latitude": -18.1302,
+      "longitude": 30.1407,
+      "timezone": "Africa/Harare"
+    },
+    {
+      "name": "",
+      "name_en": "Zvishavane",
+      "province": "马斯温戈省",
+      "latitude": -20.3267,
+      "longitude": 30.0665,
+      "timezone": "Africa/Harare"
+    },
+    {
+      "name": "贝特桥",
+      "name_en": "Beitbridge",
+      "province": "南马塔贝莱兰省",
+      "latitude": -22.2167,
+      "longitude": 30.0,
+      "timezone": "Africa/Harare"
+    },
+    {
+      "name": "",
+      "name_en": "Bindura",
+      "province": "中马绍纳兰省",
+      "latitude": -17.3019,
+      "longitude": 31.3306,
+      "timezone": "Africa/Harare"
+    },
+    {
+      "name": "",
+      "name_en": "Redcliff",
+      "province": "中部省",
+      "latitude": -19.0333,
+      "longitude": 29.7833,
+      "timezone": "Africa/Harare"
+    },
+    {
+      "name": "",
+      "name_en": "Chiredzi",
+      "province": "马斯温戈省",
+      "latitude": -21.05,
+      "longitude": 31.6667,
+      "timezone": "Africa/Harare"
+    },
+    {
+      "name": "万基",
+      "name_en": "Hwange",
+      "province": "北马塔贝莱兰省",
+      "latitude": -18.3645,
+      "longitude": 26.4988,
+      "timezone": "Africa/Harare"
+    },
+    {
+      "name": "",
+      "name_en": "Rusape",
+      "province": "马尼卡兰省",
+      "latitude": -18.5279,
+      "longitude": 32.1284,
+      "timezone": "Africa/Harare"
+    },
+    {
+      "name": "卡莱伊",
+      "name_en": "Karoi",
+      "province": "西马绍纳兰省",
+      "latitude": -16.8099,
+      "longitude": 29.6925,
+      "timezone": "Africa/Harare"
+    },
+    {
+      "name": "",
+      "name_en": "Victoria Falls",
+      "province": "北马塔贝莱兰省",
+      "latitude": -17.9328,
+      "longitude": 25.8307,
+      "timezone": "Africa/Harare"
+    },
+    {
+      "name": "",
+      "name_en": "Chipinge",
+      "province": "马尼卡兰省",
+      "latitude": -20.1883,
+      "longitude": 32.6236,
+      "timezone": "Africa/Harare"
+    },
+    {
+      "name": "",
+      "name_en": "Gokwe",
+      "province": "中部省",
+      "latitude": -18.2048,
+      "longitude": 28.9349,
+      "timezone": "Africa/Harare"
+    },
+    {
+      "name": "卡里巴",
+      "name_en": "Kariba",
+      "province": "西马绍纳兰省",
+      "latitude": -16.5167,
+      "longitude": 28.8,
+      "timezone": "Africa/Harare"
+    },
+    {
+      "name": "关达",
+      "name_en": "Gwanda",
+      "province": "南马塔贝莱兰省",
+      "latitude": -20.9362,
+      "longitude": 29.007,
+      "timezone": "Africa/Harare"
+    },
+    {
+      "name": "",
+      "name_en": "Shurugwi",
+      "province": "中部省",
+      "latitude": -19.6702,
+      "longitude": 30.0059,
+      "timezone": "Africa/Harare"
+    },
+    {
+      "name": "",
+      "name_en": "Mvurwi",
+      "province": "中马绍纳兰省",
+      "latitude": -17.0333,
+      "longitude": 30.85,
+      "timezone": "Africa/Harare"
+    },
+    {
+      "name": "",
+      "name_en": "Harare Western Suburbs",
+      "province": "西马绍纳兰省",
+      "latitude": -17.8415,
+      "longitude": 30.8767,
+      "timezone": "Africa/Harare"
+    },
+    {
+      "name": "",
+      "name_en": "Plumtree",
+      "province": "南马塔贝莱兰省",
+      "latitude": -20.4833,
+      "longitude": 27.8167,
+      "timezone": "Africa/Harare"
+    },
+    {
+      "name": "",
+      "name_en": "Mashava",
+      "province": "马斯温戈省",
+      "latitude": -20.0367,
+      "longitude": 30.4823,
+      "timezone": "Africa/Harare"
+    },
+    {
+      "name": "",
+      "name_en": "Chivhu",
+      "province": "东马绍纳兰省",
+      "latitude": -19.0211,
+      "longitude": 30.8922,
+      "timezone": "Africa/Harare"
+    },
+    {
+      "name": "",
+      "name_en": "Mutoko",
+      "province": "东马绍纳兰省",
+      "latitude": -17.397,
+      "longitude": 32.2268,
+      "timezone": "Africa/Harare"
+    },
+    {
+      "name": "",
+      "name_en": "Murewa",
+      "province": "东马绍纳兰省",
+      "latitude": -17.6432,
+      "longitude": 31.784,
+      "timezone": "Africa/Harare"
+    },
+    {
+      "name": "",
+      "name_en": "Shamva",
+      "province": "中马绍纳兰省",
+      "latitude": -17.3116,
+      "longitude": 31.5756,
+      "timezone": "Africa/Harare"
+    },
+    {
+      "name": "",
+      "name_en": "Mazowe",
+      "province": "中马绍纳兰省",
+      "latitude": -17.504,
+      "longitude": 30.9739,
+      "timezone": "Africa/Harare"
+    },
+    {
+      "name": "",
+      "name_en": "Banket",
+      "province": "西马绍纳兰省",
+      "latitude": -17.3833,
+      "longitude": 30.4,
+      "timezone": "Africa/Harare"
+    },
+    {
+      "name": "",
+      "name_en": "Glendale",
+      "province": "中马绍纳兰省",
+      "latitude": -17.3551,
+      "longitude": 31.0672,
+      "timezone": "Africa/Harare"
+    },
+    {
+      "name": "",
+      "name_en": "Mount Hampden",
+      "province": "东马绍纳兰省",
+      "latitude": -17.7417,
+      "longitude": 30.9389,
+      "timezone": "Africa/Harare"
+    },
+    {
+      "name": "",
+      "name_en": "Inyati",
+      "province": "北马塔贝莱兰省",
+      "latitude": -19.6756,
+      "longitude": 28.8469,
+      "timezone": "Africa/Harare"
+    },
+    {
+      "name": "",
+      "name_en": "Penhalonga",
+      "province": "马尼卡兰省",
+      "latitude": -18.8911,
+      "longitude": 32.6978,
+      "timezone": "Africa/Harare"
+    },
+    {
+      "name": "",
+      "name_en": "Mhangura",
+      "province": "西马绍纳兰省",
+      "latitude": -16.8939,
+      "longitude": 30.1683,
+      "timezone": "Africa/Harare"
+    },
+    {
+      "name": "",
+      "name_en": "Chakari",
+      "province": "西马绍纳兰省",
+      "latitude": -18.0629,
+      "longitude": 29.8925,
+      "timezone": "Africa/Harare"
+    },
+    {
+      "name": "",
+      "name_en": "Mount Darwin",
+      "province": "中马绍纳兰省",
+      "latitude": -16.7725,
+      "longitude": 31.5838,
+      "timezone": "Africa/Harare"
+    },
+    {
+      "name": "",
+      "name_en": "Lupane",
+      "province": "北马塔贝莱兰省",
+      "latitude": -18.9315,
+      "longitude": 27.807,
+      "timezone": "Africa/Harare"
+    }
+  ]
+}

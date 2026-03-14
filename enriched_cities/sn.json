@@ -1,0 +1,950 @@
+{
+  "country_code": "SN",
+  "country_name": "塞内加尔",
+  "cities": [
+    {
+      "name": "达喀尔",
+      "name_en": "Dakar",
+      "province": "达喀尔区",
+      "latitude": 14.6937,
+      "longitude": -17.4441,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "图巴",
+      "name_en": "Touba",
+      "province": "久尔贝勒区",
+      "latitude": 14.8623,
+      "longitude": -15.8753,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "皮金",
+      "name_en": "Pikine",
+      "province": "达喀尔区",
+      "latitude": 14.7646,
+      "longitude": -17.3907,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Guédiawaye",
+      "province": "达喀尔区",
+      "latitude": 14.7745,
+      "longitude": -17.4021,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Thiès",
+      "province": "Thiès",
+      "latitude": 14.7894,
+      "longitude": -16.926,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Kaolack",
+      "province": "考拉克区",
+      "latitude": 14.152,
+      "longitude": -16.0726,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "吕菲斯克",
+      "name_en": "Rufisque",
+      "province": "达喀尔区",
+      "latitude": 14.7154,
+      "longitude": -17.2733,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Mbour",
+      "province": "Thiès",
+      "latitude": 14.422,
+      "longitude": -16.9638,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "圣路易",
+      "name_en": "Saint-Louis",
+      "province": "圣路易区",
+      "latitude": 16.0179,
+      "longitude": -16.4896,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Thiès Nones",
+      "province": "Thiès",
+      "latitude": 14.7833,
+      "longitude": -16.9667,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Rufisque est",
+      "province": "达喀尔区",
+      "latitude": 14.7162,
+      "longitude": -17.2728,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "济金绍尔",
+      "name_en": "Ziguinchor",
+      "province": "济金绍尔区",
+      "latitude": 12.568,
+      "longitude": -16.2733,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "久尔贝勒",
+      "name_en": "Diourbel",
+      "province": "久尔贝勒区",
+      "latitude": 14.6479,
+      "longitude": -16.2436,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "坦巴昆达",
+      "name_en": "Tambacounda",
+      "province": "坦巴昆达区",
+      "latitude": 13.7707,
+      "longitude": -13.6673,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Louga",
+      "province": "卢加区",
+      "latitude": 15.6187,
+      "longitude": -16.2244,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Kolda",
+      "province": "科尔达区",
+      "latitude": 12.8939,
+      "longitude": -14.9413,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Tivaouane",
+      "province": "Thiès",
+      "latitude": 14.9519,
+      "longitude": -16.8152,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "姆巴凯",
+      "name_en": "Mbaké",
+      "province": "久尔贝勒区",
+      "latitude": 14.7903,
+      "longitude": -15.908,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Tiébo",
+      "province": "久尔贝勒区",
+      "latitude": 14.6333,
+      "longitude": -16.2333,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Keur Médoune",
+      "province": "久尔贝勒区",
+      "latitude": 14.7584,
+      "longitude": -15.9043,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Richard-Toll",
+      "province": "圣路易区",
+      "latitude": 16.4625,
+      "longitude": -15.7008,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Dougnane",
+      "province": "Thiès",
+      "latitude": 14.9586,
+      "longitude": -16.87,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "巴尔尼",
+      "name_en": "Bargny",
+      "province": "达喀尔区",
+      "latitude": 14.6971,
+      "longitude": -17.2301,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Kaffrine",
+      "province": "卡夫林区",
+      "latitude": 14.1059,
+      "longitude": -15.5508,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Bargny Guèdj",
+      "province": "达喀尔区",
+      "latitude": 14.687,
+      "longitude": -17.2281,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Bargny Ngoude",
+      "province": "达喀尔区",
+      "latitude": 14.6941,
+      "longitude": -17.2353,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Nguékhokh",
+      "province": "Thiès",
+      "latitude": 14.5125,
+      "longitude": -17.0045,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "迪安尼究",
+      "name_en": "Diamniadio",
+      "province": "达喀尔区",
+      "latitude": 14.7205,
+      "longitude": -17.1816,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Joal",
+      "province": "Thiès",
+      "latitude": 14.1731,
+      "longitude": -16.8493,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "达拉",
+      "name_en": "Dara",
+      "province": "卢加区",
+      "latitude": 15.3484,
+      "longitude": -15.4799,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Vélingara",
+      "province": "科尔达区",
+      "latitude": 13.15,
+      "longitude": -14.1167,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Sébikhotane",
+      "province": "达喀尔区",
+      "latitude": 14.7452,
+      "longitude": -17.1378,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Sali",
+      "province": "Thiès",
+      "latitude": 14.4411,
+      "longitude": -17.0194,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Jaxaay Parcelle Niakoul Rap",
+      "province": "达喀尔区",
+      "latitude": 14.7747,
+      "longitude": -17.2802,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Niakoul Rab",
+      "province": "达喀尔区",
+      "latitude": 14.7842,
+      "longitude": -17.2736,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Mboro",
+      "province": "Thiès",
+      "latitude": 15.1405,
+      "longitude": -16.8868,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Fatick",
+      "province": "法蒂克区",
+      "latitude": 14.3324,
+      "longitude": -16.4051,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Bambey",
+      "province": "久尔贝勒区",
+      "latitude": 14.7007,
+      "longitude": -16.4591,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Médina Gounas",
+      "province": "科尔达区",
+      "latitude": 13.1361,
+      "longitude": -13.7557,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "N’diareme limamoulaye",
+      "province": "达喀尔区",
+      "latitude": 14.7815,
+      "longitude": -17.3841,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Le Plateau",
+      "province": "达喀尔区",
+      "latitude": 14.6622,
+      "longitude": -17.4397,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Ndibène Dahra",
+      "province": "卢加区",
+      "latitude": 15.3338,
+      "longitude": -15.4766,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Sédhiou",
+      "province": "塞久区",
+      "latitude": 12.7081,
+      "longitude": -15.5569,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Koungheul",
+      "province": "卡夫林区",
+      "latitude": 13.9833,
+      "longitude": -14.8,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Kédougou",
+      "province": "Kédougou",
+      "latitude": 12.5556,
+      "longitude": -12.1808,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Bignona",
+      "province": "济金绍尔区",
+      "latitude": 12.8103,
+      "longitude": -16.2264,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Matam",
+      "province": "马塔姆区",
+      "latitude": 15.6559,
+      "longitude": -13.2554,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Mékhé",
+      "province": "Thiès",
+      "latitude": 15.1097,
+      "longitude": -16.6218,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Ouro Sogui",
+      "province": "马塔姆区",
+      "latitude": 15.6059,
+      "longitude": -13.3223,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Kahone",
+      "province": "考拉克区",
+      "latitude": 14.1584,
+      "longitude": -16.0357,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Diaoubé",
+      "province": "科尔达区",
+      "latitude": 12.9167,
+      "longitude": -14.1667,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Poukham Un",
+      "province": "法蒂克区",
+      "latitude": 14.3575,
+      "longitude": -16.4123,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Pout",
+      "province": "Thiès",
+      "latitude": 14.771,
+      "longitude": -17.0611,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Kayar",
+      "province": "Thiès",
+      "latitude": 14.9189,
+      "longitude": -17.1198,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Dagana",
+      "province": "圣路易区",
+      "latitude": 16.4767,
+      "longitude": -15.6,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Koungneul Sossé",
+      "province": "卡夫林区",
+      "latitude": 13.9667,
+      "longitude": -14.8167,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Nioro du Rip",
+      "province": "考拉克区",
+      "latitude": 13.75,
+      "longitude": -15.8,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "京吉内奥",
+      "name_en": "Guinguinéo",
+      "province": "考拉克区",
+      "latitude": 14.2695,
+      "longitude": -15.9451,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Khombole",
+      "province": "Thiès",
+      "latitude": 14.7636,
+      "longitude": -16.6916,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Ndioum",
+      "province": "圣路易区",
+      "latitude": 16.5129,
+      "longitude": -14.6471,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Thiadiaye",
+      "province": "Thiès",
+      "latitude": 14.4204,
+      "longitude": -16.7026,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "凯贝梅尔",
+      "name_en": "Kébémer",
+      "province": "卢加区",
+      "latitude": 15.365,
+      "longitude": -16.4339,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Linguère",
+      "province": "卢加区",
+      "latitude": 15.3953,
+      "longitude": -15.1193,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Gandiaye",
+      "province": "考拉克区",
+      "latitude": 14.2436,
+      "longitude": -16.2723,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "古东普",
+      "name_en": "Goudomp",
+      "province": "塞久区",
+      "latitude": 12.5778,
+      "longitude": -15.8722,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "昆彭图姆",
+      "name_en": "Koumpentoum",
+      "province": "坦巴昆达区",
+      "latitude": 13.9833,
+      "longitude": -14.5667,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Gossas Village",
+      "province": "法蒂克区",
+      "latitude": 14.4841,
+      "longitude": -16.1138,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Kbombole",
+      "province": "Thiès",
+      "latitude": 14.7636,
+      "longitude": -16.6916,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Kanel",
+      "province": "马塔姆区",
+      "latitude": 15.4916,
+      "longitude": -13.1763,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Thilogne",
+      "province": "马塔姆区",
+      "latitude": 15.9239,
+      "longitude": -13.6578,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Mermoz Boabab",
+      "province": "达喀尔区",
+      "latitude": 14.7065,
+      "longitude": -17.4758,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Sokone",
+      "province": "法蒂克区",
+      "latitude": 13.8833,
+      "longitude": -16.3667,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Karang",
+      "province": "法蒂克区",
+      "latitude": 13.6078,
+      "longitude": -16.4269,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Nganda",
+      "province": "卡夫林区",
+      "latitude": 13.8333,
+      "longitude": -15.4167,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Sintiou Bamambé",
+      "province": "马塔姆区",
+      "latitude": 15.3674,
+      "longitude": -13.1347,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Kidira",
+      "province": "坦巴昆达区",
+      "latitude": 14.4567,
+      "longitude": -12.2166,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "巴克尔",
+      "name_en": "Bakel",
+      "province": "坦巴昆达区",
+      "latitude": 14.9024,
+      "longitude": -12.4594,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Ndofane",
+      "province": "考拉克区",
+      "latitude": 13.9167,
+      "longitude": -15.9333,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Passi",
+      "province": "法蒂克区",
+      "latitude": 13.9833,
+      "longitude": -16.2667,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Madina Wandifa",
+      "province": "塞久区",
+      "latitude": 13.0579,
+      "longitude": -15.6432,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Sangalkam",
+      "province": "达喀尔区",
+      "latitude": 14.7802,
+      "longitude": -17.2276,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Podor",
+      "province": "圣路易区",
+      "latitude": 16.6489,
+      "longitude": -14.9607,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Ross-Bétio",
+      "province": "圣路易区",
+      "latitude": 16.2733,
+      "longitude": -16.1378,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Diofior",
+      "province": "法蒂克区",
+      "latitude": 14.1899,
+      "longitude": -16.6609,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Kounkané",
+      "province": "科尔达区",
+      "latitude": 12.9333,
+      "longitude": -14.0833,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Keur Madiabel",
+      "province": "考拉克区",
+      "latitude": 13.85,
+      "longitude": -16.0667,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Nguidjlone",
+      "province": "马塔姆区",
+      "latitude": 15.9405,
+      "longitude": -13.3514,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Tilogne Tokossel",
+      "province": "马塔姆区",
+      "latitude": 15.9667,
+      "longitude": -13.6,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Amady Ounaré",
+      "province": "马塔姆区",
+      "latitude": 15.3471,
+      "longitude": -13.0165,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Rosso",
+      "province": "圣路易区",
+      "latitude": 16.4203,
+      "longitude": -15.7983,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Marsassoum",
+      "province": "科尔达区",
+      "latitude": 12.8275,
+      "longitude": -15.9806,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Ngaparou",
+      "province": "Thiès",
+      "latitude": 14.4642,
+      "longitude": -17.0562,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Haïré Lao",
+      "province": "圣路易区",
+      "latitude": 16.397,
+      "longitude": -14.322,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Poponguine",
+      "province": "Thiès",
+      "latitude": 14.5573,
+      "longitude": -17.114,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Tionk Essil",
+      "province": "济金绍尔区",
+      "latitude": 12.7856,
+      "longitude": -16.5217,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Sibassor",
+      "province": "考拉克区",
+      "latitude": 14.1865,
+      "longitude": -16.1595,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Pal",
+      "province": "圣路易区",
+      "latitude": 15.9139,
+      "longitude": -16.2599,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Guéoul",
+      "province": "卢加区",
+      "latitude": 15.4833,
+      "longitude": -16.35,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Malèm Hodar",
+      "province": "卡夫林区",
+      "latitude": 14.0887,
+      "longitude": -15.292,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Waoundé",
+      "province": "马塔姆区",
+      "latitude": 15.2637,
+      "longitude": -12.8682,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Diawara",
+      "province": "马塔姆区",
+      "latitude": 15.022,
+      "longitude": -12.5437,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Ndiagne",
+      "province": "卢加区",
+      "latitude": 15.4094,
+      "longitude": -16.0707,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Ndiamakouta",
+      "province": "塞久区",
+      "latitude": 13.3167,
+      "longitude": -15.6333,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Gaé",
+      "province": "圣路易区",
+      "latitude": 16.5667,
+      "longitude": -15.45,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Birkelane",
+      "province": "卡夫林区",
+      "latitude": 14.1293,
+      "longitude": -15.7441,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Sémé",
+      "province": "马塔姆区",
+      "latitude": 15.1942,
+      "longitude": -12.9448,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "古迪里",
+      "name_en": "Goudiry",
+      "province": "坦巴昆达区",
+      "latitude": 14.1815,
+      "longitude": -12.718,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Foundiougne",
+      "province": "法蒂克区",
+      "latitude": 14.1227,
+      "longitude": -16.4692,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "本基灵",
+      "name_en": "Bounkiling",
+      "province": "塞久区",
+      "latitude": 13.05,
+      "longitude": -15.7,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Goléré",
+      "province": "圣路易区",
+      "latitude": 16.2557,
+      "longitude": -14.1016,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Dabo",
+      "province": "科尔达区",
+      "latitude": 12.8833,
+      "longitude": -14.4833,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Odobéré",
+      "province": "马塔姆区",
+      "latitude": 15.5614,
+      "longitude": -13.0986,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Diouloulou",
+      "province": "济金绍尔区",
+      "latitude": 13.05,
+      "longitude": -16.6,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Guédé",
+      "province": "圣路易区",
+      "latitude": 16.5384,
+      "longitude": -14.8041,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Somone",
+      "province": "Thiès",
+      "latitude": 14.4865,
+      "longitude": -17.0752,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Dembankané",
+      "province": "马塔姆区",
+      "latitude": 15.0889,
+      "longitude": -12.6998,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Galoya Toucouleur",
+      "province": "圣路易区",
+      "latitude": 16.074,
+      "longitude": -13.8589,
+      "timezone": "Africa/Dakar"
+    },
+    {
+      "name": "",
+      "name_en": "Soum",
+      "province": "法蒂克区",
+      "latitude": 14.0818,
+      "longitude": -16.4813,
+      "timezone": "Africa/Dakar"
+    }
+  ]
+}

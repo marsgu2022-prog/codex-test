@@ -1,0 +1,182 @@
+{
+  "country_code": "TT",
+  "country_name": "特立尼达和多巴哥",
+  "cities": [
+    {
+      "name": "",
+      "name_en": "Chaguanas",
+      "province": "Chaguanas",
+      "latitude": 10.5167,
+      "longitude": -61.4167,
+      "timezone": "America/Port_of_Spain"
+    },
+    {
+      "name": "",
+      "name_en": "Mon Repos",
+      "province": "San Fernando",
+      "latitude": 10.2798,
+      "longitude": -61.4459,
+      "timezone": "America/Port_of_Spain"
+    },
+    {
+      "name": "",
+      "name_en": "San Fernando",
+      "province": "San Fernando",
+      "latitude": 10.2797,
+      "longitude": -61.4684,
+      "timezone": "America/Port_of_Spain"
+    },
+    {
+      "name": "西班牙港",
+      "name_en": "Port of Spain",
+      "province": "Port of Spain",
+      "latitude": 10.6667,
+      "longitude": -61.5189,
+      "timezone": "America/Port_of_Spain"
+    },
+    {
+      "name": "",
+      "name_en": "Rio Claro",
+      "province": "Mayaro",
+      "latitude": 10.3059,
+      "longitude": -61.1756,
+      "timezone": "America/Port_of_Spain"
+    },
+    {
+      "name": "",
+      "name_en": "Arima",
+      "province": "阿里马",
+      "latitude": 10.6374,
+      "longitude": -61.2823,
+      "timezone": "America/Port_of_Spain"
+    },
+    {
+      "name": "马拉贝拉",
+      "name_en": "Marabella",
+      "province": "San Fernando",
+      "latitude": 10.3062,
+      "longitude": -61.4467,
+      "timezone": "America/Port_of_Spain"
+    },
+    {
+      "name": "",
+      "name_en": "Diego Martin",
+      "province": "迭戈马丁地区",
+      "latitude": 10.7208,
+      "longitude": -61.5662,
+      "timezone": "America/Port_of_Spain"
+    },
+    {
+      "name": "",
+      "name_en": "Laventille",
+      "province": "San Juan/Laventille",
+      "latitude": 10.6492,
+      "longitude": -61.4989,
+      "timezone": "America/Port_of_Spain"
+    },
+    {
+      "name": "",
+      "name_en": "Point Fortin",
+      "province": "Point Fortin",
+      "latitude": 10.1741,
+      "longitude": -61.6841,
+      "timezone": "America/Port_of_Spain"
+    },
+    {
+      "name": "",
+      "name_en": "Tunapuna",
+      "province": "Tunapuna/Piarco",
+      "latitude": 10.6524,
+      "longitude": -61.3888,
+      "timezone": "America/Port_of_Spain"
+    },
+    {
+      "name": "",
+      "name_en": "Scarborough",
+      "province": "Tobago",
+      "latitude": 11.1823,
+      "longitude": -60.7353,
+      "timezone": "America/Port_of_Spain"
+    },
+    {
+      "name": "",
+      "name_en": "Sangre Grande",
+      "province": "大桑格雷地区",
+      "latitude": 10.587,
+      "longitude": -61.1301,
+      "timezone": "America/Port_of_Spain"
+    },
+    {
+      "name": "",
+      "name_en": "Paradise",
+      "province": "Tunapuna/Piarco",
+      "latitude": 10.653,
+      "longitude": -61.363,
+      "timezone": "America/Port_of_Spain"
+    },
+    {
+      "name": "",
+      "name_en": "Peñal",
+      "province": "Penal/Debe",
+      "latitude": 10.1667,
+      "longitude": -61.4667,
+      "timezone": "America/Port_of_Spain"
+    },
+    {
+      "name": "",
+      "name_en": "Arouca",
+      "province": "Tunapuna/Piarco",
+      "latitude": 10.6288,
+      "longitude": -61.3349,
+      "timezone": "America/Port_of_Spain"
+    },
+    {
+      "name": "",
+      "name_en": "Princes Town",
+      "province": "王子镇地区",
+      "latitude": 10.2718,
+      "longitude": -61.371,
+      "timezone": "America/Port_of_Spain"
+    },
+    {
+      "name": "",
+      "name_en": "Gasparillo",
+      "province": "库瓦-塔瓦基特-塔尔帕罗地区",
+      "latitude": 10.317,
+      "longitude": -61.426,
+      "timezone": "America/Port_of_Spain"
+    },
+    {
+      "name": "",
+      "name_en": "Siparia",
+      "province": "锡帕里亚郡",
+      "latitude": 10.1453,
+      "longitude": -61.5074,
+      "timezone": "America/Port_of_Spain"
+    },
+    {
+      "name": "",
+      "name_en": "Petit Valley",
+      "province": "迭戈马丁地区",
+      "latitude": 10.6997,
+      "longitude": -61.5472,
+      "timezone": "America/Port_of_Spain"
+    },
+    {
+      "name": "",
+      "name_en": "Claxton Bay",
+      "province": "库瓦-塔瓦基特-塔尔帕罗地区",
+      "latitude": 10.3664,
+      "longitude": -61.4599,
+      "timezone": "America/Port_of_Spain"
+    },
+    {
+      "name": "",
+      "name_en": "Couva",
+      "province": "库瓦-塔瓦基特-塔尔帕罗地区",
+      "latitude": 10.4225,
+      "longitude": -61.4675,
+      "timezone": "America/Port_of_Spain"
+    }
+  ]
+}

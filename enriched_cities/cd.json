@@ -1,0 +1,942 @@
+{
+  "country_code": "CD",
+  "country_name": "扎伊尔",
+  "cities": [
+    {
+      "name": "金夏沙",
+      "name_en": "Kinshasa",
+      "province": "Kinshasa",
+      "latitude": -4.3276,
+      "longitude": 15.3136,
+      "timezone": "Africa/Kinshasa"
+    },
+    {
+      "name": "卢本巴希",
+      "name_en": "Lubumbashi",
+      "province": "上加丹加省",
+      "latitude": -11.6609,
+      "longitude": 27.4794,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "姆布吉马伊",
+      "name_en": "Mbuji-Mayi",
+      "province": "东开赛省",
+      "latitude": -6.136,
+      "longitude": 23.5898,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "卡南加",
+      "name_en": "Kananga",
+      "province": "卢卢阿省",
+      "latitude": -5.8962,
+      "longitude": 22.4166,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "基桑加尼",
+      "name_en": "Kisangani",
+      "province": "乔波省",
+      "latitude": 0.5153,
+      "longitude": 25.191,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Bukavu",
+      "province": "南基伍省",
+      "latitude": -2.4908,
+      "longitude": 28.8428,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Kolwezi",
+      "province": "Lualaba",
+      "latitude": -10.7148,
+      "longitude": 25.4667,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "利卡西",
+      "name_en": "Likasi",
+      "province": "上加丹加省",
+      "latitude": -10.983,
+      "longitude": 26.7384,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "奇卡帕",
+      "name_en": "Tshikapa",
+      "province": "Kasai",
+      "latitude": -6.4162,
+      "longitude": 20.7999,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "基奎特",
+      "name_en": "Kikwit",
+      "province": "奎卢省",
+      "latitude": -5.041,
+      "longitude": 18.8162,
+      "timezone": "Africa/Kinshasa"
+    },
+    {
+      "name": "",
+      "name_en": "Masina",
+      "province": "Kinshasa",
+      "latitude": -4.3836,
+      "longitude": 15.3914,
+      "timezone": "Africa/Kinshasa"
+    },
+    {
+      "name": "姆班达卡",
+      "name_en": "Mbandaka",
+      "province": "赤道省",
+      "latitude": 0.0486,
+      "longitude": 18.2603,
+      "timezone": "Africa/Kinshasa"
+    },
+    {
+      "name": "戈马",
+      "name_en": "Goma",
+      "province": "北基伍省",
+      "latitude": -1.6741,
+      "longitude": 29.2284,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "马塔迪",
+      "name_en": "Matadi",
+      "province": "Bas-Congo",
+      "latitude": -5.8386,
+      "longitude": 13.4631,
+      "timezone": "Africa/Kinshasa"
+    },
+    {
+      "name": "",
+      "name_en": "Uvira",
+      "province": "南基伍省",
+      "latitude": -3.3953,
+      "longitude": 29.1378,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "布尼亚",
+      "name_en": "Bunia",
+      "province": "伊图里省",
+      "latitude": 1.5594,
+      "longitude": 30.2522,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "博马",
+      "name_en": "Boma",
+      "province": "Bas-Congo",
+      "latitude": -5.851,
+      "longitude": 13.0536,
+      "timezone": "Africa/Kinshasa"
+    },
+    {
+      "name": "",
+      "name_en": "Mwene",
+      "province": "Lualaba",
+      "latitude": -9.817,
+      "longitude": 22.8702,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Butembo",
+      "province": "北基伍省",
+      "latitude": 0.1416,
+      "longitude": 29.2912,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Isiro",
+      "province": "上韦莱省",
+      "latitude": 2.7739,
+      "longitude": 27.616,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "金杜",
+      "name_en": "Kindu",
+      "province": "马涅马省",
+      "latitude": -2.9437,
+      "longitude": 25.9224,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "卡宾达",
+      "name_en": "Kabinda",
+      "province": "Lomami",
+      "latitude": -6.1379,
+      "longitude": 24.4818,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Gandajika",
+      "province": "Lomami",
+      "latitude": -6.745,
+      "longitude": 23.9533,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "班顿杜省",
+      "name_en": "Bandundu Province",
+      "province": "奎卢省",
+      "latitude": -3.3169,
+      "longitude": 17.3806,
+      "timezone": "Africa/Kinshasa"
+    },
+    {
+      "name": "",
+      "name_en": "Kamina",
+      "province": "Haut-Lomami",
+      "latitude": -8.7351,
+      "longitude": 24.998,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Gemena",
+      "province": "Sud-Ubangi",
+      "latitude": 3.2565,
+      "longitude": 19.7723,
+      "timezone": "Africa/Kinshasa"
+    },
+    {
+      "name": "",
+      "name_en": "Mwene-Ditu",
+      "province": "Lomami",
+      "latitude": -7.0091,
+      "longitude": 23.4528,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "基普希",
+      "name_en": "Kipushi",
+      "province": "上加丹加省",
+      "latitude": -11.761,
+      "longitude": 27.2513,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "卡莱米",
+      "name_en": "Kalemie",
+      "province": "坦噶尼喀省",
+      "latitude": -5.9475,
+      "longitude": 29.1947,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "奔巴",
+      "name_en": "Bumba",
+      "province": "蒙加拉省",
+      "latitude": 2.1877,
+      "longitude": 22.4683,
+      "timezone": "Africa/Kinshasa"
+    },
+    {
+      "name": "",
+      "name_en": "Mbanza-Ngungu",
+      "province": "Bas-Congo",
+      "latitude": -5.2584,
+      "longitude": 14.8584,
+      "timezone": "Africa/Kinshasa"
+    },
+    {
+      "name": "",
+      "name_en": "Beni",
+      "province": "北基伍省",
+      "latitude": 0.4911,
+      "longitude": 29.4731,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Moanda",
+      "province": "Bas-Congo",
+      "latitude": -5.9275,
+      "longitude": 12.3715,
+      "timezone": "Africa/Kinshasa"
+    },
+    {
+      "name": "",
+      "name_en": "Lisala",
+      "province": "蒙加拉省",
+      "latitude": 2.1513,
+      "longitude": 21.5167,
+      "timezone": "Africa/Kinshasa"
+    },
+    {
+      "name": "",
+      "name_en": "Ilebo",
+      "province": "Kasai",
+      "latitude": -4.3311,
+      "longitude": 20.5864,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Tshilenge",
+      "province": "Lualaba",
+      "latitude": -10.9667,
+      "longitude": 22.9,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Inkisi",
+      "province": "Bas-Congo",
+      "latitude": -5.1312,
+      "longitude": 15.0541,
+      "timezone": "Africa/Kinshasa"
+    },
+    {
+      "name": "",
+      "name_en": "Bukama",
+      "province": "Haut-Lomami",
+      "latitude": -9.2044,
+      "longitude": 25.8547,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Bakwa",
+      "province": "上韦莱省",
+      "latitude": 4.1263,
+      "longitude": 27.3953,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Kambove",
+      "province": "上加丹加省",
+      "latitude": -10.8735,
+      "longitude": 26.5975,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Binga",
+      "province": "蒙加拉省",
+      "latitude": 2.3735,
+      "longitude": 20.4977,
+      "timezone": "Africa/Kinshasa"
+    },
+    {
+      "name": "",
+      "name_en": "Lodja",
+      "province": "桑库鲁省",
+      "latitude": -3.521,
+      "longitude": 23.6005,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Katwa",
+      "province": "北基伍省",
+      "latitude": 0.0893,
+      "longitude": 29.3086,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Mulongo",
+      "province": "Haut-Lomami",
+      "latitude": -7.8349,
+      "longitude": 26.9985,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Idiofa",
+      "province": "奎卢省",
+      "latitude": -4.9659,
+      "longitude": 19.5915,
+      "timezone": "Africa/Kinshasa"
+    },
+    {
+      "name": "",
+      "name_en": "Kongolo",
+      "province": "坦噶尼喀省",
+      "latitude": -5.3853,
+      "longitude": 27.0003,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "鲁丘鲁",
+      "name_en": "Rutshuru",
+      "province": "北基伍省",
+      "latitude": -1.1867,
+      "longitude": 29.4467,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Manono",
+      "province": "坦噶尼喀省",
+      "latitude": -7.2986,
+      "longitude": 27.3989,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Babamba",
+      "province": "乔波省",
+      "latitude": 0.1833,
+      "longitude": 27.4833,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Kasongo",
+      "province": "马涅马省",
+      "latitude": -4.4274,
+      "longitude": 26.6666,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Bulungu",
+      "province": "奎卢省",
+      "latitude": -4.5444,
+      "longitude": 18.6036,
+      "timezone": "Africa/Kinshasa"
+    },
+    {
+      "name": "",
+      "name_en": "Mweka",
+      "province": "Kasai",
+      "latitude": -4.8519,
+      "longitude": 21.5595,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Kabalo",
+      "province": "坦噶尼喀省",
+      "latitude": -6.0526,
+      "longitude": 26.9143,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Baudhuinville",
+      "province": "坦噶尼喀省",
+      "latitude": -7.0841,
+      "longitude": 29.7368,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Buta",
+      "province": "下韦莱省",
+      "latitude": 2.7858,
+      "longitude": 24.73,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Kanyama",
+      "province": "Haut-Lomami",
+      "latitude": -7.5167,
+      "longitude": 24.174,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Miabi",
+      "province": "东开赛省",
+      "latitude": -6.2215,
+      "longitude": 23.3925,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Bolenge",
+      "province": "赤道省",
+      "latitude": 0.0,
+      "longitude": 18.2167,
+      "timezone": "Africa/Kinshasa"
+    },
+    {
+      "name": "",
+      "name_en": "Kimpese",
+      "province": "Bas-Congo",
+      "latitude": -5.5615,
+      "longitude": 14.4316,
+      "timezone": "Africa/Kinshasa"
+    },
+    {
+      "name": "",
+      "name_en": "Basoko",
+      "province": "乔波省",
+      "latitude": 1.2391,
+      "longitude": 23.616,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Hyosha",
+      "province": "北基伍省",
+      "latitude": 0.6978,
+      "longitude": 29.5186,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Gbadolite",
+      "province": "Nord-Ubangi",
+      "latitude": 4.279,
+      "longitude": 21.0028,
+      "timezone": "Africa/Kinshasa"
+    },
+    {
+      "name": "",
+      "name_en": "Kalima",
+      "province": "坦噶尼喀省",
+      "latitude": -5.4854,
+      "longitude": 28.216,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Inongo",
+      "province": "马伊恩东贝省",
+      "latitude": -1.9275,
+      "longitude": 18.2881,
+      "timezone": "Africa/Kinshasa"
+    },
+    {
+      "name": "",
+      "name_en": "Kituku",
+      "province": "坦噶尼喀省",
+      "latitude": -7.5816,
+      "longitude": 30.206,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Tshela",
+      "province": "Bas-Congo",
+      "latitude": -4.9971,
+      "longitude": 12.9484,
+      "timezone": "Africa/Kinshasa"
+    },
+    {
+      "name": "",
+      "name_en": "Mangai",
+      "province": "奎卢省",
+      "latitude": -4.0233,
+      "longitude": 19.5339,
+      "timezone": "Africa/Kinshasa"
+    },
+    {
+      "name": "",
+      "name_en": "Kenge",
+      "province": "Bas-Congo",
+      "latitude": -5.7652,
+      "longitude": 13.6571,
+      "timezone": "Africa/Kinshasa"
+    },
+    {
+      "name": "",
+      "name_en": "Nyunzu",
+      "province": "坦噶尼喀省",
+      "latitude": -5.9561,
+      "longitude": 28.0165,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Nioki",
+      "province": "马伊恩东贝省",
+      "latitude": -2.7204,
+      "longitude": 17.69,
+      "timezone": "Africa/Kinshasa"
+    },
+    {
+      "name": "扬甘比",
+      "name_en": "Yangambi",
+      "province": "乔波省",
+      "latitude": 0.7675,
+      "longitude": 24.4397,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "阿凯蒂",
+      "name_en": "Aketi",
+      "province": "下韦莱省",
+      "latitude": 2.7388,
+      "longitude": 23.7833,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "穆希",
+      "name_en": "Mushie",
+      "province": "马伊恩东贝省",
+      "latitude": -3.0173,
+      "longitude": 16.9224,
+      "timezone": "Africa/Kinshasa"
+    },
+    {
+      "name": "",
+      "name_en": "Kutu",
+      "province": "马伊恩东贝省",
+      "latitude": -2.7249,
+      "longitude": 18.1476,
+      "timezone": "Africa/Kinshasa"
+    },
+    {
+      "name": "",
+      "name_en": "Dibaya-Lubwe",
+      "province": "奎卢省",
+      "latitude": -4.1587,
+      "longitude": 19.8619,
+      "timezone": "Africa/Kinshasa"
+    },
+    {
+      "name": "",
+      "name_en": "Mangina",
+      "province": "北基伍省",
+      "latitude": 0.6042,
+      "longitude": 29.31,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Luputa",
+      "province": "Lomami",
+      "latitude": -7.1618,
+      "longitude": 23.7006,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Kirumba",
+      "province": "北基伍省",
+      "latitude": -1.0906,
+      "longitude": 29.2925,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Kayna",
+      "province": "北基伍省",
+      "latitude": -0.6093,
+      "longitude": 29.1725,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Boende",
+      "province": "楚阿帕省",
+      "latitude": -0.2816,
+      "longitude": 20.8805,
+      "timezone": "Africa/Kinshasa"
+    },
+    {
+      "name": "",
+      "name_en": "Fungurume",
+      "province": "Lualaba",
+      "latitude": -10.6177,
+      "longitude": 26.3211,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Lusambo",
+      "province": "桑库鲁省",
+      "latitude": -4.975,
+      "longitude": 23.4439,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Zongo",
+      "province": "Sud-Ubangi",
+      "latitude": 4.3428,
+      "longitude": 18.5945,
+      "timezone": "Africa/Kinshasa"
+    },
+    {
+      "name": "",
+      "name_en": "Businga",
+      "province": "Nord-Ubangi",
+      "latitude": 3.3386,
+      "longitude": 20.8858,
+      "timezone": "Africa/Kinshasa"
+    },
+    {
+      "name": "",
+      "name_en": "Watsa",
+      "province": "上韦莱省",
+      "latitude": 3.0372,
+      "longitude": 29.5355,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Bolobo",
+      "province": "马伊恩东贝省",
+      "latitude": -5.851,
+      "longitude": 13.0536,
+      "timezone": "Africa/Kinshasa"
+    },
+    {
+      "name": "",
+      "name_en": "Lukula",
+      "province": "桑库鲁省",
+      "latitude": -3.8688,
+      "longitude": 23.8835,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Kipamba",
+      "province": "Haut-Lomami",
+      "latitude": -8.2059,
+      "longitude": 26.4204,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Masi-Manimba",
+      "province": "奎卢省",
+      "latitude": -4.7755,
+      "longitude": 17.891,
+      "timezone": "Africa/Kinshasa"
+    },
+    {
+      "name": "",
+      "name_en": "Aru",
+      "province": "伊图里省",
+      "latitude": 2.8622,
+      "longitude": 30.8414,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Luebo",
+      "province": "Kasai",
+      "latitude": -5.3522,
+      "longitude": 21.4219,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Kasangulu",
+      "province": "Bas-Congo",
+      "latitude": -4.5833,
+      "longitude": 15.1655,
+      "timezone": "Africa/Kinshasa"
+    },
+    {
+      "name": "",
+      "name_en": "Mangbwalu",
+      "province": "伊图里省",
+      "latitude": 1.9447,
+      "longitude": 30.0386,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "卡尼亚巴永加",
+      "name_en": "Kanyobagonga",
+      "province": "北基伍省",
+      "latitude": -0.6998,
+      "longitude": 29.1718,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Kabeya-Kamwanga",
+      "province": "东开赛省",
+      "latitude": -5.9988,
+      "longitude": 23.2539,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Malemba",
+      "province": "Lualaba",
+      "latitude": -10.3781,
+      "longitude": 24.5452,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Katanda",
+      "province": "北基伍省",
+      "latitude": -0.8254,
+      "longitude": 29.3645,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Lubero",
+      "province": "北基伍省",
+      "latitude": -0.1584,
+      "longitude": 29.2386,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Djugu",
+      "province": "伊图里省",
+      "latitude": 1.9193,
+      "longitude": 30.5026,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "巴桑库苏",
+      "name_en": "Basankusu",
+      "province": "赤道省",
+      "latitude": 1.2209,
+      "longitude": 19.8021,
+      "timezone": "Africa/Kinshasa"
+    },
+    {
+      "name": "",
+      "name_en": "Dungu",
+      "province": "马伊恩东贝省",
+      "latitude": -3.6244,
+      "longitude": 18.8494,
+      "timezone": "Africa/Kinshasa"
+    },
+    {
+      "name": "",
+      "name_en": "Pweto",
+      "province": "上加丹加省",
+      "latitude": -8.466,
+      "longitude": 28.9008,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Lubao",
+      "province": "Lomami",
+      "latitude": -5.3877,
+      "longitude": 25.7489,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "劫持",
+      "name_en": "Libenge",
+      "province": "Sud-Ubangi",
+      "latitude": 3.6533,
+      "longitude": 18.6357,
+      "timezone": "Africa/Kinshasa"
+    },
+    {
+      "name": "",
+      "name_en": "Kabare",
+      "province": "南基伍省",
+      "latitude": -2.4968,
+      "longitude": 28.7908,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Kampene",
+      "province": "马涅马省",
+      "latitude": -3.5968,
+      "longitude": 26.6671,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Mokambo",
+      "province": "上加丹加省",
+      "latitude": -12.4276,
+      "longitude": 28.3468,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Malemba-Nkulu",
+      "province": "Haut-Lomami",
+      "latitude": -8.0448,
+      "longitude": 26.7963,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Pepa",
+      "province": "坦噶尼喀省",
+      "latitude": -7.6981,
+      "longitude": 29.7772,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Demba",
+      "province": "卢卢阿省",
+      "latitude": -5.4957,
+      "longitude": 22.2696,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Kasongo-Lunda",
+      "province": "Kwango",
+      "latitude": -6.4783,
+      "longitude": 16.8174,
+      "timezone": "Africa/Kinshasa"
+    },
+    {
+      "name": "",
+      "name_en": "Bondo",
+      "province": "下韦莱省",
+      "latitude": 3.8146,
+      "longitude": 23.6867,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Wamba",
+      "province": "上韦莱省",
+      "latitude": 2.1484,
+      "longitude": 27.9947,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "萨凯",
+      "name_en": "Sake",
+      "province": "北基伍省",
+      "latitude": -1.5739,
+      "longitude": 29.0434,
+      "timezone": "Africa/Lubumbashi"
+    },
+    {
+      "name": "",
+      "name_en": "Lukolela",
+      "province": "赤道省",
+      "latitude": -1.0605,
+      "longitude": 17.1821,
+      "timezone": "Africa/Kinshasa"
+    },
+    {
+      "name": "",
+      "name_en": "Bosobolo",
+      "province": "Nord-Ubangi",
+      "latitude": 4.1898,
+      "longitude": 19.8833,
+      "timezone": "Africa/Kinshasa"
+    },
+    {
+      "name": "",
+      "name_en": "Isamba",
+      "province": "Kasai",
+      "latitude": -4.0333,
+      "longitude": 21.9833,
+      "timezone": "Africa/Lubumbashi"
+    }
+  ]
+}

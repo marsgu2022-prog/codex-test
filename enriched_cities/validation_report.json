@@ -1,0 +1,2196 @@
+{
+  "countries": 243,
+  "total_cities": 68104,
+  "complete_cities": 68104,
+  "invalid_cities": 0,
+  "coverage_ratio": 1.0,
+  "reports": [
+    {
+      "country_code": "AD",
+      "country_name": "安道尔",
+      "file": "ad.json",
+      "city_count": 7,
+      "complete_count": 7,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "AE",
+      "country_name": "阿联酋",
+      "file": "ae.json",
+      "city_count": 93,
+      "complete_count": 93,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "AF",
+      "country_name": "阿富汗",
+      "file": "af.json",
+      "city_count": 98,
+      "complete_count": 98,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "AG",
+      "country_name": "安提瓜和巴布达",
+      "file": "ag.json",
+      "city_count": 10,
+      "complete_count": 10,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "AI",
+      "country_name": "安圭拉",
+      "file": "ai.json",
+      "city_count": 14,
+      "complete_count": 14,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "AL",
+      "country_name": "阿尔巴尼亚",
+      "file": "al.json",
+      "city_count": 65,
+      "complete_count": 65,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "AM",
+      "country_name": "亚美尼亚",
+      "file": "am.json",
+      "city_count": 81,
+      "complete_count": 81,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "AO",
+      "country_name": "安哥拉",
+      "file": "ao.json",
+      "city_count": 142,
+      "complete_count": 142,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "AR",
+      "country_name": "阿根廷",
+      "file": "ar.json",
+      "city_count": 472,
+      "complete_count": 472,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "AS",
+      "country_name": "美属萨摩亚",
+      "file": "as.json",
+      "city_count": 4,
+      "complete_count": 4,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "AT",
+      "country_name": "奥地利",
+      "file": "at.json",
+      "city_count": 206,
+      "complete_count": 206,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "AU",
+      "country_name": "澳大利亚",
+      "file": "au.json",
+      "city_count": 1493,
+      "complete_count": 1493,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "AW",
+      "country_name": "阿鲁巴",
+      "file": "aw.json",
+      "city_count": 10,
+      "complete_count": 10,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "AX",
+      "country_name": "奥兰群岛",
+      "file": "ax.json",
+      "city_count": 3,
+      "complete_count": 3,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "AZ",
+      "country_name": "阿塞拜疆",
+      "file": "az.json",
+      "city_count": 116,
+      "complete_count": 116,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "BA",
+      "country_name": "波黑",
+      "file": "ba.json",
+      "city_count": 117,
+      "complete_count": 117,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "BB",
+      "country_name": "巴巴多斯",
+      "file": "bb.json",
+      "city_count": 11,
+      "complete_count": 11,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "BD",
+      "country_name": "孟加拉国",
+      "file": "bd.json",
+      "city_count": 145,
+      "complete_count": 145,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "BE",
+      "country_name": "比利时",
+      "file": "be.json",
+      "city_count": 686,
+      "complete_count": 686,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "BF",
+      "country_name": "布基纳法索",
+      "file": "bf.json",
+      "city_count": 83,
+      "complete_count": 83,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "BG",
+      "country_name": "保加利亚",
+      "file": "bg.json",
+      "city_count": 138,
+      "complete_count": 138,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "BH",
+      "country_name": "巴林",
+      "file": "bh.json",
+      "city_count": 10,
+      "complete_count": 10,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "BI",
+      "country_name": "布隆迪",
+      "file": "bi.json",
+      "city_count": 26,
+      "complete_count": 26,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "BJ",
+      "country_name": "贝宁",
+      "file": "bj.json",
+      "city_count": 76,
+      "complete_count": 76,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "BL",
+      "country_name": "圣巴泰勒米",
+      "file": "bl.json",
+      "city_count": 1,
+      "complete_count": 1,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "BM",
+      "country_name": "百慕大",
+      "file": "bm.json",
+      "city_count": 10,
+      "complete_count": 10,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "BN",
+      "country_name": "文莱",
+      "file": "bn.json",
+      "city_count": 28,
+      "complete_count": 28,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "BO",
+      "country_name": "玻利维亚",
+      "file": "bo.json",
+      "city_count": 75,
+      "complete_count": 75,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "BQ",
+      "country_name": "荷属加勒比区",
+      "file": "bq.json",
+      "city_count": 3,
+      "complete_count": 3,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "BR",
+      "country_name": "巴西",
+      "file": "br.json",
+      "city_count": 4410,
+      "complete_count": 4410,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "BS",
+      "country_name": "巴哈马",
+      "file": "bs.json",
+      "city_count": 24,
+      "complete_count": 24,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "BT",
+      "country_name": "不丹",
+      "file": "bt.json",
+      "city_count": 23,
+      "complete_count": 23,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "BW",
+      "country_name": "博茨瓦纳",
+      "file": "bw.json",
+      "city_count": 63,
+      "complete_count": 63,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "BY",
+      "country_name": "白俄罗斯",
+      "file": "by.json",
+      "city_count": 140,
+      "complete_count": 140,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "BZ",
+      "country_name": "伯利兹",
+      "file": "bz.json",
+      "city_count": 13,
+      "complete_count": 13,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "CA",
+      "country_name": "加拿大",
+      "file": "ca.json",
+      "city_count": 1273,
+      "complete_count": 1273,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "CC",
+      "country_name": "科科斯（基林）群岛",
+      "file": "cc.json",
+      "city_count": 1,
+      "complete_count": 1,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "CD",
+      "country_name": "扎伊尔",
+      "file": "cd.json",
+      "city_count": 117,
+      "complete_count": 117,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "CF",
+      "country_name": "中非",
+      "file": "cf.json",
+      "city_count": 46,
+      "complete_count": 46,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "CG",
+      "country_name": "刚果共和国",
+      "file": "cg.json",
+      "city_count": 47,
+      "complete_count": 47,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "CH",
+      "country_name": "瑞士",
+      "file": "ch.json",
+      "city_count": 352,
+      "complete_count": 352,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "CI",
+      "country_name": "象牙海岸",
+      "file": "ci.json",
+      "city_count": 851,
+      "complete_count": 851,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "CK",
+      "country_name": "库克群岛",
+      "file": "ck.json",
+      "city_count": 1,
+      "complete_count": 1,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "CL",
+      "country_name": "智利",
+      "file": "cl.json",
+      "city_count": 206,
+      "complete_count": 206,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "CM",
+      "country_name": "喀麦隆",
+      "file": "cm.json",
+      "city_count": 125,
+      "complete_count": 125,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "CN",
+      "country_name": "中国",
+      "file": "cn.json",
+      "city_count": 3180,
+      "complete_count": 3180,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "CO",
+      "country_name": "哥伦比亚",
+      "file": "co.json",
+      "city_count": 605,
+      "complete_count": 605,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "CR",
+      "country_name": "哥斯达黎加",
+      "file": "cr.json",
+      "city_count": 76,
+      "complete_count": 76,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "CU",
+      "country_name": "古巴",
+      "file": "cu.json",
+      "city_count": 169,
+      "complete_count": 169,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "CV",
+      "country_name": "佛得角",
+      "file": "cv.json",
+      "city_count": 22,
+      "complete_count": 22,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "CW",
+      "country_name": "库拉索",
+      "file": "cw.json",
+      "city_count": 6,
+      "complete_count": 6,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "CX",
+      "country_name": "圣诞岛",
+      "file": "cx.json",
+      "city_count": 1,
+      "complete_count": 1,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "CY",
+      "country_name": "塞浦路斯",
+      "file": "cy.json",
+      "city_count": 35,
+      "complete_count": 35,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "CZ",
+      "country_name": "捷克",
+      "file": "cz.json",
+      "city_count": 346,
+      "complete_count": 346,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "DE",
+      "country_name": "德国",
+      "file": "de.json",
+      "city_count": 3049,
+      "complete_count": 3049,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "DJ",
+      "country_name": "吉布提",
+      "file": "dj.json",
+      "city_count": 8,
+      "complete_count": 8,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "DK",
+      "country_name": "丹麦",
+      "file": "dk.json",
+      "city_count": 163,
+      "complete_count": 163,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "DM",
+      "country_name": "多米尼克",
+      "file": "dm.json",
+      "city_count": 10,
+      "complete_count": 10,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "DO",
+      "country_name": "多米尼加",
+      "file": "do.json",
+      "city_count": 117,
+      "complete_count": 117,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "DZ",
+      "country_name": "阿尔及利亚",
+      "file": "dz.json",
+      "city_count": 320,
+      "complete_count": 320,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "EC",
+      "country_name": "厄瓜多尔",
+      "file": "ec.json",
+      "city_count": 117,
+      "complete_count": 117,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "EE",
+      "country_name": "爱沙尼亚",
+      "file": "ee.json",
+      "city_count": 30,
+      "complete_count": 30,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "EG",
+      "country_name": "埃及",
+      "file": "eg.json",
+      "city_count": 242,
+      "complete_count": 242,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "EH",
+      "country_name": "西撒哈拉",
+      "file": "eh.json",
+      "city_count": 6,
+      "complete_count": 6,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "",
+      "country_name": "",
+      "file": "enrichment_report.json",
+      "city_count": 0,
+      "complete_count": 0,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "ER",
+      "country_name": "厄立特里亚",
+      "file": "er.json",
+      "city_count": 11,
+      "complete_count": 11,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "ES",
+      "country_name": "西班牙",
+      "file": "es.json",
+      "city_count": 1476,
+      "complete_count": 1476,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "ET",
+      "country_name": "埃塞俄比亚",
+      "file": "et.json",
+      "city_count": 244,
+      "complete_count": 244,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "FI",
+      "country_name": "芬兰",
+      "file": "fi.json",
+      "city_count": 340,
+      "complete_count": 340,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "FJ",
+      "country_name": "斐济",
+      "file": "fj.json",
+      "city_count": 15,
+      "complete_count": 15,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "FK",
+      "country_name": "福克兰群岛（马尔维纳斯）",
+      "file": "fk.json",
+      "city_count": 1,
+      "complete_count": 1,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "FM",
+      "country_name": "密克罗尼西亚联邦",
+      "file": "fm.json",
+      "city_count": 6,
+      "complete_count": 6,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "FO",
+      "country_name": "法罗群岛",
+      "file": "fo.json",
+      "city_count": 6,
+      "complete_count": 6,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "FR",
+      "country_name": "法国",
+      "file": "fr.json",
+      "city_count": 2053,
+      "complete_count": 2053,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "GA",
+      "country_name": "加蓬",
+      "file": "ga.json",
+      "city_count": 32,
+      "complete_count": 32,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "GB",
+      "country_name": "英国",
+      "file": "gb.json",
+      "city_count": 1904,
+      "complete_count": 1904,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "GD",
+      "country_name": "格林纳达",
+      "file": "gd.json",
+      "city_count": 7,
+      "complete_count": 7,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "GE",
+      "country_name": "格鲁吉亚",
+      "file": "ge.json",
+      "city_count": 55,
+      "complete_count": 55,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "GF",
+      "country_name": "法属圭亚那",
+      "file": "gf.json",
+      "city_count": 10,
+      "complete_count": 10,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "GG",
+      "country_name": "根西岛",
+      "file": "gg.json",
+      "city_count": 11,
+      "complete_count": 11,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "GH",
+      "country_name": "加纳",
+      "file": "gh.json",
+      "city_count": 113,
+      "complete_count": 113,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "GI",
+      "country_name": "直布罗陀",
+      "file": "gi.json",
+      "city_count": 3,
+      "complete_count": 3,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "GL",
+      "country_name": "格陵兰",
+      "file": "gl.json",
+      "city_count": 5,
+      "complete_count": 5,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "GM",
+      "country_name": "冈比亚",
+      "file": "gm.json",
+      "city_count": 66,
+      "complete_count": 66,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "GN",
+      "country_name": "几内亚",
+      "file": "gn.json",
+      "city_count": 63,
+      "complete_count": 63,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "GP",
+      "country_name": "瓜德罗普",
+      "file": "gp.json",
+      "city_count": 22,
+      "complete_count": 22,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "GQ",
+      "country_name": "赤道几内亚",
+      "file": "gq.json",
+      "city_count": 13,
+      "complete_count": 13,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "GR",
+      "country_name": "希腊",
+      "file": "gr.json",
+      "city_count": 248,
+      "complete_count": 248,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "GS",
+      "country_name": "南乔治亚岛和南桑德韦奇岛",
+      "file": "gs.json",
+      "city_count": 1,
+      "complete_count": 1,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "GT",
+      "country_name": "危地马拉",
+      "file": "gt.json",
+      "city_count": 205,
+      "complete_count": 205,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "GU",
+      "country_name": "关岛",
+      "file": "gu.json",
+      "city_count": 21,
+      "complete_count": 21,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "GW",
+      "country_name": "几内亚比绍",
+      "file": "gw.json",
+      "city_count": 25,
+      "complete_count": 25,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "GY",
+      "country_name": "圭亚那",
+      "file": "gy.json",
+      "city_count": 14,
+      "complete_count": 14,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "HN",
+      "country_name": "洪都拉斯",
+      "file": "hn.json",
+      "city_count": 67,
+      "complete_count": 67,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "HR",
+      "country_name": "克罗地亚",
+      "file": "hr.json",
+      "city_count": 77,
+      "complete_count": 77,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "HT",
+      "country_name": "海地",
+      "file": "ht.json",
+      "city_count": 51,
+      "complete_count": 51,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "HU",
+      "country_name": "匈牙利",
+      "file": "hu.json",
+      "city_count": 368,
+      "complete_count": 368,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "ID",
+      "country_name": "印度尼西亚",
+      "file": "id.json",
+      "city_count": 469,
+      "complete_count": 469,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "IE",
+      "country_name": "爱尔兰",
+      "file": "ie.json",
+      "city_count": 152,
+      "complete_count": 152,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "IL",
+      "country_name": "以色列",
+      "file": "il.json",
+      "city_count": 179,
+      "complete_count": 179,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "IM",
+      "country_name": "英国属地曼岛",
+      "file": "im.json",
+      "city_count": 21,
+      "complete_count": 21,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "IN",
+      "country_name": "印度",
+      "file": "in.json",
+      "city_count": 6494,
+      "complete_count": 6494,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "IQ",
+      "country_name": "伊拉克",
+      "file": "iq.json",
+      "city_count": 88,
+      "complete_count": 88,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "IR",
+      "country_name": "伊朗",
+      "file": "ir.json",
+      "city_count": 482,
+      "complete_count": 482,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "IS",
+      "country_name": "冰岛",
+      "file": "is.json",
+      "city_count": 14,
+      "complete_count": 14,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "IT",
+      "country_name": "意大利",
+      "file": "it.json",
+      "city_count": 2000,
+      "complete_count": 2000,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "JE",
+      "country_name": "泽西岛",
+      "file": "je.json",
+      "city_count": 2,
+      "complete_count": 2,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "JM",
+      "country_name": "牙买加",
+      "file": "jm.json",
+      "city_count": 39,
+      "complete_count": 39,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "JO",
+      "country_name": "约旦",
+      "file": "jo.json",
+      "city_count": 75,
+      "complete_count": 75,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "JP",
+      "country_name": "日本",
+      "file": "jp.json",
+      "city_count": 1787,
+      "complete_count": 1787,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "KE",
+      "country_name": "肯尼亚",
+      "file": "ke.json",
+      "city_count": 233,
+      "complete_count": 233,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "KG",
+      "country_name": "吉尔吉斯斯坦",
+      "file": "kg.json",
+      "city_count": 59,
+      "complete_count": 59,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "KH",
+      "country_name": "柬埔寨",
+      "file": "kh.json",
+      "city_count": 122,
+      "complete_count": 122,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "KI",
+      "country_name": "基里巴斯",
+      "file": "ki.json",
+      "city_count": 3,
+      "complete_count": 3,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "KM",
+      "country_name": "科摩罗",
+      "file": "km.json",
+      "city_count": 19,
+      "complete_count": 19,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "KN",
+      "country_name": "圣基茨和尼维斯",
+      "file": "kn.json",
+      "city_count": 14,
+      "complete_count": 14,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "KP",
+      "country_name": "朝鲜",
+      "file": "kp.json",
+      "city_count": 118,
+      "complete_count": 118,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "KR",
+      "country_name": "韩国",
+      "file": "kr.json",
+      "city_count": 153,
+      "complete_count": 153,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "KW",
+      "country_name": "科威特",
+      "file": "kw.json",
+      "city_count": 23,
+      "complete_count": 23,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "KY",
+      "country_name": "开曼群岛",
+      "file": "ky.json",
+      "city_count": 45,
+      "complete_count": 45,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "KZ",
+      "country_name": "哈萨克斯坦",
+      "file": "kz.json",
+      "city_count": 201,
+      "complete_count": 201,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "LA",
+      "country_name": "老挝",
+      "file": "la.json",
+      "city_count": 33,
+      "complete_count": 33,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "LB",
+      "country_name": "黎巴嫩",
+      "file": "lb.json",
+      "city_count": 25,
+      "complete_count": 25,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "LC",
+      "country_name": "圣卢西亚",
+      "file": "lc.json",
+      "city_count": 10,
+      "complete_count": 10,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "LI",
+      "country_name": "列支敦士登",
+      "file": "li.json",
+      "city_count": 11,
+      "complete_count": 11,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "LK",
+      "country_name": "斯里兰卡",
+      "file": "lk.json",
+      "city_count": 68,
+      "complete_count": 68,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "LR",
+      "country_name": "利比里亚",
+      "file": "lr.json",
+      "city_count": 26,
+      "complete_count": 26,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "LS",
+      "country_name": "莱索托",
+      "file": "ls.json",
+      "city_count": 28,
+      "complete_count": 28,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "LT",
+      "country_name": "立陶宛",
+      "file": "lt.json",
+      "city_count": 71,
+      "complete_count": 71,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "LU",
+      "country_name": "卢森堡",
+      "file": "lu.json",
+      "city_count": 33,
+      "complete_count": 33,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "LV",
+      "country_name": "拉脱维亚",
+      "file": "lv.json",
+      "city_count": 52,
+      "complete_count": 52,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "LY",
+      "country_name": "利比亚",
+      "file": "ly.json",
+      "city_count": 104,
+      "complete_count": 104,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "MA",
+      "country_name": "摩洛哥",
+      "file": "ma.json",
+      "city_count": 308,
+      "complete_count": 308,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "MC",
+      "country_name": "摩纳哥",
+      "file": "mc.json",
+      "city_count": 5,
+      "complete_count": 5,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "MD",
+      "country_name": "摩尔多瓦",
+      "file": "md.json",
+      "city_count": 63,
+      "complete_count": 63,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "ME",
+      "country_name": "黑山",
+      "file": "me.json",
+      "city_count": 26,
+      "complete_count": 26,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "MF",
+      "country_name": "法属圣马丁",
+      "file": "mf.json",
+      "city_count": 3,
+      "complete_count": 3,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "MG",
+      "country_name": "马达加斯加",
+      "file": "mg.json",
+      "city_count": 139,
+      "complete_count": 139,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "MH",
+      "country_name": "马绍尔群岛",
+      "file": "mh.json",
+      "city_count": 24,
+      "complete_count": 24,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "MK",
+      "country_name": "前南马其顿",
+      "file": "mk.json",
+      "city_count": 90,
+      "complete_count": 90,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "ML",
+      "country_name": "马里",
+      "file": "ml.json",
+      "city_count": 70,
+      "complete_count": 70,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "MM",
+      "country_name": "缅甸",
+      "file": "mm.json",
+      "city_count": 250,
+      "complete_count": 250,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "MN",
+      "country_name": "蒙古",
+      "file": "mn.json",
+      "city_count": 34,
+      "complete_count": 34,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "MP",
+      "country_name": "北马里亚纳",
+      "file": "mp.json",
+      "city_count": 3,
+      "complete_count": 3,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "MQ",
+      "country_name": "马提尼克",
+      "file": "mq.json",
+      "city_count": 17,
+      "complete_count": 17,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "MR",
+      "country_name": "毛利塔尼亚",
+      "file": "mr.json",
+      "city_count": 59,
+      "complete_count": 59,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "MS",
+      "country_name": "蒙特塞拉特",
+      "file": "ms.json",
+      "city_count": 3,
+      "complete_count": 3,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "MT",
+      "country_name": "马耳他",
+      "file": "mt.json",
+      "city_count": 65,
+      "complete_count": 65,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "MU",
+      "country_name": "毛里求斯",
+      "file": "mu.json",
+      "city_count": 65,
+      "complete_count": 65,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "MV",
+      "country_name": "马尔代夫",
+      "file": "mv.json",
+      "city_count": 19,
+      "complete_count": 19,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "MW",
+      "country_name": "马拉维",
+      "file": "mw.json",
+      "city_count": 33,
+      "complete_count": 33,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "MX",
+      "country_name": "墨西哥",
+      "file": "mx.json",
+      "city_count": 1828,
+      "complete_count": 1828,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "MY",
+      "country_name": "马来西亚",
+      "file": "my.json",
+      "city_count": 530,
+      "complete_count": 530,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "MZ",
+      "country_name": "莫桑比克",
+      "file": "mz.json",
+      "city_count": 88,
+      "complete_count": 88,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "NA",
+      "country_name": "纳米比亚",
+      "file": "na.json",
+      "city_count": 44,
+      "complete_count": 44,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "NC",
+      "country_name": "新喀里多尼亚",
+      "file": "nc.json",
+      "city_count": 13,
+      "complete_count": 13,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "NE",
+      "country_name": "尼日尔",
+      "file": "ne.json",
+      "city_count": 64,
+      "complete_count": 64,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "NF",
+      "country_name": "诺福克岛",
+      "file": "nf.json",
+      "city_count": 1,
+      "complete_count": 1,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "NG",
+      "country_name": "尼日利亚",
+      "file": "ng.json",
+      "city_count": 473,
+      "complete_count": 473,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "NI",
+      "country_name": "尼加拉瓜",
+      "file": "ni.json",
+      "city_count": 76,
+      "complete_count": 76,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "NL",
+      "country_name": "荷兰",
+      "file": "nl.json",
+      "city_count": 536,
+      "complete_count": 536,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "NO",
+      "country_name": "挪威",
+      "file": "no.json",
+      "city_count": 115,
+      "complete_count": 115,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "NP",
+      "country_name": "尼泊尔",
+      "file": "np.json",
+      "city_count": 53,
+      "complete_count": 53,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "NR",
+      "country_name": "瑙鲁",
+      "file": "nr.json",
+      "city_count": 7,
+      "complete_count": 7,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "NU",
+      "country_name": "纽埃",
+      "file": "nu.json",
+      "city_count": 1,
+      "complete_count": 1,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "NZ",
+      "country_name": "新西兰",
+      "file": "nz.json",
+      "city_count": 237,
+      "complete_count": 237,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "OM",
+      "country_name": "阿曼",
+      "file": "om.json",
+      "city_count": 30,
+      "complete_count": 30,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "PA",
+      "country_name": "巴拿马",
+      "file": "pa.json",
+      "city_count": 69,
+      "complete_count": 69,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "PE",
+      "country_name": "秘鲁",
+      "file": "pe.json",
+      "city_count": 295,
+      "complete_count": 295,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "PF",
+      "country_name": "法属波利尼西亚",
+      "file": "pf.json",
+      "city_count": 12,
+      "complete_count": 12,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "PG",
+      "country_name": "巴布亚新几内亚",
+      "file": "pg.json",
+      "city_count": 31,
+      "complete_count": 31,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "PH",
+      "country_name": "菲律宾",
+      "file": "ph.json",
+      "city_count": 1369,
+      "complete_count": 1369,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "PK",
+      "country_name": "巴基斯坦",
+      "file": "pk.json",
+      "city_count": 477,
+      "complete_count": 477,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "PL",
+      "country_name": "波兰",
+      "file": "pl.json",
+      "city_count": 753,
+      "complete_count": 753,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "PM",
+      "country_name": "圣皮埃尔和密克隆群岛",
+      "file": "pm.json",
+      "city_count": 2,
+      "complete_count": 2,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "PN",
+      "country_name": "皮特凯恩",
+      "file": "pn.json",
+      "city_count": 1,
+      "complete_count": 1,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "PR",
+      "country_name": "波多黎各",
+      "file": "pr.json",
+      "city_count": 94,
+      "complete_count": 94,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "PS",
+      "country_name": "巴勒斯坦",
+      "file": "ps.json",
+      "city_count": 125,
+      "complete_count": 125,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "PT",
+      "country_name": "葡萄牙",
+      "file": "pt.json",
+      "city_count": 544,
+      "complete_count": 544,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "PW",
+      "country_name": "帕劳",
+      "file": "pw.json",
+      "city_count": 18,
+      "complete_count": 18,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "PY",
+      "country_name": "巴拉圭",
+      "file": "py.json",
+      "city_count": 64,
+      "complete_count": 64,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "QA",
+      "country_name": "卡塔尔",
+      "file": "qa.json",
+      "city_count": 36,
+      "complete_count": 36,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "RE",
+      "country_name": "留尼汪",
+      "file": "re.json",
+      "city_count": 25,
+      "complete_count": 25,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "RO",
+      "country_name": "罗马尼亚",
+      "file": "ro.json",
+      "city_count": 788,
+      "complete_count": 788,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "RS",
+      "country_name": "塞尔维亚",
+      "file": "rs.json",
+      "city_count": 106,
+      "complete_count": 106,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "RU",
+      "country_name": "俄罗斯联邦",
+      "file": "ru.json",
+      "city_count": 2748,
+      "complete_count": 2748,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "RW",
+      "country_name": "卢旺达",
+      "file": "rw.json",
+      "city_count": 49,
+      "complete_count": 49,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "SA",
+      "country_name": "沙特阿拉伯",
+      "file": "sa.json",
+      "city_count": 124,
+      "complete_count": 124,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "SB",
+      "country_name": "所罗门群岛",
+      "file": "sb.json",
+      "city_count": 19,
+      "complete_count": 19,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "SC",
+      "country_name": "塞舌尔",
+      "file": "sc.json",
+      "city_count": 11,
+      "complete_count": 11,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "SD",
+      "country_name": "苏丹",
+      "file": "sd.json",
+      "city_count": 98,
+      "complete_count": 98,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "SE",
+      "country_name": "瑞典",
+      "file": "se.json",
+      "city_count": 278,
+      "complete_count": 278,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "SG",
+      "country_name": "新加坡",
+      "file": "sg.json",
+      "city_count": 95,
+      "complete_count": 95,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "SH",
+      "country_name": "圣赫勒拿",
+      "file": "sh.json",
+      "city_count": 3,
+      "complete_count": 3,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "SI",
+      "country_name": "斯洛文尼亚",
+      "file": "si.json",
+      "city_count": 213,
+      "complete_count": 213,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "SJ",
+      "country_name": "斯瓦尔巴岛和扬马延岛",
+      "file": "sj.json",
+      "city_count": 2,
+      "complete_count": 2,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "SK",
+      "country_name": "斯洛伐克",
+      "file": "sk.json",
+      "city_count": 147,
+      "complete_count": 147,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "SL",
+      "country_name": "塞拉利昂",
+      "file": "sl.json",
+      "city_count": 49,
+      "complete_count": 49,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "SM",
+      "country_name": "圣马力诺",
+      "file": "sm.json",
+      "city_count": 11,
+      "complete_count": 11,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "SN",
+      "country_name": "塞内加尔",
+      "file": "sn.json",
+      "city_count": 118,
+      "complete_count": 118,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "SO",
+      "country_name": "索马里",
+      "file": "so.json",
+      "city_count": 64,
+      "complete_count": 64,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "SR",
+      "country_name": "苏里南",
+      "file": "sr.json",
+      "city_count": 19,
+      "complete_count": 19,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "SS",
+      "country_name": "南苏丹",
+      "file": "ss.json",
+      "city_count": 22,
+      "complete_count": 22,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "ST",
+      "country_name": "圣多美和普林西比",
+      "file": "st.json",
+      "city_count": 5,
+      "complete_count": 5,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "SV",
+      "country_name": "萨尔瓦多",
+      "file": "sv.json",
+      "city_count": 74,
+      "complete_count": 74,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "SX",
+      "country_name": "荷属圣马丁",
+      "file": "sx.json",
+      "city_count": 5,
+      "complete_count": 5,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "SY",
+      "country_name": "叙利亚",
+      "file": "sy.json",
+      "city_count": 106,
+      "complete_count": 106,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "SZ",
+      "country_name": "斯威士兰",
+      "file": "sz.json",
+      "city_count": 9,
+      "complete_count": 9,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "TC",
+      "country_name": "特克斯和凯科斯群岛",
+      "file": "tc.json",
+      "city_count": 2,
+      "complete_count": 2,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "TD",
+      "country_name": "乍得",
+      "file": "td.json",
+      "city_count": 68,
+      "complete_count": 68,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "TF",
+      "country_name": "法属南部领地",
+      "file": "tf.json",
+      "city_count": 1,
+      "complete_count": 1,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "TG",
+      "country_name": "多哥",
+      "file": "tg.json",
+      "city_count": 32,
+      "complete_count": 32,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "TH",
+      "country_name": "泰国",
+      "file": "th.json",
+      "city_count": 444,
+      "complete_count": 444,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "TJ",
+      "country_name": "塔吉克斯坦",
+      "file": "tj.json",
+      "city_count": 62,
+      "complete_count": 62,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "TK",
+      "country_name": "托克劳",
+      "file": "tk.json",
+      "city_count": 3,
+      "complete_count": 3,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "TL",
+      "country_name": "东帝汶",
+      "file": "tl.json",
+      "city_count": 18,
+      "complete_count": 18,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "TM",
+      "country_name": "土库曼斯坦",
+      "file": "tm.json",
+      "city_count": 71,
+      "complete_count": 71,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "TN",
+      "country_name": "突尼斯",
+      "file": "tn.json",
+      "city_count": 238,
+      "complete_count": 238,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "TO",
+      "country_name": "汤加",
+      "file": "to.json",
+      "city_count": 5,
+      "complete_count": 5,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "TR",
+      "country_name": "土耳其",
+      "file": "tr.json",
+      "city_count": 851,
+      "complete_count": 851,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "TT",
+      "country_name": "特立尼达和多巴哥",
+      "file": "tt.json",
+      "city_count": 22,
+      "complete_count": 22,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "TV",
+      "country_name": "图瓦卢",
+      "file": "tv.json",
+      "city_count": 6,
+      "complete_count": 6,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "TZ",
+      "country_name": "坦桑尼亚",
+      "file": "tz.json",
+      "city_count": 309,
+      "complete_count": 309,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "UA",
+      "country_name": "乌克兰",
+      "file": "ua.json",
+      "city_count": 938,
+      "complete_count": 938,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "UG",
+      "country_name": "乌干达",
+      "file": "ug.json",
+      "city_count": 163,
+      "complete_count": 163,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "US",
+      "country_name": "美国",
+      "file": "us.json",
+      "city_count": 7539,
+      "complete_count": 7539,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "UY",
+      "country_name": "乌拉圭",
+      "file": "uy.json",
+      "city_count": 58,
+      "complete_count": 58,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "UZ",
+      "country_name": "乌兹别克斯坦",
+      "file": "uz.json",
+      "city_count": 136,
+      "complete_count": 136,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "VA",
+      "country_name": "梵蒂冈",
+      "file": "va.json",
+      "city_count": 1,
+      "complete_count": 1,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "VC",
+      "country_name": "圣文森特和格林纳丁斯",
+      "file": "vc.json",
+      "city_count": 7,
+      "complete_count": 7,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "VE",
+      "country_name": "委内瑞拉",
+      "file": "ve.json",
+      "city_count": 237,
+      "complete_count": 237,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "VG",
+      "country_name": "英属维尔京群岛",
+      "file": "vg.json",
+      "city_count": 1,
+      "complete_count": 1,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "VI",
+      "country_name": "美属维尔京群岛",
+      "file": "vi.json",
+      "city_count": 4,
+      "complete_count": 4,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "VN",
+      "country_name": "越南",
+      "file": "vn.json",
+      "city_count": 392,
+      "complete_count": 392,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "VU",
+      "country_name": "瓦努阿图",
+      "file": "vu.json",
+      "city_count": 6,
+      "complete_count": 6,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "WF",
+      "country_name": "瓦利斯和富图纳",
+      "file": "wf.json",
+      "city_count": 3,
+      "complete_count": 3,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "WS",
+      "country_name": "萨摩亚",
+      "file": "ws.json",
+      "city_count": 11,
+      "complete_count": 11,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "XK",
+      "country_name": "科索沃",
+      "file": "xk.json",
+      "city_count": 34,
+      "complete_count": 34,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "YE",
+      "country_name": "也门",
+      "file": "ye.json",
+      "city_count": 34,
+      "complete_count": 34,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "YT",
+      "country_name": "马约特",
+      "file": "yt.json",
+      "city_count": 27,
+      "complete_count": 27,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "ZA",
+      "country_name": "南非",
+      "file": "za.json",
+      "city_count": 587,
+      "complete_count": 587,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "ZM",
+      "country_name": "赞比亚",
+      "file": "zm.json",
+      "city_count": 95,
+      "complete_count": 95,
+      "invalid_count": 0,
+      "invalid_samples": []
+    },
+    {
+      "country_code": "ZW",
+      "country_name": "津巴布韦",
+      "file": "zw.json",
+      "city_count": 46,
+      "complete_count": 46,
+      "invalid_count": 0,
+      "invalid_samples": []
+    }
+  ]
+}

@@ -1,0 +1,606 @@
+{
+  "country_code": "JO",
+  "country_name": "约旦",
+  "cities": [
+    {
+      "name": "安曼",
+      "name_en": "Amman",
+      "province": "安曼省",
+      "latitude": 31.9552,
+      "longitude": 35.945,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "扎尔卡",
+      "name_en": "Zarqa",
+      "province": "Zarqa",
+      "latitude": 32.0727,
+      "longitude": 36.088,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "伊尔比德",
+      "name_en": "Irbid",
+      "province": "伊尔比德省",
+      "latitude": 32.5556,
+      "longitude": 35.85,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Russeifa",
+      "province": "Zarqa",
+      "latitude": 32.0178,
+      "longitude": 36.0464,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Ḩayy Khildā",
+      "province": "安曼省",
+      "latitude": 31.992,
+      "longitude": 35.84,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Khuraybat as Sūq",
+      "province": "安曼省",
+      "latitude": 31.8791,
+      "longitude": 35.921,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Wādī as Sīr",
+      "province": "安曼省",
+      "latitude": 31.9545,
+      "longitude": 35.8183,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Ar Ramthā",
+      "province": "伊尔比德省",
+      "latitude": 32.5587,
+      "longitude": 36.0082,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Ṣuwayliḥ",
+      "province": "拜勒加省",
+      "latitude": 32.0221,
+      "longitude": 35.8439,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "‘Ajlūn",
+      "province": "阿杰隆省",
+      "latitude": 32.3333,
+      "longitude": 35.7528,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "As Salţ",
+      "province": "拜勒加省",
+      "latitude": 32.0392,
+      "longitude": 35.7272,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "亚喀巴",
+      "name_en": "Aqaba",
+      "province": "Aqaba",
+      "latitude": 29.5267,
+      "longitude": 35.0078,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Rukban",
+      "province": "马弗拉克省",
+      "latitude": 33.3141,
+      "longitude": 38.7034,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Marj Al Hamam",
+      "province": "安曼省",
+      "latitude": 31.9027,
+      "longitude": 35.8464,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Mādabā",
+      "province": "马代巴省",
+      "latitude": 31.716,
+      "longitude": 35.7939,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "马弗拉克",
+      "name_en": "Mafraq",
+      "province": "马弗拉克省",
+      "latitude": 32.3429,
+      "longitude": 36.208,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Az̧ Z̧ulayl",
+      "province": "Zarqa",
+      "latitude": 32.1208,
+      "longitude": 36.2801,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Ma'an",
+      "province": "马安省",
+      "latitude": 30.1962,
+      "longitude": 35.7341,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Al Jubayhah",
+      "province": "安曼省",
+      "latitude": 32.0107,
+      "longitude": 35.898,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Saḩāb",
+      "province": "安曼省",
+      "latitude": 31.8703,
+      "longitude": 36.0048,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Ḩayy al Quwaysimah",
+      "province": "安曼省",
+      "latitude": 31.9104,
+      "longitude": 35.9498,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Jarash",
+      "province": "杰拉什省",
+      "latitude": 32.2808,
+      "longitude": 35.8993,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Aţ Ţafīlah",
+      "province": "塔菲拉省",
+      "latitude": 30.8375,
+      "longitude": 35.6044,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "‘Izrā",
+      "province": "Karak",
+      "latitude": 31.1589,
+      "longitude": 35.6928,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Qīr Moāv",
+      "province": "马安省",
+      "latitude": 31.1825,
+      "longitude": 35.7,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Karak City",
+      "province": "Karak",
+      "latitude": 31.1637,
+      "longitude": 35.762,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Judita",
+      "province": "伊尔比德省",
+      "latitude": 32.4079,
+      "longitude": 35.708,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Al Fuḩayş",
+      "province": "拜勒加省",
+      "latitude": 32.0047,
+      "longitude": 35.7809,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Aydūn",
+      "province": "伊尔比德省",
+      "latitude": 32.5053,
+      "longitude": 35.8581,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Umm as Summāq",
+      "province": "安曼省",
+      "latitude": 31.8854,
+      "longitude": 35.8543,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Kurayyimah",
+      "province": "伊尔比德省",
+      "latitude": 32.2764,
+      "longitude": 35.5994,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Māḩiş",
+      "province": "拜勒加省",
+      "latitude": 31.9865,
+      "longitude": 35.7699,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "‘Anjarah",
+      "province": "阿杰隆省",
+      "latitude": 32.3067,
+      "longitude": 35.7544,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Safi",
+      "province": "Karak",
+      "latitude": 31.0361,
+      "longitude": 35.4654,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Al Azraq ash Shamālī",
+      "province": "Zarqa",
+      "latitude": 31.8821,
+      "longitude": 36.8302,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Aţ Ţurrah",
+      "province": "伊尔比德省",
+      "latitude": 32.6398,
+      "longitude": 35.9894,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Wādī Mūsá",
+      "province": "马安省",
+      "latitude": 30.321,
+      "longitude": 35.4789,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Sūf",
+      "province": "杰拉什省",
+      "latitude": 32.3137,
+      "longitude": 35.8371,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Aţ Ţayyibah",
+      "province": "伊尔比德省",
+      "latitude": 32.543,
+      "longitude": 35.7176,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Sakib",
+      "province": "杰拉什省",
+      "latitude": 32.2843,
+      "longitude": 35.8091,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Ash Shajarah",
+      "province": "伊尔比德省",
+      "latitude": 32.6439,
+      "longitude": 35.9417,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Jāwā",
+      "province": "安曼省",
+      "latitude": 31.8525,
+      "longitude": 35.9393,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Şakhrah",
+      "province": "阿杰隆省",
+      "latitude": 32.3709,
+      "longitude": 35.8427,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Rehab",
+      "province": "马弗拉克省",
+      "latitude": 32.3234,
+      "longitude": 36.0909,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Ruwaished",
+      "province": "马弗拉克省",
+      "latitude": 32.5041,
+      "longitude": 38.2011,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "‘Ayn Jannā",
+      "province": "阿杰隆省",
+      "latitude": 32.3347,
+      "longitude": 35.7637,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Al Karāmah",
+      "province": "拜勒加省",
+      "latitude": 31.9544,
+      "longitude": 35.5803,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Al Mazār al Janūbī",
+      "province": "Karak",
+      "latitude": 31.0672,
+      "longitude": 35.6949,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Şammā",
+      "province": "伊尔比德省",
+      "latitude": 32.571,
+      "longitude": 35.6898,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Kafr Asad",
+      "province": "伊尔比德省",
+      "latitude": 32.598,
+      "longitude": 35.7127,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Bayt Yāfā",
+      "province": "伊尔比德省",
+      "latitude": 32.5225,
+      "longitude": 35.7862,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Al Quwayrah",
+      "province": "马安省",
+      "latitude": 29.8005,
+      "longitude": 35.3116,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "‘Ayy",
+      "province": "Karak",
+      "latitude": 31.1337,
+      "longitude": 35.6437,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Buşayrā",
+      "province": "塔菲拉省",
+      "latitude": 30.7326,
+      "longitude": 35.6094,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Kafr Sawm",
+      "province": "伊尔比德省",
+      "latitude": 32.6853,
+      "longitude": 35.801,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Ḩakamā",
+      "province": "伊尔比德省",
+      "latitude": 32.5935,
+      "longitude": 35.8832,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Sāl",
+      "province": "伊尔比德省",
+      "latitude": 32.569,
+      "longitude": 35.9119,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Malkā",
+      "province": "伊尔比德省",
+      "latitude": 32.6765,
+      "longitude": 35.7485,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Kafr Abīl",
+      "province": "伊尔比德省",
+      "latitude": 32.4175,
+      "longitude": 35.663,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Dayr Yūsuf",
+      "province": "伊尔比德省",
+      "latitude": 32.487,
+      "longitude": 35.7963,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Al Ḩamrā’",
+      "province": "马弗拉克省",
+      "latitude": 32.4402,
+      "longitude": 36.1527,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Saḩam al Kaffārāt",
+      "province": "伊尔比德省",
+      "latitude": 32.6985,
+      "longitude": 35.7744,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Raymūn",
+      "province": "杰拉什省",
+      "latitude": 32.282,
+      "longitude": 35.8278,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Waqqāş",
+      "province": "伊尔比德省",
+      "latitude": 32.5421,
+      "longitude": 35.6051,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Al Kittah",
+      "province": "杰拉什省",
+      "latitude": 32.2769,
+      "longitude": 35.8411,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Ḩayy al Bunayyāt",
+      "province": "安曼省",
+      "latitude": 31.896,
+      "longitude": 35.8847,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Ḩātim",
+      "province": "伊尔比德省",
+      "latitude": 32.6449,
+      "longitude": 35.7777,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Kharjā",
+      "province": "伊尔比德省",
+      "latitude": 32.6599,
+      "longitude": 35.8878,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Ḩalāwah",
+      "province": "阿杰隆省",
+      "latitude": 32.3843,
+      "longitude": 35.6617,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Şabḩā",
+      "province": "马弗拉克省",
+      "latitude": 32.327,
+      "longitude": 36.5016,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Kitim",
+      "province": "伊尔比德省",
+      "latitude": 32.4383,
+      "longitude": 35.8968,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Al Khinzīrah",
+      "province": "Karak",
+      "latitude": 31.0506,
+      "longitude": 35.6061,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Tibnah",
+      "province": "伊尔比德省",
+      "latitude": 32.4752,
+      "longitude": 35.7306,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Balīlā",
+      "province": "杰拉什省",
+      "latitude": 32.3911,
+      "longitude": 35.9383,
+      "timezone": "Asia/Amman"
+    },
+    {
+      "name": "",
+      "name_en": "Qumaym",
+      "province": "伊尔比德省",
+      "latitude": 32.5717,
+      "longitude": 35.7345,
+      "timezone": "Asia/Amman"
+    }
+  ]
+}

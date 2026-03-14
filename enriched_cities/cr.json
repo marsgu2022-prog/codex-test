@@ -1,0 +1,614 @@
+{
+  "country_code": "CR",
+  "country_name": "哥斯达黎加",
+  "cities": [
+    {
+      "name": "圣荷西",
+      "name_en": "San José",
+      "province": "San José",
+      "latitude": 9.9339,
+      "longitude": -84.0849,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "利蒙",
+      "name_en": "Limón",
+      "province": "利蒙省",
+      "latitude": 9.9907,
+      "longitude": -83.036,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "San Francisco",
+      "province": "埃雷迪亚省",
+      "latitude": 9.9938,
+      "longitude": -84.1274,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "阿拉胡埃拉",
+      "name_en": "Alajuela",
+      "province": "阿拉胡埃拉省",
+      "latitude": 10.0172,
+      "longitude": -84.2127,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "利韦里亚",
+      "name_en": "Liberia",
+      "province": "瓜纳卡斯特省",
+      "latitude": 10.6352,
+      "longitude": -85.4378,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "Paraíso",
+      "province": "卡塔戈省",
+      "latitude": 9.8385,
+      "longitude": -83.8666,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "蓬塔雷纳斯",
+      "name_en": "Puntarenas",
+      "province": "蓬塔雷纳斯省",
+      "latitude": 9.9769,
+      "longitude": -84.8379,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "圣伊西德罗德埃尔赫内拉尔区",
+      "name_en": "San Isidro",
+      "province": "San José",
+      "latitude": 9.3674,
+      "longitude": -83.6971,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "Curridabat",
+      "province": "San José",
+      "latitude": 9.9139,
+      "longitude": -84.0359,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "San Vicente",
+      "province": "San José",
+      "latitude": 9.9619,
+      "longitude": -84.0494,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "San Vicente de Moravia",
+      "province": "San José",
+      "latitude": 9.9616,
+      "longitude": -84.0488,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "San José",
+      "province": "阿拉胡埃拉省",
+      "latitude": 9.9339,
+      "longitude": -84.0849,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "Purral",
+      "province": "San José",
+      "latitude": 9.9569,
+      "longitude": -84.0321,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "Turrialba",
+      "province": "卡塔戈省",
+      "latitude": 9.9037,
+      "longitude": -83.6836,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "San Miguel",
+      "province": "San José",
+      "latitude": 9.8712,
+      "longitude": -84.0608,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "San Pedro",
+      "province": "San José",
+      "latitude": 9.9283,
+      "longitude": -84.0507,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "San Rafael Abajo",
+      "province": "San José",
+      "latitude": 9.831,
+      "longitude": -84.2901,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "克萨达",
+      "name_en": "Quesada",
+      "province": "阿拉胡埃拉省",
+      "latitude": 10.3266,
+      "longitude": -84.432,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "Ipís",
+      "province": "San José",
+      "latitude": 9.9655,
+      "longitude": -84.0182,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "卡塔戈",
+      "name_en": "Cartago",
+      "province": "卡塔戈省",
+      "latitude": 9.8637,
+      "longitude": -83.9195,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "Chacarita",
+      "province": "蓬塔雷纳斯省",
+      "latitude": 9.9842,
+      "longitude": -84.7789,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "San Juan",
+      "province": "San José",
+      "latitude": 9.9619,
+      "longitude": -84.0788,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "Mercedes Norte",
+      "province": "埃雷迪亚省",
+      "latitude": 10.0061,
+      "longitude": -84.1302,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "Guadalupe",
+      "province": "San José",
+      "latitude": 9.9481,
+      "longitude": -84.0567,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "Aserrí",
+      "province": "San José",
+      "latitude": 9.8614,
+      "longitude": -84.0927,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "San Rafael",
+      "province": "San José",
+      "latitude": 9.9283,
+      "longitude": -84.1354,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "San Felipe",
+      "province": "San José",
+      "latitude": 9.9044,
+      "longitude": -84.1062,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "Patarrá",
+      "province": "San José",
+      "latitude": 9.8806,
+      "longitude": -84.0355,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "Tejar",
+      "province": "San José",
+      "latitude": 9.743,
+      "longitude": -84.2322,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "埃雷迪亚",
+      "name_en": "Heredia",
+      "province": "埃雷迪亚省",
+      "latitude": 9.9987,
+      "longitude": -84.1159,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "San Pablo",
+      "province": "埃雷迪亚省",
+      "latitude": 9.9956,
+      "longitude": -84.0966,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "Calle Blancos",
+      "province": "San José",
+      "latitude": 9.9453,
+      "longitude": -84.0669,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "Cañas",
+      "province": "瓜纳卡斯特省",
+      "latitude": 10.4311,
+      "longitude": -85.0982,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "Guápiles",
+      "province": "利蒙省",
+      "latitude": 10.2168,
+      "longitude": -83.7848,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "Siquirres",
+      "province": "利蒙省",
+      "latitude": 10.0975,
+      "longitude": -83.5066,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "San Diego",
+      "province": "卡塔戈省",
+      "latitude": 9.9003,
+      "longitude": -84.0017,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "Colima",
+      "province": "San José",
+      "latitude": 9.9553,
+      "longitude": -84.0824,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "Esparza",
+      "province": "蓬塔雷纳斯省",
+      "latitude": 9.992,
+      "longitude": -84.6663,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "San Juan de Dios",
+      "province": "San José",
+      "latitude": 9.8781,
+      "longitude": -84.0844,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "尼科亚",
+      "name_en": "Nicoya",
+      "province": "瓜纳卡斯特省",
+      "latitude": 10.1504,
+      "longitude": -85.4509,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "San Rafael Arriba",
+      "province": "San José",
+      "latitude": 9.8765,
+      "longitude": -84.0748,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "Desamparados",
+      "province": "阿拉胡埃拉省",
+      "latitude": 9.9473,
+      "longitude": -84.5063,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "Concepción",
+      "province": "卡塔戈省",
+      "latitude": 9.9268,
+      "longitude": -84.0012,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "Alajuelita",
+      "province": "San José",
+      "latitude": 9.9029,
+      "longitude": -84.1004,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "Sabanilla",
+      "province": "San José",
+      "latitude": 9.9471,
+      "longitude": -84.0341,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "Granadilla",
+      "province": "San José",
+      "latitude": 9.932,
+      "longitude": -84.0196,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Cruz",
+      "province": "瓜纳卡斯特省",
+      "latitude": 10.2605,
+      "longitude": -85.5851,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "San Josecito",
+      "province": "埃雷迪亚省",
+      "latitude": 10.0127,
+      "longitude": -84.1075,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "Escazú",
+      "province": "San José",
+      "latitude": 9.9189,
+      "longitude": -84.1399,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "Naranjo",
+      "province": "阿拉胡埃拉省",
+      "latitude": 10.0987,
+      "longitude": -84.3782,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "Buenos Aires",
+      "province": "蓬塔雷纳斯省",
+      "latitude": 9.173,
+      "longitude": -83.3328,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "San Antonio",
+      "province": "埃雷迪亚省",
+      "latitude": 9.9816,
+      "longitude": -84.1859,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "San Ramón",
+      "province": "阿拉胡埃拉省",
+      "latitude": 10.088,
+      "longitude": -84.4702,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "Tres Ríos",
+      "province": "卡塔戈省",
+      "latitude": 9.9069,
+      "longitude": -83.9879,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "Daniel Flores",
+      "province": "San José",
+      "latitude": 9.3361,
+      "longitude": -83.67,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "Río Segundo",
+      "province": "阿拉胡埃拉省",
+      "latitude": 10.2398,
+      "longitude": -84.3171,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "Colón",
+      "province": "San José",
+      "latitude": 9.9149,
+      "longitude": -84.2417,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "San Rafael",
+      "province": "埃雷迪亚省",
+      "latitude": 9.9283,
+      "longitude": -84.1354,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "Santiago",
+      "province": "San José",
+      "latitude": 9.8464,
+      "longitude": -84.3143,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "圣安娜区",
+      "name_en": "Santa Ana",
+      "province": "San José",
+      "latitude": 9.9326,
+      "longitude": -84.1826,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "Quepos",
+      "province": "蓬塔雷纳斯省",
+      "latitude": 9.4306,
+      "longitude": -84.1623,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "San Juan",
+      "province": "阿拉胡埃拉省",
+      "latitude": 9.9619,
+      "longitude": -84.0788,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "Tilarán",
+      "province": "瓜纳卡斯特省",
+      "latitude": 10.467,
+      "longitude": -84.9677,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "Corredor",
+      "province": "蓬塔雷纳斯省",
+      "latitude": 8.64,
+      "longitude": -82.946,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "Guácimo",
+      "province": "利蒙省",
+      "latitude": 10.2129,
+      "longitude": -83.6879,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "Atenas",
+      "province": "阿拉胡埃拉省",
+      "latitude": 9.9749,
+      "longitude": -84.3789,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "Cot",
+      "province": "卡塔戈省",
+      "latitude": 9.8947,
+      "longitude": -83.8745,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "Golfito",
+      "province": "蓬塔雷纳斯省",
+      "latitude": 8.6033,
+      "longitude": -83.1134,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "Llorente",
+      "province": "埃雷迪亚省",
+      "latitude": 9.9984,
+      "longitude": -84.1581,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "Miramar",
+      "province": "蓬塔雷纳斯省",
+      "latitude": 10.0925,
+      "longitude": -84.7298,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "塔马林多区",
+      "name_en": "Tamarindo",
+      "province": "瓜纳卡斯特省",
+      "latitude": 10.2991,
+      "longitude": -85.8411,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "Orotina",
+      "province": "阿拉胡埃拉省",
+      "latitude": 9.9119,
+      "longitude": -84.5234,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "Santo Domingo",
+      "province": "埃雷迪亚省",
+      "latitude": 10.0639,
+      "longitude": -84.155,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "Salitrillos",
+      "province": "San José",
+      "latitude": 9.8537,
+      "longitude": -84.0916,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "Mercedes",
+      "province": "San José",
+      "latitude": 10.0061,
+      "longitude": -84.1302,
+      "timezone": "America/Costa_Rica"
+    },
+    {
+      "name": "",
+      "name_en": "Pocora",
+      "province": "利蒙省",
+      "latitude": 10.172,
+      "longitude": -83.6026,
+      "timezone": "America/Costa_Rica"
+    }
+  ]
+}

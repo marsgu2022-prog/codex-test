@@ -1,0 +1,942 @@
+{
+  "country_code": "DO",
+  "country_name": "多米尼加",
+  "cities": [
+    {
+      "name": "圣多明哥",
+      "name_en": "Santo Domingo",
+      "province": "国家特区",
+      "latitude": 18.4719,
+      "longitude": -69.8923,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "圣地牙哥",
+      "name_en": "Santiago de los Caballeros",
+      "province": "圣地亚哥省",
+      "latitude": 19.4504,
+      "longitude": -70.6908,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Santo Domingo Oeste",
+      "province": "圣多明哥省",
+      "latitude": 18.5,
+      "longitude": -70.0,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Santo Domingo Este",
+      "province": "圣多明哥省",
+      "latitude": 18.4851,
+      "longitude": -69.8476,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "San Pedro de Macorís",
+      "province": "圣彼德省",
+      "latitude": 18.4539,
+      "longitude": -69.3086,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "罗马纳",
+      "name_en": "La Romana",
+      "province": "罗马纳省",
+      "latitude": 18.4233,
+      "longitude": -68.9664,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Bella Vista",
+      "province": "国家特区",
+      "latitude": 18.4554,
+      "longitude": -69.9454,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "San Cristóbal",
+      "province": "San Cristóbal",
+      "latitude": 18.4171,
+      "longitude": -70.1068,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "圣斐利-银港",
+      "name_en": "Puerto Plata",
+      "province": "普拉塔港省",
+      "latitude": 19.7934,
+      "longitude": -70.6884,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "San Francisco de Macorís",
+      "province": "杜华德省",
+      "latitude": 19.2938,
+      "longitude": -70.2528,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Salvaleón de Higüey",
+      "province": "圣母省",
+      "latitude": 18.615,
+      "longitude": -68.708,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "拉维加",
+      "name_en": "La Vega",
+      "province": "La Vega",
+      "latitude": 19.2203,
+      "longitude": -70.531,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Punta Cana",
+      "province": "圣母省",
+      "latitude": 18.5818,
+      "longitude": -68.4043,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Cruz de Barahona",
+      "province": "巴拉奥纳省",
+      "latitude": 18.2086,
+      "longitude": -71.1007,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Bonao",
+      "province": "Monseñor Nouel",
+      "latitude": 18.9415,
+      "longitude": -70.4111,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "San Juan de la Maguana",
+      "province": "圣胡安省",
+      "latitude": 18.8064,
+      "longitude": -71.2263,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Bajos de Haina",
+      "province": "San Cristóbal",
+      "latitude": 18.4154,
+      "longitude": -70.0332,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Baní",
+      "province": "Peravia",
+      "latitude": 18.2797,
+      "longitude": -70.3318,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Moca",
+      "province": "艾斯派亚省",
+      "latitude": 19.3929,
+      "longitude": -70.5235,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Azua",
+      "province": "阿苏阿省",
+      "latitude": 18.4532,
+      "longitude": -70.7349,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Cristo Rey",
+      "province": "国家特区",
+      "latitude": 18.5,
+      "longitude": -69.9333,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Villa Francisca",
+      "province": "国家特区",
+      "latitude": 18.4828,
+      "longitude": -69.8891,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Mao",
+      "province": "巴尔韦德省",
+      "latitude": 19.5491,
+      "longitude": -71.0781,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Boca Chica",
+      "province": "圣多明哥省",
+      "latitude": 18.45,
+      "longitude": -69.6,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Salcedo",
+      "province": "Hermanas Mirabal",
+      "latitude": 19.3777,
+      "longitude": -70.4172,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Esperanza",
+      "province": "巴尔韦德省",
+      "latitude": 19.5847,
+      "longitude": -70.9849,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Cotuí",
+      "province": "Sánchez Ramírez",
+      "latitude": 19.0539,
+      "longitude": -70.1512,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Villa Altagracia",
+      "province": "San Cristóbal",
+      "latitude": 18.673,
+      "longitude": -70.171,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Hato Mayor del Rey",
+      "province": "阿托马约省",
+      "latitude": 18.7658,
+      "longitude": -69.2558,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Nagua",
+      "province": "María Trinidad Sánchez",
+      "latitude": 19.3832,
+      "longitude": -69.8474,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Villa Bisonó",
+      "province": "圣地亚哥省",
+      "latitude": 19.5638,
+      "longitude": -70.8758,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Jarabacoa",
+      "province": "La Vega",
+      "latitude": 19.1168,
+      "longitude": -70.6359,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Constanza",
+      "province": "La Vega",
+      "latitude": 18.9092,
+      "longitude": -70.745,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Villa Consuelo",
+      "province": "国家特区",
+      "latitude": 18.4833,
+      "longitude": -69.9,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Cruz de El Seibo",
+      "province": "El Seíbo",
+      "latitude": 18.7648,
+      "longitude": -69.0399,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Tamboril",
+      "province": "圣地亚哥省",
+      "latitude": 19.4854,
+      "longitude": -70.611,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Las Matas de Farfán",
+      "province": "圣胡安省",
+      "latitude": 18.8731,
+      "longitude": -71.5166,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "San José de Ocoa",
+      "province": "San José de Ocoa",
+      "latitude": 18.5468,
+      "longitude": -70.5069,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Bayaguana",
+      "province": "蒙特普拉塔省",
+      "latitude": 18.7503,
+      "longitude": -69.6352,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Río Grande",
+      "province": "普拉塔港省",
+      "latitude": 19.6667,
+      "longitude": -70.7667,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Monte Llano",
+      "province": "普拉塔港省",
+      "latitude": 19.7346,
+      "longitude": -70.5991,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Ciudad Nueva",
+      "province": "国家特区",
+      "latitude": 18.4671,
+      "longitude": -69.8934,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Neiba",
+      "province": "巴奥鲁可省",
+      "latitude": 18.4898,
+      "longitude": -71.4189,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Quisqueya",
+      "province": "圣彼德省",
+      "latitude": 18.5554,
+      "longitude": -69.4081,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "San Fernando de Monte Cristi",
+      "province": "蒙特克里斯蒂省",
+      "latitude": 19.848,
+      "longitude": -71.646,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Sabana Grande de Boyá",
+      "province": "蒙特普拉塔省",
+      "latitude": 18.945,
+      "longitude": -69.7933,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Dajabón",
+      "province": "Dajabón",
+      "latitude": 19.5481,
+      "longitude": -71.7082,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "San Ignacio de Sabaneta",
+      "province": "Santiago Rodríguez",
+      "latitude": 19.4784,
+      "longitude": -71.3393,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Monte Plata",
+      "province": "蒙特普拉塔省",
+      "latitude": 18.8075,
+      "longitude": -69.7843,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Sabana de la Mar",
+      "province": "阿托马约省",
+      "latitude": 19.0593,
+      "longitude": -69.3884,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "San Carlos",
+      "province": "国家特区",
+      "latitude": 18.4767,
+      "longitude": -69.8941,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Duvergé",
+      "province": "独立省",
+      "latitude": 18.3784,
+      "longitude": -71.5247,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Cambita Garabitos",
+      "province": "San Cristóbal",
+      "latitude": 18.4546,
+      "longitude": -70.1991,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "La Julia",
+      "province": "国家特区",
+      "latitude": 18.4667,
+      "longitude": -69.9333,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Cabral",
+      "province": "巴拉奥纳省",
+      "latitude": 18.25,
+      "longitude": -71.2167,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Comendador",
+      "province": "Elías Piña",
+      "latitude": 18.8775,
+      "longitude": -71.7032,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Salsipuedes",
+      "province": "Hermanas Mirabal",
+      "latitude": 19.4055,
+      "longitude": -70.3799,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Villa Vásquez",
+      "province": "蒙特克里斯蒂省",
+      "latitude": 19.7411,
+      "longitude": -71.4464,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Yamasá",
+      "province": "蒙特普拉塔省",
+      "latitude": 18.7732,
+      "longitude": -70.0258,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "San Gregorio de Nigua",
+      "province": "San Cristóbal",
+      "latitude": 18.3834,
+      "longitude": -70.0524,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Samaná",
+      "province": "萨马纳省",
+      "latitude": 19.204,
+      "longitude": -69.3341,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Sánchez",
+      "province": "萨马纳省",
+      "latitude": 19.2281,
+      "longitude": -69.6137,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Pedernales",
+      "province": "佩德纳莱斯省",
+      "latitude": 18.0356,
+      "longitude": -71.7467,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Vicente Noble",
+      "province": "巴拉奥纳省",
+      "latitude": 18.3844,
+      "longitude": -71.1801,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Sabana Yegua",
+      "province": "阿苏阿省",
+      "latitude": 18.7167,
+      "longitude": -71.0167,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "La Agustina",
+      "province": "国家特区",
+      "latitude": 18.5,
+      "longitude": -69.9333,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Las Matas de Santa Cruz",
+      "province": "蒙特克里斯蒂省",
+      "latitude": 19.6712,
+      "longitude": -71.5047,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Villa González",
+      "province": "圣地亚哥省",
+      "latitude": 19.5406,
+      "longitude": -70.7885,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Fantino",
+      "province": "Sánchez Ramírez",
+      "latitude": 19.1215,
+      "longitude": -70.2997,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "San José de Las Matas",
+      "province": "圣地亚哥省",
+      "latitude": 19.3392,
+      "longitude": -70.9382,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Las Guáranas",
+      "province": "杜华德省",
+      "latitude": 19.1931,
+      "longitude": -70.2083,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Pimentel",
+      "province": "杜华德省",
+      "latitude": 19.1842,
+      "longitude": -70.1088,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Miches",
+      "province": "El Seíbo",
+      "latitude": 18.9836,
+      "longitude": -69.0476,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Villa Jaragua",
+      "province": "巴奥鲁可省",
+      "latitude": 18.4908,
+      "longitude": -71.4838,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Río San Juan",
+      "province": "María Trinidad Sánchez",
+      "latitude": 19.6439,
+      "longitude": -70.0764,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Ensanche Luperón",
+      "province": "国家特区",
+      "latitude": 18.5,
+      "longitude": -69.9,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Piedra Blanca",
+      "province": "Monseñor Nouel",
+      "latitude": 18.8443,
+      "longitude": -70.3169,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Padre Las Casas",
+      "province": "阿苏阿省",
+      "latitude": 18.7317,
+      "longitude": -70.9392,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Zona Colonial",
+      "province": "国家特区",
+      "latitude": 18.47,
+      "longitude": -69.8864,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Imbert",
+      "province": "普拉塔港省",
+      "latitude": 19.7537,
+      "longitude": -70.8291,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Las Terrenas",
+      "province": "萨马纳省",
+      "latitude": 19.311,
+      "longitude": -69.5428,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Sosúa",
+      "province": "普拉塔港省",
+      "latitude": 19.7522,
+      "longitude": -70.5199,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Laguna Salada",
+      "province": "巴尔韦德省",
+      "latitude": 19.6504,
+      "longitude": -71.0843,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Tenares",
+      "province": "Hermanas Mirabal",
+      "latitude": 19.3744,
+      "longitude": -70.3509,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Peralta",
+      "province": "阿苏阿省",
+      "latitude": 18.5816,
+      "longitude": -70.7703,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "El Factor",
+      "province": "María Trinidad Sánchez",
+      "latitude": 19.3183,
+      "longitude": -69.8883,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Paya",
+      "province": "Peravia",
+      "latitude": 18.262,
+      "longitude": -70.2956,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Loma de Cabrera",
+      "province": "Dajabón",
+      "latitude": 19.4333,
+      "longitude": -71.6,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Monción",
+      "province": "Santiago Rodríguez",
+      "latitude": 19.4108,
+      "longitude": -71.1526,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Jimaní",
+      "province": "独立省",
+      "latitude": 18.4877,
+      "longitude": -71.8515,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Nizao",
+      "province": "Peravia",
+      "latitude": 18.247,
+      "longitude": -70.2105,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Gaspar Hernández",
+      "province": "艾斯派亚省",
+      "latitude": 19.6275,
+      "longitude": -70.2777,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Paraíso",
+      "province": "巴拉奥纳省",
+      "latitude": 17.9917,
+      "longitude": -71.1653,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Licey al Medio",
+      "province": "圣地亚哥省",
+      "latitude": 19.4333,
+      "longitude": -70.6,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Tamayo",
+      "province": "巴奥鲁可省",
+      "latitude": 18.3947,
+      "longitude": -71.2029,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Castillo",
+      "province": "杜华德省",
+      "latitude": 19.2082,
+      "longitude": -70.0273,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Jima Abajo",
+      "province": "La Vega",
+      "latitude": 19.1329,
+      "longitude": -70.3761,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Guaymate",
+      "province": "罗马纳省",
+      "latitude": 18.5879,
+      "longitude": -68.9787,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Otra Banda",
+      "province": "圣母省",
+      "latitude": 18.6502,
+      "longitude": -68.6628,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Galván",
+      "province": "巴奥鲁可省",
+      "latitude": 18.5023,
+      "longitude": -71.3427,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Rincón",
+      "province": "La Vega",
+      "latitude": 19.1194,
+      "longitude": -70.4063,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Veragua Arriba",
+      "province": "艾斯派亚省",
+      "latitude": 19.5833,
+      "longitude": -70.3333,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Villa Riva",
+      "province": "杜华德省",
+      "latitude": 19.1807,
+      "longitude": -69.9132,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Yayas de Viajama",
+      "province": "阿苏阿省",
+      "latitude": 18.6071,
+      "longitude": -70.9275,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "El Valle",
+      "province": "阿托马约省",
+      "latitude": 18.9757,
+      "longitude": -69.3783,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "San Víctor Arriba",
+      "province": "艾斯派亚省",
+      "latitude": 19.4774,
+      "longitude": -70.5358,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Yaguate",
+      "province": "San Cristóbal",
+      "latitude": 18.3353,
+      "longitude": -70.1811,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Estebanía",
+      "province": "阿苏阿省",
+      "latitude": 18.4577,
+      "longitude": -70.6435,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Juan de Herrera",
+      "province": "圣胡安省",
+      "latitude": 18.874,
+      "longitude": -71.2383,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Los Llanos",
+      "province": "圣彼德省",
+      "latitude": 18.6203,
+      "longitude": -69.4958,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "La Descubierta",
+      "province": "独立省",
+      "latitude": 18.5705,
+      "longitude": -71.7297,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Esperalvillo",
+      "province": "蒙特普拉塔省",
+      "latitude": 18.8151,
+      "longitude": -70.0356,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Enriquillo",
+      "province": "巴拉奥纳省",
+      "latitude": 17.9,
+      "longitude": -71.2333,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Cercado Abajo",
+      "province": "圣胡安省",
+      "latitude": 18.7268,
+      "longitude": -71.5174,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "San Rafael del Yuma",
+      "province": "圣母省",
+      "latitude": 18.4299,
+      "longitude": -68.6739,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Vallejuelo",
+      "province": "圣胡安省",
+      "latitude": 18.6535,
+      "longitude": -71.3343,
+      "timezone": "America/Santo_Domingo"
+    },
+    {
+      "name": "",
+      "name_en": "Sabana Iglesia",
+      "province": "圣地亚哥省",
+      "latitude": 19.3211,
+      "longitude": -70.7599,
+      "timezone": "America/Santo_Domingo"
+    }
+  ]
+}

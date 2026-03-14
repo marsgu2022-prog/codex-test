@@ -1,0 +1,86 @@
+{
+  "country_code": "GF",
+  "country_name": "法属圭亚那",
+  "cities": [
+    {
+      "name": "开云",
+      "name_en": "Cayenne",
+      "province": "Guyane",
+      "latitude": 4.9381,
+      "longitude": -52.3346,
+      "timezone": "America/Cayenne"
+    },
+    {
+      "name": "",
+      "name_en": "Matoury",
+      "province": "Guyane",
+      "latitude": 4.8492,
+      "longitude": -52.3235,
+      "timezone": "America/Cayenne"
+    },
+    {
+      "name": "马罗尼河畔圣洛朗",
+      "name_en": "Saint-Laurent-du-Maroni",
+      "province": "Guyane",
+      "latitude": 5.5015,
+      "longitude": -54.0292,
+      "timezone": "America/Cayenne"
+    },
+    {
+      "name": "库鲁",
+      "name_en": "Kourou",
+      "province": "Guyane",
+      "latitude": 5.1628,
+      "longitude": -52.6427,
+      "timezone": "America/Cayenne"
+    },
+    {
+      "name": "",
+      "name_en": "Rémire-Montjoly",
+      "province": "Guyane",
+      "latitude": 4.9167,
+      "longitude": -52.2667,
+      "timezone": "America/Cayenne"
+    },
+    {
+      "name": "阿帕图",
+      "name_en": "Apatou",
+      "province": "Guyane",
+      "latitude": 5.1553,
+      "longitude": -54.3431,
+      "timezone": "America/Cayenne"
+    },
+    {
+      "name": "",
+      "name_en": "Grand-Santi",
+      "province": "Guyane",
+      "latitude": 4.2729,
+      "longitude": -54.3815,
+      "timezone": "America/Cayenne"
+    },
+    {
+      "name": "",
+      "name_en": "Macouria",
+      "province": "Guyane",
+      "latitude": 4.9122,
+      "longitude": -52.3743,
+      "timezone": "America/Cayenne"
+    },
+    {
+      "name": "",
+      "name_en": "Maripasoula",
+      "province": "Guyane",
+      "latitude": 3.6416,
+      "longitude": -54.0317,
+      "timezone": "America/Cayenne"
+    },
+    {
+      "name": "",
+      "name_en": "Mana",
+      "province": "Guyane",
+      "latitude": 5.6691,
+      "longitude": -53.779,
+      "timezone": "America/Cayenne"
+    }
+  ]
+}

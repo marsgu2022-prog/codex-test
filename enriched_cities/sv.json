@@ -1,0 +1,598 @@
+{
+  "country_code": "SV",
+  "country_name": "萨尔瓦多",
+  "cities": [
+    {
+      "name": "圣萨尔瓦多",
+      "name_en": "San Salvador",
+      "province": "圣萨尔瓦多省",
+      "latitude": 13.6893,
+      "longitude": -89.1872,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "索亚潘戈",
+      "name_en": "Soyapango",
+      "province": "圣萨尔瓦多省",
+      "latitude": 13.7102,
+      "longitude": -89.1399,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "San Miguel",
+      "province": "圣米格尔省",
+      "latitude": 13.4826,
+      "longitude": -88.1821,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "圣安娜",
+      "name_en": "Santa Ana",
+      "province": "圣安娜省",
+      "latitude": 13.9883,
+      "longitude": -89.5568,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Mejicanos",
+      "province": "圣萨尔瓦多省",
+      "latitude": 13.724,
+      "longitude": -89.188,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "圣特克拉",
+      "name_en": "Santa Tecla",
+      "province": "拉利伯塔德省",
+      "latitude": 13.6774,
+      "longitude": -89.2833,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Apopa",
+      "province": "圣萨尔瓦多省",
+      "latitude": 13.8072,
+      "longitude": -89.1792,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Delgado",
+      "province": "圣萨尔瓦多省",
+      "latitude": 13.7217,
+      "longitude": -89.1687,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "松索纳特",
+      "name_en": "Sonsonate",
+      "province": "松索纳特省",
+      "latitude": 13.7173,
+      "longitude": -89.723,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "San Marcos",
+      "province": "圣萨尔瓦多省",
+      "latitude": 13.6611,
+      "longitude": -89.1825,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "乌苏卢坦",
+      "name_en": "Usulután",
+      "province": "Usulután",
+      "latitude": 13.3447,
+      "longitude": -88.4399,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Cojutepeque",
+      "province": "Cuscatlán",
+      "latitude": 13.7197,
+      "longitude": -88.9331,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Cuscatancingo",
+      "province": "圣萨尔瓦多省",
+      "latitude": 13.727,
+      "longitude": -89.1816,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "San Vicente",
+      "province": "圣维森特省",
+      "latitude": 13.6411,
+      "longitude": -88.7846,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Zacatecoluca",
+      "province": "拉巴斯省",
+      "latitude": 13.5087,
+      "longitude": -88.8702,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "San Martín",
+      "province": "Cuscatlán",
+      "latitude": 13.7833,
+      "longitude": -88.9167,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Ilopango",
+      "province": "圣萨尔瓦多省",
+      "latitude": 13.7017,
+      "longitude": -89.1094,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Ahuachapán",
+      "province": "Ahuachapán",
+      "latitude": 13.924,
+      "longitude": -89.8434,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "安蒂果库斯卡特兰",
+      "name_en": "Antiguo Cuscatlán",
+      "province": "拉利伯塔德省",
+      "latitude": 13.6649,
+      "longitude": -89.2532,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Chalchuapa",
+      "province": "圣安娜省",
+      "latitude": 13.9867,
+      "longitude": -89.6811,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Quezaltepeque",
+      "province": "拉利伯塔德省",
+      "latitude": 13.8312,
+      "longitude": -89.2722,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "La Unión",
+      "province": "La Unión",
+      "latitude": 13.3392,
+      "longitude": -87.8433,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Ayutuxtepeque",
+      "province": "圣萨尔瓦多省",
+      "latitude": 13.7354,
+      "longitude": -89.2022,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Acajutla",
+      "province": "松索纳特省",
+      "latitude": 13.5928,
+      "longitude": -89.8275,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Aguilares",
+      "province": "圣萨尔瓦多省",
+      "latitude": 13.9572,
+      "longitude": -89.1897,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Sensuntepeque",
+      "province": "Cabañas",
+      "latitude": 13.8758,
+      "longitude": -88.6273,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "查拉特南戈",
+      "name_en": "Chalatenango",
+      "province": "查拉特南戈省",
+      "latitude": 14.0414,
+      "longitude": -88.9395,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "伊萨尔科",
+      "name_en": "Izalco",
+      "province": "松索纳特省",
+      "latitude": 13.7447,
+      "longitude": -89.6731,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "梅塔潘",
+      "name_en": "Metapán",
+      "province": "圣安娜省",
+      "latitude": 14.3333,
+      "longitude": -89.45,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "San Rafael Oriente",
+      "province": "圣米格尔省",
+      "latitude": 13.3833,
+      "longitude": -88.35,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Puerto El Triunfo",
+      "province": "Usulután",
+      "latitude": 13.2833,
+      "longitude": -88.55,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "La Libertad",
+      "province": "拉利伯塔德省",
+      "latitude": 13.4883,
+      "longitude": -89.3222,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "San Francisco",
+      "province": "Morazán",
+      "latitude": 13.6941,
+      "longitude": -88.1041,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Sonzacate",
+      "province": "松索纳特省",
+      "latitude": 13.7342,
+      "longitude": -89.7147,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Santiago de María",
+      "province": "Usulután",
+      "latitude": 13.4833,
+      "longitude": -88.4667,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Armenia",
+      "province": "松索纳特省",
+      "latitude": 13.7436,
+      "longitude": -89.4989,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Santo Tomás",
+      "province": "圣萨尔瓦多省",
+      "latitude": 13.6408,
+      "longitude": -89.1333,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Rosa de Lima",
+      "province": "La Unión",
+      "latitude": 13.6247,
+      "longitude": -87.8936,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Turín",
+      "province": "Ahuachapán",
+      "latitude": 13.9664,
+      "longitude": -89.7661,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Zaragoza",
+      "province": "拉利伯塔德省",
+      "latitude": 13.5894,
+      "longitude": -89.2889,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Berlín",
+      "province": "Usulután",
+      "latitude": 13.5,
+      "longitude": -88.5333,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Guazapa",
+      "province": "圣萨尔瓦多省",
+      "latitude": 13.8769,
+      "longitude": -89.1731,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Jucuapa",
+      "province": "Usulután",
+      "latitude": 13.5167,
+      "longitude": -88.3833,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Ciudad Arce",
+      "province": "拉利伯塔德省",
+      "latitude": 13.8403,
+      "longitude": -89.4472,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Nueva Concepción",
+      "province": "查拉特南戈省",
+      "latitude": 14.1333,
+      "longitude": -89.3,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Juayúa",
+      "province": "松索纳特省",
+      "latitude": 13.8414,
+      "longitude": -89.7456,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Santiago Nonualco",
+      "province": "拉巴斯省",
+      "latitude": 13.5167,
+      "longitude": -88.95,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "El Tránsito",
+      "province": "圣米格尔省",
+      "latitude": 13.35,
+      "longitude": -88.35,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Atiquizaya",
+      "province": "Ahuachapán",
+      "latitude": 13.9769,
+      "longitude": -89.7525,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "San Antonio del Monte",
+      "province": "松索纳特省",
+      "latitude": 13.7164,
+      "longitude": -89.7383,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Jiquilisco",
+      "province": "Usulután",
+      "latitude": 13.3167,
+      "longitude": -88.5833,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "埃尔孔戈",
+      "name_en": "El Congo",
+      "province": "圣安娜省",
+      "latitude": 13.9089,
+      "longitude": -89.4958,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Chinameca",
+      "province": "圣米格尔省",
+      "latitude": 13.5,
+      "longitude": -88.35,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Ciudad Barrios",
+      "province": "圣米格尔省",
+      "latitude": 13.7667,
+      "longitude": -88.2667,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Concepción de Ataco",
+      "province": "Ahuachapán",
+      "latitude": 13.8703,
+      "longitude": -89.8486,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Nahuizalco",
+      "province": "松索纳特省",
+      "latitude": 13.7775,
+      "longitude": -89.7367,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "San Sebastián",
+      "province": "圣维森特省",
+      "latitude": 13.7333,
+      "longitude": -88.8333,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "San Juan Opico",
+      "province": "拉利伯塔德省",
+      "latitude": 13.8761,
+      "longitude": -89.3597,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Panchimalco",
+      "province": "圣萨尔瓦多省",
+      "latitude": 13.6128,
+      "longitude": -89.18,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Nuevo Cuscatlán",
+      "province": "拉利伯塔德省",
+      "latitude": 13.6486,
+      "longitude": -89.2653,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Chirilagua",
+      "province": "圣米格尔省",
+      "latitude": 13.2203,
+      "longitude": -88.1386,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Olocuilta",
+      "province": "拉巴斯省",
+      "latitude": 13.5697,
+      "longitude": -89.1172,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Candelaria de La Frontera",
+      "province": "圣安娜省",
+      "latitude": 14.1167,
+      "longitude": -89.65,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Tonacatepeque",
+      "province": "圣萨尔瓦多省",
+      "latitude": 13.7811,
+      "longitude": -89.1186,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Elena",
+      "province": "Usulután",
+      "latitude": 13.3833,
+      "longitude": -88.4167,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Nueva Guadalupe",
+      "province": "圣米格尔省",
+      "latitude": 13.5333,
+      "longitude": -88.35,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Apastepeque",
+      "province": "圣维森特省",
+      "latitude": 13.6667,
+      "longitude": -88.7833,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Coatepeque",
+      "province": "圣安娜省",
+      "latitude": 13.9286,
+      "longitude": -89.5042,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Suchitoto",
+      "province": "Cuscatlán",
+      "latitude": 13.9381,
+      "longitude": -89.0278,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "El Rosario",
+      "province": "拉巴斯省",
+      "latitude": 13.4978,
+      "longitude": -89.0297,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Guatajiagua",
+      "province": "Morazán",
+      "latitude": 13.6667,
+      "longitude": -88.2,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Rosario de Mora",
+      "province": "圣萨尔瓦多省",
+      "latitude": 13.5753,
+      "longitude": -89.2089,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "San Alejo",
+      "province": "La Unión",
+      "latitude": 13.4314,
+      "longitude": -87.9631,
+      "timezone": "America/El_Salvador"
+    },
+    {
+      "name": "",
+      "name_en": "Tacuba",
+      "province": "Ahuachapán",
+      "latitude": 13.9011,
+      "longitude": -89.9297,
+      "timezone": "America/El_Salvador"
+    }
+  ]
+}

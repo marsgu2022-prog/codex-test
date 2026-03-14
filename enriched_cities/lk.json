@@ -1,0 +1,550 @@
+{
+  "country_code": "LK",
+  "country_name": "斯里兰卡",
+  "cities": [
+    {
+      "name": "可伦坡",
+      "name_en": "Colombo",
+      "province": "西部省",
+      "latitude": 6.9355,
+      "longitude": 79.8487,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "代希瓦勒-芒特拉维尼",
+      "name_en": "Dehiwala-Mount Lavinia",
+      "province": "西部省",
+      "latitude": 6.8402,
+      "longitude": 79.8712,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "马哈拉贾马",
+      "name_en": "Maharagama",
+      "province": "西部省",
+      "latitude": 6.848,
+      "longitude": 79.9265,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "贾夫纳",
+      "name_en": "Jaffna",
+      "province": "北部省",
+      "latitude": 9.6684,
+      "longitude": 80.0074,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "莫拉图瓦",
+      "name_en": "Moratuwa",
+      "province": "西部省",
+      "latitude": 6.773,
+      "longitude": 79.8816,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "内贡博",
+      "name_en": "Negombo",
+      "province": "西部省",
+      "latitude": 7.2083,
+      "longitude": 79.8358,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "",
+      "name_en": "Pita Kotte",
+      "province": "西部省",
+      "latitude": 6.8905,
+      "longitude": 79.9015,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "",
+      "name_en": "Sri Jayewardenepura Kotte",
+      "province": "西部省",
+      "latitude": 6.883,
+      "longitude": 79.9071,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "康提",
+      "name_en": "Kandy",
+      "province": "中央省",
+      "latitude": 7.2906,
+      "longitude": 80.6336,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "亭可马里",
+      "name_en": "Trincomalee",
+      "province": "东部省",
+      "latitude": 8.5778,
+      "longitude": 81.2289,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "",
+      "name_en": "Kalmunai",
+      "province": "东部省",
+      "latitude": 7.409,
+      "longitude": 81.8347,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "加勒",
+      "name_en": "Galle",
+      "province": "南部省",
+      "latitude": 6.0461,
+      "longitude": 80.2103,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "佩德罗角",
+      "name_en": "Point Pedro",
+      "province": "北部省",
+      "latitude": 9.8167,
+      "longitude": 80.2333,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "巴提卡洛阿",
+      "name_en": "Batticaloa",
+      "province": "东部省",
+      "latitude": 7.7102,
+      "longitude": 81.6924,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "",
+      "name_en": "Katunayaka",
+      "province": "西部省",
+      "latitude": 7.1699,
+      "longitude": 79.8884,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "瓦尔维提图莱",
+      "name_en": "Valvedditturai",
+      "province": "北部省",
+      "latitude": 9.8167,
+      "longitude": 80.1667,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "马塔拉",
+      "name_en": "Matara",
+      "province": "南部省",
+      "latitude": 5.9485,
+      "longitude": 80.5353,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "巴特拉穆拉",
+      "name_en": "Battaramulla South",
+      "province": "西部省",
+      "latitude": 6.8964,
+      "longitude": 79.9181,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "丹布勒",
+      "name_en": "Dambulla",
+      "province": "中央省",
+      "latitude": 7.86,
+      "longitude": 80.6517,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "",
+      "name_en": "Kolonnawa",
+      "province": "西部省",
+      "latitude": 6.9329,
+      "longitude": 79.8848,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "",
+      "name_en": "Kotikawatta",
+      "province": "西部省",
+      "latitude": 6.9269,
+      "longitude": 79.9095,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "阿努拉德普勒",
+      "name_en": "Anuradhapura",
+      "province": "北中省",
+      "latitude": 8.3122,
+      "longitude": 80.4131,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "",
+      "name_en": "Vavuniya",
+      "province": "北部省",
+      "latitude": 8.7514,
+      "longitude": 80.4971,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "",
+      "name_en": "Hendala",
+      "province": "西部省",
+      "latitude": 6.9909,
+      "longitude": 79.883,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "",
+      "name_en": "Ambalangoda",
+      "province": "南部省",
+      "latitude": 6.2355,
+      "longitude": 80.0538,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "拉特纳普勒",
+      "name_en": "Ratnapura",
+      "province": "萨伯勒格穆沃省",
+      "latitude": 6.6858,
+      "longitude": 80.4036,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "巴杜勒",
+      "name_en": "Badulla",
+      "province": "乌沃省",
+      "latitude": 6.9802,
+      "longitude": 81.0577,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "普塔拉",
+      "name_en": "Puttalam",
+      "province": "西北省",
+      "latitude": 8.0362,
+      "longitude": 79.8283,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "",
+      "name_en": "Devinuwara",
+      "province": "南部省",
+      "latitude": 5.9283,
+      "longitude": 80.5888,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "",
+      "name_en": "Ampara",
+      "province": "东部省",
+      "latitude": 7.2975,
+      "longitude": 81.682,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "",
+      "name_en": "Welisara",
+      "province": "西部省",
+      "latitude": 7.0281,
+      "longitude": 79.9014,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "卡鲁塔拉",
+      "name_en": "Kalutara",
+      "province": "西部省",
+      "latitude": 6.5831,
+      "longitude": 79.9593,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "本托特",
+      "name_en": "Bentota",
+      "province": "南部省",
+      "latitude": 6.426,
+      "longitude": 79.9958,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "马特莱",
+      "name_en": "Matale",
+      "province": "中央省",
+      "latitude": 7.4698,
+      "longitude": 80.6217,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "",
+      "name_en": "Mannar",
+      "province": "北部省",
+      "latitude": 8.9894,
+      "longitude": 79.8784,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "",
+      "name_en": "Homagama",
+      "province": "西部省",
+      "latitude": 6.844,
+      "longitude": 80.0024,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "",
+      "name_en": "Beruwala",
+      "province": "西部省",
+      "latitude": 6.4788,
+      "longitude": 79.9828,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "般纳都拉",
+      "name_en": "Panadura",
+      "province": "西部省",
+      "latitude": 6.7132,
+      "longitude": 79.9026,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "",
+      "name_en": "Mulleriyawa",
+      "province": "西部省",
+      "latitude": 6.933,
+      "longitude": 79.9297,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "",
+      "name_en": "Kandana",
+      "province": "西部省",
+      "latitude": 7.048,
+      "longitude": 79.8937,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "",
+      "name_en": "Ja Ela",
+      "province": "西部省",
+      "latitude": 7.0744,
+      "longitude": 79.8919,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "",
+      "name_en": "Wattala",
+      "province": "西部省",
+      "latitude": 6.9892,
+      "longitude": 79.8917,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "",
+      "name_en": "Mullaittivu",
+      "province": "北部省",
+      "latitude": 9.268,
+      "longitude": 80.815,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "给拉尼亚",
+      "name_en": "Kelaniya",
+      "province": "西部省",
+      "latitude": 6.9553,
+      "longitude": 79.922,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "",
+      "name_en": "Peliyagoda",
+      "province": "西部省",
+      "latitude": 6.9685,
+      "longitude": 79.8836,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "",
+      "name_en": "Kurunegala",
+      "province": "西北省",
+      "latitude": 7.4839,
+      "longitude": 80.3683,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "努沃勒埃利耶",
+      "name_en": "Nuwara Eliya",
+      "province": "中央省",
+      "latitude": 6.9708,
+      "longitude": 80.7829,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "奇洛",
+      "name_en": "Chilaw",
+      "province": "西北省",
+      "latitude": 7.5758,
+      "longitude": 79.7953,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "加姆波勒",
+      "name_en": "Gampola",
+      "province": "中央省",
+      "latitude": 7.1643,
+      "longitude": 80.5696,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "",
+      "name_en": "Eravur Town",
+      "province": "东部省",
+      "latitude": 7.7782,
+      "longitude": 81.6038,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "",
+      "name_en": "Hanwella Ihala",
+      "province": "西部省",
+      "latitude": 6.9012,
+      "longitude": 80.0852,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "",
+      "name_en": "Weligama",
+      "province": "南部省",
+      "latitude": 5.975,
+      "longitude": 80.4297,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "",
+      "name_en": "Vakarai",
+      "province": "东部省",
+      "latitude": 8.1333,
+      "longitude": 81.4333,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "",
+      "name_en": "Kataragama",
+      "province": "乌沃省",
+      "latitude": 6.4134,
+      "longitude": 81.3346,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "卡格拉",
+      "name_en": "Kegalle",
+      "province": "萨伯勒格穆沃省",
+      "latitude": 7.2523,
+      "longitude": 80.3436,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "",
+      "name_en": "Hatton",
+      "province": "中央省",
+      "latitude": 6.8916,
+      "longitude": 80.5955,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "波隆纳鲁沃",
+      "name_en": "Polonnaruwa",
+      "province": "北中省",
+      "latitude": 7.9397,
+      "longitude": 81.0027,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "基利诺奇",
+      "name_en": "Kilinochchi",
+      "province": "北部省",
+      "latitude": 9.3961,
+      "longitude": 80.3982,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "",
+      "name_en": "Tangalle",
+      "province": "南部省",
+      "latitude": 6.0234,
+      "longitude": 80.7974,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "",
+      "name_en": "Monaragala",
+      "province": "乌沃省",
+      "latitude": 6.8714,
+      "longitude": 81.3487,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "",
+      "name_en": "Wellawaya",
+      "province": "乌沃省",
+      "latitude": 6.7369,
+      "longitude": 81.1028,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "加姆珀哈",
+      "name_en": "Gampaha",
+      "province": "西部省",
+      "latitude": 7.0897,
+      "longitude": 79.9925,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "",
+      "name_en": "Horana South",
+      "province": "西部省",
+      "latitude": 6.7159,
+      "longitude": 80.0626,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "",
+      "name_en": "Keppapularu",
+      "province": "北部省",
+      "latitude": 9.2754,
+      "longitude": 80.7553,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "",
+      "name_en": "Wattegama",
+      "province": "乌沃省",
+      "latitude": 6.7989,
+      "longitude": 81.4808,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "",
+      "name_en": "Minuwangoda",
+      "province": "西部省",
+      "latitude": 7.1663,
+      "longitude": 79.9533,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "",
+      "name_en": "Horawala Junction",
+      "province": "西部省",
+      "latitude": 6.4809,
+      "longitude": 80.1271,
+      "timezone": "Asia/Colombo"
+    },
+    {
+      "name": "",
+      "name_en": "Kuliyapitiya",
+      "province": "西北省",
+      "latitude": 7.4688,
+      "longitude": 80.0401,
+      "timezone": "Asia/Colombo"
+    }
+  ]
+}

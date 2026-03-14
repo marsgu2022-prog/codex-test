@@ -1,0 +1,1142 @@
+{
+  "country_code": "AO",
+  "country_name": "安哥拉",
+  "cities": [
+    {
+      "name": "罗安达",
+      "name_en": "Luanda",
+      "province": "罗安达省",
+      "latitude": -8.8368,
+      "longitude": 13.2343,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "卢班戈",
+      "name_en": "Lubango",
+      "province": "威拉省",
+      "latitude": -14.9172,
+      "longitude": 13.4925,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "万博",
+      "name_en": "Huambo",
+      "province": "万博省",
+      "latitude": -12.7761,
+      "longitude": 15.7392,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "本吉拉",
+      "name_en": "Benguela",
+      "province": "本格拉省",
+      "latitude": -12.5767,
+      "longitude": 13.4027,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Cabinda",
+      "province": "喀丙达省",
+      "latitude": -5.562,
+      "longitude": 12.1948,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Talatona",
+      "province": "罗安达省",
+      "latitude": -8.9178,
+      "longitude": 13.1856,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Malanje",
+      "province": "马兰热省",
+      "latitude": -9.5402,
+      "longitude": 16.341,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Cazenga",
+      "province": "罗安达省",
+      "latitude": -8.8249,
+      "longitude": 13.3132,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Saurimo",
+      "province": "南隆达省",
+      "latitude": -9.6608,
+      "longitude": 20.3915,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Ingombota",
+      "province": "罗安达省",
+      "latitude": -8.8181,
+      "longitude": 13.2289,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "洛比托",
+      "name_en": "Lobito",
+      "province": "本格拉省",
+      "latitude": -12.3644,
+      "longitude": 13.536,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Cuíto",
+      "province": "Bíe",
+      "latitude": -12.3833,
+      "longitude": 16.9333,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Uíge",
+      "province": "威热省",
+      "latitude": -7.6087,
+      "longitude": 15.0613,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Maianga",
+      "province": "罗安达省",
+      "latitude": -8.829,
+      "longitude": 13.231,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "卢埃纳",
+      "name_en": "Luena",
+      "province": "莫希科省",
+      "latitude": -11.7833,
+      "longitude": 19.9167,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Rangel",
+      "province": "罗安达省",
+      "latitude": -8.8264,
+      "longitude": 13.2629,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "纳米贝",
+      "name_en": "Mossamedes",
+      "province": "纳米贝",
+      "latitude": -15.1961,
+      "longitude": 12.1522,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "梅农盖",
+      "name_en": "Menongue",
+      "province": "Cuando Cobango",
+      "latitude": -14.6585,
+      "longitude": 17.691,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Chitato",
+      "province": "北隆达省",
+      "latitude": -7.3,
+      "longitude": 20.7333,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Sambizanga",
+      "province": "罗安达省",
+      "latitude": -8.7888,
+      "longitude": 13.2751,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "孙贝",
+      "name_en": "Sumbe",
+      "province": "南宽扎省",
+      "latitude": -11.206,
+      "longitude": 13.8437,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Soyo",
+      "province": "萨伊省",
+      "latitude": -6.1349,
+      "longitude": 12.3689,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Dundo",
+      "province": "北隆达省",
+      "latitude": -7.3664,
+      "longitude": 20.8156,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "N'dalatando",
+      "province": "北宽扎省",
+      "latitude": -9.2978,
+      "longitude": 14.9116,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Mbanza Kongo",
+      "province": "萨伊省",
+      "latitude": -6.2667,
+      "longitude": 14.2383,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Caála",
+      "province": "万博省",
+      "latitude": -12.8525,
+      "longitude": 15.5606,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "翁吉瓦",
+      "name_en": "Ondjiva",
+      "province": "库内内省",
+      "latitude": -17.0667,
+      "longitude": 15.7333,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Gabela",
+      "province": "南宽扎省",
+      "latitude": -10.8515,
+      "longitude": 14.3799,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Lucapa",
+      "province": "北隆达省",
+      "latitude": -8.4192,
+      "longitude": 20.7447,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Catumbela",
+      "province": "本格拉省",
+      "latitude": -12.43,
+      "longitude": 13.5468,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Negage",
+      "province": "威热省",
+      "latitude": -7.7594,
+      "longitude": 15.2722,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Porto Amboim",
+      "province": "南宽扎省",
+      "latitude": -10.7325,
+      "longitude": 13.7684,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Cubal",
+      "province": "本格拉省",
+      "latitude": -13.0387,
+      "longitude": 14.2455,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Cafunfo",
+      "province": "北隆达省",
+      "latitude": -8.7672,
+      "longitude": 17.9957,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Cela",
+      "province": "南宽扎省",
+      "latitude": -11.4217,
+      "longitude": 15.1235,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Quissecula",
+      "province": "南宽扎省",
+      "latitude": -11.3922,
+      "longitude": 15.092,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Matala",
+      "province": "威拉省",
+      "latitude": -14.7327,
+      "longitude": 15.0348,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Barra do Dande",
+      "province": "本戈省",
+      "latitude": -8.4718,
+      "longitude": 13.3701,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Bailundo",
+      "province": "马兰热省",
+      "latitude": -9.575,
+      "longitude": 15.9944,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Luquembo",
+      "province": "马兰热省",
+      "latitude": -10.7391,
+      "longitude": 17.7177,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Gama",
+      "province": "本戈省",
+      "latitude": -8.5675,
+      "longitude": 13.4764,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Camucuio",
+      "province": "纳米贝",
+      "latitude": -14.1167,
+      "longitude": 13.25,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Ganda",
+      "province": "本格拉省",
+      "latitude": -13.0159,
+      "longitude": 14.635,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Dondo",
+      "province": "北宽扎省",
+      "latitude": -9.6846,
+      "longitude": 14.4279,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Dondo",
+      "province": "北宽扎省",
+      "latitude": -9.6846,
+      "longitude": 14.4279,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Nzagi",
+      "province": "北宽扎省",
+      "latitude": -8.3855,
+      "longitude": 15.3013,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Camacupa",
+      "province": "Bíe",
+      "latitude": -12.0167,
+      "longitude": 17.4833,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Luau",
+      "province": "莫希科省",
+      "latitude": -10.7073,
+      "longitude": 22.2247,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Caxito",
+      "province": "本戈省",
+      "latitude": -8.5785,
+      "longitude": 13.6642,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Cuango-Luzamba",
+      "province": "北隆达省",
+      "latitude": -9.1458,
+      "longitude": 18.0445,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Samba",
+      "province": "罗安达省",
+      "latitude": -8.88,
+      "longitude": 13.1962,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Andulo",
+      "province": "Bíe",
+      "latitude": -11.4868,
+      "longitude": 16.6966,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Ucu Seles",
+      "province": "南宽扎省",
+      "latitude": -11.4124,
+      "longitude": 14.3066,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Tômbua",
+      "province": "纳米贝",
+      "latitude": -15.8039,
+      "longitude": 11.8448,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Baía Farta",
+      "province": "本格拉省",
+      "latitude": -12.6042,
+      "longitude": 13.1967,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Calulo",
+      "province": "南宽扎省",
+      "latitude": -10.0006,
+      "longitude": 14.8952,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Virei",
+      "province": "纳米贝",
+      "latitude": -15.727,
+      "longitude": 12.9496,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Maquela do Zombo",
+      "province": "威热省",
+      "latitude": -6.0572,
+      "longitude": 15.1097,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Cuímba",
+      "province": "萨伊省",
+      "latitude": -6.1208,
+      "longitude": 14.6209,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Buco Zau",
+      "province": "喀丙达省",
+      "latitude": -4.7667,
+      "longitude": 12.55,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Cacuso",
+      "province": "马兰热省",
+      "latitude": -9.421,
+      "longitude": 15.7467,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Balombo",
+      "province": "本格拉省",
+      "latitude": -12.3543,
+      "longitude": 14.7723,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Humbe",
+      "province": "库内内省",
+      "latitude": -16.6864,
+      "longitude": 14.9032,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Bocoio",
+      "province": "本格拉省",
+      "latitude": -12.4702,
+      "longitude": 14.1369,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Xangongo",
+      "province": "库内内省",
+      "latitude": -16.7444,
+      "longitude": 14.9749,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Cazombo",
+      "province": "莫希科省",
+      "latitude": -11.8991,
+      "longitude": 22.9022,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Cazombo",
+      "province": "北宽扎省",
+      "latitude": -11.8991,
+      "longitude": 22.9022,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Mussende",
+      "province": "南宽扎省",
+      "latitude": -10.5143,
+      "longitude": 16.0199,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Songo",
+      "province": "威热省",
+      "latitude": -7.3521,
+      "longitude": 14.8463,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Caluquembe",
+      "province": "威拉省",
+      "latitude": -13.8667,
+      "longitude": 14.4333,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Clara",
+      "province": "南宽扎省",
+      "latitude": -10.1916,
+      "longitude": 15.4341,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "N'zeto",
+      "province": "萨伊省",
+      "latitude": -7.228,
+      "longitude": 12.8696,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Catabola",
+      "province": "Bíe",
+      "latitude": -12.15,
+      "longitude": 17.2833,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Quibala",
+      "province": "南宽扎省",
+      "latitude": -10.7337,
+      "longitude": 14.98,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Catchiungo",
+      "province": "万博省",
+      "latitude": -12.566,
+      "longitude": 16.2259,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Chinguar",
+      "province": "Bíe",
+      "latitude": -12.5571,
+      "longitude": 16.338,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Cuilo",
+      "province": "北隆达省",
+      "latitude": -8.2362,
+      "longitude": 19.5257,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Lubalo",
+      "province": "北隆达省",
+      "latitude": -9.1545,
+      "longitude": 19.2814,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Chitembo",
+      "province": "Bíe",
+      "latitude": -13.55,
+      "longitude": 16.6333,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Dombe Grande",
+      "province": "本格拉省",
+      "latitude": -12.9517,
+      "longitude": 13.1025,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Belize",
+      "province": "喀丙达省",
+      "latitude": -4.65,
+      "longitude": 12.7667,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Quipungo",
+      "province": "威拉省",
+      "latitude": -14.8191,
+      "longitude": 14.535,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Longonjo",
+      "province": "万博省",
+      "latitude": -12.9079,
+      "longitude": 15.2485,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Sanza Pombo",
+      "province": "威热省",
+      "latitude": -7.3147,
+      "longitude": 16.0024,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Ucuma",
+      "province": "万博省",
+      "latitude": -12.9612,
+      "longitude": 15.0596,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Camabatela",
+      "province": "北宽扎省",
+      "latitude": -8.1881,
+      "longitude": 15.375,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Mungo",
+      "province": "万博省",
+      "latitude": -11.8327,
+      "longitude": 16.2361,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Capunda",
+      "province": "南宽扎省",
+      "latitude": -11.1333,
+      "longitude": 14.4667,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Conda",
+      "province": "南宽扎省",
+      "latitude": -11.1086,
+      "longitude": 14.3362,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Tombôco",
+      "province": "萨伊省",
+      "latitude": -6.8052,
+      "longitude": 13.3302,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Cassanguidi",
+      "province": "北隆达省",
+      "latitude": -7.4837,
+      "longitude": 21.3034,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Cuemba",
+      "province": "Bíe",
+      "latitude": -12.15,
+      "longitude": 18.0833,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Golungo Alto",
+      "province": "北宽扎省",
+      "latitude": -9.1333,
+      "longitude": 14.7667,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Lucala",
+      "province": "北宽扎省",
+      "latitude": -9.2727,
+      "longitude": 15.2521,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Lumbala",
+      "province": "莫希科省",
+      "latitude": -14.1016,
+      "longitude": 21.4353,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Nharêa",
+      "province": "Bíe",
+      "latitude": -11.4751,
+      "longitude": 16.965,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Cambundi",
+      "province": "马兰热省",
+      "latitude": -7.4686,
+      "longitude": 17.0377,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Cambundi",
+      "province": "马兰热省",
+      "latitude": -7.4686,
+      "longitude": 17.0377,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Cambundi Catembo",
+      "province": "马兰热省",
+      "latitude": -10.0753,
+      "longitude": 17.5506,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Alto Hama",
+      "province": "万博省",
+      "latitude": -12.2333,
+      "longitude": 15.55,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Londuimbali",
+      "province": "万博省",
+      "latitude": -12.2371,
+      "longitude": 15.317,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Cangandala",
+      "province": "马兰热省",
+      "latitude": -9.7833,
+      "longitude": 16.4333,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Cunda diá Baze",
+      "province": "马兰热省",
+      "latitude": -8.9077,
+      "longitude": 17.0534,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Caconda",
+      "province": "威拉省",
+      "latitude": -13.7356,
+      "longitude": 15.0618,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Cacongo",
+      "province": "喀丙达省",
+      "latitude": -5.2386,
+      "longitude": 12.1443,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Calonamba",
+      "province": "威拉省",
+      "latitude": -13.7739,
+      "longitude": 15.0911,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Calucinga",
+      "province": "Bíe",
+      "latitude": -11.3228,
+      "longitude": 16.1959,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Cuchi",
+      "province": "Cuando Cobango",
+      "latitude": -14.6498,
+      "longitude": 16.8993,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Caimbambo",
+      "province": "本格拉省",
+      "latitude": -13.0217,
+      "longitude": 14.0028,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Camboio",
+      "province": "本格拉省",
+      "latitude": -12.9265,
+      "longitude": 14.0989,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Cameia",
+      "province": "莫希科省",
+      "latitude": -11.6905,
+      "longitude": 20.8392,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Ecunna",
+      "province": "万博省",
+      "latitude": -12.6789,
+      "longitude": 15.5056,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Quilenda",
+      "province": "南宽扎省",
+      "latitude": -11.4667,
+      "longitude": 14.1333,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Cacolo",
+      "province": "南隆达省",
+      "latitude": -10.145,
+      "longitude": 19.266,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Buco",
+      "province": "马兰热省",
+      "latitude": -9.5583,
+      "longitude": 16.1464,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Camanongue",
+      "province": "莫希科省",
+      "latitude": -11.4361,
+      "longitude": 20.1646,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Cahama",
+      "province": "库内内省",
+      "latitude": -16.2856,
+      "longitude": 14.3096,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Banza Damba",
+      "province": "威热省",
+      "latitude": -6.8883,
+      "longitude": 15.0152,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Chongoroi",
+      "province": "本格拉省",
+      "latitude": -13.5742,
+      "longitude": 13.9406,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Damba",
+      "province": "威热省",
+      "latitude": -6.6787,
+      "longitude": 15.1313,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Jamba",
+      "province": "Cuando Cobango",
+      "latitude": -17.5,
+      "longitude": 22.6667,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Cunhinga",
+      "province": "Bíe",
+      "latitude": -12.2333,
+      "longitude": 16.7833,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Ambriz",
+      "province": "本戈省",
+      "latitude": -7.8463,
+      "longitude": 13.1078,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Uacu Cungo",
+      "province": "南宽扎省",
+      "latitude": -11.3567,
+      "longitude": 15.1172,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Bibala",
+      "province": "纳米贝",
+      "latitude": -14.7665,
+      "longitude": 13.3491,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Chibia",
+      "province": "威拉省",
+      "latitude": -15.1831,
+      "longitude": 13.6991,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Chipindo",
+      "province": "威拉省",
+      "latitude": -13.8142,
+      "longitude": 15.7904,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Ebo",
+      "province": "南宽扎省",
+      "latitude": -11.05,
+      "longitude": 14.7167,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Mavinga",
+      "province": "Cuando Cobango",
+      "latitude": -15.7935,
+      "longitude": 20.3637,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Chicomba",
+      "province": "威拉省",
+      "latitude": -14.1333,
+      "longitude": 14.9167,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Praia Bebe",
+      "province": "本格拉省",
+      "latitude": -12.4096,
+      "longitude": 13.5035,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Calandula",
+      "province": "马兰热省",
+      "latitude": -9.0898,
+      "longitude": 15.9538,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Calandula",
+      "province": "莫希科省",
+      "latitude": -9.0898,
+      "longitude": 15.9538,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Calai",
+      "province": "Cuando Cobango",
+      "latitude": -17.889,
+      "longitude": 19.7706,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Quibaxe",
+      "province": "本戈省",
+      "latitude": -8.5006,
+      "longitude": 14.5859,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Muconda",
+      "province": "南隆达省",
+      "latitude": -10.5924,
+      "longitude": 21.318,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Chissamba",
+      "province": "Bíe",
+      "latitude": -12.1667,
+      "longitude": 17.3333,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Puri",
+      "province": "威热省",
+      "latitude": -7.6947,
+      "longitude": 15.6542,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Dala",
+      "province": "南隆达省",
+      "latitude": -11.0333,
+      "longitude": 20.2,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Dala",
+      "province": "Bíe",
+      "latitude": -11.0333,
+      "longitude": 20.2,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Chela",
+      "province": "万博省",
+      "latitude": -12.3026,
+      "longitude": 15.4336,
+      "timezone": "Africa/Luanda"
+    },
+    {
+      "name": "",
+      "name_en": "Léua",
+      "province": "莫希科省",
+      "latitude": -11.6575,
+      "longitude": 20.4477,
+      "timezone": "Africa/Luanda"
+    }
+  ]
+}

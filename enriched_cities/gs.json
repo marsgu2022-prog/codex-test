@@ -1,0 +1,14 @@
+{
+  "country_code": "GS",
+  "country_name": "南乔治亚岛和南桑德韦奇岛",
+  "cities": [
+    {
+      "name": "古利德维肯",
+      "name_en": "Grytviken",
+      "province": "",
+      "latitude": -54.2811,
+      "longitude": -36.5092,
+      "timezone": "Atlantic/South_Georgia"
+    }
+  ]
+}

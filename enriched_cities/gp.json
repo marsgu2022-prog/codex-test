@@ -1,0 +1,182 @@
+{
+  "country_code": "GP",
+  "country_name": "瓜德罗普",
+  "cities": [
+    {
+      "name": "萨莱比梅",
+      "name_en": "Les Abymes",
+      "province": "Guadeloupe",
+      "latitude": 16.273,
+      "longitude": -61.5051,
+      "timezone": "America/Guadeloupe"
+    },
+    {
+      "name": "",
+      "name_en": "Baie-Mahault",
+      "province": "Guadeloupe",
+      "latitude": 16.2674,
+      "longitude": -61.5854,
+      "timezone": "America/Guadeloupe"
+    },
+    {
+      "name": "",
+      "name_en": "Le Gosier",
+      "province": "Guadeloupe",
+      "latitude": 16.2062,
+      "longitude": -61.4931,
+      "timezone": "America/Guadeloupe"
+    },
+    {
+      "name": "",
+      "name_en": "Petit-Bourg",
+      "province": "Guadeloupe",
+      "latitude": 16.1916,
+      "longitude": -61.5914,
+      "timezone": "America/Guadeloupe"
+    },
+    {
+      "name": "",
+      "name_en": "Sainte-Anne",
+      "province": "Guadeloupe",
+      "latitude": 16.2256,
+      "longitude": -61.381,
+      "timezone": "America/Guadeloupe"
+    },
+    {
+      "name": "",
+      "name_en": "Le Moule",
+      "province": "Guadeloupe",
+      "latitude": 16.3316,
+      "longitude": -61.3466,
+      "timezone": "America/Guadeloupe"
+    },
+    {
+      "name": "",
+      "name_en": "Sainte-Rose",
+      "province": "Guadeloupe",
+      "latitude": 16.3326,
+      "longitude": -61.6969,
+      "timezone": "America/Guadeloupe"
+    },
+    {
+      "name": "",
+      "name_en": "Capesterre-Belle-Eau",
+      "province": "Guadeloupe",
+      "latitude": 16.045,
+      "longitude": -61.5643,
+      "timezone": "America/Guadeloupe"
+    },
+    {
+      "name": "皮特尔角城",
+      "name_en": "Pointe-à-Pitre",
+      "province": "Guadeloupe",
+      "latitude": 16.2364,
+      "longitude": -61.5346,
+      "timezone": "America/Guadeloupe"
+    },
+    {
+      "name": "",
+      "name_en": "Lamentin",
+      "province": "Guadeloupe",
+      "latitude": 16.2705,
+      "longitude": -61.6317,
+      "timezone": "America/Guadeloupe"
+    },
+    {
+      "name": "",
+      "name_en": "Saint-François",
+      "province": "Guadeloupe",
+      "latitude": 16.2524,
+      "longitude": -61.2733,
+      "timezone": "America/Guadeloupe"
+    },
+    {
+      "name": "巴斯特尔",
+      "name_en": "Basse-Terre",
+      "province": "Guadeloupe",
+      "latitude": 15.9971,
+      "longitude": -61.7321,
+      "timezone": "America/Guadeloupe"
+    },
+    {
+      "name": "",
+      "name_en": "Saint-Claude",
+      "province": "Guadeloupe",
+      "latitude": 16.0252,
+      "longitude": -61.6998,
+      "timezone": "America/Guadeloupe"
+    },
+    {
+      "name": "",
+      "name_en": "Trois-Rivières",
+      "province": "Guadeloupe",
+      "latitude": 15.9759,
+      "longitude": -61.6449,
+      "timezone": "America/Guadeloupe"
+    },
+    {
+      "name": "",
+      "name_en": "Gourbeyre",
+      "province": "Guadeloupe",
+      "latitude": 15.9945,
+      "longitude": -61.692,
+      "timezone": "America/Guadeloupe"
+    },
+    {
+      "name": "",
+      "name_en": "Petit-Canal",
+      "province": "Guadeloupe",
+      "latitude": 16.3791,
+      "longitude": -61.4872,
+      "timezone": "America/Guadeloupe"
+    },
+    {
+      "name": "",
+      "name_en": "Pointe-Noire",
+      "province": "Guadeloupe",
+      "latitude": 16.2322,
+      "longitude": -61.7892,
+      "timezone": "America/Guadeloupe"
+    },
+    {
+      "name": "",
+      "name_en": "Vieux-Habitants",
+      "province": "Guadeloupe",
+      "latitude": 16.0587,
+      "longitude": -61.7667,
+      "timezone": "America/Guadeloupe"
+    },
+    {
+      "name": "",
+      "name_en": "Grand-Bourg",
+      "province": "Guadeloupe",
+      "latitude": 15.884,
+      "longitude": -61.3148,
+      "timezone": "America/Guadeloupe"
+    },
+    {
+      "name": "",
+      "name_en": "Baillif",
+      "province": "Guadeloupe",
+      "latitude": 16.0204,
+      "longitude": -61.7461,
+      "timezone": "America/Guadeloupe"
+    },
+    {
+      "name": "",
+      "name_en": "Port-Louis",
+      "province": "Guadeloupe",
+      "latitude": 16.4175,
+      "longitude": -61.5305,
+      "timezone": "America/Guadeloupe"
+    },
+    {
+      "name": "",
+      "name_en": "Anse-Bertrand",
+      "province": "Guadeloupe",
+      "latitude": 16.4724,
+      "longitude": -61.5074,
+      "timezone": "America/Guadeloupe"
+    }
+  ]
+}

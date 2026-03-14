@@ -1,0 +1,38 @@
+{
+  "country_code": "AS",
+  "country_name": "美属萨摩亚",
+  "cities": [
+    {
+      "name": "帕果帕果",
+      "name_en": "Pago Pago",
+      "province": "Eastern District",
+      "latitude": -14.2781,
+      "longitude": -170.7025,
+      "timezone": "Pacific/Pago_Pago"
+    },
+    {
+      "name": "塔富纳",
+      "name_en": "Tāfuna",
+      "province": "Western District",
+      "latitude": -14.3358,
+      "longitude": -170.72,
+      "timezone": "Pacific/Pago_Pago"
+    },
+    {
+      "name": "",
+      "name_en": "Ta`ū",
+      "province": "Manu'a",
+      "latitude": -14.2336,
+      "longitude": -169.5144,
+      "timezone": "Pacific/Pago_Pago"
+    },
+    {
+      "name": "",
+      "name_en": "Taulaga",
+      "province": "Swains Island",
+      "latitude": -11.0553,
+      "longitude": -171.0883,
+      "timezone": "Pacific/Pago_Pago"
+    }
+  ]
+}

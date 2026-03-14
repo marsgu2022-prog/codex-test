@@ -1,0 +1,86 @@
+{
+  "country_code": "BM",
+  "country_name": "百慕大",
+  "cities": [
+    {
+      "name": "",
+      "name_en": "Pembroke Parish",
+      "province": "Pembroke",
+      "latitude": 32.3002,
+      "longitude": -64.792,
+      "timezone": "Atlantic/Bermuda"
+    },
+    {
+      "name": "",
+      "name_en": "Warwick Parish",
+      "province": "Warwick",
+      "latitude": 32.2657,
+      "longitude": -64.8092,
+      "timezone": "Atlantic/Bermuda"
+    },
+    {
+      "name": "",
+      "name_en": "Sandys Parish",
+      "province": "Sandys",
+      "latitude": 32.2964,
+      "longitude": -64.8693,
+      "timezone": "Atlantic/Bermuda"
+    },
+    {
+      "name": "",
+      "name_en": "Devonshire Parish",
+      "province": "Devonshire",
+      "latitude": 32.3058,
+      "longitude": -64.7575,
+      "timezone": "Atlantic/Bermuda"
+    },
+    {
+      "name": "",
+      "name_en": "Southampton Parish",
+      "province": "Southampton",
+      "latitude": 32.2516,
+      "longitude": -64.8547,
+      "timezone": "Atlantic/Bermuda"
+    },
+    {
+      "name": "",
+      "name_en": "Hamilton Parish",
+      "province": "Hamilton",
+      "latitude": 32.3422,
+      "longitude": -64.7302,
+      "timezone": "Atlantic/Bermuda"
+    },
+    {
+      "name": "",
+      "name_en": "Paget Parish",
+      "province": "Paget",
+      "latitude": 32.2802,
+      "longitude": -64.7833,
+      "timezone": "Atlantic/Bermuda"
+    },
+    {
+      "name": "",
+      "name_en": "St George's Parish",
+      "province": "Saint Georgeʼs",
+      "latitude": 32.3725,
+      "longitude": -64.6976,
+      "timezone": "Atlantic/Bermuda"
+    },
+    {
+      "name": "",
+      "name_en": "Smith's Parish",
+      "province": "Smithʼs",
+      "latitude": 32.3139,
+      "longitude": -64.739,
+      "timezone": "Atlantic/Bermuda"
+    },
+    {
+      "name": "哈密尔顿",
+      "name_en": "Hamilton",
+      "province": "Hamilton city",
+      "latitude": 32.2949,
+      "longitude": -64.783,
+      "timezone": "Atlantic/Bermuda"
+    }
+  ]
+}

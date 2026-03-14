@@ -1,0 +1,910 @@
+{
+  "country_code": "GH",
+  "country_name": "加纳",
+  "cities": [
+    {
+      "name": "库马西",
+      "name_en": "Kumasi",
+      "province": "Ashanti",
+      "latitude": 6.6885,
+      "longitude": -1.6244,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "阿克拉",
+      "name_en": "Accra",
+      "province": "Greater Accra",
+      "latitude": 5.556,
+      "longitude": -0.1969,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Tamale",
+      "province": "Northern",
+      "latitude": 9.4008,
+      "longitude": -0.8393,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Takoradi",
+      "province": "Western",
+      "latitude": 4.8982,
+      "longitude": -1.7603,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Sekondi",
+      "province": "Western",
+      "latitude": 4.9342,
+      "longitude": -1.7145,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "海岸角",
+      "name_en": "Cape Coast",
+      "province": "Central",
+      "latitude": 5.1053,
+      "longitude": -1.2466,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Atsiaman",
+      "province": "Greater Accra",
+      "latitude": 5.6978,
+      "longitude": -0.3282,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "奥巴西",
+      "name_en": "Ashaiman",
+      "province": "Greater Accra",
+      "latitude": 5.6978,
+      "longitude": -0.3282,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Obuase",
+      "province": "Ashanti",
+      "latitude": 6.2023,
+      "longitude": -1.668,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "特马",
+      "name_en": "Tema",
+      "province": "Greater Accra",
+      "latitude": 5.6698,
+      "longitude": -0.0166,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "科福里杜亚",
+      "name_en": "Koforidua",
+      "province": "Eastern",
+      "latitude": 6.0941,
+      "longitude": -0.2591,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Teshi Old Town",
+      "province": "Greater Accra",
+      "latitude": 5.5836,
+      "longitude": -0.1072,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "塞康第─塔科拉迪",
+      "name_en": "Sekondi-Takoradi",
+      "province": "Western",
+      "latitude": 4.9268,
+      "longitude": -1.7577,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Ho",
+      "province": "Volta",
+      "latitude": 6.6008,
+      "longitude": 0.4713,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Amanfrom",
+      "province": "Greater Accra",
+      "latitude": 5.5353,
+      "longitude": -0.3983,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Medina Estates",
+      "province": "Greater Accra",
+      "latitude": 5.6658,
+      "longitude": -0.1631,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Twifu Praso",
+      "province": "Central",
+      "latitude": 5.6141,
+      "longitude": -1.5502,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Japekrom",
+      "province": "Bono",
+      "latitude": 7.5758,
+      "longitude": -2.7852,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Tema New Town",
+      "province": "Greater Accra",
+      "latitude": 5.654,
+      "longitude": 0.0264,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "苏尼亚尼",
+      "name_en": "Sunyani",
+      "province": "Bono",
+      "latitude": 7.3399,
+      "longitude": -2.3268,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Hohoe",
+      "province": "Volta",
+      "latitude": 6.6008,
+      "longitude": 0.4713,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Jirapa",
+      "province": "Upper West",
+      "latitude": 10.5369,
+      "longitude": -2.7016,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Kasoa",
+      "province": "Central",
+      "latitude": 5.5345,
+      "longitude": -0.4168,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Gbawe",
+      "province": "Greater Accra",
+      "latitude": 5.5769,
+      "longitude": -0.3104,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Techiman",
+      "province": "Bono East",
+      "latitude": 7.5905,
+      "longitude": -1.9395,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "博尔加坦加",
+      "name_en": "Bolgatanga",
+      "province": "Upper East",
+      "latitude": 10.7856,
+      "longitude": -0.8514,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Wa",
+      "province": "Upper West",
+      "latitude": 10.0607,
+      "longitude": -2.5019,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Mandela",
+      "province": "Greater Accra",
+      "latitude": 5.5522,
+      "longitude": -0.3391,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Bawku",
+      "province": "Upper East",
+      "latitude": 11.0593,
+      "longitude": -0.2425,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Winneba",
+      "province": "Central",
+      "latitude": 5.3511,
+      "longitude": -0.6231,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Ejura",
+      "province": "Ashanti",
+      "latitude": 7.3856,
+      "longitude": -1.3562,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Berekum",
+      "province": "Bono",
+      "latitude": 7.4534,
+      "longitude": -2.584,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Nungua",
+      "province": "Greater Accra",
+      "latitude": 5.601,
+      "longitude": -0.0771,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Aflao",
+      "province": "Volta",
+      "latitude": 6.1198,
+      "longitude": 1.1901,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Yendi",
+      "province": "Northern",
+      "latitude": 9.4427,
+      "longitude": -0.0099,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Buduburam",
+      "province": "Central",
+      "latitude": 5.5231,
+      "longitude": -0.4772,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Akim Oda",
+      "province": "Eastern",
+      "latitude": 5.9267,
+      "longitude": -0.9858,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Swedru",
+      "province": "Central",
+      "latitude": 5.5371,
+      "longitude": -0.6998,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Kintampo",
+      "province": "Bono East",
+      "latitude": 8.0563,
+      "longitude": -1.7306,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "曼庞",
+      "name_en": "Mampong",
+      "province": "Ashanti",
+      "latitude": 7.0627,
+      "longitude": -1.4001,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Adenta",
+      "province": "Greater Accra",
+      "latitude": 5.7142,
+      "longitude": -0.1542,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Suhum",
+      "province": "Eastern",
+      "latitude": 6.0409,
+      "longitude": -0.45,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Tafo",
+      "province": "Ashanti",
+      "latitude": 6.7316,
+      "longitude": -1.6137,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Tarkwa",
+      "province": "Western",
+      "latitude": 5.3038,
+      "longitude": -1.9896,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Lashibi",
+      "province": "Greater Accra",
+      "latitude": 5.6848,
+      "longitude": -0.0401,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "恩萨瓦姆",
+      "name_en": "Nsawam",
+      "province": "Eastern",
+      "latitude": 5.8089,
+      "longitude": -0.3503,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Dome",
+      "province": "Greater Accra",
+      "latitude": 5.65,
+      "longitude": -0.2361,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Nkawkaw",
+      "province": "Eastern",
+      "latitude": 6.5458,
+      "longitude": -0.7626,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Agogo",
+      "province": "Ashanti",
+      "latitude": 6.8,
+      "longitude": -1.0819,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Asamankese",
+      "province": "Eastern",
+      "latitude": 5.8601,
+      "longitude": -0.6635,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "温奇",
+      "name_en": "Wankyi",
+      "province": "Bono",
+      "latitude": 7.7386,
+      "longitude": -2.1036,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Osu",
+      "province": "Greater Accra",
+      "latitude": 5.5573,
+      "longitude": -0.1864,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Konongo",
+      "province": "Ashanti",
+      "latitude": 6.6167,
+      "longitude": -1.2167,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "奥芬河畔Dunkwa",
+      "name_en": "Dunkwa",
+      "province": "Central",
+      "latitude": 5.96,
+      "longitude": -1.7779,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Taifa",
+      "province": "Greater Accra",
+      "latitude": 5.6582,
+      "longitude": -0.2522,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Mankesim",
+      "province": "Central",
+      "latitude": 5.2717,
+      "longitude": -1.0152,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Savelugu",
+      "province": "Northern",
+      "latitude": 9.6238,
+      "longitude": -0.827,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Domaa-Ahenkro",
+      "province": "Bono",
+      "latitude": 7.2739,
+      "longitude": -2.8735,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Assin Foso",
+      "province": "Central",
+      "latitude": 5.7,
+      "longitude": -1.65,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "New Achimota",
+      "province": "Greater Accra",
+      "latitude": 5.6266,
+      "longitude": -0.2581,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Bibiani",
+      "province": "Western North",
+      "latitude": 6.452,
+      "longitude": -2.3163,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Mim",
+      "province": "Ahafo",
+      "latitude": 6.9041,
+      "longitude": -2.5611,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Prestea",
+      "province": "Western",
+      "latitude": 5.4338,
+      "longitude": -2.1429,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Esim",
+      "province": "Western",
+      "latitude": 4.8664,
+      "longitude": -2.2418,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Nkoranza",
+      "province": "Bono East",
+      "latitude": 7.5713,
+      "longitude": -1.7087,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "埃尔米纳",
+      "name_en": "Elmina",
+      "province": "Central",
+      "latitude": 5.0847,
+      "longitude": -1.3509,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Bimbila",
+      "province": "Northern",
+      "latitude": 8.8549,
+      "longitude": 0.0592,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Anloga",
+      "province": "Volta",
+      "latitude": 5.7947,
+      "longitude": 0.8973,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Akwatia",
+      "province": "Eastern",
+      "latitude": 6.0402,
+      "longitude": -0.8088,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Sakumona",
+      "province": "Greater Accra",
+      "latitude": 5.6213,
+      "longitude": -0.0519,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "阿泰布布",
+      "name_en": "Atebubu",
+      "province": "Bono East",
+      "latitude": 7.7554,
+      "longitude": -0.9808,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Awoshi",
+      "province": "Greater Accra",
+      "latitude": 5.5838,
+      "longitude": -0.2779,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Ahwiaa",
+      "province": "Ashanti",
+      "latitude": 6.7605,
+      "longitude": -1.594,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Bekwai",
+      "province": "Ashanti",
+      "latitude": 6.452,
+      "longitude": -1.5787,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Akatsi",
+      "province": "Volta",
+      "latitude": 6.1316,
+      "longitude": 0.7985,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Dzodze",
+      "province": "Volta",
+      "latitude": 6.2367,
+      "longitude": 0.9958,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Nsoatre",
+      "province": "Bono",
+      "latitude": 7.4035,
+      "longitude": -2.4663,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Effiduase",
+      "province": "Ashanti",
+      "latitude": 6.8468,
+      "longitude": -1.3961,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "New Tafo",
+      "province": "Ashanti",
+      "latitude": 6.719,
+      "longitude": -1.6119,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Yegyi",
+      "province": "Bono East",
+      "latitude": 8.2254,
+      "longitude": -0.6489,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Kade",
+      "province": "Eastern",
+      "latitude": 6.0939,
+      "longitude": -0.836,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Anyinam",
+      "province": "Eastern",
+      "latitude": 6.3816,
+      "longitude": -0.5493,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Atronie",
+      "province": "Bono",
+      "latitude": 7.1534,
+      "longitude": -2.405,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Begoro",
+      "province": "Eastern",
+      "latitude": 6.3871,
+      "longitude": -0.3774,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Kpandu",
+      "province": "Volta",
+      "latitude": 6.9954,
+      "longitude": 0.2931,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Salaga",
+      "province": "Savannah",
+      "latitude": 8.5508,
+      "longitude": -0.5188,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Navrongo",
+      "province": "Upper East",
+      "latitude": 10.8947,
+      "longitude": -1.0908,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Saltpond",
+      "province": "Central",
+      "latitude": 5.2091,
+      "longitude": -1.0606,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Elubo",
+      "province": "Western",
+      "latitude": 5.2851,
+      "longitude": -2.7666,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Damongo",
+      "province": "Savannah",
+      "latitude": 9.083,
+      "longitude": -1.8188,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Dambai",
+      "province": "Oti",
+      "latitude": 8.0662,
+      "longitude": 0.1795,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Goaso",
+      "province": "Ahafo",
+      "latitude": 6.8036,
+      "longitude": -2.5172,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Shama Junction",
+      "province": "Western",
+      "latitude": 5.0181,
+      "longitude": -1.6644,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Apam",
+      "province": "Central",
+      "latitude": 5.285,
+      "longitude": -0.746,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Foso",
+      "province": "Central",
+      "latitude": 5.7012,
+      "longitude": -1.2866,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Ahwiaa",
+      "province": "Ashanti",
+      "latitude": 6.7605,
+      "longitude": -1.594,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Aburi",
+      "province": "Eastern",
+      "latitude": 5.848,
+      "longitude": -0.1745,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "凯塔",
+      "name_en": "Keta",
+      "province": "Volta",
+      "latitude": 5.9179,
+      "longitude": 0.9879,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Tepa",
+      "province": "Ashanti",
+      "latitude": 7.006,
+      "longitude": -2.1659,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Nalerigu",
+      "province": "North East",
+      "latitude": 10.5273,
+      "longitude": -0.3698,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Bechem",
+      "province": "Ahafo",
+      "latitude": 7.0903,
+      "longitude": -2.025,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Duayaw-Nkwanta",
+      "province": "Ahafo",
+      "latitude": 7.1749,
+      "longitude": -2.0996,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Sefwi",
+      "province": "Ashanti",
+      "latitude": 6.5231,
+      "longitude": -1.636,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Mumford",
+      "province": "Central",
+      "latitude": 5.2618,
+      "longitude": -0.759,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Akropong",
+      "province": "Eastern",
+      "latitude": 5.9746,
+      "longitude": -0.0854,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Kete Krachi",
+      "province": "Oti",
+      "latitude": 7.7939,
+      "longitude": -0.0498,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Akim Swedru",
+      "province": "Eastern",
+      "latitude": 5.8938,
+      "longitude": -1.0164,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Kibi",
+      "province": "Eastern",
+      "latitude": 6.1649,
+      "longitude": -0.5538,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Mpraeso",
+      "province": "Eastern",
+      "latitude": 6.5932,
+      "longitude": -0.7346,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Saman",
+      "province": "Eastern",
+      "latitude": 6.3239,
+      "longitude": -0.5006,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Aboso",
+      "province": "Western",
+      "latitude": 5.3607,
+      "longitude": -1.9486,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Kpandae",
+      "province": "Northern",
+      "latitude": 8.4688,
+      "longitude": -0.0113,
+      "timezone": "Africa/Accra"
+    },
+    {
+      "name": "",
+      "name_en": "Sefwi Wiawso",
+      "province": "Western North",
+      "latitude": 6.2058,
+      "longitude": -2.4894,
+      "timezone": "Africa/Accra"
+    }
+  ]
+}

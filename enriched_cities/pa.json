@@ -1,0 +1,558 @@
+{
+  "country_code": "PA",
+  "country_name": "巴拿马",
+  "cities": [
+    {
+      "name": "巴拿马城",
+      "name_en": "Panamá",
+      "province": "Panamá",
+      "latitude": 8.9936,
+      "longitude": -79.5197,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "San Miguelito",
+      "province": "Panamá",
+      "latitude": 9.0503,
+      "longitude": -79.4707,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Juan Díaz",
+      "province": "Panamá",
+      "latitude": 9.0406,
+      "longitude": -79.4408,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "戴维",
+      "name_en": "David",
+      "province": "奇里基省",
+      "latitude": 8.4273,
+      "longitude": -82.4309,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Arraiján",
+      "province": "Panamá Oeste Province",
+      "latitude": 8.9398,
+      "longitude": -79.6404,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "科隆",
+      "name_en": "Colón",
+      "province": "Colón",
+      "latitude": 9.3603,
+      "longitude": -79.9002,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Las Cumbres",
+      "province": "Panamá",
+      "latitude": 9.0921,
+      "longitude": -79.5389,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "La Chorrera",
+      "province": "Panamá Oeste Province",
+      "latitude": 8.8776,
+      "longitude": -79.7801,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Pedregal",
+      "province": "Panamá",
+      "latitude": 9.0661,
+      "longitude": -79.4258,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Tocumen",
+      "province": "Panamá",
+      "latitude": 9.0894,
+      "longitude": -79.3831,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "圣地亚哥-德贝拉瓜斯",
+      "name_en": "Santiago de Veraguas",
+      "province": "贝拉瓜斯省",
+      "latitude": 8.1,
+      "longitude": -80.9833,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Parque Lefevre",
+      "province": "Panamá",
+      "latitude": 9.0227,
+      "longitude": -79.4786,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Chilibre",
+      "province": "Panamá",
+      "latitude": 9.154,
+      "longitude": -79.6202,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Cativá",
+      "province": "Colón",
+      "latitude": 9.3622,
+      "longitude": -79.8323,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Río Abajo",
+      "province": "Panamá",
+      "latitude": 9.024,
+      "longitude": -79.4936,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Nuevo Belén",
+      "province": "Panamá",
+      "latitude": 9.0893,
+      "longitude": -79.3918,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Ancón",
+      "province": "Panamá",
+      "latitude": 8.9602,
+      "longitude": -79.5514,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Alcalde Díaz",
+      "province": "Panamá",
+      "latitude": 9.1227,
+      "longitude": -79.5567,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "El Chorrillo",
+      "province": "Panamá",
+      "latitude": 8.9496,
+      "longitude": -79.5472,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Changuinola",
+      "province": "博卡斯德尔托罗省",
+      "latitude": 9.43,
+      "longitude": -82.52,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "La Cabima",
+      "province": "Panamá",
+      "latitude": 9.118,
+      "longitude": -79.5332,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "La Concepción",
+      "province": "奇里基省",
+      "latitude": 8.5167,
+      "longitude": -82.6239,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Pedregal",
+      "province": "奇里基省",
+      "latitude": 9.0661,
+      "longitude": -79.4258,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Veracruz",
+      "province": "Panamá Oeste Province",
+      "latitude": 8.8932,
+      "longitude": -79.6234,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Curundú",
+      "province": "Panamá",
+      "latitude": 8.9709,
+      "longitude": -79.5461,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Penonomé",
+      "province": "Coclé",
+      "latitude": 8.5189,
+      "longitude": -80.3573,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Sabanitas",
+      "province": "Colón",
+      "latitude": 9.3452,
+      "longitude": -79.8054,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Nuevo Arraiján",
+      "province": "Panamá Oeste Province",
+      "latitude": 8.9264,
+      "longitude": -79.7202,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Villa Unida",
+      "province": "Panamá",
+      "latitude": 9.1918,
+      "longitude": -79.6237,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "San Vicente",
+      "province": "Panamá",
+      "latitude": 9.1154,
+      "longitude": -79.5993,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Chepo",
+      "province": "Panamá",
+      "latitude": 9.1702,
+      "longitude": -79.1008,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Puerto Escondido",
+      "province": "Colón",
+      "latitude": 9.1942,
+      "longitude": -80.0957,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Pocrí",
+      "province": "Coclé",
+      "latitude": 8.2564,
+      "longitude": -80.5463,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "El Coco",
+      "province": "Panamá Oeste Province",
+      "latitude": 8.8769,
+      "longitude": -79.8081,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "San Juan Bautista",
+      "province": "埃雷拉省",
+      "latitude": 7.9647,
+      "longitude": -80.4162,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Puerto Armuelles",
+      "province": "奇里基省",
+      "latitude": 8.2777,
+      "longitude": -82.8621,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Las Lomas",
+      "province": "奇里基省",
+      "latitude": 8.429,
+      "longitude": -82.389,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "El Empalme",
+      "province": "博卡斯德尔托罗省",
+      "latitude": 9.4147,
+      "longitude": -82.5224,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Monagrillo",
+      "province": "埃雷拉省",
+      "latitude": 7.9826,
+      "longitude": -80.433,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Volcán",
+      "province": "奇里基省",
+      "latitude": 8.7805,
+      "longitude": -82.639,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Llano Bonito",
+      "province": "埃雷拉省",
+      "latitude": 7.974,
+      "longitude": -80.4209,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Unión Chocó",
+      "province": "恩贝拉-沃内安特区",
+      "latitude": 8.084,
+      "longitude": -77.5351,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Nueva Esperanza",
+      "province": "Panamá",
+      "latitude": 9.1054,
+      "longitude": -79.3326,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Chitré",
+      "province": "埃雷拉省",
+      "latitude": 7.9601,
+      "longitude": -80.4288,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Las Tablas",
+      "province": "洛斯桑托斯省",
+      "latitude": 7.7665,
+      "longitude": -80.278,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Puerto Pilón",
+      "province": "Colón",
+      "latitude": 9.3632,
+      "longitude": -79.7933,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Almirante",
+      "province": "博卡斯德尔托罗省",
+      "latitude": 9.3009,
+      "longitude": -82.4018,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Vista Alegre",
+      "province": "Panamá Oeste Province",
+      "latitude": 8.9292,
+      "longitude": -79.6996,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Aguadulce",
+      "province": "Coclé",
+      "latitude": 8.2415,
+      "longitude": -80.5398,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Altos de San Francisco",
+      "province": "Panamá Oeste Province",
+      "latitude": 8.8617,
+      "longitude": -79.79,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Canto del Llano",
+      "province": "贝拉瓜斯省",
+      "latitude": 8.1231,
+      "longitude": -80.9642,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Gonzalillo",
+      "province": "Panamá",
+      "latitude": 9.0978,
+      "longitude": -79.5131,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "La Pesa",
+      "province": "Panamá Oeste Province",
+      "latitude": 8.8537,
+      "longitude": -79.8246,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Soná",
+      "province": "贝拉瓜斯省",
+      "latitude": 8.0088,
+      "longitude": -81.3173,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "La Arena",
+      "province": "埃雷拉省",
+      "latitude": 7.9694,
+      "longitude": -80.4615,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Pacora",
+      "province": "Panamá",
+      "latitude": 9.0825,
+      "longitude": -79.2896,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Antón",
+      "province": "Coclé",
+      "latitude": 8.3968,
+      "longitude": -80.265,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Guadalupe",
+      "province": "Panamá Oeste Province",
+      "latitude": 8.8606,
+      "longitude": -79.8118,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "La Herradura",
+      "province": "Panamá Oeste Province",
+      "latitude": 8.8518,
+      "longitude": -79.8061,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Boquete",
+      "province": "奇里基省",
+      "latitude": 8.7802,
+      "longitude": -82.4414,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "San Pablo Viejo Abajo",
+      "province": "奇里基省",
+      "latitude": 8.4546,
+      "longitude": -82.5049,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Los Santos",
+      "province": "洛斯桑托斯省",
+      "latitude": 7.9345,
+      "longitude": -80.4122,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "La Mitra",
+      "province": "Panamá Oeste Province",
+      "latitude": 8.8426,
+      "longitude": -79.7845,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Río Hato",
+      "province": "Coclé",
+      "latitude": 8.3794,
+      "longitude": -80.1662,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Natá",
+      "province": "Coclé",
+      "latitude": 8.3359,
+      "longitude": -80.5213,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "博卡斯德尔托罗",
+      "name_en": "Bocas del Toro",
+      "province": "博卡斯德尔托罗省",
+      "latitude": 9.3403,
+      "longitude": -82.242,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "La Palma",
+      "province": "Darién",
+      "latitude": 8.405,
+      "longitude": -78.1404,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "El Porvenir",
+      "province": "雅拉库纳族自治区",
+      "latitude": 8.232,
+      "longitude": -81.8335,
+      "timezone": "America/Panama"
+    },
+    {
+      "name": "",
+      "name_en": "Llano Tugrí",
+      "province": "恩戈贝布格勒自治区",
+      "latitude": 8.4793,
+      "longitude": -81.7121,
+      "timezone": "America/Panama"
+    }
+  ]
+}

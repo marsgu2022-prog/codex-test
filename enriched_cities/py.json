@@ -1,0 +1,518 @@
+{
+  "country_code": "PY",
+  "country_name": "巴拉圭",
+  "cities": [
+    {
+      "name": "亚松森",
+      "name_en": "Asunción",
+      "province": "Asunción",
+      "latitude": -25.2865,
+      "longitude": -57.647,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "东方市",
+      "name_en": "Ciudad del Este",
+      "province": "Alto Paraná Department",
+      "latitude": -25.5036,
+      "longitude": -54.6507,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "圣洛伦索",
+      "name_en": "San Lorenzo",
+      "province": "中央省",
+      "latitude": -25.3397,
+      "longitude": -57.5088,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "卡皮亚塔",
+      "name_en": "Capiatá",
+      "province": "中央省",
+      "latitude": -25.3552,
+      "longitude": -57.4455,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "兰巴雷",
+      "name_en": "Lambaré",
+      "province": "中央省",
+      "latitude": -25.3468,
+      "longitude": -57.6065,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "费尔南多德拉莫拉",
+      "name_en": "Fernando de la Mora",
+      "province": "中央省",
+      "latitude": -25.3386,
+      "longitude": -57.5217,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "",
+      "name_en": "Limpio",
+      "province": "中央省",
+      "latitude": -25.1661,
+      "longitude": -57.4856,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "",
+      "name_en": "Nemby",
+      "province": "中央省",
+      "latitude": -25.3949,
+      "longitude": -57.5357,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "佩德罗胡安卡瓦列罗",
+      "name_en": "Pedro Juan Caballero",
+      "province": "阿曼拜省",
+      "latitude": -22.5493,
+      "longitude": -55.7387,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "恩卡纳西翁",
+      "name_en": "Encarnación",
+      "province": "伊塔普阿省",
+      "latitude": -27.3318,
+      "longitude": -55.8666,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "",
+      "name_en": "Mariano Roque Alonso",
+      "province": "中央省",
+      "latitude": -25.2079,
+      "longitude": -57.532,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "伊陶瓜",
+      "name_en": "Itauguá",
+      "province": "中央省",
+      "latitude": -25.3926,
+      "longitude": -57.3542,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "",
+      "name_en": "Villa Elisa",
+      "province": "中央省",
+      "latitude": -25.3676,
+      "longitude": -57.5927,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "",
+      "name_en": "Villa Hayes",
+      "province": "阿耶斯总统省",
+      "latitude": -25.093,
+      "longitude": -57.5273,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "卡库佩",
+      "name_en": "Caacupé",
+      "province": "科迪勒拉省",
+      "latitude": -25.3858,
+      "longitude": -57.1422,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "",
+      "name_en": "San Antonio",
+      "province": "中央省",
+      "latitude": -25.4213,
+      "longitude": -57.5472,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "",
+      "name_en": "Caaguazú",
+      "province": "Caaguazú Department",
+      "latitude": -25.471,
+      "longitude": -56.016,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "",
+      "name_en": "Presidente Franco",
+      "province": "Alto Paraná Department",
+      "latitude": -25.5638,
+      "longitude": -54.611,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "奥维多上校镇",
+      "name_en": "Coronel Oviedo",
+      "province": "Caaguazú Department",
+      "latitude": -25.4461,
+      "longitude": -56.4393,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "",
+      "name_en": "Concepción",
+      "province": "Concepción",
+      "latitude": -23.3999,
+      "longitude": -57.4324,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "比亚里卡",
+      "name_en": "Villarrica",
+      "province": "Guairá",
+      "latitude": -25.7495,
+      "longitude": -56.4352,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "皮拉尔",
+      "name_en": "Pilar",
+      "province": "Ñeembucú Department",
+      "latitude": -26.8587,
+      "longitude": -58.3064,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "",
+      "name_en": "Yby Yaú",
+      "province": "Concepción",
+      "latitude": -22.9661,
+      "longitude": -56.5407,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "卡萨帕",
+      "name_en": "Caazapá",
+      "province": "卡萨帕省",
+      "latitude": -26.1966,
+      "longitude": -56.3679,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "",
+      "name_en": "Filadelfia",
+      "province": "Boquerón Department",
+      "latitude": -22.3394,
+      "longitude": -60.0316,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "",
+      "name_en": "Itá",
+      "province": "中央省",
+      "latitude": -25.5005,
+      "longitude": -57.3672,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "",
+      "name_en": "San Juan Bautista",
+      "province": "米西奥内斯省",
+      "latitude": -26.6703,
+      "longitude": -57.1407,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "",
+      "name_en": "Nueva Esperanza",
+      "province": "卡宁德尤省",
+      "latitude": -24.5076,
+      "longitude": -54.8551,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "",
+      "name_en": "Ayolas",
+      "province": "米西奥内斯省",
+      "latitude": -27.3842,
+      "longitude": -56.8395,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Rita",
+      "province": "Alto Paraná Department",
+      "latitude": -25.7963,
+      "longitude": -55.0885,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "",
+      "name_en": "Colonia General Alfredo Stroessner",
+      "province": "Caaguazú Department",
+      "latitude": -25.3639,
+      "longitude": -55.7069,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "",
+      "name_en": "San Pedro de Ycuamandyyú",
+      "province": "圣佩德罗省",
+      "latitude": -24.0853,
+      "longitude": -57.0874,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "",
+      "name_en": "Areguá",
+      "province": "中央省",
+      "latitude": -25.3124,
+      "longitude": -57.385,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "",
+      "name_en": "San Isidro de Curuguaty",
+      "province": "卡宁德尤省",
+      "latitude": -24.4718,
+      "longitude": -55.6923,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "",
+      "name_en": "Horqueta",
+      "province": "Concepción",
+      "latitude": -23.3432,
+      "longitude": -57.0521,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "",
+      "name_en": "Lima",
+      "province": "圣佩德罗省",
+      "latitude": -23.885,
+      "longitude": -56.4789,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "",
+      "name_en": "Piribebuy",
+      "province": "科迪勒拉省",
+      "latitude": -25.465,
+      "longitude": -57.0418,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "巴拉瓜里",
+      "name_en": "Paraguarí",
+      "province": "Paraguarí",
+      "latitude": -25.6208,
+      "longitude": -57.1472,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "",
+      "name_en": "Tobatí",
+      "province": "科迪勒拉省",
+      "latitude": -25.2611,
+      "longitude": -57.0833,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "",
+      "name_en": "Ypacarai",
+      "province": "中央省",
+      "latitude": -25.4078,
+      "longitude": -57.2889,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "",
+      "name_en": "Capitán Bado",
+      "province": "阿曼拜省",
+      "latitude": -23.2673,
+      "longitude": -55.5388,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "",
+      "name_en": "Guarambaré",
+      "province": "中央省",
+      "latitude": -25.491,
+      "longitude": -57.4557,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "",
+      "name_en": "Eusebio Ayala",
+      "province": "科迪勒拉省",
+      "latitude": -25.3828,
+      "longitude": -56.9609,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "",
+      "name_en": "San Juan Nepomuceno",
+      "province": "卡萨帕省",
+      "latitude": -26.1123,
+      "longitude": -55.9386,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "",
+      "name_en": "Benjamín Aceval",
+      "province": "阿耶斯总统省",
+      "latitude": -24.9974,
+      "longitude": -57.5524,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "",
+      "name_en": "Doctor Juan León Mallorquín",
+      "province": "Alto Paraná Department",
+      "latitude": -25.4305,
+      "longitude": -55.2541,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "萨尔托德尔瓜",
+      "name_en": "Salto del Guairá",
+      "province": "卡宁德尤省",
+      "latitude": -24.0633,
+      "longitude": -54.3076,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Rosa",
+      "province": "米西奥内斯省",
+      "latitude": -26.8873,
+      "longitude": -56.849,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "亚瓜龙",
+      "name_en": "Yaguarón",
+      "province": "Paraguarí",
+      "latitude": -25.5622,
+      "longitude": -57.2866,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "",
+      "name_en": "Repatriación",
+      "province": "Caaguazú Department",
+      "latitude": -25.5352,
+      "longitude": -55.9924,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "",
+      "name_en": "Obligado",
+      "province": "伊塔普阿省",
+      "latitude": -27.0555,
+      "longitude": -55.6273,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "",
+      "name_en": "Emboscada",
+      "province": "科迪勒拉省",
+      "latitude": -25.1241,
+      "longitude": -57.3481,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "",
+      "name_en": "Carapeguá",
+      "province": "Paraguarí",
+      "latitude": -25.7634,
+      "longitude": -57.2468,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "",
+      "name_en": "San Pedro del Paraná",
+      "province": "伊塔普阿省",
+      "latitude": -26.8339,
+      "longitude": -56.2069,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "",
+      "name_en": "Bella Vista",
+      "province": "阿曼拜省",
+      "latitude": -22.1223,
+      "longitude": -56.5152,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "",
+      "name_en": "Colonia Menno",
+      "province": "Boquerón Department",
+      "latitude": -22.3667,
+      "longitude": -59.8167,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "",
+      "name_en": "Nanawa",
+      "province": "阿耶斯总统省",
+      "latitude": -25.2793,
+      "longitude": -57.7031,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "",
+      "name_en": "Tomás Romero Pereira",
+      "province": "伊塔普阿省",
+      "latitude": -26.5312,
+      "longitude": -55.2605,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "",
+      "name_en": "Puerto Vallemí",
+      "province": "Concepción",
+      "latitude": -22.1576,
+      "longitude": -57.9513,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "",
+      "name_en": "Hohenau",
+      "province": "伊塔普阿省",
+      "latitude": -27.0731,
+      "longitude": -55.6425,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "",
+      "name_en": "Quiindy",
+      "province": "Paraguarí",
+      "latitude": -25.9761,
+      "longitude": -57.2335,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "",
+      "name_en": "Puerto Rosario",
+      "province": "圣佩德罗省",
+      "latitude": -24.4413,
+      "longitude": -57.1427,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "",
+      "name_en": "San José de los Arroyos",
+      "province": "Caaguazú Department",
+      "latitude": -25.5331,
+      "longitude": -56.7323,
+      "timezone": "America/Asuncion"
+    },
+    {
+      "name": "奥林波堡",
+      "name_en": "Fuerte Olimpo",
+      "province": "上巴拉圭省",
+      "latitude": -21.0415,
+      "longitude": -57.8738,
+      "timezone": "America/Asuncion"
+    }
+  ]
+}

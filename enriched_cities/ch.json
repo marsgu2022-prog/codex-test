@@ -1,0 +1,2822 @@
+{
+  "country_code": "CH",
+  "country_name": "瑞士",
+  "cities": [
+    {
+      "name": "苏黎世",
+      "name_en": "Zürich",
+      "province": "苏黎世州",
+      "latitude": 47.3667,
+      "longitude": 8.55,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "日内瓦",
+      "name_en": "Genève",
+      "province": "日内瓦州",
+      "latitude": 46.2022,
+      "longitude": 6.1457,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "巴塞尔",
+      "name_en": "Basel",
+      "province": "巴塞尔城市州",
+      "latitude": 47.5584,
+      "longitude": 7.5733,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "洛桑",
+      "name_en": "Lausanne",
+      "province": "沃州",
+      "latitude": 46.516,
+      "longitude": 6.6328,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "伯恩",
+      "name_en": "Bern",
+      "province": "伯恩州",
+      "latitude": 46.9481,
+      "longitude": 7.4474,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "温特图尔",
+      "name_en": "Winterthur",
+      "province": "苏黎世州",
+      "latitude": 47.5056,
+      "longitude": 8.7241,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "卢塞恩",
+      "name_en": "Luzern",
+      "province": "卢塞恩州",
+      "latitude": 47.0505,
+      "longitude": 8.3064,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Sankt Gallen",
+      "province": "Saint Gallen",
+      "latitude": 47.4239,
+      "longitude": 9.3748,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "卢加诺",
+      "name_en": "Lugano",
+      "province": "提契诺州",
+      "latitude": 46.0101,
+      "longitude": 8.96,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "比尔",
+      "name_en": "Biel/Bienne",
+      "province": "伯恩州",
+      "latitude": 47.1371,
+      "longitude": 7.2461,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Zürich (Kreis 11)",
+      "province": "苏黎世州",
+      "latitude": 47.4233,
+      "longitude": 8.5217,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Zürich (Kreis 3)",
+      "province": "苏黎世州",
+      "latitude": 47.3578,
+      "longitude": 8.503,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Zürich (Kreis 9)",
+      "province": "苏黎世州",
+      "latitude": 47.3824,
+      "longitude": 8.4799,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "图恩",
+      "name_en": "Thun",
+      "province": "伯恩州",
+      "latitude": 46.7512,
+      "longitude": 7.6217,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Bellinzona",
+      "province": "提契诺州",
+      "latitude": 46.1928,
+      "longitude": 9.017,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "克尼茨",
+      "name_en": "Köniz",
+      "province": "伯恩州",
+      "latitude": 46.9244,
+      "longitude": 7.4146,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Fribourg",
+      "province": "弗里堡州",
+      "latitude": 46.8024,
+      "longitude": 7.1513,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "拉绍德封",
+      "name_en": "La Chaux-de-Fonds",
+      "province": "纳沙泰尔州",
+      "latitude": 47.0999,
+      "longitude": 6.8259,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "沙夫豪森",
+      "name_en": "Schaffhausen",
+      "province": "沙夫豪森州",
+      "latitude": 47.6973,
+      "longitude": 8.6349,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Zürich (Kreis 10)",
+      "province": "苏黎世州",
+      "latitude": 47.4077,
+      "longitude": 8.5005,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "库尔",
+      "name_en": "Chur",
+      "province": "格劳宾登州",
+      "latitude": 46.8499,
+      "longitude": 9.5329,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "拉珀斯维尔",
+      "name_en": "Rapperswil",
+      "province": "Saint Gallen",
+      "latitude": 47.2256,
+      "longitude": 8.8223,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "乌斯特市",
+      "name_en": "Uster",
+      "province": "苏黎世州",
+      "latitude": 47.3471,
+      "longitude": 8.7209,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "锡永",
+      "name_en": "Sitten",
+      "province": "瓦莱州",
+      "latitude": 46.2274,
+      "longitude": 7.3556,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Zürich (Kreis 7)",
+      "province": "苏黎世州",
+      "latitude": 47.3733,
+      "longitude": 8.5804,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "纳沙泰尔",
+      "name_en": "Neuchâtel",
+      "province": "纳沙泰尔州",
+      "latitude": 46.9918,
+      "longitude": 6.931,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "埃门",
+      "name_en": "Emmen",
+      "province": "卢塞恩州",
+      "latitude": 47.0782,
+      "longitude": 8.2733,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Zug",
+      "province": "楚格州",
+      "latitude": 47.1724,
+      "longitude": 8.5175,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "伊韦尔东",
+      "name_en": "Yverdon-les-Bains",
+      "province": "沃州",
+      "latitude": 46.7785,
+      "longitude": 6.6411,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "韦尔涅",
+      "name_en": "Vernier",
+      "province": "日内瓦州",
+      "latitude": 46.217,
+      "longitude": 6.085,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Zürich (Kreis 6)",
+      "province": "苏黎世州",
+      "latitude": 47.3922,
+      "longitude": 8.5438,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Zürich (Kreis 2)",
+      "province": "苏黎世州",
+      "latitude": 47.3376,
+      "longitude": 8.5211,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Zürich (Kreis 9) / Altstetten",
+      "province": "苏黎世州",
+      "latitude": 47.3895,
+      "longitude": 8.4853,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Zürich (Kreis 12)",
+      "province": "苏黎世州",
+      "latitude": 47.4037,
+      "longitude": 8.5761,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "朗西",
+      "name_en": "Lancy",
+      "province": "日内瓦州",
+      "latitude": 46.1898,
+      "longitude": 6.1144,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Zürich (Kreis 4) / Aussersihl",
+      "province": "苏黎世州",
+      "latitude": 47.3775,
+      "longitude": 8.5213,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "蒙特勒",
+      "name_en": "Montreux",
+      "province": "沃州",
+      "latitude": 46.433,
+      "longitude": 6.9114,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "弗劳恩费尔德",
+      "name_en": "Frauenfeld",
+      "province": "图尔高州",
+      "latitude": 47.5578,
+      "longitude": 8.8989,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "克林斯",
+      "name_en": "Kriens",
+      "province": "卢塞恩州",
+      "latitude": 47.0311,
+      "longitude": 8.2855,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "韦齐孔",
+      "name_en": "Wetzikon",
+      "province": "苏黎世州",
+      "latitude": 47.3264,
+      "longitude": 8.7978,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "维尔",
+      "name_en": "Wil",
+      "province": "Saint Gallen",
+      "latitude": 47.4615,
+      "longitude": 9.0455,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "比勒",
+      "name_en": "Bulle",
+      "province": "弗里堡州",
+      "latitude": 46.618,
+      "longitude": 7.0569,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "豪尔根",
+      "name_en": "Horgen",
+      "province": "苏黎世州",
+      "latitude": 47.2598,
+      "longitude": 8.5978,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "克罗伊茨林根",
+      "name_en": "Kreuzlingen",
+      "province": "图尔高州",
+      "latitude": 47.6505,
+      "longitude": 9.175,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "阿劳",
+      "name_en": "Aarau",
+      "province": "阿尔高州",
+      "latitude": 47.3925,
+      "longitude": 8.0442,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Zürich (Kreis 3) / Sihlfeld",
+      "province": "苏黎世州",
+      "latitude": 47.3738,
+      "longitude": 8.5116,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "勒南",
+      "name_en": "Renens",
+      "province": "沃州",
+      "latitude": 46.5399,
+      "longitude": 6.5881,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Dietikon",
+      "province": "苏黎世州",
+      "latitude": 47.4016,
+      "longitude": 8.4002,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Baar",
+      "province": "楚格州",
+      "latitude": 47.1962,
+      "longitude": 8.5295,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "比拉赫",
+      "name_en": "Bülach",
+      "province": "苏黎世州",
+      "latitude": 47.522,
+      "longitude": 8.5405,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Zürich (Kreis 6) / Unterstrass",
+      "province": "苏黎世州",
+      "latitude": 47.3953,
+      "longitude": 8.5372,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "里恩",
+      "name_en": "Riehen",
+      "province": "巴塞尔城市州",
+      "latitude": 47.5788,
+      "longitude": 7.6468,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "沃韦",
+      "name_en": "Vevey",
+      "province": "沃州",
+      "latitude": 46.463,
+      "longitude": 6.8434,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Dübendorf",
+      "province": "苏黎世州",
+      "latitude": 47.3972,
+      "longitude": 8.6187,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "梅兰",
+      "name_en": "Meyrin",
+      "province": "日内瓦州",
+      "latitude": 46.2342,
+      "longitude": 6.0803,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "卡鲁日",
+      "name_en": "Carouge",
+      "province": "日内瓦州",
+      "latitude": 46.181,
+      "longitude": 6.1392,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "巴登",
+      "name_en": "Baden",
+      "province": "阿尔高州",
+      "latitude": 47.4733,
+      "longitude": 8.3059,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "赖纳赫",
+      "name_en": "Reinach",
+      "province": "巴塞尔乡村州",
+      "latitude": 47.497,
+      "longitude": 7.5917,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "奥尔滕",
+      "name_en": "Olten",
+      "province": "索洛图恩州",
+      "latitude": 47.35,
+      "longitude": 7.9033,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Martigny-Ville",
+      "province": "瓦莱州",
+      "latitude": 46.1028,
+      "longitude": 7.0724,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "韦廷根",
+      "name_en": "Wettingen",
+      "province": "阿尔高州",
+      "latitude": 47.4661,
+      "longitude": 8.3266,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "阿尔施维尔",
+      "name_en": "Allschwil",
+      "province": "巴塞尔乡村州",
+      "latitude": 47.5507,
+      "longitude": 7.536,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Zürich (Kreis 11) / Oerlikon",
+      "province": "苏黎世州",
+      "latitude": 47.4082,
+      "longitude": 8.5426,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Zürich (Kreis 11) / Seebach",
+      "province": "苏黎世州",
+      "latitude": 47.4218,
+      "longitude": 8.5478,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "蒙泰",
+      "name_en": "Monthey",
+      "province": "瓦莱州",
+      "latitude": 46.2545,
+      "longitude": 6.9541,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Jona",
+      "province": "Saint Gallen",
+      "latitude": 47.2298,
+      "longitude": 8.8388,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "奥内",
+      "name_en": "Onex",
+      "province": "日内瓦州",
+      "latitude": 46.184,
+      "longitude": 6.1024,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Zürich (Kreis 11) / Affoltern",
+      "province": "苏黎世州",
+      "latitude": 47.4181,
+      "longitude": 8.5122,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Zürich (Kreis 10) / Höngg",
+      "province": "苏黎世州",
+      "latitude": 47.4031,
+      "longitude": 8.4971,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "戈绍",
+      "name_en": "Gossau",
+      "province": "Saint Gallen",
+      "latitude": 47.4155,
+      "longitude": 9.2548,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "穆滕茨",
+      "name_en": "Muttenz",
+      "province": "巴塞尔乡村州",
+      "latitude": 47.5227,
+      "longitude": 7.6451,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Nyon",
+      "province": "沃州",
+      "latitude": 46.3832,
+      "longitude": 6.2396,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "谢尔",
+      "name_en": "Sierre",
+      "province": "瓦莱州",
+      "latitude": 46.2919,
+      "longitude": 7.5356,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "索洛图恩",
+      "name_en": "Solothurn",
+      "province": "索洛图恩州",
+      "latitude": 47.2079,
+      "longitude": 7.5371,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "卡姆",
+      "name_en": "Cham",
+      "province": "楚格州",
+      "latitude": 47.1821,
+      "longitude": 8.4636,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Zürich (Kreis 9) / Albisrieden",
+      "province": "苏黎世州",
+      "latitude": 47.374,
+      "longitude": 8.4901,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "布格多夫",
+      "name_en": "Burgdorf",
+      "province": "伯恩州",
+      "latitude": 47.059,
+      "longitude": 7.6279,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Oberwinterthur (Kreis 2)",
+      "province": "苏黎世州",
+      "latitude": 47.5169,
+      "longitude": 8.7686,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "克洛滕",
+      "name_en": "Kloten",
+      "province": "苏黎世州",
+      "latitude": 47.4515,
+      "longitude": 8.5849,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "皮利",
+      "name_en": "Pully",
+      "province": "沃州",
+      "latitude": 46.5103,
+      "longitude": 6.6618,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Stadt Winterthur (Kreis 1)",
+      "province": "苏黎世州",
+      "latitude": 47.4949,
+      "longitude": 8.7195,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "利陶",
+      "name_en": "Littau",
+      "province": "卢塞恩州",
+      "latitude": 47.05,
+      "longitude": 8.2627,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Zürich (Kreis 2) / Wollishofen",
+      "province": "苏黎世州",
+      "latitude": 47.3401,
+      "longitude": 8.5313,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "格伦兴",
+      "name_en": "Grenchen",
+      "province": "索洛图恩州",
+      "latitude": 47.1921,
+      "longitude": 7.3959,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "艾因西德伦",
+      "name_en": "Einsiedeln",
+      "province": "施维茨州",
+      "latitude": 47.1285,
+      "longitude": 8.7474,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "洛迦诺",
+      "name_en": "Locarno",
+      "province": "提契诺州",
+      "latitude": 46.1709,
+      "longitude": 8.7995,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "黑里绍",
+      "name_en": "Herisau",
+      "province": "外阿彭策尔州",
+      "latitude": 47.3862,
+      "longitude": 9.2792,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Zürich (Kreis 10) / Wipkingen",
+      "province": "苏黎世州",
+      "latitude": 47.395,
+      "longitude": 8.5253,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "施特菲斯堡",
+      "name_en": "Steffisburg",
+      "province": "伯恩州",
+      "latitude": 46.7781,
+      "longitude": 7.6325,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "莫尔日",
+      "name_en": "Morges",
+      "province": "沃州",
+      "latitude": 46.5113,
+      "longitude": 6.4985,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Zürich (Kreis 8)",
+      "province": "苏黎世州",
+      "latitude": 47.3548,
+      "longitude": 8.561,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Seen (Kreis 3)",
+      "province": "苏黎世州",
+      "latitude": 47.4765,
+      "longitude": 8.77,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "阿德利斯维尔",
+      "name_en": "Adliswil",
+      "province": "苏黎世州",
+      "latitude": 47.31,
+      "longitude": 8.5246,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "施维茨",
+      "name_en": "Schwyz",
+      "province": "施维茨州",
+      "latitude": 47.0208,
+      "longitude": 8.6541,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "门德里西奥",
+      "name_en": "Mendrisio",
+      "province": "提契诺州",
+      "latitude": 45.8702,
+      "longitude": 8.9816,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Zürich (Kreis 3) / Alt-Wiedikon",
+      "province": "苏黎世州",
+      "latitude": 47.362,
+      "longitude": 8.515,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "普拉特恩",
+      "name_en": "Pratteln",
+      "province": "巴塞尔乡村州",
+      "latitude": 47.5207,
+      "longitude": 7.6936,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "阿尔邦",
+      "name_en": "Arbon",
+      "province": "图尔高州",
+      "latitude": 47.5167,
+      "longitude": 9.4333,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Freienbach",
+      "province": "施维茨州",
+      "latitude": 47.2053,
+      "longitude": 8.7584,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "迈伦",
+      "name_en": "Meilen",
+      "province": "苏黎世州",
+      "latitude": 47.2723,
+      "longitude": 8.6462,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "朗根塔尔",
+      "name_en": "Langenthal",
+      "province": "伯恩州",
+      "latitude": 47.2153,
+      "longitude": 7.7961,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "宾宁根",
+      "name_en": "Binningen",
+      "province": "巴塞尔乡村州",
+      "latitude": 47.5402,
+      "longitude": 7.5693,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Wohlen",
+      "province": "阿尔高州",
+      "latitude": 47.3507,
+      "longitude": 8.2752,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "塔尔维尔",
+      "name_en": "Thalwil",
+      "province": "苏黎世州",
+      "latitude": 47.2918,
+      "longitude": 8.5635,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "韦登斯维尔",
+      "name_en": "Wädenswil",
+      "province": "苏黎世州",
+      "latitude": 47.2268,
+      "longitude": 8.6687,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Küssnacht",
+      "province": "施维茨州",
+      "latitude": 47.0856,
+      "longitude": 8.4421,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "托内",
+      "name_en": "Thônex",
+      "province": "日内瓦州",
+      "latitude": 46.1882,
+      "longitude": 6.199,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Muri",
+      "province": "伯恩州",
+      "latitude": 46.9312,
+      "longitude": 7.4866,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Zürich (Kreis 4) / Hard",
+      "province": "苏黎世州",
+      "latitude": 47.3831,
+      "longitude": 8.5094,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "乌茨维尔",
+      "name_en": "Uzwil",
+      "province": "Saint Gallen",
+      "latitude": 47.4365,
+      "longitude": 9.1342,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "利斯塔尔",
+      "name_en": "Liestal",
+      "province": "巴塞尔乡村州",
+      "latitude": 47.4845,
+      "longitude": 7.7345,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "施利伦",
+      "name_en": "Schlieren",
+      "province": "苏黎世州",
+      "latitude": 47.3967,
+      "longitude": 8.4476,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "德莱蒙",
+      "name_en": "Delémont",
+      "province": "汝拉州",
+      "latitude": 47.3649,
+      "longitude": 7.3445,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Wülflingen (Kreis 6)",
+      "province": "苏黎世州",
+      "latitude": 47.5104,
+      "longitude": 8.6833,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "施皮茨",
+      "name_en": "Spiez",
+      "province": "伯恩州",
+      "latitude": 46.6847,
+      "longitude": 7.6911,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "格拉鲁斯",
+      "name_en": "Glarus",
+      "province": "格拉鲁斯州",
+      "latitude": 47.0406,
+      "longitude": 9.068,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "霍尔夫",
+      "name_en": "Horw",
+      "province": "卢塞恩州",
+      "latitude": 47.0169,
+      "longitude": 8.3096,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "阿尔比斯附近阿福尔特恩",
+      "name_en": "Affoltern am Albis",
+      "province": "苏黎世州",
+      "latitude": 47.2774,
+      "longitude": 8.4513,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "普费菲孔",
+      "name_en": "Pfäffikon",
+      "province": "苏黎世州",
+      "latitude": 47.3645,
+      "longitude": 8.792,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "斯普赖滕巴赫",
+      "name_en": "Spreitenbach",
+      "province": "阿尔高州",
+      "latitude": 47.4228,
+      "longitude": 8.3679,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Zürich (Kreis 5)",
+      "province": "苏黎世州",
+      "latitude": 47.3877,
+      "longitude": 8.5215,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "瓦利塞伦",
+      "name_en": "Wallisellen",
+      "province": "苏黎世州",
+      "latitude": 47.415,
+      "longitude": 8.5967,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "祖芬根",
+      "name_en": "Zofingen",
+      "province": "阿尔高州",
+      "latitude": 47.2878,
+      "longitude": 7.9459,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "明兴施泰因",
+      "name_en": "Münchenstein",
+      "province": "巴塞尔乡村州",
+      "latitude": 47.5185,
+      "longitude": 7.6097,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "屈斯纳赫特",
+      "name_en": "Küsnacht",
+      "province": "苏黎世州",
+      "latitude": 47.318,
+      "longitude": 8.584,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "埃比孔",
+      "name_en": "Ebikon",
+      "province": "卢塞恩州",
+      "latitude": 47.0794,
+      "longitude": 8.3404,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "韦尔苏瓦",
+      "name_en": "Versoix",
+      "province": "日内瓦州",
+      "latitude": 46.2838,
+      "longitude": 6.1621,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "阿姆里斯维尔",
+      "name_en": "Amriswil",
+      "province": "图尔高州",
+      "latitude": 47.547,
+      "longitude": 9.2959,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Zürich (Kreis 12) / Hirzenbach",
+      "province": "苏黎世州",
+      "latitude": 47.4019,
+      "longitude": 8.5863,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "布鲁格",
+      "name_en": "Brugg",
+      "province": "阿尔高州",
+      "latitude": 47.481,
+      "longitude": 8.2087,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "欣维尔",
+      "name_en": "Hinwil",
+      "province": "苏黎世州",
+      "latitude": 47.2943,
+      "longitude": 8.8439,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "沃尔布",
+      "name_en": "Worb",
+      "province": "伯恩州",
+      "latitude": 46.9298,
+      "longitude": 7.5631,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Mattenbach (Kreis 7)",
+      "province": "苏黎世州",
+      "latitude": 47.4871,
+      "longitude": 8.7468,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "利斯",
+      "name_en": "Lyss",
+      "province": "伯恩州",
+      "latitude": 47.0741,
+      "longitude": 7.3065,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Münsingen",
+      "province": "伯恩州",
+      "latitude": 46.873,
+      "longitude": 7.561,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "达沃斯",
+      "name_en": "Davos",
+      "province": "格劳宾登州",
+      "latitude": 46.8043,
+      "longitude": 9.8372,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Rheinfelden",
+      "province": "阿尔高州",
+      "latitude": 47.5544,
+      "longitude": 7.794,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "格朗",
+      "name_en": "Gland",
+      "province": "沃州",
+      "latitude": 46.4208,
+      "longitude": 6.2701,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "阿尔特施泰滕",
+      "name_en": "Altstätten",
+      "province": "Saint Gallen",
+      "latitude": 47.3777,
+      "longitude": 9.5475,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "伦茨堡",
+      "name_en": "Lenzburg",
+      "province": "阿尔高州",
+      "latitude": 47.3885,
+      "longitude": 8.175,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "普朗莱乌特",
+      "name_en": "Plan-les-Ouates",
+      "province": "日内瓦州",
+      "latitude": 46.1679,
+      "longitude": 6.1166,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "普里伊",
+      "name_en": "Prilly",
+      "province": "沃州",
+      "latitude": 46.537,
+      "longitude": 6.6046,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "拉图尔德佩勒",
+      "name_en": "La Tour-de-Peilz",
+      "province": "沃州",
+      "latitude": 46.4531,
+      "longitude": 6.8586,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "谢讷布日里",
+      "name_en": "Chêne-Bougeries",
+      "province": "日内瓦州",
+      "latitude": 46.1984,
+      "longitude": 6.1864,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Zürich (Kreis 12) / Schwamendingen-Mitte",
+      "province": "苏黎世州",
+      "latitude": 47.4063,
+      "longitude": 8.5724,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Rotkreuz",
+      "province": "楚格州",
+      "latitude": 47.1428,
+      "longitude": 8.4314,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Uster / Kirch-Uster",
+      "province": "苏黎世州",
+      "latitude": 47.3458,
+      "longitude": 8.7184,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "布克斯",
+      "name_en": "Buchs",
+      "province": "Saint Gallen",
+      "latitude": 47.1674,
+      "longitude": 9.4779,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "奥夫特林根",
+      "name_en": "Oftringen",
+      "province": "阿尔高州",
+      "latitude": 47.3138,
+      "longitude": 7.9253,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Zürich (Kreis 4) / Langstrasse",
+      "province": "苏黎世州",
+      "latitude": 47.3777,
+      "longitude": 8.5285,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "萨尔嫩",
+      "name_en": "Sarnen",
+      "province": "上瓦尔登州",
+      "latitude": 46.8961,
+      "longitude": 8.2453,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "埃居布朗",
+      "name_en": "Ecublens",
+      "province": "沃州",
+      "latitude": 46.529,
+      "longitude": 6.5626,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "比尔斯费尔登",
+      "name_en": "Birsfelden",
+      "province": "巴塞尔乡村州",
+      "latitude": 47.5529,
+      "longitude": 7.6232,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Crans-Montana",
+      "province": "瓦莱州",
+      "latitude": 46.3132,
+      "longitude": 7.4791,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "力洛克",
+      "name_en": "Le Locle",
+      "province": "纳沙泰尔州",
+      "latitude": 47.0562,
+      "longitude": 6.7491,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "里希特斯维尔",
+      "name_en": "Richterswil",
+      "province": "苏黎世州",
+      "latitude": 47.2062,
+      "longitude": 8.6969,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "上维尔",
+      "name_en": "Oberwil",
+      "province": "巴塞尔乡村州",
+      "latitude": 47.5141,
+      "longitude": 7.5579,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "埃施",
+      "name_en": "Aesch",
+      "province": "巴塞尔乡村州",
+      "latitude": 47.471,
+      "longitude": 7.5973,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "埃格勒",
+      "name_en": "Aigle",
+      "province": "沃州",
+      "latitude": 46.3181,
+      "longitude": 6.9646,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Effretikon",
+      "province": "苏黎世州",
+      "latitude": 47.4258,
+      "longitude": 8.6909,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "埃居布朗",
+      "name_en": "Ecublens",
+      "province": "弗里堡州",
+      "latitude": 46.529,
+      "longitude": 6.5626,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "格拉讷河畔维拉尔",
+      "name_en": "Villars-sur-Glâne",
+      "province": "弗里堡州",
+      "latitude": 46.7905,
+      "longitude": 7.1172,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Neuhausen",
+      "province": "沙夫豪森州",
+      "latitude": 47.6858,
+      "longitude": 8.6147,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "苏尔塞",
+      "name_en": "Sursee",
+      "province": "卢塞恩州",
+      "latitude": 47.1709,
+      "longitude": 8.1111,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "帕耶讷",
+      "name_en": "Payerne",
+      "province": "沃州",
+      "latitude": 46.8219,
+      "longitude": 6.9382,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Zürich (Kreis 7) / Hottingen",
+      "province": "苏黎世州",
+      "latitude": 47.3701,
+      "longitude": 8.5631,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Zürich (Kreis 3) / Friesenberg",
+      "province": "苏黎世州",
+      "latitude": 47.3637,
+      "longitude": 8.5042,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Zürich (Kreis 6) / Oberstrass",
+      "province": "苏黎世州",
+      "latitude": 47.3892,
+      "longitude": 8.5504,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Zürich (Kreis 5) / Gewerbeschule",
+      "province": "苏黎世州",
+      "latitude": 47.3848,
+      "longitude": 8.5301,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Arth",
+      "province": "施维茨州",
+      "latitude": 47.0634,
+      "longitude": 8.5235,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "明兴布赫塞",
+      "name_en": "Münchenbuchsee",
+      "province": "伯恩州",
+      "latitude": 47.0217,
+      "longitude": 7.4504,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "韦里耶",
+      "name_en": "Veyrier",
+      "province": "日内瓦州",
+      "latitude": 46.167,
+      "longitude": 6.1844,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "大萨孔内",
+      "name_en": "Le Grand-Saconnex",
+      "province": "日内瓦州",
+      "latitude": 46.2319,
+      "longitude": 6.1209,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "贝尔内",
+      "name_en": "Bernex",
+      "province": "日内瓦州",
+      "latitude": 46.1765,
+      "longitude": 6.0754,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "弗拉维尔",
+      "name_en": "Flawil",
+      "province": "Saint Gallen",
+      "latitude": 47.413,
+      "longitude": 9.1832,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "特维尔",
+      "name_en": "Therwil",
+      "province": "巴塞尔乡村州",
+      "latitude": 47.4994,
+      "longitude": 7.5567,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "吕蒂",
+      "name_en": "Rüti",
+      "province": "苏黎世州",
+      "latitude": 47.256,
+      "longitude": 8.8555,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "韦因费尔登",
+      "name_en": "Weinfelden",
+      "province": "图尔高州",
+      "latitude": 47.5667,
+      "longitude": 9.1,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "阿尔特多夫",
+      "name_en": "Altdorf",
+      "province": "乌里州",
+      "latitude": 46.8804,
+      "longitude": 8.6444,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "默林",
+      "name_en": "Möhlin",
+      "province": "阿尔高州",
+      "latitude": 47.5592,
+      "longitude": 7.8433,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Suhr",
+      "province": "阿尔高州",
+      "latitude": 47.3717,
+      "longitude": 8.0797,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "贝尔普",
+      "name_en": "Belp",
+      "province": "伯恩州",
+      "latitude": 46.8913,
+      "longitude": 7.4982,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "阿勒海姆",
+      "name_en": "Arlesheim",
+      "province": "巴塞尔乡村州",
+      "latitude": 47.4941,
+      "longitude": 7.6198,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "楚赫维尔",
+      "name_en": "Zuchwil",
+      "province": "索洛图恩州",
+      "latitude": 47.2017,
+      "longitude": 7.5665,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "洪布雷布蒂孔",
+      "name_en": "Hombrechtikon",
+      "province": "苏黎世州",
+      "latitude": 47.253,
+      "longitude": 8.7721,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "乌多夫",
+      "name_en": "Urdorf",
+      "province": "苏黎世州",
+      "latitude": 47.3851,
+      "longitude": 8.4258,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Gstaad",
+      "province": "伯恩州",
+      "latitude": 46.4721,
+      "longitude": 7.2869,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "埃申巴赫",
+      "name_en": "Eschenbach",
+      "province": "Saint Gallen",
+      "latitude": 47.2398,
+      "longitude": 8.9216,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Wohlen",
+      "province": "伯恩州",
+      "latitude": 47.3507,
+      "longitude": 8.2752,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "措利科芬",
+      "name_en": "Zollikofen",
+      "province": "伯恩州",
+      "latitude": 46.999,
+      "longitude": 7.4581,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Zürich (Kreis 7) / Witikon",
+      "province": "苏黎世州",
+      "latitude": 47.3575,
+      "longitude": 8.591,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "戈达赫",
+      "name_en": "Goldach",
+      "province": "Saint Gallen",
+      "latitude": 47.474,
+      "longitude": 9.4671,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "休伦堡",
+      "name_en": "Hünenberg",
+      "province": "楚格州",
+      "latitude": 47.1754,
+      "longitude": 8.425,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "罗尔沙赫",
+      "name_en": "Rorschach",
+      "province": "Saint Gallen",
+      "latitude": 47.478,
+      "longitude": 9.4903,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "罗曼斯霍恩",
+      "name_en": "Romanshorn",
+      "province": "图尔高州",
+      "latitude": 47.5659,
+      "longitude": 9.3787,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Veltheim (Kreis 5)",
+      "province": "苏黎世州",
+      "latitude": 47.5142,
+      "longitude": 8.717,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Landquart",
+      "province": "格劳宾登州",
+      "latitude": 46.95,
+      "longitude": 9.5667,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Egg",
+      "province": "苏黎世州",
+      "latitude": 47.2998,
+      "longitude": 8.6903,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "孔泰",
+      "name_en": "Conthey",
+      "province": "瓦莱州",
+      "latitude": 46.2237,
+      "longitude": 7.3028,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Langnau",
+      "province": "伯恩州",
+      "latitude": 46.9394,
+      "longitude": 7.7874,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "吕特里",
+      "name_en": "Lutry",
+      "province": "沃州",
+      "latitude": 46.5024,
+      "longitude": 6.6865,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Lachen",
+      "province": "施维茨州",
+      "latitude": 47.1922,
+      "longitude": 8.8532,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Töss (Kreis 4)",
+      "province": "苏黎世州",
+      "latitude": 47.4789,
+      "longitude": 8.7021,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "维滕巴赫",
+      "name_en": "Wittenbach",
+      "province": "Saint Gallen",
+      "latitude": 47.4611,
+      "longitude": 9.386,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Steinhausen",
+      "province": "楚格州",
+      "latitude": 47.1951,
+      "longitude": 8.4858,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "施坦斯",
+      "name_en": "Stans",
+      "province": "下瓦尔登州",
+      "latitude": 46.9581,
+      "longitude": 8.3661,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Zürich (Kreis 2) / Enge",
+      "province": "苏黎世州",
+      "latitude": 47.3605,
+      "longitude": 8.5313,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Hochdorf",
+      "province": "卢塞恩州",
+      "latitude": 47.1684,
+      "longitude": 8.2918,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "基尔赫贝格",
+      "name_en": "Kirchberg",
+      "province": "Saint Gallen",
+      "latitude": 47.4116,
+      "longitude": 9.0402,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "瓦特维尔",
+      "name_en": "Wattwil",
+      "province": "Saint Gallen",
+      "latitude": 47.2996,
+      "longitude": 9.0866,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "基亚索",
+      "name_en": "Chiasso",
+      "province": "提契诺州",
+      "latitude": 45.832,
+      "longitude": 9.0312,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "上锡根塔尔",
+      "name_en": "Obersiggenthal",
+      "province": "阿尔高州",
+      "latitude": 47.4875,
+      "longitude": 8.2965,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Unterägeri",
+      "province": "楚格州",
+      "latitude": 47.1365,
+      "longitude": 8.5853,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Ingenbohl",
+      "province": "施维茨州",
+      "latitude": 46.9988,
+      "longitude": 8.6153,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Hegnau",
+      "province": "苏黎世州",
+      "latitude": 47.3923,
+      "longitude": 8.6699,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "谢讷堡",
+      "name_en": "Chêne-Bourg",
+      "province": "日内瓦州",
+      "latitude": 46.1953,
+      "longitude": 6.1941,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Neuenhof",
+      "province": "阿尔高州",
+      "latitude": 47.4498,
+      "longitude": 8.3268,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "门内多夫",
+      "name_en": "Männedorf",
+      "province": "苏黎世州",
+      "latitude": 47.2569,
+      "longitude": 8.6989,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "菲斯普",
+      "name_en": "Visp",
+      "province": "瓦莱州",
+      "latitude": 46.2937,
+      "longitude": 7.8815,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "比伯里斯特",
+      "name_en": "Biberist",
+      "province": "索洛图恩州",
+      "latitude": 47.1801,
+      "longitude": 7.5625,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Reinach",
+      "province": "阿尔高州",
+      "latitude": 47.497,
+      "longitude": 7.5917,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "维利绍",
+      "name_en": "Willisau",
+      "province": "卢塞恩州",
+      "latitude": 47.1218,
+      "longitude": 7.9942,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "朱比亚斯科",
+      "name_en": "Giubiasco",
+      "province": "提契诺州",
+      "latitude": 46.1725,
+      "longitude": 9.0079,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Schübelbach",
+      "province": "施维茨州",
+      "latitude": 47.1733,
+      "longitude": 8.9281,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "穆捷",
+      "name_en": "Moutier",
+      "province": "汝拉州",
+      "latitude": 47.2782,
+      "longitude": 7.3695,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "埃帕兰日",
+      "name_en": "Epalinges",
+      "province": "沃州",
+      "latitude": 46.549,
+      "longitude": 6.6683,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "上里特",
+      "name_en": "Oberriet",
+      "province": "Saint Gallen",
+      "latitude": 47.3209,
+      "longitude": 9.5681,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Marly",
+      "province": "弗里堡州",
+      "latitude": 46.7761,
+      "longitude": 7.1646,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "阿多夫",
+      "name_en": "Aadorf",
+      "province": "图尔高州",
+      "latitude": 47.492,
+      "longitude": 8.901,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "上恩特费尔登",
+      "name_en": "Oberentfelden",
+      "province": "阿尔高州",
+      "latitude": 47.3564,
+      "longitude": 8.0459,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "纳特",
+      "name_en": "Naters",
+      "province": "瓦莱州",
+      "latitude": 46.3254,
+      "longitude": 7.9891,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Pregassona",
+      "province": "提契诺州",
+      "latitude": 46.0202,
+      "longitude": 8.9743,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "雷根斯多夫",
+      "name_en": "Regensdorf",
+      "province": "苏黎世州",
+      "latitude": 47.4341,
+      "longitude": 8.4687,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "罗特里斯特",
+      "name_en": "Rothrist",
+      "province": "阿尔高州",
+      "latitude": 47.3051,
+      "longitude": 7.892,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Bussigny",
+      "province": "沃州",
+      "latitude": 46.5511,
+      "longitude": 6.556,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "伦瑙",
+      "name_en": "Lengnau",
+      "province": "伯恩州",
+      "latitude": 47.1816,
+      "longitude": 7.3681,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Pfäffikon",
+      "province": "施维茨州",
+      "latitude": 47.3645,
+      "longitude": 8.792,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Düdingen",
+      "province": "弗里堡州",
+      "latitude": 46.8492,
+      "longitude": 7.1915,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Siebnen",
+      "province": "施维茨州",
+      "latitude": 47.1745,
+      "longitude": 8.8978,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "恩布拉赫",
+      "name_en": "Embrach",
+      "province": "苏黎世州",
+      "latitude": 47.5056,
+      "longitude": 8.5941,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "巴瑟斯多夫",
+      "name_en": "Bassersdorf",
+      "province": "苏黎世州",
+      "latitude": 47.4434,
+      "longitude": 8.6285,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Zürich (Kreis 7) / Fluntern",
+      "province": "苏黎世州",
+      "latitude": 47.3801,
+      "longitude": 8.5613,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "阿尔比斯附近朗瑙",
+      "name_en": "Langnau am Albis",
+      "province": "苏黎世州",
+      "latitude": 47.2888,
+      "longitude": 8.5411,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Wollerau",
+      "province": "施维茨州",
+      "latitude": 47.1948,
+      "longitude": 8.719,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Thalwil / Dorfkern",
+      "province": "苏黎世州",
+      "latitude": 47.2905,
+      "longitude": 8.5663,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "阿尔堡",
+      "name_en": "Aarburg",
+      "province": "阿尔高州",
+      "latitude": 47.3207,
+      "longitude": 7.8999,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "伊吉斯",
+      "name_en": "Igis",
+      "province": "格劳宾登州",
+      "latitude": 46.9453,
+      "longitude": 9.5722,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Domat",
+      "province": "格劳宾登州",
+      "latitude": 46.8348,
+      "longitude": 9.4507,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Zürich (Kreis 7) / Hirslanden",
+      "province": "苏黎世州",
+      "latitude": 47.3624,
+      "longitude": 8.5676,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "尼道",
+      "name_en": "Nidau",
+      "province": "伯恩州",
+      "latitude": 47.1255,
+      "longitude": 7.2403,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Windisch",
+      "province": "阿尔高州",
+      "latitude": 47.479,
+      "longitude": 8.2184,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "波朗特吕",
+      "name_en": "Porrentruy",
+      "province": "汝拉州",
+      "latitude": 47.4173,
+      "longitude": 7.0757,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Au",
+      "province": "Saint Gallen",
+      "latitude": 47.4309,
+      "longitude": 9.6345,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "弗鲁蒂根",
+      "name_en": "Frutigen",
+      "province": "伯恩州",
+      "latitude": 46.5872,
+      "longitude": 7.6494,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "欧隆",
+      "name_en": "Ollon",
+      "province": "沃州",
+      "latitude": 46.2952,
+      "longitude": 6.9931,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "米努肖",
+      "name_en": "Minusio",
+      "province": "提契诺州",
+      "latitude": 46.1777,
+      "longitude": 8.8147,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "采尔马特",
+      "name_en": "Zermatt",
+      "province": "瓦莱州",
+      "latitude": 46.02,
+      "longitude": 7.7486,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "巴涅",
+      "name_en": "Bagnes",
+      "province": "瓦莱州",
+      "latitude": 46.0833,
+      "longitude": 7.2167,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "萨嫩",
+      "name_en": "Saanen",
+      "province": "伯恩州",
+      "latitude": 46.4894,
+      "longitude": 7.26,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "克里西耶",
+      "name_en": "Crissier",
+      "province": "沃州",
+      "latitude": 46.5459,
+      "longitude": 6.5757,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "布克斯",
+      "name_en": "Buchs",
+      "province": "阿尔高州",
+      "latitude": 47.1674,
+      "longitude": 9.4779,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "格雷尼兴",
+      "name_en": "Gränichen",
+      "province": "阿尔高州",
+      "latitude": 47.3593,
+      "longitude": 8.1024,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Bremgarten",
+      "province": "阿尔高州",
+      "latitude": 47.3511,
+      "longitude": 8.3421,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Meggen",
+      "province": "卢塞恩州",
+      "latitude": 47.0469,
+      "longitude": 8.3747,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Blécherette",
+      "province": "沃州",
+      "latitude": 46.5393,
+      "longitude": 6.6223,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "基希伯格",
+      "name_en": "Kilchberg",
+      "province": "苏黎世州",
+      "latitude": 47.3244,
+      "longitude": 8.5455,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Muri",
+      "province": "阿尔高州",
+      "latitude": 46.9312,
+      "longitude": 7.4866,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "锡纳赫",
+      "name_en": "Sirnach",
+      "province": "图尔高州",
+      "latitude": 47.4622,
+      "longitude": 8.9976,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "多尔纳赫",
+      "name_en": "Dornach",
+      "province": "索洛图恩州",
+      "latitude": 47.4804,
+      "longitude": 7.6164,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "塔尔",
+      "name_en": "Thal",
+      "province": "Saint Gallen",
+      "latitude": 47.4668,
+      "longitude": 9.5664,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "鲁斯维尔",
+      "name_en": "Ruswil",
+      "province": "卢塞恩州",
+      "latitude": 47.0842,
+      "longitude": 8.1265,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "格拉布斯",
+      "name_en": "Grabs",
+      "province": "Saint Gallen",
+      "latitude": 47.1825,
+      "longitude": 9.4439,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Viganello",
+      "province": "提契诺州",
+      "latitude": 46.0134,
+      "longitude": 8.9688,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "下锡根塔尔",
+      "name_en": "Untersiggenthal",
+      "province": "阿尔高州",
+      "latitude": 47.5021,
+      "longitude": 8.2555,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "特林巴赫",
+      "name_en": "Trimbach",
+      "province": "索洛图恩州",
+      "latitude": 47.3656,
+      "longitude": 7.8868,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Zürich (Kreis 1)",
+      "province": "苏黎世州",
+      "latitude": 47.3706,
+      "longitude": 8.5418,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "马尔特斯",
+      "name_en": "Malters",
+      "province": "卢塞恩州",
+      "latitude": 47.0363,
+      "longitude": 8.1819,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "弗伦肯多夫",
+      "name_en": "Frenkendorf",
+      "province": "巴塞尔乡村州",
+      "latitude": 47.5069,
+      "longitude": 7.7165,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Dietlikon / Dietlikon (Dorf)",
+      "province": "苏黎世州",
+      "latitude": 47.4183,
+      "longitude": 8.6188,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Horgen / Horgen (Dorfkern)",
+      "province": "苏黎世州",
+      "latitude": 47.256,
+      "longitude": 8.6016,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "萨甘斯",
+      "name_en": "Sargans",
+      "province": "Saint Gallen",
+      "latitude": 47.049,
+      "longitude": 9.441,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "德伦丁根",
+      "name_en": "Derendingen",
+      "province": "索洛图恩州",
+      "latitude": 47.1985,
+      "longitude": 7.5884,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "博利根",
+      "name_en": "Bolligen",
+      "province": "伯恩州",
+      "latitude": 46.9751,
+      "longitude": 7.497,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "洛索内",
+      "name_en": "Losone",
+      "province": "提契诺州",
+      "latitude": 46.1687,
+      "longitude": 8.7593,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "诺伊恩基尔赫",
+      "name_en": "Neuenkirch",
+      "province": "卢塞恩州",
+      "latitude": 47.0999,
+      "longitude": 8.2042,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "贝城",
+      "name_en": "Bex",
+      "province": "沃州",
+      "latitude": 46.2497,
+      "longitude": 7.0098,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Mattenbach (Kreis 7) / Deutweg",
+      "province": "苏黎世州",
+      "latitude": 47.4942,
+      "longitude": 8.7395,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Collombey",
+      "province": "瓦莱州",
+      "latitude": 46.2739,
+      "longitude": 6.9479,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "菲利",
+      "name_en": "Fully",
+      "province": "瓦莱州",
+      "latitude": 46.1385,
+      "longitude": 7.1147,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "博特明根",
+      "name_en": "Bottmingen",
+      "province": "巴塞尔乡村州",
+      "latitude": 47.5234,
+      "longitude": 7.5721,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "比亚斯卡",
+      "name_en": "Biasca",
+      "province": "提契诺州",
+      "latitude": 46.3597,
+      "longitude": 8.9696,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "锡萨赫",
+      "name_en": "Sissach",
+      "province": "巴塞尔乡村州",
+      "latitude": 47.4641,
+      "longitude": 7.8089,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "巴尔斯塔尔",
+      "name_en": "Balsthal",
+      "province": "索洛图恩州",
+      "latitude": 47.3161,
+      "longitude": 7.6932,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "措利孔",
+      "name_en": "Zollikon",
+      "province": "苏黎世州",
+      "latitude": 47.3402,
+      "longitude": 8.5741,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Oberengstringen",
+      "province": "苏黎世州",
+      "latitude": 47.4084,
+      "longitude": 8.4651,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "穆尔滕",
+      "name_en": "Murten/Morat",
+      "province": "弗里堡州",
+      "latitude": 46.9283,
+      "longitude": 7.1171,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "马萨尼奥",
+      "name_en": "Massagno",
+      "province": "提契诺州",
+      "latitude": 46.0126,
+      "longitude": 8.9435,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "埃沙朗",
+      "name_en": "Echallens",
+      "province": "沃州",
+      "latitude": 46.6413,
+      "longitude": 6.6332,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "施泰法",
+      "name_en": "Stäfa",
+      "province": "苏黎世州",
+      "latitude": 47.2425,
+      "longitude": 8.7234,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Les Avanchets",
+      "province": "日内瓦州",
+      "latitude": 46.2217,
+      "longitude": 6.1081,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Peseux",
+      "province": "纳沙泰尔州",
+      "latitude": 46.987,
+      "longitude": 6.889,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "盖特金登",
+      "name_en": "Gelterkinden",
+      "province": "巴塞尔乡村州",
+      "latitude": 47.465,
+      "longitude": 7.8517,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Teufen",
+      "province": "外阿彭策尔州",
+      "latitude": 47.3908,
+      "longitude": 9.3864,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "于赫多夫",
+      "name_en": "Uetendorf",
+      "province": "伯恩州",
+      "latitude": 46.7739,
+      "longitude": 7.5725,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Appenzell",
+      "province": "内阿彭策尔州",
+      "latitude": 47.331,
+      "longitude": 9.41,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "明布维伦",
+      "name_en": "Münchwilen",
+      "province": "图尔高州",
+      "latitude": 47.4772,
+      "longitude": 8.9968,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "劳芬",
+      "name_en": "Laufen",
+      "province": "巴塞尔乡村州",
+      "latitude": 47.4219,
+      "longitude": 7.4995,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "上乌兹维尔",
+      "name_en": "Oberuzwil",
+      "province": "Saint Gallen",
+      "latitude": 47.4308,
+      "longitude": 9.1272,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Pfäffikon / Pfäffikon (Dorfkern)",
+      "province": "苏黎世州",
+      "latitude": 47.3694,
+      "longitude": 8.7831,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "阿德利根斯维尔",
+      "name_en": "Adligenswil",
+      "province": "卢塞恩州",
+      "latitude": 47.0652,
+      "longitude": 8.3612,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "萨维耶斯",
+      "name_en": "Savièse",
+      "province": "瓦莱州",
+      "latitude": 46.2512,
+      "longitude": 7.3456,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Zürich (Kreis 8) / Mühlebach",
+      "province": "苏黎世州",
+      "latitude": 47.3573,
+      "longitude": 8.5574,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "乌茨纳赫",
+      "name_en": "Uznach",
+      "province": "Saint Gallen",
+      "latitude": 47.2242,
+      "longitude": 8.9826,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Buochs",
+      "province": "下瓦尔登州",
+      "latitude": 46.974,
+      "longitude": 8.4228,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "赫佐根布赫塞",
+      "name_en": "Herzogenbuchsee",
+      "province": "伯恩州",
+      "latitude": 47.188,
+      "longitude": 7.7062,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "海姆贝格",
+      "name_en": "Heimberg",
+      "province": "伯恩州",
+      "latitude": 46.7948,
+      "longitude": 7.6043,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "维伦洛斯",
+      "name_en": "Würenlos",
+      "province": "阿尔高州",
+      "latitude": 47.4421,
+      "longitude": 8.3626,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "菲尔默根",
+      "name_en": "Villmergen",
+      "province": "阿尔高州",
+      "latitude": 47.3501,
+      "longitude": 8.2476,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Chavannes",
+      "province": "沃州",
+      "latitude": 46.5301,
+      "longitude": 6.5707,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Hergiswil",
+      "province": "下瓦尔登州",
+      "latitude": 46.9843,
+      "longitude": 8.3094,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Menziken",
+      "province": "阿尔高州",
+      "latitude": 47.2396,
+      "longitude": 8.19,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Basse-Nendaz",
+      "province": "瓦莱州",
+      "latitude": 46.1899,
+      "longitude": 7.3121,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Diepoldsau",
+      "province": "Saint Gallen",
+      "latitude": 47.386,
+      "longitude": 9.6556,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Sankt Margrethen",
+      "province": "Saint Gallen",
+      "latitude": 47.4525,
+      "longitude": 9.6374,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Oberwinterthur (Kreis 2) / Guggenbühl",
+      "province": "苏黎世州",
+      "latitude": 47.5134,
+      "longitude": 8.76,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Oberwinterthur (Kreis 2) / Talacker",
+      "province": "苏黎世州",
+      "latitude": 47.506,
+      "longitude": 8.7515,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Buchrain",
+      "province": "卢塞恩州",
+      "latitude": 47.0962,
+      "longitude": 8.3473,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "基尔赫贝格",
+      "name_en": "Kirchberg",
+      "province": "伯恩州",
+      "latitude": 47.4116,
+      "longitude": 9.0402,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Goldau",
+      "province": "施维茨州",
+      "latitude": 47.0476,
+      "longitude": 8.5462,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Altendorf",
+      "province": "施维茨州",
+      "latitude": 47.1899,
+      "longitude": 8.8382,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "罗蒙",
+      "name_en": "Romont",
+      "province": "弗里堡州",
+      "latitude": 46.6965,
+      "longitude": 6.919,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "洛桑上勒蒙",
+      "name_en": "Le Mont-sur-Lausanne",
+      "province": "沃州",
+      "latitude": 46.5581,
+      "longitude": 6.6315,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Urtenen",
+      "province": "伯恩州",
+      "latitude": 47.0267,
+      "longitude": 7.5008,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "布洛奈",
+      "name_en": "Blonay",
+      "province": "沃州",
+      "latitude": 46.4678,
+      "longitude": 6.8961,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "屈蒂根",
+      "name_en": "Küttigen",
+      "province": "阿尔高州",
+      "latitude": 47.4148,
+      "longitude": 8.0498,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "圣伊米耶",
+      "name_en": "Saint-Imier",
+      "province": "伯恩州",
+      "latitude": 47.1528,
+      "longitude": 6.9969,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Alpnach",
+      "province": "上瓦尔登州",
+      "latitude": 46.9423,
+      "longitude": 8.2718,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Kerns",
+      "province": "上瓦尔登州",
+      "latitude": 46.9012,
+      "longitude": 8.2751,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Zürich (Kreis 12) / Saatlen",
+      "province": "苏黎世州",
+      "latitude": 47.4113,
+      "longitude": 8.5648,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "苏米斯瓦尔德",
+      "name_en": "Sumiswald",
+      "province": "伯恩州",
+      "latitude": 47.0275,
+      "longitude": 7.7453,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "下森",
+      "name_en": "Unterseen",
+      "province": "伯恩州",
+      "latitude": 46.6853,
+      "longitude": 7.8472,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "吕姆朗",
+      "name_en": "Rümlang",
+      "province": "苏黎世州",
+      "latitude": 47.4504,
+      "longitude": 8.5299,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Orbe",
+      "province": "沃州",
+      "latitude": 46.725,
+      "longitude": 6.5307,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Uster / Ober-Uster",
+      "province": "苏黎世州",
+      "latitude": 47.3487,
+      "longitude": 8.7332,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "沙泰勒圣但尼",
+      "name_en": "Châtel-Saint-Denis",
+      "province": "弗里堡州",
+      "latitude": 46.5269,
+      "longitude": 6.9008,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "阿斯科纳",
+      "name_en": "Ascona",
+      "province": "提契诺州",
+      "latitude": 46.1545,
+      "longitude": 8.7733,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "因特拉肯",
+      "name_en": "Interlaken",
+      "province": "伯恩州",
+      "latitude": 46.6839,
+      "longitude": 7.8664,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "巴德拉加兹",
+      "name_en": "Bad Ragaz",
+      "province": "Saint Gallen",
+      "latitude": 47.006,
+      "longitude": 9.5027,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "埃斯塔瓦耶",
+      "name_en": "Estavayer-le-Lac",
+      "province": "弗里堡州",
+      "latitude": 46.8488,
+      "longitude": 6.8465,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Greifensee",
+      "province": "苏黎世州",
+      "latitude": 47.3672,
+      "longitude": 8.6812,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "",
+      "name_en": "Wallisellen / Wallisellen-Ost",
+      "province": "苏黎世州",
+      "latitude": 47.4145,
+      "longitude": 8.5973,
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "name": "黑利伯格",
+      "name_en": "Herrliberg",
+      "province": "苏黎世州",
+      "latitude": 47.2906,
+      "longitude": 8.6146,
+      "timezone": "Europe/Zurich"
+    }
+  ]
+}

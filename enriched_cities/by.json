@@ -1,0 +1,1126 @@
+{
+  "country_code": "BY",
+  "country_name": "白俄罗斯",
+  "cities": [
+    {
+      "name": "明斯克市",
+      "name_en": "Minsk",
+      "province": "明斯克",
+      "latitude": 53.9002,
+      "longitude": 27.5665,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "戈梅利",
+      "name_en": "Homyel'",
+      "province": "Homyel’ Voblasc’",
+      "latitude": 52.4345,
+      "longitude": 30.9754,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "格罗德诺",
+      "name_en": "Hrodna",
+      "province": "Grodnenskaya",
+      "latitude": 53.6758,
+      "longitude": 23.8289,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "维捷布斯克",
+      "name_en": "Vitebsk",
+      "province": "维捷布斯克州",
+      "latitude": 55.1904,
+      "longitude": 30.2049,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Mahilyow",
+      "province": "Mogilev",
+      "latitude": 53.9088,
+      "longitude": 30.3404,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "布列斯特",
+      "name_en": "Brest",
+      "province": "Brest",
+      "latitude": 52.1089,
+      "longitude": 23.7175,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Bobruysk",
+      "province": "Mogilev",
+      "latitude": 53.1464,
+      "longitude": 29.2055,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Baranovichi",
+      "province": "Brest",
+      "latitude": 53.1325,
+      "longitude": 26.0077,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Barysaw",
+      "province": "明斯克州",
+      "latitude": 54.2279,
+      "longitude": 28.505,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "平斯克",
+      "name_en": "Pinsk",
+      "province": "Brest",
+      "latitude": 52.1215,
+      "longitude": 26.0673,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "莫济里",
+      "name_en": "Mazyr",
+      "province": "Homyel’ Voblasc’",
+      "latitude": 52.0416,
+      "longitude": 29.2163,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "利达",
+      "name_en": "Lida",
+      "province": "Grodnenskaya",
+      "latitude": 53.8833,
+      "longitude": 25.2997,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "奥尔沙",
+      "name_en": "Orsha",
+      "province": "维捷布斯克州",
+      "latitude": 54.5136,
+      "longitude": 30.4036,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "索利戈尔斯克",
+      "name_en": "Soligorsk",
+      "province": "明斯克州",
+      "latitude": 52.7898,
+      "longitude": 27.5358,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "新波洛茨克",
+      "name_en": "Novopolotsk",
+      "province": "维捷布斯克州",
+      "latitude": 55.5262,
+      "longitude": 28.5931,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Maladziečna",
+      "province": "明斯克州",
+      "latitude": 54.3167,
+      "longitude": 26.854,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "波洛茨克",
+      "name_en": "Polotsk",
+      "province": "维捷布斯克州",
+      "latitude": 55.4879,
+      "longitude": 28.7856,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Zhlobin",
+      "province": "Homyel’ Voblasc’",
+      "latitude": 52.8926,
+      "longitude": 30.024,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Rechytsa",
+      "province": "Homyel’ Voblasc’",
+      "latitude": 52.3617,
+      "longitude": 30.3916,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Horad Zhodzina",
+      "province": "明斯克州",
+      "latitude": 54.0985,
+      "longitude": 28.3331,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Svetlogorsk",
+      "province": "Homyel’ Voblasc’",
+      "latitude": 52.6329,
+      "longitude": 29.7389,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "斯卢茨克",
+      "name_en": "Slutsk",
+      "province": "明斯克州",
+      "latitude": 53.0152,
+      "longitude": 27.5416,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "科布林",
+      "name_en": "Kobryn",
+      "province": "Brest",
+      "latitude": 52.2117,
+      "longitude": 24.3563,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "斯洛尼姆",
+      "name_en": "Slonim",
+      "province": "Grodnenskaya",
+      "latitude": 53.0875,
+      "longitude": 25.3171,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "瓦夫卡维斯克",
+      "name_en": "Volkovysk",
+      "province": "Grodnenskaya",
+      "latitude": 53.1561,
+      "longitude": 24.4513,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Kalinkovichi",
+      "province": "Homyel’ Voblasc’",
+      "latitude": 52.1323,
+      "longitude": 29.3257,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Smarhoń",
+      "province": "Grodnenskaya",
+      "latitude": 54.4798,
+      "longitude": 26.3957,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "罗加乔夫",
+      "name_en": "Rahachow",
+      "province": "Homyel’ Voblasc’",
+      "latitude": 53.0926,
+      "longitude": 30.0486,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "捷尔任斯克",
+      "name_en": "Dzyarzhynsk",
+      "province": "明斯克州",
+      "latitude": 53.6848,
+      "longitude": 27.1317,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Osipovichi",
+      "province": "Mogilev",
+      "latitude": 53.3059,
+      "longitude": 28.6287,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "戈尔基",
+      "name_en": "Horki",
+      "province": "Mogilev",
+      "latitude": 54.2861,
+      "longitude": 30.986,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Byaroza",
+      "province": "Brest",
+      "latitude": 52.5313,
+      "longitude": 24.9782,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "新格鲁多克",
+      "name_en": "Novogrudok",
+      "province": "Grodnenskaya",
+      "latitude": 53.5942,
+      "longitude": 25.8191,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Vileyka",
+      "province": "明斯克州",
+      "latitude": 54.4914,
+      "longitude": 26.9111,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Luninyets",
+      "province": "Brest",
+      "latitude": 52.2486,
+      "longitude": 26.8006,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Krychaw",
+      "province": "Mogilev",
+      "latitude": 53.7192,
+      "longitude": 31.7136,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Smaliavičy",
+      "province": "明斯克州",
+      "latitude": 54.0249,
+      "longitude": 28.0894,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Ivatsevichi",
+      "province": "Brest",
+      "latitude": 52.7079,
+      "longitude": 25.3351,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Mar’ina Gorka",
+      "province": "明斯克州",
+      "latitude": 53.509,
+      "longitude": 28.147,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Pruzhany",
+      "province": "Brest",
+      "latitude": 52.5546,
+      "longitude": 24.4548,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "波斯塔维",
+      "name_en": "Pastavy",
+      "province": "维捷布斯克州",
+      "latitude": 55.1168,
+      "longitude": 26.8326,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Fanipol",
+      "province": "明斯克州",
+      "latitude": 53.75,
+      "longitude": 27.3334,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Dobrush",
+      "province": "Homyel’ Voblasc’",
+      "latitude": 52.4147,
+      "longitude": 31.3143,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Hlybokaye",
+      "province": "维捷布斯克州",
+      "latitude": 55.1393,
+      "longitude": 27.6914,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "斯托尔布齐",
+      "name_en": "Stowbtsy",
+      "province": "明斯克州",
+      "latitude": 53.4799,
+      "longitude": 26.7351,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "扎斯拉夫尔",
+      "name_en": "Zaslawye",
+      "province": "明斯克州",
+      "latitude": 54.0114,
+      "longitude": 27.2695,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Lyepyel’",
+      "province": "维捷布斯克州",
+      "latitude": 54.8814,
+      "longitude": 28.699,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Kalodzishchy",
+      "province": "明斯克州",
+      "latitude": 53.944,
+      "longitude": 27.7823,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "奥什米亚内",
+      "name_en": "Oshmyany",
+      "province": "Grodnenskaya",
+      "latitude": 54.4181,
+      "longitude": 25.9373,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "贝霍夫",
+      "name_en": "Bykhov",
+      "province": "Mogilev",
+      "latitude": 53.5213,
+      "longitude": 30.2308,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Ivanovo",
+      "province": "Brest",
+      "latitude": 52.1472,
+      "longitude": 25.532,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Nesvizh",
+      "province": "明斯克州",
+      "latitude": 53.2219,
+      "longitude": 26.6768,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Žytkavičy",
+      "province": "Homyel’ Voblasc’",
+      "latitude": 52.2168,
+      "longitude": 27.8561,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Logoysk",
+      "province": "明斯克州",
+      "latitude": 54.2064,
+      "longitude": 27.8512,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Shchuchyn",
+      "province": "Grodnenskaya",
+      "latitude": 53.6014,
+      "longitude": 24.7465,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "奥斯特罗韦茨",
+      "name_en": "Astraviec",
+      "province": "Grodnenskaya",
+      "latitude": 54.6138,
+      "longitude": 25.9554,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "克利莫维奇",
+      "name_en": "Klimovichi",
+      "province": "Mogilev",
+      "latitude": 53.6049,
+      "longitude": 31.9563,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Lyasny",
+      "province": "明斯克州",
+      "latitude": 54.0072,
+      "longitude": 27.6963,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Kostyukovichi",
+      "province": "Mogilev",
+      "latitude": 53.3549,
+      "longitude": 32.0513,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Shklov",
+      "province": "Mogilev",
+      "latitude": 54.213,
+      "longitude": 30.2872,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Drogichin",
+      "province": "Brest",
+      "latitude": 52.1874,
+      "longitude": 25.1597,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "莫斯特",
+      "name_en": "Mosty",
+      "province": "Grodnenskaya",
+      "latitude": 53.4122,
+      "longitude": 24.5387,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Zhabinka",
+      "province": "Brest",
+      "latitude": 52.1986,
+      "longitude": 24.0106,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "斯托林",
+      "name_en": "Stolin",
+      "province": "Brest",
+      "latitude": 51.8912,
+      "longitude": 26.846,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "甘采维奇",
+      "name_en": "Hantsavichy",
+      "province": "Brest",
+      "latitude": 52.7579,
+      "longitude": 26.4309,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Khoyniki",
+      "province": "Homyel’ Voblasc’",
+      "latitude": 51.9077,
+      "longitude": 29.9826,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Malorita",
+      "province": "Brest",
+      "latitude": 51.7947,
+      "longitude": 24.0746,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Mikashevichy",
+      "province": "Brest",
+      "latitude": 52.2173,
+      "longitude": 27.476,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Novolukoml’",
+      "province": "维捷布斯克州",
+      "latitude": 54.6619,
+      "longitude": 29.1502,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Byarozawka",
+      "province": "Grodnenskaya",
+      "latitude": 53.7241,
+      "longitude": 25.4971,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "戈罗多克",
+      "name_en": "Gorodok",
+      "province": "维捷布斯克州",
+      "latitude": 55.4624,
+      "longitude": 29.9845,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Bierazino",
+      "province": "明斯克州",
+      "latitude": 53.8391,
+      "longitude": 28.9879,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Lyuban’",
+      "province": "明斯克州",
+      "latitude": 52.7985,
+      "longitude": 28.0048,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Kletsk",
+      "province": "明斯克州",
+      "latitude": 53.0635,
+      "longitude": 26.6321,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Byelaazyorsk",
+      "province": "Brest",
+      "latitude": 52.4731,
+      "longitude": 25.1784,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Staryye Dorogi",
+      "province": "明斯克州",
+      "latitude": 53.0402,
+      "longitude": 28.267,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Uzda",
+      "province": "明斯克州",
+      "latitude": 53.4627,
+      "longitude": 27.2137,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Lyakhovichi",
+      "province": "Brest",
+      "latitude": 53.0393,
+      "longitude": 26.2631,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Machulishchy",
+      "province": "明斯克州",
+      "latitude": 53.7788,
+      "longitude": 27.5948,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Kastsyukowka",
+      "province": "Homyel’ Voblasc’",
+      "latitude": 52.5387,
+      "longitude": 30.9173,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Červień",
+      "province": "明斯克州",
+      "latitude": 53.7059,
+      "longitude": 28.4313,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Petrikov",
+      "province": "Homyel’ Voblasc’",
+      "latitude": 52.1299,
+      "longitude": 28.4962,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Baran’",
+      "province": "维捷布斯克州",
+      "latitude": 54.4774,
+      "longitude": 30.3094,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "姆斯齐斯拉夫",
+      "name_en": "Mscislau",
+      "province": "Mogilev",
+      "latitude": 54.0185,
+      "longitude": 31.7217,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Volozhin",
+      "province": "明斯克州",
+      "latitude": 54.0891,
+      "longitude": 26.5273,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Kopyl’",
+      "province": "明斯克州",
+      "latitude": 53.1516,
+      "longitude": 27.0913,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "乔瑟",
+      "name_en": "Chausy",
+      "province": "Mogilev",
+      "latitude": 53.8074,
+      "longitude": 30.9658,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Skidel’",
+      "province": "Grodnenskaya",
+      "latitude": 53.5904,
+      "longitude": 24.2478,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Belynichi",
+      "province": "Mogilev",
+      "latitude": 53.9952,
+      "longitude": 29.7091,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Tolochin",
+      "province": "维捷布斯克州",
+      "latitude": 54.4099,
+      "longitude": 29.6935,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "布拉斯拉夫",
+      "name_en": "Braslav",
+      "province": "维捷布斯克州",
+      "latitude": 55.6439,
+      "longitude": 27.0572,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Druzhny",
+      "province": "明斯克州",
+      "latitude": 53.6238,
+      "longitude": 27.8977,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Chachersk",
+      "province": "Homyel’ Voblasc’",
+      "latitude": 52.9164,
+      "longitude": 30.9179,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Yel’sk",
+      "province": "Homyel’ Voblasc’",
+      "latitude": 51.8136,
+      "longitude": 29.1544,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Vyetka",
+      "province": "Homyel’ Voblasc’",
+      "latitude": 52.5543,
+      "longitude": 31.1807,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "布达卡沙廖瓦",
+      "name_en": "Buda-Kashalyova",
+      "province": "Homyel’ Voblasc’",
+      "latitude": 52.7172,
+      "longitude": 30.5679,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "克鲁普基",
+      "name_en": "Krupki",
+      "province": "明斯克州",
+      "latitude": 54.3178,
+      "longitude": 29.1374,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Narovlya",
+      "province": "Homyel’ Voblasc’",
+      "latitude": 51.7972,
+      "longitude": 29.4978,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Kamenets",
+      "province": "Brest",
+      "latitude": 52.4001,
+      "longitude": 23.81,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Hatava",
+      "province": "明斯克州",
+      "latitude": 53.7829,
+      "longitude": 27.6407,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Kirovsk",
+      "province": "Mogilev",
+      "latitude": 53.27,
+      "longitude": 29.4706,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Miory",
+      "province": "维捷布斯克州",
+      "latitude": 55.6222,
+      "longitude": 27.6281,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Cherikov",
+      "province": "Mogilev",
+      "latitude": 53.5686,
+      "longitude": 31.3847,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Glusk",
+      "province": "Mogilev",
+      "latitude": 52.902,
+      "longitude": 28.6831,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Plyeshchanitsy",
+      "province": "明斯克州",
+      "latitude": 54.4235,
+      "longitude": 27.8301,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "斯拉夫哥罗德",
+      "name_en": "Slawharad",
+      "province": "Mogilev",
+      "latitude": 53.4431,
+      "longitude": 31.0003,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Dyatlovo",
+      "province": "Grodnenskaya",
+      "latitude": 53.4622,
+      "longitude": 25.4076,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Chashniki",
+      "province": "维捷布斯克州",
+      "latitude": 54.851,
+      "longitude": 29.1665,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Verkhnedvinsk",
+      "province": "维捷布斯克州",
+      "latitude": 55.7766,
+      "longitude": 27.9366,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Kličaŭ",
+      "province": "Mogilev",
+      "latitude": 53.4923,
+      "longitude": 29.3356,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Krasnosel’skiy",
+      "province": "Grodnenskaya",
+      "latitude": 53.2649,
+      "longitude": 24.424,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Krugloye",
+      "province": "Mogilev",
+      "latitude": 54.2531,
+      "longitude": 29.7957,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Shumilino",
+      "province": "维捷布斯克州",
+      "latitude": 55.2984,
+      "longitude": 29.6128,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Aktsyabrski",
+      "province": "Homyel’ Voblasc’",
+      "latitude": 52.6484,
+      "longitude": 28.8799,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Senno",
+      "province": "维捷布斯克州",
+      "latitude": 54.8118,
+      "longitude": 29.7006,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Iwye",
+      "province": "Grodnenskaya",
+      "latitude": 53.9317,
+      "longitude": 25.7763,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Vishnyeva",
+      "province": "Grodnenskaya",
+      "latitude": 54.7102,
+      "longitude": 26.5228,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Zel’va",
+      "province": "Grodnenskaya",
+      "latitude": 53.1493,
+      "longitude": 24.812,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Myadzyel",
+      "province": "明斯克州",
+      "latitude": 54.8789,
+      "longitude": 26.9362,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Dubrowna",
+      "province": "维捷布斯克州",
+      "latitude": 54.5719,
+      "longitude": 30.6912,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Beshenkovichi",
+      "province": "维捷布斯克州",
+      "latitude": 55.0433,
+      "longitude": 29.4574,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "多克希齐",
+      "name_en": "Dokshytsy",
+      "province": "维捷布斯克州",
+      "latitude": 54.891,
+      "longitude": 27.7665,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Liozno",
+      "province": "维捷布斯克州",
+      "latitude": 55.0199,
+      "longitude": 30.7969,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Loshnitsa",
+      "province": "明斯克州",
+      "latitude": 54.2796,
+      "longitude": 28.7649,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Rakaw",
+      "province": "明斯克州",
+      "latitude": 53.9674,
+      "longitude": 27.0562,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Radaškovičy",
+      "province": "明斯克州",
+      "latitude": 54.1554,
+      "longitude": 27.2412,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Ross’",
+      "province": "Grodnenskaya",
+      "latitude": 53.2841,
+      "longitude": 24.4072,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Krasnapollye",
+      "province": "Mogilev",
+      "latitude": 53.3358,
+      "longitude": 31.4006,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Loyev",
+      "province": "Homyel’ Voblasc’",
+      "latitude": 51.9412,
+      "longitude": 30.7934,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "斯维斯洛奇",
+      "name_en": "Svislach",
+      "province": "Grodnenskaya",
+      "latitude": 53.0343,
+      "longitude": 24.0972,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Sharkovshchina",
+      "province": "维捷布斯克州",
+      "latitude": 55.3681,
+      "longitude": 27.4697,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Starobin",
+      "province": "明斯克州",
+      "latitude": 52.7267,
+      "longitude": 27.4606,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "乌沙奇",
+      "name_en": "Ushachi",
+      "province": "维捷布斯克州",
+      "latitude": 55.1761,
+      "longitude": 28.6195,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Vyalikaya Byerastavitsa",
+      "province": "Grodnenskaya",
+      "latitude": 53.1956,
+      "longitude": 24.0199,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Korelichi",
+      "province": "Grodnenskaya",
+      "latitude": 53.5648,
+      "longitude": 26.1406,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Davyd-Haradok",
+      "province": "Brest",
+      "latitude": 52.0566,
+      "longitude": 27.2161,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Voronovo",
+      "province": "Grodnenskaya",
+      "latitude": 54.1539,
+      "longitude": 25.3123,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Rossony",
+      "province": "维捷布斯克州",
+      "latitude": 55.906,
+      "longitude": 28.8133,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Chyst’",
+      "province": "明斯克州",
+      "latitude": 54.2698,
+      "longitude": 27.1067,
+      "timezone": "Europe/Minsk"
+    },
+    {
+      "name": "",
+      "name_en": "Smilavičy",
+      "province": "明斯克州",
+      "latitude": 53.7496,
+      "longitude": 28.0115,
+      "timezone": "Europe/Minsk"
+    }
+  ]
+}

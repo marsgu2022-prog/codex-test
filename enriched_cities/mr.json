@@ -1,0 +1,478 @@
+{
+  "country_code": "MR",
+  "country_name": "毛利塔尼亚",
+  "cities": [
+    {
+      "name": "努瓦克肖特",
+      "name_en": "Nouakchott",
+      "province": "",
+      "latitude": 18.0858,
+      "longitude": -15.9785,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Nouadhibou",
+      "province": "努瓦迪布湾省",
+      "latitude": 20.9419,
+      "longitude": -17.0384,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "基法",
+      "name_en": "Kiffa",
+      "province": "阿萨巴省",
+      "latitude": 16.6207,
+      "longitude": -11.4021,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Dar Naim",
+      "province": "Nouakchott Nord",
+      "latitude": 18.1081,
+      "longitude": -15.9267,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Néma",
+      "province": "东胡德省",
+      "latitude": 16.617,
+      "longitude": -7.2565,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Mbera",
+      "province": "东胡德省",
+      "latitude": 15.8561,
+      "longitude": -5.7907,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Ksar",
+      "province": "Nouakchott Ouest",
+      "latitude": 18.0995,
+      "longitude": -15.9574,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "卡埃迪",
+      "name_en": "Kaédi",
+      "province": "戈尔戈勒省",
+      "latitude": 16.1507,
+      "longitude": -13.5058,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Zouérat",
+      "province": "提里斯-宰穆尔省",
+      "latitude": 22.7354,
+      "longitude": -12.4713,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Tevragh Zeina",
+      "province": "Nouakchott Ouest",
+      "latitude": 18.0989,
+      "longitude": -15.9885,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Bougadoum",
+      "province": "东胡德省",
+      "latitude": 15.867,
+      "longitude": -7.3692,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Sélibaby",
+      "province": "吉迪马卡省",
+      "latitude": 15.1585,
+      "longitude": -12.1843,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "阿塔尔",
+      "name_en": "Atar",
+      "province": "阿德拉尔省",
+      "latitude": 20.5188,
+      "longitude": -13.0464,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Ayoun El Atrous",
+      "province": "西胡德省",
+      "latitude": 16.6614,
+      "longitude": -9.6149,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Guerou",
+      "province": "阿萨巴省",
+      "latitude": 17.0775,
+      "longitude": -12.0387,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Boutilimitt",
+      "province": "特拉扎省",
+      "latitude": 17.5458,
+      "longitude": -14.6978,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "El ’Ayoûn",
+      "province": "阿萨巴省",
+      "latitude": 15.5579,
+      "longitude": -11.18,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Tékane",
+      "province": "特拉扎省",
+      "latitude": 16.6017,
+      "longitude": -15.3487,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Bogué",
+      "province": "卜拉克纳省",
+      "latitude": 16.5915,
+      "longitude": -14.2631,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Aleg",
+      "province": "卜拉克纳省",
+      "latitude": 17.0531,
+      "longitude": -13.9131,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Tembedgha",
+      "province": "东胡德省",
+      "latitude": 16.2414,
+      "longitude": -8.1732,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "罗索",
+      "name_en": "Rosso",
+      "province": "特拉扎省",
+      "latitude": 16.5138,
+      "longitude": -15.805,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Akjoujt",
+      "province": "因希里省",
+      "latitude": 19.7416,
+      "longitude": -14.3853,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Ṭinṭâne",
+      "province": "西胡德省",
+      "latitude": 16.3946,
+      "longitude": -10.1737,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Elghabra",
+      "province": "阿萨巴省",
+      "latitude": 16.6471,
+      "longitude": -12.6711,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Magṭa‘ Laḥjar",
+      "province": "卜拉克纳省",
+      "latitude": 17.506,
+      "longitude": -13.0927,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Bouly",
+      "province": "吉迪马卡省",
+      "latitude": 15.3175,
+      "longitude": -11.801,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Maghama",
+      "province": "戈尔戈勒省",
+      "latitude": 15.5101,
+      "longitude": -12.851,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Tidjikja",
+      "province": "塔甘特省",
+      "latitude": 18.5564,
+      "longitude": -11.4271,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Dar el Barka",
+      "province": "卜拉克纳省",
+      "latitude": 16.6829,
+      "longitude": -14.7003,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Basseknou",
+      "province": "东胡德省",
+      "latitude": 15.8665,
+      "longitude": -5.946,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Oualata",
+      "province": "东胡德省",
+      "latitude": 17.2978,
+      "longitude": -7.0235,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Lexeiba Un",
+      "province": "戈尔戈勒省",
+      "latitude": 16.2251,
+      "longitude": -13.1409,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Bagodine",
+      "province": "卜拉克纳省",
+      "latitude": 16.2401,
+      "longitude": -13.7222,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Ganki Un",
+      "province": "戈尔戈勒省",
+      "latitude": 16.2141,
+      "longitude": -13.2404,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Vassala",
+      "province": "东胡德省",
+      "latitude": 15.5571,
+      "longitude": -5.516,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "R'kiz",
+      "province": "特拉扎省",
+      "latitude": 16.9151,
+      "longitude": -15.237,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Kobenni",
+      "province": "西胡德省",
+      "latitude": 15.8172,
+      "longitude": -9.3653,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Bababé",
+      "province": "卜拉克纳省",
+      "latitude": 16.3371,
+      "longitude": -13.9529,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Fondé Elimane",
+      "province": "卜拉克纳省",
+      "latitude": 16.3168,
+      "longitude": -13.9191,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Ndiago",
+      "province": "特拉扎省",
+      "latitude": 16.1676,
+      "longitude": -16.5103,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Sagné",
+      "province": "戈尔戈勒省",
+      "latitude": 15.2046,
+      "longitude": -12.7898,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Bouhdida",
+      "province": "卜拉克纳省",
+      "latitude": 16.9281,
+      "longitude": -13.9992,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Djiguenni",
+      "province": "东胡德省",
+      "latitude": 15.7321,
+      "longitude": -8.6656,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Kankossa",
+      "province": "阿萨巴省",
+      "latitude": 15.9389,
+      "longitude": -11.527,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Wali Djantang",
+      "province": "戈尔戈勒省",
+      "latitude": 15.3325,
+      "longitude": -12.8746,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Djowol",
+      "province": "戈尔戈勒省",
+      "latitude": 16.0639,
+      "longitude": -13.3729,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Bousteila",
+      "province": "东胡德省",
+      "latitude": 15.5754,
+      "longitude": -8.0856,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "El Ghayra",
+      "province": "塔甘特省",
+      "latitude": 17.1978,
+      "longitude": -12.24,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Hassi Chegar",
+      "province": "吉迪马卡省",
+      "latitude": 15.3663,
+      "longitude": -12.0866,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Bouanzé",
+      "province": "吉迪马卡省",
+      "latitude": 15.8185,
+      "longitude": -12.2322,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Mederdra",
+      "province": "特拉扎省",
+      "latitude": 16.9226,
+      "longitude": -15.6565,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Mboutt",
+      "province": "戈尔戈勒省",
+      "latitude": 16.0232,
+      "longitude": -12.5787,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Diaguily",
+      "province": "吉迪马卡省",
+      "latitude": 14.848,
+      "longitude": -12.3927,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Diogountourou",
+      "province": "吉迪马卡省",
+      "latitude": 14.77,
+      "longitude": -12.2509,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Amourj",
+      "province": "东胡德省",
+      "latitude": 16.1092,
+      "longitude": -7.2139,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Ouad Naga",
+      "province": "特拉扎省",
+      "latitude": 17.9664,
+      "longitude": -15.518,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Ould Yenjé",
+      "province": "吉迪马卡省",
+      "latitude": 15.5404,
+      "longitude": -11.7147,
+      "timezone": "Africa/Nouakchott"
+    },
+    {
+      "name": "",
+      "name_en": "Arafat",
+      "province": "Nouakchott Sud",
+      "latitude": 18.0464,
+      "longitude": -15.9719,
+      "timezone": "Africa/Nouakchott"
+    }
+  ]
+}

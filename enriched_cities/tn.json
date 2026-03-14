@@ -1,0 +1,1910 @@
+{
+  "country_code": "TN",
+  "country_name": "突尼斯",
+  "cities": [
+    {
+      "name": "突尼斯",
+      "name_en": "Tunis",
+      "province": "突尼斯省",
+      "latitude": 36.819,
+      "longitude": 10.1658,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "斯法克斯",
+      "name_en": "Sfax",
+      "province": "斯法克斯省",
+      "latitude": 34.7406,
+      "longitude": 10.7603,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "昔兰尼",
+      "name_en": "Sousse",
+      "province": "苏塞省",
+      "latitude": 35.8254,
+      "longitude": 10.637,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "凯鲁万",
+      "name_en": "Kairouan",
+      "province": "凯鲁万省",
+      "latitude": 35.6781,
+      "longitude": 10.0963,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "比塞大",
+      "name_en": "Bizerte",
+      "province": "比塞大省",
+      "latitude": 37.2744,
+      "longitude": 9.8739,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Sukrah",
+      "province": "艾尔亚内省",
+      "latitude": 36.8774,
+      "longitude": 10.2468,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "艾尔亚奈",
+      "name_en": "Aryanah",
+      "province": "艾尔亚内省",
+      "latitude": 36.8601,
+      "longitude": 10.1934,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "加贝斯",
+      "name_en": "Gabès",
+      "province": "加贝斯省",
+      "latitude": 33.8815,
+      "longitude": 10.0982,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Sejoumi",
+      "province": "突尼斯省",
+      "latitude": 36.7558,
+      "longitude": 10.1183,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "El Mourouj",
+      "province": "本阿鲁斯省",
+      "latitude": 36.7136,
+      "longitude": 10.2096,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "哈马马特",
+      "name_en": "Hammamet",
+      "province": "纳布勒省",
+      "latitude": 36.4,
+      "longitude": 10.6167,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "加夫萨",
+      "name_en": "Gafsa",
+      "province": "加夫萨省",
+      "latitude": 34.425,
+      "longitude": 8.7842,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "La Gazelle",
+      "province": "艾尔亚内省",
+      "latitude": 36.8948,
+      "longitude": 10.186,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "莫纳斯提尔",
+      "name_en": "Monastir",
+      "province": "莫纳斯提尔省",
+      "latitude": 35.778,
+      "longitude": 10.8262,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "La Marsa",
+      "province": "突尼斯省",
+      "latitude": 36.8782,
+      "longitude": 10.3247,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "本阿鲁斯",
+      "name_en": "Ben Arous",
+      "province": "本阿鲁斯省",
+      "latitude": 36.7545,
+      "longitude": 10.2217,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "卡塞林",
+      "name_en": "Kasserine",
+      "province": "卡塞林省",
+      "latitude": 35.1676,
+      "longitude": 8.8365,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Ettadhamen",
+      "province": "艾尔亚内省",
+      "latitude": 36.8325,
+      "longitude": 10.1099,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Douar Hicher",
+      "province": "马努巴省",
+      "latitude": 36.8266,
+      "longitude": 10.0897,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "La Goulette",
+      "province": "突尼斯省",
+      "latitude": 36.8192,
+      "longitude": 10.3065,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "杰尔吉斯",
+      "name_en": "Zarzis",
+      "province": "梅德宁省",
+      "latitude": 33.504,
+      "longitude": 11.1121,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "豪迈特苏格",
+      "name_en": "Houmt Souk",
+      "province": "梅德宁省",
+      "latitude": 33.8758,
+      "longitude": 10.8575,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Le Kram",
+      "province": "突尼斯省",
+      "latitude": 36.8358,
+      "longitude": 10.3164,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "El Hamma",
+      "province": "加贝斯省",
+      "latitude": 33.8915,
+      "longitude": 9.7963,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Msaken",
+      "province": "苏塞省",
+      "latitude": 35.7292,
+      "longitude": 10.5808,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "巴尔杜",
+      "name_en": "Le Bardo",
+      "province": "突尼斯省",
+      "latitude": 36.8106,
+      "longitude": 10.1348,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "梅德宁",
+      "name_en": "Medenine",
+      "province": "梅德宁省",
+      "latitude": 33.355,
+      "longitude": 10.5055,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Nabeul",
+      "province": "纳布勒省",
+      "latitude": 36.4561,
+      "longitude": 10.7376,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "泰塔温",
+      "name_en": "Tataouine",
+      "province": "泰塔温省",
+      "latitude": 32.9297,
+      "longitude": 10.4518,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "La Mohammedia",
+      "province": "突尼斯省",
+      "latitude": 36.6745,
+      "longitude": 10.1563,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Ben Gardane",
+      "province": "梅德宁省",
+      "latitude": 33.1378,
+      "longitude": 11.2196,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Skanes",
+      "province": "莫纳斯提尔省",
+      "latitude": 35.7749,
+      "longitude": 10.7946,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "El Mgarsa",
+      "province": "梅德宁省",
+      "latitude": 33.8168,
+      "longitude": 10.9923,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "巴杰",
+      "name_en": "Béja",
+      "province": "Béja Governorate",
+      "latitude": 36.7256,
+      "longitude": 9.1817,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Douane",
+      "province": "纳布勒省",
+      "latitude": 36.4477,
+      "longitude": 10.7557,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "拉迪斯",
+      "name_en": "Radès",
+      "province": "本阿鲁斯省",
+      "latitude": 36.7695,
+      "longitude": 10.2747,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Mnihla",
+      "province": "艾尔亚内省",
+      "latitude": 36.8477,
+      "longitude": 10.1108,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Kélibia",
+      "province": "纳布勒省",
+      "latitude": 36.8476,
+      "longitude": 11.0939,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Oued Lill",
+      "province": "马努巴省",
+      "latitude": 36.8341,
+      "longitude": 10.0406,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Moknine",
+      "province": "莫纳斯提尔省",
+      "latitude": 35.6333,
+      "longitude": 10.9,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Menzel Bourguiba",
+      "province": "比塞大省",
+      "latitude": 37.1537,
+      "longitude": 9.7859,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "El Kef",
+      "province": "卡夫省",
+      "latitude": 36.1742,
+      "longitude": 8.7049,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Kelaa Kebira",
+      "province": "苏塞省",
+      "latitude": 35.8728,
+      "longitude": 10.5372,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Sakiet ez Zit",
+      "province": "斯法克斯省",
+      "latitude": 34.8019,
+      "longitude": 10.7636,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "马赫迪耶",
+      "name_en": "Mahdia",
+      "province": "马赫迪耶省",
+      "latitude": 35.5047,
+      "longitude": 11.0622,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Jendouba",
+      "province": "坚杜拜省",
+      "latitude": 36.5011,
+      "longitude": 8.7802,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Djemmal",
+      "province": "莫纳斯提尔省",
+      "latitude": 35.6223,
+      "longitude": 10.757,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Ksar Hellal",
+      "province": "莫纳斯提尔省",
+      "latitude": 35.6477,
+      "longitude": 10.8905,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Hammam-Lif",
+      "province": "本阿鲁斯省",
+      "latitude": 36.7287,
+      "longitude": 10.3416,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "西迪布济德",
+      "name_en": "Sidi Bouzid",
+      "province": "西迪布济德省",
+      "latitude": 35.0382,
+      "longitude": 9.4849,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Fouchana",
+      "province": "本阿鲁斯省",
+      "latitude": 36.7005,
+      "longitude": 10.1685,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Zouila",
+      "province": "马赫迪耶省",
+      "latitude": 35.5006,
+      "longitude": 11.0606,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "El Ain",
+      "province": "斯法克斯省",
+      "latitude": 34.8,
+      "longitude": 10.7833,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Hammam Sousse",
+      "province": "苏塞省",
+      "latitude": 35.8609,
+      "longitude": 10.6031,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Dar Chabanne",
+      "province": "纳布勒省",
+      "latitude": 36.468,
+      "longitude": 10.7517,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Gremda",
+      "province": "斯法克斯省",
+      "latitude": 34.7908,
+      "longitude": 10.7206,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Boumhel El Bassatine",
+      "province": "本阿鲁斯省",
+      "latitude": 36.7251,
+      "longitude": 10.235,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Menzel Temime",
+      "province": "纳布勒省",
+      "latitude": 36.7822,
+      "longitude": 10.9875,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Korba",
+      "province": "纳布勒省",
+      "latitude": 36.5786,
+      "longitude": 10.8586,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Metlaoui",
+      "province": "加夫萨省",
+      "latitude": 34.3208,
+      "longitude": 8.4016,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Sakiet ed Daier",
+      "province": "斯法克斯省",
+      "latitude": 34.7944,
+      "longitude": 10.8062,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Soliman",
+      "province": "纳布勒省",
+      "latitude": 36.6964,
+      "longitude": 10.4917,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Teboulba",
+      "province": "莫纳斯提尔省",
+      "latitude": 35.6402,
+      "longitude": 10.9673,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "托泽尔",
+      "name_en": "Tozeur",
+      "province": "托泽尔省",
+      "latitude": 33.9197,
+      "longitude": 8.1335,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Ksour Essaf",
+      "province": "马赫迪耶省",
+      "latitude": 35.4181,
+      "longitude": 10.9947,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Ez Zahra",
+      "province": "本阿鲁斯省",
+      "latitude": 36.7461,
+      "longitude": 10.3083,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Kalaa Srira",
+      "province": "苏塞省",
+      "latitude": 35.8224,
+      "longitude": 10.5574,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "El Ksar",
+      "province": "加夫萨省",
+      "latitude": 34.3992,
+      "longitude": 8.804,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "La Sebala du Mornag",
+      "province": "本阿鲁斯省",
+      "latitude": 36.6793,
+      "longitude": 10.2919,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Sidi Abid",
+      "province": "斯法克斯省",
+      "latitude": 34.7,
+      "longitude": 10.695,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Mateur",
+      "province": "比塞大省",
+      "latitude": 37.0404,
+      "longitude": 9.6656,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "马努巴",
+      "name_en": "Manouba",
+      "province": "马努巴省",
+      "latitude": 36.8101,
+      "longitude": 10.0956,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Midoun",
+      "province": "梅德宁省",
+      "latitude": 33.8081,
+      "longitude": 10.9923,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Borj Cedria",
+      "province": "本阿鲁斯省",
+      "latitude": 36.697,
+      "longitude": 10.3865,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Siliana",
+      "province": "锡勒亚奈省",
+      "latitude": 36.085,
+      "longitude": 9.3708,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Douz",
+      "province": "吉比利省",
+      "latitude": 33.4663,
+      "longitude": 9.0203,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Feriana",
+      "province": "卡塞林省",
+      "latitude": 34.9453,
+      "longitude": 8.5679,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Jedeïda",
+      "province": "马努巴省",
+      "latitude": 36.8311,
+      "longitude": 9.9242,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Rass el Djebel",
+      "province": "比塞大省",
+      "latitude": 37.2157,
+      "longitude": 10.1253,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Rhennouch",
+      "province": "加贝斯省",
+      "latitude": 33.9406,
+      "longitude": 10.0644,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Tebourba",
+      "province": "马努巴省",
+      "latitude": 36.8293,
+      "longitude": 9.8393,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Akouda",
+      "province": "苏塞省",
+      "latitude": 35.8691,
+      "longitude": 10.5653,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Ar Rudayyif",
+      "province": "加夫萨省",
+      "latitude": 34.3827,
+      "longitude": 8.1555,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Den Den",
+      "province": "马努巴省",
+      "latitude": 36.8075,
+      "longitude": 10.1106,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Mégrine",
+      "province": "突尼斯省",
+      "latitude": 36.7692,
+      "longitude": 10.2364,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Kebili",
+      "province": "吉比利省",
+      "latitude": 33.7044,
+      "longitude": 8.969,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Dar el Haj Taïeb",
+      "province": "斯法克斯省",
+      "latitude": 34.7844,
+      "longitude": 10.7439,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Ajim",
+      "province": "梅德宁省",
+      "latitude": 33.7264,
+      "longitude": 10.7566,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Grombalia",
+      "province": "纳布勒省",
+      "latitude": 36.5989,
+      "longitude": 10.5003,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Sbeitla",
+      "province": "卡塞林省",
+      "latitude": 35.2315,
+      "longitude": 9.1232,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "El Fahs",
+      "province": "宰格万省",
+      "latitude": 36.3742,
+      "longitude": 9.9065,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Medjez el Bab",
+      "province": "Béja Governorate",
+      "latitude": 36.6496,
+      "longitude": 9.6123,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Menzel Jemil",
+      "province": "比塞大省",
+      "latitude": 37.2362,
+      "longitude": 9.9145,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Chebba",
+      "province": "马赫迪耶省",
+      "latitude": 35.2372,
+      "longitude": 11.115,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Takelsa",
+      "province": "纳布勒省",
+      "latitude": 36.7833,
+      "longitude": 10.6333,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Ouerdanine",
+      "province": "莫纳斯提尔省",
+      "latitude": 35.6901,
+      "longitude": 10.676,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Nefta",
+      "province": "托泽尔省",
+      "latitude": 33.8731,
+      "longitude": 7.8777,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Beni Khiar",
+      "province": "纳布勒省",
+      "latitude": 36.4692,
+      "longitude": 10.7822,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "El Jem",
+      "province": "马赫迪耶省",
+      "latitude": 35.3,
+      "longitude": 10.7167,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Moularès",
+      "province": "加夫萨省",
+      "latitude": 34.4888,
+      "longitude": 8.2687,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Tinja",
+      "province": "比塞大省",
+      "latitude": 37.1596,
+      "longitude": 9.7606,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Zaouiet Sousse",
+      "province": "苏塞省",
+      "latitude": 35.7855,
+      "longitude": 10.6273,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Bou Salem",
+      "province": "坚杜拜省",
+      "latitude": 36.6073,
+      "longitude": 8.9698,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "宰格万",
+      "name_en": "Zaghouan",
+      "province": "宰格万省",
+      "latitude": 36.4029,
+      "longitude": 10.1429,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "La Mornaghia",
+      "province": "马努巴省",
+      "latitude": 36.759,
+      "longitude": 10.017,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "塔巴卡",
+      "name_en": "Tabarka",
+      "province": "坚杜拜省",
+      "latitude": 36.9544,
+      "longitude": 8.758,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Ghardimaou",
+      "province": "坚杜拜省",
+      "latitude": 36.4479,
+      "longitude": 8.4413,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Tajerouine",
+      "province": "卡夫省",
+      "latitude": 35.8917,
+      "longitude": 8.5528,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Menzel Abderhaman",
+      "province": "比塞大省",
+      "latitude": 37.2374,
+      "longitude": 9.8631,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Maatmeur",
+      "province": "莫纳斯提尔省",
+      "latitude": 35.7517,
+      "longitude": 10.6908,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Douar Tindja",
+      "province": "比塞大省",
+      "latitude": 37.1667,
+      "longitude": 9.75,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Mennzel Bou Zelfa",
+      "province": "纳布勒省",
+      "latitude": 36.6831,
+      "longitude": 10.5843,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "El Alia",
+      "province": "比塞大省",
+      "latitude": 37.1691,
+      "longitude": 10.0348,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Ouardenine",
+      "province": "莫纳斯提尔省",
+      "latitude": 35.7092,
+      "longitude": 10.674,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Thala",
+      "province": "卡塞林省",
+      "latitude": 35.5724,
+      "longitude": 8.6703,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Galaat el Andeless",
+      "province": "艾尔亚内省",
+      "latitude": 37.0629,
+      "longitude": 10.1183,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Bekalta",
+      "province": "莫纳斯提尔省",
+      "latitude": 35.6174,
+      "longitude": 10.9947,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Ezzouhour",
+      "province": "苏塞省",
+      "latitude": 35.7901,
+      "longitude": 10.5826,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Chenini Nahal",
+      "province": "加贝斯省",
+      "latitude": 33.8722,
+      "longitude": 10.0552,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Carthage",
+      "province": "突尼斯省",
+      "latitude": 36.8611,
+      "longitude": 10.3316,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Teboulbou",
+      "province": "加贝斯省",
+      "latitude": 33.8455,
+      "longitude": 10.1142,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Zeramedine",
+      "province": "莫纳斯提尔省",
+      "latitude": 35.5752,
+      "longitude": 10.7346,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Bembla et Mnara",
+      "province": "莫纳斯提尔省",
+      "latitude": 35.6991,
+      "longitude": 10.7952,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Mahires",
+      "province": "斯法克斯省",
+      "latitude": 34.5275,
+      "longitude": 10.5008,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Kellabine",
+      "province": "斯法克斯省",
+      "latitude": 34.7088,
+      "longitude": 11.2147,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Beni Khalled",
+      "province": "纳布勒省",
+      "latitude": 36.6504,
+      "longitude": 10.59,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "El Maknassi",
+      "province": "西迪布济德省",
+      "latitude": 34.6043,
+      "longitude": 9.6082,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Maktar",
+      "province": "锡勒亚奈省",
+      "latitude": 35.858,
+      "longitude": 9.2007,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Erriadh",
+      "province": "梅德宁省",
+      "latitude": 33.8206,
+      "longitude": 10.8539,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Bennane Bodheur",
+      "province": "莫纳斯提尔省",
+      "latitude": 35.6753,
+      "longitude": 10.8358,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "El Guetar",
+      "province": "加夫萨省",
+      "latitude": 34.3363,
+      "longitude": 8.9496,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Sahline",
+      "province": "莫纳斯提尔省",
+      "latitude": 35.7517,
+      "longitude": 10.7111,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Testour",
+      "province": "Béja Governorate",
+      "latitude": 36.5513,
+      "longitude": 9.4431,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Dahmani",
+      "province": "卡夫省",
+      "latitude": 35.9439,
+      "longitude": 8.8278,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Souk Lahad",
+      "province": "吉比利省",
+      "latitude": 33.7758,
+      "longitude": 8.8599,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Bou Arada",
+      "province": "锡勒亚奈省",
+      "latitude": 36.3525,
+      "longitude": 9.6218,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Ksibet el Mediouni",
+      "province": "莫纳斯提尔省",
+      "latitude": 35.6856,
+      "longitude": 10.8426,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Seïada",
+      "province": "莫纳斯提尔省",
+      "latitude": 35.6689,
+      "longitude": 10.8925,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Menzel Hayet",
+      "province": "莫纳斯提尔省",
+      "latitude": 35.5421,
+      "longitude": 10.5744,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Messadine",
+      "province": "苏塞省",
+      "latitude": 35.7644,
+      "longitude": 10.5969,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "M’dhilla",
+      "province": "加夫萨省",
+      "latitude": 34.251,
+      "longitude": 8.747,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Tabursuq",
+      "province": "Béja Governorate",
+      "latitude": 36.4569,
+      "longitude": 9.2475,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Banbalah",
+      "province": "莫纳斯提尔省",
+      "latitude": 35.7,
+      "longitude": 10.8,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Bou Arkoub",
+      "province": "纳布勒省",
+      "latitude": 36.5385,
+      "longitude": 10.5509,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Bou Chemma",
+      "province": "加贝斯省",
+      "latitude": 33.9025,
+      "longitude": 10.0598,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "As Sars",
+      "province": "卡夫省",
+      "latitude": 36.0764,
+      "longitude": 9.0212,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Skhira",
+      "province": "斯法克斯省",
+      "latitude": 34.2992,
+      "longitude": 10.07,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Zriba-Village",
+      "province": "纳布勒省",
+      "latitude": 36.3426,
+      "longitude": 10.2491,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Menzel Ennour",
+      "province": "莫纳斯提尔省",
+      "latitude": 35.6687,
+      "longitude": 10.7808,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Mareth",
+      "province": "加贝斯省",
+      "latitude": 33.6179,
+      "longitude": 10.2854,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Agareb",
+      "province": "斯法克斯省",
+      "latitude": 34.7406,
+      "longitude": 10.5253,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Er Regueb",
+      "province": "西迪布济德省",
+      "latitude": 34.8593,
+      "longitude": 9.7865,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Sidi Tabet",
+      "province": "艾尔亚内省",
+      "latitude": 36.9099,
+      "longitude": 10.0422,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Ksiba",
+      "province": "苏塞省",
+      "latitude": 35.7697,
+      "longitude": 10.6281,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Khunays",
+      "province": "莫纳斯提尔省",
+      "latitude": 35.7167,
+      "longitude": 10.8167,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Enfidha",
+      "province": "苏塞省",
+      "latitude": 36.1353,
+      "longitude": 10.3808,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Métouia",
+      "province": "加贝斯省",
+      "latitude": 33.9592,
+      "longitude": 9.9962,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Hajeb el Aïoun",
+      "province": "凯鲁万省",
+      "latitude": 35.3956,
+      "longitude": 9.5438,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Rhar el Melah",
+      "province": "比塞大省",
+      "latitude": 37.1694,
+      "longitude": 10.1906,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Rejiche",
+      "province": "马赫迪耶省",
+      "latitude": 35.4667,
+      "longitude": 11.0385,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Sidi Bou Ali",
+      "province": "苏塞省",
+      "latitude": 35.9567,
+      "longitude": 10.4731,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Gafour",
+      "province": "锡勒亚奈省",
+      "latitude": 36.3205,
+      "longitude": 9.3242,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Wadhraf",
+      "province": "加贝斯省",
+      "latitude": 33.9833,
+      "longitude": 9.9704,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Bou Ficha",
+      "province": "苏塞省",
+      "latitude": 36.3003,
+      "longitude": 10.4548,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Al Matlīn",
+      "province": "比塞大省",
+      "latitude": 37.2452,
+      "longitude": 10.05,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Rafrāf",
+      "province": "比塞大省",
+      "latitude": 37.1904,
+      "longitude": 10.1837,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Jerissa",
+      "province": "卡夫省",
+      "latitude": 35.8451,
+      "longitude": 8.6303,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Aïne Draham",
+      "province": "坚杜拜省",
+      "latitude": 36.7787,
+      "longitude": 8.6874,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Ghomrassen",
+      "province": "泰塔温省",
+      "latitude": 33.0594,
+      "longitude": 10.3371,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "As Sanad",
+      "province": "加夫萨省",
+      "latitude": 34.4628,
+      "longitude": 9.264,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "El Haouaria",
+      "province": "纳布勒省",
+      "latitude": 37.05,
+      "longitude": 11.0144,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Tazarka",
+      "province": "纳布勒省",
+      "latitude": 36.5537,
+      "longitude": 10.8387,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Ben Aoun",
+      "province": "西迪布济德省",
+      "latitude": 34.8526,
+      "longitude": 9.1439,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Hammam el Rhezez",
+      "province": "纳布勒省",
+      "latitude": 36.8748,
+      "longitude": 11.1084,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Ousseltia",
+      "province": "凯鲁万省",
+      "latitude": 35.8478,
+      "longitude": 9.5894,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Beni Hassane",
+      "province": "莫纳斯提尔省",
+      "latitude": 35.5672,
+      "longitude": 10.8087,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Haffouz",
+      "province": "凯鲁万省",
+      "latitude": 35.6324,
+      "longitude": 9.6762,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Khledia",
+      "province": "本阿鲁斯省",
+      "latitude": 36.6461,
+      "longitude": 10.1934,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Sidi Ameur",
+      "province": "莫纳斯提尔省",
+      "latitude": 35.75,
+      "longitude": 10.7,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Menzel Kamel",
+      "province": "莫纳斯提尔省",
+      "latitude": 35.6248,
+      "longitude": 10.6673,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Maagoula",
+      "province": "Béja Governorate",
+      "latitude": 36.709,
+      "longitude": 9.2119,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Bir M’cherga",
+      "province": "宰格万省",
+      "latitude": 36.5181,
+      "longitude": 9.9579,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Kalaat es Senam",
+      "province": "卡夫省",
+      "latitude": 35.7682,
+      "longitude": 8.3423,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Degache",
+      "province": "托泽尔省",
+      "latitude": 33.9761,
+      "longitude": 8.2081,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Amiret Hajjaj",
+      "province": "莫纳斯提尔省",
+      "latitude": 35.5013,
+      "longitude": 10.8203,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "El Maamoura",
+      "province": "纳布勒省",
+      "latitude": 36.465,
+      "longitude": 10.8061,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Sbikha",
+      "province": "凯鲁万省",
+      "latitude": 35.9333,
+      "longitude": 10.0208,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Ksar el Ababsa",
+      "province": "泰塔温省",
+      "latitude": 33.15,
+      "longitude": 10.3667,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "El Golaa",
+      "province": "吉比利省",
+      "latitude": 33.4849,
+      "longitude": 9.0068,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Zaouiat Djedidi",
+      "province": "纳布勒省",
+      "latitude": 36.6437,
+      "longitude": 10.5743,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Le Krib",
+      "province": "锡勒亚奈省",
+      "latitude": 36.328,
+      "longitude": 9.1361,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Sidi Amor Bou Hajela",
+      "province": "凯鲁万省",
+      "latitude": 35.3974,
+      "longitude": 10.0477,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Dar Ouled Khalifa",
+      "province": "卡塞林省",
+      "latitude": 35.35,
+      "longitude": 8.6167,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Sidi Alouane",
+      "province": "马赫迪耶省",
+      "latitude": 35.3751,
+      "longitude": 10.939,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Hencha",
+      "province": "斯法克斯省",
+      "latitude": 35.1223,
+      "longitude": 10.7422,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Djebibina",
+      "province": "宰格万省",
+      "latitude": 36.1167,
+      "longitude": 10.1,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Nouvelle Matmata",
+      "province": "加贝斯省",
+      "latitude": 33.63,
+      "longitude": 10.06,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Kerker",
+      "province": "马赫迪耶省",
+      "latitude": 35.4816,
+      "longitude": 10.6422,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Harqalah",
+      "province": "苏塞省",
+      "latitude": 36.0303,
+      "longitude": 10.509,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "El Bahira",
+      "province": "马赫迪耶省",
+      "latitude": 35.3333,
+      "longitude": 11.0,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Mezzouna",
+      "province": "西迪布济德省",
+      "latitude": 34.5776,
+      "longitude": 9.8419,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Djebel Abiod",
+      "province": "Béja Governorate",
+      "latitude": 36.9762,
+      "longitude": 9.0785,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Touza",
+      "province": "莫纳斯提尔省",
+      "latitude": 35.6354,
+      "longitude": 10.8273,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Jemna",
+      "province": "吉比利省",
+      "latitude": 33.5778,
+      "longitude": 9.0147,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Sidi Bou Said",
+      "province": "突尼斯省",
+      "latitude": 36.8687,
+      "longitude": 10.3417,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Djebeniana",
+      "province": "斯法克斯省",
+      "latitude": 35.035,
+      "longitude": 10.9081,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Menzel Bouzaiane",
+      "province": "西迪布济德省",
+      "latitude": 34.5732,
+      "longitude": 9.4257,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Es Somaa",
+      "province": "纳布勒省",
+      "latitude": 36.5436,
+      "longitude": 10.7806,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Melloulèche",
+      "province": "马赫迪耶省",
+      "latitude": 35.1662,
+      "longitude": 11.035,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Thelepte",
+      "province": "卡塞林省",
+      "latitude": 34.9778,
+      "longitude": 8.5926,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Zaouiet Kountech",
+      "province": "莫纳斯提尔省",
+      "latitude": 35.6333,
+      "longitude": 10.7667,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Borj el Amri",
+      "province": "马努巴省",
+      "latitude": 36.7131,
+      "longitude": 9.8825,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Sbiba",
+      "province": "卡塞林省",
+      "latitude": 35.5433,
+      "longitude": 9.0737,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Bir el Hafey",
+      "province": "西迪布济德省",
+      "latitude": 34.9321,
+      "longitude": 9.1932,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Borj Mejen Bel Abbès",
+      "province": "卡塞林省",
+      "latitude": 34.7501,
+      "longitude": 8.5198,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "El-Hamma-Djerid",
+      "province": "托泽尔省",
+      "latitude": 34.0115,
+      "longitude": 8.1531,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "El Battan",
+      "province": "马努巴省",
+      "latitude": 36.8037,
+      "longitude": 9.8442,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Sakiet Sidi Youssef",
+      "province": "卡夫省",
+      "latitude": 36.2229,
+      "longitude": 8.3555,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Remada",
+      "province": "泰塔温省",
+      "latitude": 32.3166,
+      "longitude": 10.3955,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Amiret Touazra",
+      "province": "莫纳斯提尔省",
+      "latitude": 35.4864,
+      "longitude": 10.7628,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Bou Hadjar",
+      "province": "莫纳斯提尔省",
+      "latitude": 35.6833,
+      "longitude": 10.8667,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Port el Kantaoui",
+      "province": "苏塞省",
+      "latitude": 35.8924,
+      "longitude": 10.5943,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Jilma",
+      "province": "西迪布济德省",
+      "latitude": 35.2731,
+      "longitude": 9.4238,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Lemta",
+      "province": "莫纳斯提尔省",
+      "latitude": 35.6667,
+      "longitude": 10.8833,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Sejenane",
+      "province": "比塞大省",
+      "latitude": 37.0572,
+      "longitude": 9.2381,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Chorbane",
+      "province": "马赫迪耶省",
+      "latitude": 35.2858,
+      "longitude": 10.3858,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Zarat",
+      "province": "加贝斯省",
+      "latitude": 33.6666,
+      "longitude": 10.349,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "El Ksour",
+      "province": "卡夫省",
+      "latitude": 35.8961,
+      "longitude": 8.8849,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Menzel Heurr",
+      "province": "纳布勒省",
+      "latitude": 36.7282,
+      "longitude": 10.9576,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Souassi",
+      "province": "马赫迪耶省",
+      "latitude": 35.3432,
+      "longitude": 10.5474,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Zaouiet Medien",
+      "province": "Béja Governorate",
+      "latitude": 36.7677,
+      "longitude": 9.0889,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Cheylus",
+      "province": "宰格万省",
+      "latitude": 36.5572,
+      "longitude": 10.06,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Amiret El Fhoul",
+      "province": "莫纳斯提尔省",
+      "latitude": 35.4445,
+      "longitude": 10.8277,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Aousja",
+      "province": "比塞大省",
+      "latitude": 37.1413,
+      "longitude": 10.1017,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Chehimet Nord",
+      "province": "马赫迪耶省",
+      "latitude": 35.434,
+      "longitude": 10.3945,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Dar Ali Ben Hassene",
+      "province": "莫纳斯提尔省",
+      "latitude": 35.5,
+      "longitude": 10.7,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Zaouiet Azmour",
+      "province": "纳布勒省",
+      "latitude": 36.9244,
+      "longitude": 11.0078,
+      "timezone": "Africa/Tunis"
+    },
+    {
+      "name": "",
+      "name_en": "Nasrallah",
+      "province": "凯鲁万省",
+      "latitude": 35.3561,
+      "longitude": 9.8307,
+      "timezone": "Africa/Tunis"
+    }
+  ]
+}

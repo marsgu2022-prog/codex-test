@@ -1,0 +1,942 @@
+{
+  "country_code": "BA",
+  "country_name": "波黑",
+  "cities": [
+    {
+      "name": "塞拉耶佛",
+      "name_en": "Sarajevo",
+      "province": "Federation of B&H",
+      "latitude": 43.8486,
+      "longitude": 18.3564,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "巴尼亚卢卡",
+      "name_en": "Banja Luka",
+      "province": "Srpska",
+      "latitude": 44.7788,
+      "longitude": 17.2063,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "泽尼察",
+      "name_en": "Zenica",
+      "province": "Federation of B&H",
+      "latitude": 44.2017,
+      "longitude": 17.904,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "图兹拉",
+      "name_en": "Tuzla",
+      "province": "Federation of B&H",
+      "latitude": 44.5384,
+      "longitude": 18.6671,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "莫斯塔尔",
+      "name_en": "Mostar",
+      "province": "Federation of B&H",
+      "latitude": 43.3433,
+      "longitude": 17.8081,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "比哈奇",
+      "name_en": "Bihać",
+      "province": "Federation of B&H",
+      "latitude": 44.8169,
+      "longitude": 15.8708,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "伊利扎",
+      "name_en": "Ilidža",
+      "province": "Federation of B&H",
+      "latitude": 43.8315,
+      "longitude": 18.307,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "卢卡瓦茨",
+      "name_en": "Lukavac",
+      "province": "Federation of B&H",
+      "latitude": 44.5425,
+      "longitude": 18.5262,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Bugojno",
+      "province": "Federation of B&H",
+      "latitude": 44.0572,
+      "longitude": 17.4508,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "布尔奇科",
+      "name_en": "Brčko",
+      "province": "布尔奇科特区",
+      "latitude": 44.8716,
+      "longitude": 18.8163,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "比耶利纳",
+      "name_en": "Bijeljina",
+      "province": "Srpska",
+      "latitude": 44.7587,
+      "longitude": 19.2144,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "普里耶多尔",
+      "name_en": "Prijedor",
+      "province": "Srpska",
+      "latitude": 44.9799,
+      "longitude": 16.714,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "特雷比涅",
+      "name_en": "Trebinje",
+      "province": "Srpska",
+      "latitude": 42.712,
+      "longitude": 18.3436,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "特拉夫尼克",
+      "name_en": "Travnik",
+      "province": "Federation of B&H",
+      "latitude": 44.2264,
+      "longitude": 17.6658,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "多博伊",
+      "name_en": "Doboj",
+      "province": "Srpska",
+      "latitude": 44.7318,
+      "longitude": 18.087,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "察津",
+      "name_en": "Cazin",
+      "province": "Federation of B&H",
+      "latitude": 44.9669,
+      "longitude": 15.9431,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "大克拉杜沙",
+      "name_en": "Velika Kladuša",
+      "province": "Federation of B&H",
+      "latitude": 45.185,
+      "longitude": 15.8058,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "维索科",
+      "name_en": "Visoko",
+      "province": "Federation of B&H",
+      "latitude": 43.9889,
+      "longitude": 18.1781,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "戈拉日代",
+      "name_en": "Goražde",
+      "province": "Federation of B&H",
+      "latitude": 43.6679,
+      "longitude": 18.9756,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Konjic",
+      "province": "Federation of B&H",
+      "latitude": 43.6513,
+      "longitude": 17.9608,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "格拉查尼察",
+      "name_en": "Gračanica",
+      "province": "Federation of B&H",
+      "latitude": 44.7031,
+      "longitude": 18.3101,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "格拉达查茨",
+      "name_en": "Gradačac",
+      "province": "Federation of B&H",
+      "latitude": 44.8785,
+      "longitude": 18.4276,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "波斯尼亚克鲁帕",
+      "name_en": "Bosanska Krupa",
+      "province": "Federation of B&H",
+      "latitude": 44.8825,
+      "longitude": 16.1514,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Mrkonjić Grad",
+      "province": "Srpska",
+      "latitude": 44.4173,
+      "longitude": 17.0829,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "福查",
+      "name_en": "Foča",
+      "province": "Srpska",
+      "latitude": 43.5065,
+      "longitude": 18.7785,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "扎维多维齐",
+      "name_en": "Zavidovići",
+      "province": "Federation of B&H",
+      "latitude": 44.4458,
+      "longitude": 18.1497,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "日维尼采",
+      "name_en": "Živinice",
+      "province": "Federation of B&H",
+      "latitude": 44.4493,
+      "longitude": 18.6498,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Sanski Most",
+      "province": "Federation of B&H",
+      "latitude": 44.7667,
+      "longitude": 16.667,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Gradiška",
+      "province": "Srpska",
+      "latitude": 45.1448,
+      "longitude": 17.2545,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Bileća",
+      "province": "Srpska",
+      "latitude": 42.8764,
+      "longitude": 18.4297,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "卡卡尼",
+      "name_en": "Kakanj",
+      "province": "Federation of B&H",
+      "latitude": 44.1331,
+      "longitude": 18.1229,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "利夫诺",
+      "name_en": "Livno",
+      "province": "Federation of B&H",
+      "latitude": 43.8269,
+      "longitude": 17.0075,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Odžak",
+      "province": "Federation of B&H",
+      "latitude": 45.0246,
+      "longitude": 18.3211,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Stijena",
+      "province": "Federation of B&H",
+      "latitude": 44.9363,
+      "longitude": 16.0222,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Šipovo",
+      "province": "Srpska",
+      "latitude": 44.2824,
+      "longitude": 17.086,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Prozor",
+      "province": "Federation of B&H",
+      "latitude": 43.8222,
+      "longitude": 17.6092,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "新特拉夫尼克",
+      "name_en": "Novi Travnik",
+      "province": "Federation of B&H",
+      "latitude": 44.1713,
+      "longitude": 17.6582,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "柳布什基",
+      "name_en": "Ljubuški",
+      "province": "Federation of B&H",
+      "latitude": 43.1969,
+      "longitude": 17.545,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "波斯尼亚杜比察",
+      "name_en": "Kozarska Dubica",
+      "province": "Srpska",
+      "latitude": 45.1767,
+      "longitude": 16.8094,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "代尔文塔",
+      "name_en": "Derventa",
+      "province": "Srpska",
+      "latitude": 44.9784,
+      "longitude": 17.9078,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "亚伊采",
+      "name_en": "Jajce",
+      "province": "Federation of B&H",
+      "latitude": 44.342,
+      "longitude": 17.2706,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Todorovo",
+      "province": "Federation of B&H",
+      "latitude": 45.0883,
+      "longitude": 15.9308,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Široki Brijeg",
+      "province": "Federation of B&H",
+      "latitude": 43.3829,
+      "longitude": 17.5942,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "布罗德",
+      "name_en": "Brod",
+      "province": "Srpska",
+      "latitude": 45.1375,
+      "longitude": 17.9872,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Modriča",
+      "province": "Srpska",
+      "latitude": 44.9578,
+      "longitude": 18.302,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Novi Grad",
+      "province": "Srpska",
+      "latitude": 45.0464,
+      "longitude": 16.3778,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Sokolac",
+      "province": "Srpska",
+      "latitude": 43.9382,
+      "longitude": 18.8008,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Mionica",
+      "province": "Federation of B&H",
+      "latitude": 44.8665,
+      "longitude": 18.466,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "热普切",
+      "name_en": "Žepče",
+      "province": "Federation of B&H",
+      "latitude": 44.4267,
+      "longitude": 18.0378,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "基塞尔雅克",
+      "name_en": "Kiseljak",
+      "province": "Federation of B&H",
+      "latitude": 43.943,
+      "longitude": 18.0813,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Potoci",
+      "province": "Federation of B&H",
+      "latitude": 43.4095,
+      "longitude": 17.8786,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Fojnica",
+      "province": "Federation of B&H",
+      "latitude": 43.9595,
+      "longitude": 17.9029,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Milići",
+      "province": "Srpska",
+      "latitude": 44.1702,
+      "longitude": 19.092,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Vogošća",
+      "province": "Federation of B&H",
+      "latitude": 43.9023,
+      "longitude": 18.3444,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "维特兹",
+      "name_en": "Vitez",
+      "province": "Federation of B&H",
+      "latitude": 44.1542,
+      "longitude": 17.7901,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "兹沃尔尼克",
+      "name_en": "Zvornik",
+      "province": "Srpska",
+      "latitude": 44.386,
+      "longitude": 19.1025,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Donji Vakuf",
+      "province": "Federation of B&H",
+      "latitude": 44.1436,
+      "longitude": 17.4,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Čapljina",
+      "province": "Federation of B&H",
+      "latitude": 43.1214,
+      "longitude": 17.6844,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Tomislavgrad",
+      "province": "Federation of B&H",
+      "latitude": 43.7185,
+      "longitude": 17.2251,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Stolac",
+      "province": "Federation of B&H",
+      "latitude": 43.084,
+      "longitude": 17.9599,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Trn",
+      "province": "Srpska",
+      "latitude": 44.8583,
+      "longitude": 17.2358,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "泰沙尼",
+      "name_en": "Tešanj",
+      "province": "Federation of B&H",
+      "latitude": 44.6119,
+      "longitude": 17.9855,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "帕莱",
+      "name_en": "Pale",
+      "province": "Srpska",
+      "latitude": 43.8166,
+      "longitude": 18.5695,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Maglaj",
+      "province": "Federation of B&H",
+      "latitude": 44.5477,
+      "longitude": 18.1,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Srbac",
+      "province": "Srpska",
+      "latitude": 45.0973,
+      "longitude": 17.5233,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Nevesinje",
+      "province": "Srpska",
+      "latitude": 43.2586,
+      "longitude": 18.1133,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Divičani",
+      "province": "Federation of B&H",
+      "latitude": 44.3668,
+      "longitude": 17.3268,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "克柳奇",
+      "name_en": "Ključ",
+      "province": "Federation of B&H",
+      "latitude": 44.5325,
+      "longitude": 16.7768,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Bužim",
+      "province": "Federation of B&H",
+      "latitude": 45.0536,
+      "longitude": 16.0325,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "巴诺维契",
+      "name_en": "Banovići",
+      "province": "Federation of B&H",
+      "latitude": 44.406,
+      "longitude": 18.5265,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Vareš",
+      "province": "Federation of B&H",
+      "latitude": 44.1644,
+      "longitude": 18.3283,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Hadžići",
+      "province": "Federation of B&H",
+      "latitude": 43.8222,
+      "longitude": 18.2067,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Prnjavor",
+      "province": "Srpska",
+      "latitude": 44.8702,
+      "longitude": 17.6626,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Gornji Vakuf",
+      "province": "Federation of B&H",
+      "latitude": 43.9381,
+      "longitude": 17.5883,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Kneževo",
+      "province": "Srpska",
+      "latitude": 44.4907,
+      "longitude": 17.3816,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Vrnograč",
+      "province": "Federation of B&H",
+      "latitude": 45.1637,
+      "longitude": 15.9544,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Kladanj",
+      "province": "Federation of B&H",
+      "latitude": 44.2267,
+      "longitude": 18.6927,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Srebrenik",
+      "province": "Federation of B&H",
+      "latitude": 44.7082,
+      "longitude": 18.4883,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Čelinac",
+      "province": "Srpska",
+      "latitude": 44.7245,
+      "longitude": 17.3243,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Podzvizd",
+      "province": "Federation of B&H",
+      "latitude": 45.1742,
+      "longitude": 15.8736,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "特尔贾奇卡拉希特雷",
+      "name_en": "Tržačka Raštela",
+      "province": "Federation of B&H",
+      "latitude": 44.976,
+      "longitude": 15.7849,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Otoka",
+      "province": "Federation of B&H",
+      "latitude": 44.96,
+      "longitude": 16.1792,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Tojšići",
+      "province": "Federation of B&H",
+      "latitude": 44.5013,
+      "longitude": 18.7852,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Varoška Rijeka",
+      "province": "Federation of B&H",
+      "latitude": 45.0894,
+      "longitude": 16.0191,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Pećigrad",
+      "province": "Federation of B&H",
+      "latitude": 45.0544,
+      "longitude": 15.8969,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "奥马尔斯卡",
+      "name_en": "Omarska",
+      "province": "Srpska",
+      "latitude": 44.8917,
+      "longitude": 16.8981,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "拉克塔希",
+      "name_en": "Laktaši",
+      "province": "Srpska",
+      "latitude": 44.9086,
+      "longitude": 17.3013,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Gromiljak",
+      "province": "Federation of B&H",
+      "latitude": 43.9667,
+      "longitude": 18.055,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Kovači",
+      "province": "Federation of B&H",
+      "latitude": 44.4487,
+      "longitude": 18.2052,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "泰斯利奇",
+      "name_en": "Teslić",
+      "province": "Srpska",
+      "latitude": 44.6064,
+      "longitude": 17.8597,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Šekovići",
+      "province": "Srpska",
+      "latitude": 44.299,
+      "longitude": 18.8553,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Posušje",
+      "province": "Federation of B&H",
+      "latitude": 43.4728,
+      "longitude": 17.3262,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "亚布拉尼察",
+      "name_en": "Jablanica",
+      "province": "Federation of B&H",
+      "latitude": 43.6603,
+      "longitude": 17.7617,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "维舍格勒",
+      "name_en": "Višegrad",
+      "province": "Srpska",
+      "latitude": 43.7826,
+      "longitude": 19.2926,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Mala Kladuša",
+      "province": "Federation of B&H",
+      "latitude": 45.1344,
+      "longitude": 15.8522,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Ilijaš",
+      "province": "Federation of B&H",
+      "latitude": 43.9513,
+      "longitude": 18.2713,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Gostovići",
+      "province": "Federation of B&H",
+      "latitude": 44.4112,
+      "longitude": 18.1703,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Podhum",
+      "province": "Federation of B&H",
+      "latitude": 43.7229,
+      "longitude": 16.9989,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Crnići",
+      "province": "Federation of B&H",
+      "latitude": 43.1316,
+      "longitude": 17.8645,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Željezno Polje",
+      "province": "Federation of B&H",
+      "latitude": 44.3987,
+      "longitude": 17.941,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "契特卢克",
+      "name_en": "Čitluk",
+      "province": "Federation of B&H",
+      "latitude": 43.2286,
+      "longitude": 17.7008,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Blatnica",
+      "province": "Srpska",
+      "latitude": 44.4868,
+      "longitude": 17.8228,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Sanica",
+      "province": "Federation of B&H",
+      "latitude": 44.6135,
+      "longitude": 16.6406,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Tešanjka",
+      "province": "Federation of B&H",
+      "latitude": 44.6723,
+      "longitude": 18.0111,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Bosansko Grahovo",
+      "province": "Federation of B&H",
+      "latitude": 44.1794,
+      "longitude": 16.3639,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Orahovica Donja",
+      "province": "Federation of B&H",
+      "latitude": 44.6534,
+      "longitude": 18.3695,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Donja Mahala",
+      "province": "Federation of B&H",
+      "latitude": 45.0433,
+      "longitude": 18.67,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Janja",
+      "province": "Srpska",
+      "latitude": 44.6655,
+      "longitude": 19.2469,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Ostrožac",
+      "province": "Federation of B&H",
+      "latitude": 44.9087,
+      "longitude": 15.9405,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Mejdan - Obilićevo",
+      "province": "Srpska",
+      "latitude": 44.7632,
+      "longitude": 17.1901,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Jelah",
+      "province": "Federation of B&H",
+      "latitude": 44.654,
+      "longitude": 17.959,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Ćoralići",
+      "province": "Federation of B&H",
+      "latitude": 45.0069,
+      "longitude": 15.8719,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Rodoč",
+      "province": "Federation of B&H",
+      "latitude": 43.3145,
+      "longitude": 17.8029,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Kotor Varoš",
+      "province": "Srpska",
+      "latitude": 44.6183,
+      "longitude": 17.372,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Mahala",
+      "province": "Federation of B&H",
+      "latitude": 44.0119,
+      "longitude": 18.2553,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Kačuni",
+      "province": "Federation of B&H",
+      "latitude": 44.0643,
+      "longitude": 17.9389,
+      "timezone": "Europe/Sarajevo"
+    },
+    {
+      "name": "",
+      "name_en": "Šturlić",
+      "province": "Federation of B&H",
+      "latitude": 45.0639,
+      "longitude": 15.7781,
+      "timezone": "Europe/Sarajevo"
+    }
+  ]
+}

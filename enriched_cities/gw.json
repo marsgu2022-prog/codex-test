@@ -1,0 +1,206 @@
+{
+  "country_code": "GW",
+  "country_name": "几内亚比绍",
+  "cities": [
+    {
+      "name": "比绍",
+      "name_en": "Bissau",
+      "province": "Bissau",
+      "latitude": 11.8636,
+      "longitude": -15.5977,
+      "timezone": "Africa/Bissau"
+    },
+    {
+      "name": "",
+      "name_en": "Gabú",
+      "province": "Gabú",
+      "latitude": 12.28,
+      "longitude": -14.2222,
+      "timezone": "Africa/Bissau"
+    },
+    {
+      "name": "",
+      "name_en": "Bafatá",
+      "province": "Bafatá",
+      "latitude": 12.1658,
+      "longitude": -14.6617,
+      "timezone": "Africa/Bissau"
+    },
+    {
+      "name": "",
+      "name_en": "Xitole",
+      "province": "Bafatá",
+      "latitude": 11.7333,
+      "longitude": -14.8167,
+      "timezone": "Africa/Bissau"
+    },
+    {
+      "name": "",
+      "name_en": "Canchungo",
+      "province": "Cacheu",
+      "latitude": 12.4333,
+      "longitude": -16.0833,
+      "timezone": "Africa/Bissau"
+    },
+    {
+      "name": "",
+      "name_en": "Bissorã",
+      "province": "Oio",
+      "latitude": 12.2231,
+      "longitude": -15.4475,
+      "timezone": "Africa/Bissau"
+    },
+    {
+      "name": "",
+      "name_en": "Jabicunda",
+      "province": "",
+      "latitude": 12.3167,
+      "longitude": -14.55,
+      "timezone": "Africa/Bissau"
+    },
+    {
+      "name": "",
+      "name_en": "Bissorã",
+      "province": "Oio",
+      "latitude": 12.2231,
+      "longitude": -15.4475,
+      "timezone": "Africa/Bissau"
+    },
+    {
+      "name": "",
+      "name_en": "Madina do Boé",
+      "province": "Gabú",
+      "latitude": 11.7477,
+      "longitude": -14.2113,
+      "timezone": "Africa/Bissau"
+    },
+    {
+      "name": "",
+      "name_en": "Bolama",
+      "province": "博拉马区",
+      "latitude": 11.5769,
+      "longitude": -15.4761,
+      "timezone": "Africa/Bissau"
+    },
+    {
+      "name": "",
+      "name_en": "Cacheu",
+      "province": "Cacheu",
+      "latitude": 12.2744,
+      "longitude": -16.1653,
+      "timezone": "Africa/Bissau"
+    },
+    {
+      "name": "",
+      "name_en": "Bula",
+      "province": "Cacheu",
+      "latitude": 12.1039,
+      "longitude": -15.7081,
+      "timezone": "Africa/Bissau"
+    },
+    {
+      "name": "",
+      "name_en": "Farim",
+      "province": "Oio",
+      "latitude": 12.4839,
+      "longitude": -15.2217,
+      "timezone": "Africa/Bissau"
+    },
+    {
+      "name": "",
+      "name_en": "Catió",
+      "province": "通巴利区",
+      "latitude": 11.2825,
+      "longitude": -15.2547,
+      "timezone": "Africa/Bissau"
+    },
+    {
+      "name": "曼索阿",
+      "name_en": "Mansôa",
+      "province": "Oio",
+      "latitude": 12.0733,
+      "longitude": -15.3189,
+      "timezone": "Africa/Bissau"
+    },
+    {
+      "name": "布巴克",
+      "name_en": "Bubaque",
+      "province": "博拉马区",
+      "latitude": 11.2833,
+      "longitude": -15.8333,
+      "timezone": "Africa/Bissau"
+    },
+    {
+      "name": "",
+      "name_en": "Ingoré",
+      "province": "Cacheu",
+      "latitude": 12.4053,
+      "longitude": -15.7975,
+      "timezone": "Africa/Bissau"
+    },
+    {
+      "name": "",
+      "name_en": "Buba",
+      "province": "基纳拉区",
+      "latitude": 11.5889,
+      "longitude": -14.9958,
+      "timezone": "Africa/Bissau"
+    },
+    {
+      "name": "",
+      "name_en": "Bambadinca",
+      "province": "Bafatá",
+      "latitude": 12.0234,
+      "longitude": -14.8612,
+      "timezone": "Africa/Bissau"
+    },
+    {
+      "name": "",
+      "name_en": "Quebo",
+      "province": "通巴利区",
+      "latitude": 11.3333,
+      "longitude": -14.9333,
+      "timezone": "Africa/Bissau"
+    },
+    {
+      "name": "坎顺古",
+      "name_en": "Canchungo",
+      "province": "Cacheu",
+      "latitude": 12.4333,
+      "longitude": -16.0833,
+      "timezone": "Africa/Bissau"
+    },
+    {
+      "name": "",
+      "name_en": "Quinhámel",
+      "province": "比翁博区",
+      "latitude": 11.8869,
+      "longitude": -15.8556,
+      "timezone": "Africa/Bissau"
+    },
+    {
+      "name": "",
+      "name_en": "São Domingos",
+      "province": "Cacheu",
+      "latitude": 12.4019,
+      "longitude": -16.2006,
+      "timezone": "Africa/Bissau"
+    },
+    {
+      "name": "",
+      "name_en": "Mansabá",
+      "province": "Oio",
+      "latitude": 12.2919,
+      "longitude": -15.1828,
+      "timezone": "Africa/Bissau"
+    },
+    {
+      "name": "",
+      "name_en": "Pitche",
+      "province": "Gabú",
+      "latitude": 12.3234,
+      "longitude": -13.9534,
+      "timezone": "Africa/Bissau"
+    }
+  ]
+}

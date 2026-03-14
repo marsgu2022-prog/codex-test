@@ -1,0 +1,150 @@
+{
+  "country_code": "PW",
+  "country_name": "帕劳",
+  "cities": [
+    {
+      "name": "",
+      "name_en": "Koror",
+      "province": "科罗尔州",
+      "latitude": 7.3398,
+      "longitude": 134.4733,
+      "timezone": "Pacific/Palau"
+    },
+    {
+      "name": "",
+      "name_en": "Koror Town",
+      "province": "科罗尔州",
+      "latitude": 7.3398,
+      "longitude": 134.4733,
+      "timezone": "Pacific/Palau"
+    },
+    {
+      "name": "",
+      "name_en": "Kloulklubed",
+      "province": "佩莱利乌州",
+      "latitude": 7.0419,
+      "longitude": 134.2556,
+      "timezone": "Pacific/Palau"
+    },
+    {
+      "name": "",
+      "name_en": "Ulimang",
+      "province": "雅拉尔德州",
+      "latitude": 7.6242,
+      "longitude": 134.6421,
+      "timezone": "Pacific/Palau"
+    },
+    {
+      "name": "",
+      "name_en": "Mengellang",
+      "province": "雅切隆州",
+      "latitude": 7.6957,
+      "longitude": 134.6305,
+      "timezone": "Pacific/Palau"
+    },
+    {
+      "name": "",
+      "name_en": "Ngchesar Hamlet",
+      "province": "恩切萨尔州",
+      "latitude": 7.4693,
+      "longitude": 134.6099,
+      "timezone": "Pacific/Palau"
+    },
+    {
+      "name": "",
+      "name_en": "Melekeok Village",
+      "province": "梅莱凯奥克州",
+      "latitude": 7.4957,
+      "longitude": 134.6367,
+      "timezone": "Pacific/Palau"
+    },
+    {
+      "name": "",
+      "name_en": "Ngchemiangel",
+      "province": "艾梅利克州",
+      "latitude": 7.4461,
+      "longitude": 134.4768,
+      "timezone": "Pacific/Palau"
+    },
+    {
+      "name": "",
+      "name_en": "Ngerkeai",
+      "province": "宜瓦尔州",
+      "latitude": 7.5546,
+      "longitude": 134.6361,
+      "timezone": "Pacific/Palau"
+    },
+    {
+      "name": "",
+      "name_en": "Ngardmau",
+      "province": "雅德马乌州",
+      "latitude": 7.6099,
+      "longitude": 134.5744,
+      "timezone": "Pacific/Palau"
+    },
+    {
+      "name": "",
+      "name_en": "Angaur State",
+      "province": "安加尔",
+      "latitude": 6.906,
+      "longitude": 134.13,
+      "timezone": "Pacific/Palau"
+    },
+    {
+      "name": "",
+      "name_en": "Kayangel",
+      "province": "卡扬埃尔",
+      "latitude": 8.0823,
+      "longitude": 134.7173,
+      "timezone": "Pacific/Palau"
+    },
+    {
+      "name": "",
+      "name_en": "Imeong Hamlet",
+      "province": "埃雷姆伦维州",
+      "latitude": 7.5313,
+      "longitude": 134.5271,
+      "timezone": "Pacific/Palau"
+    },
+    {
+      "name": "",
+      "name_en": "Ngetkib",
+      "province": "艾拉伊州",
+      "latitude": 7.3645,
+      "longitude": 134.5148,
+      "timezone": "Pacific/Palau"
+    },
+    {
+      "name": "",
+      "name_en": "Tobi Village",
+      "province": "哈托博海伊州",
+      "latitude": 3.0049,
+      "longitude": 131.1217,
+      "timezone": "Pacific/Palau"
+    },
+    {
+      "name": "",
+      "name_en": "Sonsorol Village",
+      "province": "松索罗尔",
+      "latitude": 5.3261,
+      "longitude": 132.2194,
+      "timezone": "Pacific/Palau"
+    },
+    {
+      "name": "",
+      "name_en": "Ngerulmud",
+      "province": "梅莱凯奥克州",
+      "latitude": 7.5008,
+      "longitude": 134.6238,
+      "timezone": "Pacific/Palau"
+    },
+    {
+      "name": "",
+      "name_en": "Ngereklmadel",
+      "province": "雅庞",
+      "latitude": 7.4883,
+      "longitude": 134.4856,
+      "timezone": "Pacific/Palau"
+    }
+  ]
+}

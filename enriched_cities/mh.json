@@ -1,0 +1,198 @@
+{
+  "country_code": "MH",
+  "country_name": "马绍尔群岛",
+  "cities": [
+    {
+      "name": "",
+      "name_en": "Majuro",
+      "province": "Majuro Atoll",
+      "latitude": 7.0897,
+      "longitude": 171.3803,
+      "timezone": "Pacific/Majuro"
+    },
+    {
+      "name": "",
+      "name_en": "Ebaye",
+      "province": "Kwajalein Atoll",
+      "latitude": 8.7748,
+      "longitude": 167.7392,
+      "timezone": "Pacific/Kwajalein"
+    },
+    {
+      "name": "",
+      "name_en": "Arno",
+      "province": "Arno Atoll",
+      "latitude": 7.0669,
+      "longitude": 171.5541,
+      "timezone": "Pacific/Majuro"
+    },
+    {
+      "name": "",
+      "name_en": "Jabor",
+      "province": "Jaluit Atoll",
+      "latitude": 5.921,
+      "longitude": 169.6433,
+      "timezone": "Pacific/Majuro"
+    },
+    {
+      "name": "",
+      "name_en": "Wotje",
+      "province": "Wotje Atoll",
+      "latitude": 9.4543,
+      "longitude": 170.2367,
+      "timezone": "Pacific/Majuro"
+    },
+    {
+      "name": "",
+      "name_en": "Mili",
+      "province": "Mili Atoll",
+      "latitude": 6.0815,
+      "longitude": 171.735,
+      "timezone": "Pacific/Majuro"
+    },
+    {
+      "name": "",
+      "name_en": "Namdrik",
+      "province": "Namdrik Atoll",
+      "latitude": 5.5994,
+      "longitude": 168.1028,
+      "timezone": "Pacific/Majuro"
+    },
+    {
+      "name": "",
+      "name_en": "Ebon",
+      "province": "Ebon Atoll",
+      "latitude": 4.582,
+      "longitude": 168.6964,
+      "timezone": "Pacific/Majuro"
+    },
+    {
+      "name": "",
+      "name_en": "Kili",
+      "province": "Kili Island",
+      "latitude": 5.6439,
+      "longitude": 169.1211,
+      "timezone": "Pacific/Majuro"
+    },
+    {
+      "name": "",
+      "name_en": "Likiep",
+      "province": "Likiep Atoll",
+      "latitude": 9.8251,
+      "longitude": 169.3107,
+      "timezone": "Pacific/Majuro"
+    },
+    {
+      "name": "",
+      "name_en": "Ailuk",
+      "province": "Ailuk Atoll",
+      "latitude": 10.2197,
+      "longitude": 169.9797,
+      "timezone": "Pacific/Majuro"
+    },
+    {
+      "name": "",
+      "name_en": "Ujae",
+      "province": "Ujae Atoll",
+      "latitude": 8.9322,
+      "longitude": 165.7642,
+      "timezone": "Pacific/Majuro"
+    },
+    {
+      "name": "",
+      "name_en": "Aur",
+      "province": "Aur Atoll",
+      "latitude": 8.1499,
+      "longitude": 171.1687,
+      "timezone": "Pacific/Majuro"
+    },
+    {
+      "name": "",
+      "name_en": "Utrik",
+      "province": "Utrik Atoll",
+      "latitude": 11.2278,
+      "longitude": 169.8474,
+      "timezone": "Pacific/Majuro"
+    },
+    {
+      "name": "",
+      "name_en": "Lae",
+      "province": "Lae Atoll",
+      "latitude": 8.9222,
+      "longitude": 166.2634,
+      "timezone": "Pacific/Majuro"
+    },
+    {
+      "name": "",
+      "name_en": "Mejit",
+      "province": "Mejit Island",
+      "latitude": 10.2753,
+      "longitude": 170.8646,
+      "timezone": "Pacific/Majuro"
+    },
+    {
+      "name": "",
+      "name_en": "Wotho",
+      "province": "Wotho Atoll",
+      "latitude": 10.1657,
+      "longitude": 166.0102,
+      "timezone": "Pacific/Majuro"
+    },
+    {
+      "name": "",
+      "name_en": "Lib",
+      "province": "Lib Island",
+      "latitude": 8.3122,
+      "longitude": 167.3766,
+      "timezone": "Pacific/Majuro"
+    },
+    {
+      "name": "",
+      "name_en": "Jabat",
+      "province": "Jabat Island",
+      "latitude": 7.75,
+      "longitude": 168.9751,
+      "timezone": "Pacific/Kwajalein"
+    },
+    {
+      "name": "",
+      "name_en": "Rongelap",
+      "province": "Rongelap Atoll",
+      "latitude": 11.1635,
+      "longitude": 166.8941,
+      "timezone": "Pacific/Majuro"
+    },
+    {
+      "name": "",
+      "name_en": "Airuk",
+      "province": "Ailinglaplap Atoll",
+      "latitude": 7.2772,
+      "longitude": 168.8203,
+      "timezone": "Pacific/Majuro"
+    },
+    {
+      "name": "",
+      "name_en": "Enewetak",
+      "province": "Enewetak Atoll",
+      "latitude": 11.3474,
+      "longitude": 162.3373,
+      "timezone": "Pacific/Majuro"
+    },
+    {
+      "name": "",
+      "name_en": "Loen",
+      "province": "Namu Atoll",
+      "latitude": 7.7601,
+      "longitude": 168.2307,
+      "timezone": "Pacific/Majuro"
+    },
+    {
+      "name": "",
+      "name_en": "Taroa",
+      "province": "Maloelap Atoll",
+      "latitude": 8.7058,
+      "longitude": 171.2275,
+      "timezone": "Pacific/Majuro"
+    }
+  ]
+}

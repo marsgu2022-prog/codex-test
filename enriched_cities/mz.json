@@ -1,0 +1,710 @@
+{
+  "country_code": "MZ",
+  "country_name": "莫桑比克",
+  "cities": [
+    {
+      "name": "马普托",
+      "name_en": "Maputo",
+      "province": "Maputo City",
+      "latitude": -25.9655,
+      "longitude": 32.5832,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Matola",
+      "province": "马普托省",
+      "latitude": -25.9622,
+      "longitude": 32.4589,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "楠普拉",
+      "name_en": "Nampula",
+      "province": "楠普拉省",
+      "latitude": -15.1165,
+      "longitude": 39.2666,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "贝拉",
+      "name_en": "Beira",
+      "province": "索法拉省",
+      "latitude": -19.8436,
+      "longitude": 34.8389,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "希莫尤",
+      "name_en": "Chimoio",
+      "province": "Manica",
+      "latitude": -19.1164,
+      "longitude": 33.4833,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "太特",
+      "name_en": "Tete",
+      "province": "太特省",
+      "latitude": -16.1564,
+      "longitude": 33.5867,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "克利马内",
+      "name_en": "Quelimane",
+      "province": "赞比西亚省",
+      "latitude": -17.8786,
+      "longitude": 36.8883,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "利欣加",
+      "name_en": "Lichinga",
+      "province": "尼亚萨省",
+      "latitude": -13.3128,
+      "longitude": 35.2406,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Nacala",
+      "province": "楠普拉省",
+      "latitude": -14.5626,
+      "longitude": 40.6854,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "彭巴",
+      "name_en": "Pemba",
+      "province": "德尔加杜角省",
+      "latitude": -12.974,
+      "longitude": 40.5177,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "莫库巴",
+      "name_en": "Mocuba",
+      "province": "赞比西亚省",
+      "latitude": -16.8375,
+      "longitude": 36.9856,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "古鲁埃",
+      "name_en": "Gurúè",
+      "province": "赞比西亚省",
+      "latitude": -15.4669,
+      "longitude": 36.9778,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "赛赛",
+      "name_en": "Xai-Xai",
+      "province": "加扎省",
+      "latitude": -25.0519,
+      "longitude": 33.6442,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "马希谢",
+      "name_en": "Maxixe",
+      "province": "伊尼扬巴内省",
+      "latitude": -23.8597,
+      "longitude": 35.3472,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Mandimba",
+      "province": "尼亚萨省",
+      "latitude": -14.3525,
+      "longitude": 35.6506,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Ressano Garcia",
+      "province": "马普托省",
+      "latitude": -25.4428,
+      "longitude": 31.9953,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "安戈谢",
+      "name_en": "Angoche",
+      "province": "楠普拉省",
+      "latitude": -16.2325,
+      "longitude": 39.9086,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "伊尼扬巴内",
+      "name_en": "Inhambane",
+      "province": "伊尼扬巴内省",
+      "latitude": -23.865,
+      "longitude": 35.3833,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "库安巴",
+      "name_en": "Cuamba",
+      "province": "尼亚萨省",
+      "latitude": -14.8031,
+      "longitude": 36.5372,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "蒙特普埃兹",
+      "name_en": "Montepuez",
+      "province": "德尔加杜角省",
+      "latitude": -13.1256,
+      "longitude": 38.9997,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Dondo",
+      "province": "索法拉省",
+      "latitude": -19.6094,
+      "longitude": 34.7431,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Chibuto",
+      "province": "加扎省",
+      "latitude": -24.6867,
+      "longitude": 33.5306,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Manhiça",
+      "province": "马普托省",
+      "latitude": -25.4022,
+      "longitude": 32.8072,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Chokwé",
+      "province": "加扎省",
+      "latitude": -24.5333,
+      "longitude": 32.9833,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Mozambique",
+      "province": "楠普拉省",
+      "latitude": -15.0347,
+      "longitude": 40.7345,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Nametil",
+      "province": "楠普拉省",
+      "latitude": -15.7203,
+      "longitude": 39.3425,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Monapo",
+      "province": "楠普拉省",
+      "latitude": -14.9169,
+      "longitude": 40.3022,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Alto Molocue",
+      "province": "赞比西亚省",
+      "latitude": -15.6356,
+      "longitude": 37.6883,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Marromeu",
+      "province": "索法拉省",
+      "latitude": -18.2908,
+      "longitude": 35.9453,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Mocímboa da Praia",
+      "province": "德尔加杜角省",
+      "latitude": -11.3517,
+      "longitude": 40.3516,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Moatize",
+      "province": "太特省",
+      "latitude": -16.1153,
+      "longitude": 33.7294,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "维兰库洛",
+      "name_en": "Vilankulo",
+      "province": "伊尼扬巴内省",
+      "latitude": -22.0,
+      "longitude": 35.3167,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Manica",
+      "province": "Manica",
+      "latitude": -18.9344,
+      "longitude": 32.8756,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Gondola",
+      "province": "Manica",
+      "latitude": -19.0883,
+      "longitude": 33.6486,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Chiúre",
+      "province": "德尔加杜角省",
+      "latitude": -13.3825,
+      "longitude": 39.7817,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Namialo",
+      "province": "楠普拉省",
+      "latitude": -14.9206,
+      "longitude": 39.9836,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Milange",
+      "province": "赞比西亚省",
+      "latitude": -16.0986,
+      "longitude": 35.77,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Mutuáli",
+      "province": "楠普拉省",
+      "latitude": -14.8706,
+      "longitude": 37.0044,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Macia",
+      "province": "加扎省",
+      "latitude": -25.0269,
+      "longitude": 33.0989,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Songo",
+      "province": "太特省",
+      "latitude": -15.5958,
+      "longitude": 32.7647,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Ribáuè",
+      "province": "楠普拉省",
+      "latitude": -14.9447,
+      "longitude": 38.3236,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "恩雅马坦达",
+      "name_en": "Nhamatanda",
+      "province": "索法拉省",
+      "latitude": -19.2692,
+      "longitude": 34.2128,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Micolene",
+      "province": "楠普拉省",
+      "latitude": -16.7333,
+      "longitude": 39.2333,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Mocímboa",
+      "province": "德尔加杜角省",
+      "latitude": -11.3517,
+      "longitude": 40.3516,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Boane",
+      "province": "马普托省",
+      "latitude": -26.0424,
+      "longitude": 32.3303,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Mueda",
+      "province": "德尔加杜角省",
+      "latitude": -11.6628,
+      "longitude": 39.5506,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Namapa-erati",
+      "province": "楠普拉省",
+      "latitude": -13.713,
+      "longitude": 39.8315,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Catandica",
+      "province": "Manica",
+      "latitude": -18.0575,
+      "longitude": 33.1736,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Massinga",
+      "province": "伊尼扬巴内省",
+      "latitude": -23.3292,
+      "longitude": 35.3814,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Mossuril",
+      "province": "楠普拉省",
+      "latitude": -14.9678,
+      "longitude": 40.6639,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Morrumbala",
+      "province": "赞比西亚省",
+      "latitude": -17.3269,
+      "longitude": 35.5842,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Xilembene",
+      "province": "加扎省",
+      "latitude": -24.6894,
+      "longitude": 33.2584,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Malema",
+      "province": "楠普拉省",
+      "latitude": -14.9475,
+      "longitude": 37.4159,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Macomia",
+      "province": "德尔加杜角省",
+      "latitude": -12.2467,
+      "longitude": 40.1208,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Namacurra",
+      "province": "赞比西亚省",
+      "latitude": -17.4919,
+      "longitude": 37.0289,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Gorongosa",
+      "province": "索法拉省",
+      "latitude": -18.6756,
+      "longitude": 34.0728,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Caia",
+      "province": "索法拉省",
+      "latitude": -17.8203,
+      "longitude": 35.3442,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Iapala",
+      "province": "楠普拉省",
+      "latitude": -15.025,
+      "longitude": 38.0425,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Murrupula",
+      "province": "楠普拉省",
+      "latitude": -15.4569,
+      "longitude": 38.6772,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Maganja",
+      "province": "赞比西亚省",
+      "latitude": -17.312,
+      "longitude": 37.5078,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "欣代",
+      "name_en": "Chinde",
+      "province": "赞比西亚省",
+      "latitude": -18.5811,
+      "longitude": 36.4586,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Pebane",
+      "province": "赞比西亚省",
+      "latitude": -17.2642,
+      "longitude": 38.135,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Búzi",
+      "province": "索法拉省",
+      "latitude": -19.8644,
+      "longitude": 34.4674,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Machipanda",
+      "province": "Manica",
+      "latitude": -18.986,
+      "longitude": 32.7355,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Messica",
+      "province": "Manica",
+      "latitude": -18.9916,
+      "longitude": 33.0823,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Ulongué",
+      "province": "太特省",
+      "latitude": -14.7228,
+      "longitude": 34.3608,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Moamba",
+      "province": "马普托省",
+      "latitude": -25.6027,
+      "longitude": 32.2461,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "梅坦古拉",
+      "name_en": "Metangula",
+      "province": "尼亚萨省",
+      "latitude": -12.695,
+      "longitude": 34.8158,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Namaacha",
+      "province": "马普托省",
+      "latitude": -25.975,
+      "longitude": 32.019,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "伊尼亚索洛",
+      "name_en": "Inhassoro",
+      "province": "伊尼扬巴内省",
+      "latitude": -21.5347,
+      "longitude": 35.2022,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "马拉夸内",
+      "name_en": "Marracuene",
+      "province": "马普托省",
+      "latitude": -25.7369,
+      "longitude": 32.6764,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Morrumbene",
+      "province": "伊尼扬巴内省",
+      "latitude": -23.6578,
+      "longitude": 35.345,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Magude",
+      "province": "马普托省",
+      "latitude": -25.0231,
+      "longitude": 32.6481,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Quissico",
+      "province": "伊尼扬巴内省",
+      "latitude": -24.7203,
+      "longitude": 34.7425,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Manjacaze",
+      "province": "加扎省",
+      "latitude": -24.7239,
+      "longitude": 33.8564,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Inhaminga",
+      "province": "索法拉省",
+      "latitude": -18.4153,
+      "longitude": 35.0225,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Xinavane",
+      "province": "马普托省",
+      "latitude": -25.1605,
+      "longitude": 32.8004,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Meconta",
+      "province": "楠普拉省",
+      "latitude": -14.9925,
+      "longitude": 39.8467,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Nhamayabué",
+      "province": "太特省",
+      "latitude": -17.4206,
+      "longitude": 35.0658,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Vila Eduardo Mondlane",
+      "province": "加扎省",
+      "latitude": -22.0792,
+      "longitude": 31.6786,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Marrupa",
+      "province": "尼亚萨省",
+      "latitude": -13.1888,
+      "longitude": 37.5045,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "伊尼雅利梅",
+      "name_en": "Inharrime",
+      "province": "伊尼扬巴内省",
+      "latitude": -24.4769,
+      "longitude": 35.0303,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Bilene",
+      "province": "加扎省",
+      "latitude": -25.2726,
+      "longitude": 33.242,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Homoíne",
+      "province": "伊尼扬巴内省",
+      "latitude": -23.8844,
+      "longitude": 35.1514,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Luabo",
+      "province": "赞比西亚省",
+      "latitude": -18.3928,
+      "longitude": 36.1053,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Insaca",
+      "province": "尼亚萨省",
+      "latitude": -15.1978,
+      "longitude": 35.8709,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Caniçado",
+      "province": "加扎省",
+      "latitude": -24.417,
+      "longitude": 32.9429,
+      "timezone": "Africa/Maputo"
+    },
+    {
+      "name": "",
+      "name_en": "Ibo",
+      "province": "德尔加杜角省",
+      "latitude": -12.3426,
+      "longitude": 40.5859,
+      "timezone": "Africa/Maputo"
+    }
+  ]
+}

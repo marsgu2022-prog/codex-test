@@ -1,0 +1,182 @@
+{
+  "country_code": "CV",
+  "country_name": "佛得角",
+  "cities": [
+    {
+      "name": "培亚",
+      "name_en": "Praia",
+      "province": "Praia",
+      "latitude": 14.9315,
+      "longitude": -23.5125,
+      "timezone": "Atlantic/Cape_Verde"
+    },
+    {
+      "name": "明德卢",
+      "name_en": "Mindelo",
+      "province": "São Vicente",
+      "latitude": 16.8901,
+      "longitude": -24.9804,
+      "timezone": "Atlantic/Cape_Verde"
+    },
+    {
+      "name": "",
+      "name_en": "Espargos",
+      "province": "Sal",
+      "latitude": 16.7552,
+      "longitude": -22.9446,
+      "timezone": "Atlantic/Cape_Verde"
+    },
+    {
+      "name": "",
+      "name_en": "Assomada",
+      "province": "Santa Catarina",
+      "latitude": 15.1,
+      "longitude": -23.6833,
+      "timezone": "Atlantic/Cape_Verde"
+    },
+    {
+      "name": "",
+      "name_en": "Tarrafal",
+      "province": "Tarrafal",
+      "latitude": 15.2788,
+      "longitude": -23.7519,
+      "timezone": "Atlantic/Cape_Verde"
+    },
+    {
+      "name": "",
+      "name_en": "Porto Novo",
+      "province": "Porto Novo",
+      "latitude": 17.0197,
+      "longitude": -25.0647,
+      "timezone": "Atlantic/Cape_Verde"
+    },
+    {
+      "name": "",
+      "name_en": "Sal Rei",
+      "province": "Boa Vista",
+      "latitude": 16.1761,
+      "longitude": -22.9172,
+      "timezone": "Atlantic/Cape_Verde"
+    },
+    {
+      "name": "圣菲利普县",
+      "name_en": "São Filipe",
+      "province": "São Filipe",
+      "latitude": 14.8961,
+      "longitude": -24.4956,
+      "timezone": "Atlantic/Cape_Verde"
+    },
+    {
+      "name": "",
+      "name_en": "Pedra Badejo",
+      "province": "Santa Cruz",
+      "latitude": 15.1375,
+      "longitude": -23.5308,
+      "timezone": "Atlantic/Cape_Verde"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Cruz",
+      "province": "Santa Cruz",
+      "latitude": 15.134,
+      "longitude": -23.5594,
+      "timezone": "Atlantic/Cape_Verde"
+    },
+    {
+      "name": "圣玛丽亚",
+      "name_en": "Santa Maria",
+      "province": "Sal",
+      "latitude": 16.598,
+      "longitude": -22.9051,
+      "timezone": "Atlantic/Cape_Verde"
+    },
+    {
+      "name": "",
+      "name_en": "Calheta",
+      "province": "São Miguel",
+      "latitude": 15.1861,
+      "longitude": -23.5923,
+      "timezone": "Atlantic/Cape_Verde"
+    },
+    {
+      "name": "",
+      "name_en": "Vila do Maio",
+      "province": "Maio",
+      "latitude": 15.1382,
+      "longitude": -23.2116,
+      "timezone": "Atlantic/Cape_Verde"
+    },
+    {
+      "name": "",
+      "name_en": "Tarrafal de São Nicolau",
+      "province": "Tarrafal de São Nicolau",
+      "latitude": 16.5662,
+      "longitude": -24.3579,
+      "timezone": "Atlantic/Cape_Verde"
+    },
+    {
+      "name": "旧城",
+      "name_en": "Cidade Velha",
+      "province": "Ribeira Grande de Santiago",
+      "latitude": 14.9153,
+      "longitude": -23.6053,
+      "timezone": "Atlantic/Cape_Verde"
+    },
+    {
+      "name": "",
+      "name_en": "São Domingos",
+      "province": "São Domingos",
+      "latitude": 15.0244,
+      "longitude": -23.5625,
+      "timezone": "Atlantic/Cape_Verde"
+    },
+    {
+      "name": "",
+      "name_en": "Ribeira Brava",
+      "province": "Ribeira Brava",
+      "latitude": 16.6158,
+      "longitude": -24.2983,
+      "timezone": "Atlantic/Cape_Verde"
+    },
+    {
+      "name": "",
+      "name_en": "Nova Sintra",
+      "province": "Brava",
+      "latitude": 14.8714,
+      "longitude": -24.6956,
+      "timezone": "Atlantic/Cape_Verde"
+    },
+    {
+      "name": "",
+      "name_en": "Picos",
+      "province": "São Salvador do Mundo",
+      "latitude": 15.0836,
+      "longitude": -23.6324,
+      "timezone": "Atlantic/Cape_Verde"
+    },
+    {
+      "name": "",
+      "name_en": "Pombas",
+      "province": "Paul",
+      "latitude": 17.1503,
+      "longitude": -25.0201,
+      "timezone": "Atlantic/Cape_Verde"
+    },
+    {
+      "name": "",
+      "name_en": "Cova Figueira",
+      "province": "Santa Catarina do Fogo",
+      "latitude": 14.8905,
+      "longitude": -24.2934,
+      "timezone": "Atlantic/Cape_Verde"
+    },
+    {
+      "name": "",
+      "name_en": "João Teves",
+      "province": "São Lourenço dos Órgãos",
+      "latitude": 15.0669,
+      "longitude": -23.5892,
+      "timezone": "Atlantic/Cape_Verde"
+    }
+  ]
+}

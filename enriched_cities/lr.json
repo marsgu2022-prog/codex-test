@@ -1,0 +1,214 @@
+{
+  "country_code": "LR",
+  "country_name": "利比里亚",
+  "cities": [
+    {
+      "name": "蒙罗维亚",
+      "name_en": "Monrovia",
+      "province": "蒙特塞拉多县",
+      "latitude": 6.3005,
+      "longitude": -10.7969,
+      "timezone": "Africa/Monrovia"
+    },
+    {
+      "name": "",
+      "name_en": "Gbarnga",
+      "province": "邦县",
+      "latitude": 6.9954,
+      "longitude": -9.4712,
+      "timezone": "Africa/Monrovia"
+    },
+    {
+      "name": "布坎南",
+      "name_en": "Buchanan",
+      "province": "大巴萨县",
+      "latitude": 5.8769,
+      "longitude": -10.0496,
+      "timezone": "Africa/Monrovia"
+    },
+    {
+      "name": "",
+      "name_en": "Ganta",
+      "province": "宁巴县",
+      "latitude": 7.235,
+      "longitude": -8.9844,
+      "timezone": "Africa/Monrovia"
+    },
+    {
+      "name": "",
+      "name_en": "Kakata",
+      "province": "马吉比县",
+      "latitude": 6.531,
+      "longitude": -10.3537,
+      "timezone": "Africa/Monrovia"
+    },
+    {
+      "name": "",
+      "name_en": "Zwedru",
+      "province": "大吉德县",
+      "latitude": 6.0685,
+      "longitude": -8.1356,
+      "timezone": "Africa/Monrovia"
+    },
+    {
+      "name": "",
+      "name_en": "Harbel",
+      "province": "马吉比县",
+      "latitude": 6.2468,
+      "longitude": -10.3564,
+      "timezone": "Africa/Monrovia"
+    },
+    {
+      "name": "",
+      "name_en": "Harper",
+      "province": "马里兰县",
+      "latitude": 4.3782,
+      "longitude": -7.7108,
+      "timezone": "Africa/Monrovia"
+    },
+    {
+      "name": "普利博",
+      "name_en": "Pleebo City",
+      "province": "马里兰县",
+      "latitude": 4.5895,
+      "longitude": -7.6722,
+      "timezone": "Africa/Monrovia"
+    },
+    {
+      "name": "",
+      "name_en": "Foya Kamara",
+      "province": "洛法县",
+      "latitude": 8.3603,
+      "longitude": -10.2064,
+      "timezone": "Africa/Monrovia"
+    },
+    {
+      "name": "耶凯帕",
+      "name_en": "New Yekepa",
+      "province": "宁巴县",
+      "latitude": 7.5794,
+      "longitude": -8.5378,
+      "timezone": "Africa/Monrovia"
+    },
+    {
+      "name": "",
+      "name_en": "Voinjama",
+      "province": "洛法县",
+      "latitude": 8.4219,
+      "longitude": -9.7478,
+      "timezone": "Africa/Monrovia"
+    },
+    {
+      "name": "",
+      "name_en": "Tubmanburg",
+      "province": "伯米县",
+      "latitude": 6.8706,
+      "longitude": -10.8211,
+      "timezone": "Africa/Monrovia"
+    },
+    {
+      "name": "",
+      "name_en": "Saclepea",
+      "province": "宁巴县",
+      "latitude": 6.9625,
+      "longitude": -8.8406,
+      "timezone": "Africa/Monrovia"
+    },
+    {
+      "name": "",
+      "name_en": "Greenville",
+      "province": "锡诺县",
+      "latitude": 5.0113,
+      "longitude": -9.0388,
+      "timezone": "Africa/Monrovia"
+    },
+    {
+      "name": "",
+      "name_en": "Sanniquellie",
+      "province": "宁巴县",
+      "latitude": 7.3621,
+      "longitude": -8.7133,
+      "timezone": "Africa/Monrovia"
+    },
+    {
+      "name": "",
+      "name_en": "Ganta",
+      "province": "宁巴县",
+      "latitude": 7.235,
+      "longitude": -8.9844,
+      "timezone": "Africa/Monrovia"
+    },
+    {
+      "name": "",
+      "name_en": "Karnplay",
+      "province": "宁巴县",
+      "latitude": 7.2697,
+      "longitude": -8.5039,
+      "timezone": "Africa/Monrovia"
+    },
+    {
+      "name": "佐尔佐尔",
+      "name_en": "Zorzor",
+      "province": "洛法县",
+      "latitude": 7.7794,
+      "longitude": -9.4303,
+      "timezone": "Africa/Monrovia"
+    },
+    {
+      "name": "",
+      "name_en": "River Gbeh",
+      "province": "吉河县",
+      "latitude": 5.2119,
+      "longitude": -7.6681,
+      "timezone": "Africa/Monrovia"
+    },
+    {
+      "name": "",
+      "name_en": "Fish Town",
+      "province": "吉河县",
+      "latitude": 5.8769,
+      "longitude": -10.0496,
+      "timezone": "Africa/Monrovia"
+    },
+    {
+      "name": "",
+      "name_en": "Robertsport",
+      "province": "大角山县",
+      "latitude": 6.7533,
+      "longitude": -11.3671,
+      "timezone": "Africa/Monrovia"
+    },
+    {
+      "name": "",
+      "name_en": "Barclayville",
+      "province": "大克鲁县",
+      "latitude": 4.6744,
+      "longitude": -8.2331,
+      "timezone": "Africa/Monrovia"
+    },
+    {
+      "name": "",
+      "name_en": "Bopolu",
+      "province": "巴波卢县",
+      "latitude": 7.0667,
+      "longitude": -10.4875,
+      "timezone": "Africa/Monrovia"
+    },
+    {
+      "name": "",
+      "name_en": "River Cess",
+      "province": "里弗塞斯县",
+      "latitude": 5.4568,
+      "longitude": -9.5817,
+      "timezone": "Africa/Monrovia"
+    },
+    {
+      "name": "",
+      "name_en": "Bensonville",
+      "province": "蒙特塞拉多县",
+      "latitude": 6.4472,
+      "longitude": -10.6128,
+      "timezone": "Africa/Monrovia"
+    }
+  ]
+}

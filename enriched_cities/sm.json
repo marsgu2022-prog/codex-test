@@ -1,0 +1,94 @@
+{
+  "country_code": "SM",
+  "country_name": "圣马力诺",
+  "cities": [
+    {
+      "name": "塞拉瓦莱",
+      "name_en": "Serravalle",
+      "province": "Serravalle",
+      "latitude": 43.969,
+      "longitude": 12.4817,
+      "timezone": "Europe/San_Marino"
+    },
+    {
+      "name": "",
+      "name_en": "Dogana",
+      "province": "Serravalle",
+      "latitude": 43.9803,
+      "longitude": 12.4905,
+      "timezone": "Europe/San_Marino"
+    },
+    {
+      "name": "",
+      "name_en": "Valdragone",
+      "province": "博尔戈马焦雷",
+      "latitude": 43.9402,
+      "longitude": 12.4562,
+      "timezone": "Europe/San_Marino"
+    },
+    {
+      "name": "博尔戈·马吉欧雷",
+      "name_en": "Borgo Maggiore",
+      "province": "博尔戈马焦雷",
+      "latitude": 43.9419,
+      "longitude": 12.4474,
+      "timezone": "Europe/San_Marino"
+    },
+    {
+      "name": "圣马力诺",
+      "name_en": "San Marino",
+      "province": "San Marino",
+      "latitude": 43.9367,
+      "longitude": 12.4464,
+      "timezone": "Europe/San_Marino"
+    },
+    {
+      "name": "",
+      "name_en": "Domagnano",
+      "province": "Domagnano",
+      "latitude": 43.9496,
+      "longitude": 12.4683,
+      "timezone": "Europe/San_Marino"
+    },
+    {
+      "name": "菲奥伦蒂诺",
+      "name_en": "Fiorentino",
+      "province": "菲奥伦蒂诺",
+      "latitude": 43.91,
+      "longitude": 12.4574,
+      "timezone": "Europe/San_Marino"
+    },
+    {
+      "name": "",
+      "name_en": "Acquaviva",
+      "province": "阿夸维瓦",
+      "latitude": 43.9459,
+      "longitude": 12.4185,
+      "timezone": "Europe/San_Marino"
+    },
+    {
+      "name": "法尔齐亚诺",
+      "name_en": "Faetano",
+      "province": "法尔齐亚诺",
+      "latitude": 43.9283,
+      "longitude": 12.498,
+      "timezone": "Europe/San_Marino"
+    },
+    {
+      "name": "基埃萨努欧瓦",
+      "name_en": "Poggio di Chiesanuova",
+      "province": "基耶萨诺瓦",
+      "latitude": 43.9045,
+      "longitude": 12.4214,
+      "timezone": "Europe/San_Marino"
+    },
+    {
+      "name": "蒙泰吉阿迪诺",
+      "name_en": "Monte Giardino",
+      "province": "蒙特贾尔迪诺",
+      "latitude": 43.9088,
+      "longitude": 12.482,
+      "timezone": "Europe/San_Marino"
+    }
+  ]
+}

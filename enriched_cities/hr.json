@@ -1,0 +1,622 @@
+{
+  "country_code": "HR",
+  "country_name": "克罗地亚",
+  "cities": [
+    {
+      "name": "萨格勒布",
+      "name_en": "Zagreb",
+      "province": "Zagreb",
+      "latitude": 45.8144,
+      "longitude": 15.978,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "斯普利特",
+      "name_en": "Split",
+      "province": "Split-Dalmatia",
+      "latitude": 43.5089,
+      "longitude": 16.4392,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "",
+      "name_en": "Rijeka",
+      "province": "Primorje-Gorski Kotar",
+      "latitude": 45.3267,
+      "longitude": 14.4424,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "",
+      "name_en": "Osijek",
+      "province": "County of Osijek-Baranja",
+      "latitude": 45.5507,
+      "longitude": 18.6942,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "扎达尔",
+      "name_en": "Zadar",
+      "province": "Zadar",
+      "latitude": 44.1158,
+      "longitude": 15.2251,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "",
+      "name_en": "Sesvete",
+      "province": "Zagreb",
+      "latitude": 45.8311,
+      "longitude": 16.1164,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "普拉",
+      "name_en": "Pula",
+      "province": "Istria",
+      "latitude": 44.8683,
+      "longitude": 13.8481,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "斯拉沃尼亚布罗德",
+      "name_en": "Slavonski Brod",
+      "province": "Brod-Posavina",
+      "latitude": 45.1616,
+      "longitude": 18.0163,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "卡尔洛瓦茨",
+      "name_en": "Karlovac",
+      "province": "Karlovac",
+      "latitude": 45.4917,
+      "longitude": 15.55,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "",
+      "name_en": "Centar",
+      "province": "Zagreb",
+      "latitude": 45.8131,
+      "longitude": 15.9775,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "瓦拉日丁",
+      "name_en": "Varaždin",
+      "province": "Varaždin",
+      "latitude": 46.3044,
+      "longitude": 16.3378,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "希贝尼克",
+      "name_en": "Šibenik",
+      "province": "Šibenik-Knin",
+      "latitude": 43.7343,
+      "longitude": 15.8942,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "大戈里察",
+      "name_en": "Velika Gorica",
+      "province": "Zagreb County",
+      "latitude": 45.7125,
+      "longitude": 16.0756,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "温科夫齐",
+      "name_en": "Vinkovci",
+      "province": "Vukovar-Srijem",
+      "latitude": 45.2883,
+      "longitude": 18.8047,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "锡萨克",
+      "name_en": "Sisak",
+      "province": "Sisak-Moslavina",
+      "latitude": 45.4661,
+      "longitude": 16.3775,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "杜布罗夫尼克",
+      "name_en": "Dubrovnik",
+      "province": "Dubrovnik-Neretva",
+      "latitude": 42.6412,
+      "longitude": 18.1091,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "别洛瓦尔",
+      "name_en": "Bjelovar",
+      "province": "Bjelovar-Bilogora",
+      "latitude": 45.8979,
+      "longitude": 16.8507,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "科普里夫尼察",
+      "name_en": "Koprivnica",
+      "province": "Koprivnica-Križevci",
+      "latitude": 46.1636,
+      "longitude": 16.8297,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "武科瓦尔",
+      "name_en": "Vukovar",
+      "province": "Vukovar-Srijem",
+      "latitude": 45.3516,
+      "longitude": 19.0023,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "索林",
+      "name_en": "Solin",
+      "province": "Split-Dalmatia",
+      "latitude": 43.5432,
+      "longitude": 16.4931,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "扎普雷希奇",
+      "name_en": "Zaprešić",
+      "province": "Zagreb County",
+      "latitude": 45.8564,
+      "longitude": 15.8078,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "",
+      "name_en": "Samobor",
+      "province": "Zagreb County",
+      "latitude": 45.8031,
+      "longitude": 15.7181,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "贾科沃",
+      "name_en": "Đakovo",
+      "province": "County of Osijek-Baranja",
+      "latitude": 45.3083,
+      "longitude": 18.4106,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "波热加",
+      "name_en": "Požega",
+      "province": "Požega-Slavonia",
+      "latitude": 45.3403,
+      "longitude": 17.6853,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "查科韦茨",
+      "name_en": "Čakovec",
+      "province": "Međimurje",
+      "latitude": 46.3844,
+      "longitude": 16.4339,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "梅特科维奇",
+      "name_en": "Metković",
+      "province": "Dubrovnik-Neretva",
+      "latitude": 43.0542,
+      "longitude": 17.6483,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "",
+      "name_en": "Virovitica",
+      "province": "Virovitica-Podravina",
+      "latitude": 45.8345,
+      "longitude": 17.3855,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "",
+      "name_en": "Petrinja",
+      "province": "Sisak-Moslavina",
+      "latitude": 45.4375,
+      "longitude": 16.29,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "马卡尔斯卡",
+      "name_en": "Makarska",
+      "province": "Split-Dalmatia",
+      "latitude": 43.2969,
+      "longitude": 17.0178,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "",
+      "name_en": "Kutina",
+      "province": "Sisak-Moslavina",
+      "latitude": 45.475,
+      "longitude": 16.7819,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "罗维尼",
+      "name_en": "Rovinj",
+      "province": "Istria",
+      "latitude": 45.0827,
+      "longitude": 13.6346,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "杜戈村",
+      "name_en": "Dugo Selo",
+      "province": "Zagreb County",
+      "latitude": 45.8061,
+      "longitude": 16.2444,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "锡尼",
+      "name_en": "Sinj",
+      "province": "Split-Dalmatia",
+      "latitude": 43.7036,
+      "longitude": 16.6394,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "克里热夫齐",
+      "name_en": "Križevci",
+      "province": "Koprivnica-Križevci",
+      "latitude": 46.0219,
+      "longitude": 16.5425,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "卡斯塔夫",
+      "name_en": "Kastav",
+      "province": "Primorje-Gorski Kotar",
+      "latitude": 45.3753,
+      "longitude": 14.3486,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "特罗吉尔",
+      "name_en": "Trogir",
+      "province": "Split-Dalmatia",
+      "latitude": 43.5125,
+      "longitude": 16.2517,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "",
+      "name_en": "Nova Gradiška",
+      "province": "Brod-Posavina",
+      "latitude": 45.255,
+      "longitude": 17.3831,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "",
+      "name_en": "Županja",
+      "province": "Vukovar-Srijem",
+      "latitude": 45.0775,
+      "longitude": 18.6975,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "波兹塔纳",
+      "name_en": "Podstrana",
+      "province": "Split-Dalmatia",
+      "latitude": 43.4867,
+      "longitude": 16.5501,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "波雷奇",
+      "name_en": "Poreč",
+      "province": "Istria",
+      "latitude": 45.2257,
+      "longitude": 13.5951,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "斯拉蒂纳",
+      "name_en": "Slatina",
+      "province": "Virovitica-Podravina",
+      "latitude": 45.7033,
+      "longitude": 17.7028,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "伊万尼奇格勒",
+      "name_en": "Ivanić-Grad",
+      "province": "Zagreb County",
+      "latitude": 45.7083,
+      "longitude": 16.3969,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "克宁",
+      "name_en": "Knin",
+      "province": "Šibenik-Knin",
+      "latitude": 44.0406,
+      "longitude": 16.1966,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "",
+      "name_en": "Čepin",
+      "province": "County of Osijek-Baranja",
+      "latitude": 45.524,
+      "longitude": 18.5776,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "",
+      "name_en": "Drenova",
+      "province": "Primorje-Gorski Kotar",
+      "latitude": 45.35,
+      "longitude": 14.4303,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "达鲁瓦尔",
+      "name_en": "Daruvar",
+      "province": "Bjelovar-Bilogora",
+      "latitude": 45.5906,
+      "longitude": 17.225,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "奥古林",
+      "name_en": "Ogulin",
+      "province": "Karlovac",
+      "latitude": 45.2661,
+      "longitude": 15.2286,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "",
+      "name_en": "Našice",
+      "province": "County of Osijek-Baranja",
+      "latitude": 45.4886,
+      "longitude": 18.0878,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "",
+      "name_en": "Kaštel Stari",
+      "province": "Split-Dalmatia",
+      "latitude": 43.55,
+      "longitude": 16.35,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "乌马格",
+      "name_en": "Umag",
+      "province": "Istria",
+      "latitude": 45.4314,
+      "longitude": 13.5239,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "沃迪采",
+      "name_en": "Vodice",
+      "province": "Šibenik-Knin",
+      "latitude": 43.7608,
+      "longitude": 15.7828,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "",
+      "name_en": "Kaštel Sućurac",
+      "province": "Split-Dalmatia",
+      "latitude": 43.5503,
+      "longitude": 16.4264,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "",
+      "name_en": "Kaštel Novi",
+      "province": "Split-Dalmatia",
+      "latitude": 43.5524,
+      "longitude": 16.3363,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "戈斯皮奇",
+      "name_en": "Gospić",
+      "province": "Lika-Senj",
+      "latitude": 44.5461,
+      "longitude": 15.3747,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "",
+      "name_en": "Valpovo",
+      "province": "County of Osijek-Baranja",
+      "latitude": 45.6608,
+      "longitude": 18.4186,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "贝利马纳斯蒂尔",
+      "name_en": "Beli Manastir",
+      "province": "County of Osijek-Baranja",
+      "latitude": 45.77,
+      "longitude": 18.6036,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "",
+      "name_en": "Tenja",
+      "province": "County of Osijek-Baranja",
+      "latitude": 45.4981,
+      "longitude": 18.7472,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "茨里克韦尼察",
+      "name_en": "Crikvenica",
+      "province": "Primorje-Gorski Kotar",
+      "latitude": 45.1772,
+      "longitude": 14.6928,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "",
+      "name_en": "Omiš",
+      "province": "Split-Dalmatia",
+      "latitude": 43.4447,
+      "longitude": 16.6886,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "",
+      "name_en": "Novska",
+      "province": "Sisak-Moslavina",
+      "latitude": 45.3406,
+      "longitude": 16.9769,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "",
+      "name_en": "Višnjevac",
+      "province": "County of Osijek-Baranja",
+      "latitude": 45.5686,
+      "longitude": 18.6139,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "",
+      "name_en": "Đurđevac",
+      "province": "Koprivnica-Križevci",
+      "latitude": 46.0411,
+      "longitude": 17.0697,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "拉宾",
+      "name_en": "Labin",
+      "province": "Istria",
+      "latitude": 45.095,
+      "longitude": 14.1197,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "",
+      "name_en": "Opatija",
+      "province": "Primorje-Gorski Kotar",
+      "latitude": 45.3366,
+      "longitude": 14.3078,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "",
+      "name_en": "Nova Mokošica",
+      "province": "Dubrovnik-Neretva",
+      "latitude": 42.6744,
+      "longitude": 18.116,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "比奥格勒纳莫鲁",
+      "name_en": "Biograd na Moru",
+      "province": "Zadar",
+      "latitude": 43.9433,
+      "longitude": 15.4519,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "小洛希尼",
+      "name_en": "Mali Lošinj",
+      "province": "Primorje-Gorski Kotar",
+      "latitude": 44.5306,
+      "longitude": 14.4686,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "杜加雷萨",
+      "name_en": "Duga Resa",
+      "province": "Karlovac",
+      "latitude": 45.4461,
+      "longitude": 15.4987,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "贝利什切",
+      "name_en": "Belišće",
+      "province": "County of Osijek-Baranja",
+      "latitude": 45.6803,
+      "longitude": 18.4058,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "",
+      "name_en": "Donji Miholjac",
+      "province": "County of Osijek-Baranja",
+      "latitude": 45.7608,
+      "longitude": 18.1672,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "亚斯特雷巴斯科",
+      "name_en": "Jastrebarsko",
+      "province": "Zagreb County",
+      "latitude": 45.6683,
+      "longitude": 15.6486,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "",
+      "name_en": "Kaštel Lukšić",
+      "province": "Split-Dalmatia",
+      "latitude": 43.5553,
+      "longitude": 16.3675,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "",
+      "name_en": "Ivankovo",
+      "province": "Vukovar-Srijem",
+      "latitude": 45.2886,
+      "longitude": 18.6839,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "",
+      "name_en": "Kaštel Kambelovac",
+      "province": "Split-Dalmatia",
+      "latitude": 43.55,
+      "longitude": 16.3833,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "",
+      "name_en": "Krapina",
+      "province": "Krapina-Zagorje",
+      "latitude": 46.1608,
+      "longitude": 15.8737,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "帕津",
+      "name_en": "Pazin",
+      "province": "Istria",
+      "latitude": 45.2392,
+      "longitude": 13.9395,
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "name": "",
+      "name_en": "Liberpolis",
+      "province": "County of Osijek-Baranja",
+      "latitude": 45.7747,
+      "longitude": 18.8801,
+      "timezone": "Europe/Zagreb"
+    }
+  ]
+}

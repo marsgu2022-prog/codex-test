@@ -1,0 +1,2366 @@
+{
+  "country_code": "PE",
+  "country_name": "秘鲁",
+  "cities": [
+    {
+      "name": "利马",
+      "name_en": "Lima",
+      "province": "利马省",
+      "latitude": -12.0432,
+      "longitude": -77.0282,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "卡亚俄",
+      "name_en": "Callao",
+      "province": "Callao",
+      "latitude": -12.0516,
+      "longitude": -77.1345,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "阿雷基帕",
+      "name_en": "Arequipa",
+      "province": "阿雷基帕大区",
+      "latitude": -16.399,
+      "longitude": -71.5375,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "特鲁希略",
+      "name_en": "Trujillo",
+      "province": "拉利伯塔德大区",
+      "latitude": -8.116,
+      "longitude": -79.03,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "奇克拉约",
+      "name_en": "Chiclayo",
+      "province": "兰巴耶克大区",
+      "latitude": -6.7701,
+      "longitude": -79.855,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "皮乌拉",
+      "name_en": "Piura",
+      "province": "皮乌拉地区",
+      "latitude": -5.1819,
+      "longitude": -80.6572,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "万卡约",
+      "name_en": "Huancayo",
+      "province": "胡宁大区",
+      "latitude": -12.0687,
+      "longitude": -75.2103,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "库斯科",
+      "name_en": "Cusco",
+      "province": "库斯科大区",
+      "latitude": -13.5319,
+      "longitude": -71.967,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "伊基托斯",
+      "name_en": "Iquitos",
+      "province": "洛雷托大区",
+      "latitude": -3.7481,
+      "longitude": -73.2529,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "普兰尔帕",
+      "name_en": "Pucallpa",
+      "province": "乌卡亚利大区",
+      "latitude": -8.3791,
+      "longitude": -74.5539,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "钦博特",
+      "name_en": "Chimbote",
+      "province": "安卡什大区",
+      "latitude": -9.0751,
+      "longitude": -78.5937,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "塔克纳",
+      "name_en": "Tacna",
+      "province": "塔克纳大区",
+      "latitude": -18.0146,
+      "longitude": -70.2536,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "伊卡",
+      "name_en": "Ica",
+      "province": "伊卡大区",
+      "latitude": -14.0754,
+      "longitude": -75.7342,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Santiago de Surco",
+      "province": "利马大区",
+      "latitude": -12.1359,
+      "longitude": -77.0074,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "胡利亚卡",
+      "name_en": "Juliaca",
+      "province": "普诺大区",
+      "latitude": -15.5,
+      "longitude": -70.1333,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "卡哈马卡",
+      "name_en": "Cajamarca",
+      "province": "卡哈马卡大区",
+      "latitude": -7.1638,
+      "longitude": -78.5003,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "瓦努科",
+      "name_en": "Huánuco",
+      "province": "瓦努科大区",
+      "latitude": -9.9288,
+      "longitude": -76.2399,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Miraflores",
+      "province": "利马大区",
+      "latitude": -12.1133,
+      "longitude": -77.0327,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Anita - Los Ficus",
+      "province": "利马大区",
+      "latitude": -12.0505,
+      "longitude": -76.9733,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "苏亚纳",
+      "name_en": "Sullana",
+      "province": "皮乌拉地区",
+      "latitude": -4.9039,
+      "longitude": -80.6853,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "上钦查",
+      "name_en": "Chincha Alta",
+      "province": "伊卡大区",
+      "latitude": -13.4099,
+      "longitude": -76.1324,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "阿亚库乔",
+      "name_en": "Ayacucho",
+      "province": "阿亚库乔大区",
+      "latitude": -13.1638,
+      "longitude": -74.2234,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "San Martin",
+      "province": "皮乌拉地区",
+      "latitude": -5.1859,
+      "longitude": -80.6693,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "普诺",
+      "name_en": "Puno",
+      "province": "普诺大区",
+      "latitude": -15.84,
+      "longitude": -70.022,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "瓦拉斯",
+      "name_en": "Huaraz",
+      "province": "安卡什大区",
+      "latitude": -9.5261,
+      "longitude": -77.5287,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "San Francisco De Borja",
+      "province": "利马大区",
+      "latitude": -12.0891,
+      "longitude": -76.9988,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "塔拉拉",
+      "name_en": "Talara",
+      "province": "皮乌拉地区",
+      "latitude": -4.5772,
+      "longitude": -81.2719,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "通贝斯",
+      "name_en": "Tumbes",
+      "province": "通贝斯大区",
+      "latitude": -3.5559,
+      "longitude": -80.4426,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Chosica",
+      "province": "利马大区",
+      "latitude": -11.9431,
+      "longitude": -76.7094,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "马尔多纳多港",
+      "name_en": "Puerto Maldonado",
+      "province": "马德雷德迪奥斯大区",
+      "latitude": -12.5895,
+      "longitude": -69.1995,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Breña",
+      "province": "利马大区",
+      "latitude": -12.0561,
+      "longitude": -77.0529,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "San Juan",
+      "province": "洛雷托大区",
+      "latitude": -3.7761,
+      "longitude": -73.2814,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Ciudad Satelite",
+      "province": "阿雷基帕大区",
+      "latitude": -16.4308,
+      "longitude": -71.5292,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Chilca",
+      "province": "胡宁大区",
+      "latitude": -12.0863,
+      "longitude": -75.2083,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Selva Alegre",
+      "province": "阿雷基帕大区",
+      "latitude": -16.3706,
+      "longitude": -71.5272,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "阿班凯",
+      "name_en": "Abancay",
+      "province": "阿普里马克大区",
+      "latitude": -13.6343,
+      "longitude": -72.8838,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "莫克瓜",
+      "name_en": "Moquegua",
+      "province": "莫克瓜大区",
+      "latitude": -17.1975,
+      "longitude": -70.9359,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Chulucanas",
+      "province": "皮乌拉地区",
+      "latitude": -5.0925,
+      "longitude": -80.1625,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "San Isidro",
+      "province": "利马大区",
+      "latitude": -12.0966,
+      "longitude": -77.0426,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "San Fernando",
+      "province": "乌卡亚利大区",
+      "latitude": -8.3982,
+      "longitude": -74.5377,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Jesus Maria",
+      "province": "利马大区",
+      "latitude": -12.0698,
+      "longitude": -77.045,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Santiago",
+      "province": "库斯科大区",
+      "latitude": -13.5273,
+      "longitude": -71.9843,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "瓦拉尔",
+      "name_en": "Huaral",
+      "province": "利马大区",
+      "latitude": -11.495,
+      "longitude": -77.2078,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "皮斯科",
+      "name_en": "Pisco",
+      "province": "伊卡大区",
+      "latitude": -13.7103,
+      "longitude": -76.2054,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Villa Poeta José Gálvez Barrenechea",
+      "province": "利马大区",
+      "latitude": -12.2131,
+      "longitude": -76.9052,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Wanchaq",
+      "province": "库斯科大区",
+      "latitude": -13.5249,
+      "longitude": -71.9653,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "塞罗德帕斯科",
+      "name_en": "Cerro de Pasco",
+      "province": "帕斯科大区",
+      "latitude": -10.6658,
+      "longitude": -76.2531,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Belen",
+      "province": "洛雷托大区",
+      "latitude": -3.7602,
+      "longitude": -73.2497,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Catacaos",
+      "province": "皮乌拉地区",
+      "latitude": -5.2667,
+      "longitude": -80.6833,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "派塔",
+      "name_en": "Paita",
+      "province": "皮乌拉地区",
+      "latitude": -5.0892,
+      "longitude": -81.1144,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "瓦乔",
+      "name_en": "Huacho",
+      "province": "利马大区",
+      "latitude": -11.1172,
+      "longitude": -77.6058,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "伊洛",
+      "name_en": "Ilo",
+      "province": "莫克瓜大区",
+      "latitude": -17.6319,
+      "longitude": -71.3411,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "廷戈玛丽亚",
+      "name_en": "Tingo María",
+      "province": "瓦努科大区",
+      "latitude": -9.2953,
+      "longitude": -75.9957,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Jaén",
+      "province": "卡哈马卡大区",
+      "latitude": -5.7073,
+      "longitude": -78.8079,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "塔尔马",
+      "name_en": "Tarma",
+      "province": "胡宁大区",
+      "latitude": -11.419,
+      "longitude": -75.6899,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "莫约班巴",
+      "name_en": "Moyobamba",
+      "province": "圣马丁大区",
+      "latitude": -6.0344,
+      "longitude": -76.9742,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "万卡韦利卡",
+      "name_en": "Huancavelica",
+      "province": "万卡韦利卡大区",
+      "latitude": -12.7869,
+      "longitude": -74.973,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Centenario",
+      "province": "安卡什大区",
+      "latitude": -9.5166,
+      "longitude": -77.5305,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Cono Norte",
+      "province": "阿雷基帕大区",
+      "latitude": -16.3237,
+      "longitude": -71.5815,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Barranca",
+      "province": "利马大区",
+      "latitude": -10.75,
+      "longitude": -77.7667,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Jacobo Hunter",
+      "province": "阿雷基帕大区",
+      "latitude": -16.4408,
+      "longitude": -71.5533,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "兰巴耶克",
+      "name_en": "Lambayeque",
+      "province": "兰巴耶克大区",
+      "latitude": -6.7011,
+      "longitude": -79.9061,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Picsi",
+      "province": "兰巴耶克大区",
+      "latitude": -6.7178,
+      "longitude": -79.7697,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "切彭",
+      "name_en": "Chepén",
+      "province": "拉利伯塔德大区",
+      "latitude": -7.2244,
+      "longitude": -79.4248,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Carmen De La Legua Reynoso",
+      "province": "Callao",
+      "latitude": -12.0535,
+      "longitude": -77.098,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Yurimaguas",
+      "province": "洛雷托大区",
+      "latitude": -5.9018,
+      "longitude": -76.1223,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Saña",
+      "province": "兰巴耶克大区",
+      "latitude": -6.9189,
+      "longitude": -79.582,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Tambopata",
+      "province": "马德雷德迪奥斯大区",
+      "latitude": -12.6719,
+      "longitude": -69.3555,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "胡安惠",
+      "name_en": "Juanjuí",
+      "province": "圣马丁大区",
+      "latitude": -7.177,
+      "longitude": -76.7277,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Barranco",
+      "province": "利马大区",
+      "latitude": -12.143,
+      "longitude": -77.0186,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "La Unión",
+      "province": "皮乌拉地区",
+      "latitude": -5.4023,
+      "longitude": -80.7422,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Ferreñafe",
+      "province": "兰巴耶克大区",
+      "latitude": -6.6389,
+      "longitude": -79.7889,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Sicuani",
+      "province": "库斯科大区",
+      "latitude": -14.2694,
+      "longitude": -71.2261,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "拉奥罗亚",
+      "name_en": "La Oroya",
+      "province": "胡宁大区",
+      "latitude": -11.5189,
+      "longitude": -75.8993,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Chocope",
+      "province": "拉利伯塔德大区",
+      "latitude": -7.7914,
+      "longitude": -79.2217,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Imperial",
+      "province": "利马大区",
+      "latitude": -13.0593,
+      "longitude": -76.3527,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Nuevo Imperial",
+      "province": "利马大区",
+      "latitude": -13.0754,
+      "longitude": -76.3172,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "查查波亚斯",
+      "name_en": "Chachapoyas",
+      "province": "亚马孙大区",
+      "latitude": -6.2317,
+      "longitude": -77.869,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Tambo Grande",
+      "province": "皮乌拉地区",
+      "latitude": -4.9269,
+      "longitude": -80.3447,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "La Rinconada",
+      "province": "普诺大区",
+      "latitude": -14.6313,
+      "longitude": -69.4464,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Pacasmayo",
+      "province": "拉利伯塔德大区",
+      "latitude": -7.4006,
+      "longitude": -79.5714,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Tocache",
+      "province": "圣马丁大区",
+      "latitude": -8.1877,
+      "longitude": -76.5205,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "莫延多",
+      "name_en": "Mollendo",
+      "province": "阿雷基帕大区",
+      "latitude": -17.0231,
+      "longitude": -72.0147,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Chaupimarca",
+      "province": "帕斯科大区",
+      "latitude": -10.407,
+      "longitude": -76.4617,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Paramonga",
+      "province": "利马大区",
+      "latitude": -10.6667,
+      "longitude": -77.8333,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "La Peca",
+      "province": "亚马孙大区",
+      "latitude": -5.6111,
+      "longitude": -78.435,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Chancay",
+      "province": "利马大区",
+      "latitude": -11.5714,
+      "longitude": -77.2672,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Hualmay",
+      "province": "利马大区",
+      "latitude": -11.0964,
+      "longitude": -77.6139,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "蒙塞富",
+      "name_en": "Monsefú",
+      "province": "兰巴耶克大区",
+      "latitude": -6.8743,
+      "longitude": -79.8687,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Marcavelica",
+      "province": "皮乌拉地区",
+      "latitude": -4.8778,
+      "longitude": -80.7053,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "San Vicente de Cañete",
+      "province": "利马大区",
+      "latitude": -13.0756,
+      "longitude": -76.3853,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Querecotillo",
+      "province": "皮乌拉地区",
+      "latitude": -4.8378,
+      "longitude": -80.6456,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Guadalupe",
+      "province": "拉利伯塔德大区",
+      "latitude": -7.25,
+      "longitude": -79.4833,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Ana",
+      "province": "库斯科大区",
+      "latitude": -12.8667,
+      "longitude": -72.7167,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Rioja",
+      "province": "圣马丁大区",
+      "latitude": -6.0568,
+      "longitude": -77.1665,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "La Banda",
+      "province": "圣马丁大区",
+      "latitude": -6.4927,
+      "longitude": -76.3422,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Laredo",
+      "province": "拉利伯塔德大区",
+      "latitude": -8.0897,
+      "longitude": -78.9602,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Yanacancha",
+      "province": "帕斯科大区",
+      "latitude": -10.6659,
+      "longitude": -76.2553,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Yauri",
+      "province": "库斯科大区",
+      "latitude": -14.7908,
+      "longitude": -71.4099,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "纳斯卡",
+      "name_en": "Nazca",
+      "province": "伊卡大区",
+      "latitude": -14.831,
+      "longitude": -74.939,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Yanacancha",
+      "province": "瓦努科大区",
+      "latitude": -10.6659,
+      "longitude": -76.2553,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Sechura",
+      "province": "皮乌拉地区",
+      "latitude": -5.5569,
+      "longitude": -80.8222,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Moche",
+      "province": "拉利伯塔德大区",
+      "latitude": -8.1711,
+      "longitude": -79.0092,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "圣地亚哥-德考",
+      "name_en": "Santiago de Cao",
+      "province": "拉利伯塔德大区",
+      "latitude": -7.9589,
+      "longitude": -79.2392,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Huamachuco",
+      "province": "拉利伯塔德大区",
+      "latitude": -7.8,
+      "longitude": -78.0667,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Paiján",
+      "province": "拉利伯塔德大区",
+      "latitude": -7.7329,
+      "longitude": -79.3015,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Jauja",
+      "province": "胡宁大区",
+      "latitude": -11.7758,
+      "longitude": -75.4966,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "比鲁",
+      "name_en": "Virú",
+      "province": "拉利伯塔德大区",
+      "latitude": -8.4155,
+      "longitude": -78.752,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Huaura",
+      "province": "利马大区",
+      "latitude": -11.07,
+      "longitude": -77.5994,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Bagua Grande",
+      "province": "亚马孙大区",
+      "latitude": -5.7561,
+      "longitude": -78.4411,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "El Pedregal",
+      "province": "阿雷基帕大区",
+      "latitude": -16.3631,
+      "longitude": -72.1921,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Ayaviri",
+      "province": "普诺大区",
+      "latitude": -14.8864,
+      "longitude": -70.5889,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "万塔",
+      "name_en": "Huanta",
+      "province": "阿亚库乔大区",
+      "latitude": -12.9333,
+      "longitude": -74.25,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Aguaytía",
+      "province": "乌卡亚利大区",
+      "latitude": -9.0378,
+      "longitude": -75.5091,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Rosa",
+      "province": "胡宁大区",
+      "latitude": -10.9191,
+      "longitude": -74.885,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Uchiza",
+      "province": "圣马丁大区",
+      "latitude": -8.4592,
+      "longitude": -76.4633,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "La Breita",
+      "province": "皮乌拉地区",
+      "latitude": -4.2569,
+      "longitude": -80.886,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "安达韦拉斯",
+      "name_en": "Andahuaylas",
+      "province": "阿普里马克大区",
+      "latitude": -13.6556,
+      "longitude": -73.3872,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Mala",
+      "province": "利马大区",
+      "latitude": -12.6581,
+      "longitude": -76.6308,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Zarumilla",
+      "province": "通贝斯大区",
+      "latitude": -3.5031,
+      "longitude": -80.2731,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Camaná",
+      "province": "阿雷基帕大区",
+      "latitude": -16.6238,
+      "longitude": -72.7105,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "San Martín de Pangoa",
+      "province": "胡宁大区",
+      "latitude": -11.4285,
+      "longitude": -74.4883,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "圣佩德罗德约克",
+      "name_en": "San Pedro de Lloc",
+      "province": "拉利伯塔德大区",
+      "latitude": -7.4289,
+      "longitude": -79.5042,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Huarmey",
+      "province": "安卡什大区",
+      "latitude": -10.0681,
+      "longitude": -78.1522,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Yunguyo",
+      "province": "普诺大区",
+      "latitude": -16.25,
+      "longitude": -69.0833,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Chongoyape",
+      "province": "兰巴耶克大区",
+      "latitude": -6.6406,
+      "longitude": -79.3892,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Ilave",
+      "province": "普诺大区",
+      "latitude": -16.0833,
+      "longitude": -69.6667,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "San Clemente",
+      "province": "伊卡大区",
+      "latitude": -13.6667,
+      "longitude": -76.15,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "San Antonio",
+      "province": "莫克瓜大区",
+      "latitude": -17.2172,
+      "longitude": -70.9259,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Pimentel",
+      "province": "兰巴耶克大区",
+      "latitude": -6.8367,
+      "longitude": -79.9342,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Satipo",
+      "province": "胡宁大区",
+      "latitude": -11.2522,
+      "longitude": -74.6386,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Minas de Marcona",
+      "province": "伊卡大区",
+      "latitude": -15.2119,
+      "longitude": -75.1103,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Junín",
+      "province": "胡宁大区",
+      "latitude": -11.159,
+      "longitude": -75.993,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Pátapo",
+      "province": "兰巴耶克大区",
+      "latitude": -6.7332,
+      "longitude": -79.6359,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Bellavista",
+      "province": "圣马丁大区",
+      "latitude": -7.0561,
+      "longitude": -76.5911,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Coishco",
+      "province": "安卡什大区",
+      "latitude": -9.0231,
+      "longitude": -78.6156,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Chicama",
+      "province": "拉利伯塔德大区",
+      "latitude": -7.8447,
+      "longitude": -79.1469,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Saposoa",
+      "province": "圣马丁大区",
+      "latitude": -6.934,
+      "longitude": -76.7716,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Santa María",
+      "province": "利马大区",
+      "latitude": -12.0054,
+      "longitude": -76.8933,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Tabalosos",
+      "province": "圣马丁大区",
+      "latitude": -6.35,
+      "longitude": -76.6833,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "San Ramón",
+      "province": "胡宁大区",
+      "latitude": -11.1242,
+      "longitude": -75.3573,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "塞伦丁",
+      "name_en": "Celendín",
+      "province": "卡哈马卡大区",
+      "latitude": -6.8654,
+      "longitude": -78.1455,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Nauta",
+      "province": "洛雷托大区",
+      "latitude": -4.5056,
+      "longitude": -73.5803,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Cono Norte",
+      "province": "阿雷基帕大区",
+      "latitude": -16.3237,
+      "longitude": -71.5815,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Las Nazarenas",
+      "province": "阿亚库乔大区",
+      "latitude": -13.1547,
+      "longitude": -74.2155,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Chota",
+      "province": "卡哈马卡大区",
+      "latitude": -6.55,
+      "longitude": -78.65,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Salinera Colán",
+      "province": "皮乌拉地区",
+      "latitude": -5.0333,
+      "longitude": -81.0667,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Puerto Santa",
+      "province": "安卡什大区",
+      "latitude": -8.9898,
+      "longitude": -78.646,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Ascope",
+      "province": "拉利伯塔德大区",
+      "latitude": -7.7144,
+      "longitude": -79.1078,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Contamana",
+      "province": "洛雷托大区",
+      "latitude": -7.3333,
+      "longitude": -75.0167,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Supe",
+      "province": "利马大区",
+      "latitude": -10.7975,
+      "longitude": -77.7131,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Eten",
+      "province": "兰巴耶克大区",
+      "latitude": -6.9081,
+      "longitude": -79.8642,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Lamas",
+      "province": "圣马丁大区",
+      "latitude": -6.4167,
+      "longitude": -76.5333,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Motupe",
+      "province": "兰巴耶克大区",
+      "latitude": -6.1519,
+      "longitude": -79.7142,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Pativilca",
+      "province": "利马大区",
+      "latitude": -10.7,
+      "longitude": -77.7833,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Cajabamba",
+      "province": "卡哈马卡大区",
+      "latitude": -7.6167,
+      "longitude": -78.05,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Bambamarca",
+      "province": "卡哈马卡大区",
+      "latitude": -6.6833,
+      "longitude": -78.5333,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Pilcomayo",
+      "province": "安卡什大区",
+      "latitude": -9.0473,
+      "longitude": -77.8109,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "阿桑加罗",
+      "name_en": "Azángaro",
+      "province": "普诺大区",
+      "latitude": -14.9142,
+      "longitude": -70.1985,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Vice",
+      "province": "皮乌拉地区",
+      "latitude": -5.4167,
+      "longitude": -80.7833,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Chilca",
+      "province": "利马大区",
+      "latitude": -12.0863,
+      "longitude": -75.2083,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "San Juan",
+      "province": "伊卡大区",
+      "latitude": -3.7761,
+      "longitude": -73.2814,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Atuncolla",
+      "province": "普诺大区",
+      "latitude": -15.6887,
+      "longitude": -70.1439,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Pueblo Nuevo",
+      "province": "兰巴耶克大区",
+      "latitude": -13.0756,
+      "longitude": -76.3853,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Castillo Grande",
+      "province": "瓦努科大区",
+      "latitude": -9.2781,
+      "longitude": -76.0087,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Morropón",
+      "province": "皮乌拉地区",
+      "latitude": -5.1868,
+      "longitude": -79.9708,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Zorritos",
+      "province": "通贝斯大区",
+      "latitude": -3.6805,
+      "longitude": -80.6782,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "La Rinconada Ana Maria (La Rinconada)",
+      "province": "普诺大区",
+      "latitude": -14.6339,
+      "longitude": -69.4469,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Oxapampa",
+      "province": "帕斯科大区",
+      "latitude": -10.5775,
+      "longitude": -75.4017,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Supe Puerto",
+      "province": "利马大区",
+      "latitude": -10.8013,
+      "longitude": -77.7433,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "康塞普西翁",
+      "name_en": "Concepción",
+      "province": "胡宁大区",
+      "latitude": -11.9176,
+      "longitude": -75.314,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Rosa de Sacco",
+      "province": "胡宁大区",
+      "latitude": -11.5507,
+      "longitude": -75.9425,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Tupac Amaru",
+      "province": "伊卡大区",
+      "latitude": -13.7113,
+      "longitude": -76.1498,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "卡拉斯",
+      "name_en": "Caraz",
+      "province": "安卡什大区",
+      "latitude": -9.0485,
+      "longitude": -77.8101,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Soritor",
+      "province": "圣马丁大区",
+      "latitude": -6.1392,
+      "longitude": -77.1039,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Pichari",
+      "province": "库斯科大区",
+      "latitude": -12.5,
+      "longitude": -73.8167,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Rosa",
+      "province": "兰巴耶克大区",
+      "latitude": -10.9191,
+      "longitude": -74.885,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Puquio",
+      "province": "阿亚库乔大区",
+      "latitude": -14.7,
+      "longitude": -74.1333,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Santiago",
+      "province": "伊卡大区",
+      "latitude": -13.5273,
+      "longitude": -71.9843,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Otuzco",
+      "province": "拉利伯塔德大区",
+      "latitude": -7.9,
+      "longitude": -78.5833,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "La Pradera",
+      "province": "兰巴耶克大区",
+      "latitude": -6.779,
+      "longitude": -79.886,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Salaverry",
+      "province": "拉利伯塔德大区",
+      "latitude": -8.221,
+      "longitude": -78.977,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Chupaca",
+      "province": "胡宁大区",
+      "latitude": -12.0667,
+      "longitude": -75.2833,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "San Lucas ( Pueblo Nuevo de Colan)",
+      "province": "皮乌拉地区",
+      "latitude": -4.9087,
+      "longitude": -81.0569,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Reque",
+      "province": "兰巴耶克大区",
+      "latitude": -6.8656,
+      "longitude": -79.8178,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Olmos",
+      "province": "兰巴耶克大区",
+      "latitude": -5.9847,
+      "longitude": -79.7453,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Miramar",
+      "province": "拉利伯塔德大区",
+      "latitude": -8.1794,
+      "longitude": -78.9938,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Ilabaya",
+      "province": "塔克纳大区",
+      "latitude": -17.4207,
+      "longitude": -70.5128,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Sisa",
+      "province": "圣马丁大区",
+      "latitude": -6.6109,
+      "longitude": -76.693,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Las Lomas",
+      "province": "皮乌拉地区",
+      "latitude": -4.6533,
+      "longitude": -80.2467,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "El Alto",
+      "province": "皮乌拉地区",
+      "latitude": -4.2685,
+      "longitude": -81.2172,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Quiruvilca",
+      "province": "拉利伯塔德大区",
+      "latitude": -7.9667,
+      "longitude": -78.2,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Lagunas",
+      "province": "洛雷托大区",
+      "latitude": -5.2269,
+      "longitude": -75.6753,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Calca",
+      "province": "库斯科大区",
+      "latitude": -13.3333,
+      "longitude": -71.95,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Carhuamayo",
+      "province": "胡宁大区",
+      "latitude": -10.9167,
+      "longitude": -76.0333,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Aguas Verdes",
+      "province": "通贝斯大区",
+      "latitude": -3.4814,
+      "longitude": -80.245,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "曼科拉",
+      "name_en": "Máncora",
+      "province": "皮乌拉地区",
+      "latitude": -4.1078,
+      "longitude": -81.0475,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Subtanjalla",
+      "province": "伊卡大区",
+      "latitude": -14.0189,
+      "longitude": -75.7581,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Yauya",
+      "province": "安卡什大区",
+      "latitude": -8.9914,
+      "longitude": -77.2915,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Ascencion",
+      "province": "万卡韦利卡大区",
+      "latitude": -12.7842,
+      "longitude": -74.9806,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Puente Viru",
+      "province": "拉利伯塔德大区",
+      "latitude": -8.4251,
+      "longitude": -78.781,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Campo Verde",
+      "province": "乌卡亚利大区",
+      "latitude": -8.4756,
+      "longitude": -74.8063,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "San Luis",
+      "province": "利马大区",
+      "latitude": -12.0767,
+      "longitude": -76.9943,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Cocachacra",
+      "province": "阿雷基帕大区",
+      "latitude": -17.0883,
+      "longitude": -71.7575,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "San Jeronimo De Tunan",
+      "province": "胡宁大区",
+      "latitude": -11.9559,
+      "longitude": -75.2841,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Pacanga",
+      "province": "拉利伯塔德大区",
+      "latitude": -7.1667,
+      "longitude": -79.5,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Huancabamba",
+      "province": "皮乌拉地区",
+      "latitude": -5.2386,
+      "longitude": -79.4506,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "La Huaca",
+      "province": "皮乌拉地区",
+      "latitude": -4.9117,
+      "longitude": -80.96,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "San Miguel",
+      "province": "阿亚库乔大区",
+      "latitude": -13.0125,
+      "longitude": -73.9808,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Victor Raul",
+      "province": "拉利伯塔德大区",
+      "latitude": -8.4047,
+      "longitude": -78.8228,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Horacio Zeballos Gamez",
+      "province": "阿雷基帕大区",
+      "latitude": -16.4918,
+      "longitude": -71.5073,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Pilcomayo",
+      "province": "胡宁大区",
+      "latitude": -9.0473,
+      "longitude": -77.8109,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Putina",
+      "province": "普诺大区",
+      "latitude": -15.4751,
+      "longitude": -69.4306,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Chazuta",
+      "province": "圣马丁大区",
+      "latitude": -6.5709,
+      "longitude": -76.1375,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "San Antonio del Estrecho",
+      "province": "洛雷托大区",
+      "latitude": -2.4501,
+      "longitude": -72.669,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Buenos Aires",
+      "province": "皮乌拉地区",
+      "latitude": -5.2671,
+      "longitude": -79.9676,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "San Ignacio",
+      "province": "卡哈马卡大区",
+      "latitude": -5.1458,
+      "longitude": -79.0014,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Morococha",
+      "province": "胡宁大区",
+      "latitude": -11.5878,
+      "longitude": -76.0632,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Los Aquijes",
+      "province": "伊卡大区",
+      "latitude": -14.0967,
+      "longitude": -75.6908,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Huancane",
+      "province": "普诺大区",
+      "latitude": -15.8224,
+      "longitude": -70.8856,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Pacocha",
+      "province": "莫克瓜大区",
+      "latitude": -17.6319,
+      "longitude": -71.3411,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "La Legua - San Jacinto",
+      "province": "皮乌拉地区",
+      "latitude": -5.2358,
+      "longitude": -80.6593,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Urubamba",
+      "province": "库斯科大区",
+      "latitude": -13.3047,
+      "longitude": -72.1158,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Mochumí",
+      "province": "兰巴耶克大区",
+      "latitude": -6.5436,
+      "longitude": -79.8622,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Villa Rica",
+      "province": "帕斯科大区",
+      "latitude": -10.7394,
+      "longitude": -75.2697,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "San José",
+      "province": "兰巴耶克大区",
+      "latitude": -6.7381,
+      "longitude": -79.8275,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Coracora",
+      "province": "阿亚库乔大区",
+      "latitude": -15.0333,
+      "longitude": -73.7833,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Talavera",
+      "province": "阿普里马克大区",
+      "latitude": -13.6531,
+      "longitude": -73.4292,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Juli",
+      "province": "普诺大区",
+      "latitude": -16.2167,
+      "longitude": -69.45,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Huanchaquito Alto",
+      "province": "拉利伯塔德大区",
+      "latitude": -8.0879,
+      "longitude": -79.0975,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Tabaloslos",
+      "province": "圣马丁大区",
+      "latitude": -6.3856,
+      "longitude": -76.6334,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Cajaruro",
+      "province": "亚马孙大区",
+      "latitude": -5.7364,
+      "longitude": -78.4256,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Jepelacio",
+      "province": "圣马丁大区",
+      "latitude": -6.1167,
+      "longitude": -76.95,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Torata",
+      "province": "莫克瓜大区",
+      "latitude": -17.0769,
+      "longitude": -70.8433,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Túcume",
+      "province": "兰巴耶克大区",
+      "latitude": -6.5064,
+      "longitude": -79.8572,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "San Juan Bautista",
+      "province": "伊卡大区",
+      "latitude": -14.0108,
+      "longitude": -75.7358,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Ambo",
+      "province": "瓦努科大区",
+      "latitude": -10.1308,
+      "longitude": -76.2047,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Perené",
+      "province": "胡宁大区",
+      "latitude": -10.9489,
+      "longitude": -75.2264,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Sicaya",
+      "province": "胡宁大区",
+      "latitude": -12.0152,
+      "longitude": -75.2801,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Mazamari",
+      "province": "胡宁大区",
+      "latitude": -11.3258,
+      "longitude": -74.5308,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Acolla",
+      "province": "胡宁大区",
+      "latitude": -11.7319,
+      "longitude": -75.5463,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Santiago de Chuco",
+      "province": "拉利伯塔德大区",
+      "latitude": -8.141,
+      "longitude": -78.1733,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Huicungo",
+      "province": "圣马丁大区",
+      "latitude": -7.3186,
+      "longitude": -76.7756,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Picota",
+      "province": "圣马丁大区",
+      "latitude": -6.9203,
+      "longitude": -76.3314,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Mórrope",
+      "province": "兰巴耶克大区",
+      "latitude": -6.5354,
+      "longitude": -80.011,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Fonavi",
+      "province": "伊卡大区",
+      "latitude": -14.0328,
+      "longitude": -75.737,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Pangoa",
+      "province": "库斯科大区",
+      "latitude": -12.1167,
+      "longitude": -73.0,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "San Jose De Sisa",
+      "province": "圣马丁大区",
+      "latitude": -6.6109,
+      "longitude": -76.693,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Quilmaná",
+      "province": "利马大区",
+      "latitude": -12.9486,
+      "longitude": -76.3811,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Segunda Jerusalén - Azunguillo",
+      "province": "圣马丁大区",
+      "latitude": -5.9892,
+      "longitude": -77.2769,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "El Triunfo ( El Cruce)",
+      "province": "阿雷基帕大区",
+      "latitude": -16.4932,
+      "longitude": -71.853,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Punta de Bombón",
+      "province": "阿雷基帕大区",
+      "latitude": -17.1719,
+      "longitude": -71.7924,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Oyotún",
+      "province": "兰巴耶克大区",
+      "latitude": -6.8444,
+      "longitude": -79.3009,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Bellavista",
+      "province": "卡哈马卡大区",
+      "latitude": -7.0561,
+      "longitude": -76.5911,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Paragsha- San Andres - Jose Carlos Mariategui",
+      "province": "帕斯科大区",
+      "latitude": -10.6715,
+      "longitude": -76.271,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Hacienda Pucala",
+      "province": "兰巴耶克大区",
+      "latitude": -6.7792,
+      "longitude": -79.6026,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Oyón",
+      "province": "利马大区",
+      "latitude": -10.6685,
+      "longitude": -76.7716,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Végueta",
+      "province": "利马大区",
+      "latitude": -11.0225,
+      "longitude": -77.6438,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Sayán",
+      "province": "利马大区",
+      "latitude": -11.1333,
+      "longitude": -77.1946,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Jayanca",
+      "province": "兰巴耶克大区",
+      "latitude": -6.3908,
+      "longitude": -79.8219,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Macusani",
+      "province": "普诺大区",
+      "latitude": -14.0833,
+      "longitude": -70.4333,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Lluta",
+      "province": "阿雷基帕大区",
+      "latitude": -16.0147,
+      "longitude": -72.0142,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "San Agustin",
+      "province": "胡宁大区",
+      "latitude": -11.9902,
+      "longitude": -75.2442,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Yanahuanca",
+      "province": "帕斯科大区",
+      "latitude": -10.5167,
+      "longitude": -76.4986,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Bernal",
+      "province": "皮乌拉地区",
+      "latitude": -5.45,
+      "longitude": -80.75,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Palpa",
+      "province": "伊卡大区",
+      "latitude": -14.5336,
+      "longitude": -75.1856,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Anta",
+      "province": "库斯科大区",
+      "latitude": -13.4706,
+      "longitude": -72.1483,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "La Matanza",
+      "province": "皮乌拉地区",
+      "latitude": -5.2133,
+      "longitude": -80.0915,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Huayucachi",
+      "province": "胡宁大区",
+      "latitude": -12.1382,
+      "longitude": -75.2232,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Asentamiento Humano Nicolas de Pierola",
+      "province": "利马大区",
+      "latitude": -11.9357,
+      "longitude": -76.7061,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Barranca",
+      "province": "洛雷托大区",
+      "latitude": -10.75,
+      "longitude": -77.7667,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Pueblo Nuevo",
+      "province": "拉利伯塔德大区",
+      "latitude": -13.0756,
+      "longitude": -76.3853,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "San Pedro de Cajas",
+      "province": "胡宁大区",
+      "latitude": -11.2506,
+      "longitude": -75.8612,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "San Bartolo",
+      "province": "利马大区",
+      "latitude": -12.3833,
+      "longitude": -76.7833,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Yura",
+      "province": "阿雷基帕大区",
+      "latitude": -16.2522,
+      "longitude": -71.6797,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Orcopampa",
+      "province": "阿雷基帕大区",
+      "latitude": -15.2661,
+      "longitude": -72.3417,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "San Jerónimo",
+      "province": "阿普里马克大区",
+      "latitude": -11.9559,
+      "longitude": -75.2841,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Pedro Ruiz Gallo",
+      "province": "亚马孙大区",
+      "latitude": -5.9453,
+      "longitude": -77.9799,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "潘帕斯",
+      "name_en": "Pampas",
+      "province": "万卡韦利卡大区",
+      "latitude": -12.3987,
+      "longitude": -74.8685,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Caleta de Carquín",
+      "province": "利马大区",
+      "latitude": -11.0925,
+      "longitude": -77.6267,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Ramón Castilla",
+      "province": "洛雷托大区",
+      "latitude": -4.2607,
+      "longitude": -69.9571,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Nuevo Sullana",
+      "province": "皮乌拉地区",
+      "latitude": -4.9211,
+      "longitude": -80.727,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Papayal",
+      "province": "通贝斯大区",
+      "latitude": -4.0777,
+      "longitude": -80.7369,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Urcos",
+      "province": "库斯科大区",
+      "latitude": -13.6861,
+      "longitude": -71.6228,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Salitral",
+      "province": "皮乌拉地区",
+      "latitude": -4.8572,
+      "longitude": -80.6811,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Desaguadero",
+      "province": "普诺大区",
+      "latitude": -16.5661,
+      "longitude": -69.042,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "San Miguel de Cauri",
+      "province": "瓦努科大区",
+      "latitude": -10.1382,
+      "longitude": -76.6229,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Ayabaca",
+      "province": "皮乌拉地区",
+      "latitude": -4.6398,
+      "longitude": -79.7149,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Yungay",
+      "province": "安卡什大区",
+      "latitude": -9.1383,
+      "longitude": -77.7436,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Pampa de Tate",
+      "province": "伊卡大区",
+      "latitude": -14.1453,
+      "longitude": -75.6918,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Huasahuasi",
+      "province": "胡宁大区",
+      "latitude": -11.2653,
+      "longitude": -75.6472,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Tinyahuarco",
+      "province": "帕斯科大区",
+      "latitude": -10.7677,
+      "longitude": -76.2752,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Carhuaz",
+      "province": "安卡什大区",
+      "latitude": -9.2819,
+      "longitude": -77.6447,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Tambo",
+      "province": "阿亚库乔大区",
+      "latitude": -14.7985,
+      "longitude": -73.9244,
+      "timezone": "America/Lima"
+    },
+    {
+      "name": "",
+      "name_en": "Alto Salaverry",
+      "province": "拉利伯塔德大区",
+      "latitude": -8.1865,
+      "longitude": -78.9864,
+      "timezone": "America/Lima"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "country_code": "VC",
+  "country_name": "圣文森特和格林纳丁斯",
+  "cities": [
+    {
+      "name": "金斯敦",
+      "name_en": "Kingstown",
+      "province": "圣乔治区",
+      "latitude": 13.1553,
+      "longitude": -61.2274,
+      "timezone": "America/St_Vincent"
+    },
+    {
+      "name": "卡利亚夸",
+      "name_en": "Calliaqua",
+      "province": "圣乔治区",
+      "latitude": 13.1287,
+      "longitude": -61.1918,
+      "timezone": "America/St_Vincent"
+    },
+    {
+      "name": "",
+      "name_en": "Georgetown",
+      "province": "夏洛特区",
+      "latitude": 13.2805,
+      "longitude": -61.1185,
+      "timezone": "America/St_Vincent"
+    },
+    {
+      "name": "",
+      "name_en": "Barrouallie",
+      "province": "圣派屈克区",
+      "latitude": 13.2368,
+      "longitude": -61.2728,
+      "timezone": "America/St_Vincent"
+    },
+    {
+      "name": "",
+      "name_en": "Port Elizabeth",
+      "province": "格瑞那丁区",
+      "latitude": 13.011,
+      "longitude": -61.2355,
+      "timezone": "America/St_Vincent"
+    },
+    {
+      "name": "",
+      "name_en": "Chateaubelair",
+      "province": "圣大卫区",
+      "latitude": 13.2907,
+      "longitude": -61.2404,
+      "timezone": "America/St_Vincent"
+    },
+    {
+      "name": "",
+      "name_en": "Layou",
+      "province": "圣安德鲁区",
+      "latitude": 13.2018,
+      "longitude": -61.2701,
+      "timezone": "America/St_Vincent"
+    }
+  ]
+}

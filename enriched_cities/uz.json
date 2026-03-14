@@ -1,0 +1,1094 @@
+{
+  "country_code": "UZ",
+  "country_name": "乌兹别克斯坦",
+  "cities": [
+    {
+      "name": "塔什干",
+      "name_en": "Tashkent",
+      "province": "Tashkent",
+      "latitude": 41.2647,
+      "longitude": 69.2163,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "安集延",
+      "name_en": "Andijon",
+      "province": "安集延州",
+      "latitude": 40.7834,
+      "longitude": 72.3507,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "纳曼干",
+      "name_en": "Namangan",
+      "province": "纳曼干州",
+      "latitude": 40.9983,
+      "longitude": 71.6726,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "撒马尔罕",
+      "name_en": "Samarkand",
+      "province": "撒马尔罕州",
+      "latitude": 39.6546,
+      "longitude": 66.9644,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Yunusobod",
+      "province": "Tashkent",
+      "latitude": 41.3714,
+      "longitude": 69.2794,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "努库斯",
+      "name_en": "Nukus",
+      "province": "卡拉卡尔帕克斯坦共和国",
+      "latitude": 42.4586,
+      "longitude": 59.6058,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "费尔干纳",
+      "name_en": "Fergana",
+      "province": "费尔干纳州",
+      "latitude": 40.3842,
+      "longitude": 71.7843,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "布哈拉",
+      "name_en": "Bukhara",
+      "province": "布哈拉州",
+      "latitude": 39.7703,
+      "longitude": 64.4307,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "卡尔希",
+      "name_en": "Qarshi",
+      "province": "卡什卡达里亚州",
+      "latitude": 38.8606,
+      "longitude": 65.7891,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Chilanzar",
+      "province": "Tashkent",
+      "latitude": 41.2819,
+      "longitude": 69.1811,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Qo‘qon",
+      "province": "费尔干纳州",
+      "latitude": 40.5286,
+      "longitude": 70.9425,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Marg‘ilon",
+      "province": "费尔干纳州",
+      "latitude": 40.4724,
+      "longitude": 71.7246,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "安格连",
+      "name_en": "Angren",
+      "province": "塔什干州",
+      "latitude": 41.0167,
+      "longitude": 70.1436,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "泰尔梅兹",
+      "name_en": "Tirmiz",
+      "province": "苏尔汉河州",
+      "latitude": 37.2242,
+      "longitude": 67.2783,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "吉扎克",
+      "name_en": "Jizzax",
+      "province": "吉扎克州",
+      "latitude": 40.1335,
+      "longitude": 67.8296,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "奇尔奇克",
+      "name_en": "Chirchiq",
+      "province": "塔什干州",
+      "latitude": 41.4689,
+      "longitude": 69.5822,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Urganch",
+      "province": "花拉子模州",
+      "latitude": 41.5518,
+      "longitude": 60.6314,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "纳沃伊",
+      "name_en": "Navoiy",
+      "province": "纳沃伊州",
+      "latitude": 40.0844,
+      "longitude": 65.3792,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "沙赫里萨布兹",
+      "name_en": "Shahrisabz",
+      "province": "卡什卡达里亚州",
+      "latitude": 39.0578,
+      "longitude": 66.8342,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "阿尔马雷克",
+      "name_en": "Olmaliq",
+      "province": "塔什干州",
+      "latitude": 40.8447,
+      "longitude": 69.5983,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Xiva",
+      "province": "花拉子模州",
+      "latitude": 41.3856,
+      "longitude": 60.3641,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Sergeli",
+      "province": "Tashkent",
+      "latitude": 41.1983,
+      "longitude": 69.2222,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Chust",
+      "province": "纳曼干州",
+      "latitude": 41.0033,
+      "longitude": 71.2379,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "贝科博德",
+      "name_en": "Bekobod",
+      "province": "塔什干州",
+      "latitude": 40.2208,
+      "longitude": 69.2697,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Beshariq",
+      "province": "费尔干纳州",
+      "latitude": 40.4358,
+      "longitude": 70.6103,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Quvasoy",
+      "province": "费尔干纳州",
+      "latitude": 40.2972,
+      "longitude": 71.9803,
+      "timezone": "Asia/Bishkek"
+    },
+    {
+      "name": "",
+      "name_en": "Kattaqo’rg’on Shahri",
+      "province": "撒马尔罕州",
+      "latitude": 39.9055,
+      "longitude": 66.2656,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "古利斯坦",
+      "name_en": "Guliston",
+      "province": "锡尔河州",
+      "latitude": 40.4954,
+      "longitude": 68.7754,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Qŭnghirot",
+      "province": "卡拉卡尔帕克斯坦共和国",
+      "latitude": 43.0433,
+      "longitude": 58.8394,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Denov",
+      "province": "苏尔汉河州",
+      "latitude": 38.2675,
+      "longitude": 67.8989,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Shahrixon",
+      "province": "安集延州",
+      "latitude": 40.7133,
+      "longitude": 72.0571,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Koson",
+      "province": "卡什卡达里亚州",
+      "latitude": 39.0375,
+      "longitude": 65.585,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Xo‘jayli Shahri",
+      "province": "卡拉卡尔帕克斯坦共和国",
+      "latitude": 42.4088,
+      "longitude": 59.4454,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Beruniy",
+      "province": "卡拉卡尔帕克斯坦共和国",
+      "latitude": 41.6911,
+      "longitude": 60.7525,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Urgut Shahri",
+      "province": "撒马尔罕州",
+      "latitude": 39.419,
+      "longitude": 67.2612,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Kogon Shahri",
+      "province": "布哈拉州",
+      "latitude": 39.7275,
+      "longitude": 64.5547,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Asaka",
+      "province": "安集延州",
+      "latitude": 40.6415,
+      "longitude": 72.2387,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Yangiyŭl",
+      "province": "塔什干州",
+      "latitude": 41.112,
+      "longitude": 69.0471,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Parkent",
+      "province": "塔什干州",
+      "latitude": 41.2944,
+      "longitude": 69.6764,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Oltinko‘l",
+      "province": "卡拉卡尔帕克斯坦共和国",
+      "latitude": 43.0687,
+      "longitude": 58.9037,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Chortoq",
+      "province": "纳曼干州",
+      "latitude": 41.0692,
+      "longitude": 71.8237,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "托伊捷帕",
+      "name_en": "Tŭytepa",
+      "province": "塔什干州",
+      "latitude": 41.0321,
+      "longitude": 69.3625,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Gurlan",
+      "province": "花拉子模州",
+      "latitude": 41.8412,
+      "longitude": 60.3927,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Kosonsoy",
+      "province": "纳曼干州",
+      "latitude": 41.2494,
+      "longitude": 71.5474,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Novyy Turtkul’",
+      "province": "卡拉卡尔帕克斯坦共和国",
+      "latitude": 41.55,
+      "longitude": 61.0167,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Quva",
+      "province": "费尔干纳州",
+      "latitude": 40.522,
+      "longitude": 72.0729,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Yangiyer",
+      "province": "锡尔河州",
+      "latitude": 40.275,
+      "longitude": 68.8225,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Xonobod",
+      "province": "安集延州",
+      "latitude": 40.8026,
+      "longitude": 72.975,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "G’ijduvon Shahri",
+      "province": "布哈拉州",
+      "latitude": 40.1022,
+      "longitude": 64.6823,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Kitob",
+      "province": "卡什卡达里亚州",
+      "latitude": 39.1216,
+      "longitude": 66.886,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Uchqŭrghon Shahri",
+      "province": "纳曼干州",
+      "latitude": 41.1137,
+      "longitude": 72.0791,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Oqtosh",
+      "province": "撒马尔罕州",
+      "latitude": 39.9214,
+      "longitude": 65.9253,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Ohangaron",
+      "province": "塔什干州",
+      "latitude": 40.9064,
+      "longitude": 69.6383,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Dashtobod",
+      "province": "吉扎克州",
+      "latitude": 40.1269,
+      "longitude": 68.4944,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Piskent",
+      "province": "塔什干州",
+      "latitude": 40.8972,
+      "longitude": 69.3506,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "里什顿",
+      "name_en": "Rishton",
+      "province": "费尔干纳州",
+      "latitude": 40.3567,
+      "longitude": 71.2847,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Manghit",
+      "province": "卡拉卡尔帕克斯坦共和国",
+      "latitude": 42.1156,
+      "longitude": 60.0597,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Qorasuv",
+      "province": "安集延州",
+      "latitude": 40.7278,
+      "longitude": 72.8858,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Oyim",
+      "province": "安集延州",
+      "latitude": 40.8195,
+      "longitude": 72.7423,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Nurota",
+      "province": "纳沃伊州",
+      "latitude": 40.5614,
+      "longitude": 65.6886,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Bektemir",
+      "province": "Tashkent",
+      "latitude": 41.2097,
+      "longitude": 69.3342,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "To‘rqao‘rg‘on",
+      "province": "纳曼干州",
+      "latitude": 40.9998,
+      "longitude": 71.5116,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Muborak",
+      "province": "卡什卡达里亚州",
+      "latitude": 39.2553,
+      "longitude": 65.1528,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Uychi",
+      "province": "纳曼干州",
+      "latitude": 41.0807,
+      "longitude": 71.9233,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Bulung’ur Shahri",
+      "province": "撒马尔罕州",
+      "latitude": 39.76,
+      "longitude": 67.2744,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "锡尔达利亚",
+      "name_en": "Sirdaryo",
+      "province": "锡尔河州",
+      "latitude": 40.8436,
+      "longitude": 68.6617,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Toshbuloq",
+      "province": "纳曼干州",
+      "latitude": 40.9162,
+      "longitude": 71.5782,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Yangiqo‘rg‘on",
+      "province": "纳曼干州",
+      "latitude": 41.1947,
+      "longitude": 71.7238,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "帕普",
+      "name_en": "Pop",
+      "province": "纳曼干州",
+      "latitude": 40.8736,
+      "longitude": 71.1089,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Qibray",
+      "province": "塔什干州",
+      "latitude": 41.3897,
+      "longitude": 69.465,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Iskandar",
+      "province": "塔什干州",
+      "latitude": 41.5539,
+      "longitude": 69.7008,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Zomin Shaharchasi",
+      "province": "吉扎克州",
+      "latitude": 39.9606,
+      "longitude": 68.3958,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Shovot",
+      "province": "花拉子模州",
+      "latitude": 41.6582,
+      "longitude": 60.2945,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "柏伊森",
+      "name_en": "Boysun",
+      "province": "苏尔汉河州",
+      "latitude": 38.2084,
+      "longitude": 67.2066,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Uchkuduk",
+      "province": "布哈拉州",
+      "latitude": 41.05,
+      "longitude": 62.7833,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Shofirkon Shahri",
+      "province": "布哈拉州",
+      "latitude": 40.12,
+      "longitude": 64.5014,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Salor",
+      "province": "塔什干州",
+      "latitude": 41.3722,
+      "longitude": 69.3817,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Haqqulobod",
+      "province": "纳曼干州",
+      "latitude": 40.9167,
+      "longitude": 72.1167,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Dardoq",
+      "province": "安集延州",
+      "latitude": 40.8158,
+      "longitude": 72.8317,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Qo‘rg‘ontepa",
+      "province": "安集延州",
+      "latitude": 40.7319,
+      "longitude": 72.7618,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Oltiariq",
+      "province": "费尔干纳州",
+      "latitude": 40.3919,
+      "longitude": 71.4742,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Sho‘rchi",
+      "province": "苏尔汉河州",
+      "latitude": 37.9994,
+      "longitude": 67.7875,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "杨贾巴德",
+      "name_en": "Yangiobod",
+      "province": "塔什干州",
+      "latitude": 41.1192,
+      "longitude": 70.0941,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Yaypan",
+      "province": "费尔干纳州",
+      "latitude": 40.3758,
+      "longitude": 70.8156,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Gagarin Shahri",
+      "province": "吉扎克州",
+      "latitude": 40.6647,
+      "longitude": 68.1677,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Zafar",
+      "province": "塔什干州",
+      "latitude": 40.9833,
+      "longitude": 68.9,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Payshamba Shahri",
+      "province": "撒马尔罕州",
+      "latitude": 40.0114,
+      "longitude": 66.2311,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "G‘uzor",
+      "province": "卡什卡达里亚州",
+      "latitude": 38.6213,
+      "longitude": 66.2515,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Jalolquduq",
+      "province": "安集延州",
+      "latitude": 40.6892,
+      "longitude": 72.6093,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Chinoz",
+      "province": "塔什干州",
+      "latitude": 40.9363,
+      "longitude": 68.7613,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Karakul’",
+      "province": "布哈拉州",
+      "latitude": 39.5333,
+      "longitude": 63.8333,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "G‘azalkent",
+      "province": "塔什干州",
+      "latitude": 41.5581,
+      "longitude": 69.7708,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Juma Shahri",
+      "province": "撒马尔罕州",
+      "latitude": 39.7161,
+      "longitude": 66.6642,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Paxtakor Shahri",
+      "province": "吉扎克州",
+      "latitude": 40.3118,
+      "longitude": 67.9567,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Kirguli",
+      "province": "费尔干纳州",
+      "latitude": 40.4355,
+      "longitude": 71.7672,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Xo‘jaobod",
+      "province": "安集延州",
+      "latitude": 40.6689,
+      "longitude": 72.56,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Sultonobod",
+      "province": "安集延州",
+      "latitude": 40.7646,
+      "longitude": 72.9765,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Bo‘ka",
+      "province": "塔什干州",
+      "latitude": 40.8111,
+      "longitude": 69.1942,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Chiroqchi",
+      "province": "卡什卡达里亚州",
+      "latitude": 39.0336,
+      "longitude": 66.5722,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Beshkent",
+      "province": "卡什卡达里亚州",
+      "latitude": 38.8214,
+      "longitude": 65.6531,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Toshloq",
+      "province": "费尔干纳州",
+      "latitude": 40.4772,
+      "longitude": 71.7678,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Do’stlik Shahri",
+      "province": "吉扎克州",
+      "latitude": 40.5288,
+      "longitude": 68.0315,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Qo’shko’pir",
+      "province": "花拉子模州",
+      "latitude": 41.5328,
+      "longitude": 60.347,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Vobkent Shahri",
+      "province": "布哈拉州",
+      "latitude": 40.0003,
+      "longitude": 64.5021,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Hazorasp",
+      "province": "花拉子模州",
+      "latitude": 41.3194,
+      "longitude": 61.0742,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Yangirabot",
+      "province": "纳沃伊州",
+      "latitude": 40.0254,
+      "longitude": 65.9609,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Druzhba",
+      "province": "花拉子模州",
+      "latitude": 41.2222,
+      "longitude": 61.3067,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Chelak",
+      "province": "撒马尔罕州",
+      "latitude": 39.92,
+      "longitude": 66.8623,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Marhamat",
+      "province": "安集延州",
+      "latitude": 40.4805,
+      "longitude": 72.3139,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Jomboy Shahri",
+      "province": "撒马尔罕州",
+      "latitude": 39.6989,
+      "longitude": 67.0933,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Yangi Marg‘ilon",
+      "province": "费尔干纳州",
+      "latitude": 40.4272,
+      "longitude": 71.7189,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Ŭrtaowul",
+      "province": "塔什干州",
+      "latitude": 41.1867,
+      "longitude": 69.1453,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Shumanay",
+      "province": "卡拉卡尔帕克斯坦共和国",
+      "latitude": 42.6428,
+      "longitude": 58.9134,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Charxin",
+      "province": "撒马尔罕州",
+      "latitude": 39.6941,
+      "longitude": 66.827,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Mŭynoq",
+      "province": "卡拉卡尔帕克斯坦共和国",
+      "latitude": 43.7683,
+      "longitude": 59.0214,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Hamza",
+      "province": "费尔干纳州",
+      "latitude": 40.4276,
+      "longitude": 71.5053,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Tinchlik",
+      "province": "费尔干纳州",
+      "latitude": 40.4759,
+      "longitude": 71.5509,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Olot Shahri",
+      "province": "布哈拉州",
+      "latitude": 39.415,
+      "longitude": 63.8033,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Ishtixon Shahri",
+      "province": "撒马尔罕州",
+      "latitude": 39.9664,
+      "longitude": 66.4861,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Romitan Shahri",
+      "province": "布哈拉州",
+      "latitude": 39.9294,
+      "longitude": 64.3794,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Galaosiyo Shahri",
+      "province": "布哈拉州",
+      "latitude": 39.8572,
+      "longitude": 64.4464,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Kegeyli Shahar",
+      "province": "卡拉卡尔帕克斯坦共和国",
+      "latitude": 42.7767,
+      "longitude": 59.6078,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Marhamat",
+      "province": "安集延州",
+      "latitude": 40.4805,
+      "longitude": 72.3139,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Payariq Shahri",
+      "province": "撒马尔罕州",
+      "latitude": 39.9925,
+      "longitude": 66.8501,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Qiziltepa",
+      "province": "纳沃伊州",
+      "latitude": 40.0331,
+      "longitude": 64.85,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Oqqo‘rg‘on",
+      "province": "塔什干州",
+      "latitude": 40.8775,
+      "longitude": 69.0458,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Nishon Tumani",
+      "province": "卡什卡达里亚州",
+      "latitude": 38.694,
+      "longitude": 65.6751,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Qorovulbozor",
+      "province": "布哈拉州",
+      "latitude": 39.5006,
+      "longitude": 64.7936,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "G‘ozg‘on",
+      "province": "纳沃伊州",
+      "latitude": 40.5908,
+      "longitude": 65.4947,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Eskiarab",
+      "province": "费尔干纳州",
+      "latitude": 40.3697,
+      "longitude": 71.4186,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Gazli",
+      "province": "布哈拉州",
+      "latitude": 40.1311,
+      "longitude": 63.4571,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Dahbed",
+      "province": "撒马尔罕州",
+      "latitude": 39.7644,
+      "longitude": 66.9163,
+      "timezone": "Asia/Samarkand"
+    },
+    {
+      "name": "",
+      "name_en": "Izboskan",
+      "province": "安集延州",
+      "latitude": 41.0377,
+      "longitude": 72.3366,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "",
+      "name_en": "Hazratishoh",
+      "province": "纳曼干州",
+      "latitude": 41.3946,
+      "longitude": 71.789,
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "name": "沙希马尔丹",
+      "name_en": "Shohimardon",
+      "province": "费尔干纳州",
+      "latitude": 39.9832,
+      "longitude": 71.8051,
+      "timezone": "Asia/Bishkek"
+    },
+    {
+      "name": "",
+      "name_en": "Amir Timur",
+      "province": "塔什干州",
+      "latitude": 41.0194,
+      "longitude": 68.9408,
+      "timezone": "Asia/Tashkent"
+    }
+  ]
+}

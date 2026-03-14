@@ -1,0 +1,270 @@
+{
+  "country_code": "MW",
+  "country_name": "马拉维",
+  "cities": [
+    {
+      "name": "利隆圭",
+      "name_en": "Lilongwe",
+      "province": "中央区",
+      "latitude": -13.9669,
+      "longitude": 33.7873,
+      "timezone": "Africa/Blantyre"
+    },
+    {
+      "name": "布兰太尔",
+      "name_en": "Blantyre",
+      "province": "南部区",
+      "latitude": -15.785,
+      "longitude": 35.0085,
+      "timezone": "Africa/Blantyre"
+    },
+    {
+      "name": "姆祖祖",
+      "name_en": "Mzuzu",
+      "province": "北部区",
+      "latitude": -11.4656,
+      "longitude": 34.0207,
+      "timezone": "Africa/Blantyre"
+    },
+    {
+      "name": "松巴",
+      "name_en": "Zomba",
+      "province": "南部区",
+      "latitude": -15.386,
+      "longitude": 35.3188,
+      "timezone": "Africa/Blantyre"
+    },
+    {
+      "name": "",
+      "name_en": "Karonga",
+      "province": "北部区",
+      "latitude": -9.9333,
+      "longitude": 33.9333,
+      "timezone": "Africa/Blantyre"
+    },
+    {
+      "name": "",
+      "name_en": "Kasungu",
+      "province": "中央区",
+      "latitude": -13.0333,
+      "longitude": 33.4833,
+      "timezone": "Africa/Blantyre"
+    },
+    {
+      "name": "",
+      "name_en": "Mangochi",
+      "province": "南部区",
+      "latitude": -14.4781,
+      "longitude": 35.2645,
+      "timezone": "Africa/Blantyre"
+    },
+    {
+      "name": "",
+      "name_en": "Salima",
+      "province": "中央区",
+      "latitude": -13.7804,
+      "longitude": 34.4587,
+      "timezone": "Africa/Blantyre"
+    },
+    {
+      "name": "利翁代",
+      "name_en": "Liwonde",
+      "province": "南部区",
+      "latitude": -15.0666,
+      "longitude": 35.2254,
+      "timezone": "Africa/Blantyre"
+    },
+    {
+      "name": "",
+      "name_en": "Balaka",
+      "province": "南部区",
+      "latitude": -14.9793,
+      "longitude": 34.9558,
+      "timezone": "Africa/Blantyre"
+    },
+    {
+      "name": "",
+      "name_en": "Dedza",
+      "province": "中央区",
+      "latitude": -14.3779,
+      "longitude": 34.3332,
+      "timezone": "Africa/Blantyre"
+    },
+    {
+      "name": "恩科塔科塔",
+      "name_en": "Nkhotakota",
+      "province": "中央区",
+      "latitude": -12.9274,
+      "longitude": 34.2961,
+      "timezone": "Africa/Blantyre"
+    },
+    {
+      "name": "",
+      "name_en": "Mchinji",
+      "province": "中央区",
+      "latitude": -13.7984,
+      "longitude": 32.8802,
+      "timezone": "Africa/Blantyre"
+    },
+    {
+      "name": "",
+      "name_en": "Nsanje",
+      "province": "南部区",
+      "latitude": -16.92,
+      "longitude": 35.262,
+      "timezone": "Africa/Blantyre"
+    },
+    {
+      "name": "",
+      "name_en": "Mzimba",
+      "province": "北部区",
+      "latitude": -11.9,
+      "longitude": 33.6,
+      "timezone": "Africa/Blantyre"
+    },
+    {
+      "name": "",
+      "name_en": "Mponela",
+      "province": "中央区",
+      "latitude": -13.531,
+      "longitude": 33.7393,
+      "timezone": "Africa/Blantyre"
+    },
+    {
+      "name": "",
+      "name_en": "Rumphi",
+      "province": "北部区",
+      "latitude": -11.0186,
+      "longitude": 33.8575,
+      "timezone": "Africa/Blantyre"
+    },
+    {
+      "name": "",
+      "name_en": "Ntcheu",
+      "province": "中央区",
+      "latitude": -14.8203,
+      "longitude": 34.6359,
+      "timezone": "Africa/Blantyre"
+    },
+    {
+      "name": "",
+      "name_en": "Mwanza",
+      "province": "南部区",
+      "latitude": -15.6026,
+      "longitude": 34.5248,
+      "timezone": "Africa/Blantyre"
+    },
+    {
+      "name": "",
+      "name_en": "Chitipa",
+      "province": "北部区",
+      "latitude": -9.7024,
+      "longitude": 33.2697,
+      "timezone": "Africa/Blantyre"
+    },
+    {
+      "name": "",
+      "name_en": "Monkey Bay",
+      "province": "南部区",
+      "latitude": -14.0824,
+      "longitude": 34.9165,
+      "timezone": "Africa/Blantyre"
+    },
+    {
+      "name": "",
+      "name_en": "Mulanje",
+      "province": "南部区",
+      "latitude": -16.0316,
+      "longitude": 35.5,
+      "timezone": "Africa/Blantyre"
+    },
+    {
+      "name": "",
+      "name_en": "Nkhata Bay",
+      "province": "北部区",
+      "latitude": -11.6066,
+      "longitude": 34.2907,
+      "timezone": "Africa/Blantyre"
+    },
+    {
+      "name": "",
+      "name_en": "Luchenza",
+      "province": "南部区",
+      "latitude": -16.0069,
+      "longitude": 35.3095,
+      "timezone": "Africa/Blantyre"
+    },
+    {
+      "name": "",
+      "name_en": "Chipeni",
+      "province": "中央区",
+      "latitude": -13.4024,
+      "longitude": 33.9093,
+      "timezone": "Africa/Blantyre"
+    },
+    {
+      "name": "",
+      "name_en": "Thyolo",
+      "province": "南部区",
+      "latitude": -16.0678,
+      "longitude": 35.1405,
+      "timezone": "Africa/Blantyre"
+    },
+    {
+      "name": "",
+      "name_en": "Dowa",
+      "province": "中央区",
+      "latitude": -13.654,
+      "longitude": 33.9375,
+      "timezone": "Africa/Blantyre"
+    },
+    {
+      "name": "",
+      "name_en": "Ngabu",
+      "province": "南部区",
+      "latitude": -16.4943,
+      "longitude": 34.9115,
+      "timezone": "Africa/Blantyre"
+    },
+    {
+      "name": "",
+      "name_en": "Ntchisi",
+      "province": "中央区",
+      "latitude": -13.5277,
+      "longitude": 33.9149,
+      "timezone": "Africa/Blantyre"
+    },
+    {
+      "name": "",
+      "name_en": "Chipoka",
+      "province": "中央区",
+      "latitude": -13.9933,
+      "longitude": 34.5157,
+      "timezone": "Africa/Blantyre"
+    },
+    {
+      "name": "",
+      "name_en": "Phalombe",
+      "province": "南部区",
+      "latitude": -15.8064,
+      "longitude": 35.6507,
+      "timezone": "Africa/Blantyre"
+    },
+    {
+      "name": "",
+      "name_en": "Chikwawa",
+      "province": "南部区",
+      "latitude": -16.0335,
+      "longitude": 34.8009,
+      "timezone": "Africa/Blantyre"
+    },
+    {
+      "name": "",
+      "name_en": "Livingstonia",
+      "province": "北部区",
+      "latitude": -10.606,
+      "longitude": 34.1079,
+      "timezone": "Africa/Blantyre"
+    }
+  ]
+}

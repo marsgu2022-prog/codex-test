@@ -1,0 +1,358 @@
+{
+  "country_code": "NA",
+  "country_name": "纳米比亚",
+  "cities": [
+    {
+      "name": "温得和克",
+      "name_en": "Windhoek",
+      "province": "霍马斯区",
+      "latitude": -22.5594,
+      "longitude": 17.0832,
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "name": "龙杜",
+      "name_en": "Rundu",
+      "province": "东卡万戈区",
+      "latitude": -17.918,
+      "longitude": 19.7731,
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "name": "鲸湾港",
+      "name_en": "Walvis Bay",
+      "province": "埃龙戈区",
+      "latitude": -22.9575,
+      "longitude": 14.5053,
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "name": "斯瓦科普蒙德",
+      "name_en": "Swakopmund",
+      "province": "埃龙戈区",
+      "latitude": -22.6784,
+      "longitude": 14.5266,
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "name": "奥沙卡蒂",
+      "name_en": "Oshakati",
+      "province": "奥沙纳区",
+      "latitude": -17.7883,
+      "longitude": 15.7044,
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "name": "里霍博斯",
+      "name_en": "Rehoboth",
+      "province": "哈达普区",
+      "latitude": -23.317,
+      "longitude": 17.09,
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "name": "卡蒂马穆利洛",
+      "name_en": "Katima Mulilo",
+      "province": "卡普里维区",
+      "latitude": -17.5047,
+      "longitude": 24.2757,
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "name": "奥奇瓦龙戈",
+      "name_en": "Otjiwarongo",
+      "province": "奥乔宗朱帕区",
+      "latitude": -20.4637,
+      "longitude": 16.6477,
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "name": "翁丹瓜",
+      "name_en": "Ondangwa",
+      "province": "奥沙纳区",
+      "latitude": -17.9082,
+      "longitude": 15.9804,
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "name": "奥卡汉贾",
+      "name_en": "Okahandja",
+      "province": "奥乔宗朱帕区",
+      "latitude": -21.9814,
+      "longitude": 16.9029,
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "name": "赫鲁特方丹",
+      "name_en": "Grootfontein",
+      "province": "奥乔宗朱帕区",
+      "latitude": -19.5733,
+      "longitude": 18.1003,
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "name": "翁圭迪瓦",
+      "name_en": "Ongwediva",
+      "province": "奥沙纳区",
+      "latitude": -17.772,
+      "longitude": 15.7656,
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "name": "基特曼斯胡普",
+      "name_en": "Keetmanshoop",
+      "province": "卡拉斯区",
+      "latitude": -26.5765,
+      "longitude": 18.1336,
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "name": "",
+      "name_en": "Helao Nafidi",
+      "province": "奥汉圭纳区",
+      "latitude": -17.3932,
+      "longitude": 15.8911,
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "name": "楚梅布",
+      "name_en": "Tsumeb",
+      "province": "奥希科托区",
+      "latitude": -19.2484,
+      "longitude": 17.7135,
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "name": "戈巴比斯",
+      "name_en": "Gobabis",
+      "province": "奥马海凯区",
+      "latitude": -22.4534,
+      "longitude": 18.9716,
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "name": "",
+      "name_en": "Katutura",
+      "province": "霍马斯区",
+      "latitude": -22.5231,
+      "longitude": 17.0603,
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "name": "",
+      "name_en": "Ndiyona",
+      "province": "东卡万戈区",
+      "latitude": -18.0389,
+      "longitude": 20.7006,
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "name": "吕德里茨",
+      "name_en": "Lüderitz",
+      "province": "卡拉斯区",
+      "latitude": -26.6481,
+      "longitude": 15.1538,
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "name": "马林塔尔",
+      "name_en": "Mariental",
+      "province": "哈达普区",
+      "latitude": -24.6271,
+      "longitude": 17.9647,
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "name": "霍里克萨斯",
+      "name_en": "Khorixas",
+      "province": "库内内区",
+      "latitude": -20.3771,
+      "longitude": 14.962,
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "name": "",
+      "name_en": "Omaruru",
+      "province": "埃龙戈区",
+      "latitude": -21.424,
+      "longitude": 15.9461,
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "name": "",
+      "name_en": "Bethanie",
+      "province": "卡拉斯区",
+      "latitude": -26.4996,
+      "longitude": 17.1599,
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "name": "",
+      "name_en": "Outjo",
+      "province": "库内内区",
+      "latitude": -20.1069,
+      "longitude": 16.1542,
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "name": "",
+      "name_en": "Usakos",
+      "province": "埃龙戈区",
+      "latitude": -22.0022,
+      "longitude": 15.586,
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "name": "",
+      "name_en": "Opuwo",
+      "province": "库内内区",
+      "latitude": -18.0607,
+      "longitude": 13.84,
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "name": "",
+      "name_en": "Oranjemund",
+      "province": "卡拉斯区",
+      "latitude": -28.5515,
+      "longitude": 16.4273,
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "name": "奥钦宾圭",
+      "name_en": "Otjimbingwe",
+      "province": "埃龙戈区",
+      "latitude": -22.3554,
+      "longitude": 16.1288,
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "name": "",
+      "name_en": "Outapi",
+      "province": "奥穆萨蒂区",
+      "latitude": -17.5038,
+      "longitude": 14.9838,
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "name": "",
+      "name_en": "Okahao",
+      "province": "奥穆萨蒂区",
+      "latitude": -17.8876,
+      "longitude": 15.0668,
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "name": "",
+      "name_en": "Karibib",
+      "province": "埃龙戈区",
+      "latitude": -21.9355,
+      "longitude": 15.8565,
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "name": "",
+      "name_en": "Warmbad",
+      "province": "卡拉斯区",
+      "latitude": -28.4461,
+      "longitude": 18.7357,
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "name": "",
+      "name_en": "Eenhana",
+      "province": "奥汉圭纳区",
+      "latitude": -17.4854,
+      "longitude": 16.3294,
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "name": "",
+      "name_en": "Rosh Pinah",
+      "province": "卡拉斯区",
+      "latitude": -27.966,
+      "longitude": 16.7614,
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "name": "",
+      "name_en": "Otavi",
+      "province": "奥乔宗朱帕区",
+      "latitude": -19.638,
+      "longitude": 17.3399,
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "name": "",
+      "name_en": "Arandis",
+      "province": "埃龙戈区",
+      "latitude": -22.4175,
+      "longitude": 14.9739,
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "name": "卡拉斯堡",
+      "name_en": "Karasburg",
+      "province": "卡拉斯区",
+      "latitude": -28.0166,
+      "longitude": 18.748,
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "name": "",
+      "name_en": "Osire",
+      "province": "奥乔宗朱帕区",
+      "latitude": -21.0739,
+      "longitude": 17.366,
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "name": "",
+      "name_en": "Ondangwa East",
+      "province": "奥希科托区",
+      "latitude": -17.9302,
+      "longitude": 16.0172,
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "name": "",
+      "name_en": "Henties Bay",
+      "province": "埃龙戈区",
+      "latitude": -22.1161,
+      "longitude": 14.2839,
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "name": "",
+      "name_en": "Okakarara",
+      "province": "奥乔宗朱帕区",
+      "latitude": -20.5876,
+      "longitude": 17.4594,
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "name": "",
+      "name_en": "Aussenkehr",
+      "province": "卡拉斯区",
+      "latitude": -28.3627,
+      "longitude": 17.4127,
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "name": "",
+      "name_en": "Omuthiya",
+      "province": "奥希科托区",
+      "latitude": -18.3646,
+      "longitude": 16.5815,
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "name": "",
+      "name_en": "Nkurenkuru",
+      "province": "西卡万戈区",
+      "latitude": -17.6418,
+      "longitude": 18.6197,
+      "timezone": "Africa/Windhoek"
+    }
+  ]
+}

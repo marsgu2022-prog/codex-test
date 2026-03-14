@@ -1,0 +1,110 @@
+{
+  "country_code": "GQ",
+  "country_name": "赤道几内亚",
+  "cities": [
+    {
+      "name": "巴塔",
+      "name_en": "Bata",
+      "province": "Litoral",
+      "latitude": 1.8639,
+      "longitude": 9.7658,
+      "timezone": "Africa/Malabo"
+    },
+    {
+      "name": "马拉博",
+      "name_en": "Malabo",
+      "province": "Bioko Norte",
+      "latitude": 3.7558,
+      "longitude": 8.7817,
+      "timezone": "Africa/Malabo"
+    },
+    {
+      "name": "埃贝比因",
+      "name_en": "Ebebiyin",
+      "province": "Kié-Ntem",
+      "latitude": 2.1522,
+      "longitude": 11.3301,
+      "timezone": "Africa/Malabo"
+    },
+    {
+      "name": "",
+      "name_en": "Aconibe",
+      "province": "Wele-Nzas",
+      "latitude": 1.2968,
+      "longitude": 10.9369,
+      "timezone": "Africa/Malabo"
+    },
+    {
+      "name": "阿尼索克",
+      "name_en": "Añisoc",
+      "province": "Wele-Nzas",
+      "latitude": 1.8658,
+      "longitude": 10.7689,
+      "timezone": "Africa/Malabo"
+    },
+    {
+      "name": "卢巴",
+      "name_en": "Luba",
+      "province": "Bioko Sur",
+      "latitude": 3.4568,
+      "longitude": 8.5547,
+      "timezone": "Africa/Malabo"
+    },
+    {
+      "name": "",
+      "name_en": "Evinayong",
+      "province": "Centro Sur",
+      "latitude": 1.4368,
+      "longitude": 10.5512,
+      "timezone": "Africa/Malabo"
+    },
+    {
+      "name": "",
+      "name_en": "Mongomo",
+      "province": "Wele-Nzas",
+      "latitude": 1.6274,
+      "longitude": 11.3135,
+      "timezone": "Africa/Malabo"
+    },
+    {
+      "name": "",
+      "name_en": "Aual",
+      "province": "Annobon",
+      "latitude": -1.4456,
+      "longitude": 5.6272,
+      "timezone": "Africa/Malabo"
+    },
+    {
+      "name": "",
+      "name_en": "Mikomeseng",
+      "province": "Kié-Ntem",
+      "latitude": 2.1361,
+      "longitude": 10.6132,
+      "timezone": "Africa/Malabo"
+    },
+    {
+      "name": "",
+      "name_en": "Rebola",
+      "province": "Bioko Norte",
+      "latitude": 3.7167,
+      "longitude": 8.8333,
+      "timezone": "Africa/Malabo"
+    },
+    {
+      "name": "",
+      "name_en": "San Antonio de Palé",
+      "province": "Annobon",
+      "latitude": -1.4068,
+      "longitude": 5.632,
+      "timezone": "Africa/Malabo"
+    },
+    {
+      "name": "拉巴斯城",
+      "name_en": "Ciudad de la Paz",
+      "province": "Djibloho",
+      "latitude": 1.5925,
+      "longitude": 10.8236,
+      "timezone": "Africa/Malabo"
+    }
+  ]
+}

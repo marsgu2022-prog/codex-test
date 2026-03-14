@@ -1,0 +1,54 @@
+{
+  "country_code": "TV",
+  "country_name": "图瓦卢",
+  "cities": [
+    {
+      "name": "",
+      "name_en": "Funafuti",
+      "province": "Funafuti",
+      "latitude": -8.5243,
+      "longitude": 179.1942,
+      "timezone": "Pacific/Funafuti"
+    },
+    {
+      "name": "",
+      "name_en": "Savave Village",
+      "province": "努库费陶环礁",
+      "latitude": -8.0273,
+      "longitude": 178.3135,
+      "timezone": "Pacific/Funafuti"
+    },
+    {
+      "name": "",
+      "name_en": "Tanrake Village",
+      "province": "努伊环礁",
+      "latitude": -7.2456,
+      "longitude": 177.1451,
+      "timezone": "Pacific/Funafuti"
+    },
+    {
+      "name": "",
+      "name_en": "Toga Village",
+      "province": "纳努芒阿岛",
+      "latitude": -6.2876,
+      "longitude": 176.3147,
+      "timezone": "Pacific/Funafuti"
+    },
+    {
+      "name": "",
+      "name_en": "Asau Village",
+      "province": "瓦伊图普",
+      "latitude": -7.4903,
+      "longitude": 178.6802,
+      "timezone": "Pacific/Funafuti"
+    },
+    {
+      "name": "",
+      "name_en": "Kulia Village",
+      "province": "Niutao",
+      "latitude": -6.1082,
+      "longitude": 177.3339,
+      "timezone": "Pacific/Funafuti"
+    }
+  ]
+}

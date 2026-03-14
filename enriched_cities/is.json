@@ -1,0 +1,118 @@
+{
+  "country_code": "IS",
+  "country_name": "冰岛",
+  "cities": [
+    {
+      "name": "雷克亚维克",
+      "name_en": "Reykjavík",
+      "province": "首都区",
+      "latitude": 64.1355,
+      "longitude": -21.8954,
+      "timezone": "Atlantic/Reykjavik"
+    },
+    {
+      "name": "科帕沃于尔",
+      "name_en": "Kópavogur",
+      "province": "首都区",
+      "latitude": 64.1123,
+      "longitude": -21.913,
+      "timezone": "Atlantic/Reykjavik"
+    },
+    {
+      "name": "哈夫纳夫约杜尔",
+      "name_en": "Hafnarfjörður",
+      "province": "首都区",
+      "latitude": 64.0671,
+      "longitude": -21.9377,
+      "timezone": "Atlantic/Reykjavik"
+    },
+    {
+      "name": "",
+      "name_en": "Reykjanesbær",
+      "province": "Southern Peninsula",
+      "latitude": 63.9981,
+      "longitude": -22.5611,
+      "timezone": "Atlantic/Reykjavik"
+    },
+    {
+      "name": "阿克雷里",
+      "name_en": "Akureyri",
+      "province": "Northeast",
+      "latitude": 65.6835,
+      "longitude": -18.0878,
+      "timezone": "Atlantic/Reykjavik"
+    },
+    {
+      "name": "凯夫拉维克",
+      "name_en": "Keflavík",
+      "province": "Southern Peninsula",
+      "latitude": 64.0049,
+      "longitude": -22.5624,
+      "timezone": "Atlantic/Reykjavik"
+    },
+    {
+      "name": "莫斯费德斯拜尔",
+      "name_en": "Mosfellsbær",
+      "province": "首都区",
+      "latitude": 64.1667,
+      "longitude": -21.7,
+      "timezone": "Atlantic/Reykjavik"
+    },
+    {
+      "name": "加尔扎拜尔",
+      "name_en": "Garðabær",
+      "province": "首都区",
+      "latitude": 64.0887,
+      "longitude": -21.923,
+      "timezone": "Atlantic/Reykjavik"
+    },
+    {
+      "name": "塞尔福斯",
+      "name_en": "Selfoss",
+      "province": "South",
+      "latitude": 63.9331,
+      "longitude": -20.9971,
+      "timezone": "Atlantic/Reykjavik"
+    },
+    {
+      "name": "阿克拉内斯",
+      "name_en": "Akranes",
+      "province": "West",
+      "latitude": 64.3218,
+      "longitude": -22.0749,
+      "timezone": "Atlantic/Reykjavik"
+    },
+    {
+      "name": "伊萨菲厄泽",
+      "name_en": "Ísafjörður",
+      "province": "西峡湾区",
+      "latitude": 66.0747,
+      "longitude": -23.135,
+      "timezone": "Atlantic/Reykjavik"
+    },
+    {
+      "name": "",
+      "name_en": "Sauðárkrókur",
+      "province": "Northwest",
+      "latitude": 65.7461,
+      "longitude": -19.6394,
+      "timezone": "Atlantic/Reykjavik"
+    },
+    {
+      "name": "",
+      "name_en": "Egilsstaðir",
+      "province": "East",
+      "latitude": 65.2669,
+      "longitude": -14.3948,
+      "timezone": "Atlantic/Reykjavik"
+    },
+    {
+      "name": "博尔加内斯",
+      "name_en": "Borgarnes",
+      "province": "West",
+      "latitude": 64.5383,
+      "longitude": -21.9206,
+      "timezone": "Atlantic/Reykjavik"
+    }
+  ]
+}

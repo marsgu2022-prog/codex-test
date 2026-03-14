@@ -1,0 +1,94 @@
+{
+  "country_code": "GG",
+  "country_name": "根西岛",
+  "cities": [
+    {
+      "name": "圣彼得港",
+      "name_en": "Saint Peter Port",
+      "province": "St Peter Port",
+      "latitude": 49.4598,
+      "longitude": -2.5353,
+      "timezone": "Europe/Guernsey"
+    },
+    {
+      "name": "",
+      "name_en": "Vale Parish",
+      "province": "",
+      "latitude": 49.4944,
+      "longitude": -2.5179,
+      "timezone": "Europe/Guernsey"
+    },
+    {
+      "name": "",
+      "name_en": "Saint Sampson",
+      "province": "St Sampson",
+      "latitude": 49.4839,
+      "longitude": -2.5233,
+      "timezone": "Europe/Guernsey"
+    },
+    {
+      "name": "",
+      "name_en": "Saint Pierre du Bois Parish",
+      "province": "",
+      "latitude": 49.454,
+      "longitude": -2.6381,
+      "timezone": "Europe/Guernsey"
+    },
+    {
+      "name": "",
+      "name_en": "Forest Parish",
+      "province": "Forest",
+      "latitude": 49.4298,
+      "longitude": -2.6017,
+      "timezone": "Europe/Guernsey"
+    },
+    {
+      "name": "",
+      "name_en": "Castel",
+      "province": "Castel",
+      "latitude": 49.4676,
+      "longitude": -2.6002,
+      "timezone": "Europe/Guernsey"
+    },
+    {
+      "name": "",
+      "name_en": "Saint Andrew",
+      "province": "Saint Andrew",
+      "latitude": 49.4439,
+      "longitude": -2.5802,
+      "timezone": "Europe/Guernsey"
+    },
+    {
+      "name": "",
+      "name_en": "Saint Saviour",
+      "province": "Saint Saviour",
+      "latitude": 49.4569,
+      "longitude": -2.6358,
+      "timezone": "Europe/Guernsey"
+    },
+    {
+      "name": "",
+      "name_en": "St Anne",
+      "province": "Alderney",
+      "latitude": 49.7155,
+      "longitude": -2.2076,
+      "timezone": "Europe/Guernsey"
+    },
+    {
+      "name": "",
+      "name_en": "St Martin",
+      "province": "St Martin",
+      "latitude": 49.4371,
+      "longitude": -2.5548,
+      "timezone": "Europe/Guernsey"
+    },
+    {
+      "name": "",
+      "name_en": "Torteval",
+      "province": "Torteval",
+      "latitude": 49.4333,
+      "longitude": -2.65,
+      "timezone": "Europe/Guernsey"
+    }
+  ]
+}

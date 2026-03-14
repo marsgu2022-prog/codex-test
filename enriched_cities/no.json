@@ -1,0 +1,926 @@
+{
+  "country_code": "NO",
+  "country_name": "挪威",
+  "cities": [
+    {
+      "name": "奥斯陆",
+      "name_en": "Oslo",
+      "province": "Oslo",
+      "latitude": 59.9127,
+      "longitude": 10.7461,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "卑尔根",
+      "name_en": "Bergen",
+      "province": "韦斯特兰郡",
+      "latitude": 60.393,
+      "longitude": 5.3242,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "特隆赫姆",
+      "name_en": "Trondheim",
+      "province": "特伦德拉格",
+      "latitude": 63.4305,
+      "longitude": 10.3951,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Stavanger",
+      "province": "罗加兰郡",
+      "latitude": 58.9701,
+      "longitude": 5.7333,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "克里斯蒂安桑",
+      "name_en": "Kristiansand",
+      "province": "阿格德尔",
+      "latitude": 58.1467,
+      "longitude": 7.9956,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "德拉门",
+      "name_en": "Drammen",
+      "province": "Buskerud",
+      "latitude": 59.7439,
+      "longitude": 10.2045,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "利勒斯特罗姆",
+      "name_en": "Lillestrøm",
+      "province": "阿克什胡斯郡",
+      "latitude": 59.956,
+      "longitude": 11.0492,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Sandnes",
+      "province": "罗加兰郡",
+      "latitude": 58.8524,
+      "longitude": 5.7352,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Fredrikstad",
+      "province": "东福尔郡",
+      "latitude": 59.2181,
+      "longitude": 10.9298,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "桑德尔福德",
+      "name_en": "Sandefjord",
+      "province": "西福尔郡",
+      "latitude": 59.1312,
+      "longitude": 10.2166,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "阿斯克尔",
+      "name_en": "Asker",
+      "province": "阿克什胡斯郡",
+      "latitude": 59.8333,
+      "longitude": 10.4372,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "萨尔普斯堡",
+      "name_en": "Sarpsborg",
+      "province": "东福尔郡",
+      "latitude": 59.2839,
+      "longitude": 11.1096,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "滕斯贝格",
+      "name_en": "Tønsberg",
+      "province": "西福尔郡",
+      "latitude": 59.2675,
+      "longitude": 10.4076,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "奥勒松",
+      "name_en": "Ålesund",
+      "province": "Møre og Romsdal",
+      "latitude": 62.4723,
+      "longitude": 6.1549,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "希恩",
+      "name_en": "Skien",
+      "province": "泰勒马克郡",
+      "latitude": 59.2096,
+      "longitude": 9.609,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "莫斯",
+      "name_en": "Moss",
+      "province": "东福尔郡",
+      "latitude": 59.434,
+      "longitude": 10.6577,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "特罗姆瑟",
+      "name_en": "Tromsø",
+      "province": "特罗姆斯郡",
+      "latitude": 69.6489,
+      "longitude": 18.9551,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "海于格松",
+      "name_en": "Haugesund",
+      "province": "罗加兰郡",
+      "latitude": 59.4138,
+      "longitude": 5.268,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "奈斯顿站",
+      "name_en": "Nesttun",
+      "province": "韦斯特兰郡",
+      "latitude": 60.3182,
+      "longitude": 5.3532,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "波什格伦",
+      "name_en": "Porsgrunn",
+      "province": "泰勒马克郡",
+      "latitude": 59.1405,
+      "longitude": 9.6561,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "博德",
+      "name_en": "Bodø",
+      "province": "诺尔兰郡",
+      "latitude": 67.2827,
+      "longitude": 14.3751,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "阿伦达尔",
+      "name_en": "Arendal",
+      "province": "阿格德尔",
+      "latitude": 58.4615,
+      "longitude": 8.7725,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "哈马尔",
+      "name_en": "Hamar",
+      "province": "内陆郡",
+      "latitude": 60.7945,
+      "longitude": 11.068,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "利勒哈默尔",
+      "name_en": "Lillehammer",
+      "province": "内陆郡",
+      "latitude": 61.1151,
+      "longitude": 10.4663,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "霍尔滕",
+      "name_en": "Horten",
+      "province": "西福尔郡",
+      "latitude": 59.4172,
+      "longitude": 10.4834,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Ytrebygda",
+      "province": "韦斯特兰郡",
+      "latitude": 60.305,
+      "longitude": 5.2824,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "格里姆斯塔",
+      "name_en": "Grimstad",
+      "province": "阿格德尔",
+      "latitude": 58.3405,
+      "longitude": 8.5934,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Kristiansund",
+      "province": "Møre og Romsdal",
+      "latitude": 63.1105,
+      "longitude": 7.7279,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "拉尔维克",
+      "name_en": "Larvik",
+      "province": "西福尔郡",
+      "latitude": 59.0533,
+      "longitude": 10.0352,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "莫尔德",
+      "name_en": "Molde",
+      "province": "Møre og Romsdal",
+      "latitude": 62.7375,
+      "longitude": 7.1591,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Halden",
+      "province": "东福尔郡",
+      "latitude": 59.1248,
+      "longitude": 11.3875,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Harstad",
+      "province": "特罗姆斯郡",
+      "latitude": 68.7983,
+      "longitude": 16.5417,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "莱旺厄尔",
+      "name_en": "Levanger",
+      "province": "特伦德拉格",
+      "latitude": 63.7464,
+      "longitude": 11.2996,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "蒂默",
+      "name_en": "Time",
+      "province": "罗加兰郡",
+      "latitude": 58.7333,
+      "longitude": 5.7,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "摩城",
+      "name_en": "Mo i Rana",
+      "province": "诺尔兰郡",
+      "latitude": 66.3128,
+      "longitude": 14.1428,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Tromsdalen",
+      "province": "特罗姆斯郡",
+      "latitude": 69.65,
+      "longitude": 19.0167,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Kongsberg",
+      "province": "Buskerud",
+      "latitude": 59.6686,
+      "longitude": 9.6502,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "约维克",
+      "name_en": "Gjøvik",
+      "province": "内陆郡",
+      "latitude": 60.7957,
+      "longitude": 10.6915,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Stjørdalshalsen",
+      "province": "特伦德拉格",
+      "latitude": 63.4681,
+      "longitude": 10.9262,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "阿尔塔",
+      "name_en": "Alta",
+      "province": "芬马克郡",
+      "latitude": 69.9689,
+      "longitude": 23.2717,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "纳尔维克",
+      "name_en": "Narvik",
+      "province": "诺尔兰郡",
+      "latitude": 68.4384,
+      "longitude": 17.4272,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Leirvik",
+      "province": "韦斯特兰郡",
+      "latitude": 59.7798,
+      "longitude": 5.5005,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "赫讷福斯",
+      "name_en": "Hønefoss",
+      "province": "Buskerud",
+      "latitude": 60.168,
+      "longitude": 10.2565,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "斯特兰",
+      "name_en": "Strand",
+      "province": "罗加兰郡",
+      "latitude": 59.05,
+      "longitude": 5.9333,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Steinkjer",
+      "province": "特伦德拉格",
+      "latitude": 64.0149,
+      "longitude": 11.4954,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Stjørdal",
+      "province": "特伦德拉格",
+      "latitude": 63.468,
+      "longitude": 10.9178,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Vennesla",
+      "province": "阿格德尔",
+      "latitude": 58.2686,
+      "longitude": 7.9731,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "希",
+      "name_en": "Ski",
+      "province": "阿克什胡斯郡",
+      "latitude": 59.7195,
+      "longitude": 10.8358,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "埃尔沃吕姆",
+      "name_en": "Elverum",
+      "province": "内陆郡",
+      "latitude": 60.8819,
+      "longitude": 11.5623,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "阿希姆",
+      "name_en": "Askim",
+      "province": "东福尔郡",
+      "latitude": 59.5833,
+      "longitude": 11.1629,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Bryne",
+      "province": "罗加兰郡",
+      "latitude": 58.7354,
+      "longitude": 5.6477,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Jessheim",
+      "province": "阿克什胡斯郡",
+      "latitude": 60.1415,
+      "longitude": 11.1752,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Notodden",
+      "province": "泰勒马克郡",
+      "latitude": 59.5594,
+      "longitude": 9.2585,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "孔斯温厄尔",
+      "name_en": "Kongsvinger",
+      "province": "内陆郡",
+      "latitude": 60.1905,
+      "longitude": 11.9977,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Lenvik",
+      "province": "特罗姆斯郡",
+      "latitude": 69.4432,
+      "longitude": 18.1564,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Stokke",
+      "province": "西福尔郡",
+      "latitude": 59.2225,
+      "longitude": 10.3005,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "科珀维克",
+      "name_en": "Kopervik",
+      "province": "罗加兰郡",
+      "latitude": 59.2835,
+      "longitude": 5.3067,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "亨墨菲斯",
+      "name_en": "Hammerfest",
+      "province": "芬马克郡",
+      "latitude": 70.6631,
+      "longitude": 23.6809,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "埃格尔松",
+      "name_en": "Egersund",
+      "province": "罗加兰郡",
+      "latitude": 58.4513,
+      "longitude": 5.9997,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "斯托勒曼",
+      "name_en": "Strømmen",
+      "province": "阿克什胡斯郡",
+      "latitude": 59.9506,
+      "longitude": 11.0101,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "德勒巴克",
+      "name_en": "Drøbak",
+      "province": "阿克什胡斯郡",
+      "latitude": 59.6624,
+      "longitude": 10.628,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "曼达尔",
+      "name_en": "Mandal",
+      "province": "阿格德尔",
+      "latitude": 58.0274,
+      "longitude": 7.4534,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Brumunddal",
+      "province": "内陆郡",
+      "latitude": 60.8809,
+      "longitude": 10.9395,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Nesoddtangen",
+      "province": "阿克什胡斯郡",
+      "latitude": 59.8624,
+      "longitude": 10.6631,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "沃尔达",
+      "name_en": "Volda",
+      "province": "Møre og Romsdal",
+      "latitude": 62.146,
+      "longitude": 6.0711,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "苏特兰",
+      "name_en": "Sortland",
+      "province": "诺尔兰郡",
+      "latitude": 68.6957,
+      "longitude": 15.405,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Førde",
+      "province": "韦斯特兰郡",
+      "latitude": 61.4522,
+      "longitude": 5.8572,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Ensjø",
+      "province": "Oslo",
+      "latitude": 59.9143,
+      "longitude": 10.7875,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "莫舍恩",
+      "name_en": "Mosjøen",
+      "province": "诺尔兰郡",
+      "latitude": 65.836,
+      "longitude": 13.1908,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "哈拉姆",
+      "name_en": "Haram",
+      "province": "Møre og Romsdal",
+      "latitude": 62.6578,
+      "longitude": 6.2409,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "弗莱克菲尤尔",
+      "name_en": "Flekkefjord",
+      "province": "阿格德尔",
+      "latitude": 58.297,
+      "longitude": 6.6607,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "弗卢勒",
+      "name_en": "Florø",
+      "province": "韦斯特兰郡",
+      "latitude": 61.5996,
+      "longitude": 5.0328,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Søgne",
+      "province": "阿格德尔",
+      "latitude": 58.0933,
+      "longitude": 7.7829,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Råholt",
+      "province": "阿克什胡斯郡",
+      "latitude": 60.2751,
+      "longitude": 11.179,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "纳姆索斯",
+      "name_en": "Namsos",
+      "province": "特伦德拉格",
+      "latitude": 64.4662,
+      "longitude": 11.4957,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Verdal",
+      "province": "特伦德拉格",
+      "latitude": 63.7933,
+      "longitude": 11.4817,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Orkanger",
+      "province": "特伦德拉格",
+      "latitude": 63.3067,
+      "longitude": 9.8503,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Lillesand",
+      "province": "阿格德尔",
+      "latitude": 58.2488,
+      "longitude": 8.3778,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Ås",
+      "province": "阿克什胡斯郡",
+      "latitude": 59.6647,
+      "longitude": 10.7947,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Sæveland",
+      "province": "罗加兰郡",
+      "latitude": 59.2667,
+      "longitude": 5.2,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Raufoss",
+      "province": "内陆郡",
+      "latitude": 60.726,
+      "longitude": 10.6133,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Nærbø",
+      "province": "罗加兰郡",
+      "latitude": 58.6655,
+      "longitude": 5.6379,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Jørpeland",
+      "province": "罗加兰郡",
+      "latitude": 59.0225,
+      "longitude": 6.0408,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "斯特林",
+      "name_en": "Stryn",
+      "province": "韦斯特兰郡",
+      "latitude": 61.9026,
+      "longitude": 6.7179,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Ask",
+      "province": "阿克什胡斯郡",
+      "latitude": 60.0713,
+      "longitude": 11.0362,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Indre Arna",
+      "province": "韦斯特兰郡",
+      "latitude": 60.4177,
+      "longitude": 5.4709,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Fetsund",
+      "province": "阿克什胡斯郡",
+      "latitude": 59.9246,
+      "longitude": 11.1571,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Malvik",
+      "province": "特伦德拉格",
+      "latitude": 63.4333,
+      "longitude": 10.6833,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Melhus",
+      "province": "特伦德拉格",
+      "latitude": 63.2856,
+      "longitude": 10.2781,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Tananger",
+      "province": "罗加兰郡",
+      "latitude": 58.9362,
+      "longitude": 5.5741,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "厄什塔",
+      "name_en": "Ørsta",
+      "province": "Møre og Romsdal",
+      "latitude": 62.1998,
+      "longitude": 6.129,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Holmestrand",
+      "province": "西福尔郡",
+      "latitude": 59.4876,
+      "longitude": 10.3176,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "特韦德斯特兰",
+      "name_en": "Tvedestrand",
+      "province": "阿格德尔",
+      "latitude": 58.622,
+      "longitude": 8.9315,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Kvinesdal",
+      "province": "阿格德尔",
+      "latitude": 58.3122,
+      "longitude": 6.9619,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Fauske",
+      "province": "诺尔兰郡",
+      "latitude": 67.2588,
+      "longitude": 15.3918,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "克勒夫塔",
+      "name_en": "Kløfta",
+      "province": "阿克什胡斯郡",
+      "latitude": 60.0741,
+      "longitude": 11.138,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Stavern",
+      "province": "西福尔郡",
+      "latitude": 59.0,
+      "longitude": 10.0333,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Sørumsand",
+      "province": "阿克什胡斯郡",
+      "latitude": 59.9862,
+      "longitude": 11.2415,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Knarvik",
+      "province": "韦斯特兰郡",
+      "latitude": 60.5453,
+      "longitude": 5.2821,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "于尔斯泰因维克",
+      "name_en": "Ulsteinvik",
+      "province": "Møre og Romsdal",
+      "latitude": 62.3432,
+      "longitude": 5.8487,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Sandnessjøen",
+      "province": "诺尔兰郡",
+      "latitude": 66.0217,
+      "longitude": 12.6316,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Hommersåk",
+      "province": "罗加兰郡",
+      "latitude": 58.9256,
+      "longitude": 5.851,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "勒罗斯",
+      "name_en": "Røros",
+      "province": "特伦德拉格",
+      "latitude": 62.5747,
+      "longitude": 11.3842,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "沃斯",
+      "name_en": "Voss",
+      "province": "韦斯特兰郡",
+      "latitude": 60.6287,
+      "longitude": 6.4147,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Mysen",
+      "province": "东福尔郡",
+      "latitude": 59.5535,
+      "longitude": 11.3258,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Hommelvik",
+      "province": "特伦德拉格",
+      "latitude": 63.4108,
+      "longitude": 10.7942,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "韦斯特比",
+      "name_en": "Vestby",
+      "province": "阿克什胡斯郡",
+      "latitude": 59.6051,
+      "longitude": 10.7523,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Tranby",
+      "province": "Buskerud",
+      "latitude": 59.8085,
+      "longitude": 10.2611,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "吕斯特",
+      "name_en": "Luster",
+      "province": "韦斯特兰郡",
+      "latitude": 61.4432,
+      "longitude": 7.4599,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "艾于斯特沃尔",
+      "name_en": "Austevoll",
+      "province": "韦斯特兰郡",
+      "latitude": 60.1095,
+      "longitude": 5.1625,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "克拉格勒",
+      "name_en": "Kragerø",
+      "province": "泰勒马克郡",
+      "latitude": 58.8693,
+      "longitude": 9.4149,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "布伦尼",
+      "name_en": "Brønnøysund",
+      "province": "诺尔兰郡",
+      "latitude": 65.4749,
+      "longitude": 12.2128,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Åkrehamn",
+      "province": "罗加兰郡",
+      "latitude": 59.2605,
+      "longitude": 5.1869,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Vadsø",
+      "province": "芬马克郡",
+      "latitude": 70.0735,
+      "longitude": 29.7494,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "name": "",
+      "name_en": "Hermansverk",
+      "province": "韦斯特兰郡",
+      "latitude": 61.1846,
+      "longitude": 6.8502,
+      "timezone": "Europe/Oslo"
+    }
+  ]
+}

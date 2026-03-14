@@ -1,0 +1,14 @@
+{
+  "country_code": "NF",
+  "country_name": "诺福克岛",
+  "cities": [
+    {
+      "name": "金斯敦",
+      "name_en": "Kingston",
+      "province": "",
+      "latitude": -29.0546,
+      "longitude": 167.9663,
+      "timezone": "Pacific/Norfolk"
+    }
+  ]
+}

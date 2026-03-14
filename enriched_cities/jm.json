@@ -1,0 +1,318 @@
+{
+  "country_code": "JM",
+  "country_name": "牙买加",
+  "cities": [
+    {
+      "name": "京斯敦",
+      "name_en": "Kingston",
+      "province": "金斯敦区",
+      "latitude": 17.997,
+      "longitude": -76.7936,
+      "timezone": "America/Jamaica"
+    },
+    {
+      "name": "",
+      "name_en": "New Kingston",
+      "province": "圣安德鲁区",
+      "latitude": 18.0075,
+      "longitude": -76.7832,
+      "timezone": "America/Jamaica"
+    },
+    {
+      "name": "西班牙镇",
+      "name_en": "Spanish Town",
+      "province": "圣凯瑟琳区",
+      "latitude": 17.9911,
+      "longitude": -76.9574,
+      "timezone": "America/Jamaica"
+    },
+    {
+      "name": "",
+      "name_en": "Portmore",
+      "province": "圣凯瑟琳区",
+      "latitude": 17.971,
+      "longitude": -76.8869,
+      "timezone": "America/Jamaica"
+    },
+    {
+      "name": "蒙特哥贝",
+      "name_en": "Montego Bay",
+      "province": "圣詹姆斯区",
+      "latitude": 18.4712,
+      "longitude": -77.9188,
+      "timezone": "America/Jamaica"
+    },
+    {
+      "name": "",
+      "name_en": "Mandeville",
+      "province": "曼彻斯特区",
+      "latitude": 18.0417,
+      "longitude": -77.5071,
+      "timezone": "America/Jamaica"
+    },
+    {
+      "name": "",
+      "name_en": "May Pen",
+      "province": "克拉伦登区",
+      "latitude": 17.9645,
+      "longitude": -77.2451,
+      "timezone": "America/Jamaica"
+    },
+    {
+      "name": "",
+      "name_en": "Old Harbour",
+      "province": "圣凯瑟琳区",
+      "latitude": 17.9414,
+      "longitude": -77.109,
+      "timezone": "America/Jamaica"
+    },
+    {
+      "name": "",
+      "name_en": "Linstead",
+      "province": "圣凯瑟琳区",
+      "latitude": 18.1368,
+      "longitude": -77.0317,
+      "timezone": "America/Jamaica"
+    },
+    {
+      "name": "",
+      "name_en": "Half Way Tree",
+      "province": "圣安德鲁区",
+      "latitude": 18.0125,
+      "longitude": -76.7993,
+      "timezone": "America/Jamaica"
+    },
+    {
+      "name": "",
+      "name_en": "Savanna-la-Mar",
+      "province": "西摩兰区",
+      "latitude": 18.2189,
+      "longitude": -78.1332,
+      "timezone": "America/Jamaica"
+    },
+    {
+      "name": "安东尼奥港",
+      "name_en": "Port Antonio",
+      "province": "波特兰区",
+      "latitude": 18.1789,
+      "longitude": -76.4522,
+      "timezone": "America/Jamaica"
+    },
+    {
+      "name": "",
+      "name_en": "Saint Ann’s Bay",
+      "province": "圣安娜区",
+      "latitude": 18.4358,
+      "longitude": -77.201,
+      "timezone": "America/Jamaica"
+    },
+    {
+      "name": "",
+      "name_en": "Bog Walk",
+      "province": "圣凯瑟琳区",
+      "latitude": 18.102,
+      "longitude": -77.0054,
+      "timezone": "America/Jamaica"
+    },
+    {
+      "name": "",
+      "name_en": "Constant Spring",
+      "province": "圣安德鲁区",
+      "latitude": 18.0508,
+      "longitude": -76.7937,
+      "timezone": "America/Jamaica"
+    },
+    {
+      "name": "",
+      "name_en": "Ewarton",
+      "province": "圣凯瑟琳区",
+      "latitude": 18.1833,
+      "longitude": -77.0854,
+      "timezone": "America/Jamaica"
+    },
+    {
+      "name": "",
+      "name_en": "Tower Hill",
+      "province": "圣安德鲁区",
+      "latitude": 18.0128,
+      "longitude": -76.651,
+      "timezone": "America/Jamaica"
+    },
+    {
+      "name": "",
+      "name_en": "Torrington Park",
+      "province": "圣安德鲁区",
+      "latitude": 17.9888,
+      "longitude": -76.7943,
+      "timezone": "America/Jamaica"
+    },
+    {
+      "name": "",
+      "name_en": "Penwood",
+      "province": "圣安德鲁区",
+      "latitude": 18.0098,
+      "longitude": -76.8335,
+      "timezone": "America/Jamaica"
+    },
+    {
+      "name": "",
+      "name_en": "Barbican",
+      "province": "汉诺威区",
+      "latitude": 18.4504,
+      "longitude": -78.1014,
+      "timezone": "America/Jamaica"
+    },
+    {
+      "name": "",
+      "name_en": "Mountain View Gardens",
+      "province": "圣安德鲁区",
+      "latitude": 17.9856,
+      "longitude": -76.7671,
+      "timezone": "America/Jamaica"
+    },
+    {
+      "name": "海斯",
+      "name_en": "Hayes",
+      "province": "克拉伦登区",
+      "latitude": 17.8757,
+      "longitude": -77.2371,
+      "timezone": "America/Jamaica"
+    },
+    {
+      "name": "欧丘里欧",
+      "name_en": "Ocho Rios",
+      "province": "圣安娜区",
+      "latitude": 18.4076,
+      "longitude": -77.1031,
+      "timezone": "America/Jamaica"
+    },
+    {
+      "name": "",
+      "name_en": "Morant Bay",
+      "province": "圣托马斯区",
+      "latitude": 17.8815,
+      "longitude": -76.4093,
+      "timezone": "America/Jamaica"
+    },
+    {
+      "name": "",
+      "name_en": "Stony Hill",
+      "province": "圣安德鲁区",
+      "latitude": 18.0772,
+      "longitude": -76.79,
+      "timezone": "America/Jamaica"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Cruz",
+      "province": "圣伊丽莎白区",
+      "latitude": 18.0534,
+      "longitude": -77.6984,
+      "timezone": "America/Jamaica"
+    },
+    {
+      "name": "",
+      "name_en": "Old Harbour Bay",
+      "province": "圣凯瑟琳区",
+      "latitude": 17.9092,
+      "longitude": -77.0972,
+      "timezone": "America/Jamaica"
+    },
+    {
+      "name": "",
+      "name_en": "Port Maria",
+      "province": "圣玛丽区",
+      "latitude": 18.3685,
+      "longitude": -76.8895,
+      "timezone": "America/Jamaica"
+    },
+    {
+      "name": "",
+      "name_en": "Falmouth",
+      "province": "特里洛尼区",
+      "latitude": 18.4936,
+      "longitude": -77.6559,
+      "timezone": "America/Jamaica"
+    },
+    {
+      "name": "",
+      "name_en": "Yallahs",
+      "province": "圣托马斯区",
+      "latitude": 17.8748,
+      "longitude": -76.5624,
+      "timezone": "America/Jamaica"
+    },
+    {
+      "name": "",
+      "name_en": "Bull Savannah",
+      "province": "圣伊丽莎白区",
+      "latitude": 17.8868,
+      "longitude": -77.5902,
+      "timezone": "America/Jamaica"
+    },
+    {
+      "name": "",
+      "name_en": "Runaway Bay",
+      "province": "圣安娜区",
+      "latitude": 18.4596,
+      "longitude": -77.3357,
+      "timezone": "America/Jamaica"
+    },
+    {
+      "name": "",
+      "name_en": "Lucea",
+      "province": "汉诺威区",
+      "latitude": 18.4509,
+      "longitude": -78.1736,
+      "timezone": "America/Jamaica"
+    },
+    {
+      "name": "",
+      "name_en": "Porus",
+      "province": "曼彻斯特区",
+      "latitude": 18.0354,
+      "longitude": -77.4117,
+      "timezone": "America/Jamaica"
+    },
+    {
+      "name": "安诺托贝",
+      "name_en": "Annotto Bay",
+      "province": "圣玛丽区",
+      "latitude": 18.2717,
+      "longitude": -76.7652,
+      "timezone": "America/Jamaica"
+    },
+    {
+      "name": "",
+      "name_en": "Lionel Town",
+      "province": "克拉伦登区",
+      "latitude": 17.8101,
+      "longitude": -77.2406,
+      "timezone": "America/Jamaica"
+    },
+    {
+      "name": "",
+      "name_en": "Point Hill",
+      "province": "圣凯瑟琳区",
+      "latitude": 18.0899,
+      "longitude": -77.1076,
+      "timezone": "America/Jamaica"
+    },
+    {
+      "name": "",
+      "name_en": "Above Rocks",
+      "province": "圣凯瑟琳区",
+      "latitude": 18.1068,
+      "longitude": -76.8761,
+      "timezone": "America/Jamaica"
+    },
+    {
+      "name": "",
+      "name_en": "Black River",
+      "province": "圣伊丽莎白区",
+      "latitude": 18.0264,
+      "longitude": -77.8487,
+      "timezone": "America/Jamaica"
+    }
+  ]
+}

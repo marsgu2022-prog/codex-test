@@ -1,0 +1,94 @@
+{
+  "country_code": "LI",
+  "country_name": "列支敦士登",
+  "cities": [
+    {
+      "name": "",
+      "name_en": "Schaan",
+      "province": "沙恩",
+      "latitude": 47.165,
+      "longitude": 9.5087,
+      "timezone": "Europe/Vaduz"
+    },
+    {
+      "name": "",
+      "name_en": "Triesen",
+      "province": "特里森",
+      "latitude": 47.1075,
+      "longitude": 9.5282,
+      "timezone": "Europe/Vaduz"
+    },
+    {
+      "name": "瓦都兹",
+      "name_en": "Vaduz",
+      "province": "Vaduz",
+      "latitude": 47.1415,
+      "longitude": 9.5215,
+      "timezone": "Europe/Vaduz"
+    },
+    {
+      "name": "",
+      "name_en": "Balzers",
+      "province": "Balzers",
+      "latitude": 47.0666,
+      "longitude": 9.5036,
+      "timezone": "Europe/Vaduz"
+    },
+    {
+      "name": "",
+      "name_en": "Eschen",
+      "province": "埃申",
+      "latitude": 47.2107,
+      "longitude": 9.5222,
+      "timezone": "Europe/Vaduz"
+    },
+    {
+      "name": "",
+      "name_en": "Mauren",
+      "province": "毛伦",
+      "latitude": 47.218,
+      "longitude": 9.5442,
+      "timezone": "Europe/Vaduz"
+    },
+    {
+      "name": "",
+      "name_en": "Triesenberg",
+      "province": "特里森贝格",
+      "latitude": 47.1181,
+      "longitude": 9.542,
+      "timezone": "Europe/Vaduz"
+    },
+    {
+      "name": "",
+      "name_en": "Ruggell",
+      "province": "鲁格尔",
+      "latitude": 47.238,
+      "longitude": 9.5254,
+      "timezone": "Europe/Vaduz"
+    },
+    {
+      "name": "",
+      "name_en": "Gamprin",
+      "province": "甘普林",
+      "latitude": 47.2204,
+      "longitude": 9.5093,
+      "timezone": "Europe/Vaduz"
+    },
+    {
+      "name": "",
+      "name_en": "Schellenberg",
+      "province": "Schellenberg",
+      "latitude": 47.2312,
+      "longitude": 9.5468,
+      "timezone": "Europe/Vaduz"
+    },
+    {
+      "name": "",
+      "name_en": "Planken",
+      "province": "Planken",
+      "latitude": 47.1852,
+      "longitude": 9.5444,
+      "timezone": "Europe/Vaduz"
+    }
+  ]
+}

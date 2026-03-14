@@ -1,0 +1,3790 @@
+{
+  "country_code": "NG",
+  "country_name": "尼日利亚",
+  "cities": [
+    {
+      "name": "拉哥斯",
+      "name_en": "Lagos",
+      "province": "拉各斯州",
+      "latitude": 6.4541,
+      "longitude": 3.3947,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "卡诺",
+      "name_en": "Kano",
+      "province": "卡诺州",
+      "latitude": 12.0001,
+      "longitude": 8.5167,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "伊巴丹",
+      "name_en": "Ibadan",
+      "province": "奥约州",
+      "latitude": 7.3776,
+      "longitude": 3.9059,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "阿布贾",
+      "name_en": "Abuja",
+      "province": "联邦首都特区",
+      "latitude": 9.0579,
+      "longitude": 7.4951,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "哈科特港",
+      "name_en": "Port Harcourt",
+      "province": "河流州",
+      "latitude": 4.7774,
+      "longitude": 7.0134,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "卡杜纳",
+      "name_en": "Kaduna",
+      "province": "卡杜纳州",
+      "latitude": 10.5264,
+      "longitude": 7.4388,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "贝宁城",
+      "name_en": "Benin City",
+      "province": "埃多州",
+      "latitude": 6.3381,
+      "longitude": 5.6258,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "奥尼查",
+      "name_en": "Onitsha",
+      "province": "阿南布拉州",
+      "latitude": 6.1498,
+      "longitude": 6.7857,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "阿巴",
+      "name_en": "Aba",
+      "province": "阿比亚州",
+      "latitude": 5.1066,
+      "longitude": 7.3667,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "迈杜古里",
+      "name_en": "Maiduguri",
+      "province": "博尔诺州",
+      "latitude": 11.8469,
+      "longitude": 13.1571,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "伊洛林",
+      "name_en": "Ilorin",
+      "province": "夸拉州",
+      "latitude": 8.4966,
+      "longitude": 4.5421,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "乔斯",
+      "name_en": "Jos",
+      "province": "高原州",
+      "latitude": 9.9285,
+      "longitude": 8.8921,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "索科托",
+      "name_en": "Sokoto",
+      "province": "Sokoto",
+      "latitude": 13.0627,
+      "longitude": 5.2432,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "扎里亚",
+      "name_en": "Zaria",
+      "province": "卡杜纳州",
+      "latitude": 11.1113,
+      "longitude": 7.7227,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "埃努古",
+      "name_en": "Enugu",
+      "province": "埃努古州",
+      "latitude": 6.4413,
+      "longitude": 7.4988,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "瓦里",
+      "name_en": "Warri",
+      "province": "三角州",
+      "latitude": 5.5174,
+      "longitude": 5.7501,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Oyo",
+      "province": "奥约州",
+      "latitude": 7.8537,
+      "longitude": 3.9324,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "阿贝奥库塔",
+      "name_en": "Abeokuta",
+      "province": "奥贡州",
+      "latitude": 7.1557,
+      "longitude": 3.3451,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "阿库雷",
+      "name_en": "Akure",
+      "province": "翁多州",
+      "latitude": 7.2526,
+      "longitude": 5.1931,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "包奇",
+      "name_en": "Bauchi",
+      "province": "包奇州",
+      "latitude": 10.3103,
+      "longitude": 9.8439,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "卡齐纳",
+      "name_en": "Katsina",
+      "province": "卡齐纳州",
+      "latitude": 12.9908,
+      "longitude": 7.6018,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Osogbo",
+      "province": "奥孙州",
+      "latitude": 7.771,
+      "longitude": 4.557,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Gombe",
+      "province": "贡贝州",
+      "latitude": 10.2897,
+      "longitude": 11.1673,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ile-Ife",
+      "province": "奥孙州",
+      "latitude": 7.4824,
+      "longitude": 4.5603,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ajegunle",
+      "province": "拉各斯州",
+      "latitude": 6.452,
+      "longitude": 3.3312,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "奥韦里",
+      "name_en": "Owerri",
+      "province": "伊莫州",
+      "latitude": 5.4836,
+      "longitude": 7.0332,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "卡拉巴尔",
+      "name_en": "Calabar",
+      "province": "克罗斯河州",
+      "latitude": 4.9589,
+      "longitude": 8.327,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ebute Ikorodu",
+      "province": "拉各斯州",
+      "latitude": 6.6009,
+      "longitude": 3.4882,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Okene",
+      "province": "科吉州",
+      "latitude": 7.5512,
+      "longitude": 6.2359,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ikare",
+      "province": "翁多州",
+      "latitude": 7.5259,
+      "longitude": 5.7534,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "约拉",
+      "name_en": "Yola",
+      "province": "阿达马瓦",
+      "latitude": 9.2084,
+      "longitude": 12.4815,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Uyo",
+      "province": "阿夸伊博姆州",
+      "latitude": 5.0513,
+      "longitude": 7.9335,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ado-Ekiti",
+      "province": "埃基蒂州",
+      "latitude": 7.6233,
+      "longitude": 5.2209,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ogbomoso",
+      "province": "奥约州",
+      "latitude": 8.1337,
+      "longitude": 4.2401,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "明纳",
+      "name_en": "Minna",
+      "province": "尼日尔州",
+      "latitude": 9.6152,
+      "longitude": 6.5478,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Lekki",
+      "province": "拉各斯州",
+      "latitude": 6.4122,
+      "longitude": 4.0947,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Bida",
+      "province": "尼日尔州",
+      "latitude": 9.0804,
+      "longitude": 6.0099,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "马库尔迪",
+      "name_en": "Makurdi",
+      "province": "贝努埃州",
+      "latitude": 7.7337,
+      "longitude": 8.5214,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ondo",
+      "province": "翁多州",
+      "latitude": 7.0932,
+      "longitude": 4.8353,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "乌穆阿希亚",
+      "name_en": "Umuahia",
+      "province": "阿比亚州",
+      "latitude": 5.5249,
+      "longitude": 7.4946,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Iseyin",
+      "province": "奥约州",
+      "latitude": 7.9702,
+      "longitude": 3.5963,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Gboko",
+      "province": "贝努埃州",
+      "latitude": 7.3228,
+      "longitude": 9.0011,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Yenagoa",
+      "province": "巴耶尔萨州",
+      "latitude": 4.9268,
+      "longitude": 6.2676,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ijebu Ode",
+      "province": "奥贡州",
+      "latitude": 6.8194,
+      "longitude": 3.9173,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Obalende",
+      "province": "拉各斯州",
+      "latitude": 6.4469,
+      "longitude": 3.4153,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ilesa",
+      "province": "奥孙州",
+      "latitude": 7.6279,
+      "longitude": 4.7416,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ikeja",
+      "province": "拉各斯州",
+      "latitude": 6.5965,
+      "longitude": 3.342,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Akowonjo",
+      "province": "拉各斯州",
+      "latitude": 6.6101,
+      "longitude": 3.3097,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Alimosho",
+      "province": "拉各斯州",
+      "latitude": 6.6066,
+      "longitude": 3.3024,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Sapele",
+      "province": "三角州",
+      "latitude": 5.8941,
+      "longitude": 5.6767,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Efon-Alaaye",
+      "province": "埃基蒂州",
+      "latitude": 7.6565,
+      "longitude": 4.9223,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Owo",
+      "province": "翁多州",
+      "latitude": 7.1962,
+      "longitude": 5.5868,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ikot Ekpene",
+      "province": "阿夸伊博姆州",
+      "latitude": 5.1819,
+      "longitude": 7.7148,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Iwo",
+      "province": "奥孙州",
+      "latitude": 7.6353,
+      "longitude": 4.1816,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Jimeta",
+      "province": "阿达马瓦",
+      "latitude": 9.2795,
+      "longitude": 12.4582,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Atani",
+      "province": "阿南布拉州",
+      "latitude": 6.0128,
+      "longitude": 6.7477,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Aliayabiagba",
+      "province": "拉各斯州",
+      "latitude": 6.45,
+      "longitude": 3.3333,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Gusau",
+      "province": "扎姆法拉州",
+      "latitude": 12.1702,
+      "longitude": 6.6641,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Mubi",
+      "province": "阿达马瓦",
+      "latitude": 10.2686,
+      "longitude": 13.267,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ikire",
+      "province": "奥孙州",
+      "latitude": 7.3698,
+      "longitude": 4.1863,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Shagamu",
+      "province": "奥贡州",
+      "latitude": 6.8485,
+      "longitude": 3.6463,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ugep",
+      "province": "克罗斯河州",
+      "latitude": 5.8087,
+      "longitude": 8.081,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Chakwama",
+      "province": "吉加瓦州",
+      "latitude": 11.5596,
+      "longitude": 9.6641,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Mushin",
+      "province": "拉各斯州",
+      "latitude": 6.528,
+      "longitude": 3.3541,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Nnewi",
+      "province": "阿南布拉州",
+      "latitude": 6.0196,
+      "longitude": 6.9173,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Surulere",
+      "province": "拉各斯州",
+      "latitude": 6.5015,
+      "longitude": 3.3581,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ise-Ekiti",
+      "province": "埃基蒂州",
+      "latitude": 7.4648,
+      "longitude": 5.4233,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ila Orangun",
+      "province": "奥孙州",
+      "latitude": 8.0171,
+      "longitude": 4.9042,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Saki",
+      "province": "奥约州",
+      "latitude": 8.6676,
+      "longitude": 3.3939,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Oshodi",
+      "province": "拉各斯州",
+      "latitude": 6.555,
+      "longitude": 3.3436,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "奥卡",
+      "name_en": "Awka",
+      "province": "阿南布拉州",
+      "latitude": 6.2127,
+      "longitude": 7.072,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ijero-Ekiti",
+      "province": "埃基蒂州",
+      "latitude": 7.8151,
+      "longitude": 5.0672,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Inisa",
+      "province": "奥孙州",
+      "latitude": 7.8486,
+      "longitude": 4.3298,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Suleja",
+      "province": "尼日尔州",
+      "latitude": 9.1806,
+      "longitude": 7.1794,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ede",
+      "province": "奥孙州",
+      "latitude": 7.7363,
+      "longitude": 4.4354,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Kisi",
+      "province": "奥约州",
+      "latitude": 9.083,
+      "longitude": 3.852,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Shomolu",
+      "province": "拉各斯州",
+      "latitude": 6.5389,
+      "longitude": 3.3742,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Irewe",
+      "province": "拉各斯州",
+      "latitude": 6.4169,
+      "longitude": 3.1406,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Gbongan",
+      "province": "奥孙州",
+      "latitude": 7.4773,
+      "longitude": 4.3535,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ejigbo",
+      "province": "奥孙州",
+      "latitude": 7.903,
+      "longitude": 4.3136,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Funtua",
+      "province": "卡齐纳州",
+      "latitude": 11.5235,
+      "longitude": 7.3117,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Igboho",
+      "province": "奥约州",
+      "latitude": 8.8378,
+      "longitude": 3.7563,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Buguma",
+      "province": "河流州",
+      "latitude": 4.7361,
+      "longitude": 6.8624,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ikirun",
+      "province": "奥孙州",
+      "latitude": 7.9128,
+      "longitude": 4.6674,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "阿巴卡利基",
+      "name_en": "Abakaliki",
+      "province": "埃邦伊州",
+      "latitude": 6.3248,
+      "longitude": 8.1137,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Okrika",
+      "province": "河流州",
+      "latitude": 4.7421,
+      "longitude": 7.0837,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Amaigbo",
+      "province": "阿比亚州",
+      "latitude": 5.7892,
+      "longitude": 7.8383,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Lafia",
+      "province": "纳萨拉瓦州",
+      "latitude": 8.4939,
+      "longitude": 8.5153,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Gashua",
+      "province": "约贝州",
+      "latitude": 12.874,
+      "longitude": 11.0406,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Modakeke",
+      "province": "奥孙州",
+      "latitude": 7.383,
+      "longitude": 4.2603,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Bama",
+      "province": "博尔诺州",
+      "latitude": 11.5213,
+      "longitude": 13.6895,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ilobu",
+      "province": "奥孙州",
+      "latitude": 7.8388,
+      "longitude": 4.4867,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Jalingo",
+      "province": "塔拉巴州",
+      "latitude": 8.8937,
+      "longitude": 11.3596,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Okigwe",
+      "province": "伊莫州",
+      "latitude": 5.8292,
+      "longitude": 7.3506,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Offa",
+      "province": "夸拉州",
+      "latitude": 8.1491,
+      "longitude": 4.7207,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Esuk Oron",
+      "province": "阿夸伊博姆州",
+      "latitude": 4.8029,
+      "longitude": 8.2534,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Nsukka",
+      "province": "埃努古州",
+      "latitude": 6.8578,
+      "longitude": 7.3958,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Nguru",
+      "province": "约贝州",
+      "latitude": 12.877,
+      "longitude": 10.4554,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Hadejia",
+      "province": "吉加瓦州",
+      "latitude": 12.4535,
+      "longitude": 10.0412,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ijebu-Igbo",
+      "province": "奥贡州",
+      "latitude": 6.972,
+      "longitude": 3.9994,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "乌罗米",
+      "name_en": "Uromi",
+      "province": "埃多州",
+      "latitude": 6.7,
+      "longitude": 6.3333,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Birnin Kebbi",
+      "province": "凯比州",
+      "latitude": 12.4539,
+      "longitude": 4.1975,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Pindiga",
+      "province": "贡贝州",
+      "latitude": 9.9843,
+      "longitude": 10.9523,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Azare",
+      "province": "包奇州",
+      "latitude": 11.6748,
+      "longitude": 10.1907,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Nkpor",
+      "province": "阿南布拉州",
+      "latitude": 6.1504,
+      "longitude": 6.8304,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ikere-Ekiti",
+      "province": "埃基蒂州",
+      "latitude": 7.4975,
+      "longitude": 5.2304,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Lafiagi",
+      "province": "夸拉州",
+      "latitude": 8.853,
+      "longitude": 5.4164,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Kontagora",
+      "province": "尼日尔州",
+      "latitude": 10.4032,
+      "longitude": 5.4708,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Kuje",
+      "province": "联邦首都特区",
+      "latitude": 8.8795,
+      "longitude": 7.2276,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Biu",
+      "province": "博尔诺州",
+      "latitude": 10.6128,
+      "longitude": 12.1946,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Olupona",
+      "province": "奥孙州",
+      "latitude": 7.6004,
+      "longitude": 4.1926,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Lere",
+      "province": "卡杜纳州",
+      "latitude": 10.3858,
+      "longitude": 8.5729,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Wukari",
+      "province": "塔拉巴州",
+      "latitude": 7.8714,
+      "longitude": 9.7779,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Igbo-Ora",
+      "province": "奥约州",
+      "latitude": 7.4338,
+      "longitude": 3.2879,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Emure-Ekiti",
+      "province": "埃基蒂州",
+      "latitude": 7.4364,
+      "longitude": 5.4592,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Isieke",
+      "province": "埃邦伊州",
+      "latitude": 6.3819,
+      "longitude": 8.0374,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ifo",
+      "province": "奥贡州",
+      "latitude": 6.8149,
+      "longitude": 3.1952,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Igede-Ekiti",
+      "province": "埃基蒂州",
+      "latitude": 7.6685,
+      "longitude": 5.1263,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Effium",
+      "province": "埃邦伊州",
+      "latitude": 6.6311,
+      "longitude": 8.0581,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Idanre",
+      "province": "翁多州",
+      "latitude": 7.1127,
+      "longitude": 5.1159,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Potiskum",
+      "province": "约贝州",
+      "latitude": 11.7139,
+      "longitude": 11.0811,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Keffi",
+      "province": "纳萨拉瓦州",
+      "latitude": 8.8465,
+      "longitude": 7.8735,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Makoko",
+      "province": "拉各斯州",
+      "latitude": 6.4961,
+      "longitude": 3.3878,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Epe",
+      "province": "拉各斯州",
+      "latitude": 6.5841,
+      "longitude": 3.9834,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Gamboru",
+      "province": "博尔诺州",
+      "latitude": 12.373,
+      "longitude": 14.2069,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ogaminana",
+      "province": "科吉州",
+      "latitude": 7.5938,
+      "longitude": 6.218,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ihiala",
+      "province": "阿南布拉州",
+      "latitude": 5.8548,
+      "longitude": 6.8594,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ipoti",
+      "province": "埃基蒂州",
+      "latitude": 7.8738,
+      "longitude": 5.0769,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Lalupon",
+      "province": "奥约州",
+      "latitude": 7.4679,
+      "longitude": 4.0659,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ughelli",
+      "province": "三角州",
+      "latitude": 5.4896,
+      "longitude": 6.0041,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Bende",
+      "province": "阿比亚州",
+      "latitude": 5.5587,
+      "longitude": 7.6336,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Oke Mesi",
+      "province": "奥孙州",
+      "latitude": 7.8167,
+      "longitude": 4.9167,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Kafanchan",
+      "province": "卡杜纳州",
+      "latitude": 9.5813,
+      "longitude": 8.2926,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ikom",
+      "province": "克罗斯河州",
+      "latitude": 5.9667,
+      "longitude": 8.7063,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Agulu",
+      "province": "阿南布拉州",
+      "latitude": 6.1005,
+      "longitude": 7.061,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Daura",
+      "province": "约贝州",
+      "latitude": 11.5541,
+      "longitude": 11.406,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Numan",
+      "province": "阿达马瓦",
+      "latitude": 9.4637,
+      "longitude": 12.0306,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "卡戈罗",
+      "name_en": "Kagoro",
+      "province": "卡杜纳州",
+      "latitude": 9.6078,
+      "longitude": 8.3904,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ode",
+      "province": "翁多州",
+      "latitude": 7.7899,
+      "longitude": 5.7117,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Igbo-Ukwu",
+      "province": "阿南布拉州",
+      "latitude": 6.018,
+      "longitude": 7.0203,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Aramoko-Ekiti",
+      "province": "埃基蒂州",
+      "latitude": 7.7048,
+      "longitude": 5.0405,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Igbara-Odo",
+      "province": "埃基蒂州",
+      "latitude": 7.5025,
+      "longitude": 5.0626,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ozubulu",
+      "province": "阿南布拉州",
+      "latitude": 5.9575,
+      "longitude": 6.853,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Aku",
+      "province": "埃努古州",
+      "latitude": 6.709,
+      "longitude": 7.3183,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Oyan",
+      "province": "奥孙州",
+      "latitude": 8.05,
+      "longitude": 4.7667,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Jega",
+      "province": "凯比州",
+      "latitude": 12.2234,
+      "longitude": 4.3797,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Asaba",
+      "province": "三角州",
+      "latitude": 6.1982,
+      "longitude": 6.7319,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ohafia-Ifigh",
+      "province": "阿比亚州",
+      "latitude": 5.6146,
+      "longitude": 7.8119,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Afikpo",
+      "province": "埃邦伊州",
+      "latitude": 5.8926,
+      "longitude": 7.9353,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Apomu",
+      "province": "奥孙州",
+      "latitude": 7.3516,
+      "longitude": 4.1833,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Fiditi",
+      "province": "奥约州",
+      "latitude": 7.7139,
+      "longitude": 3.9167,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Orita-Eruwa",
+      "province": "奥约州",
+      "latitude": 7.5563,
+      "longitude": 3.4411,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Eha Amufu",
+      "province": "埃努古州",
+      "latitude": 6.6592,
+      "longitude": 7.7596,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Malumfashi",
+      "province": "卡齐纳州",
+      "latitude": 11.7894,
+      "longitude": 7.6206,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Kaura Namoda",
+      "province": "扎姆法拉州",
+      "latitude": 12.5937,
+      "longitude": 6.5865,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Enugu-Ukwu",
+      "province": "阿南布拉州",
+      "latitude": 6.1715,
+      "longitude": 7.0053,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Idah",
+      "province": "科吉州",
+      "latitude": 7.1135,
+      "longitude": 6.7387,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Obonoma",
+      "province": "河流州",
+      "latitude": 4.7113,
+      "longitude": 6.7908,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Agbor",
+      "province": "三角州",
+      "latitude": 6.2538,
+      "longitude": 6.1942,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ezza-Ohu",
+      "province": "埃邦伊州",
+      "latitude": 6.4409,
+      "longitude": 8.0843,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Uga",
+      "province": "阿南布拉州",
+      "latitude": 5.9358,
+      "longitude": 7.0793,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Nkwerre",
+      "province": "伊莫州",
+      "latitude": 5.7592,
+      "longitude": 7.1038,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Auchi",
+      "province": "埃多州",
+      "latitude": 7.0676,
+      "longitude": 6.2636,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Lokoja",
+      "province": "科吉州",
+      "latitude": 7.7969,
+      "longitude": 6.7405,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ekpoma",
+      "province": "埃多州",
+      "latitude": 6.743,
+      "longitude": 6.1403,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ijebu-Jesa",
+      "province": "奥孙州",
+      "latitude": 7.6829,
+      "longitude": 4.8177,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Kabba",
+      "province": "科吉州",
+      "latitude": 7.8272,
+      "longitude": 6.075,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ilaro",
+      "province": "奥贡州",
+      "latitude": 6.889,
+      "longitude": 3.0142,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Damaturu",
+      "province": "约贝州",
+      "latitude": 11.747,
+      "longitude": 11.9608,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Argungu",
+      "province": "凯比州",
+      "latitude": 12.7448,
+      "longitude": 4.5251,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Gumel",
+      "province": "吉加瓦州",
+      "latitude": 12.6269,
+      "longitude": 9.3881,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Geidam",
+      "province": "约贝州",
+      "latitude": 12.8944,
+      "longitude": 11.9265,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Talata Mafara",
+      "province": "扎姆法拉州",
+      "latitude": 12.5684,
+      "longitude": 6.0622,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Gummi",
+      "province": "扎姆法拉州",
+      "latitude": 12.1448,
+      "longitude": 5.1178,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Otan Ayegbaju",
+      "province": "奥孙州",
+      "latitude": 7.9478,
+      "longitude": 4.7884,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ogoja",
+      "province": "克罗斯河州",
+      "latitude": 6.6584,
+      "longitude": 8.7992,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Katsina-Ala",
+      "province": "贝努埃州",
+      "latitude": 7.1694,
+      "longitude": 9.2846,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Igangan",
+      "province": "奥约州",
+      "latitude": 7.6807,
+      "longitude": 3.1841,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Itu",
+      "province": "阿夸伊博姆州",
+      "latitude": 5.2013,
+      "longitude": 7.9837,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Kumo",
+      "province": "贡贝州",
+      "latitude": 10.0481,
+      "longitude": 11.2105,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Oke Ila",
+      "province": "埃基蒂州",
+      "latitude": 7.95,
+      "longitude": 4.9833,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Eruwa",
+      "province": "奥约州",
+      "latitude": 7.5391,
+      "longitude": 3.4245,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Pankshin",
+      "province": "高原州",
+      "latitude": 9.3254,
+      "longitude": 9.4352,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Nasarawa",
+      "province": "纳萨拉瓦州",
+      "latitude": 8.5389,
+      "longitude": 7.7082,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Kachia",
+      "province": "卡杜纳州",
+      "latitude": 9.8734,
+      "longitude": 7.9541,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Dikwa",
+      "province": "博尔诺州",
+      "latitude": 12.0361,
+      "longitude": 13.9182,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Moriki",
+      "province": "扎姆法拉州",
+      "latitude": 12.8741,
+      "longitude": 6.4875,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Patigi",
+      "province": "夸拉州",
+      "latitude": 8.7285,
+      "longitude": 5.7556,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Wamba",
+      "province": "纳萨拉瓦州",
+      "latitude": 8.9415,
+      "longitude": 8.6031,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Baro",
+      "province": "尼日尔州",
+      "latitude": 8.6157,
+      "longitude": 6.4185,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Okuta",
+      "province": "夸拉州",
+      "latitude": 9.2187,
+      "longitude": 3.2012,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Birnin Kudu",
+      "province": "吉加瓦州",
+      "latitude": 11.4521,
+      "longitude": 9.4786,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Badagry",
+      "province": "拉各斯州",
+      "latitude": 6.415,
+      "longitude": 2.8813,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ogwashi-Uku",
+      "province": "三角州",
+      "latitude": 6.1781,
+      "longitude": 6.5246,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Eket",
+      "province": "阿夸伊博姆州",
+      "latitude": 4.6423,
+      "longitude": 7.9244,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Kamba",
+      "province": "凯比州",
+      "latitude": 11.8517,
+      "longitude": 3.6548,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Daura",
+      "province": "卡齐纳州",
+      "latitude": 11.5541,
+      "longitude": 11.406,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Takum",
+      "province": "贝努埃州",
+      "latitude": 7.2667,
+      "longitude": 9.9833,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Igbeti",
+      "province": "奥约州",
+      "latitude": 8.7492,
+      "longitude": 4.1311,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "宗盖鲁",
+      "name_en": "Zungeru",
+      "province": "尼日尔州",
+      "latitude": 9.8073,
+      "longitude": 6.1524,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Zuru",
+      "province": "凯比州",
+      "latitude": 11.4352,
+      "longitude": 5.2349,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Tegina",
+      "province": "尼日尔州",
+      "latitude": 10.0706,
+      "longitude": 6.1906,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Awgu",
+      "province": "埃努古州",
+      "latitude": 6.0728,
+      "longitude": 7.4774,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Wudil",
+      "province": "卡诺州",
+      "latitude": 11.8094,
+      "longitude": 8.8442,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Nafada",
+      "province": "贡贝州",
+      "latitude": 11.096,
+      "longitude": 11.3326,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ibi",
+      "province": "塔拉巴州",
+      "latitude": 8.1812,
+      "longitude": 9.7443,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Sofo-Birnin-Gwari",
+      "province": "卡杜纳州",
+      "latitude": 11.0154,
+      "longitude": 6.7804,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Dutsen Wai",
+      "province": "卡杜纳州",
+      "latitude": 10.8501,
+      "longitude": 8.199,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Kaiama",
+      "province": "夸拉州",
+      "latitude": 9.6053,
+      "longitude": 3.941,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ubiaja",
+      "province": "埃多州",
+      "latitude": 6.6558,
+      "longitude": 6.3849,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Otukpa",
+      "province": "贝努埃州",
+      "latitude": 7.1017,
+      "longitude": 7.6594,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Oguta",
+      "province": "伊莫州",
+      "latitude": 5.7104,
+      "longitude": 6.8094,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Damboa",
+      "province": "博尔诺州",
+      "latitude": 11.1553,
+      "longitude": 12.7564,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Jebba",
+      "province": "夸拉州",
+      "latitude": 9.1197,
+      "longitude": 4.8236,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Garko",
+      "province": "贡贝州",
+      "latitude": 10.1751,
+      "longitude": 11.1646,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Mokwa",
+      "province": "尼日尔州",
+      "latitude": 9.2948,
+      "longitude": 5.0541,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Gaya",
+      "province": "卡诺州",
+      "latitude": 11.8606,
+      "longitude": 9.0027,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Tambuwal",
+      "province": "Sokoto",
+      "latitude": 12.4059,
+      "longitude": 4.646,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Elele",
+      "province": "河流州",
+      "latitude": 5.1009,
+      "longitude": 6.8141,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Monguno",
+      "province": "博尔诺州",
+      "latitude": 12.6706,
+      "longitude": 13.6122,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Kwale",
+      "province": "三角州",
+      "latitude": 5.7077,
+      "longitude": 6.434,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Gembu",
+      "province": "塔拉巴州",
+      "latitude": 6.7256,
+      "longitude": 11.2565,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Obudu",
+      "province": "克罗斯河州",
+      "latitude": 6.6682,
+      "longitude": 9.1645,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Gombi",
+      "province": "阿达马瓦",
+      "latitude": 10.1676,
+      "longitude": 12.7368,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Magumeri",
+      "province": "博尔诺州",
+      "latitude": 12.1145,
+      "longitude": 12.8262,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Degema Hulk",
+      "province": "河流州",
+      "latitude": 4.7614,
+      "longitude": 6.7496,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Enugu-Ezike",
+      "province": "埃努古州",
+      "latitude": 6.9827,
+      "longitude": 7.4553,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Kari",
+      "province": "包奇州",
+      "latitude": 11.2471,
+      "longitude": 10.561,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Darazo",
+      "province": "包奇州",
+      "latitude": 10.9992,
+      "longitude": 10.4106,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Rano",
+      "province": "卡诺州",
+      "latitude": 11.5568,
+      "longitude": 8.5807,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Kiyawa",
+      "province": "吉加瓦州",
+      "latitude": 11.7844,
+      "longitude": 9.6069,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Deba",
+      "province": "贡贝州",
+      "latitude": 10.2119,
+      "longitude": 11.3871,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Igbor",
+      "province": "贝努埃州",
+      "latitude": 7.4512,
+      "longitude": 8.6081,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Babana",
+      "province": "尼日尔州",
+      "latitude": 10.4295,
+      "longitude": 3.815,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Egbe",
+      "province": "科吉州",
+      "latitude": 8.219,
+      "longitude": 5.5076,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Gwadabawa",
+      "province": "Sokoto",
+      "latitude": 13.3582,
+      "longitude": 5.2381,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Beli",
+      "province": "塔拉巴州",
+      "latitude": 7.8587,
+      "longitude": 10.9719,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Illela",
+      "province": "Sokoto",
+      "latitude": 13.7306,
+      "longitude": 5.2978,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Dutse",
+      "province": "吉加瓦州",
+      "latitude": 11.7562,
+      "longitude": 9.339,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Dukku",
+      "province": "贡贝州",
+      "latitude": 10.8238,
+      "longitude": 10.7722,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Bonny",
+      "province": "河流州",
+      "latitude": 4.4516,
+      "longitude": 7.1707,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Bode Saadu",
+      "province": "夸拉州",
+      "latitude": 8.939,
+      "longitude": 4.7823,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Rijau",
+      "province": "尼日尔州",
+      "latitude": 11.1039,
+      "longitude": 5.2556,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Kumagunnam",
+      "province": "约贝州",
+      "latitude": 13.155,
+      "longitude": 10.6347,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Lapai",
+      "province": "尼日尔州",
+      "latitude": 9.0444,
+      "longitude": 6.5709,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Burutu",
+      "province": "三角州",
+      "latitude": 5.3533,
+      "longitude": 5.5083,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Gwarzo",
+      "province": "卡诺州",
+      "latitude": 11.916,
+      "longitude": 7.9337,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Kukawa",
+      "province": "博尔诺州",
+      "latitude": 12.9247,
+      "longitude": 13.5662,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Akwanga",
+      "province": "纳萨拉瓦州",
+      "latitude": 8.9108,
+      "longitude": 8.4065,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Biliri",
+      "province": "贡贝州",
+      "latitude": 9.8671,
+      "longitude": 11.2259,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Iperu",
+      "province": "奥贡州",
+      "latitude": 6.91,
+      "longitude": 3.6656,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Gwaram",
+      "province": "吉加瓦州",
+      "latitude": 11.2773,
+      "longitude": 9.8839,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Soba",
+      "province": "卡杜纳州",
+      "latitude": 10.9813,
+      "longitude": 8.0575,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Marte",
+      "province": "博尔诺州",
+      "latitude": 12.3653,
+      "longitude": 13.8293,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ibeto",
+      "province": "尼日尔州",
+      "latitude": 10.4854,
+      "longitude": 5.145,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Bukuru",
+      "province": "高原州",
+      "latitude": 9.794,
+      "longitude": 8.864,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Anchau",
+      "province": "卡杜纳州",
+      "latitude": 10.9625,
+      "longitude": 8.3923,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ado-Odo",
+      "province": "奥贡州",
+      "latitude": 6.5955,
+      "longitude": 2.9418,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ganye",
+      "province": "阿达马瓦",
+      "latitude": 8.435,
+      "longitude": 12.0511,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Gwoza",
+      "province": "博尔诺州",
+      "latitude": 11.0831,
+      "longitude": 13.6959,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ajaokuta",
+      "province": "科吉州",
+      "latitude": 7.5623,
+      "longitude": 6.655,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Doma",
+      "province": "纳萨拉瓦州",
+      "latitude": 8.3931,
+      "longitude": 8.3554,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Isanlu-Itedoijowa",
+      "province": "科吉州",
+      "latitude": 8.2734,
+      "longitude": 5.8353,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Udi",
+      "province": "埃努古州",
+      "latitude": 6.3159,
+      "longitude": 7.4209,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Icheu",
+      "province": "科吉州",
+      "latitude": 7.7067,
+      "longitude": 6.7718,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Igarra",
+      "province": "埃多州",
+      "latitude": 7.2937,
+      "longitude": 6.1043,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ankpa",
+      "province": "科吉州",
+      "latitude": 7.4025,
+      "longitude": 7.632,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Lere",
+      "province": "包奇州",
+      "latitude": 10.3858,
+      "longitude": 8.5729,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Omu-Aran",
+      "province": "夸拉州",
+      "latitude": 8.1339,
+      "longitude": 5.1003,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ringim",
+      "province": "吉加瓦州",
+      "latitude": 12.1514,
+      "longitude": 9.1622,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Yashikira",
+      "province": "夸拉州",
+      "latitude": 9.7679,
+      "longitude": 3.398,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Jibia",
+      "province": "卡齐纳州",
+      "latitude": 13.0938,
+      "longitude": 7.2262,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Kajuru",
+      "province": "卡杜纳州",
+      "latitude": 10.3228,
+      "longitude": 7.6846,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Gassol",
+      "province": "塔拉巴州",
+      "latitude": 8.5353,
+      "longitude": 10.4461,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Shani",
+      "province": "博尔诺州",
+      "latitude": 10.2182,
+      "longitude": 12.0606,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ugbokpo",
+      "province": "贝努埃州",
+      "latitude": 7.6532,
+      "longitude": 7.8841,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Dapchi",
+      "province": "约贝州",
+      "latitude": 12.4954,
+      "longitude": 11.4998,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ngala",
+      "province": "博尔诺州",
+      "latitude": 12.3405,
+      "longitude": 14.1867,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Misau",
+      "province": "包奇州",
+      "latitude": 11.3137,
+      "longitude": 10.4666,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Gandi",
+      "province": "Sokoto",
+      "latitude": 12.9636,
+      "longitude": 5.7434,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ago-Are",
+      "province": "奥约州",
+      "latitude": 8.505,
+      "longitude": 3.4213,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ore",
+      "province": "翁多州",
+      "latitude": 6.7472,
+      "longitude": 4.8761,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Uruobo-Okija",
+      "province": "阿南布拉州",
+      "latitude": 5.9002,
+      "longitude": 6.8431,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Damasak",
+      "province": "博尔诺州",
+      "latitude": 13.1052,
+      "longitude": 12.5085,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Gamawa",
+      "province": "包奇州",
+      "latitude": 12.1338,
+      "longitude": 10.5379,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Sauri",
+      "province": "扎姆法拉州",
+      "latitude": 11.7265,
+      "longitude": 6.7837,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Konduga",
+      "province": "博尔诺州",
+      "latitude": 11.6533,
+      "longitude": 13.4179,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Dindima",
+      "province": "包奇州",
+      "latitude": 10.2263,
+      "longitude": 10.1513,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ikang",
+      "province": "克罗斯河州",
+      "latitude": 4.7898,
+      "longitude": 8.5316,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Yelwa",
+      "province": "高原州",
+      "latitude": 8.8333,
+      "longitude": 9.6333,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Langtang",
+      "province": "高原州",
+      "latitude": 9.1416,
+      "longitude": 9.791,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Kazaure",
+      "province": "吉加瓦州",
+      "latitude": 12.6485,
+      "longitude": 8.4118,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Wurno",
+      "province": "Sokoto",
+      "latitude": 13.2905,
+      "longitude": 5.4237,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Kujama",
+      "province": "卡杜纳州",
+      "latitude": 10.4577,
+      "longitude": 7.6381,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Okeho",
+      "province": "奥约州",
+      "latitude": 8.0345,
+      "longitude": 3.3476,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Madagali",
+      "province": "阿达马瓦",
+      "latitude": 10.8894,
+      "longitude": 13.6283,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Obubra",
+      "province": "克罗斯河州",
+      "latitude": 6.0767,
+      "longitude": 8.3324,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ahoada",
+      "province": "河流州",
+      "latitude": 5.0828,
+      "longitude": 6.6498,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Boju",
+      "province": "贝努埃州",
+      "latitude": 7.3557,
+      "longitude": 7.893,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Agenebode",
+      "province": "埃多州",
+      "latitude": 7.1051,
+      "longitude": 6.6938,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ajasse Ipo",
+      "province": "夸拉州",
+      "latitude": 8.2333,
+      "longitude": 4.8167,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Runka",
+      "province": "卡齐纳州",
+      "latitude": 12.4479,
+      "longitude": 7.3092,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Lau",
+      "province": "塔拉巴州",
+      "latitude": 9.2083,
+      "longitude": 11.2754,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Kafin Hausa",
+      "province": "吉加瓦州",
+      "latitude": 12.2393,
+      "longitude": 9.911,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Bakori",
+      "province": "卡齐纳州",
+      "latitude": 11.5556,
+      "longitude": 7.4242,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Dutsin-Ma",
+      "province": "卡齐纳州",
+      "latitude": 12.4539,
+      "longitude": 7.4972,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Abak",
+      "province": "阿夸伊博姆州",
+      "latitude": 4.9824,
+      "longitude": 7.7892,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Dakingari",
+      "province": "凯比州",
+      "latitude": 11.6481,
+      "longitude": 4.0618,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Bokkos",
+      "province": "高原州",
+      "latitude": 9.2992,
+      "longitude": 8.9947,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Gorgoram",
+      "province": "约贝州",
+      "latitude": 12.6396,
+      "longitude": 10.7042,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Zango",
+      "province": "卡齐纳州",
+      "latitude": 13.0531,
+      "longitude": 8.4857,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Dange",
+      "province": "Sokoto",
+      "latitude": 12.8531,
+      "longitude": 5.3457,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Kaltungo",
+      "province": "贡贝州",
+      "latitude": 9.82,
+      "longitude": 11.3087,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Amper",
+      "province": "高原州",
+      "latitude": 9.3551,
+      "longitude": 9.7012,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Miringa",
+      "province": "博尔诺州",
+      "latitude": 10.7311,
+      "longitude": 12.1463,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Zalanga",
+      "province": "包奇州",
+      "latitude": 10.6143,
+      "longitude": 10.1765,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Vom",
+      "province": "高原州",
+      "latitude": 9.7291,
+      "longitude": 8.7914,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Obiaruku",
+      "province": "三角州",
+      "latitude": 5.8467,
+      "longitude": 6.1529,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Madala",
+      "province": "联邦首都特区",
+      "latitude": 9.1044,
+      "longitude": 7.2133,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Toungo",
+      "province": "阿达马瓦",
+      "latitude": 8.1173,
+      "longitude": 12.0461,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Agaie",
+      "province": "尼日尔州",
+      "latitude": 9.0085,
+      "longitude": 6.3182,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Machina",
+      "province": "约贝州",
+      "latitude": 13.1364,
+      "longitude": 10.0492,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Mutum Biyu",
+      "province": "塔拉巴州",
+      "latitude": 8.6414,
+      "longitude": 10.7736,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Kangiwa",
+      "province": "凯比州",
+      "latitude": 12.5534,
+      "longitude": 3.8181,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Bori",
+      "province": "河流州",
+      "latitude": 4.6763,
+      "longitude": 7.3652,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Burumburum",
+      "province": "卡杜纳州",
+      "latitude": 11.3911,
+      "longitude": 8.7234,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Bara",
+      "province": "贡贝州",
+      "latitude": 10.3744,
+      "longitude": 10.7288,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Goniri",
+      "province": "约贝州",
+      "latitude": 11.4845,
+      "longitude": 12.3126,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Uba",
+      "province": "博尔诺州",
+      "latitude": 10.4551,
+      "longitude": 13.2223,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Anka",
+      "province": "扎姆法拉州",
+      "latitude": 12.1135,
+      "longitude": 5.9268,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Omoku",
+      "province": "河流州",
+      "latitude": 5.3439,
+      "longitude": 6.6568,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Kafarati",
+      "province": "贡贝州",
+      "latitude": 10.383,
+      "longitude": 11.0957,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Bin Yauri",
+      "province": "凯比州",
+      "latitude": 10.7823,
+      "longitude": 4.8114,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Maru",
+      "province": "扎姆法拉州",
+      "latitude": 12.3336,
+      "longitude": 6.4037,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Gagarawa",
+      "province": "吉加瓦州",
+      "latitude": 12.4085,
+      "longitude": 9.5288,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Gujba",
+      "province": "约贝州",
+      "latitude": 11.4996,
+      "longitude": 11.934,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Opi",
+      "province": "埃努古州",
+      "latitude": 6.7822,
+      "longitude": 7.4332,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Mallammaduri",
+      "province": "吉加瓦州",
+      "latitude": 12.5643,
+      "longitude": 9.9573,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Twon-Brass",
+      "province": "巴耶尔萨州",
+      "latitude": 4.3123,
+      "longitude": 6.2409,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Dekina",
+      "province": "科吉州",
+      "latitude": 7.6897,
+      "longitude": 7.0438,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Bebeji",
+      "province": "卡诺州",
+      "latitude": 11.6677,
+      "longitude": 8.262,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Arochukwu",
+      "province": "阿比亚州",
+      "latitude": 5.3894,
+      "longitude": 7.9123,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Takai",
+      "province": "卡诺州",
+      "latitude": 11.5757,
+      "longitude": 9.1088,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Panyam",
+      "province": "高原州",
+      "latitude": 9.4076,
+      "longitude": 9.2148,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Koton-Karfe",
+      "province": "科吉州",
+      "latitude": 8.0883,
+      "longitude": 6.7988,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Katagum",
+      "province": "包奇州",
+      "latitude": 12.2851,
+      "longitude": 10.3503,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Zaki Biam",
+      "province": "贝努埃州",
+      "latitude": 7.5067,
+      "longitude": 9.6104,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Goronyo",
+      "province": "Sokoto",
+      "latitude": 13.4423,
+      "longitude": 5.6723,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Etinan",
+      "province": "阿夸伊博姆州",
+      "latitude": 4.8426,
+      "longitude": 7.8525,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Aliade",
+      "province": "贝努埃州",
+      "latitude": 7.2963,
+      "longitude": 8.4828,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Wawa",
+      "province": "尼日尔州",
+      "latitude": 9.9035,
+      "longitude": 4.4082,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Gabarin",
+      "province": "包奇州",
+      "latitude": 11.1093,
+      "longitude": 10.4441,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Gwandu",
+      "province": "凯比州",
+      "latitude": 12.502,
+      "longitude": 4.6429,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Madara",
+      "province": "包奇州",
+      "latitude": 11.7798,
+      "longitude": 10.4479,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Maiyama",
+      "province": "凯比州",
+      "latitude": 12.0823,
+      "longitude": 4.3691,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Wagini",
+      "province": "卡齐纳州",
+      "latitude": 12.6878,
+      "longitude": 7.1958,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Buga",
+      "province": "纳萨拉瓦州",
+      "latitude": 8.4834,
+      "longitude": 7.3261,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Benisheikh",
+      "province": "博尔诺州",
+      "latitude": 11.8092,
+      "longitude": 12.4915,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ete",
+      "province": "埃努古州",
+      "latitude": 7.0896,
+      "longitude": 7.4534,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Bugana",
+      "province": "科吉州",
+      "latitude": 7.9992,
+      "longitude": 7.5836,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Danja",
+      "province": "卡齐纳州",
+      "latitude": 11.3771,
+      "longitude": 7.561,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Kankara",
+      "province": "卡齐纳州",
+      "latitude": 11.9311,
+      "longitude": 7.4112,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Amagunze",
+      "province": "埃努古州",
+      "latitude": 6.3306,
+      "longitude": 7.6525,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Alapa",
+      "province": "奥约州",
+      "latitude": 8.6167,
+      "longitude": 4.3833,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Yuli",
+      "province": "包奇州",
+      "latitude": 9.6971,
+      "longitude": 10.2735,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Kura",
+      "province": "卡诺州",
+      "latitude": 11.7723,
+      "longitude": 8.4263,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Tsafe",
+      "province": "扎姆法拉州",
+      "latitude": 11.9578,
+      "longitude": 6.9208,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Orlu",
+      "province": "伊莫州",
+      "latitude": 5.7957,
+      "longitude": 7.0351,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Birniwa",
+      "province": "吉加瓦州",
+      "latitude": 12.7907,
+      "longitude": 10.2361,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Shinkafi",
+      "province": "扎姆法拉州",
+      "latitude": 13.073,
+      "longitude": 6.5057,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ejirin",
+      "province": "拉各斯州",
+      "latitude": 6.6142,
+      "longitude": 3.9002,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Holma",
+      "province": "阿达马瓦",
+      "latitude": 9.8986,
+      "longitude": 13.0545,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Wuyo",
+      "province": "博尔诺州",
+      "latitude": 10.3852,
+      "longitude": 11.6968,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ifaki",
+      "province": "埃基蒂州",
+      "latitude": 7.7894,
+      "longitude": 5.2485,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ogurugu",
+      "province": "科吉州",
+      "latitude": 6.7864,
+      "longitude": 6.9502,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Kwatarkwashi",
+      "province": "扎姆法拉州",
+      "latitude": 12.1408,
+      "longitude": 6.822,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Mahuta",
+      "province": "凯比州",
+      "latitude": 11.5534,
+      "longitude": 4.9814,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Dambatta",
+      "province": "卡诺州",
+      "latitude": 12.435,
+      "longitude": 8.5153,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Baissa",
+      "province": "塔拉巴州",
+      "latitude": 7.2309,
+      "longitude": 10.6244,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Mberubu",
+      "province": "埃努古州",
+      "latitude": 6.1731,
+      "longitude": 7.6302,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Musawa",
+      "province": "卡齐纳州",
+      "latitude": 12.1295,
+      "longitude": 7.6702,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ruma",
+      "province": "卡齐纳州",
+      "latitude": 12.8626,
+      "longitude": 7.2347,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Igabi",
+      "province": "卡杜纳州",
+      "latitude": 10.806,
+      "longitude": 7.7144,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Rabah",
+      "province": "Sokoto",
+      "latitude": 13.1226,
+      "longitude": 5.5076,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Imeko",
+      "province": "奥贡州",
+      "latitude": 7.4489,
+      "longitude": 2.8429,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Bokani",
+      "province": "尼日尔州",
+      "latitude": 9.4333,
+      "longitude": 5.2,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Agbabu",
+      "province": "翁多州",
+      "latitude": 6.5886,
+      "longitude": 4.8343,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Auna",
+      "province": "尼日尔州",
+      "latitude": 10.1881,
+      "longitude": 4.7232,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ochobo",
+      "province": "贝努埃州",
+      "latitude": 7.1805,
+      "longitude": 7.9824,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Orodo",
+      "province": "伊莫州",
+      "latitude": 5.6167,
+      "longitude": 7.0333,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Owode",
+      "province": "奥贡州",
+      "latitude": 6.9485,
+      "longitude": 3.5056,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Kibiya",
+      "province": "卡诺州",
+      "latitude": 11.528,
+      "longitude": 8.6611,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Hunkuyi",
+      "province": "卡杜纳州",
+      "latitude": 11.2668,
+      "longitude": 7.6492,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Bomadi",
+      "province": "三角州",
+      "latitude": 5.1607,
+      "longitude": 5.9238,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Bena",
+      "province": "凯比州",
+      "latitude": 11.2844,
+      "longitude": 5.9347,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Umunede",
+      "province": "三角州",
+      "latitude": 6.2655,
+      "longitude": 6.3096,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Badeggi",
+      "province": "尼日尔州",
+      "latitude": 9.0444,
+      "longitude": 6.5709,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Sade",
+      "province": "包奇州",
+      "latitude": 11.3595,
+      "longitude": 10.6732,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Isara",
+      "province": "奥贡州",
+      "latitude": 6.989,
+      "longitude": 3.6824,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Adoru",
+      "province": "科吉州",
+      "latitude": 6.9769,
+      "longitude": 7.1626,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Kwolla",
+      "province": "高原州",
+      "latitude": 8.9036,
+      "longitude": 9.2909,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Wasagu",
+      "province": "凯比州",
+      "latitude": 11.3764,
+      "longitude": 5.7954,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ngurore",
+      "province": "阿达马瓦",
+      "latitude": 9.2887,
+      "longitude": 12.2403,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Samamiya",
+      "province": "吉加瓦州",
+      "latitude": 11.3487,
+      "longitude": 9.6399,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Duku",
+      "province": "尼日尔州",
+      "latitude": 10.8238,
+      "longitude": 10.7722,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Suya",
+      "province": "夸拉州",
+      "latitude": 9.4688,
+      "longitude": 3.1833,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Siluko",
+      "province": "埃多州",
+      "latitude": 6.5359,
+      "longitude": 5.1601,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Dan Gora",
+      "province": "卡诺州",
+      "latitude": 11.5349,
+      "longitude": 8.1522,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Mashi",
+      "province": "卡齐纳州",
+      "latitude": 12.9804,
+      "longitude": 7.947,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Hinna",
+      "province": "贡贝州",
+      "latitude": 10.3043,
+      "longitude": 11.4991,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Iho",
+      "province": "伊莫州",
+      "latitude": 5.5823,
+      "longitude": 7.099,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Yandev",
+      "province": "贝努埃州",
+      "latitude": 7.3631,
+      "longitude": 9.0424,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Konkwesso",
+      "province": "尼日尔州",
+      "latitude": 10.8469,
+      "longitude": 4.0983,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ilare",
+      "province": "翁多州",
+      "latitude": 7.3507,
+      "longitude": 5.1133,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ifon",
+      "province": "翁多州",
+      "latitude": 6.9297,
+      "longitude": 5.7737,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Dan Sadau",
+      "province": "扎姆法拉州",
+      "latitude": 11.2962,
+      "longitude": 6.4952,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Kuta",
+      "province": "尼日尔州",
+      "latitude": 9.8686,
+      "longitude": 6.7104,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Mando",
+      "province": "卡杜纳州",
+      "latitude": 10.7167,
+      "longitude": 6.5667,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Zadawa",
+      "province": "包奇州",
+      "latitude": 11.4496,
+      "longitude": 10.3672,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Idiroko",
+      "province": "奥贡州",
+      "latitude": 6.6319,
+      "longitude": 2.7472,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Shanga",
+      "province": "凯比州",
+      "latitude": 11.2137,
+      "longitude": 4.5794,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Batsari",
+      "province": "卡齐纳州",
+      "latitude": 12.7555,
+      "longitude": 7.2481,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Dass",
+      "province": "包奇州",
+      "latitude": 10.0007,
+      "longitude": 9.516,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Kende",
+      "province": "凯比州",
+      "latitude": 11.5197,
+      "longitude": 4.2603,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Lajere",
+      "province": "约贝州",
+      "latitude": 11.9802,
+      "longitude": 11.44,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "New Shagunnu",
+      "province": "尼日尔州",
+      "latitude": 10.3396,
+      "longitude": 4.4688,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Illushi",
+      "province": "埃多州",
+      "latitude": 6.6703,
+      "longitude": 6.6291,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Patani",
+      "province": "三角州",
+      "latitude": 5.2289,
+      "longitude": 6.1914,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ikem",
+      "province": "埃努古州",
+      "latitude": 6.7799,
+      "longitude": 7.7148,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Babura",
+      "province": "吉加瓦州",
+      "latitude": 12.7726,
+      "longitude": 9.0152,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Gwasoro",
+      "province": "夸拉州",
+      "latitude": 9.4873,
+      "longitude": 3.5077,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Saminaka",
+      "province": "卡杜纳州",
+      "latitude": 10.4123,
+      "longitude": 8.6875,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Dadiya",
+      "province": "贡贝州",
+      "latitude": 9.6195,
+      "longitude": 11.4412,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Yamrat",
+      "province": "包奇州",
+      "latitude": 10.1116,
+      "longitude": 9.826,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Tokombere",
+      "province": "博尔诺州",
+      "latitude": 11.2213,
+      "longitude": 13.4878,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Gwio Kura",
+      "province": "约贝州",
+      "latitude": 12.6748,
+      "longitude": 11.0669,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Akankpa",
+      "province": "克罗斯河州",
+      "latitude": 5.1264,
+      "longitude": 8.1898,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Amassoma",
+      "province": "巴耶尔萨州",
+      "latitude": 4.9703,
+      "longitude": 6.1091,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Kusheriki",
+      "province": "尼日尔州",
+      "latitude": 10.5371,
+      "longitude": 6.4366,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Abraka",
+      "province": "三角州",
+      "latitude": 5.7902,
+      "longitude": 6.1047,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Bagudo",
+      "province": "凯比州",
+      "latitude": 11.4035,
+      "longitude": 4.2257,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Jikamshi",
+      "province": "卡齐纳州",
+      "latitude": 12.1733,
+      "longitude": 7.7742,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Yajiwa",
+      "province": "博尔诺州",
+      "latitude": 11.3862,
+      "longitude": 12.7199,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Riti",
+      "province": "塔拉巴州",
+      "latitude": 7.9084,
+      "longitude": 9.6169,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Abocho",
+      "province": "科吉州",
+      "latitude": 7.5677,
+      "longitude": 6.9863,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Gulma",
+      "province": "凯比州",
+      "latitude": 12.6423,
+      "longitude": 4.3555,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Binji",
+      "province": "Sokoto",
+      "latitude": 13.2229,
+      "longitude": 4.9089,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Lame",
+      "province": "包奇州",
+      "latitude": 10.4415,
+      "longitude": 9.2395,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Gwaram",
+      "province": "包奇州",
+      "latitude": 11.2773,
+      "longitude": 9.8839,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ake-Eze",
+      "province": "埃努古州",
+      "latitude": 5.9168,
+      "longitude": 7.6761,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Dankama",
+      "province": "卡齐纳州",
+      "latitude": 13.2978,
+      "longitude": 7.7949,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Shaffa",
+      "province": "博尔诺州",
+      "latitude": 10.5067,
+      "longitude": 12.3331,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Omuo-Ekiti",
+      "province": "埃基蒂州",
+      "latitude": 7.7583,
+      "longitude": 5.7223,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Mayo-Belwa",
+      "province": "阿达马瓦",
+      "latitude": 9.0542,
+      "longitude": 12.0579,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Dengi",
+      "province": "高原州",
+      "latitude": 9.3687,
+      "longitude": 9.9622,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Kwali",
+      "province": "联邦首都特区",
+      "latitude": 8.8835,
+      "longitude": 7.0186,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ukata",
+      "province": "尼日尔州",
+      "latitude": 10.8312,
+      "longitude": 5.8249,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Adani",
+      "province": "埃努古州",
+      "latitude": 6.7397,
+      "longitude": 7.0112,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Akko",
+      "province": "贡贝州",
+      "latitude": 10.289,
+      "longitude": 10.9732,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Bununu",
+      "province": "包奇州",
+      "latitude": 10.0007,
+      "longitude": 9.516,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Boi",
+      "province": "包奇州",
+      "latitude": 9.5611,
+      "longitude": 9.5015,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Dabai",
+      "province": "凯比州",
+      "latitude": 11.4765,
+      "longitude": 5.2062,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Yanda Bayo",
+      "province": "包奇州",
+      "latitude": 11.5071,
+      "longitude": 10.7459,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Orerokpe",
+      "province": "三角州",
+      "latitude": 5.6375,
+      "longitude": 5.8901,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Gora",
+      "province": "卡齐纳州",
+      "latitude": 11.9129,
+      "longitude": 7.6653,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Gakem",
+      "province": "克罗斯河州",
+      "latitude": 6.7696,
+      "longitude": 8.9912,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Obolo-Eke (1)",
+      "province": "埃努古州",
+      "latitude": 6.8833,
+      "longitude": 7.6333,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Disina",
+      "province": "包奇州",
+      "latitude": 11.4814,
+      "longitude": 9.919,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Bornu Yassu",
+      "province": "博尔诺州",
+      "latitude": 12.275,
+      "longitude": 12.5686,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Ijebu-Ife",
+      "province": "奥贡州",
+      "latitude": 6.7784,
+      "longitude": 4.0339,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Dankalwa",
+      "province": "约贝州",
+      "latitude": 11.7445,
+      "longitude": 12.1854,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Aiyetoro",
+      "province": "拉各斯州",
+      "latitude": 6.4592,
+      "longitude": 3.3425,
+      "timezone": "Africa/Lagos"
+    },
+    {
+      "name": "",
+      "name_en": "Imota",
+      "province": "拉各斯州",
+      "latitude": 6.6636,
+      "longitude": 3.6694,
+      "timezone": "Africa/Lagos"
+    }
+  ]
+}

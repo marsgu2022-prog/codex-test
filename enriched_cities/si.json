@@ -1,0 +1,1710 @@
+{
+  "country_code": "SI",
+  "country_name": "斯洛文尼亚",
+  "cities": [
+    {
+      "name": "卢布尔雅那",
+      "name_en": "Ljubljana",
+      "province": "卢布尔雅那城市市镇",
+      "latitude": 46.0511,
+      "longitude": 14.5051,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "马里博尔",
+      "name_en": "Maribor",
+      "province": "马里博尔城市市镇",
+      "latitude": 46.5558,
+      "longitude": 15.6459,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "采列",
+      "name_en": "Celje",
+      "province": "Urban Municipality of Celje",
+      "latitude": 46.2309,
+      "longitude": 15.2604,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Kranj",
+      "province": "Urban Municipality of Kranj",
+      "latitude": 46.2389,
+      "longitude": 14.3556,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Koper",
+      "province": "科佩尔",
+      "latitude": 45.5482,
+      "longitude": 13.7296,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "新梅斯托",
+      "name_en": "Novo Mesto",
+      "province": "Urban Municipality of Novo Mesto",
+      "latitude": 45.804,
+      "longitude": 15.1689,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Velenje",
+      "province": "Urban Municipality of Velenje",
+      "latitude": 46.3572,
+      "longitude": 15.1128,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Ptuj",
+      "province": "普图伊",
+      "latitude": 46.4201,
+      "longitude": 15.8702,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Trbovlje",
+      "province": "Municipality of Trbovlje",
+      "latitude": 46.1541,
+      "longitude": 15.0518,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "卡姆尼克",
+      "name_en": "Kamnik",
+      "province": "Municipality of Kamnik",
+      "latitude": 46.2259,
+      "longitude": 14.6121,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Jesenice",
+      "province": "Municipality of Jesenice",
+      "latitude": 46.4324,
+      "longitude": 14.0623,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "多姆扎莱",
+      "name_en": "Domžale",
+      "province": "Municipality of Domžale",
+      "latitude": 46.1377,
+      "longitude": 14.5937,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "新戈里察",
+      "name_en": "Nova Gorica",
+      "province": "Urban Municipality of Nova Gorica",
+      "latitude": 45.956,
+      "longitude": 13.6484,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "什科菲亚洛卡",
+      "name_en": "Škofja Loka",
+      "province": "什科菲亚洛卡市镇",
+      "latitude": 46.1655,
+      "longitude": 14.3063,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Izola",
+      "province": "伊佐拉",
+      "latitude": 45.5366,
+      "longitude": 13.6601,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Murska Sobota",
+      "province": "Urban Municipality of Murska Sobota",
+      "latitude": 46.6626,
+      "longitude": 16.1664,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Postojna",
+      "province": "波斯托伊纳",
+      "latitude": 45.7743,
+      "longitude": 14.2153,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Logatec",
+      "province": "洛加泰茨市镇",
+      "latitude": 45.9168,
+      "longitude": 14.2265,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Šentilj v Slov. Goricah",
+      "province": "Municipality of Šentilj",
+      "latitude": 46.6817,
+      "longitude": 15.6481,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Vrhnika",
+      "province": "Municipality of Vrhnika",
+      "latitude": 45.9635,
+      "longitude": 14.2948,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "科切维",
+      "name_en": "Kočevje",
+      "province": "Municipality of Kočevje",
+      "latitude": 45.6432,
+      "longitude": 14.8604,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Slovenska Bistrica",
+      "province": "斯洛文尼亚比斯特里察",
+      "latitude": 46.3931,
+      "longitude": 15.5735,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Slovenj Gradec",
+      "province": "Urban Municipality of Slovenj Gradec",
+      "latitude": 46.5109,
+      "longitude": 15.0838,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "格罗苏普列",
+      "name_en": "Grosuplje",
+      "province": "Municipality of Grosuplje",
+      "latitude": 45.9558,
+      "longitude": 14.6589,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Ravne na Koroškem",
+      "province": "Municipality of Ravne na Koroškem",
+      "latitude": 46.5431,
+      "longitude": 14.9705,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "克尔什科",
+      "name_en": "Krško",
+      "province": "Urban Municipality of Krško",
+      "latitude": 45.9592,
+      "longitude": 15.4917,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "阿伊多夫什契纳",
+      "name_en": "Ajdovščina",
+      "province": "阿伊多夫什契纳市镇",
+      "latitude": 45.886,
+      "longitude": 13.9095,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "布雷日采",
+      "name_en": "Brežice",
+      "province": "Municipality of Brežice",
+      "latitude": 45.9073,
+      "longitude": 15.5932,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "利蒂亚",
+      "name_en": "Litija",
+      "province": "Municipality of Litija",
+      "latitude": 46.0604,
+      "longitude": 14.8218,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "萨瓦河畔扎戈列",
+      "name_en": "Zagorje ob Savi",
+      "province": "萨瓦河畔扎戈列市镇",
+      "latitude": 46.1318,
+      "longitude": 14.9969,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Mengeš",
+      "province": "Municipality of Mengeš",
+      "latitude": 46.1686,
+      "longitude": 14.5744,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Lucija",
+      "province": "Municipality of Piran",
+      "latitude": 45.5053,
+      "longitude": 13.6024,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "塞扎纳",
+      "name_en": "Sežana",
+      "province": "Municipality of Sežana",
+      "latitude": 45.7092,
+      "longitude": 13.8733,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Idrija",
+      "province": "伊德里亚",
+      "latitude": 46.0029,
+      "longitude": 14.0279,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Radovljica",
+      "province": "拉多夫利察市镇",
+      "latitude": 46.3435,
+      "longitude": 14.1755,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Hrastnik",
+      "province": "赫拉斯特尼克市镇",
+      "latitude": 46.1465,
+      "longitude": 15.0846,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Črnomelj",
+      "province": "奇尔诺梅利市镇",
+      "latitude": 45.5726,
+      "longitude": 15.1919,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Medvode",
+      "province": "Municipality of Medvode",
+      "latitude": 46.1422,
+      "longitude": 14.4111,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "布莱德",
+      "name_en": "Bled",
+      "province": "Municipality of Bled",
+      "latitude": 46.3686,
+      "longitude": 14.1165,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Rogaška Slatina",
+      "province": "Municipality of Rogaška Slatina",
+      "latitude": 46.2373,
+      "longitude": 15.6391,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Žalec",
+      "province": "Municipality of Žalec",
+      "latitude": 46.2515,
+      "longitude": 15.1648,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "采列附近申特尤尔",
+      "name_en": "Šentjur",
+      "province": "申特尤尔市镇",
+      "latitude": 46.2172,
+      "longitude": 15.3975,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Slovenske Konjice",
+      "province": "斯洛文尼亚科尼采",
+      "latitude": 46.3374,
+      "longitude": 15.4233,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Sevnica",
+      "province": "塞夫尼察市镇",
+      "latitude": 46.0079,
+      "longitude": 15.3165,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Prevalje",
+      "province": "普雷瓦列",
+      "latitude": 46.547,
+      "longitude": 14.9202,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Ilirska Bistrica",
+      "province": "伊利尔斯卡比斯特里察",
+      "latitude": 45.5676,
+      "longitude": 14.2457,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Ruše",
+      "province": "鲁舍市镇",
+      "latitude": 46.5401,
+      "longitude": 15.5179,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Piran",
+      "province": "Municipality of Piran",
+      "latitude": 45.5278,
+      "longitude": 13.5706,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "采尔克尼察",
+      "name_en": "Cerknica",
+      "province": "Municipality of Cerknica",
+      "latitude": 45.797,
+      "longitude": 14.3626,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Trzin",
+      "province": "Municipality of Trzin",
+      "latitude": 46.1364,
+      "longitude": 14.5617,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Miklavž na Dravskem Polju",
+      "province": "Municipality of Miklavž na Dravskem Polju",
+      "latitude": 46.5061,
+      "longitude": 15.697,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Šempeter pri Gorici",
+      "province": "Municipality of Šempeter–Vrtojba",
+      "latitude": 45.9293,
+      "longitude": 13.6412,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Tržič",
+      "province": "Municipality of Tržič",
+      "latitude": 46.3636,
+      "longitude": 14.3105,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Preddvor",
+      "province": "Municipality of Preddvor",
+      "latitude": 46.3026,
+      "longitude": 14.4222,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Ribnica",
+      "province": "Municipality of Ribnica",
+      "latitude": 45.7386,
+      "longitude": 14.7275,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Žiri",
+      "province": "Municipality of Žiri",
+      "latitude": 46.044,
+      "longitude": 14.1074,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Tolmin",
+      "province": "Municipality of Tolmin",
+      "latitude": 46.183,
+      "longitude": 13.7332,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "特雷布涅",
+      "name_en": "Trebnje",
+      "province": "特雷布涅市镇",
+      "latitude": 45.9042,
+      "longitude": 15.0224,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Ljutomer",
+      "province": "柳托梅尔",
+      "latitude": 46.5177,
+      "longitude": 16.1982,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "拉什科",
+      "name_en": "Laško",
+      "province": "拉什科市镇",
+      "latitude": 46.1546,
+      "longitude": 15.2355,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Dravograd",
+      "province": "Municipality of Dravograd",
+      "latitude": 46.5885,
+      "longitude": 15.0187,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Lenart v Slovenskih Goricah",
+      "province": "Municipality of Lenart",
+      "latitude": 46.5768,
+      "longitude": 15.8317,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Ankaran",
+      "province": "安卡兰市镇",
+      "latitude": 45.579,
+      "longitude": 13.7362,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Mežica",
+      "province": "Municipality of Mežica",
+      "latitude": 46.5203,
+      "longitude": 14.8531,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Brezovica pri Ljubljani",
+      "province": "Municipality of Brezovica",
+      "latitude": 46.0233,
+      "longitude": 14.415,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Metlika",
+      "province": "Municipality of Metlika",
+      "latitude": 45.6498,
+      "longitude": 15.3133,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "上拉德戈纳",
+      "name_en": "Gornja Radgona",
+      "province": "Municipality of Gornja Radgona",
+      "latitude": 46.6726,
+      "longitude": 15.9922,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Šenčur",
+      "province": "Municipality of Šenčur",
+      "latitude": 46.2471,
+      "longitude": 14.4203,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Lendava",
+      "province": "伦达瓦",
+      "latitude": 46.5649,
+      "longitude": 16.4509,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Železniki",
+      "province": "热莱兹尼基市镇",
+      "latitude": 46.2248,
+      "longitude": 14.1721,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Zreče",
+      "province": "兹雷切市镇",
+      "latitude": 46.3822,
+      "longitude": 15.3792,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Šoštanj",
+      "province": "Municipality of Šoštanj",
+      "latitude": 46.38,
+      "longitude": 15.0486,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Radlje ob Dravi",
+      "province": "Municipality of Radlje ob Dravi",
+      "latitude": 46.6153,
+      "longitude": 15.2247,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Rače",
+      "province": "Municipality of Rače–Fram",
+      "latitude": 46.4522,
+      "longitude": 15.6809,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Spodnje Hoče",
+      "province": "Municipality of Hoče–Slivnica",
+      "latitude": 46.4996,
+      "longitude": 15.6489,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Črna na Koroškem",
+      "province": "科罗什卡地区奇尔纳市镇",
+      "latitude": 46.4704,
+      "longitude": 14.8501,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Beltinci",
+      "province": "Municipality of Beltinci",
+      "latitude": 46.6054,
+      "longitude": 16.2412,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Polzela",
+      "province": "Municipality of Polzela",
+      "latitude": 46.2836,
+      "longitude": 15.0651,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Muta",
+      "province": "Municipality of Muta",
+      "latitude": 46.6116,
+      "longitude": 15.1662,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Vojnik",
+      "province": "Municipality of Vojnik",
+      "latitude": 46.2933,
+      "longitude": 15.3036,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Ig",
+      "province": "伊格市镇",
+      "latitude": 45.9589,
+      "longitude": 14.5281,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Štore",
+      "province": "Municipality of Štore",
+      "latitude": 46.2208,
+      "longitude": 15.3139,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Škofljica",
+      "province": "Municipality of Škofljica",
+      "latitude": 45.9841,
+      "longitude": 14.5748,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Ivančna Gorica",
+      "province": "Municipality of Ivančna Gorica",
+      "latitude": 45.937,
+      "longitude": 14.8053,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Radenci",
+      "province": "Municipality of Radenci",
+      "latitude": 46.642,
+      "longitude": 16.0378,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Ormož",
+      "province": "Municipality of Ormož",
+      "latitude": 46.4121,
+      "longitude": 16.1522,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Radeče",
+      "province": "拉代切市镇",
+      "latitude": 46.0655,
+      "longitude": 15.1821,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "博罗夫尼察",
+      "name_en": "Borovnica",
+      "province": "Municipality of Borovnica",
+      "latitude": 45.9175,
+      "longitude": 14.3644,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Pivka",
+      "province": "皮夫卡",
+      "latitude": 45.6829,
+      "longitude": 14.1959,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Mozirje",
+      "province": "Municipality of Mozirje",
+      "latitude": 46.3383,
+      "longitude": 14.9649,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Semič",
+      "province": "Municipality of Semič",
+      "latitude": 45.6465,
+      "longitude": 15.1814,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Straža",
+      "province": "Municipality of Straža",
+      "latitude": 45.7811,
+      "longitude": 15.0757,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Lovrenc na Pohorju",
+      "province": "Municipality of Lovrenc na Pohorju",
+      "latitude": 46.5413,
+      "longitude": 15.3917,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Mislinja",
+      "province": "Municipality of Mislinja",
+      "latitude": 46.4414,
+      "longitude": 15.2003,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Vipava",
+      "province": "Municipality of Vipava",
+      "latitude": 45.8459,
+      "longitude": 13.9623,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Bohinjska Bistrica",
+      "province": "博希尼市镇",
+      "latitude": 46.2722,
+      "longitude": 13.9535,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Šmarje pri Jelšah",
+      "province": "Municipality of Šmarje pri Jelšah",
+      "latitude": 46.2272,
+      "longitude": 15.5192,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Naklo",
+      "province": "Municipality of Naklo",
+      "latitude": 46.2735,
+      "longitude": 14.3173,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Cerklje na Gorenjskem",
+      "province": "Municipality of Cerklje na Gorenjskem",
+      "latitude": 46.2501,
+      "longitude": 14.4862,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Prebold",
+      "province": "普雷博尔德市镇",
+      "latitude": 46.2366,
+      "longitude": 15.0926,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Spodnji Duplek",
+      "province": "Municipality of Duplek",
+      "latitude": 46.5036,
+      "longitude": 15.7452,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Odranci",
+      "province": "Municipality of Odranci",
+      "latitude": 46.5864,
+      "longitude": 16.2797,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "博韦茨",
+      "name_en": "Bovec",
+      "province": "Municipality of Bovec",
+      "latitude": 46.3381,
+      "longitude": 13.5525,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Cerkno",
+      "province": "采尔克诺",
+      "latitude": 46.1253,
+      "longitude": 13.9827,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Vodice",
+      "province": "Municipality of Vodice",
+      "latitude": 46.1899,
+      "longitude": 14.4949,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Vuzenica",
+      "province": "Municipality of Vuzenica",
+      "latitude": 46.5966,
+      "longitude": 15.1635,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Rogatec",
+      "province": "Municipality of Rogatec",
+      "latitude": 46.2277,
+      "longitude": 15.6986,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Turnišče",
+      "province": "Municipality of Turnišče",
+      "latitude": 46.6257,
+      "longitude": 16.3139,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Miren",
+      "province": "Municipality of Miren–Kostanjevica",
+      "latitude": 45.8954,
+      "longitude": 13.6082,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Dragomer",
+      "province": "Log–Dragomer",
+      "latitude": 46.0161,
+      "longitude": 14.3843,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Šmartno pri Litiji",
+      "province": "Municipality of Šmartno pri Litiji",
+      "latitude": 46.044,
+      "longitude": 14.8448,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "克拉尼斯卡戈拉",
+      "name_en": "Kranjska Gora",
+      "province": "Municipality of Kranjska Gora",
+      "latitude": 46.4569,
+      "longitude": 13.7782,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Šentjernej",
+      "province": "Municipality of Šentjernej",
+      "latitude": 45.8421,
+      "longitude": 15.3341,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Mirna",
+      "province": "Municipality of Mirna",
+      "latitude": 45.9517,
+      "longitude": 15.0619,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Divača",
+      "province": "Municipality of Divača",
+      "latitude": 45.6848,
+      "longitude": 13.9705,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Oplotnica",
+      "province": "奥普洛特尼察市镇",
+      "latitude": 46.3873,
+      "longitude": 15.4458,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Selnica ob Dravi",
+      "province": "Municipality of Selnica ob Dravi",
+      "latitude": 46.5518,
+      "longitude": 15.4929,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Horjul",
+      "province": "Municipality of Horjul",
+      "latitude": 46.0227,
+      "longitude": 14.2974,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Kanal",
+      "province": "索查河畔卡纳尔市镇",
+      "latitude": 46.0874,
+      "longitude": 13.6349,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Dornava",
+      "province": "多尔纳瓦",
+      "latitude": 46.4357,
+      "longitude": 15.9529,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Kidričevo",
+      "province": "Municipality of Kidričevo",
+      "latitude": 46.4031,
+      "longitude": 15.7987,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Gorenja Vas",
+      "province": "戈雷尼亚村-波利亚内市镇",
+      "latitude": 46.1074,
+      "longitude": 14.1477,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Črenšovci",
+      "province": "Municipality of Črenšovci",
+      "latitude": 46.5579,
+      "longitude": 16.3041,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Poljčane",
+      "province": "Municipality of Poljčane",
+      "latitude": 46.3143,
+      "longitude": 15.5781,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "科巴里德",
+      "name_en": "Kobarid",
+      "province": "科巴里德",
+      "latitude": 46.2476,
+      "longitude": 13.5791,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Ljubno ob Savinji",
+      "province": "Municipality of Ljubno",
+      "latitude": 46.3436,
+      "longitude": 14.8338,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Žužemberk",
+      "province": "Municipality of Žužemberk",
+      "latitude": 45.8338,
+      "longitude": 14.928,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Gornji Grad",
+      "province": "Municipality of Gornji Grad",
+      "latitude": 46.2954,
+      "longitude": 14.8079,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Mirna Peč",
+      "province": "米尔纳佩奇市镇",
+      "latitude": 45.8594,
+      "longitude": 15.0831,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Središče ob Dravi",
+      "province": "Municipality of Središče ob Dravi",
+      "latitude": 46.3942,
+      "longitude": 16.2681,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Dobrovnik",
+      "province": "Municipality of Dobrovnik",
+      "latitude": 46.6514,
+      "longitude": 16.3525,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Moravče",
+      "province": "Municipality of Moravče",
+      "latitude": 46.1369,
+      "longitude": 14.745,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Benedikt",
+      "province": "Municipality of Benedikt",
+      "latitude": 46.6065,
+      "longitude": 15.891,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Dobrova",
+      "province": "Municipality of Dobrova–Polhov Gradec",
+      "latitude": 46.0458,
+      "longitude": 14.3919,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Pesnica",
+      "province": "佩斯尼察市镇",
+      "latitude": 46.6069,
+      "longitude": 15.6767,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Veržej",
+      "province": "Municipality of Veržej",
+      "latitude": 46.5833,
+      "longitude": 16.164,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Dolenjske Toplice",
+      "province": "多莱尼斯凯托普利采市镇",
+      "latitude": 45.7566,
+      "longitude": 15.0592,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Komenda",
+      "province": "科门达市镇",
+      "latitude": 46.2048,
+      "longitude": 14.5384,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Nazarje",
+      "province": "Municipality of Nazarje",
+      "latitude": 46.319,
+      "longitude": 14.9501,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Velika Polana",
+      "province": "Municipality of Velika Polana",
+      "latitude": 46.5722,
+      "longitude": 16.3472,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Vitanje",
+      "province": "Municipality of Vitanje",
+      "latitude": 46.3834,
+      "longitude": 15.2972,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Zgornja Hajdina",
+      "province": "哈伊迪纳市镇",
+      "latitude": 46.4061,
+      "longitude": 15.8384,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Sodražica",
+      "province": "Municipality of Sodražica",
+      "latitude": 45.7613,
+      "longitude": 14.6357,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Vransko",
+      "province": "Municipality of Vransko",
+      "latitude": 46.2444,
+      "longitude": 14.951,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Starše",
+      "province": "Municipality of Starše",
+      "latitude": 46.4658,
+      "longitude": 15.7672,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "赫尔佩列",
+      "name_en": "Hrpelje",
+      "province": "Municipality of Hrpelje–Kozina",
+      "latitude": 45.6072,
+      "longitude": 13.9428,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Gorišnica",
+      "province": "Municipality of Gorišnica",
+      "latitude": 46.4147,
+      "longitude": 16.0135,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Sv. Trojica v Slov. Goricah",
+      "province": "Municipality of Sveta Trojica v Slovenskih Goricah",
+      "latitude": 46.5767,
+      "longitude": 15.8769,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Moravske Toplice",
+      "province": "摩拉瓦托普利采市镇",
+      "latitude": 46.6831,
+      "longitude": 16.2208,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Velike Lašče",
+      "province": "Municipality of Velike Lašče",
+      "latitude": 45.8337,
+      "longitude": 14.6364,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "科斯塔涅维察",
+      "name_en": "Kostanjevica na Krki",
+      "province": "Municipality of Kostanjevica na Krki",
+      "latitude": 45.8456,
+      "longitude": 15.4204,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Grad",
+      "province": "格拉德市镇",
+      "latitude": 46.7976,
+      "longitude": 16.0984,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Komen",
+      "province": "Municipality of Komen",
+      "latitude": 45.8156,
+      "longitude": 13.7483,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Šmartno ob Paki",
+      "province": "Municipality of Šmartno ob Paki",
+      "latitude": 46.3333,
+      "longitude": 15.0333,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Kostel",
+      "province": "Municipality of Kostel",
+      "latitude": 45.5084,
+      "longitude": 14.9092,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Mokronog",
+      "province": "莫克罗诺格-特雷贝尔诺市镇",
+      "latitude": 45.939,
+      "longitude": 15.1394,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Kozje",
+      "province": "Municipality of Kozje",
+      "latitude": 46.0733,
+      "longitude": 15.5599,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Puconci",
+      "province": "Municipality of Puconci",
+      "latitude": 46.7047,
+      "longitude": 16.1573,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Majšperk",
+      "province": "Municipality of Majšperk",
+      "latitude": 46.3503,
+      "longitude": 15.7341,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Videm",
+      "province": "Municipality of Dobrepolje",
+      "latitude": 45.8498,
+      "longitude": 14.6943,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Podčetrtek",
+      "province": "Municipality of Podčetrtek",
+      "latitude": 46.1568,
+      "longitude": 15.5969,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Zgornje Jezersko",
+      "province": "Municipality of Jezersko",
+      "latitude": 46.3941,
+      "longitude": 14.5066,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Dobrna",
+      "province": "Dobrna",
+      "latitude": 46.3371,
+      "longitude": 15.2262,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Apače",
+      "province": "Municipality of Apače",
+      "latitude": 46.6978,
+      "longitude": 15.9093,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Kobilje",
+      "province": "Municipality of Kobilje",
+      "latitude": 46.6852,
+      "longitude": 16.3937,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Leskova Dolina",
+      "province": "洛什卡多利纳市镇",
+      "latitude": 45.6214,
+      "longitude": 14.4606,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Zgornja Kungota",
+      "province": "Municipality of Kungota",
+      "latitude": 46.6387,
+      "longitude": 15.6149,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Rečica ob Savinji",
+      "province": "Municipality of Rečica ob Savinji",
+      "latitude": 46.3167,
+      "longitude": 14.9167,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Zgornje Gorje",
+      "province": "戈列市镇",
+      "latitude": 46.3796,
+      "longitude": 14.0694,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Markovci",
+      "province": "Municipality of Markovci",
+      "latitude": 46.3956,
+      "longitude": 15.9283,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Križevci pri Ljutomeru",
+      "province": "Municipality of Križevci",
+      "latitude": 46.5683,
+      "longitude": 16.1386,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "布科维察",
+      "name_en": "Bukovica",
+      "province": "Municipality of Renče–Vogrsko",
+      "latitude": 45.9008,
+      "longitude": 13.6672,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Videm pri Ptuju",
+      "province": "Municipality of Videm",
+      "latitude": 46.3687,
+      "longitude": 15.9063,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "布雷兹尼察",
+      "name_en": "Breznica",
+      "province": "Municipality of Žirovnica",
+      "latitude": 46.3939,
+      "longitude": 14.1541,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Cankova",
+      "province": "Municipality of Cankova",
+      "latitude": 46.7203,
+      "longitude": 16.0224,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Cirkulane",
+      "province": "Municipality of Cirkulane",
+      "latitude": 46.3441,
+      "longitude": 15.9947,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Šalovci",
+      "province": "Municipality of Šalovci",
+      "latitude": 46.8241,
+      "longitude": 16.2978,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Gornji Petrovci",
+      "province": "Municipality of Gornji Petrovci",
+      "latitude": 46.8036,
+      "longitude": 16.219,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Lukovica pri Domžalah",
+      "province": "卢科维察市镇",
+      "latitude": 46.1699,
+      "longitude": 14.6918,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Luče",
+      "province": "Municipality of Luče",
+      "latitude": 46.355,
+      "longitude": 14.7476,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Tišina",
+      "province": "Municipality of Tišina",
+      "latitude": 46.6542,
+      "longitude": 16.0936,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Tabor",
+      "province": "Municipality of Tabor",
+      "latitude": 46.2346,
+      "longitude": 15.0167,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Ribnica na Pohorju",
+      "province": "Municipality of Ribnica na Pohorju",
+      "latitude": 46.535,
+      "longitude": 15.2728,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Žetale",
+      "province": "Municipality of Žetale",
+      "latitude": 46.2736,
+      "longitude": 15.8266,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Jurovski Dol",
+      "province": "Municipality of Sveti Jurij v Slovenskih Goricah",
+      "latitude": 46.6067,
+      "longitude": 15.7846,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Braslovče",
+      "province": "Municipality of Braslovče",
+      "latitude": 46.288,
+      "longitude": 15.0398,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Juršinci",
+      "province": "Municipality of Juršinci",
+      "latitude": 46.4859,
+      "longitude": 15.9682,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Podlehnik",
+      "province": "Municipality of Podlehnik",
+      "latitude": 46.3354,
+      "longitude": 15.8791,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Kuzma",
+      "province": "Municipality of Kuzma",
+      "latitude": 46.8351,
+      "longitude": 16.0807,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Hrib-Loški Potok",
+      "province": "Municipality of Loški Potok",
+      "latitude": 45.7069,
+      "longitude": 14.6167,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Trnovska Vas",
+      "province": "Municipality of Trnovska Vas",
+      "latitude": 46.5202,
+      "longitude": 15.8866,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Podvelka",
+      "province": "Municipality of Podvelka",
+      "latitude": 46.5884,
+      "longitude": 15.3279,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Dobrovo",
+      "province": "Municipality of Brda",
+      "latitude": 45.9974,
+      "longitude": 13.5271,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Vitomarci",
+      "province": "Municipality of Sveti Andraž v Slovenskih Goricah",
+      "latitude": 46.5275,
+      "longitude": 15.9394,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Šentrupert na Dolenjskem",
+      "province": "Municipality of Šentrupert",
+      "latitude": 45.978,
+      "longitude": 15.093,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Šmarjeta",
+      "province": "Municipality of Šmarješke Toplice",
+      "latitude": 45.8833,
+      "longitude": 15.25,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Nova Vas",
+      "province": "Municipality of Bloke",
+      "latitude": 45.7727,
+      "longitude": 14.5065,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Sveti Tomaž",
+      "province": "Municipality of Sveti Tomaž",
+      "latitude": 46.4835,
+      "longitude": 16.0791,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Rogašovci",
+      "province": "Municipality of Rogašovci",
+      "latitude": 46.7978,
+      "longitude": 16.0361,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Razkrižje",
+      "province": "Municipality of Razkrižje",
+      "latitude": 46.5218,
+      "longitude": 16.2788,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Škocjan",
+      "province": "Municipality of Škocjan",
+      "latitude": 45.9069,
+      "longitude": 15.2913,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Dol pri Ljubljani",
+      "province": "卢布尔雅那附近多尔市镇",
+      "latitude": 46.0886,
+      "longitude": 14.6007,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Bistrica ob Sotli",
+      "province": "Municipality of Bistrica ob Sotli",
+      "latitude": 46.0575,
+      "longitude": 15.6633,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Hodoš",
+      "province": "Municipality of Hodoš",
+      "latitude": 46.8218,
+      "longitude": 16.3259,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Makole",
+      "province": "Municipality of Makole",
+      "latitude": 46.3164,
+      "longitude": 15.6663,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Solčava",
+      "province": "索尔察瓦市镇",
+      "latitude": 46.4196,
+      "longitude": 14.6937,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Sveti Jurij",
+      "province": "Municipality of Sveti Jurij ob Ščavnici",
+      "latitude": 46.2172,
+      "longitude": 15.3975,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Destrnik",
+      "province": "代斯特尔尼克市镇",
+      "latitude": 46.4925,
+      "longitude": 15.8789,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Sv. Ana v Slov. Goricah",
+      "province": "圣安娜市镇",
+      "latitude": 46.6492,
+      "longitude": 15.8442,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Cerkvenjak",
+      "province": "Municipality of Cerkvenjak",
+      "latitude": 46.568,
+      "longitude": 15.9437,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Dobje pri Planini",
+      "province": "Municipality of Dobje",
+      "latitude": 46.1375,
+      "longitude": 15.3941,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Osilnica",
+      "province": "Municipality of Osilnica",
+      "latitude": 45.5291,
+      "longitude": 14.6984,
+      "timezone": "Europe/Ljubljana"
+    },
+    {
+      "name": "",
+      "name_en": "Zavrč",
+      "province": "Municipality of Zavrč",
+      "latitude": 46.3905,
+      "longitude": 16.05,
+      "timezone": "Europe/Ljubljana"
+    }
+  ]
+}

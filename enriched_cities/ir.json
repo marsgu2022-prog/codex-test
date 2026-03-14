@@ -1,0 +1,3862 @@
+{
+  "country_code": "IR",
+  "country_name": "伊朗",
+  "cities": [
+    {
+      "name": "德黑兰",
+      "name_en": "Tehran",
+      "province": "德黑兰省",
+      "latitude": 35.6944,
+      "longitude": 51.4215,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "马什哈德",
+      "name_en": "Mashhad",
+      "province": "礼萨呼罗珊省",
+      "latitude": 36.2981,
+      "longitude": 59.6057,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "伊斯法罕",
+      "name_en": "Isfahan",
+      "province": "伊斯法罕省",
+      "latitude": 32.6525,
+      "longitude": 51.6746,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "卡拉季",
+      "name_en": "Karaj",
+      "province": "厄尔布尔士省",
+      "latitude": 35.8327,
+      "longitude": 50.9915,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "大不里士",
+      "name_en": "Tabriz",
+      "province": "东阿塞拜疆省",
+      "latitude": 38.08,
+      "longitude": 46.2919,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "设拉子",
+      "name_en": "Shiraz",
+      "province": "法尔斯省",
+      "latitude": 29.6103,
+      "longitude": 52.5311,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "库姆",
+      "name_en": "Qom",
+      "province": "库姆省",
+      "latitude": 34.6401,
+      "longitude": 50.8764,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "阿瓦士",
+      "name_en": "Ahvaz",
+      "province": "Khuzestan",
+      "latitude": 31.319,
+      "longitude": 48.6842,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "克尔曼沙赫",
+      "name_en": "Kermanshah",
+      "province": "克尔曼沙汗省",
+      "latitude": 34.3142,
+      "longitude": 47.065,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "拉什特",
+      "name_en": "Rasht",
+      "province": "吉兰省",
+      "latitude": 37.2761,
+      "longitude": 49.5886,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "克尔曼",
+      "name_en": "Kerman",
+      "province": "克尔曼省",
+      "latitude": 30.2832,
+      "longitude": 57.0788,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Orūmīyeh",
+      "province": "西阿塞拜疆省",
+      "latitude": 37.5527,
+      "longitude": 45.0761,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "扎黑丹",
+      "name_en": "Zahedan",
+      "province": "锡斯坦和俾路支斯坦省",
+      "latitude": 29.4963,
+      "longitude": 60.8629,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Hamadān",
+      "province": "哈马丹省",
+      "latitude": 34.7992,
+      "longitude": 48.5146,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Āzādshahr",
+      "province": "哈马丹省",
+      "latitude": 34.7905,
+      "longitude": 48.5701,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Arāk",
+      "province": "中央省",
+      "latitude": 34.0949,
+      "longitude": 49.6981,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "亚兹德",
+      "name_en": "Yazd",
+      "province": "亚兹德省",
+      "latitude": 31.8972,
+      "longitude": 54.3675,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Eslamshahr",
+      "province": "德黑兰省",
+      "latitude": 35.5522,
+      "longitude": 51.235,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Ardabīl",
+      "province": "阿尔达比勒省",
+      "latitude": 38.2498,
+      "longitude": 48.2933,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "阿巴丹",
+      "name_en": "Abadan",
+      "province": "Khuzestan",
+      "latitude": 30.3392,
+      "longitude": 48.3043,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Zanjan",
+      "province": "赞詹省",
+      "latitude": 36.6764,
+      "longitude": 48.4963,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "阿巴斯港",
+      "name_en": "Bandar Abbas",
+      "province": "霍尔木兹甘省",
+      "latitude": 27.1865,
+      "longitude": 56.2808,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "萨南达季",
+      "name_en": "Sanandaj",
+      "province": "库尔德斯坦省",
+      "latitude": 35.315,
+      "longitude": 46.9988,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "加兹温",
+      "name_en": "Qazvin",
+      "province": "加兹温省",
+      "latitude": 36.2688,
+      "longitude": 50.0041,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "霍拉姆沙赫尔",
+      "name_en": "Khorramshahr",
+      "province": "Khuzestan",
+      "latitude": 30.4408,
+      "longitude": 48.1843,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Khorramabad",
+      "province": "洛雷斯坦省",
+      "latitude": 33.4878,
+      "longitude": 48.3558,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Shahrīār",
+      "province": "德黑兰省",
+      "latitude": 35.6588,
+      "longitude": 51.0577,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Shahr-e Qods",
+      "province": "德黑兰省",
+      "latitude": 35.7214,
+      "longitude": 51.109,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Khomeynī Shahr",
+      "province": "伊斯法罕省",
+      "latitude": 32.6856,
+      "longitude": 51.5361,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Dezfūl",
+      "province": "Khuzestan",
+      "latitude": 32.4167,
+      "longitude": 48.2167,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Marāgheh",
+      "province": "东阿塞拜疆省",
+      "latitude": 37.3921,
+      "longitude": 46.2391,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Marāgheh",
+      "province": "礼萨呼罗珊省",
+      "latitude": 37.3921,
+      "longitude": 46.2391,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "萨里市",
+      "name_en": "Sari",
+      "province": "马赞德兰省",
+      "latitude": 36.5633,
+      "longitude": 53.0601,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Borūjerd",
+      "province": "洛雷斯坦省",
+      "latitude": 33.8973,
+      "longitude": 48.7516,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Qarchak",
+      "province": "德黑兰省",
+      "latitude": 35.4287,
+      "longitude": 51.5776,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Gorgān",
+      "province": "戈勒斯坦省",
+      "latitude": 36.8427,
+      "longitude": 54.4439,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Golestān",
+      "province": "德黑兰省",
+      "latitude": 35.5183,
+      "longitude": 51.1819,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Āmol",
+      "province": "马赞德兰省",
+      "latitude": 36.4696,
+      "longitude": 52.3507,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Pākdasht",
+      "province": "德黑兰省",
+      "latitude": 35.4785,
+      "longitude": 51.6834,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Najafābād",
+      "province": "伊斯法罕省",
+      "latitude": 32.6346,
+      "longitude": 51.3653,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "萨卜泽瓦尔",
+      "name_en": "Sabzevar",
+      "province": "礼萨呼罗珊省",
+      "latitude": 36.2126,
+      "longitude": 57.6819,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Neyshābūr",
+      "province": "礼萨呼罗珊省",
+      "latitude": 36.2133,
+      "longitude": 58.7957,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Naz̧arābād",
+      "province": "厄尔布尔士省",
+      "latitude": 35.9541,
+      "longitude": 50.6061,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Būkān",
+      "province": "西阿塞拜疆省",
+      "latitude": 36.521,
+      "longitude": 46.2089,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "锡尔詹",
+      "name_en": "Sirjan",
+      "province": "克尔曼省",
+      "latitude": 29.4514,
+      "longitude": 55.6809,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Qā’em Shahr",
+      "province": "马赞德兰省",
+      "latitude": 36.4631,
+      "longitude": 52.8601,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Bābol",
+      "province": "马赞德兰省",
+      "latitude": 36.551,
+      "longitude": 52.6786,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Nasimshahr",
+      "province": "德黑兰省",
+      "latitude": 35.5653,
+      "longitude": 51.1583,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Nasīm Shahr",
+      "province": "德黑兰省",
+      "latitude": 35.565,
+      "longitude": 51.1633,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Bīrjand",
+      "province": "南呼罗珊省",
+      "latitude": 32.8663,
+      "longitude": 59.2211,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Bojnūrd",
+      "province": "北呼罗珊省",
+      "latitude": 37.4747,
+      "longitude": 57.329,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Mīāneh",
+      "province": "东阿塞拜疆省",
+      "latitude": 37.421,
+      "longitude": 47.715,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Fardīs",
+      "province": "德黑兰省",
+      "latitude": 35.7555,
+      "longitude": 50.9967,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Varāmīn",
+      "province": "德黑兰省",
+      "latitude": 35.3242,
+      "longitude": 51.6457,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Malāyer",
+      "province": "哈马丹省",
+      "latitude": 34.3016,
+      "longitude": 48.8217,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Sāveh",
+      "province": "中央省",
+      "latitude": 35.0213,
+      "longitude": 50.3566,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Khowy",
+      "province": "西阿塞拜疆省",
+      "latitude": 38.5503,
+      "longitude": 44.9521,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Shāhīn Shahr",
+      "province": "伊斯法罕省",
+      "latitude": 32.8579,
+      "longitude": 51.5529,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Bushehr",
+      "province": "布什尔省",
+      "latitude": 28.9689,
+      "longitude": 50.8366,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Bandar-e Māhshahr",
+      "province": "Khuzestan",
+      "latitude": 30.5566,
+      "longitude": 49.1885,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Mahābād",
+      "province": "西阿塞拜疆省",
+      "latitude": 36.7631,
+      "longitude": 45.7222,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "萨盖兹",
+      "name_en": "Saqqez",
+      "province": "库尔德斯坦省",
+      "latitude": 36.2499,
+      "longitude": 46.2735,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Marvdasht",
+      "province": "法尔斯省",
+      "latitude": 29.8741,
+      "longitude": 52.8026,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Rafsanjān",
+      "province": "克尔曼省",
+      "latitude": 30.4067,
+      "longitude": 55.9939,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Kamālshahr",
+      "province": "厄尔布尔士省",
+      "latitude": 35.8619,
+      "longitude": 50.8742,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Jahrom",
+      "province": "法尔斯省",
+      "latitude": 28.5,
+      "longitude": 53.5605,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Īlām",
+      "province": "伊拉姆省",
+      "latitude": 33.6374,
+      "longitude": 46.4227,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Andīmeshk",
+      "province": "Khuzestan",
+      "latitude": 32.4615,
+      "longitude": 48.3537,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Shahreẕā",
+      "province": "伊斯法罕省",
+      "latitude": 32.0088,
+      "longitude": 51.8641,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Mīāndoāb",
+      "province": "西阿塞拜疆省",
+      "latitude": 36.9667,
+      "longitude": 46.1096,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Shahrud",
+      "province": "塞姆南省",
+      "latitude": 36.4182,
+      "longitude": 54.9763,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Gonbad-e Kāvūs",
+      "province": "戈勒斯坦省",
+      "latitude": 37.25,
+      "longitude": 55.1672,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Iranshahr",
+      "province": "锡斯坦和俾路支斯坦省",
+      "latitude": 27.2024,
+      "longitude": 60.6848,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Jīroft",
+      "province": "克尔曼省",
+      "latitude": 28.6781,
+      "longitude": 57.7406,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Shahr-e Kord",
+      "province": "恰哈马哈勒－巴赫蒂亚里省",
+      "latitude": 32.3261,
+      "longitude": 50.8572,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Torbat-e Ḩeydarīyeh",
+      "province": "礼萨呼罗珊省",
+      "latitude": 35.274,
+      "longitude": 59.2195,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Semnan",
+      "province": "塞姆南省",
+      "latitude": 35.5769,
+      "longitude": 53.392,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Marand",
+      "province": "东阿塞拜疆省",
+      "latitude": 38.4329,
+      "longitude": 45.7749,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Zābol",
+      "province": "锡斯坦和俾路支斯坦省",
+      "latitude": 31.0306,
+      "longitude": 61.4949,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Dorūd",
+      "province": "洛雷斯坦省",
+      "latitude": 33.4922,
+      "longitude": 49.0616,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Naz̧arābād",
+      "province": "德黑兰省",
+      "latitude": 35.9541,
+      "longitude": 50.6061,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Moḩammad Shahr",
+      "province": "厄尔布尔士省",
+      "latitude": 35.763,
+      "longitude": 50.9171,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Īz̄eh",
+      "province": "Khuzestan",
+      "latitude": 31.8303,
+      "longitude": 49.8676,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Andīsheh",
+      "province": "德黑兰省",
+      "latitude": 35.7471,
+      "longitude": 51.2774,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Shahre Jadide Andisheh",
+      "province": "德黑兰省",
+      "latitude": 35.6803,
+      "longitude": 51.0193,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Qūchān",
+      "province": "礼萨呼罗珊省",
+      "latitude": 37.106,
+      "longitude": 58.5095,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Masjed Soleymān",
+      "province": "Khuzestan",
+      "latitude": 31.9364,
+      "longitude": 49.3039,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Bandar-e Anzalī",
+      "province": "吉兰省",
+      "latitude": 37.4732,
+      "longitude": 49.4579,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Bāneh",
+      "province": "库尔德斯坦省",
+      "latitude": 35.9975,
+      "longitude": 45.8853,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Pārsābād",
+      "province": "阿尔达比勒省",
+      "latitude": 39.6482,
+      "longitude": 47.9174,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Lāhījān",
+      "province": "吉兰省",
+      "latitude": 37.2042,
+      "longitude": 50.0092,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Bam",
+      "province": "克尔曼省",
+      "latitude": 29.106,
+      "longitude": 58.357,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Fasā",
+      "province": "法尔斯省",
+      "latitude": 28.9383,
+      "longitude": 53.6482,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Parand",
+      "province": "德黑兰省",
+      "latitude": 35.4719,
+      "longitude": 50.9755,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "亚苏季",
+      "name_en": "Yasuj",
+      "province": "科吉卢耶－博韦艾哈迈德省",
+      "latitude": 30.6682,
+      "longitude": 51.588,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Kāshmar",
+      "province": "礼萨呼罗珊省",
+      "latitude": 35.2383,
+      "longitude": 58.4656,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Behshahr",
+      "province": "马赞德兰省",
+      "latitude": 36.6923,
+      "longitude": 53.5526,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Dogonbadan",
+      "province": "科吉卢耶－博韦艾哈迈德省",
+      "latitude": 30.3586,
+      "longitude": 50.7981,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Kāzerūn",
+      "province": "法尔斯省",
+      "latitude": 29.6192,
+      "longitude": 51.6535,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "阿哈尔",
+      "name_en": "Ahar",
+      "province": "东阿塞拜疆省",
+      "latitude": 38.4774,
+      "longitude": 47.0699,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Marīvān",
+      "province": "库尔德斯坦省",
+      "latitude": 35.5183,
+      "longitude": 46.183,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Alīgūdarz",
+      "province": "洛雷斯坦省",
+      "latitude": 33.404,
+      "longitude": 49.6918,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Eslāmābād-e Gharb",
+      "province": "克尔曼沙汗省",
+      "latitude": 34.1089,
+      "longitude": 46.5299,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Alvand",
+      "province": "加兹温省",
+      "latitude": 36.1893,
+      "longitude": 50.0643,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Kūhdasht",
+      "province": "洛雷斯坦省",
+      "latitude": 33.5333,
+      "longitude": 47.61,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Fūlād Shahr",
+      "province": "伊斯法罕省",
+      "latitude": 32.4866,
+      "longitude": 51.3967,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Qorveh",
+      "province": "库尔德斯坦省",
+      "latitude": 35.1664,
+      "longitude": 47.8056,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Borāzjān",
+      "province": "布什尔省",
+      "latitude": 29.2699,
+      "longitude": 51.2188,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Tajrīsh",
+      "province": "德黑兰省",
+      "latitude": 35.8044,
+      "longitude": 51.4256,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Shahr-e Jadīd-e Mehestan",
+      "province": "厄尔布尔士省",
+      "latitude": 35.9891,
+      "longitude": 50.7451,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Bāghestān",
+      "province": "德黑兰省",
+      "latitude": 35.6471,
+      "longitude": 51.1338,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Shīrvān",
+      "province": "北呼罗珊省",
+      "latitude": 37.3967,
+      "longitude": 57.9295,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Salmās",
+      "province": "西阿塞拜疆省",
+      "latitude": 38.1973,
+      "longitude": 44.7653,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Naqadeh",
+      "province": "西阿塞拜疆省",
+      "latitude": 36.9553,
+      "longitude": 45.388,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Bonāb",
+      "province": "东阿塞拜疆省",
+      "latitude": 37.3404,
+      "longitude": 46.0561,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Behbahān",
+      "province": "Khuzestan",
+      "latitude": 30.5959,
+      "longitude": 50.2417,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Būmahen",
+      "province": "德黑兰省",
+      "latitude": 35.7297,
+      "longitude": 51.8688,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Bahārestān",
+      "province": "伊斯法罕省",
+      "latitude": 32.4881,
+      "longitude": 51.7731,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "霍梅尼港",
+      "name_en": "Bandar-e Emam Khomeyni",
+      "province": "Khuzestan",
+      "latitude": 30.437,
+      "longitude": 49.1029,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Shūshtar",
+      "province": "Khuzestan",
+      "latitude": 32.0497,
+      "longitude": 48.8484,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Khomeyn",
+      "province": "中央省",
+      "latitude": 33.6389,
+      "longitude": 50.08,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Nahāvand",
+      "province": "哈马丹省",
+      "latitude": 34.1909,
+      "longitude": 48.3745,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Alvand",
+      "province": "赞詹省",
+      "latitude": 36.1893,
+      "longitude": 50.0643,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Rāmhormoz",
+      "province": "Khuzestan",
+      "latitude": 31.28,
+      "longitude": 49.6035,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Meshgīn Shahr",
+      "province": "阿尔达比勒省",
+      "latitude": 38.399,
+      "longitude": 47.682,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Nūrābād",
+      "province": "洛雷斯坦省",
+      "latitude": 34.0734,
+      "longitude": 47.9725,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Pardīs",
+      "province": "德黑兰省",
+      "latitude": 35.7469,
+      "longitude": 51.8122,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Tākestān",
+      "province": "加兹温省",
+      "latitude": 36.0706,
+      "longitude": 49.6957,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Mīnāb",
+      "province": "霍尔木兹甘省",
+      "latitude": 27.131,
+      "longitude": 57.0872,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Abhar",
+      "province": "赞詹省",
+      "latitude": 36.1468,
+      "longitude": 49.218,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Dehdasht",
+      "province": "科吉卢耶－博韦艾哈迈德省",
+      "latitude": 30.7934,
+      "longitude": 50.5651,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Chālūs",
+      "province": "马赞德兰省",
+      "latitude": 36.655,
+      "longitude": 51.4204,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Khāsh",
+      "province": "锡斯坦和俾路支斯坦省",
+      "latitude": 28.2211,
+      "longitude": 61.2158,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Mobārakeh",
+      "province": "伊斯法罕省",
+      "latitude": 32.3461,
+      "longitude": 51.502,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Langarūd",
+      "province": "吉兰省",
+      "latitude": 37.1955,
+      "longitude": 50.1526,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Dāmghān",
+      "province": "塞姆南省",
+      "latitude": 36.1679,
+      "longitude": 54.3429,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Fīrūzābād",
+      "province": "法尔斯省",
+      "latitude": 28.8446,
+      "longitude": 52.5715,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Ārān Bīdgol",
+      "province": "伊斯法罕省",
+      "latitude": 34.0575,
+      "longitude": 51.4829,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Bāqershahr",
+      "province": "德黑兰省",
+      "latitude": 35.5316,
+      "longitude": 51.4048,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Dārāb",
+      "province": "法尔斯省",
+      "latitude": 28.7517,
+      "longitude": 54.5406,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Māhdāsht",
+      "province": "德黑兰省",
+      "latitude": 35.7282,
+      "longitude": 50.8134,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Robāţ Karīm",
+      "province": "德黑兰省",
+      "latitude": 35.4846,
+      "longitude": 51.0829,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Lār",
+      "province": "法尔斯省",
+      "latitude": 27.6834,
+      "longitude": 54.3417,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Meshkīn Dasht",
+      "province": "德黑兰省",
+      "latitude": 35.7499,
+      "longitude": 50.9438,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "皮兰沙赫尔",
+      "name_en": "Piranshahr",
+      "province": "西阿塞拜疆省",
+      "latitude": 36.701,
+      "longitude": 45.1413,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Kāmyārān",
+      "province": "库尔德斯坦省",
+      "latitude": 34.7953,
+      "longitude": 46.9368,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Sarāvān",
+      "province": "锡斯坦和俾路支斯坦省",
+      "latitude": 27.3709,
+      "longitude": 62.331,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Esfarāyen",
+      "province": "北呼罗珊省",
+      "latitude": 37.0765,
+      "longitude": 57.5101,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Asadābād",
+      "province": "哈马丹省",
+      "latitude": 34.7824,
+      "longitude": 48.1201,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Abadeh",
+      "province": "法尔斯省",
+      "latitude": 28.8349,
+      "longitude": 53.1726,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Ābādeh",
+      "province": "法尔斯省",
+      "latitude": 28.8349,
+      "longitude": 53.1726,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Zarand",
+      "province": "克尔曼省",
+      "latitude": 30.8127,
+      "longitude": 56.564,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Torbat-e Jām",
+      "province": "礼萨呼罗珊省",
+      "latitude": 35.244,
+      "longitude": 60.6225,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Ardakān",
+      "province": "亚兹德省",
+      "latitude": 32.31,
+      "longitude": 54.0175,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Ṣāleḥīeh",
+      "province": "德黑兰省",
+      "latitude": 35.5053,
+      "longitude": 51.1914,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Harsīn",
+      "province": "克尔曼沙汗省",
+      "latitude": 34.2721,
+      "longitude": 47.5861,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Nūrābād",
+      "province": "法尔斯省",
+      "latitude": 34.0734,
+      "longitude": 47.9725,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Malārd",
+      "province": "德黑兰省",
+      "latitude": 35.6659,
+      "longitude": 50.9767,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Kūt-e ‘Abdollāh",
+      "province": "Khuzestan",
+      "latitude": 31.2392,
+      "longitude": 48.6564,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Zarrīn Shahr",
+      "province": "伊斯法罕省",
+      "latitude": 32.3906,
+      "longitude": 51.3765,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Hashtgerd",
+      "province": "厄尔布尔士省",
+      "latitude": 35.962,
+      "longitude": 50.6799,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Ābyek",
+      "province": "中央省",
+      "latitude": 36.0667,
+      "longitude": 50.55,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Şabbāshahr",
+      "province": "德黑兰省",
+      "latitude": 35.5803,
+      "longitude": 51.1139,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Bandar-e Torkaman",
+      "province": "戈勒斯坦省",
+      "latitude": 36.9012,
+      "longitude": 54.072,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Bījār",
+      "province": "库尔德斯坦省",
+      "latitude": 35.8668,
+      "longitude": 47.6051,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Pīshvā",
+      "province": "德黑兰省",
+      "latitude": 35.308,
+      "longitude": 51.7267,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Kangāvar",
+      "province": "克尔曼沙汗省",
+      "latitude": 34.5043,
+      "longitude": 47.9653,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Bandar-e Genāveh",
+      "province": "布什尔省",
+      "latitude": 29.5791,
+      "longitude": 50.517,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Borūjen",
+      "province": "恰哈马哈勒－巴赫蒂亚里省",
+      "latitude": 31.9652,
+      "longitude": 51.2873,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Shahr-e Bābak",
+      "province": "克尔曼省",
+      "latitude": 30.1165,
+      "longitude": 55.1186,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Shūsh",
+      "province": "Khuzestan",
+      "latitude": 32.1942,
+      "longitude": 48.2436,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Meybod",
+      "province": "亚兹德省",
+      "latitude": 32.2501,
+      "longitude": 54.0166,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Sarpol-e Z̄ahāb",
+      "province": "克尔曼沙汗省",
+      "latitude": 34.4611,
+      "longitude": 45.8626,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Takāb",
+      "province": "西阿塞拜疆省",
+      "latitude": 36.4009,
+      "longitude": 47.1133,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Khalkhāl",
+      "province": "阿尔达比勒省",
+      "latitude": 37.6184,
+      "longitude": 48.5293,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Oshnavīyeh",
+      "province": "西阿塞拜疆省",
+      "latitude": 37.0397,
+      "longitude": 45.0983,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Khorramdarreh",
+      "province": "赞詹省",
+      "latitude": 36.2078,
+      "longitude": 49.1953,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "塔巴斯",
+      "name_en": "Tabas",
+      "province": "亚兹德省",
+      "latitude": 33.5959,
+      "longitude": 56.9244,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Falāvarjān",
+      "province": "伊斯法罕省",
+      "latitude": 32.5553,
+      "longitude": 51.5097,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Īstgāh-e Rāh Āhan-e Garmsār",
+      "province": "塞姆南省",
+      "latitude": 35.2345,
+      "longitude": 52.3094,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Rehnān",
+      "province": "伊斯法罕省",
+      "latitude": 32.6833,
+      "longitude": 51.6016,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Nekā",
+      "province": "马赞德兰省",
+      "latitude": 36.6508,
+      "longitude": 53.2991,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Bābolsar",
+      "province": "马赞德兰省",
+      "latitude": 36.6993,
+      "longitude": 52.6501,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Āzādshahr",
+      "province": "戈勒斯坦省",
+      "latitude": 34.7905,
+      "longitude": 48.5701,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Rūdsar",
+      "province": "吉兰省",
+      "latitude": 37.137,
+      "longitude": 50.2917,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Aznā",
+      "province": "洛雷斯坦省",
+      "latitude": 33.4564,
+      "longitude": 49.4565,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Aznā",
+      "province": "洛雷斯坦省",
+      "latitude": 33.4564,
+      "longitude": 49.4565,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "恰赫巴哈尔",
+      "name_en": "Chabahar",
+      "province": "锡斯坦和俾路支斯坦省",
+      "latitude": 25.2919,
+      "longitude": 60.643,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Şowme‘eh Sarā",
+      "province": "吉兰省",
+      "latitude": 37.3013,
+      "longitude": 49.315,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Omīdīyeh",
+      "province": "Khuzestan",
+      "latitude": 30.7628,
+      "longitude": 49.7023,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Chenārān",
+      "province": "礼萨呼罗珊省",
+      "latitude": 36.6455,
+      "longitude": 59.1212,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Makū",
+      "province": "布什尔省",
+      "latitude": 27.8486,
+      "longitude": 52.423,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Sarakhs",
+      "province": "礼萨呼罗珊省",
+      "latitude": 36.5449,
+      "longitude": 61.1577,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Sardasht",
+      "province": "西阿塞拜疆省",
+      "latitude": 36.1552,
+      "longitude": 45.4788,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Dehlorān",
+      "province": "伊拉姆省",
+      "latitude": 32.6941,
+      "longitude": 47.2679,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Neyrīz",
+      "province": "法尔斯省",
+      "latitude": 29.1988,
+      "longitude": 54.3278,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Hashtpar",
+      "province": "吉兰省",
+      "latitude": 37.7966,
+      "longitude": 48.9052,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Sarāb",
+      "province": "东阿塞拜疆省",
+      "latitude": 37.9408,
+      "longitude": 47.5367,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Golpāyegān",
+      "province": "伊斯法罕省",
+      "latitude": 33.4537,
+      "longitude": 50.2884,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Naţanz",
+      "province": "伊斯法罕省",
+      "latitude": 33.5112,
+      "longitude": 51.9181,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Gonābād",
+      "province": "礼萨呼罗珊省",
+      "latitude": 34.3529,
+      "longitude": 58.6837,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Konārak",
+      "province": "锡斯坦和俾路支斯坦省",
+      "latitude": 25.3604,
+      "longitude": 60.3995,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Sonqor",
+      "province": "克尔曼沙汗省",
+      "latitude": 34.7819,
+      "longitude": 47.5994,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Āstāneh-ye Ashrafīyeh",
+      "province": "吉兰省",
+      "latitude": 37.2632,
+      "longitude": 49.9432,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Poldasht",
+      "province": "西阿塞拜疆省",
+      "latitude": 39.348,
+      "longitude": 45.071,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Shādegān",
+      "province": "Khuzestan",
+      "latitude": 30.6492,
+      "longitude": 48.665,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Sūsangerd",
+      "province": "Khuzestan",
+      "latitude": 31.5635,
+      "longitude": 48.1896,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Shāhīn Dezh",
+      "province": "西阿塞拜疆省",
+      "latitude": 36.6793,
+      "longitude": 46.5669,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Rāvar",
+      "province": "克尔曼省",
+      "latitude": 31.2656,
+      "longitude": 56.8055,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Qā’en",
+      "province": "南呼罗珊省",
+      "latitude": 33.7265,
+      "longitude": 59.1844,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Nowshahr",
+      "province": "马赞德兰省",
+      "latitude": 36.6485,
+      "longitude": 51.4962,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Kord Kūy",
+      "province": "戈勒斯坦省",
+      "latitude": 36.7931,
+      "longitude": 54.1121,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Āstārā",
+      "province": "吉兰省",
+      "latitude": 38.4308,
+      "longitude": 48.8699,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Javānrūd",
+      "province": "克尔曼沙汗省",
+      "latitude": 34.7961,
+      "longitude": 46.5172,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Qaşr-e Qand",
+      "province": "锡斯坦和俾路支斯坦省",
+      "latitude": 26.2483,
+      "longitude": 60.7525,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Tāybād",
+      "province": "礼萨呼罗珊省",
+      "latitude": 34.74,
+      "longitude": 60.7756,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Tonekābon",
+      "province": "马赞德兰省",
+      "latitude": 36.8163,
+      "longitude": 50.8738,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Dorcheh Pīāz",
+      "province": "伊斯法罕省",
+      "latitude": 32.6153,
+      "longitude": 51.5556,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Bardsīr",
+      "province": "克尔曼省",
+      "latitude": 29.9227,
+      "longitude": 56.5743,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Golbahār",
+      "province": "礼萨呼罗珊省",
+      "latitude": 36.5698,
+      "longitude": 59.1904,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Mahrīz",
+      "province": "亚兹德省",
+      "latitude": 31.5843,
+      "longitude": 54.4428,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Eqbālīyeh",
+      "province": "德黑兰省",
+      "latitude": 35.3022,
+      "longitude": 51.5358,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Shahrak-e Qīāmdasht",
+      "province": "德黑兰省",
+      "latitude": 35.5237,
+      "longitude": 51.6505,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Estahbān",
+      "province": "法尔斯省",
+      "latitude": 29.1266,
+      "longitude": 54.0421,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Sheybān",
+      "province": "Khuzestan",
+      "latitude": 31.4079,
+      "longitude": 48.7946,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Rāmsar",
+      "province": "马赞德兰省",
+      "latitude": 36.918,
+      "longitude": 50.648,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Āq Qalā",
+      "province": "戈勒斯坦省",
+      "latitude": 37.0139,
+      "longitude": 54.455,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Mohr",
+      "province": "法尔斯省",
+      "latitude": 27.5521,
+      "longitude": 52.8816,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Bāft",
+      "province": "克尔曼省",
+      "latitude": 29.2331,
+      "longitude": 56.6022,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Gerāsh",
+      "province": "法尔斯省",
+      "latitude": 27.6697,
+      "longitude": 54.1359,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Ferdowsīyeh",
+      "province": "德黑兰省",
+      "latitude": 35.6011,
+      "longitude": 51.0645,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Fereydūn Kenār",
+      "province": "马赞德兰省",
+      "latitude": 36.6849,
+      "longitude": 52.5192,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Dīvāndarreh",
+      "province": "库尔德斯坦省",
+      "latitude": 35.9139,
+      "longitude": 47.0239,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Kalāleh",
+      "province": "戈勒斯坦省",
+      "latitude": 37.379,
+      "longitude": 55.493,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Kelīshād va Sūdarjān",
+      "province": "伊斯法罕省",
+      "latitude": 32.5512,
+      "longitude": 51.5276,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Dowlatābād",
+      "province": "伊斯法罕省",
+      "latitude": 34.3016,
+      "longitude": 48.8217,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Delījān",
+      "province": "中央省",
+      "latitude": 33.9905,
+      "longitude": 50.6838,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Chamrān",
+      "province": "Khuzestan",
+      "latitude": 30.7084,
+      "longitude": 49.1627,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Khvāf",
+      "province": "礼萨呼罗珊省",
+      "latitude": 34.5763,
+      "longitude": 60.1409,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Farrokh Shahr",
+      "province": "恰哈马哈勒－巴赫蒂亚里省",
+      "latitude": 32.2717,
+      "longitude": 50.9801,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Qarah Ẕīā’ od Dīn",
+      "province": "西阿塞拜疆省",
+      "latitude": 38.8915,
+      "longitude": 45.0255,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Maḩmūdābād",
+      "province": "马赞德兰省",
+      "latitude": 36.6319,
+      "longitude": 52.2629,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Kavār",
+      "province": "法尔斯省",
+      "latitude": 29.205,
+      "longitude": 52.6904,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Jam",
+      "province": "布什尔省",
+      "latitude": 27.8298,
+      "longitude": 52.3252,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Bāfq",
+      "province": "亚兹德省",
+      "latitude": 31.6035,
+      "longitude": 55.4025,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Amīr Kolā",
+      "province": "马赞德兰省",
+      "latitude": 36.5967,
+      "longitude": 52.6658,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Mīnūdasht",
+      "province": "戈勒斯坦省",
+      "latitude": 37.2302,
+      "longitude": 55.3721,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Eshtehārd",
+      "province": "厄尔布尔士省",
+      "latitude": 35.7255,
+      "longitude": 50.3662,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Pāsārgād",
+      "province": "法尔斯省",
+      "latitude": 30.2019,
+      "longitude": 53.18,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Sardrūd",
+      "province": "东阿塞拜疆省",
+      "latitude": 38.0261,
+      "longitude": 46.1476,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Karahrūd",
+      "province": "中央省",
+      "latitude": 34.0609,
+      "longitude": 49.6446,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Ajab Shīr",
+      "province": "东阿塞拜疆省",
+      "latitude": 37.4776,
+      "longitude": 45.8943,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Qahderījān",
+      "province": "伊斯法罕省",
+      "latitude": 32.5773,
+      "longitude": 51.4537,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Khowrzūq",
+      "province": "伊斯法罕省",
+      "latitude": 32.778,
+      "longitude": 51.6469,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Damāvand",
+      "province": "德黑兰省",
+      "latitude": 35.7184,
+      "longitude": 52.0696,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Germī",
+      "province": "阿尔达比勒省",
+      "latitude": 39.0215,
+      "longitude": 48.0801,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Bahār",
+      "province": "哈马丹省",
+      "latitude": 34.9072,
+      "longitude": 48.4414,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Rūdehen",
+      "province": "德黑兰省",
+      "latitude": 35.7334,
+      "longitude": 51.9059,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Jūybār",
+      "province": "马赞德兰省",
+      "latitude": 36.6409,
+      "longitude": 52.9121,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "巴尔达斯坎",
+      "name_en": "Bardaskan",
+      "province": "礼萨呼罗珊省",
+      "latitude": 35.2622,
+      "longitude": 57.9708,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Fūman",
+      "province": "吉兰省",
+      "latitude": 37.224,
+      "longitude": 49.3125,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Aleshtar",
+      "province": "洛雷斯坦省",
+      "latitude": 33.8642,
+      "longitude": 48.2626,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Malekān",
+      "province": "东阿塞拜疆省",
+      "latitude": 37.1426,
+      "longitude": 46.1035,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Nā’īn",
+      "province": "伊斯法罕省",
+      "latitude": 32.8601,
+      "longitude": 53.0875,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Semīrom",
+      "province": "伊斯法罕省",
+      "latitude": 31.4167,
+      "longitude": 51.5667,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Nūr",
+      "province": "马赞德兰省",
+      "latitude": 36.5717,
+      "longitude": 52.0153,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Poldokhtar",
+      "province": "洛雷斯坦省",
+      "latitude": 33.1525,
+      "longitude": 47.7101,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Bāgh-e Malek",
+      "province": "Khuzestan",
+      "latitude": 31.524,
+      "longitude": 49.8856,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Shahrak-e Ţāleqānī",
+      "province": "Khuzestan",
+      "latitude": 30.835,
+      "longitude": 50.1987,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Bandar-e Deylam",
+      "province": "布什尔省",
+      "latitude": 30.0542,
+      "longitude": 50.159,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Shāhedshahr",
+      "province": "德黑兰省",
+      "latitude": 35.5729,
+      "longitude": 51.085,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Showţ",
+      "province": "西阿塞拜疆省",
+      "latitude": 39.2192,
+      "longitude": 44.77,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Goldasht",
+      "province": "伊斯法罕省",
+      "latitude": 32.6284,
+      "longitude": 51.4393,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Fārsān",
+      "province": "恰哈马哈勒－巴赫蒂亚里省",
+      "latitude": 32.2569,
+      "longitude": 50.5609,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Qeshm",
+      "province": "霍尔木兹甘省",
+      "latitude": 26.9492,
+      "longitude": 56.2691,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Darreh Shahr",
+      "province": "伊拉姆省",
+      "latitude": 33.1445,
+      "longitude": 47.3799,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Gaz-e Borkhar",
+      "province": "伊斯法罕省",
+      "latitude": 32.8048,
+      "longitude": 51.6209,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "阿卜达南",
+      "name_en": "Ābdānān",
+      "province": "伊拉姆省",
+      "latitude": 32.9926,
+      "longitude": 47.4198,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Gālīkesh",
+      "province": "戈勒斯坦省",
+      "latitude": 37.2726,
+      "longitude": 55.4339,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Ḩājjīābād",
+      "province": "霍尔木兹甘省",
+      "latitude": 28.3091,
+      "longitude": 55.9017,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Bandar-e Lengeh",
+      "province": "霍尔木兹甘省",
+      "latitude": 26.5579,
+      "longitude": 54.8807,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Baravāt",
+      "province": "克尔曼省",
+      "latitude": 29.0663,
+      "longitude": 58.4046,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Aghajari",
+      "province": "Khuzestan",
+      "latitude": 30.7006,
+      "longitude": 49.8315,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Tīrān",
+      "province": "伊斯法罕省",
+      "latitude": 32.7033,
+      "longitude": 51.1538,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Galūgāh",
+      "province": "马赞德兰省",
+      "latitude": 36.7273,
+      "longitude": 53.8089,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Hafshejān",
+      "province": "恰哈马哈勒－巴赫蒂亚里省",
+      "latitude": 32.2266,
+      "longitude": 50.7931,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Shāzand",
+      "province": "中央省",
+      "latitude": 33.9313,
+      "longitude": 49.4063,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Khvānsār",
+      "province": "伊斯法罕省",
+      "latitude": 33.2205,
+      "longitude": 50.315,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Mahdishahr",
+      "province": "塞姆南省",
+      "latitude": 35.7107,
+      "longitude": 53.3539,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Kīsh",
+      "province": "霍尔木兹甘省",
+      "latitude": 26.5578,
+      "longitude": 54.0194,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Khomām",
+      "province": "吉兰省",
+      "latitude": 37.3902,
+      "longitude": 49.6585,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Bandar-e Gaz",
+      "province": "戈勒斯坦省",
+      "latitude": 36.7741,
+      "longitude": 53.948,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Katālem va Sādāt Shahr",
+      "province": "马赞德兰省",
+      "latitude": 36.8888,
+      "longitude": 50.6964,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Farrāshband",
+      "province": "法尔斯省",
+      "latitude": 28.8601,
+      "longitude": 52.0945,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Qīr",
+      "province": "法尔斯省",
+      "latitude": 28.4825,
+      "longitude": 53.0346,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Abrīsham",
+      "province": "伊斯法罕省",
+      "latitude": 32.5561,
+      "longitude": 51.5733,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Surian",
+      "province": "法尔斯省",
+      "latitude": 30.4551,
+      "longitude": 53.651,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Evaz",
+      "province": "法尔斯省",
+      "latitude": 27.7622,
+      "longitude": 54.0042,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Sīāhkal",
+      "province": "吉兰省",
+      "latitude": 37.1533,
+      "longitude": 49.8714,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Līkak",
+      "province": "科吉卢耶－博韦艾哈迈德省",
+      "latitude": 30.8949,
+      "longitude": 50.0931,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Reẕvānshahr",
+      "province": "吉兰省",
+      "latitude": 37.5495,
+      "longitude": 49.1374,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Fāẕelābād",
+      "province": "戈勒斯坦省",
+      "latitude": 36.898,
+      "longitude": 54.7496,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Rāmshīr",
+      "province": "Khuzestan",
+      "latitude": 30.8931,
+      "longitude": 49.4079,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Taft",
+      "province": "亚兹德省",
+      "latitude": 31.7438,
+      "longitude": 54.2028,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Mahājerān",
+      "province": "中央省",
+      "latitude": 34.0504,
+      "longitude": 49.435,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Dīzīcheh",
+      "province": "伊斯法罕省",
+      "latitude": 32.3875,
+      "longitude": 51.5102,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Varnāmkhvāst",
+      "province": "伊斯法罕省",
+      "latitude": 32.3564,
+      "longitude": 51.3787,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Nehbandān",
+      "province": "南呼罗珊省",
+      "latitude": 31.5419,
+      "longitude": 60.0365,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "‘Anbarābād",
+      "province": "克尔曼省",
+      "latitude": 28.4759,
+      "longitude": 57.848,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Lavāsān",
+      "province": "德黑兰省",
+      "latitude": 35.8216,
+      "longitude": 51.6444,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Jālq",
+      "province": "锡斯坦和俾路支斯坦省",
+      "latitude": 27.6029,
+      "longitude": 62.7102,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Māsāl",
+      "province": "吉兰省",
+      "latitude": 37.3631,
+      "longitude": 49.1329,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Pāveh",
+      "province": "克尔曼沙汗省",
+      "latitude": 35.0434,
+      "longitude": 46.3565,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Dastgerd",
+      "province": "伊斯法罕省",
+      "latitude": 32.8021,
+      "longitude": 51.6636,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Pādegān-e Manjīl",
+      "province": "吉兰省",
+      "latitude": 36.7415,
+      "longitude": 49.4161,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Sa‘ādat Shahr",
+      "province": "法尔斯省",
+      "latitude": 30.0792,
+      "longitude": 53.1346,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Nīkshahr",
+      "province": "锡斯坦和俾路支斯坦省",
+      "latitude": 26.2258,
+      "longitude": 60.2143,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Hashtrūd",
+      "province": "东阿塞拜疆省",
+      "latitude": 37.4779,
+      "longitude": 47.0508,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Zīr Āb",
+      "province": "马赞德兰省",
+      "latitude": 36.1797,
+      "longitude": 52.9735,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Shahrak-e Mohandesī-ye Zerā‘ī",
+      "province": "厄尔布尔士省",
+      "latitude": 35.772,
+      "longitude": 50.956,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Ardestān",
+      "province": "伊斯法罕省",
+      "latitude": 33.3794,
+      "longitude": 52.3698,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Haftkel",
+      "province": "Khuzestan",
+      "latitude": 31.4469,
+      "longitude": 49.5295,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Manjīl",
+      "province": "吉兰省",
+      "latitude": 36.7445,
+      "longitude": 49.4008,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Chamgordān",
+      "province": "伊斯法罕省",
+      "latitude": 32.3933,
+      "longitude": 51.3394,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Anār",
+      "province": "克尔曼省",
+      "latitude": 30.8707,
+      "longitude": 55.2702,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Amlash",
+      "province": "吉兰省",
+      "latitude": 37.0966,
+      "longitude": 50.1871,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Boshrūyeh",
+      "province": "南呼罗珊省",
+      "latitude": 33.8685,
+      "longitude": 57.4288,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Charām",
+      "province": "科吉卢耶－博韦艾哈迈德省",
+      "latitude": 30.7556,
+      "longitude": 50.7452,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Lālejīn",
+      "province": "哈马丹省",
+      "latitude": 34.9746,
+      "longitude": 48.4758,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Imanshahr",
+      "province": "伊斯法罕省",
+      "latitude": 32.4735,
+      "longitude": 51.477,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Alavijeh",
+      "province": "伊斯法罕省",
+      "latitude": 33.0548,
+      "longitude": 51.0833,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Dargahān",
+      "province": "霍尔木兹甘省",
+      "latitude": 26.9632,
+      "longitude": 56.0628,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Tafresh",
+      "province": "中央省",
+      "latitude": 34.6931,
+      "longitude": 50.016,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Zehak",
+      "province": "锡斯坦和俾路支斯坦省",
+      "latitude": 30.894,
+      "longitude": 61.6804,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Fāmenīn",
+      "province": "哈马丹省",
+      "latitude": 35.1159,
+      "longitude": 48.9734,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Bīleh Savār",
+      "province": "阿尔达比勒省",
+      "latitude": 39.3796,
+      "longitude": 48.3546,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Sarāyān",
+      "province": "南呼罗珊省",
+      "latitude": 33.8602,
+      "longitude": 58.5217,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "'Abās Ābād",
+      "province": "马赞德兰省",
+      "latitude": 36.7277,
+      "longitude": 51.1057,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Pīr Bakrān",
+      "province": "伊斯法罕省",
+      "latitude": 32.4679,
+      "longitude": 51.5597,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Farādonbeh",
+      "province": "恰哈马哈勒－巴赫蒂亚里省",
+      "latitude": 32.0084,
+      "longitude": 51.2121,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Rābor",
+      "province": "克尔曼省",
+      "latitude": 29.2912,
+      "longitude": 56.9131,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Kūshk",
+      "province": "伊斯法罕省",
+      "latitude": 32.6422,
+      "longitude": 51.4995,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Lowshān",
+      "province": "吉兰省",
+      "latitude": 36.6298,
+      "longitude": 49.5128,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Fannūj",
+      "province": "锡斯坦和俾路支斯坦省",
+      "latitude": 26.5753,
+      "longitude": 59.6414,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Landeh",
+      "province": "科吉卢耶－博韦艾哈迈德省",
+      "latitude": 30.9822,
+      "longitude": 50.4206,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Sangar",
+      "province": "吉兰省",
+      "latitude": 37.1794,
+      "longitude": 49.6938,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Kalā Chāy",
+      "province": "吉兰省",
+      "latitude": 37.0796,
+      "longitude": 50.3964,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Koshksarāy",
+      "province": "东阿塞拜疆省",
+      "latitude": 38.4584,
+      "longitude": 45.5671,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Senjān",
+      "province": "中央省",
+      "latitude": 34.0528,
+      "longitude": 49.6214,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Fārūj",
+      "province": "北呼罗珊省",
+      "latitude": 37.2312,
+      "longitude": 58.219,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Boldājī",
+      "province": "恰哈马哈勒－巴赫蒂亚里省",
+      "latitude": 31.9376,
+      "longitude": 51.0515,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Arkavaz",
+      "province": "伊拉姆省",
+      "latitude": 33.3828,
+      "longitude": 46.5983,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Nūshābād",
+      "province": "伊斯法罕省",
+      "latitude": 34.0797,
+      "longitude": 51.4368,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Mehrān",
+      "province": "伊拉姆省",
+      "latitude": 33.1222,
+      "longitude": 46.1646,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Darvīsheh",
+      "province": "Khuzestan",
+      "latitude": 31.2439,
+      "longitude": 48.666,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Gūgān",
+      "province": "东阿塞拜疆省",
+      "latitude": 37.7831,
+      "longitude": 45.904,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Rostam Kolā",
+      "province": "马赞德兰省",
+      "latitude": 36.6778,
+      "longitude": 53.4286,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Fereydūnshahr",
+      "province": "伊斯法罕省",
+      "latitude": 32.9419,
+      "longitude": 50.1199,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Khorramābād",
+      "province": "马赞德兰省",
+      "latitude": 33.4878,
+      "longitude": 48.3558,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Shīrūd",
+      "province": "马赞德兰省",
+      "latitude": 36.8503,
+      "longitude": 50.8032,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Bahārān Shahr",
+      "province": "伊斯法罕省",
+      "latitude": 32.5122,
+      "longitude": 51.5424,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Lavandevīl",
+      "province": "吉兰省",
+      "latitude": 38.3095,
+      "longitude": 48.8724,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Chamestān",
+      "province": "马赞德兰省",
+      "latitude": 36.4782,
+      "longitude": 52.1183,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Arvand Kenār",
+      "province": "Khuzestan",
+      "latitude": 29.9778,
+      "longitude": 48.5178,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Khalīl Shahr",
+      "province": "马赞德兰省",
+      "latitude": 36.7022,
+      "longitude": 53.642,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Khān Bebīn",
+      "province": "戈勒斯坦省",
+      "latitude": 37.0123,
+      "longitude": 54.9877,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Bāsht",
+      "province": "科吉卢耶－博韦艾哈迈德省",
+      "latitude": 30.361,
+      "longitude": 51.1574,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Kūhbanān",
+      "province": "克尔曼省",
+      "latitude": 31.4103,
+      "longitude": 56.2826,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Āb Sard",
+      "province": "德黑兰省",
+      "latitude": 35.6229,
+      "longitude": 52.1532,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Lasht-e Neshā",
+      "province": "吉兰省",
+      "latitude": 37.3612,
+      "longitude": 49.8611,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Khalīlābād",
+      "province": "吉兰省",
+      "latitude": 36.809,
+      "longitude": 49.4149,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Hachīrūd",
+      "province": "马赞德兰省",
+      "latitude": 36.6848,
+      "longitude": 51.3443,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Yāmchī",
+      "province": "东阿塞拜疆省",
+      "latitude": 38.5234,
+      "longitude": 45.6377,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Araţeh",
+      "province": "马赞德兰省",
+      "latitude": 36.4909,
+      "longitude": 52.9506,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Zibashahr",
+      "province": "伊斯法罕省",
+      "latitude": 32.3824,
+      "longitude": 51.5678,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Rāsak",
+      "province": "锡斯坦和俾路支斯坦省",
+      "latitude": 26.2368,
+      "longitude": 61.399,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Kūcheşfahān",
+      "province": "吉兰省",
+      "latitude": 37.2782,
+      "longitude": 49.7717,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Şūfīān",
+      "province": "东阿塞拜疆省",
+      "latitude": 38.2775,
+      "longitude": 45.9806,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Qahjāvarestān",
+      "province": "伊斯法罕省",
+      "latitude": 32.7025,
+      "longitude": 51.8388,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Gorgāb",
+      "province": "伊斯法罕省",
+      "latitude": 32.8659,
+      "longitude": 51.5973,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Salmānshahr",
+      "province": "马赞德兰省",
+      "latitude": 36.7034,
+      "longitude": 51.1957,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Khasht",
+      "province": "法尔斯省",
+      "latitude": 27.2346,
+      "longitude": 53.4352,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Ḩabībābād",
+      "province": "伊斯法罕省",
+      "latitude": 32.8306,
+      "longitude": 51.7763,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Chahār Borj-e Qadīm",
+      "province": "西阿塞拜疆省",
+      "latitude": 37.1254,
+      "longitude": 45.9782,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Sūrak",
+      "province": "马赞德兰省",
+      "latitude": 36.5949,
+      "longitude": 53.2076,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Eshkanān",
+      "province": "法尔斯省",
+      "latitude": 27.2293,
+      "longitude": 53.6082,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Bīdkhūn",
+      "province": "布什尔省",
+      "latitude": 27.4789,
+      "longitude": 52.6672,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Sharīfābād",
+      "province": "德黑兰省",
+      "latitude": 35.427,
+      "longitude": 51.7846,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Kolāksar",
+      "province": "马赞德兰省",
+      "latitude": 36.4963,
+      "longitude": 52.344,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Julfa",
+      "province": "西阿塞拜疆省",
+      "latitude": 38.9379,
+      "longitude": 45.6333,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Āshtīān",
+      "province": "中央省",
+      "latitude": 34.523,
+      "longitude": 50.0061,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Sarbīsheh",
+      "province": "南呼罗珊省",
+      "latitude": 32.5757,
+      "longitude": 59.7982,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Basţām",
+      "province": "塞姆南省",
+      "latitude": 36.4853,
+      "longitude": 54.9996,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Karkaj",
+      "province": "东阿塞拜疆省",
+      "latitude": 38.0364,
+      "longitude": 46.4316,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Nūshīn Shar",
+      "province": "西阿塞拜疆省",
+      "latitude": 37.7349,
+      "longitude": 45.0513,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Golmakān",
+      "province": "礼萨呼罗珊省",
+      "latitude": 36.4813,
+      "longitude": 59.1587,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Chāboksar",
+      "province": "吉兰省",
+      "latitude": 36.9737,
+      "longitude": 50.5701,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Khārk",
+      "province": "布什尔省",
+      "latitude": 29.2614,
+      "longitude": 50.3306,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Shaft",
+      "province": "吉兰省",
+      "latitude": 37.1702,
+      "longitude": 49.3998,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Kīā Kolā",
+      "province": "马赞德兰省",
+      "latitude": 36.6861,
+      "longitude": 51.3144,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Kīā Kolā",
+      "province": "马赞德兰省",
+      "latitude": 36.6861,
+      "longitude": 51.3144,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Zāzerān",
+      "province": "伊斯法罕省",
+      "latitude": 32.6037,
+      "longitude": 51.4982,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Bahnemīr",
+      "province": "马赞德兰省",
+      "latitude": 36.6682,
+      "longitude": 52.7617,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Chū’ebdeh-ye Yek",
+      "province": "Khuzestan",
+      "latitude": 30.2035,
+      "longitude": 48.5538,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Şāleḩābād",
+      "province": "哈马丹省",
+      "latitude": 34.9237,
+      "longitude": 48.3427,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Kalleh Bast",
+      "province": "马赞德兰省",
+      "latitude": 36.6407,
+      "longitude": 52.6292,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Khondāb",
+      "province": "中央省",
+      "latitude": 34.3928,
+      "longitude": 49.1841,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Rūyān",
+      "province": "马赞德兰省",
+      "latitude": 36.5689,
+      "longitude": 51.9631,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Ma‘mūlān",
+      "province": "洛雷斯坦省",
+      "latitude": 33.3793,
+      "longitude": 47.9596,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Torkamān",
+      "province": "东阿塞拜疆省",
+      "latitude": 37.5853,
+      "longitude": 47.3896,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Īzad Shahr",
+      "province": "马赞德兰省",
+      "latitude": 36.5989,
+      "longitude": 52.1271,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Jelīn",
+      "province": "戈勒斯坦省",
+      "latitude": 36.8543,
+      "longitude": 54.5379,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Shālāsh",
+      "province": "马赞德兰省",
+      "latitude": 36.9084,
+      "longitude": 53.9265,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Khūr",
+      "province": "法尔斯省",
+      "latitude": 27.6461,
+      "longitude": 54.3439,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Beyram",
+      "province": "法尔斯省",
+      "latitude": 27.432,
+      "longitude": 53.5141,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Laţīfī",
+      "province": "法尔斯省",
+      "latitude": 27.6901,
+      "longitude": 54.3872,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Lashgarābād",
+      "province": "厄尔布尔士省",
+      "latitude": 35.8553,
+      "longitude": 50.7462,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Āstāneh",
+      "province": "中央省",
+      "latitude": 37.2632,
+      "longitude": 49.9432,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Bardestān",
+      "province": "布什尔省",
+      "latitude": 27.8733,
+      "longitude": 51.9608,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Gīvī",
+      "province": "阿尔达比勒省",
+      "latitude": 37.6859,
+      "longitude": 48.342,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Karkevand",
+      "province": "伊斯法罕省",
+      "latitude": 32.3424,
+      "longitude": 51.4458,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Anbār Ālūm",
+      "province": "戈勒斯坦省",
+      "latitude": 37.1331,
+      "longitude": 54.6197,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Jowzdān",
+      "province": "伊斯法罕省",
+      "latitude": 32.556,
+      "longitude": 51.373,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Fasham",
+      "province": "德黑兰省",
+      "latitude": 35.9306,
+      "longitude": 51.5266,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Sardasht-e Zeydūn",
+      "province": "Khuzestan",
+      "latitude": 30.3277,
+      "longitude": 50.219,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Shalamzār",
+      "province": "恰哈马哈勒－巴赫蒂亚里省",
+      "latitude": 32.0465,
+      "longitude": 50.8164,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Aşgharābād",
+      "province": "伊斯法罕省",
+      "latitude": 32.6524,
+      "longitude": 51.4804,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Ābdān",
+      "province": "布什尔省",
+      "latitude": 28.0799,
+      "longitude": 51.7681,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Akhand",
+      "province": "布什尔省",
+      "latitude": 27.4361,
+      "longitude": 52.75,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Marjaghal",
+      "province": "吉兰省",
+      "latitude": 37.2797,
+      "longitude": 49.3727,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Sorkhrūd-e Gharbī",
+      "province": "马赞德兰省",
+      "latitude": 36.6788,
+      "longitude": 52.4518,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Now Kandeh",
+      "province": "戈勒斯坦省",
+      "latitude": 36.7374,
+      "longitude": 53.909,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Deh Pahn",
+      "province": "克尔曼沙汗省",
+      "latitude": 34.3456,
+      "longitude": 47.1382,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Ābī Beyglū",
+      "province": "阿尔达比勒省",
+      "latitude": 38.2813,
+      "longitude": 48.5509,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Shahrak-e Pābedānā",
+      "province": "克尔曼省",
+      "latitude": 31.1344,
+      "longitude": 56.3981,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Kahrīz",
+      "province": "克尔曼沙汗省",
+      "latitude": 34.3835,
+      "longitude": 47.0554,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Kūmeleh",
+      "province": "吉兰省",
+      "latitude": 37.1549,
+      "longitude": 50.1736,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Leylān",
+      "province": "东阿塞拜疆省",
+      "latitude": 37.011,
+      "longitude": 46.2065,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Aşlān Dūz",
+      "province": "阿尔达比勒省",
+      "latitude": 39.4439,
+      "longitude": 47.4056,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Jūjīl",
+      "province": "伊斯法罕省",
+      "latitude": 32.5657,
+      "longitude": 51.4851,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Kelārābād",
+      "province": "马赞德兰省",
+      "latitude": 36.6998,
+      "longitude": 51.256,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Gahrū",
+      "province": "恰哈马哈勒－巴赫蒂亚里省",
+      "latitude": 32.0032,
+      "longitude": 50.8854,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Īj",
+      "province": "法尔斯省",
+      "latitude": 29.0214,
+      "longitude": 54.2459,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Bālā Deh",
+      "province": "法尔斯省",
+      "latitude": 27.4023,
+      "longitude": 53.5799,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Shahrak-e Madanī",
+      "province": "Khuzestan",
+      "latitude": 30.5474,
+      "longitude": 49.2593,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Kujuvar",
+      "province": "东阿塞拜疆省",
+      "latitude": 38.0599,
+      "longitude": 46.1381,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Zāgh Marz",
+      "province": "马赞德兰省",
+      "latitude": 36.8046,
+      "longitude": 53.3026,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Shāhpūrābād",
+      "province": "伊斯法罕省",
+      "latitude": 32.8434,
+      "longitude": 51.7432,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Hormoz",
+      "province": "霍尔木兹甘省",
+      "latitude": 27.095,
+      "longitude": 56.4529,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Fīrūzeh",
+      "province": "礼萨呼罗珊省",
+      "latitude": 37.5979,
+      "longitude": 58.7908,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Nīr",
+      "province": "阿尔达比勒省",
+      "latitude": 38.0346,
+      "longitude": 47.9986,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Nashtārūd",
+      "province": "马赞德兰省",
+      "latitude": 36.7509,
+      "longitude": 51.0236,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Halor",
+      "province": "霍尔木兹甘省",
+      "latitude": 26.9669,
+      "longitude": 56.0834,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Akbarābād",
+      "province": "法尔斯省",
+      "latitude": 35.565,
+      "longitude": 51.1633,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Dīshmūk",
+      "province": "科吉卢耶－博韦艾哈迈德省",
+      "latitude": 31.2984,
+      "longitude": 50.4011,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Pīshkamar",
+      "province": "戈勒斯坦省",
+      "latitude": 37.5298,
+      "longitude": 55.5931,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "‘Anbarān",
+      "province": "阿尔达比勒省",
+      "latitude": 38.4875,
+      "longitude": 48.4319,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Farmahīn",
+      "province": "中央省",
+      "latitude": 34.5038,
+      "longitude": 49.6844,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Bāzār Jom‘eh-ye Shānderman",
+      "province": "吉兰省",
+      "latitude": 37.4052,
+      "longitude": 49.1193,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Hashatjīn",
+      "province": "阿尔达比勒省",
+      "latitude": 37.3689,
+      "longitude": 48.3216,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Khūsf",
+      "province": "南呼罗珊省",
+      "latitude": 32.7811,
+      "longitude": 58.89,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Chūbar",
+      "province": "吉兰省",
+      "latitude": 38.1803,
+      "longitude": 48.893,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Sīn",
+      "province": "伊斯法罕省",
+      "latitude": 32.8534,
+      "longitude": 51.6564,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Dehdez",
+      "province": "Khuzestan",
+      "latitude": 31.7096,
+      "longitude": 50.2883,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Sara'eyn",
+      "province": "东阿塞拜疆省",
+      "latitude": 38.1502,
+      "longitude": 48.0707,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Chamāz Kotī",
+      "province": "马赞德兰省",
+      "latitude": 36.4871,
+      "longitude": 52.8702,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Farrokhābād",
+      "province": "德黑兰省",
+      "latitude": 35.7151,
+      "longitude": 50.913,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Fīshvar",
+      "province": "法尔斯省",
+      "latitude": 27.7983,
+      "longitude": 53.6847,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Shahrak-e Emām Ḩasan",
+      "province": "德黑兰省",
+      "latitude": 35.4885,
+      "longitude": 51.3457,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Pīr Bāzār",
+      "province": "吉兰省",
+      "latitude": 37.3435,
+      "longitude": 49.5481,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Yūsefābād",
+      "province": "德黑兰省",
+      "latitude": 35.5813,
+      "longitude": 51.052,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Lārīm",
+      "province": "马赞德兰省",
+      "latitude": 36.7187,
+      "longitude": 52.9381,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Jām Khāneh",
+      "province": "马赞德兰省",
+      "latitude": 36.5893,
+      "longitude": 53.2564,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Dastnā’",
+      "province": "恰哈马哈勒－巴赫蒂亚里省",
+      "latitude": 32.0583,
+      "longitude": 50.7705,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Āyask",
+      "province": "南呼罗珊省",
+      "latitude": 33.8874,
+      "longitude": 58.3824,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Sarvābād",
+      "province": "库尔德斯坦省",
+      "latitude": 35.3126,
+      "longitude": 46.3669,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Āq Qāyeh",
+      "province": "戈勒斯坦省",
+      "latitude": 37.2747,
+      "longitude": 55.1589,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Qeshlāq",
+      "province": "德黑兰省",
+      "latitude": 35.6425,
+      "longitude": 50.9777,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Shalmān",
+      "province": "吉兰省",
+      "latitude": 37.1551,
+      "longitude": 50.2146,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Komeshcheh",
+      "province": "伊斯法罕省",
+      "latitude": 32.9054,
+      "longitude": 51.8098,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Ardāq",
+      "province": "加兹温省",
+      "latitude": 36.0527,
+      "longitude": 49.8241,
+      "timezone": "Asia/Tehran"
+    },
+    {
+      "name": "",
+      "name_en": "Sūleqān",
+      "province": "德黑兰省",
+      "latitude": 35.8221,
+      "longitude": 51.2648,
+      "timezone": "Asia/Tehran"
+    }
+  ]
+}

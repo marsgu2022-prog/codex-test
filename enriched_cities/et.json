@@ -1,0 +1,1958 @@
+{
+  "country_code": "ET",
+  "country_name": "埃塞俄比亚",
+  "cities": [
+    {
+      "name": "阿迪斯阿贝巴",
+      "name_en": "Addis Ababa",
+      "province": "Addis Ababa",
+      "latitude": 9.025,
+      "longitude": 38.7469,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "吉吉加",
+      "name_en": "Jijiga",
+      "province": "索马里州",
+      "latitude": 9.35,
+      "longitude": 42.8,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "贡德尔",
+      "name_en": "Gonder",
+      "province": "阿姆哈拉州",
+      "latitude": 12.6,
+      "longitude": 37.4667,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "默克莱",
+      "name_en": "Mek'ele",
+      "province": "提格里州",
+      "latitude": 13.4967,
+      "longitude": 39.4753,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Nazrēt",
+      "province": "奥罗米亚州",
+      "latitude": 8.55,
+      "longitude": 39.2667,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Warder",
+      "province": "索马里州",
+      "latitude": 6.9744,
+      "longitude": 45.3408,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Awasa",
+      "province": "Sidama Region",
+      "latitude": 7.0621,
+      "longitude": 38.4763,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "巴赫达尔",
+      "name_en": "Bahir Dar",
+      "province": "阿姆哈拉州",
+      "latitude": 11.5936,
+      "longitude": 37.3908,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Dire Dawa",
+      "province": "德雷达瓦",
+      "latitude": 9.5931,
+      "longitude": 41.8661,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "德西",
+      "name_en": "Dessie",
+      "province": "阿姆哈拉州",
+      "latitude": 11.1333,
+      "longitude": 39.6333,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "吉马",
+      "name_en": "Jimma",
+      "province": "奥罗米亚州",
+      "latitude": 7.6734,
+      "longitude": 36.8344,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Shashamane",
+      "province": "奥罗米亚州",
+      "latitude": 7.2,
+      "longitude": 38.6,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Bishoftu",
+      "province": "奥罗米亚州",
+      "latitude": 8.7523,
+      "longitude": 38.9785,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Sodo",
+      "province": "South Ethiopia Regional State",
+      "latitude": 6.86,
+      "longitude": 37.7616,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Arba Minch",
+      "province": "South Ethiopia Regional State",
+      "latitude": 6.0333,
+      "longitude": 37.55,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Hosa’ina",
+      "province": "Central Ethiopia Regional State",
+      "latitude": 7.5498,
+      "longitude": 37.8537,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Dīla",
+      "province": "South Ethiopia Regional State",
+      "latitude": 6.4167,
+      "longitude": 38.3167,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "哈勒尔",
+      "name_en": "Harar",
+      "province": "哈勒尔州",
+      "latitude": 9.3139,
+      "longitude": 42.1181,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Nek’emtē",
+      "province": "奥罗米亚州",
+      "latitude": 9.0833,
+      "longitude": 36.55,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Ārabī",
+      "province": "索马里州",
+      "latitude": 9.9628,
+      "longitude": 42.4928,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "德保贝尔韩",
+      "name_en": "Debre Birhan",
+      "province": "阿姆哈拉州",
+      "latitude": 9.6795,
+      "longitude": 39.5326,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Debre Mark’os",
+      "province": "阿姆哈拉州",
+      "latitude": 10.35,
+      "longitude": 37.7333,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Āsela",
+      "province": "奥罗米亚州",
+      "latitude": 7.95,
+      "longitude": 39.1333,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "孔博勒查",
+      "name_en": "Kombolcha",
+      "province": "阿姆哈拉州",
+      "latitude": 11.0816,
+      "longitude": 39.7434,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "德布雷塔博尔",
+      "name_en": "Debre Tabor",
+      "province": "阿姆哈拉州",
+      "latitude": 11.85,
+      "longitude": 38.0167,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Ādīgrat",
+      "province": "提格里州",
+      "latitude": 14.277,
+      "longitude": 39.462,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "沃尔迪亚",
+      "name_en": "Weldiya",
+      "province": "阿姆哈拉州",
+      "latitude": 11.8277,
+      "longitude": 39.5916,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Sebeta",
+      "province": "奥罗米亚州",
+      "latitude": 8.9167,
+      "longitude": 38.6167,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Burayu",
+      "province": "奥罗米亚州",
+      "latitude": 9.0353,
+      "longitude": 38.6608,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Inda Silasē",
+      "province": "提格里州",
+      "latitude": 14.1031,
+      "longitude": 38.2829,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Hāgere Hiywet",
+      "province": "奥罗米亚州",
+      "latitude": 8.9833,
+      "longitude": 37.85,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Arsi Negele",
+      "province": "奥罗米亚州",
+      "latitude": 7.3547,
+      "longitude": 38.6746,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Gambēla",
+      "province": "甘贝拉州",
+      "latitude": 8.25,
+      "longitude": 34.5833,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Aksum",
+      "province": "提格里州",
+      "latitude": 14.1211,
+      "longitude": 38.7234,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Ziway",
+      "province": "奥罗米亚州",
+      "latitude": 7.9333,
+      "longitude": 38.7167,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Butajīra",
+      "province": "Central Ethiopia Regional State",
+      "latitude": 8.1167,
+      "longitude": 38.3667,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "阿杜瓦",
+      "name_en": "Adwa",
+      "province": "提格里州",
+      "latitude": 14.1635,
+      "longitude": 38.8992,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Gununo",
+      "province": "South Ethiopia Regional State",
+      "latitude": 6.9247,
+      "longitude": 37.6526,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Āreka",
+      "province": "South Ethiopia Regional State",
+      "latitude": 7.0667,
+      "longitude": 37.7,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Yirga ‘Alem",
+      "province": "Sidama Region",
+      "latitude": 6.75,
+      "longitude": 38.4167,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Waliso",
+      "province": "奥罗米亚州",
+      "latitude": 8.5342,
+      "longitude": 37.9652,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Welk’īt’ē",
+      "province": "Central Ethiopia Regional State",
+      "latitude": 8.2833,
+      "longitude": 37.7833,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Mek’ī",
+      "province": "奥罗米亚州",
+      "latitude": 8.15,
+      "longitude": 38.8167,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Negēlē",
+      "province": "奥罗米亚州",
+      "latitude": 5.3167,
+      "longitude": 39.5833,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "K’olīto",
+      "province": "Central Ethiopia Regional State",
+      "latitude": 7.3167,
+      "longitude": 38.0833,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Alamata",
+      "province": "提格里州",
+      "latitude": 12.416,
+      "longitude": 39.5597,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Ciro",
+      "province": "Central Ethiopia Regional State",
+      "latitude": 7.8333,
+      "longitude": 38.2333,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Āsosa",
+      "province": "本尚古勒-古马兹州",
+      "latitude": 10.0667,
+      "longitude": 34.5333,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Gode",
+      "province": "索马里州",
+      "latitude": 5.9506,
+      "longitude": 43.5519,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Tēpī",
+      "province": "South West Ethiopia Peoples' Region",
+      "latitude": 7.2,
+      "longitude": 35.45,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Goba",
+      "province": "奥罗米亚州",
+      "latitude": 7.0167,
+      "longitude": 39.9833,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Duramē",
+      "province": "Central Ethiopia Regional State",
+      "latitude": 7.2333,
+      "longitude": 37.8833,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Bodītī",
+      "province": "South Ethiopia Regional State",
+      "latitude": 6.9667,
+      "longitude": 37.8667,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Gimbi",
+      "province": "奥罗米亚州",
+      "latitude": 9.1703,
+      "longitude": 35.8349,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Wik’ro",
+      "province": "提格里州",
+      "latitude": 13.7952,
+      "longitude": 39.603,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "‘Alemaya",
+      "province": "奥罗米亚州",
+      "latitude": 9.3933,
+      "longitude": 42.0097,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Mīzan Teferī",
+      "province": "South West Ethiopia Peoples' Region",
+      "latitude": 6.9986,
+      "longitude": 35.5888,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Mojo",
+      "province": "奥罗米亚州",
+      "latitude": 8.5868,
+      "longitude": 39.1211,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Dembī Dolo",
+      "province": "奥罗米亚州",
+      "latitude": 8.5333,
+      "longitude": 34.8,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Felege Neway",
+      "province": "South Ethiopia Regional State",
+      "latitude": 6.3,
+      "longitude": 36.8833,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Metu",
+      "province": "奥罗米亚州",
+      "latitude": 8.3,
+      "longitude": 35.5833,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Wendo",
+      "province": "Sidama Region",
+      "latitude": 6.6,
+      "longitude": 38.4167,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Mot’a",
+      "province": "阿姆哈拉州",
+      "latitude": 11.0833,
+      "longitude": 37.8667,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Finote Selam",
+      "province": "阿姆哈拉州",
+      "latitude": 10.7,
+      "longitude": 37.2667,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Hagere Maryam",
+      "province": "奥罗米亚州",
+      "latitude": 5.6342,
+      "longitude": 38.236,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Fichē",
+      "province": "奥罗米亚州",
+      "latitude": 9.8,
+      "longitude": 38.7333,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Kobo",
+      "province": "阿姆哈拉州",
+      "latitude": 10.028,
+      "longitude": 39.8528,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Bonga",
+      "province": "South West Ethiopia Peoples' Region",
+      "latitude": 7.2889,
+      "longitude": 36.2417,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Dangila",
+      "province": "阿姆哈拉州",
+      "latitude": 11.2667,
+      "longitude": 36.8333,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Jinka",
+      "province": "South Ethiopia Regional State",
+      "latitude": 5.65,
+      "longitude": 36.65,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Āgaro",
+      "province": "奥罗米亚州",
+      "latitude": 7.85,
+      "longitude": 36.65,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Chagni",
+      "province": "",
+      "latitude": 10.9563,
+      "longitude": 36.5046,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Sek’ot’a",
+      "province": "阿姆哈拉州",
+      "latitude": 12.6306,
+      "longitude": 39.0347,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Samara",
+      "province": "阿法尔州",
+      "latitude": 11.85,
+      "longitude": 38.0167,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Maych’ew",
+      "province": "提格里州",
+      "latitude": 12.7875,
+      "longitude": 39.5422,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Ch’iko",
+      "province": "Sidama Region",
+      "latitude": 6.5833,
+      "longitude": 38.3333,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Genet",
+      "province": "奥罗米亚州",
+      "latitude": 9.0667,
+      "longitude": 38.5,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Hadero",
+      "province": "Central Ethiopia Regional State",
+      "latitude": 7.2,
+      "longitude": 37.6667,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "沃雷塔",
+      "name_en": "Werota",
+      "province": "阿姆哈拉州",
+      "latitude": 11.9167,
+      "longitude": 37.7,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Kibre Mengist",
+      "province": "奥罗米亚州",
+      "latitude": 5.8833,
+      "longitude": 38.9833,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Injibara",
+      "province": "阿姆哈拉州",
+      "latitude": 11.0,
+      "longitude": 36.9167,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "沙基索",
+      "name_en": "Shakiso",
+      "province": "奥罗米亚州",
+      "latitude": 5.7649,
+      "longitude": 38.9101,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Degeh Bur",
+      "province": "索马里州",
+      "latitude": 8.2206,
+      "longitude": 43.5572,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Debark’",
+      "province": "阿姆哈拉州",
+      "latitude": 13.1561,
+      "longitude": 37.8981,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Burē",
+      "province": "阿姆哈拉州",
+      "latitude": 10.7,
+      "longitude": 37.0667,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Kebri Dahar",
+      "province": "索马里州",
+      "latitude": 6.74,
+      "longitude": 44.2781,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Nefas Mewch’a",
+      "province": "阿姆哈拉州",
+      "latitude": 11.7333,
+      "longitude": 38.4667,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Kemisē",
+      "province": "阿姆哈拉州",
+      "latitude": 10.7167,
+      "longitude": 39.87,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Dodola",
+      "province": "奥罗米亚州",
+      "latitude": 6.9833,
+      "longitude": 39.1833,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Ādēt",
+      "province": "阿姆哈拉州",
+      "latitude": 11.2667,
+      "longitude": 37.4833,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Āsasa",
+      "province": "奥罗米亚州",
+      "latitude": 7.1,
+      "longitude": 39.2,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Mer’āwī",
+      "province": "阿姆哈拉州",
+      "latitude": 11.4167,
+      "longitude": 37.1667,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Shonē",
+      "province": "Central Ethiopia Regional State",
+      "latitude": 7.1333,
+      "longitude": 37.95,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Dolo",
+      "province": "提格里州",
+      "latitude": 13.4992,
+      "longitude": 39.6372,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Gebre Guracha",
+      "province": "奥罗米亚州",
+      "latitude": 9.8,
+      "longitude": 38.4,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Yirga Ch’efē",
+      "province": "South Ethiopia Regional State",
+      "latitude": 6.1667,
+      "longitude": 38.2,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Bedelē",
+      "province": "奥罗米亚州",
+      "latitude": 8.456,
+      "longitude": 36.353,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Robit",
+      "province": "阿姆哈拉州",
+      "latitude": 9.9946,
+      "longitude": 39.8969,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "阿萨伊塔",
+      "name_en": "Asaita",
+      "province": "阿法尔州",
+      "latitude": 11.5684,
+      "longitude": 41.4387,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "内乔",
+      "name_en": "Nejo",
+      "province": "奥罗米亚州",
+      "latitude": 9.5,
+      "longitude": 35.5,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "T’īs Isat",
+      "province": "阿姆哈拉州",
+      "latitude": 11.4833,
+      "longitude": 37.5833,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "拉利贝拉",
+      "name_en": "Lalibela",
+      "province": "阿姆哈拉州",
+      "latitude": 12.0322,
+      "longitude": 39.0476,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Shinshicho",
+      "province": "Central Ethiopia Regional State",
+      "latitude": 7.2056,
+      "longitude": 37.7778,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Lasoano",
+      "province": "索马里州",
+      "latitude": 6.2553,
+      "longitude": 45.3853,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "贝德萨",
+      "name_en": "Bedēsa",
+      "province": "奥罗米亚州",
+      "latitude": 8.9,
+      "longitude": 40.7833,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Batī",
+      "province": "阿姆哈拉州",
+      "latitude": 11.1915,
+      "longitude": 40.0168,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Gīnch’ī",
+      "province": "奥罗米亚州",
+      "latitude": 9.0333,
+      "longitude": 38.15,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Qorof",
+      "province": "索马里州",
+      "latitude": 6.5822,
+      "longitude": 46.4333,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Bek’ojī",
+      "province": "奥罗米亚州",
+      "latitude": 7.5333,
+      "longitude": 39.25,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Babīlē",
+      "province": "奥罗米亚州",
+      "latitude": 9.2256,
+      "longitude": 42.3322,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "比彻纳",
+      "name_en": "Bichena",
+      "province": "阿姆哈拉州",
+      "latitude": 10.45,
+      "longitude": 38.2,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Āwash",
+      "province": "阿法尔州",
+      "latitude": 8.9936,
+      "longitude": 40.1664,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Mersa",
+      "province": "阿姆哈拉州",
+      "latitude": 11.6667,
+      "longitude": 39.65,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Yabēlo",
+      "province": "奥罗米亚州",
+      "latitude": 4.8833,
+      "longitude": 38.0833,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Ādīs Zemen",
+      "province": "阿姆哈拉州",
+      "latitude": 12.1167,
+      "longitude": 37.7833,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Dubti",
+      "province": "阿法尔州",
+      "latitude": 11.7329,
+      "longitude": 41.082,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Sheraro",
+      "province": "提格里州",
+      "latitude": 14.4008,
+      "longitude": 37.934,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Yamarugley",
+      "province": "索马里州",
+      "latitude": 6.8077,
+      "longitude": 46.0848,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Korem",
+      "province": "提格里州",
+      "latitude": 12.5058,
+      "longitude": 39.5228,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Ghinnir",
+      "province": "奥罗米亚州",
+      "latitude": 7.1395,
+      "longitude": 40.7108,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Gīdolē",
+      "province": "South Ethiopia Regional State",
+      "latitude": 5.65,
+      "longitude": 37.3667,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Badessa",
+      "province": "South Ethiopia Regional State",
+      "latitude": 8.9,
+      "longitude": 40.7833,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Logīya",
+      "province": "阿法尔州",
+      "latitude": 11.7262,
+      "longitude": 40.9797,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Gelemso",
+      "province": "奥罗米亚州",
+      "latitude": 8.8167,
+      "longitude": 40.5167,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Ābīy Ādī",
+      "province": "提格里州",
+      "latitude": 13.5608,
+      "longitude": 38.9739,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Bako",
+      "province": "South Ethiopia Regional State",
+      "latitude": 5.7833,
+      "longitude": 36.5667,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Fadhigaradle",
+      "province": "索马里州",
+      "latitude": 6.1756,
+      "longitude": 45.2987,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Neefkuceliye",
+      "province": "索马里州",
+      "latitude": 6.5546,
+      "longitude": 45.3899,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Āykel",
+      "province": "阿姆哈拉州",
+      "latitude": 12.55,
+      "longitude": 37.0667,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Bale Hawassa",
+      "province": "South Ethiopia Regional State",
+      "latitude": 6.919,
+      "longitude": 37.529,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Leku",
+      "province": "Sidama Region",
+      "latitude": 6.8731,
+      "longitude": 38.4442,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Welench’ītī",
+      "province": "奥罗米亚州",
+      "latitude": 8.6667,
+      "longitude": 39.4333,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Bale Robe",
+      "province": "奥罗米亚州",
+      "latitude": 7.1229,
+      "longitude": 40.0041,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Shambu",
+      "province": "奥罗米亚州",
+      "latitude": 9.5667,
+      "longitude": 37.1,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Īteya",
+      "province": "奥罗米亚州",
+      "latitude": 8.1333,
+      "longitude": 39.2333,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Dayē",
+      "province": "奥罗米亚州",
+      "latitude": 9.8833,
+      "longitude": 38.2667,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Āsbe Teferī",
+      "province": "奥罗米亚州",
+      "latitude": 9.0857,
+      "longitude": 40.8671,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Dēra",
+      "province": "奥罗米亚州",
+      "latitude": 8.4,
+      "longitude": 38.85,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Guder",
+      "province": "奥罗米亚州",
+      "latitude": 8.9705,
+      "longitude": 37.7612,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Insēno",
+      "province": "Central Ethiopia Regional State",
+      "latitude": 8.0667,
+      "longitude": 38.4667,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Abomsa",
+      "province": "阿姆哈拉州",
+      "latitude": 9.9833,
+      "longitude": 39.9833,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Tulu Bolo",
+      "province": "奥罗米亚州",
+      "latitude": 8.6667,
+      "longitude": 38.2167,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Dembech’a",
+      "province": "阿姆哈拉州",
+      "latitude": 10.55,
+      "longitude": 37.4833,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Komtikas",
+      "province": "South West Ethiopia Peoples' Region",
+      "latitude": 6.9577,
+      "longitude": 35.5575,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Mehoni",
+      "province": "阿法尔州",
+      "latitude": 12.7988,
+      "longitude": 39.6445,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Wonji",
+      "province": "奥罗米亚州",
+      "latitude": 8.4541,
+      "longitude": 39.2175,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Mendī",
+      "province": "奥罗米亚州",
+      "latitude": 9.8,
+      "longitude": 35.1,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Hāyk’",
+      "province": "阿姆哈拉州",
+      "latitude": 11.3,
+      "longitude": 39.6833,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Dabat",
+      "province": "阿姆哈拉州",
+      "latitude": 12.9842,
+      "longitude": 37.765,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Gutin",
+      "province": "奥罗米亚州",
+      "latitude": 9.5656,
+      "longitude": 36.6357,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Wacha",
+      "province": "South West Ethiopia Peoples' Region",
+      "latitude": 7.1511,
+      "longitude": 35.817,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Tikil Dingay",
+      "province": "阿姆哈拉州",
+      "latitude": 12.9842,
+      "longitude": 37.0442,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Kofelē",
+      "province": "奥罗米亚州",
+      "latitude": 7.0667,
+      "longitude": 38.7833,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Gasuba",
+      "province": "South Ethiopia Regional State",
+      "latitude": 6.7167,
+      "longitude": 37.5667,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Mī’ēso",
+      "province": "奥罗米亚州",
+      "latitude": 9.2348,
+      "longitude": 40.7559,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Mertule Maryam",
+      "province": "阿姆哈拉州",
+      "latitude": 10.8333,
+      "longitude": 38.2667,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Ch’ench’a",
+      "province": "South Ethiopia Regional State",
+      "latitude": 6.25,
+      "longitude": 37.5667,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Huruta",
+      "province": "奥罗米亚州",
+      "latitude": 8.15,
+      "longitude": 39.35,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Amba Giorgis",
+      "province": "阿姆哈拉州",
+      "latitude": 12.7689,
+      "longitude": 37.6239,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "K’ola Diba",
+      "province": "阿姆哈拉州",
+      "latitude": 12.4242,
+      "longitude": 37.325,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "May Cadera",
+      "province": "提格里州",
+      "latitude": 14.0729,
+      "longitude": 36.5683,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Ibnat",
+      "province": "阿姆哈拉州",
+      "latitude": 12.1333,
+      "longitude": 38.05,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Deder",
+      "province": "奥罗米亚州",
+      "latitude": 9.3117,
+      "longitude": 41.443,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Filakit",
+      "province": "阿姆哈拉州",
+      "latitude": 11.6667,
+      "longitude": 38.8,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Gurbetē",
+      "province": "阿姆哈拉州",
+      "latitude": 11.356,
+      "longitude": 36.9545,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Waka",
+      "province": "South West Ethiopia Peoples' Region",
+      "latitude": 7.0667,
+      "longitude": 37.1667,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Bambesi",
+      "province": "本尚古勒-古马兹州",
+      "latitude": 9.75,
+      "longitude": 34.7333,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Āt’aye",
+      "province": "阿姆哈拉州",
+      "latitude": 10.3503,
+      "longitude": 39.9363,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Felana",
+      "province": "奥罗米亚州",
+      "latitude": 9.465,
+      "longitude": 42.1845,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Maksenyit",
+      "province": "阿姆哈拉州",
+      "latitude": 12.3833,
+      "longitude": 37.55,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Metemma",
+      "province": "阿姆哈拉州",
+      "latitude": 12.9548,
+      "longitude": 36.1555,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Sendafa",
+      "province": "奥罗米亚州",
+      "latitude": 9.152,
+      "longitude": 39.0234,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Chinahsen",
+      "province": "索马里州",
+      "latitude": 9.5062,
+      "longitude": 42.6094,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Idaga Hamus",
+      "province": "提格里州",
+      "latitude": 14.1872,
+      "longitude": 39.5639,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Worabe",
+      "province": "Central Ethiopia Regional State",
+      "latitude": 7.8526,
+      "longitude": 38.1853,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Abala",
+      "province": "提格里州",
+      "latitude": 14.2333,
+      "longitude": 37.0,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Dimtu",
+      "province": "South Ethiopia Regional State",
+      "latitude": 6.9297,
+      "longitude": 38.1251,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Raqo",
+      "province": "索马里州",
+      "latitude": 6.4192,
+      "longitude": 45.8525,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Funyan Bīra",
+      "province": "奥罗米亚州",
+      "latitude": 9.4025,
+      "longitude": 42.3175,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Mehal Mēda",
+      "province": "阿姆哈拉州",
+      "latitude": 10.3121,
+      "longitude": 39.6589,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Sagurē",
+      "province": "奥罗米亚州",
+      "latitude": 7.75,
+      "longitude": 39.15,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Gimja Bēt Maryam",
+      "province": "阿姆哈拉州",
+      "latitude": 10.85,
+      "longitude": 36.8833,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Ginja Bet",
+      "province": "阿姆哈拉州",
+      "latitude": 10.8503,
+      "longitude": 36.8928,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Bedēsa",
+      "province": "South Ethiopia Regional State",
+      "latitude": 8.9,
+      "longitude": 40.7833,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Harbu",
+      "province": "阿姆哈拉州",
+      "latitude": 10.9202,
+      "longitude": 39.7871,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Ābderafī",
+      "province": "阿姆哈拉州",
+      "latitude": 13.7333,
+      "longitude": 36.45,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Tarch’a Sodo",
+      "province": "South West Ethiopia Peoples' Region",
+      "latitude": 7.1514,
+      "longitude": 37.1718,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Hīrna",
+      "province": "奥罗米亚州",
+      "latitude": 9.2167,
+      "longitude": 41.1,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Mambuk",
+      "province": "本尚古勒-古马兹州",
+      "latitude": 11.2833,
+      "longitude": 36.2167,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Gedeb",
+      "province": "索马里州",
+      "latitude": 9.5725,
+      "longitude": 43.1814,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Waal",
+      "province": "索马里州",
+      "latitude": 6.8866,
+      "longitude": 46.2151,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Shendi",
+      "province": "",
+      "latitude": 10.6406,
+      "longitude": 36.9468,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "‘Alem T’ēna",
+      "province": "奥罗米亚州",
+      "latitude": 8.3,
+      "longitude": 38.95,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "‘Alem Ketema",
+      "province": "阿姆哈拉州",
+      "latitude": 10.0833,
+      "longitude": 39.0333,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "梅特哈拉",
+      "name_en": "Metahāra",
+      "province": "奥罗米亚州",
+      "latitude": 8.9,
+      "longitude": 39.9167,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Gēdo",
+      "province": "奥罗米亚州",
+      "latitude": 9.0167,
+      "longitude": 37.45,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Gobēsa",
+      "province": "奥罗米亚州",
+      "latitude": 7.6167,
+      "longitude": 39.5,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Wegeda",
+      "province": "阿姆哈拉州",
+      "latitude": 11.2157,
+      "longitude": 38.3645,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Kele",
+      "province": "奥罗米亚州",
+      "latitude": 6.0833,
+      "longitude": 38.0333,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Ara Ali",
+      "province": "奥罗米亚州",
+      "latitude": 5.9667,
+      "longitude": 41.0333,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Arerti",
+      "province": "阿法尔州",
+      "latitude": 13.95,
+      "longitude": 40.6667,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "El Bahay",
+      "province": "索马里州",
+      "latitude": 6.3466,
+      "longitude": 45.4781,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Gīmbīcho",
+      "province": "Central Ethiopia Regional State",
+      "latitude": 7.45,
+      "longitude": 37.6333,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Kachīsī",
+      "province": "奥罗米亚州",
+      "latitude": 9.6,
+      "longitude": 37.8333,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Sheno",
+      "province": "奥罗米亚州",
+      "latitude": 7.1333,
+      "longitude": 37.95,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Wenago",
+      "province": "South Ethiopia Regional State",
+      "latitude": 6.3167,
+      "longitude": 38.2667,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Sifra",
+      "province": "阿法尔州",
+      "latitude": 11.6046,
+      "longitude": 40.0166,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Mena",
+      "province": "奥罗米亚州",
+      "latitude": 6.4167,
+      "longitude": 39.85,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Digih Habar Es",
+      "province": "索马里州",
+      "latitude": 6.4426,
+      "longitude": 45.9833,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Hartīshēk",
+      "province": "索马里州",
+      "latitude": 9.1572,
+      "longitude": 43.3542,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Adebaye",
+      "province": "提格里州",
+      "latitude": 14.2023,
+      "longitude": 36.7595,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Damboya",
+      "province": "Central Ethiopia Regional State",
+      "latitude": 7.3481,
+      "longitude": 37.9506,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Intich’o",
+      "province": "提格里州",
+      "latitude": 14.2789,
+      "longitude": 39.15,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Āyana",
+      "province": "奥罗米亚州",
+      "latitude": 9.8833,
+      "longitude": 36.6167,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Mīlē",
+      "province": "阿法尔州",
+      "latitude": 11.4217,
+      "longitude": 40.7628,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Indabaguna",
+      "province": "提格里州",
+      "latitude": 13.9494,
+      "longitude": 38.1842,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Dibate",
+      "province": "本尚古勒-古马兹州",
+      "latitude": 10.65,
+      "longitude": 36.2167,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Sīrē",
+      "province": "奥罗米亚州",
+      "latitude": 8.3167,
+      "longitude": 39.4833,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Kuyera",
+      "province": "奥罗米亚州",
+      "latitude": 7.3,
+      "longitude": 38.65,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Chelenko",
+      "province": "奥罗米亚州",
+      "latitude": 9.3975,
+      "longitude": 41.561,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Lumamē",
+      "province": "阿姆哈拉州",
+      "latitude": 10.25,
+      "longitude": 37.9333,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Ādīs ‘Alem",
+      "province": "奥罗米亚州",
+      "latitude": 9.0333,
+      "longitude": 38.4,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Suntu",
+      "province": "奥罗米亚州",
+      "latitude": 8.1,
+      "longitude": 36.95,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Robīt",
+      "province": "阿姆哈拉州",
+      "latitude": 12.0167,
+      "longitude": 39.6333,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Were Īlu",
+      "province": "阿姆哈拉州",
+      "latitude": 10.5896,
+      "longitude": 39.4377,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Kercha",
+      "province": "奥罗米亚州",
+      "latitude": 5.7801,
+      "longitude": 38.4089,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Tīlīlī",
+      "province": "阿姆哈拉州",
+      "latitude": 10.85,
+      "longitude": 37.0167,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Ādīs K’idamē",
+      "province": "阿姆哈拉州",
+      "latitude": 11.0833,
+      "longitude": 36.8833,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Golwayn",
+      "province": "索马里州",
+      "latitude": 6.5073,
+      "longitude": 45.8349,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Kahandhale",
+      "province": "索马里州",
+      "latitude": 5.7528,
+      "longitude": 45.646,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Tebela",
+      "province": "South Ethiopia Regional State",
+      "latitude": 6.7061,
+      "longitude": 37.7697,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Wenjī",
+      "province": "奥罗米亚州",
+      "latitude": 8.45,
+      "longitude": 39.2833,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Shanto",
+      "province": "South Ethiopia Regional State",
+      "latitude": 7.0236,
+      "longitude": 37.8608,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Duuban",
+      "province": "索马里州",
+      "latitude": 6.6799,
+      "longitude": 46.0662,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Gorē",
+      "province": "奥罗米亚州",
+      "latitude": 8.15,
+      "longitude": 35.5333,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Ījajī",
+      "province": "奥罗米亚州",
+      "latitude": 9.0,
+      "longitude": 37.3167,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Bombe",
+      "province": "South Ethiopia Regional State",
+      "latitude": 7.138,
+      "longitude": 37.5819,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Dejen",
+      "province": "阿姆哈拉州",
+      "latitude": 10.1667,
+      "longitude": 38.1333,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Gawanē",
+      "province": "阿法尔州",
+      "latitude": 10.1666,
+      "longitude": 40.6469,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Debre Werk’",
+      "province": "阿姆哈拉州",
+      "latitude": 10.6667,
+      "longitude": 38.1667,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Debre Sīna",
+      "province": "阿姆哈拉州",
+      "latitude": 9.8475,
+      "longitude": 39.7603,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Kara K’orē",
+      "province": "阿姆哈拉州",
+      "latitude": 10.4215,
+      "longitude": 39.9351,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Mēga",
+      "province": "奥罗米亚州",
+      "latitude": 4.05,
+      "longitude": 38.3,
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
+      "name": "",
+      "name_en": "Hāgere Selam",
+      "province": "Sidama Region",
+      "latitude": 6.4833,
+      "longitude": 38.5167,
+      "timezone": "Africa/Addis_Ababa"
+    }
+  ]
+}

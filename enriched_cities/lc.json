@@ -1,0 +1,86 @@
+{
+  "country_code": "LC",
+  "country_name": "圣卢西亚",
+  "cities": [
+    {
+      "name": "",
+      "name_en": "Gros Islet",
+      "province": "Gros-Islet",
+      "latitude": 14.0667,
+      "longitude": -60.95,
+      "timezone": "America/St_Lucia"
+    },
+    {
+      "name": "卡斯特里",
+      "name_en": "Castries",
+      "province": "卡斯特里区",
+      "latitude": 13.9957,
+      "longitude": -61.0061,
+      "timezone": "America/St_Lucia"
+    },
+    {
+      "name": "",
+      "name_en": "Bisee",
+      "province": "卡斯特里区",
+      "latitude": 14.0243,
+      "longitude": -60.9744,
+      "timezone": "America/St_Lucia"
+    },
+    {
+      "name": "",
+      "name_en": "Dennery",
+      "province": "登内里区",
+      "latitude": 13.9141,
+      "longitude": -60.8913,
+      "timezone": "America/St_Lucia"
+    },
+    {
+      "name": "",
+      "name_en": "Laborie",
+      "province": "拉博列区",
+      "latitude": 13.75,
+      "longitude": -60.9833,
+      "timezone": "America/St_Lucia"
+    },
+    {
+      "name": "",
+      "name_en": "Choiseul",
+      "province": "舒瓦瑟尔区",
+      "latitude": 13.7727,
+      "longitude": -61.0493,
+      "timezone": "America/St_Lucia"
+    },
+    {
+      "name": "",
+      "name_en": "Vieux Fort",
+      "province": "Vieux-Fort",
+      "latitude": 13.7167,
+      "longitude": -60.95,
+      "timezone": "America/St_Lucia"
+    },
+    {
+      "name": "",
+      "name_en": "Micoud",
+      "province": "米库区",
+      "latitude": 13.8167,
+      "longitude": -60.9,
+      "timezone": "America/St_Lucia"
+    },
+    {
+      "name": "",
+      "name_en": "Soufrière",
+      "province": "Soufrière",
+      "latitude": 13.8562,
+      "longitude": -61.0566,
+      "timezone": "America/St_Lucia"
+    },
+    {
+      "name": "",
+      "name_en": "Anse La Raye",
+      "province": "Anse-la-Raye",
+      "latitude": 13.9462,
+      "longitude": -61.0388,
+      "timezone": "America/St_Lucia"
+    }
+  ]
+}

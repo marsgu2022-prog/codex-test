@@ -1,0 +1,294 @@
+{
+  "country_code": "QA",
+  "country_name": "卡塔尔",
+  "cities": [
+    {
+      "name": "多哈",
+      "name_en": "Doha",
+      "province": "Baladīyat ad Dawḩah",
+      "latitude": 25.2855,
+      "longitude": 51.531,
+      "timezone": "Asia/Qatar"
+    },
+    {
+      "name": "",
+      "name_en": "Ar Rayyān",
+      "province": "Baladīyat ar Rayyān",
+      "latitude": 25.2919,
+      "longitude": 51.4244,
+      "timezone": "Asia/Qatar"
+    },
+    {
+      "name": "",
+      "name_en": "Al Maţār al ‘Atīq",
+      "province": "Baladīyat ad Dawḩah",
+      "latitude": 25.2514,
+      "longitude": 51.5557,
+      "timezone": "Asia/Qatar"
+    },
+    {
+      "name": "",
+      "name_en": "Al Manşūrah",
+      "province": "Baladīyat ad Dawḩah",
+      "latitude": 25.2681,
+      "longitude": 51.5322,
+      "timezone": "Asia/Qatar"
+    },
+    {
+      "name": "",
+      "name_en": "Az̧ Z̧a‘āyin",
+      "province": "宰阿因",
+      "latitude": 25.5774,
+      "longitude": 51.4831,
+      "timezone": "Asia/Qatar"
+    },
+    {
+      "name": "",
+      "name_en": "Madīnat Khalīfah",
+      "province": "Baladīyat ad Dawḩah",
+      "latitude": 25.3205,
+      "longitude": 51.4779,
+      "timezone": "Asia/Qatar"
+    },
+    {
+      "name": "",
+      "name_en": "An Najmah",
+      "province": "Baladīyat ad Dawḩah",
+      "latitude": 25.267,
+      "longitude": 51.5432,
+      "timezone": "Asia/Qatar"
+    },
+    {
+      "name": "",
+      "name_en": "Al ‘Unayzah",
+      "province": "Baladīyat ad Dawḩah",
+      "latitude": 25.3376,
+      "longitude": 51.5095,
+      "timezone": "Asia/Qatar"
+    },
+    {
+      "name": "",
+      "name_en": "Umm Ghuwaylīnah",
+      "province": "Al-Shahaniya",
+      "latitude": 25.5872,
+      "longitude": 51.1499,
+      "timezone": "Asia/Qatar"
+    },
+    {
+      "name": "",
+      "name_en": "As Sadd",
+      "province": "Baladīyat ad Dawḩah",
+      "latitude": 25.2862,
+      "longitude": 51.5007,
+      "timezone": "Asia/Qatar"
+    },
+    {
+      "name": "",
+      "name_en": "Farīj Kulayb",
+      "province": "Baladīyat ad Dawḩah",
+      "latitude": 25.3131,
+      "longitude": 51.4929,
+      "timezone": "Asia/Qatar"
+    },
+    {
+      "name": "",
+      "name_en": "Farīj al Amīr",
+      "province": "Baladīyat ar Rayyān",
+      "latitude": 25.2873,
+      "longitude": 51.4714,
+      "timezone": "Asia/Qatar"
+    },
+    {
+      "name": "",
+      "name_en": "Umm Şalāl Muḩammad",
+      "province": "乌姆锡拉勒",
+      "latitude": 25.4152,
+      "longitude": 51.4065,
+      "timezone": "Asia/Qatar"
+    },
+    {
+      "name": "",
+      "name_en": "Mu‘aydhir Rawḑat Rāshid",
+      "province": "Baladīyat ar Rayyān",
+      "latitude": 25.2617,
+      "longitude": 51.3968,
+      "timezone": "Asia/Qatar"
+    },
+    {
+      "name": "",
+      "name_en": "As Sulţah al Jadīdah",
+      "province": "Baladīyat ad Dawḩah",
+      "latitude": 25.2604,
+      "longitude": 51.514,
+      "timezone": "Asia/Qatar"
+    },
+    {
+      "name": "",
+      "name_en": "Al Wakrah",
+      "province": "Al Wakrah",
+      "latitude": 25.1715,
+      "longitude": 51.6034,
+      "timezone": "Asia/Qatar"
+    },
+    {
+      "name": "",
+      "name_en": "Ath Thumāmah Khamsūn",
+      "province": "Baladīyat ad Dawḩah",
+      "latitude": 25.2196,
+      "longitude": 51.5532,
+      "timezone": "Asia/Qatar"
+    },
+    {
+      "name": "",
+      "name_en": "Ath Thumāmah Sab‘ah wa Arba‘ūn",
+      "province": "Baladīyat ad Dawḩah",
+      "latitude": 25.239,
+      "longitude": 51.5633,
+      "timezone": "Asia/Qatar"
+    },
+    {
+      "name": "",
+      "name_en": "Ath Thumāmah Sittah wa Arba‘ūn",
+      "province": "Baladīyat ad Dawḩah",
+      "latitude": 25.234,
+      "longitude": 51.5405,
+      "timezone": "Asia/Qatar"
+    },
+    {
+      "name": "",
+      "name_en": "Nu‘ayjah",
+      "province": "Baladīyat ad Dawḩah",
+      "latitude": 25.2462,
+      "longitude": 51.5323,
+      "timezone": "Asia/Qatar"
+    },
+    {
+      "name": "",
+      "name_en": "Al Ghānim",
+      "province": "Baladīyat ad Dawḩah",
+      "latitude": 25.2799,
+      "longitude": 51.5404,
+      "timezone": "Asia/Qatar"
+    },
+    {
+      "name": "",
+      "name_en": "Al Khawr",
+      "province": "艾科尔",
+      "latitude": 25.6839,
+      "longitude": 51.5058,
+      "timezone": "Asia/Qatar"
+    },
+    {
+      "name": "",
+      "name_en": "Umm Lakhbā",
+      "province": "Baladīyat ad Dawḩah",
+      "latitude": 25.3416,
+      "longitude": 51.4706,
+      "timezone": "Asia/Qatar"
+    },
+    {
+      "name": "",
+      "name_en": "Al Hilāl al Gharbīyah",
+      "province": "Baladīyat ad Dawḩah",
+      "latitude": 25.2586,
+      "longitude": 51.531,
+      "timezone": "Asia/Qatar"
+    },
+    {
+      "name": "",
+      "name_en": "Al Hilāl ash Sharqīyah",
+      "province": "Baladīyat ad Dawḩah",
+      "latitude": 25.2604,
+      "longitude": 51.5463,
+      "timezone": "Asia/Qatar"
+    },
+    {
+      "name": "",
+      "name_en": "Ad Dawḩah al Jadīdah",
+      "province": "Baladīyat ad Dawḩah",
+      "latitude": 25.2771,
+      "longitude": 51.5329,
+      "timezone": "Asia/Qatar"
+    },
+    {
+      "name": "",
+      "name_en": "Al Markhīyah",
+      "province": "Baladīyat ad Dawḩah",
+      "latitude": 25.3249,
+      "longitude": 51.4984,
+      "timezone": "Asia/Qatar"
+    },
+    {
+      "name": "",
+      "name_en": "Aţ Ţarfah",
+      "province": "Baladīyat ad Dawḩah",
+      "latitude": 25.3733,
+      "longitude": 51.4899,
+      "timezone": "Asia/Qatar"
+    },
+    {
+      "name": "",
+      "name_en": "Al Hitmī",
+      "province": "Baladīyat ad Dawḩah",
+      "latitude": 25.2849,
+      "longitude": 51.5461,
+      "timezone": "Asia/Qatar"
+    },
+    {
+      "name": "",
+      "name_en": "Farīq al Hitmī",
+      "province": "Baladīyat ad Dawḩah",
+      "latitude": 25.2863,
+      "longitude": 51.5326,
+      "timezone": "Asia/Qatar"
+    },
+    {
+      "name": "",
+      "name_en": "Ash Shīḩānīyah",
+      "province": "Al-Shahaniya",
+      "latitude": 25.3709,
+      "longitude": 51.2226,
+      "timezone": "Asia/Qatar"
+    },
+    {
+      "name": "",
+      "name_en": "Dukhān",
+      "province": "Al-Shahaniya",
+      "latitude": 25.4248,
+      "longitude": 50.7823,
+      "timezone": "Asia/Qatar"
+    },
+    {
+      "name": "",
+      "name_en": "Musay‘īd",
+      "province": "Al Wakrah",
+      "latitude": 24.9923,
+      "longitude": 51.5507,
+      "timezone": "Asia/Qatar"
+    },
+    {
+      "name": "",
+      "name_en": "Madīnat ash Shamāl",
+      "province": "Madīnat ash Shamāl",
+      "latitude": 26.1293,
+      "longitude": 51.2009,
+      "timezone": "Asia/Qatar"
+    },
+    {
+      "name": "",
+      "name_en": "Al Wukayr",
+      "province": "Al Wakrah",
+      "latitude": 25.1511,
+      "longitude": 51.5372,
+      "timezone": "Asia/Qatar"
+    },
+    {
+      "name": "",
+      "name_en": "Umm Şalāl ‘Alī",
+      "province": "乌姆锡拉勒",
+      "latitude": 25.4697,
+      "longitude": 51.3975,
+      "timezone": "Asia/Qatar"
+    }
+  ]
+}

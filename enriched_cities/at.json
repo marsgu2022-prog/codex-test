@@ -1,0 +1,1654 @@
+{
+  "country_code": "AT",
+  "country_name": "奥地利",
+  "cities": [
+    {
+      "name": "维也纳",
+      "name_en": "Vienna",
+      "province": "Vienna",
+      "latitude": 48.2085,
+      "longitude": 16.3721,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "格拉茨",
+      "name_en": "Graz",
+      "province": "施泰尔马克州",
+      "latitude": 47.0673,
+      "longitude": 15.442,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "林茨",
+      "name_en": "Linz",
+      "province": "上奥地利州",
+      "latitude": 48.3064,
+      "longitude": 14.2861,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Favoriten",
+      "province": "Vienna",
+      "latitude": 48.1612,
+      "longitude": 16.3823,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Donaustadt",
+      "province": "Vienna",
+      "latitude": 48.2333,
+      "longitude": 16.46,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Floridsdorf",
+      "province": "Vienna",
+      "latitude": 48.25,
+      "longitude": 16.4,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "萨尔斯堡",
+      "name_en": "Salzburg",
+      "province": "萨尔茨堡州",
+      "latitude": 47.7994,
+      "longitude": 13.044,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "因斯布鲁克",
+      "name_en": "Innsbruck",
+      "province": "蒂罗尔州",
+      "latitude": 47.2627,
+      "longitude": 11.3945,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Ottakring",
+      "province": "Vienna",
+      "latitude": 48.2167,
+      "longitude": 16.3,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Simmering",
+      "province": "Vienna",
+      "latitude": 48.1833,
+      "longitude": 16.4333,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "克拉根福",
+      "name_en": "Klagenfurt am Wörthersee",
+      "province": "克恩顿州",
+      "latitude": 46.6247,
+      "longitude": 14.3053,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Landstraße",
+      "province": "Vienna",
+      "latitude": 48.2019,
+      "longitude": 16.3879,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Penzing",
+      "province": "Vienna",
+      "latitude": 48.2,
+      "longitude": 16.2667,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Meidling",
+      "province": "Vienna",
+      "latitude": 48.1667,
+      "longitude": 16.3333,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Brigittenau",
+      "province": "Vienna",
+      "latitude": 48.2428,
+      "longitude": 16.3755,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Fünfhaus",
+      "province": "Vienna",
+      "latitude": 48.196,
+      "longitude": 16.3183,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Döbling",
+      "province": "Vienna",
+      "latitude": 48.25,
+      "longitude": 16.3333,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "菲拉赫",
+      "name_en": "Villach",
+      "province": "克恩顿州",
+      "latitude": 46.6103,
+      "longitude": 13.8558,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Hernals",
+      "province": "Vienna",
+      "latitude": 48.2254,
+      "longitude": 16.3087,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Margareten",
+      "province": "Vienna",
+      "latitude": 48.1855,
+      "longitude": 16.3537,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Hietzing",
+      "province": "Vienna",
+      "latitude": 48.1862,
+      "longitude": 16.2965,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Währing",
+      "province": "Vienna",
+      "latitude": 48.2261,
+      "longitude": 16.3448,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Aspern",
+      "province": "Vienna",
+      "latitude": 48.2181,
+      "longitude": 16.4831,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "多恩比恩",
+      "name_en": "Dornbirn",
+      "province": "福拉尔贝格州",
+      "latitude": 47.4143,
+      "longitude": 9.7419,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "维也纳新城",
+      "name_en": "Wiener Neustadt",
+      "province": "下奥地利州",
+      "latitude": 47.8049,
+      "longitude": 16.232,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Alsergrund",
+      "province": "Vienna",
+      "latitude": 48.2232,
+      "longitude": 16.3551,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "施泰尔",
+      "name_en": "Steyr",
+      "province": "上奥地利州",
+      "latitude": 48.0427,
+      "longitude": 14.4213,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Hötting",
+      "province": "蒂罗尔州",
+      "latitude": 47.2681,
+      "longitude": 11.3687,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Feldkirch",
+      "province": "福拉尔贝格州",
+      "latitude": 47.2331,
+      "longitude": 9.6,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Jakomini",
+      "province": "施泰尔马克州",
+      "latitude": 47.0544,
+      "longitude": 15.4498,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Pradl",
+      "province": "蒂罗尔州",
+      "latitude": 47.2654,
+      "longitude": 11.4152,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Neubau",
+      "province": "Vienna",
+      "latitude": 48.2017,
+      "longitude": 16.3471,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Mariahilf",
+      "province": "Vienna",
+      "latitude": 48.1957,
+      "longitude": 16.3522,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Lend",
+      "province": "施泰尔马克州",
+      "latitude": 47.0826,
+      "longitude": 15.4159,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "布雷根茨",
+      "name_en": "Bregenz",
+      "province": "福拉尔贝格州",
+      "latitude": 47.5031,
+      "longitude": 9.7471,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Gries",
+      "province": "施泰尔马克州",
+      "latitude": 47.0624,
+      "longitude": 15.4242,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "维也纳巴登",
+      "name_en": "Baden",
+      "province": "下奥地利州",
+      "latitude": 48.0054,
+      "longitude": 16.2326,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Traun",
+      "province": "上奥地利州",
+      "latitude": 48.2209,
+      "longitude": 14.2383,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Wolfsberg",
+      "province": "克恩顿州",
+      "latitude": 46.8406,
+      "longitude": 14.8442,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Geidorf",
+      "province": "施泰尔马克州",
+      "latitude": 47.0839,
+      "longitude": 15.444,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Josefstadt",
+      "province": "Vienna",
+      "latitude": 48.2124,
+      "longitude": 16.3455,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "卢斯特瑙",
+      "name_en": "Lustenau",
+      "province": "福拉尔贝格州",
+      "latitude": 47.4264,
+      "longitude": 9.6585,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "圣帕尔滕",
+      "name_en": "Sankt Pölten",
+      "province": "下奥地利州",
+      "latitude": 48.2076,
+      "longitude": 15.6372,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Essling",
+      "province": "Vienna",
+      "latitude": 48.2129,
+      "longitude": 16.5244,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "默德林",
+      "name_en": "Mödling",
+      "province": "下奥地利州",
+      "latitude": 48.0861,
+      "longitude": 16.2892,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Eggenberg",
+      "province": "施泰尔马克州",
+      "latitude": 47.07,
+      "longitude": 15.3987,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Sankt Peter",
+      "province": "克恩顿州",
+      "latitude": 46.6298,
+      "longitude": 14.3402,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Sankt Martin",
+      "province": "克恩顿州",
+      "latitude": 46.6167,
+      "longitude": 14.2833,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Andritz",
+      "province": "施泰尔马克州",
+      "latitude": 47.1139,
+      "longitude": 15.4235,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Wilten",
+      "province": "蒂罗尔州",
+      "latitude": 47.2583,
+      "longitude": 11.3881,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Wels",
+      "province": "上奥地利州",
+      "latitude": 48.1667,
+      "longitude": 14.0333,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Saalfelden am Steinernen Meer",
+      "province": "萨尔茨堡州",
+      "latitude": 47.4268,
+      "longitude": 12.848,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Innere Stadt",
+      "province": "Vienna",
+      "latitude": 48.2091,
+      "longitude": 16.3713,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "霍恩埃姆斯",
+      "name_en": "Hohenems",
+      "province": "福拉尔贝格州",
+      "latitude": 47.3612,
+      "longitude": 9.6869,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "施托克劳",
+      "name_en": "Stockerau",
+      "province": "下奥地利州",
+      "latitude": 48.3833,
+      "longitude": 16.2167,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Straßgang",
+      "province": "施泰尔马克州",
+      "latitude": 47.0333,
+      "longitude": 15.4,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Sankt Leonhard",
+      "province": "施泰尔马克州",
+      "latitude": 47.0692,
+      "longitude": 15.4578,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Wetzelsdorf",
+      "province": "施泰尔马克州",
+      "latitude": 47.0529,
+      "longitude": 15.3992,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "克洛斯特新堡",
+      "name_en": "Klosterneuburg",
+      "province": "下奥地利州",
+      "latitude": 48.3052,
+      "longitude": 16.3252,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "阿姆施泰滕",
+      "name_en": "Amstetten",
+      "province": "下奥地利州",
+      "latitude": 48.1229,
+      "longitude": 14.8721,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "泰尔夫斯",
+      "name_en": "Telfs",
+      "province": "蒂罗尔州",
+      "latitude": 47.3071,
+      "longitude": 11.0682,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Sankt Peter",
+      "province": "施泰尔马克州",
+      "latitude": 46.6298,
+      "longitude": 14.3402,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "布卢登茨",
+      "name_en": "Bludenz",
+      "province": "福拉尔贝格州",
+      "latitude": 47.1548,
+      "longitude": 9.8225,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "佩希托尔茨多夫",
+      "name_en": "Perchtoldsdorf",
+      "province": "下奥地利州",
+      "latitude": 48.1193,
+      "longitude": 16.2661,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Krems an der Donau",
+      "province": "下奥地利州",
+      "latitude": 48.4092,
+      "longitude": 15.6142,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Liebenau",
+      "province": "施泰尔马克州",
+      "latitude": 47.0333,
+      "longitude": 15.4667,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "沃格尔",
+      "name_en": "Wörgl",
+      "province": "蒂罗尔州",
+      "latitude": 47.4891,
+      "longitude": 12.0617,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "施瓦茨",
+      "name_en": "Schwaz",
+      "province": "蒂罗尔州",
+      "latitude": 47.3517,
+      "longitude": 11.7101,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Hard",
+      "province": "福拉尔贝格州",
+      "latitude": 47.4831,
+      "longitude": 9.6831,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "蒂罗尔州霍尔",
+      "name_en": "Hall in Tirol",
+      "province": "蒂罗尔州",
+      "latitude": 47.2833,
+      "longitude": 11.5167,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "格蒙登",
+      "name_en": "Gmunden",
+      "province": "上奥地利州",
+      "latitude": 47.9184,
+      "longitude": 13.7993,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "科尔新堡",
+      "name_en": "Korneuburg",
+      "province": "下奥地利州",
+      "latitude": 48.35,
+      "longitude": 16.3333,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "德劳河畔斯皮塔尔",
+      "name_en": "Spittal an der Drau",
+      "province": "克恩顿州",
+      "latitude": 46.8,
+      "longitude": 13.5,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Tulln",
+      "province": "下奥地利州",
+      "latitude": 48.3283,
+      "longitude": 16.0586,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "施韦夏特",
+      "name_en": "Schwechat",
+      "province": "下奥地利州",
+      "latitude": 48.1333,
+      "longitude": 16.4667,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Waltendorf",
+      "province": "施泰尔马克州",
+      "latitude": 47.0667,
+      "longitude": 15.4667,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "里德因克瑞斯",
+      "name_en": "Ried im Innkreis",
+      "province": "上奥地利州",
+      "latitude": 48.2112,
+      "longitude": 13.4886,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "山麓布伦",
+      "name_en": "Brunn am Gebirge",
+      "province": "下奥地利州",
+      "latitude": 48.107,
+      "longitude": 16.2847,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "兰克韦尔",
+      "name_en": "Rankweil",
+      "province": "福拉尔贝格州",
+      "latitude": 47.2711,
+      "longitude": 9.6431,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "利恩茨",
+      "name_en": "Lienz",
+      "province": "蒂罗尔州",
+      "latitude": 46.8289,
+      "longitude": 12.769,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "克尼特尔费尔德",
+      "name_en": "Knittelfeld",
+      "province": "施泰尔马克州",
+      "latitude": 47.2167,
+      "longitude": 14.8167,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "格齐斯",
+      "name_en": "Götzis",
+      "province": "福拉尔贝格州",
+      "latitude": 47.3331,
+      "longitude": 9.6331,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Neunkirchen",
+      "province": "下奥地利州",
+      "latitude": 47.721,
+      "longitude": 16.0811,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Gänserndorf",
+      "province": "下奥地利州",
+      "latitude": 48.3392,
+      "longitude": 16.7202,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Annabichl",
+      "province": "克恩顿州",
+      "latitude": 46.65,
+      "longitude": 14.3167,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Gösting",
+      "province": "施泰尔马克州",
+      "latitude": 47.0979,
+      "longitude": 15.3978,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Arzl",
+      "province": "蒂罗尔州",
+      "latitude": 47.2833,
+      "longitude": 11.4333,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "格兰河畔圣法伊特",
+      "name_en": "Sankt Veit an der Glan",
+      "province": "克恩顿州",
+      "latitude": 46.7681,
+      "longitude": 14.3603,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "伊姆斯特",
+      "name_en": "Imst",
+      "province": "蒂罗尔州",
+      "latitude": 47.245,
+      "longitude": 10.7397,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Lauterach",
+      "province": "福拉尔贝格州",
+      "latitude": 47.4757,
+      "longitude": 9.7294,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Strasshof an der Nordbahn",
+      "province": "下奥地利州",
+      "latitude": 48.3167,
+      "longitude": 16.6667,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "拉基兴",
+      "name_en": "Laakirchen",
+      "province": "上奥地利州",
+      "latitude": 47.9819,
+      "longitude": 13.8217,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "库夫施泰因",
+      "name_en": "Kufstein",
+      "province": "蒂罗尔州",
+      "latitude": 47.5833,
+      "longitude": 12.1667,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Enns",
+      "province": "上奥地利州",
+      "latitude": 48.2135,
+      "longitude": 14.4761,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "普尔克尔斯多夫",
+      "name_en": "Purkersdorf",
+      "province": "下奥地利州",
+      "latitude": 48.2077,
+      "longitude": 16.1754,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Mariatrost",
+      "province": "施泰尔马克州",
+      "latitude": 47.0964,
+      "longitude": 15.4654,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "维也纳附近格拉斯多夫",
+      "name_en": "Gerasdorf bei Wien",
+      "province": "下奥地利州",
+      "latitude": 48.2945,
+      "longitude": 16.4676,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Sankt Johann in Tirol",
+      "province": "蒂罗尔州",
+      "latitude": 47.5233,
+      "longitude": 12.4232,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Viktring",
+      "province": "克恩顿州",
+      "latitude": 46.5919,
+      "longitude": 14.2692,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "维也纳新村",
+      "name_en": "Wiener Neudorf",
+      "province": "下奥地利州",
+      "latitude": 48.0828,
+      "longitude": 16.3138,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "沃茨伯格",
+      "name_en": "Voitsberg",
+      "province": "施泰尔马克州",
+      "latitude": 47.0444,
+      "longitude": 15.1531,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Sankt Valentin",
+      "province": "下奥地利州",
+      "latitude": 48.1667,
+      "longitude": 14.5167,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "魏茨",
+      "name_en": "Weiz",
+      "province": "施泰尔马克州",
+      "latitude": 47.2167,
+      "longitude": 15.6167,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "艾森斯塔特",
+      "name_en": "Eisenstadt",
+      "province": "布尔根兰州",
+      "latitude": 47.8456,
+      "longitude": 16.5233,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Rum",
+      "province": "蒂罗尔州",
+      "latitude": 47.2833,
+      "longitude": 11.45,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "贡特拉姆斯多夫",
+      "name_en": "Guntramsdorf",
+      "province": "下奥地利州",
+      "latitude": 48.0469,
+      "longitude": 16.3138,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "穆尔河畔布鲁克",
+      "name_en": "Bruck an der Mur",
+      "province": "施泰尔马克州",
+      "latitude": 47.4167,
+      "longitude": 15.2833,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Neu-Guntramsdorf",
+      "province": "下奥地利州",
+      "latitude": 48.0642,
+      "longitude": 16.3157,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Berndorf",
+      "province": "下奥地利州",
+      "latitude": 47.9457,
+      "longitude": 16.1097,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "阿特南-普赫海姆",
+      "name_en": "Attnang-Puchheim",
+      "province": "上奥地利州",
+      "latitude": 48.0083,
+      "longitude": 13.7167,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "玛丽亚恩策斯多夫",
+      "name_en": "Maria Enzersdorf",
+      "province": "下奥地利州",
+      "latitude": 48.1,
+      "longitude": 16.2833,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Puntigam",
+      "province": "施泰尔马克州",
+      "latitude": 47.0333,
+      "longitude": 15.4333,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "莱布尼茨",
+      "name_en": "Leibnitz",
+      "province": "施泰尔马克州",
+      "latitude": 46.7816,
+      "longitude": 15.5384,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "尤登堡",
+      "name_en": "Judenburg",
+      "province": "施泰尔马克州",
+      "latitude": 47.1667,
+      "longitude": 14.6667,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "沃尔富特",
+      "name_en": "Wolfurt",
+      "province": "福拉尔贝格州",
+      "latitude": 47.4667,
+      "longitude": 9.75,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "德意志兰茨贝格",
+      "name_en": "Deutschlandsberg",
+      "province": "施泰尔马克州",
+      "latitude": 46.8153,
+      "longitude": 15.2222,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Villacher Vorstadt",
+      "province": "克恩顿州",
+      "latitude": 46.6237,
+      "longitude": 14.2889,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "法克尔湖畔芬肯施泰因",
+      "name_en": "Finkenstein am Faaker See",
+      "province": "克恩顿州",
+      "latitude": 46.5608,
+      "longitude": 13.8712,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "马希特伦克",
+      "name_en": "Marchtrenk",
+      "province": "上奥地利州",
+      "latitude": 48.1902,
+      "longitude": 14.1091,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "基茨比厄尔",
+      "name_en": "Kitzbühel",
+      "province": "蒂罗尔州",
+      "latitude": 47.4464,
+      "longitude": 12.3922,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "莱奥本",
+      "name_en": "Leoben",
+      "province": "施泰尔马克州",
+      "latitude": 47.3765,
+      "longitude": 15.0914,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "滨湖新锡德尔",
+      "name_en": "Neusiedl am See",
+      "province": "布尔根兰州",
+      "latitude": 47.949,
+      "longitude": 16.8417,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Villach-Innere Stadt",
+      "province": "克恩顿州",
+      "latitude": 46.6127,
+      "longitude": 13.8464,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Zirl",
+      "province": "蒂罗尔州",
+      "latitude": 47.2741,
+      "longitude": 11.2396,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "朗根策斯多夫",
+      "name_en": "Langenzersdorf",
+      "province": "下奥地利州",
+      "latitude": 48.3043,
+      "longitude": 16.3614,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Höchst",
+      "province": "福拉尔贝格州",
+      "latitude": 47.4593,
+      "longitude": 9.6405,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "瓦滕斯",
+      "name_en": "Wattens",
+      "province": "蒂罗尔州",
+      "latitude": 47.2942,
+      "longitude": 11.5907,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "赛尔斯贝格",
+      "name_en": "Seiersberg",
+      "province": "施泰尔马克州",
+      "latitude": 47.0,
+      "longitude": 15.4,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "特罗法伊亚赫",
+      "name_en": "Trofaiach",
+      "province": "施泰尔马克州",
+      "latitude": 47.4252,
+      "longitude": 15.0068,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Landeck",
+      "province": "蒂罗尔州",
+      "latitude": 47.1399,
+      "longitude": 10.5659,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "滨湖采尔",
+      "name_en": "Zell am See",
+      "province": "萨尔茨堡州",
+      "latitude": 47.3231,
+      "longitude": 12.7984,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "福尔希多夫",
+      "name_en": "Vorchdorf",
+      "province": "上奥地利州",
+      "latitude": 48.0039,
+      "longitude": 13.9212,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "巴特弗斯劳",
+      "name_en": "Bad Vöslau",
+      "province": "下奥地利州",
+      "latitude": 47.9653,
+      "longitude": 16.2136,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "比绍夫斯霍芬",
+      "name_en": "Bischofshofen",
+      "province": "萨尔茨堡州",
+      "latitude": 47.4167,
+      "longitude": 13.2167,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Sankt Ruprecht",
+      "province": "克恩顿州",
+      "latitude": 46.6,
+      "longitude": 14.3167,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Haid",
+      "province": "上奥地利州",
+      "latitude": 48.2048,
+      "longitude": 14.2511,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "科廷布伦",
+      "name_en": "Kottingbrunn",
+      "province": "下奥地利州",
+      "latitude": 47.951,
+      "longitude": 16.2272,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "弗赖施塔特",
+      "name_en": "Freistadt",
+      "province": "上奥地利州",
+      "latitude": 48.511,
+      "longitude": 14.5045,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "泰尔尼茨",
+      "name_en": "Ternitz",
+      "province": "下奥地利州",
+      "latitude": 47.7156,
+      "longitude": 16.0358,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "马特斯堡",
+      "name_en": "Mattersburg",
+      "province": "布尔根兰州",
+      "latitude": 47.7333,
+      "longitude": 16.4,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "上瓦特",
+      "name_en": "Oberwart",
+      "province": "布尔根兰州",
+      "latitude": 47.2897,
+      "longitude": 16.206,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "哈莱因",
+      "name_en": "Hallein",
+      "province": "萨尔茨堡州",
+      "latitude": 47.6833,
+      "longitude": 13.1,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "延巴赫",
+      "name_en": "Jenbach",
+      "province": "蒂罗尔州",
+      "latitude": 47.3917,
+      "longitude": 11.7724,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Absam",
+      "province": "蒂罗尔州",
+      "latitude": 47.2957,
+      "longitude": 11.5059,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "弗森多夫",
+      "name_en": "Vösendorf",
+      "province": "下奥地利州",
+      "latitude": 48.1211,
+      "longitude": 16.3404,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Sankt Martin",
+      "province": "上奥地利州",
+      "latitude": 46.6167,
+      "longitude": 14.2833,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "莱塔河畔布鲁克",
+      "name_en": "Bruck an der Leitha",
+      "province": "下奥地利州",
+      "latitude": 48.0242,
+      "longitude": 16.7757,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "霍拉布伦",
+      "name_en": "Hollabrunn",
+      "province": "下奥地利州",
+      "latitude": 48.55,
+      "longitude": 16.0833,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "格拉特科恩",
+      "name_en": "Gratkorn",
+      "province": "施泰尔马克州",
+      "latitude": 47.1333,
+      "longitude": 15.35,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Völs",
+      "province": "蒂罗尔州",
+      "latitude": 47.25,
+      "longitude": 11.3333,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "罗伊特",
+      "name_en": "Reutte",
+      "province": "蒂罗尔州",
+      "latitude": 47.4833,
+      "longitude": 10.7167,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "阿尔特阿赫",
+      "name_en": "Altach",
+      "province": "福拉尔贝格州",
+      "latitude": 47.3544,
+      "longitude": 9.6521,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "大恩策斯多夫",
+      "name_en": "Groß-Enzersdorf",
+      "province": "下奥地利州",
+      "latitude": 48.2028,
+      "longitude": 16.5508,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Traiskirchen",
+      "province": "下奥地利州",
+      "latitude": 48.0149,
+      "longitude": 16.2932,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "利岑",
+      "name_en": "Liezen",
+      "province": "施泰尔马克州",
+      "latitude": 47.5667,
+      "longitude": 14.2333,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "克雷姆斯明斯特",
+      "name_en": "Kremsmünster",
+      "province": "上奥地利州",
+      "latitude": 48.0529,
+      "longitude": 14.1292,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "多瑙河畔海恩堡",
+      "name_en": "Hainburg an der Donau",
+      "province": "下奥地利州",
+      "latitude": 48.1463,
+      "longitude": 16.945,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Auen",
+      "province": "克恩顿州",
+      "latitude": 46.5996,
+      "longitude": 13.8439,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Wilhelmsburg",
+      "province": "下奥地利州",
+      "latitude": 48.1057,
+      "longitude": 15.6054,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "马蒂希霍芬",
+      "name_en": "Mattighofen",
+      "province": "上奥地利州",
+      "latitude": 48.1073,
+      "longitude": 13.1508,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Hafendorf",
+      "province": "施泰尔马克州",
+      "latitude": 47.4565,
+      "longitude": 15.3184,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "加尔诺伊基兴",
+      "name_en": "Gallneukirchen",
+      "province": "上奥地利州",
+      "latitude": 48.3536,
+      "longitude": 14.416,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Mistelbach",
+      "province": "下奥地利州",
+      "latitude": 48.57,
+      "longitude": 16.5767,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "弗拉斯坦茨",
+      "name_en": "Frastanz",
+      "province": "福拉尔贝格州",
+      "latitude": 47.2174,
+      "longitude": 9.6299,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "格莱斯多夫",
+      "name_en": "Gleisdorf",
+      "province": "施泰尔马克州",
+      "latitude": 47.1056,
+      "longitude": 15.7101,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Spratzern",
+      "province": "下奥地利州",
+      "latitude": 48.1704,
+      "longitude": 15.6184,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "赫尔布兰茨",
+      "name_en": "Hörbranz",
+      "province": "福拉尔贝格州",
+      "latitude": 47.55,
+      "longitude": 9.75,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "菲尔斯滕费尔德",
+      "name_en": "Fürstenfeld",
+      "province": "施泰尔马克州",
+      "latitude": 47.05,
+      "longitude": 16.0833,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "克雷姆河畔诺伊霍芬",
+      "name_en": "Neuhofen an der Krems",
+      "province": "上奥地利州",
+      "latitude": 48.1387,
+      "longitude": 14.2276,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "普雷斯鲍姆",
+      "name_en": "Pressbaum",
+      "province": "下奥地利州",
+      "latitude": 48.1833,
+      "longitude": 16.0833,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Lichtenegg",
+      "province": "上奥地利州",
+      "latitude": 48.15,
+      "longitude": 14.0,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Pöllau",
+      "province": "施泰尔马克州",
+      "latitude": 47.3,
+      "longitude": 15.8333,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "米尔茨楚施拉格",
+      "name_en": "Mürzzuschlag",
+      "province": "施泰尔马克州",
+      "latitude": 47.6066,
+      "longitude": 15.6723,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "基希比希尔",
+      "name_en": "Kirchbichl",
+      "province": "蒂罗尔州",
+      "latitude": 47.5174,
+      "longitude": 12.0963,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "上奥地利州米歇尔多夫",
+      "name_en": "Micheldorf in Oberösterreich",
+      "province": "上奥地利州",
+      "latitude": 47.8776,
+      "longitude": 14.1336,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "维也纳附近布赖滕富特",
+      "name_en": "Breitenfurt bei Wien",
+      "province": "下奥地利州",
+      "latitude": 48.1333,
+      "longitude": 16.15,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Ries",
+      "province": "施泰尔马克州",
+      "latitude": 47.0832,
+      "longitude": 15.485,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "佩尔格",
+      "name_en": "Perg",
+      "province": "上奥地利州",
+      "latitude": 48.25,
+      "longitude": 14.6333,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "欧本多夫",
+      "name_en": "Oberndorf bei Salzburg",
+      "province": "萨尔茨堡州",
+      "latitude": 47.9391,
+      "longitude": 12.9511,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Kirchenviertel",
+      "province": "施泰尔马克州",
+      "latitude": 47.1312,
+      "longitude": 15.3476,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Amras",
+      "province": "蒂罗尔州",
+      "latitude": 47.25,
+      "longitude": 11.4167,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Wimpassing",
+      "province": "上奥地利州",
+      "latitude": 48.1667,
+      "longitude": 13.9833,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "洛豪",
+      "name_en": "Lochau",
+      "province": "福拉尔贝格州",
+      "latitude": 47.5333,
+      "longitude": 9.75,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Fischamend",
+      "province": "下奥地利州",
+      "latitude": 48.1184,
+      "longitude": 16.6121,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Hart",
+      "province": "上奥地利州",
+      "latitude": 48.2653,
+      "longitude": 14.2569,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Deuchendorf",
+      "province": "施泰尔马克州",
+      "latitude": 47.4659,
+      "longitude": 15.3217,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Horn",
+      "province": "下奥地利州",
+      "latitude": 48.6627,
+      "longitude": 15.6566,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Judendorf",
+      "province": "施泰尔马克州",
+      "latitude": 47.4,
+      "longitude": 15.1,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Völkendorf",
+      "province": "克恩顿州",
+      "latitude": 46.6081,
+      "longitude": 13.8315,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "萍卡菲尔特",
+      "name_en": "Pinkafeld",
+      "province": "布尔根兰州",
+      "latitude": 47.3709,
+      "longitude": 16.1241,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Mühlau",
+      "province": "蒂罗尔州",
+      "latitude": 47.2833,
+      "longitude": 11.4,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Neuzeug",
+      "province": "上奥地利州",
+      "latitude": 48.05,
+      "longitude": 14.3333,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Himberg",
+      "province": "下奥地利州",
+      "latitude": 48.0833,
+      "longitude": 16.4333,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Wölfnitz",
+      "province": "克恩顿州",
+      "latitude": 46.6664,
+      "longitude": 14.2581,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "巴特哈尔",
+      "name_en": "Bad Hall",
+      "province": "上奥地利州",
+      "latitude": 48.0383,
+      "longitude": 14.2077,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Haag",
+      "province": "上奥地利州",
+      "latitude": 48.2706,
+      "longitude": 14.2688,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "谢尔丁",
+      "name_en": "Schärding",
+      "province": "上奥地利州",
+      "latitude": 48.4529,
+      "longitude": 13.4372,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Lind",
+      "province": "克恩顿州",
+      "latitude": 46.6224,
+      "longitude": 13.8471,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Kirchberg in Tirol",
+      "province": "蒂罗尔州",
+      "latitude": 47.4454,
+      "longitude": 12.316,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "埃布赖希斯多夫",
+      "name_en": "Ebreichsdorf",
+      "province": "下奥地利州",
+      "latitude": 47.9558,
+      "longitude": 16.4071,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "金德贝格",
+      "name_en": "Kindberg",
+      "province": "施泰尔马克州",
+      "latitude": 47.5,
+      "longitude": 15.45,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "格拉茨附近卡尔斯多夫",
+      "name_en": "Kalsdorf bei Graz",
+      "province": "施泰尔马克州",
+      "latitude": 46.9653,
+      "longitude": 15.4803,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "阿克萨姆斯",
+      "name_en": "Axams",
+      "province": "蒂罗尔州",
+      "latitude": 47.2311,
+      "longitude": 11.2789,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Oberhaid",
+      "province": "上奥地利州",
+      "latitude": 48.1759,
+      "longitude": 14.015,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "",
+      "name_en": "Leopoldsdorf",
+      "province": "下奥地利州",
+      "latitude": 48.1156,
+      "longitude": 16.3913,
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "name": "索勒瑙",
+      "name_en": "Sollenau",
+      "province": "下奥地利州",
+      "latitude": 47.8983,
+      "longitude": 16.2483,
+      "timezone": "Europe/Vienna"
+    }
+  ]
+}

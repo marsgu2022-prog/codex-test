@@ -1,0 +1,398 @@
+{
+  "country_code": "SL",
+  "country_name": "塞拉利昂",
+  "cities": [
+    {
+      "name": "自由市",
+      "name_en": "Freetown",
+      "province": "西部区",
+      "latitude": 8.4871,
+      "longitude": -13.2356,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "博城",
+      "name_en": "Bo",
+      "province": "南方省",
+      "latitude": 7.9647,
+      "longitude": -11.7383,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "凯内马",
+      "name_en": "Kenema",
+      "province": "东方省",
+      "latitude": 7.8769,
+      "longitude": -11.1903,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "科伊杜",
+      "name_en": "Koidu",
+      "province": "东方省",
+      "latitude": 8.6439,
+      "longitude": -10.9714,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "马卡尼",
+      "name_en": "Makeni",
+      "province": "北方省",
+      "latitude": 8.886,
+      "longitude": -12.0442,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "滑铁卢，塞拉利昂",
+      "name_en": "Waterloo",
+      "province": "西部区",
+      "latitude": 8.3389,
+      "longitude": -13.0709,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "",
+      "name_en": "Njala",
+      "province": "南方省",
+      "latitude": 8.2323,
+      "longitude": -12.0156,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "",
+      "name_en": "Lunsar",
+      "province": "北方省",
+      "latitude": 8.6844,
+      "longitude": -12.535,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "",
+      "name_en": "Port Loko",
+      "province": "塞拉利昂西北省",
+      "latitude": 8.7661,
+      "longitude": -12.787,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "",
+      "name_en": "Goderich",
+      "province": "西部区",
+      "latitude": 8.4276,
+      "longitude": -13.286,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "卡巴拉",
+      "name_en": "Kabala",
+      "province": "北方省",
+      "latitude": 9.5889,
+      "longitude": -11.5526,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "塞格布玛",
+      "name_en": "Segbwema",
+      "province": "东方省",
+      "latitude": 7.9947,
+      "longitude": -10.9502,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "",
+      "name_en": "Bumpe",
+      "province": "南方省",
+      "latitude": 7.8921,
+      "longitude": -11.9054,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "",
+      "name_en": "Mile 91",
+      "province": "北方省",
+      "latitude": 8.466,
+      "longitude": -12.2146,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "马布拉卡",
+      "name_en": "Magburaka",
+      "province": "北方省",
+      "latitude": 8.7231,
+      "longitude": -11.9488,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "凯拉洪",
+      "name_en": "Kailahun",
+      "province": "东方省",
+      "latitude": 8.2789,
+      "longitude": -10.573,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "",
+      "name_en": "Binkolo",
+      "province": "北方省",
+      "latitude": 8.9522,
+      "longitude": -11.9803,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "",
+      "name_en": "Yengema",
+      "province": "东方省",
+      "latitude": 8.7144,
+      "longitude": -11.1706,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "",
+      "name_en": "Rokupr",
+      "province": "北方省",
+      "latitude": 8.6712,
+      "longitude": -12.385,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "",
+      "name_en": "Gandorhun",
+      "province": "南方省",
+      "latitude": 7.555,
+      "longitude": -11.6926,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "",
+      "name_en": "Gandorhun",
+      "province": "南方省",
+      "latitude": 7.555,
+      "longitude": -11.6926,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "",
+      "name_en": "Kambia",
+      "province": "北方省",
+      "latitude": 9.125,
+      "longitude": -12.9182,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "邦特",
+      "name_en": "Bonthe",
+      "province": "南方省",
+      "latitude": 7.5264,
+      "longitude": -12.505,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "",
+      "name_en": "Pendembu",
+      "province": "东方省",
+      "latitude": 8.0981,
+      "longitude": -10.6943,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "",
+      "name_en": "Mattru Jong",
+      "province": "南方省",
+      "latitude": 7.5997,
+      "longitude": -12.1667,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "",
+      "name_en": "Blama",
+      "province": "东方省",
+      "latitude": 7.8748,
+      "longitude": -11.3455,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "",
+      "name_en": "Kamakwie",
+      "province": "北方省",
+      "latitude": 9.4969,
+      "longitude": -12.2406,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "",
+      "name_en": "Panguma",
+      "province": "东方省",
+      "latitude": 8.1851,
+      "longitude": -11.1329,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "普杰洪",
+      "name_en": "Pujehun",
+      "province": "南方省",
+      "latitude": 7.3581,
+      "longitude": -11.7208,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "",
+      "name_en": "Kukuna",
+      "province": "北方省",
+      "latitude": 9.3984,
+      "longitude": -12.6648,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "",
+      "name_en": "Barma",
+      "province": "东方省",
+      "latitude": 8.3496,
+      "longitude": -11.3306,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "",
+      "name_en": "Boajibu",
+      "province": "东方省",
+      "latitude": 8.1876,
+      "longitude": -11.3403,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "",
+      "name_en": "Bunumbu",
+      "province": "东方省",
+      "latitude": 8.1742,
+      "longitude": -10.8643,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "",
+      "name_en": "Sumbuya",
+      "province": "南方省",
+      "latitude": 7.6479,
+      "longitude": -11.9606,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "",
+      "name_en": "Baoma",
+      "province": "南方省",
+      "latitude": 7.9934,
+      "longitude": -11.7147,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "莫扬巴",
+      "name_en": "Moyamba",
+      "province": "南方省",
+      "latitude": 8.159,
+      "longitude": -12.4317,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "",
+      "name_en": "Mambolo",
+      "province": "北方省",
+      "latitude": 8.9186,
+      "longitude": -13.0367,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "",
+      "name_en": "Tombodu",
+      "province": "东方省",
+      "latitude": 8.1353,
+      "longitude": -10.6196,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "",
+      "name_en": "Daru",
+      "province": "东方省",
+      "latitude": 7.9898,
+      "longitude": -10.8422,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "",
+      "name_en": "Foindu",
+      "province": "南方省",
+      "latitude": 7.4091,
+      "longitude": -11.5433,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "",
+      "name_en": "Masingbi",
+      "province": "北方省",
+      "latitude": 8.782,
+      "longitude": -11.9517,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "",
+      "name_en": "Motema",
+      "province": "东方省",
+      "latitude": 8.6143,
+      "longitude": -11.0125,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "",
+      "name_en": "Bomi",
+      "province": "南方省",
+      "latitude": 7.2461,
+      "longitude": -11.5258,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "",
+      "name_en": "Tintafor",
+      "province": "北方省",
+      "latitude": 8.6267,
+      "longitude": -13.215,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "",
+      "name_en": "Buedu",
+      "province": "东方省",
+      "latitude": 8.2796,
+      "longitude": -10.3713,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "",
+      "name_en": "Mamboma",
+      "province": "南方省",
+      "latitude": 8.0874,
+      "longitude": -11.6884,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "",
+      "name_en": "Kassiri",
+      "province": "北方省",
+      "latitude": 8.9381,
+      "longitude": -13.1154,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "",
+      "name_en": "Hastings",
+      "province": "西部区",
+      "latitude": 8.3799,
+      "longitude": -13.1369,
+      "timezone": "Africa/Freetown"
+    },
+    {
+      "name": "",
+      "name_en": "Hangha",
+      "province": "东方省",
+      "latitude": 7.9397,
+      "longitude": -11.1413,
+      "timezone": "Africa/Freetown"
+    }
+  ]
+}

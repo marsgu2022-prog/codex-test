@@ -1,0 +1,94 @@
+{
+  "country_code": "ER",
+  "country_name": "厄立特里亚",
+  "cities": [
+    {
+      "name": "阿斯马拉",
+      "name_en": "Asmara",
+      "province": "中部区",
+      "latitude": 15.3381,
+      "longitude": 38.9318,
+      "timezone": "Africa/Asmara"
+    },
+    {
+      "name": "克伦",
+      "name_en": "Keren",
+      "province": "安塞巴区",
+      "latitude": 15.7779,
+      "longitude": 38.4511,
+      "timezone": "Africa/Asmara"
+    },
+    {
+      "name": "",
+      "name_en": "Himora",
+      "province": "加什-巴尔卡区",
+      "latitude": 14.3043,
+      "longitude": 36.606,
+      "timezone": "Africa/Asmara"
+    },
+    {
+      "name": "马萨瓦",
+      "name_en": "Massawa",
+      "province": "北红海区",
+      "latitude": 15.6081,
+      "longitude": 39.4746,
+      "timezone": "Africa/Asmara"
+    },
+    {
+      "name": "阿萨布",
+      "name_en": "Assab",
+      "province": "南红海区",
+      "latitude": 13.0092,
+      "longitude": 42.7394,
+      "timezone": "Africa/Asmara"
+    },
+    {
+      "name": "",
+      "name_en": "Mendefera",
+      "province": "南部区",
+      "latitude": 14.8872,
+      "longitude": 38.8153,
+      "timezone": "Africa/Asmara"
+    },
+    {
+      "name": "",
+      "name_en": "Barentu",
+      "province": "加什-巴尔卡区",
+      "latitude": 15.1058,
+      "longitude": 37.5907,
+      "timezone": "Africa/Asmara"
+    },
+    {
+      "name": "",
+      "name_en": "Adi Keyh",
+      "province": "南部区",
+      "latitude": 14.8444,
+      "longitude": 39.3772,
+      "timezone": "Africa/Asmara"
+    },
+    {
+      "name": "埃德",
+      "name_en": "Edd",
+      "province": "南红海区",
+      "latitude": 13.9309,
+      "longitude": 41.6938,
+      "timezone": "Africa/Asmara"
+    },
+    {
+      "name": "",
+      "name_en": "Dek’emhāre",
+      "province": "南部区",
+      "latitude": 15.07,
+      "longitude": 39.0475,
+      "timezone": "Africa/Asmara"
+    },
+    {
+      "name": "阿科达特",
+      "name_en": "Ak’ordat",
+      "province": "加什-巴尔卡区",
+      "latitude": 15.548,
+      "longitude": 37.8829,
+      "timezone": "Africa/Asmara"
+    }
+  ]
+}

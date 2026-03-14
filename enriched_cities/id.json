@@ -1,0 +1,3758 @@
+{
+  "country_code": "ID",
+  "country_name": "印度尼西亚",
+  "cities": [
+    {
+      "name": "雅加达",
+      "name_en": "Jakarta",
+      "province": "Jakarta",
+      "latitude": -6.2146,
+      "longitude": 106.8451,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "泗水",
+      "name_en": "Surabaya",
+      "province": "东爪哇省",
+      "latitude": -7.2492,
+      "longitude": 112.7508,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "勿加泗",
+      "name_en": "Bekasi",
+      "province": "西爪哇省",
+      "latitude": -6.2349,
+      "longitude": 106.9896,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "万隆",
+      "name_en": "Bandung",
+      "province": "西爪哇省",
+      "latitude": -6.9222,
+      "longitude": 107.6069,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "棉兰",
+      "name_en": "Medan",
+      "province": "北苏门答腊省",
+      "latitude": 3.5833,
+      "longitude": 98.6667,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "德博市",
+      "name_en": "Depok",
+      "province": "西爪哇省",
+      "latitude": -6.4,
+      "longitude": 106.8186,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "坦格朗",
+      "name_en": "Tangerang",
+      "province": "万丹省",
+      "latitude": -6.1781,
+      "longitude": 106.63,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "巨港",
+      "name_en": "Palembang",
+      "province": "南苏门答腊省",
+      "latitude": -2.9167,
+      "longitude": 104.7458,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "三宝珑",
+      "name_en": "Semarang",
+      "province": "中爪哇省",
+      "latitude": -6.9931,
+      "longitude": 110.4208,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Makassar",
+      "province": "South Sulawesi",
+      "latitude": -5.1486,
+      "longitude": 119.4319,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "South Tangerang",
+      "province": "万丹省",
+      "latitude": -6.2886,
+      "longitude": 106.7179,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Jepara",
+      "province": "中爪哇省",
+      "latitude": -6.5924,
+      "longitude": 110.671,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "班达楠榜",
+      "name_en": "Bandar Lampung",
+      "province": "Lampung",
+      "latitude": -5.4292,
+      "longitude": 105.2611,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "巴淡岛",
+      "name_en": "Batam",
+      "province": "Riau",
+      "latitude": 1.1494,
+      "longitude": 104.0249,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "茂物",
+      "name_en": "Bogor",
+      "province": "西爪哇省",
+      "latitude": -6.5944,
+      "longitude": 106.7892,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "北干巴鲁",
+      "name_en": "Pekanbaru",
+      "province": "Riau",
+      "latitude": 0.5167,
+      "longitude": 101.4417,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "巴东",
+      "name_en": "Padang",
+      "province": "West Sumatra",
+      "latitude": -0.9492,
+      "longitude": 100.3543,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "玛琅",
+      "name_en": "Malang",
+      "province": "东爪哇省",
+      "latitude": -7.9797,
+      "longitude": 112.6304,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "沙马林达",
+      "name_en": "Samarinda",
+      "province": "东加里曼丹省",
+      "latitude": -0.4917,
+      "longitude": 117.1458,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Tasikmalaya",
+      "province": "西爪哇省",
+      "latitude": -7.3274,
+      "longitude": 108.2207,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "丹帕沙",
+      "name_en": "Denpasar",
+      "province": "巴厘岛",
+      "latitude": -8.65,
+      "longitude": 115.2167,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "巴厘巴板",
+      "name_en": "Balikpapan",
+      "province": "东加里曼丹省",
+      "latitude": -1.2675,
+      "longitude": 116.8289,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Serang",
+      "province": "万丹省",
+      "latitude": -6.1153,
+      "longitude": 106.1542,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Situbondo",
+      "province": "东爪哇省",
+      "latitude": -7.7062,
+      "longitude": 114.0098,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "坤甸",
+      "name_en": "Pontianak",
+      "province": "西加里曼丹省",
+      "latitude": -0.0319,
+      "longitude": 109.325,
+      "timezone": "Asia/Pontianak"
+    },
+    {
+      "name": "",
+      "name_en": "Banjarmasin",
+      "province": "南加里曼丹省",
+      "latitude": -3.3199,
+      "longitude": 114.5907,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Jambi City",
+      "province": "Jambi",
+      "latitude": -1.6,
+      "longitude": 103.6167,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Cimahi",
+      "province": "西爪哇省",
+      "latitude": -6.8722,
+      "longitude": 107.5425,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "索罗",
+      "name_en": "Surakarta",
+      "province": "中爪哇省",
+      "latitude": -7.5561,
+      "longitude": 110.8317,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "万鸦老",
+      "name_en": "Manado",
+      "province": "北苏拉威西省",
+      "latitude": 1.4822,
+      "longitude": 124.8489,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Cilegon",
+      "province": "万丹省",
+      "latitude": -6.0144,
+      "longitude": 106.0542,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "古邦",
+      "name_en": "Kupang",
+      "province": "East Nusa Tenggara",
+      "latitude": -10.1708,
+      "longitude": 123.6069,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "马塔兰",
+      "name_en": "Mataram",
+      "province": "West Nusa Tenggara",
+      "latitude": -8.5833,
+      "longitude": 116.1167,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "查雅普拉",
+      "name_en": "Jayapura",
+      "province": "Papua",
+      "latitude": -2.5337,
+      "longitude": 140.7181,
+      "timezone": "Asia/Jayapura"
+    },
+    {
+      "name": "明古鲁市",
+      "name_en": "Bengkulu",
+      "province": "Bengkulu",
+      "latitude": -3.8004,
+      "longitude": 102.2655,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "日惹",
+      "name_en": "Yogyakarta",
+      "province": "Yogyakarta",
+      "latitude": -7.8014,
+      "longitude": 110.3647,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Palu",
+      "province": "中苏拉威西省",
+      "latitude": -0.9083,
+      "longitude": 119.8708,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Cibinong",
+      "province": "西爪哇省",
+      "latitude": -6.4817,
+      "longitude": 106.8542,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "苏加武眉",
+      "name_en": "Sukabumi",
+      "province": "西爪哇省",
+      "latitude": -6.9181,
+      "longitude": 106.9267,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "安汶",
+      "name_en": "Ambon",
+      "province": "Maluku",
+      "latitude": -3.6958,
+      "longitude": 128.1833,
+      "timezone": "Asia/Jayapura"
+    },
+    {
+      "name": "肯达里",
+      "name_en": "Kendari",
+      "province": "Southeast Sulawesi",
+      "latitude": -3.9778,
+      "longitude": 122.5151,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "井里汶",
+      "name_en": "Cirebon",
+      "province": "西爪哇省",
+      "latitude": -6.7063,
+      "longitude": 108.557,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Dumai",
+      "province": "Riau",
+      "latitude": 1.6671,
+      "longitude": 101.4432,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Pekalongan",
+      "province": "中爪哇省",
+      "latitude": -6.8886,
+      "longitude": 109.6753,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Percut",
+      "province": "北苏门答腊省",
+      "latitude": 3.6253,
+      "longitude": 98.864,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Jember",
+      "province": "东爪哇省",
+      "latitude": -8.1721,
+      "longitude": 113.6995,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "帕朗卡拉亚",
+      "name_en": "Palangkaraya",
+      "province": "Central Kalimantan",
+      "latitude": -2.2083,
+      "longitude": 113.9167,
+      "timezone": "Asia/Pontianak"
+    },
+    {
+      "name": "",
+      "name_en": "Cileungsir",
+      "province": "西爪哇省",
+      "latitude": -6.3947,
+      "longitude": 106.9592,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "直葛",
+      "name_en": "Tegal",
+      "province": "中爪哇省",
+      "latitude": -6.8694,
+      "longitude": 109.1402,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "民礼",
+      "name_en": "Binjai",
+      "province": "北苏门答腊省",
+      "latitude": 3.6001,
+      "longitude": 98.4854,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Pematangsiantar",
+      "province": "北苏门答腊省",
+      "latitude": 2.9595,
+      "longitude": 99.0687,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Pasarkemis",
+      "province": "西爪哇省",
+      "latitude": -6.1703,
+      "longitude": 106.5303,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Cilacap",
+      "province": "中爪哇省",
+      "latitude": -7.7264,
+      "longitude": 109.0094,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "班达亚齐",
+      "name_en": "Banda Aceh",
+      "province": "Aceh",
+      "latitude": 5.5417,
+      "longitude": 95.3333,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Sorong",
+      "province": "Southwest Papua",
+      "latitude": -0.8796,
+      "longitude": 131.261,
+      "timezone": "Asia/Jayapura"
+    },
+    {
+      "name": "塔拉卡恩",
+      "name_en": "Tarakan",
+      "province": "North Kalimantan",
+      "latitude": 3.3133,
+      "longitude": 117.5915,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Probolinggo",
+      "province": "东爪哇省",
+      "latitude": -7.7543,
+      "longitude": 113.2159,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Singkawang",
+      "province": "西加里曼丹省",
+      "latitude": 0.9093,
+      "longitude": 108.9846,
+      "timezone": "Asia/Pontianak"
+    },
+    {
+      "name": "",
+      "name_en": "Padangsidempuan",
+      "province": "北苏门答腊省",
+      "latitude": 1.3795,
+      "longitude": 99.2715,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "谏义里",
+      "name_en": "Kediri",
+      "province": "东爪哇省",
+      "latitude": -7.8167,
+      "longitude": 112.0167,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Lubuklinggau",
+      "province": "南苏门答腊省",
+      "latitude": -3.2945,
+      "longitude": 102.8614,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Purwokerto",
+      "province": "中爪哇省",
+      "latitude": -7.4214,
+      "longitude": 109.2344,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "廖都",
+      "name_en": "Tanjung Pinang",
+      "province": "Riau Islands",
+      "latitude": 0.9167,
+      "longitude": 104.4583,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "比通",
+      "name_en": "Bitung",
+      "province": "北苏拉威西省",
+      "latitude": 1.4406,
+      "longitude": 125.1282,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Batu",
+      "province": "东爪哇省",
+      "latitude": -7.87,
+      "longitude": 112.5283,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Pangkalpinang",
+      "province": "邦加-勿里洞省",
+      "latitude": -2.1291,
+      "longitude": 106.1138,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Citeureup",
+      "province": "西爪哇省",
+      "latitude": -6.4856,
+      "longitude": 106.8819,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Loa Janan",
+      "province": "东加里曼丹省",
+      "latitude": -0.5829,
+      "longitude": 117.095,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Pasuruan",
+      "province": "东爪哇省",
+      "latitude": -7.6453,
+      "longitude": 112.9075,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Ciputat",
+      "province": "西爪哇省",
+      "latitude": -6.2375,
+      "longitude": 106.6956,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Ciampea",
+      "province": "西爪哇省",
+      "latitude": -6.5547,
+      "longitude": 106.7008,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "テルナテ岛",
+      "name_en": "Ternate",
+      "province": "North Maluku",
+      "latitude": 0.7906,
+      "longitude": 127.3842,
+      "timezone": "Asia/Jayapura"
+    },
+    {
+      "name": "",
+      "name_en": "Madiun",
+      "province": "东爪哇省",
+      "latitude": -7.6298,
+      "longitude": 111.5239,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Rengasdengklok",
+      "province": "西爪哇省",
+      "latitude": -6.1592,
+      "longitude": 107.2981,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Salatiga",
+      "province": "中爪哇省",
+      "latitude": -7.3319,
+      "longitude": 110.4928,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Banjar",
+      "province": "西爪哇省",
+      "latitude": -7.1955,
+      "longitude": 107.4313,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Sumedang",
+      "province": "西爪哇省",
+      "latitude": -6.8586,
+      "longitude": 107.9164,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Gorontalo",
+      "province": "Gorontalo",
+      "latitude": 0.5375,
+      "longitude": 123.0625,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Lhokseumawe",
+      "province": "Aceh",
+      "latitude": 5.1801,
+      "longitude": 97.1507,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Langsa",
+      "province": "Aceh",
+      "latitude": 4.4683,
+      "longitude": 97.9683,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Curug",
+      "province": "万丹省",
+      "latitude": -6.2658,
+      "longitude": 106.5564,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Palopo",
+      "province": "South Sulawesi",
+      "latitude": -2.9925,
+      "longitude": 120.1969,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Bontang",
+      "province": "东加里曼丹省",
+      "latitude": 0.1324,
+      "longitude": 117.4854,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Labuan Bajo",
+      "province": "East Nusa Tenggara",
+      "latitude": -8.4964,
+      "longitude": 119.8877,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Padalarang",
+      "province": "西爪哇省",
+      "latitude": -6.8378,
+      "longitude": 107.4728,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Pemalang",
+      "province": "中爪哇省",
+      "latitude": -6.8919,
+      "longitude": 109.3826,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Tanjungbalai",
+      "province": "北苏门答腊省",
+      "latitude": 2.9667,
+      "longitude": 99.8,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Lembang",
+      "province": "西爪哇省",
+      "latitude": -6.8117,
+      "longitude": 107.6175,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Singosari",
+      "province": "东爪哇省",
+      "latitude": -7.8924,
+      "longitude": 112.6658,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Purwakarta",
+      "province": "西爪哇省",
+      "latitude": -6.5569,
+      "longitude": 107.4433,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Metro",
+      "province": "Lampung",
+      "latitude": -5.1131,
+      "longitude": 105.3067,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "展玉",
+      "name_en": "Cianjur",
+      "province": "西爪哇省",
+      "latitude": -6.8222,
+      "longitude": 107.1394,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Pamulang",
+      "province": "西爪哇省",
+      "latitude": -6.3428,
+      "longitude": 106.7383,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Cikupa",
+      "province": "西爪哇省",
+      "latitude": -6.2364,
+      "longitude": 106.5083,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Ungaran",
+      "province": "中爪哇省",
+      "latitude": -7.1397,
+      "longitude": 110.405,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Plumbon",
+      "province": "西爪哇省",
+      "latitude": -6.705,
+      "longitude": 108.4728,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Sampit",
+      "province": "Central Kalimantan",
+      "latitude": -2.5315,
+      "longitude": 112.9496,
+      "timezone": "Asia/Pontianak"
+    },
+    {
+      "name": "",
+      "name_en": "Sawangan",
+      "province": "西爪哇省",
+      "latitude": -6.4028,
+      "longitude": 106.7744,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Banjaran",
+      "province": "西爪哇省",
+      "latitude": -7.0453,
+      "longitude": 107.5878,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Bima",
+      "province": "West Nusa Tenggara",
+      "latitude": -8.4601,
+      "longitude": 118.7267,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Baubau",
+      "province": "Southeast Sulawesi",
+      "latitude": -5.4633,
+      "longitude": 122.6024,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Parepare",
+      "province": "South Sulawesi",
+      "latitude": -4.0135,
+      "longitude": 119.6255,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Sunggal",
+      "province": "北苏门答腊省",
+      "latitude": 3.5765,
+      "longitude": 98.6151,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Perbaungan",
+      "province": "北苏门答腊省",
+      "latitude": 3.5679,
+      "longitude": 98.956,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Blitar",
+      "province": "东爪哇省",
+      "latitude": -8.0983,
+      "longitude": 112.1681,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Watampone",
+      "province": "South Sulawesi",
+      "latitude": -4.5386,
+      "longitude": 120.3279,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Astanajapura",
+      "province": "西爪哇省",
+      "latitude": -6.8017,
+      "longitude": 108.6311,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Cikampek",
+      "province": "西爪哇省",
+      "latitude": -6.4197,
+      "longitude": 107.4558,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Timika",
+      "province": "Central Papua",
+      "latitude": -4.6141,
+      "longitude": 136.6768,
+      "timezone": "Asia/Jayapura"
+    },
+    {
+      "name": "",
+      "name_en": "Kisaran",
+      "province": "北苏门答腊省",
+      "latitude": 2.9845,
+      "longitude": 99.6158,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Mojokerto",
+      "province": "东爪哇省",
+      "latitude": -7.4664,
+      "longitude": 112.4338,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Payakumbuh",
+      "province": "West Sumatra",
+      "latitude": -0.2159,
+      "longitude": 100.6334,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Purwodadi",
+      "province": "中爪哇省",
+      "latitude": -7.0868,
+      "longitude": 110.9158,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Sidoarjo",
+      "province": "东爪哇省",
+      "latitude": -7.4478,
+      "longitude": 112.7183,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Weru",
+      "province": "西爪哇省",
+      "latitude": -6.711,
+      "longitude": 108.5037,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Subang",
+      "province": "西爪哇省",
+      "latitude": -6.57,
+      "longitude": 107.7567,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Rangkasbitung",
+      "province": "万丹省",
+      "latitude": -6.3591,
+      "longitude": 106.2494,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Gunungsitoli",
+      "province": "北苏门答腊省",
+      "latitude": 1.2888,
+      "longitude": 97.6143,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Batang",
+      "province": "中爪哇省",
+      "latitude": -6.4846,
+      "longitude": 110.7083,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Baturaja",
+      "province": "南苏门答腊省",
+      "latitude": -4.1289,
+      "longitude": 104.1669,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Adiwerna",
+      "province": "中爪哇省",
+      "latitude": -6.9375,
+      "longitude": 109.1325,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Singaraja",
+      "province": "巴厘岛",
+      "latitude": -8.112,
+      "longitude": 115.0882,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Garut",
+      "province": "西爪哇省",
+      "latitude": -7.245,
+      "longitude": 107.921,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Martapura",
+      "province": "南加里曼丹省",
+      "latitude": -3.4109,
+      "longitude": 114.8642,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Teluknaga",
+      "province": "西爪哇省",
+      "latitude": -6.0989,
+      "longitude": 106.6381,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Klaten",
+      "province": "中爪哇省",
+      "latitude": -7.7058,
+      "longitude": 110.6064,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Jombang",
+      "province": "东爪哇省",
+      "latitude": -7.546,
+      "longitude": 112.2331,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Paseh",
+      "province": "西爪哇省",
+      "latitude": -7.068,
+      "longitude": 107.794,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Sukawati",
+      "province": "巴厘岛",
+      "latitude": -8.4913,
+      "longitude": 115.0459,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Lumajang",
+      "province": "东爪哇省",
+      "latitude": -8.1335,
+      "longitude": 113.2248,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Indramayu",
+      "province": "西爪哇省",
+      "latitude": -6.3264,
+      "longitude": 108.32,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Parung",
+      "province": "西爪哇省",
+      "latitude": -6.4214,
+      "longitude": 106.7331,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "马格朗",
+      "name_en": "Magelang",
+      "province": "中爪哇省",
+      "latitude": -7.4706,
+      "longitude": 110.2178,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "武吉丁宜",
+      "name_en": "Bukittinggi",
+      "province": "West Sumatra",
+      "latitude": -0.3091,
+      "longitude": 100.3705,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Bangil",
+      "province": "东爪哇省",
+      "latitude": -7.5994,
+      "longitude": 112.8186,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Sepatan",
+      "province": "西爪哇省",
+      "latitude": -6.1189,
+      "longitude": 106.575,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Banyuwangi",
+      "province": "东爪哇省",
+      "latitude": -8.2325,
+      "longitude": 114.3576,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Tebingtinggi",
+      "province": "北苏门答腊省",
+      "latitude": 3.3285,
+      "longitude": 99.1625,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Kedungwuni",
+      "province": "中爪哇省",
+      "latitude": -6.9704,
+      "longitude": 109.6479,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Soreang",
+      "province": "西爪哇省",
+      "latitude": -7.0331,
+      "longitude": 107.5183,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Pamanukan",
+      "province": "西爪哇省",
+      "latitude": -6.2842,
+      "longitude": 107.8106,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Lawang",
+      "province": "东爪哇省",
+      "latitude": -7.8353,
+      "longitude": 112.6947,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Kuningan",
+      "province": "西爪哇省",
+      "latitude": -6.9758,
+      "longitude": 108.4831,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Cileunyi",
+      "province": "西爪哇省",
+      "latitude": -6.9389,
+      "longitude": 107.7528,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Kresek",
+      "province": "西爪哇省",
+      "latitude": -6.1314,
+      "longitude": 106.3797,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Ciamis",
+      "province": "西爪哇省",
+      "latitude": -7.3257,
+      "longitude": 108.3534,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Pelabuhanratu",
+      "province": "西爪哇省",
+      "latitude": -6.9875,
+      "longitude": 106.5514,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "曼诺瓦里",
+      "name_en": "Manokwari",
+      "province": "West Papua",
+      "latitude": -0.8629,
+      "longitude": 134.064,
+      "timezone": "Asia/Jayapura"
+    },
+    {
+      "name": "",
+      "name_en": "Pati",
+      "province": "中爪哇省",
+      "latitude": -6.7559,
+      "longitude": 111.038,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Cikarang",
+      "province": "西爪哇省",
+      "latitude": -6.2611,
+      "longitude": 107.1528,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Arjawinangun",
+      "province": "西爪哇省",
+      "latitude": -6.6453,
+      "longitude": 108.4103,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Depok",
+      "province": "Yogyakarta",
+      "latitude": -6.4,
+      "longitude": 106.8186,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Prabumulih",
+      "province": "南苏门答腊省",
+      "latitude": -3.4345,
+      "longitude": 104.2306,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Tanjung Pandan",
+      "province": "邦加-勿里洞省",
+      "latitude": -2.7335,
+      "longitude": 107.6348,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Rantauprapat",
+      "province": "北苏门答腊省",
+      "latitude": 2.1,
+      "longitude": 99.8333,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Belawan",
+      "province": "北苏门答腊省",
+      "latitude": 3.7755,
+      "longitude": 98.6832,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "马老奇",
+      "name_en": "Merauke",
+      "province": "South Papua",
+      "latitude": -8.4996,
+      "longitude": 140.4061,
+      "timezone": "Asia/Jayapura"
+    },
+    {
+      "name": "",
+      "name_en": "Sungailiat",
+      "province": "邦加-勿里洞省",
+      "latitude": -1.8544,
+      "longitude": 106.1222,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Grogol",
+      "province": "中爪哇省",
+      "latitude": -7.6011,
+      "longitude": 110.8186,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Sumedang Utara",
+      "province": "西爪哇省",
+      "latitude": -6.85,
+      "longitude": 107.9167,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Sungai Penuh",
+      "province": "Jambi",
+      "latitude": -2.0561,
+      "longitude": 101.3913,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Dukuhturi",
+      "province": "中爪哇省",
+      "latitude": -6.9,
+      "longitude": 109.0833,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Sumber",
+      "province": "西爪哇省",
+      "latitude": -6.7603,
+      "longitude": 108.4831,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Wonosobo",
+      "province": "中爪哇省",
+      "latitude": -7.3589,
+      "longitude": 109.9031,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Palimanan",
+      "province": "西爪哇省",
+      "latitude": -6.7069,
+      "longitude": 108.4242,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Selong",
+      "province": "West Nusa Tenggara",
+      "latitude": -8.6503,
+      "longitude": 116.5318,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Pamekasan",
+      "province": "东爪哇省",
+      "latitude": -7.1568,
+      "longitude": 113.4746,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Pandeglang",
+      "province": "万丹省",
+      "latitude": -6.3084,
+      "longitude": 106.1067,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Pariaman",
+      "province": "West Sumatra",
+      "latitude": -0.619,
+      "longitude": 100.12,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Kudus",
+      "province": "中爪哇省",
+      "latitude": -6.8048,
+      "longitude": 110.8405,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Caringin",
+      "province": "西爪哇省",
+      "latitude": -6.7061,
+      "longitude": 106.8214,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Sibolga",
+      "province": "北苏门答腊省",
+      "latitude": 1.7402,
+      "longitude": 98.7812,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Subulussalam",
+      "province": "Aceh",
+      "latitude": 2.662,
+      "longitude": 97.8827,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Tual",
+      "province": "Maluku",
+      "latitude": -5.6288,
+      "longitude": 132.7523,
+      "timezone": "Asia/Jayapura"
+    },
+    {
+      "name": "",
+      "name_en": "Banjar",
+      "province": "巴厘岛",
+      "latitude": -7.1955,
+      "longitude": 107.4313,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Cicurug",
+      "province": "西爪哇省",
+      "latitude": -6.7814,
+      "longitude": 106.7825,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Kartasura",
+      "province": "中爪哇省",
+      "latitude": -7.5519,
+      "longitude": 110.7378,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Klangenan",
+      "province": "西爪哇省",
+      "latitude": -6.7094,
+      "longitude": 108.44,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Maumere",
+      "province": "East Nusa Tenggara",
+      "latitude": -8.6199,
+      "longitude": 122.2111,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Wonosari",
+      "province": "Yogyakarta",
+      "latitude": -7.9656,
+      "longitude": 110.6036,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Ende",
+      "province": "East Nusa Tenggara",
+      "latitude": -8.8432,
+      "longitude": 121.6623,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Bojonegoro",
+      "province": "东爪哇省",
+      "latitude": -7.1502,
+      "longitude": 111.8817,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Bangkalan",
+      "province": "东爪哇省",
+      "latitude": -7.0455,
+      "longitude": 112.7351,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Kasihan",
+      "province": "Yogyakarta",
+      "latitude": -7.8269,
+      "longitude": 110.3292,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Sintang",
+      "province": "西加里曼丹省",
+      "latitude": 0.0667,
+      "longitude": 111.5,
+      "timezone": "Asia/Pontianak"
+    },
+    {
+      "name": "",
+      "name_en": "Sumenep",
+      "province": "东爪哇省",
+      "latitude": -7.0115,
+      "longitude": 113.8604,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Margahayukencana",
+      "province": "西爪哇省",
+      "latitude": -6.9708,
+      "longitude": 107.5675,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Galesong",
+      "province": "South Sulawesi",
+      "latitude": -5.3166,
+      "longitude": 119.3661,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Atambua",
+      "province": "East Nusa Tenggara",
+      "latitude": -9.1061,
+      "longitude": 124.8925,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Kedungwaru",
+      "province": "东爪哇省",
+      "latitude": -8.0667,
+      "longitude": 111.9167,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Serpong",
+      "province": "西爪哇省",
+      "latitude": -6.3169,
+      "longitude": 106.6642,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Genteng",
+      "province": "东爪哇省",
+      "latitude": -8.3667,
+      "longitude": 114.15,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Gedangan",
+      "province": "东爪哇省",
+      "latitude": -7.3908,
+      "longitude": 112.7267,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Ponorogo",
+      "province": "东爪哇省",
+      "latitude": -7.8685,
+      "longitude": 111.462,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Ciranjang-hilir",
+      "province": "西爪哇省",
+      "latitude": -6.82,
+      "longitude": 107.2572,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Tuban",
+      "province": "东爪哇省",
+      "latitude": -6.8976,
+      "longitude": 112.0649,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Kebomas",
+      "province": "东爪哇省",
+      "latitude": -7.1667,
+      "longitude": 112.6333,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Karangsembung",
+      "province": "西爪哇省",
+      "latitude": -6.8487,
+      "longitude": 108.6422,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Tarub",
+      "province": "中爪哇省",
+      "latitude": -6.9333,
+      "longitude": 109.1667,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Ubud",
+      "province": "巴厘岛",
+      "latitude": -8.5098,
+      "longitude": 115.2654,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Majene",
+      "province": "West Sulawesi",
+      "latitude": -3.5403,
+      "longitude": 118.9707,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Gresik",
+      "province": "东爪哇省",
+      "latitude": -7.1539,
+      "longitude": 112.6561,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Sewon",
+      "province": "Yogyakarta",
+      "latitude": -7.8764,
+      "longitude": 110.3589,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Kabanjahe",
+      "province": "北苏门答腊省",
+      "latitude": 3.1001,
+      "longitude": 98.4908,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Solok",
+      "province": "West Sumatra",
+      "latitude": -0.8006,
+      "longitude": 100.6571,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Majalengka",
+      "province": "西爪哇省",
+      "latitude": -6.8361,
+      "longitude": 108.2278,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Jatibarang",
+      "province": "西爪哇省",
+      "latitude": -6.4747,
+      "longitude": 108.3153,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Sragen",
+      "province": "中爪哇省",
+      "latitude": -7.4264,
+      "longitude": 111.0222,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Pagar Alam",
+      "province": "南苏门答腊省",
+      "latitude": -4.0251,
+      "longitude": 103.2469,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Raha",
+      "province": "Southeast Sulawesi",
+      "latitude": -4.838,
+      "longitude": 122.7209,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Mertoyudan",
+      "province": "中爪哇省",
+      "latitude": -7.52,
+      "longitude": 110.2264,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Bondowoso",
+      "province": "东爪哇省",
+      "latitude": -7.9135,
+      "longitude": 113.8214,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Nganjuk",
+      "province": "东爪哇省",
+      "latitude": -7.6051,
+      "longitude": 111.9035,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Melati",
+      "province": "Yogyakarta",
+      "latitude": -7.7333,
+      "longitude": 110.3667,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Nunukan",
+      "province": "North Kalimantan",
+      "latitude": 4.1384,
+      "longitude": 117.6507,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Sokaraja",
+      "province": "中爪哇省",
+      "latitude": -7.4581,
+      "longitude": 109.2881,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Gamping Lor",
+      "province": "Yogyakarta",
+      "latitude": -7.7956,
+      "longitude": 110.3264,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Lahat",
+      "province": "南苏门答腊省",
+      "latitude": -3.7851,
+      "longitude": 103.5428,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Polewali",
+      "province": "West Sulawesi",
+      "latitude": -3.4324,
+      "longitude": 119.3435,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Tulungagung",
+      "province": "东爪哇省",
+      "latitude": -8.0657,
+      "longitude": 111.9025,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Meulaboh",
+      "province": "Aceh",
+      "latitude": 4.144,
+      "longitude": 96.1266,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Muncar",
+      "province": "东爪哇省",
+      "latitude": -8.4333,
+      "longitude": 114.3333,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Bantul",
+      "province": "Yogyakarta",
+      "latitude": -7.8881,
+      "longitude": 110.3289,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Tulangan Utara",
+      "province": "东爪哇省",
+      "latitude": -7.4737,
+      "longitude": 112.6505,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Ambarawa",
+      "province": "中爪哇省",
+      "latitude": -7.2633,
+      "longitude": 110.3975,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Godean",
+      "province": "Yogyakarta",
+      "latitude": -7.7697,
+      "longitude": 110.2939,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Sumbawa Besar",
+      "province": "West Nusa Tenggara",
+      "latitude": -8.4932,
+      "longitude": 117.4202,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Abepura",
+      "province": "Papua",
+      "latitude": -2.5964,
+      "longitude": 140.6324,
+      "timezone": "Asia/Jayapura"
+    },
+    {
+      "name": "",
+      "name_en": "Slawi",
+      "province": "中爪哇省",
+      "latitude": -6.9816,
+      "longitude": 109.1407,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Pecangaan",
+      "province": "中爪哇省",
+      "latitude": -6.6978,
+      "longitude": 110.7107,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Kertosono",
+      "province": "东爪哇省",
+      "latitude": -7.5833,
+      "longitude": 112.1,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Boyolali",
+      "province": "中爪哇省",
+      "latitude": -7.5331,
+      "longitude": 110.5958,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Sengkang",
+      "province": "South Sulawesi",
+      "latitude": -4.1279,
+      "longitude": 120.0297,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Lamongan",
+      "province": "东爪哇省",
+      "latitude": -7.1167,
+      "longitude": 112.4167,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Baki",
+      "province": "中爪哇省",
+      "latitude": -7.6128,
+      "longitude": 110.7839,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Padangpanjang",
+      "province": "West Sumatra",
+      "latitude": -0.456,
+      "longitude": 100.4052,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Weleri",
+      "province": "中爪哇省",
+      "latitude": -6.9713,
+      "longitude": 110.0666,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Jatiwangi",
+      "province": "西爪哇省",
+      "latitude": -6.7336,
+      "longitude": 108.2628,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Baekrajan",
+      "province": "中爪哇省",
+      "latitude": -6.7674,
+      "longitude": 110.8541,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Kota Sambas",
+      "province": "西加里曼丹省",
+      "latitude": 1.3626,
+      "longitude": 109.3009,
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "name": "",
+      "name_en": "Purbalingga",
+      "province": "中爪哇省",
+      "latitude": -7.3881,
+      "longitude": 109.3639,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Pare",
+      "province": "东爪哇省",
+      "latitude": -7.7679,
+      "longitude": 112.198,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Tanjung Selor",
+      "province": "North Kalimantan",
+      "latitude": 2.8375,
+      "longitude": 117.3653,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Balai Pungut",
+      "province": "Riau",
+      "latitude": 1.0595,
+      "longitude": 101.2905,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Mendaha",
+      "province": "Jambi",
+      "latitude": -1.0163,
+      "longitude": 103.5933,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Sleman",
+      "province": "Yogyakarta",
+      "latitude": -7.7156,
+      "longitude": 110.3556,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Pandak",
+      "province": "Yogyakarta",
+      "latitude": -7.9131,
+      "longitude": 110.2936,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Barabai",
+      "province": "南加里曼丹省",
+      "latitude": -2.5833,
+      "longitude": 115.3833,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Amuntai",
+      "province": "南加里曼丹省",
+      "latitude": -2.4177,
+      "longitude": 115.2494,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Besuki",
+      "province": "东爪哇省",
+      "latitude": -7.7338,
+      "longitude": 113.6979,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Taliwang",
+      "province": "West Nusa Tenggara",
+      "latitude": -8.7449,
+      "longitude": 116.8532,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Wedi",
+      "province": "中爪哇省",
+      "latitude": -7.7431,
+      "longitude": 110.5794,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Cepu",
+      "province": "中爪哇省",
+      "latitude": -7.1475,
+      "longitude": 111.5906,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Dompu",
+      "province": "West Nusa Tenggara",
+      "latitude": -8.5365,
+      "longitude": 118.4634,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Sampang",
+      "province": "东爪哇省",
+      "latitude": -7.1872,
+      "longitude": 113.2394,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Tanjungagung",
+      "province": "南苏门答腊省",
+      "latitude": -3.9373,
+      "longitude": 103.8046,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Terbanggi Besar",
+      "province": "Lampung",
+      "latitude": -4.879,
+      "longitude": 105.2182,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Dobo",
+      "province": "Maluku",
+      "latitude": -5.7609,
+      "longitude": 134.234,
+      "timezone": "Asia/Jayapura"
+    },
+    {
+      "name": "",
+      "name_en": "Kepanjen",
+      "province": "东爪哇省",
+      "latitude": -8.1303,
+      "longitude": 112.5727,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Blora",
+      "province": "中爪哇省",
+      "latitude": -6.9698,
+      "longitude": 111.4186,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Comal",
+      "province": "中爪哇省",
+      "latitude": -6.9053,
+      "longitude": 109.5347,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Sidikalang",
+      "province": "北苏门答腊省",
+      "latitude": 2.749,
+      "longitude": 98.3127,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Karanganom",
+      "province": "中爪哇省",
+      "latitude": -7.6489,
+      "longitude": 110.625,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Sangkapura",
+      "province": "东爪哇省",
+      "latitude": -5.8453,
+      "longitude": 112.6517,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Kawalu",
+      "province": "西爪哇省",
+      "latitude": -7.3817,
+      "longitude": 108.2082,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Gombong",
+      "province": "中爪哇省",
+      "latitude": -7.6072,
+      "longitude": 109.5142,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Jatiroto",
+      "province": "中爪哇省",
+      "latitude": -7.8833,
+      "longitude": 111.1167,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Labuhan Deli",
+      "province": "北苏门答腊省",
+      "latitude": 3.879,
+      "longitude": 98.633,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Gampengrejo",
+      "province": "东爪哇省",
+      "latitude": -7.764,
+      "longitude": 112.035,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Gatak",
+      "province": "中爪哇省",
+      "latitude": -7.5908,
+      "longitude": 110.7044,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Tanjung Balai",
+      "province": "Riau Islands",
+      "latitude": 2.9667,
+      "longitude": 99.8,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Singaparna",
+      "province": "西爪哇省",
+      "latitude": -7.3515,
+      "longitude": 108.111,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Banyumas",
+      "province": "中爪哇省",
+      "latitude": -7.5142,
+      "longitude": 109.2942,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Pameungpeuk",
+      "province": "西爪哇省",
+      "latitude": -7.0183,
+      "longitude": 107.6039,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Berastagi",
+      "province": "北苏门答腊省",
+      "latitude": 3.1947,
+      "longitude": 98.5089,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Kefamenanu",
+      "province": "East Nusa Tenggara",
+      "latitude": -9.4467,
+      "longitude": 124.4781,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Buduran",
+      "province": "东爪哇省",
+      "latitude": -7.4281,
+      "longitude": 112.7234,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Luwuk",
+      "province": "中苏拉威西省",
+      "latitude": -0.9516,
+      "longitude": 122.7875,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Sungai Raya",
+      "province": "西加里曼丹省",
+      "latitude": 0.7,
+      "longitude": 108.9,
+      "timezone": "Asia/Pontianak"
+    },
+    {
+      "name": "",
+      "name_en": "Bireun",
+      "province": "Aceh",
+      "latitude": 5.203,
+      "longitude": 96.7009,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Amahai",
+      "province": "Maluku",
+      "latitude": -3.3398,
+      "longitude": 128.9197,
+      "timezone": "Asia/Jayapura"
+    },
+    {
+      "name": "",
+      "name_en": "Balung",
+      "province": "东爪哇省",
+      "latitude": -7.7333,
+      "longitude": 113.9167,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Poso",
+      "province": "中苏拉威西省",
+      "latitude": -1.3959,
+      "longitude": 120.7524,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Singkil",
+      "province": "Aceh",
+      "latitude": 2.2874,
+      "longitude": 97.7884,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Muara Teweh",
+      "province": "Central Kalimantan",
+      "latitude": -0.9473,
+      "longitude": 114.8962,
+      "timezone": "Asia/Pontianak"
+    },
+    {
+      "name": "",
+      "name_en": "Curup",
+      "province": "Bengkulu",
+      "latitude": -3.4703,
+      "longitude": 102.5207,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Candi Prambanan",
+      "province": "中爪哇省",
+      "latitude": -7.75,
+      "longitude": 110.4942,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Muntilan",
+      "province": "中爪哇省",
+      "latitude": -7.5811,
+      "longitude": 110.2928,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Sentani",
+      "province": "Papua",
+      "latitude": -2.5691,
+      "longitude": 140.5127,
+      "timezone": "Asia/Jayapura"
+    },
+    {
+      "name": "",
+      "name_en": "Bambanglipuro",
+      "province": "Yogyakarta",
+      "latitude": -7.95,
+      "longitude": 110.2833,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Ketanggungan",
+      "province": "中爪哇省",
+      "latitude": -6.9383,
+      "longitude": 108.891,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Rembangan",
+      "province": "中爪哇省",
+      "latitude": -6.7036,
+      "longitude": 111.3416,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Nabire",
+      "province": "Central Papua",
+      "latitude": -3.3599,
+      "longitude": 135.5007,
+      "timezone": "Asia/Jayapura"
+    },
+    {
+      "name": "",
+      "name_en": "Gebog",
+      "province": "中爪哇省",
+      "latitude": -6.735,
+      "longitude": 110.8444,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Kencong",
+      "province": "东爪哇省",
+      "latitude": -8.2833,
+      "longitude": 113.3667,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Panji",
+      "province": "东爪哇省",
+      "latitude": -7.7253,
+      "longitude": 114.0995,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Indralaya",
+      "province": "南苏门答腊省",
+      "latitude": -3.2525,
+      "longitude": 104.6756,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Baturaden",
+      "province": "中爪哇省",
+      "latitude": -7.3,
+      "longitude": 109.2167,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Kotabumi",
+      "province": "Lampung",
+      "latitude": -4.8251,
+      "longitude": 104.8817,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "沙璜",
+      "name_en": "Sabang",
+      "province": "Aceh",
+      "latitude": 5.8897,
+      "longitude": 95.3164,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Wamena",
+      "province": "Highland Papua",
+      "latitude": -4.0958,
+      "longitude": 138.9481,
+      "timezone": "Asia/Jayapura"
+    },
+    {
+      "name": "",
+      "name_en": "Biak",
+      "province": "Papua",
+      "latitude": -1.1767,
+      "longitude": 136.082,
+      "timezone": "Asia/Jayapura"
+    },
+    {
+      "name": "",
+      "name_en": "Diwek",
+      "province": "东爪哇省",
+      "latitude": -7.579,
+      "longitude": 112.2311,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Ruteng",
+      "province": "East Nusa Tenggara",
+      "latitude": -8.6114,
+      "longitude": 120.4644,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Sinjai",
+      "province": "South Sulawesi",
+      "latitude": -5.1241,
+      "longitude": 120.253,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Rantepao",
+      "province": "South Sulawesi",
+      "latitude": -2.9701,
+      "longitude": 119.8978,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Reuleuet",
+      "province": "Aceh",
+      "latitude": 5.2167,
+      "longitude": 96.2833,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "索埃",
+      "name_en": "Soe",
+      "province": "East Nusa Tenggara",
+      "latitude": -9.8607,
+      "longitude": 124.284,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Juwana",
+      "province": "中爪哇省",
+      "latitude": -6.715,
+      "longitude": 111.1514,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Pekan Bahapal",
+      "province": "北苏门答腊省",
+      "latitude": 3.1131,
+      "longitude": 99.1735,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Rajapolah",
+      "province": "西爪哇省",
+      "latitude": -7.221,
+      "longitude": 108.1896,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Tarutung",
+      "province": "北苏门答腊省",
+      "latitude": 2.0147,
+      "longitude": 98.9655,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Wiradesa",
+      "province": "中爪哇省",
+      "latitude": -6.8922,
+      "longitude": 109.619,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Manggar",
+      "province": "邦加-勿里洞省",
+      "latitude": -2.8833,
+      "longitude": 108.2667,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Majenang",
+      "province": "中爪哇省",
+      "latitude": -7.2975,
+      "longitude": 108.7642,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Buaran",
+      "province": "中爪哇省",
+      "latitude": -7.05,
+      "longitude": 109.55,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Krian",
+      "province": "东爪哇省",
+      "latitude": -7.4104,
+      "longitude": 112.5792,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Wonopringgo",
+      "province": "中爪哇省",
+      "latitude": -6.9833,
+      "longitude": 109.6167,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Pangkalanbuun",
+      "province": "Central Kalimantan",
+      "latitude": -2.6832,
+      "longitude": 111.6259,
+      "timezone": "Asia/Pontianak"
+    },
+    {
+      "name": "",
+      "name_en": "Masamba",
+      "province": "South Sulawesi",
+      "latitude": -2.5537,
+      "longitude": 120.3279,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Namlea",
+      "province": "Maluku",
+      "latitude": -3.2619,
+      "longitude": 127.0929,
+      "timezone": "Asia/Jayapura"
+    },
+    {
+      "name": "",
+      "name_en": "Jekulo",
+      "province": "中爪哇省",
+      "latitude": -6.8057,
+      "longitude": 110.9262,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Karangnongko",
+      "province": "中爪哇省",
+      "latitude": -7.7956,
+      "longitude": 110.5867,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Tanjung",
+      "province": "南加里曼丹省",
+      "latitude": -2.1709,
+      "longitude": 115.4077,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Simpang",
+      "province": "Jambi",
+      "latitude": -1.2642,
+      "longitude": 104.097,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Masohi",
+      "province": "Maluku",
+      "latitude": -3.3398,
+      "longitude": 128.9197,
+      "timezone": "Asia/Jayapura"
+    },
+    {
+      "name": "",
+      "name_en": "Srono",
+      "province": "东爪哇省",
+      "latitude": -8.4,
+      "longitude": 114.2666,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Sofifi",
+      "province": "North Maluku",
+      "latitude": 0.7373,
+      "longitude": 127.5588,
+      "timezone": "Asia/Jayapura"
+    },
+    {
+      "name": "",
+      "name_en": "Waingapu",
+      "province": "East Nusa Tenggara",
+      "latitude": -9.6567,
+      "longitude": 120.2641,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Mulia",
+      "province": "Central Papua",
+      "latitude": -3.7147,
+      "longitude": 137.9853,
+      "timezone": "Asia/Jayapura"
+    },
+    {
+      "name": "",
+      "name_en": "Tambolaka",
+      "province": "East Nusa Tenggara",
+      "latitude": -9.4283,
+      "longitude": 119.238,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Kualakapuas",
+      "province": "Central Kalimantan",
+      "latitude": -3.0091,
+      "longitude": 114.3876,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Wangon",
+      "province": "中爪哇省",
+      "latitude": -7.5161,
+      "longitude": 109.0539,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Tahuna",
+      "province": "北苏拉威西省",
+      "latitude": 3.611,
+      "longitude": 125.4858,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Sumberpucung",
+      "province": "东爪哇省",
+      "latitude": -8.1586,
+      "longitude": 112.4829,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Praya",
+      "province": "West Nusa Tenggara",
+      "latitude": -8.7054,
+      "longitude": 116.2704,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Pandaan",
+      "province": "东爪哇省",
+      "latitude": -7.6527,
+      "longitude": 112.6875,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Tobelo",
+      "province": "North Maluku",
+      "latitude": 1.7284,
+      "longitude": 128.0095,
+      "timezone": "Asia/Jayapura"
+    },
+    {
+      "name": "",
+      "name_en": "Pemangkat",
+      "province": "西加里曼丹省",
+      "latitude": 1.1667,
+      "longitude": 108.9667,
+      "timezone": "Asia/Pontianak"
+    },
+    {
+      "name": "",
+      "name_en": "Kuala Tungkal",
+      "province": "Jambi",
+      "latitude": -0.8162,
+      "longitude": 103.4611,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Tabanan",
+      "province": "巴厘岛",
+      "latitude": -8.5413,
+      "longitude": 115.1252,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Lebaksiu",
+      "province": "中爪哇省",
+      "latitude": -7.0496,
+      "longitude": 109.1441,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Labuan",
+      "province": "万丹省",
+      "latitude": -6.3784,
+      "longitude": 105.83,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Mlonggo",
+      "province": "中爪哇省",
+      "latitude": -6.5333,
+      "longitude": 110.7,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Bengkayang",
+      "province": "西加里曼丹省",
+      "latitude": 0.8319,
+      "longitude": 109.4359,
+      "timezone": "Asia/Pontianak"
+    },
+    {
+      "name": "",
+      "name_en": "Tondano",
+      "province": "北苏拉威西省",
+      "latitude": 1.3054,
+      "longitude": 124.9126,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Negara",
+      "province": "巴厘岛",
+      "latitude": -8.3569,
+      "longitude": 114.6169,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Tanggulangin",
+      "province": "东爪哇省",
+      "latitude": -7.4996,
+      "longitude": 112.6999,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Jaten",
+      "province": "中爪哇省",
+      "latitude": -7.5772,
+      "longitude": 110.8975,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Boyolangu",
+      "province": "东爪哇省",
+      "latitude": -8.1181,
+      "longitude": 111.8935,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Katobu",
+      "province": "Southeast Sulawesi",
+      "latitude": -4.8299,
+      "longitude": 122.726,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Amlapura",
+      "province": "巴厘岛",
+      "latitude": -8.45,
+      "longitude": 115.6167,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Amlapura city",
+      "province": "巴厘岛",
+      "latitude": -8.4487,
+      "longitude": 115.6062,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Bandar",
+      "province": "北苏门答腊省",
+      "latitude": 2.05,
+      "longitude": 99.75,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Kutoarjo",
+      "province": "中爪哇省",
+      "latitude": -7.7169,
+      "longitude": 109.9128,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Karangampel",
+      "province": "西爪哇省",
+      "latitude": -6.4622,
+      "longitude": 108.4519,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Panarukan",
+      "province": "东爪哇省",
+      "latitude": -7.7018,
+      "longitude": 113.9184,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Sidareja",
+      "province": "中爪哇省",
+      "latitude": -7.4846,
+      "longitude": 108.7923,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Pakisaji",
+      "province": "东爪哇省",
+      "latitude": -8.0665,
+      "longitude": 112.5981,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Selogiri",
+      "province": "中爪哇省",
+      "latitude": -7.7833,
+      "longitude": 110.8667,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Lewoleba",
+      "province": "East Nusa Tenggara",
+      "latitude": -8.3723,
+      "longitude": 123.418,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "库塔",
+      "name_en": "Kuta",
+      "province": "巴厘岛",
+      "latitude": -8.7233,
+      "longitude": 115.1723,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Maros",
+      "province": "South Sulawesi",
+      "latitude": -5.006,
+      "longitude": 119.5727,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Sanana",
+      "province": "North Maluku",
+      "latitude": -2.0585,
+      "longitude": 125.9779,
+      "timezone": "Asia/Jayapura"
+    },
+    {
+      "name": "",
+      "name_en": "Kawasi",
+      "province": "North Maluku",
+      "latitude": -1.5912,
+      "longitude": 127.4071,
+      "timezone": "Asia/Jayapura"
+    },
+    {
+      "name": "",
+      "name_en": "Srandakan",
+      "province": "Yogyakarta",
+      "latitude": -7.9386,
+      "longitude": 110.2506,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Singojuruh",
+      "province": "东爪哇省",
+      "latitude": -8.3167,
+      "longitude": 114.2333,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Wongsorejo",
+      "province": "东爪哇省",
+      "latitude": -7.9908,
+      "longitude": 114.4009,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Trenggalek",
+      "province": "东爪哇省",
+      "latitude": -8.0764,
+      "longitude": 111.7064,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Lasem",
+      "province": "中爪哇省",
+      "latitude": -6.6922,
+      "longitude": 111.4527,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Utan",
+      "province": "Jakarta",
+      "latitude": -6.1769,
+      "longitude": 106.9467,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Ceper",
+      "province": "中爪哇省",
+      "latitude": -7.6742,
+      "longitude": 110.6789,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Randudongkal",
+      "province": "中爪哇省",
+      "latitude": -7.0981,
+      "longitude": 109.3243,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Balapulang",
+      "province": "中爪哇省",
+      "latitude": -7.0486,
+      "longitude": 109.1006,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Kraksaan",
+      "province": "东爪哇省",
+      "latitude": -7.7584,
+      "longitude": 113.3962,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Jogonalan",
+      "province": "中爪哇省",
+      "latitude": -7.7036,
+      "longitude": 110.5361,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Mranggen",
+      "province": "中爪哇省",
+      "latitude": -7.0268,
+      "longitude": 110.5158,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Deli Tua",
+      "province": "北苏门答腊省",
+      "latitude": 3.5078,
+      "longitude": 98.6839,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Klungkung",
+      "province": "巴厘岛",
+      "latitude": -8.5333,
+      "longitude": 115.4,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Margasari",
+      "province": "中爪哇省",
+      "latitude": -7.0948,
+      "longitude": 109.025,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Sijunjung",
+      "province": "West Sumatra",
+      "latitude": -0.7005,
+      "longitude": 100.9774,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Tomohon",
+      "province": "北苏拉威西省",
+      "latitude": 1.3168,
+      "longitude": 124.8038,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Bulakamba",
+      "province": "中爪哇省",
+      "latitude": -6.8748,
+      "longitude": 108.9559,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Demak",
+      "province": "中爪哇省",
+      "latitude": -6.8909,
+      "longitude": 110.6396,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Paciran",
+      "province": "东爪哇省",
+      "latitude": -6.8767,
+      "longitude": 112.3761,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Babat",
+      "province": "东爪哇省",
+      "latitude": -7.1128,
+      "longitude": 112.1635,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Stabat",
+      "province": "北苏门答腊省",
+      "latitude": 3.7334,
+      "longitude": 98.4502,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Driyorejo",
+      "province": "东爪哇省",
+      "latitude": -7.3659,
+      "longitude": 112.6219,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Muntok",
+      "province": "邦加-勿里洞省",
+      "latitude": -2.0672,
+      "longitude": 105.1623,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Tayu",
+      "province": "中爪哇省",
+      "latitude": -6.5397,
+      "longitude": 111.0518,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Ngunut",
+      "province": "东爪哇省",
+      "latitude": -8.1058,
+      "longitude": 112.0159,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Colomadu",
+      "province": "中爪哇省",
+      "latitude": -7.5333,
+      "longitude": 110.75,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Wanaraja",
+      "province": "西爪哇省",
+      "latitude": -7.1749,
+      "longitude": 107.9808,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Welahan",
+      "province": "中爪哇省",
+      "latitude": -6.8,
+      "longitude": 110.7167,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Teluk Dalam",
+      "province": "北苏门答腊省",
+      "latitude": 0.5729,
+      "longitude": 97.8034,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Malinau",
+      "province": "North Kalimantan",
+      "latitude": 3.5886,
+      "longitude": 116.6239,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Pangkalan Brandan",
+      "province": "北苏门答腊省",
+      "latitude": 4.0238,
+      "longitude": 98.2782,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Soko",
+      "province": "东爪哇省",
+      "latitude": -7.4832,
+      "longitude": 112.427,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Bungku",
+      "province": "中苏拉威西省",
+      "latitude": -2.5471,
+      "longitude": 121.972,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Teluk Nibung",
+      "province": "北苏门答腊省",
+      "latitude": 3.001,
+      "longitude": 99.8164,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Tanjungtiram",
+      "province": "北苏门答腊省",
+      "latitude": 4.0613,
+      "longitude": 98.3699,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Seririt",
+      "province": "巴厘岛",
+      "latitude": -8.1928,
+      "longitude": 114.9388,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Bintuni",
+      "province": "West Papua",
+      "latitude": -2.1097,
+      "longitude": 133.5246,
+      "timezone": "Asia/Jayapura"
+    },
+    {
+      "name": "",
+      "name_en": "Lahewa",
+      "province": "北苏门答腊省",
+      "latitude": 1.3943,
+      "longitude": 97.1675,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Delanggu",
+      "province": "中爪哇省",
+      "latitude": -7.6167,
+      "longitude": 110.6833,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Prigen",
+      "province": "东爪哇省",
+      "latitude": -7.6833,
+      "longitude": 112.6167,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Blangpidie",
+      "province": "Aceh",
+      "latitude": 3.7396,
+      "longitude": 96.8361,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Pundong",
+      "province": "Yogyakarta",
+      "latitude": -7.9522,
+      "longitude": 110.3486,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Kalianget",
+      "province": "东爪哇省",
+      "latitude": -7.0537,
+      "longitude": 113.9424,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Agats",
+      "province": "South Papua",
+      "latitude": -5.545,
+      "longitude": 138.1352,
+      "timezone": "Asia/Jayapura"
+    },
+    {
+      "name": "",
+      "name_en": "Ngemplak",
+      "province": "中爪哇省",
+      "latitude": -7.5497,
+      "longitude": 110.7164,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Trucuk",
+      "province": "中爪哇省",
+      "latitude": -7.7183,
+      "longitude": 110.6589,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Daruba",
+      "province": "North Maluku",
+      "latitude": 2.0505,
+      "longitude": 128.294,
+      "timezone": "Asia/Jayapura"
+    },
+    {
+      "name": "",
+      "name_en": "Mojoagung",
+      "province": "东爪哇省",
+      "latitude": -7.5667,
+      "longitude": 112.35,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Kroya",
+      "province": "中爪哇省",
+      "latitude": -7.6331,
+      "longitude": 109.2461,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Dampit",
+      "province": "东爪哇省",
+      "latitude": -8.2116,
+      "longitude": 112.7493,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Ngoro",
+      "province": "东爪哇省",
+      "latitude": -7.6839,
+      "longitude": 112.258,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Waisai",
+      "province": "Southwest Papua",
+      "latitude": -0.2379,
+      "longitude": 130.5072,
+      "timezone": "Asia/Jayapura"
+    },
+    {
+      "name": "",
+      "name_en": "Gambiran Satu",
+      "province": "东爪哇省",
+      "latitude": -8.3939,
+      "longitude": 114.1464,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Kamal",
+      "province": "东爪哇省",
+      "latitude": -7.1678,
+      "longitude": 112.7192,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Gongdanglegi Kulon",
+      "province": "东爪哇省",
+      "latitude": -8.1753,
+      "longitude": 112.6359,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Ngawi",
+      "province": "东爪哇省",
+      "latitude": -7.4038,
+      "longitude": 111.4461,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Kebonarun",
+      "province": "中爪哇省",
+      "latitude": -7.7003,
+      "longitude": 110.5631,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Namrole",
+      "province": "Maluku",
+      "latitude": -3.8455,
+      "longitude": 126.7262,
+      "timezone": "Asia/Jayapura"
+    },
+    {
+      "name": "",
+      "name_en": "Tiom",
+      "province": "Highland Papua",
+      "latitude": -3.9236,
+      "longitude": 138.4547,
+      "timezone": "Asia/Jayapura"
+    },
+    {
+      "name": "",
+      "name_en": "Muara Bungo",
+      "province": "Jambi",
+      "latitude": -1.4902,
+      "longitude": 102.1149,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Bedugul",
+      "province": "巴厘岛",
+      "latitude": -8.4504,
+      "longitude": 115.5925,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Teminabuan",
+      "province": "Southwest Papua",
+      "latitude": -1.4416,
+      "longitude": 132.0143,
+      "timezone": "Asia/Jayapura"
+    },
+    {
+      "name": "",
+      "name_en": "Kalabahi",
+      "province": "East Nusa Tenggara",
+      "latitude": -8.2151,
+      "longitude": 124.5458,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Fakfak",
+      "province": "Papua",
+      "latitude": -2.9248,
+      "longitude": 132.2981,
+      "timezone": "Asia/Jayapura"
+    },
+    {
+      "name": "",
+      "name_en": "Manismata",
+      "province": "西加里曼丹省",
+      "latitude": -2.4667,
+      "longitude": 111.0333,
+      "timezone": "Asia/Pontianak"
+    },
+    {
+      "name": "",
+      "name_en": "Sigli",
+      "province": "Aceh",
+      "latitude": 5.3848,
+      "longitude": 95.9609,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Ransiki",
+      "province": "West Papua",
+      "latitude": -1.5083,
+      "longitude": 134.1708,
+      "timezone": "Asia/Jayapura"
+    },
+    {
+      "name": "",
+      "name_en": "Paropo",
+      "province": "北苏门答腊省",
+      "latitude": 2.8663,
+      "longitude": 98.5211,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Tongging",
+      "province": "北苏门答腊省",
+      "latitude": 2.8985,
+      "longitude": 98.5231,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Leuwiliang",
+      "province": "西爪哇省",
+      "latitude": -7.1169,
+      "longitude": 107.5019,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "马穆朱",
+      "name_en": "Mamuju",
+      "province": "West Sulawesi",
+      "latitude": -2.6806,
+      "longitude": 118.8861,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Sinabang",
+      "province": "Aceh",
+      "latitude": 2.4803,
+      "longitude": 96.3801,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Sanur",
+      "province": "巴厘岛",
+      "latitude": -8.675,
+      "longitude": 115.2611,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Sarmi",
+      "province": "Papua",
+      "latitude": -1.853,
+      "longitude": 138.7509,
+      "timezone": "Asia/Jayapura"
+    },
+    {
+      "name": "",
+      "name_en": "Saumlaki",
+      "province": "Maluku",
+      "latitude": -7.9862,
+      "longitude": 131.2968,
+      "timezone": "Asia/Jayapura"
+    },
+    {
+      "name": "",
+      "name_en": "Serui",
+      "province": "Papua",
+      "latitude": -1.8802,
+      "longitude": 136.2426,
+      "timezone": "Asia/Jayapura"
+    },
+    {
+      "name": "",
+      "name_en": "Muarajawa",
+      "province": "",
+      "latitude": -0.6333,
+      "longitude": 117.3,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Kobakma",
+      "province": "Highland Papua",
+      "latitude": -3.6642,
+      "longitude": 139.065,
+      "timezone": "Asia/Jayapura"
+    },
+    {
+      "name": "",
+      "name_en": "Parmonangan",
+      "province": "北苏门答腊省",
+      "latitude": 2.397,
+      "longitude": 99.0515,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Maba",
+      "province": "North Maluku",
+      "latitude": 0.7007,
+      "longitude": 128.292,
+      "timezone": "Asia/Jayapura"
+    },
+    {
+      "name": "",
+      "name_en": "Nainggolan",
+      "province": "北苏门答腊省",
+      "latitude": 2.4361,
+      "longitude": 98.8852,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Dabo",
+      "province": "Riau Islands",
+      "latitude": -0.4931,
+      "longitude": 104.5631,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Labuan Lombok",
+      "province": "West Nusa Tenggara",
+      "latitude": -8.5,
+      "longitude": 116.6667,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Legian",
+      "province": "巴厘岛",
+      "latitude": -8.7042,
+      "longitude": 115.1703,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Lembar",
+      "province": "West Nusa Tenggara",
+      "latitude": -8.7264,
+      "longitude": 116.0744,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Lovina",
+      "province": "巴厘岛",
+      "latitude": -8.1493,
+      "longitude": 115.04,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Parapat",
+      "province": "北苏门答腊省",
+      "latitude": 2.663,
+      "longitude": 98.9349,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Tomok Bolon",
+      "province": "北苏门答腊省",
+      "latitude": 2.6521,
+      "longitude": 98.8608,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Galela",
+      "province": "North Maluku",
+      "latitude": 1.8234,
+      "longitude": 127.7889,
+      "timezone": "Asia/Jayapura"
+    },
+    {
+      "name": "",
+      "name_en": "Ranai Kota",
+      "province": "Riau Islands",
+      "latitude": 3.94,
+      "longitude": 108.3777,
+      "timezone": "Asia/Pontianak"
+    },
+    {
+      "name": "",
+      "name_en": "Kepi",
+      "province": "South Papua",
+      "latitude": -6.5246,
+      "longitude": 139.3222,
+      "timezone": "Asia/Jayapura"
+    },
+    {
+      "name": "",
+      "name_en": "Laikit, Laikit II (Dimembe)",
+      "province": "北苏拉威西省",
+      "latitude": 1.4883,
+      "longitude": 124.9744,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Bejubang Dua",
+      "province": "Jambi",
+      "latitude": -1.7923,
+      "longitude": 103.3167,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Labuha",
+      "province": "North Maluku",
+      "latitude": -0.6255,
+      "longitude": 127.4781,
+      "timezone": "Asia/Jayapura"
+    },
+    {
+      "name": "",
+      "name_en": "Kuala Cenaku",
+      "province": "Riau",
+      "latitude": -0.4708,
+      "longitude": 102.6827,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Karubaga",
+      "province": "Highland Papua",
+      "latitude": -3.6994,
+      "longitude": 138.4579,
+      "timezone": "Asia/Jayapura"
+    },
+    {
+      "name": "",
+      "name_en": "Kenyam",
+      "province": "Highland Papua",
+      "latitude": -4.5997,
+      "longitude": 138.3842,
+      "timezone": "Asia/Jayapura"
+    },
+    {
+      "name": "",
+      "name_en": "Munduk",
+      "province": "巴厘岛",
+      "latitude": -8.2687,
+      "longitude": 115.0795,
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "name": "",
+      "name_en": "Elelim",
+      "province": "Highland Papua",
+      "latitude": -3.759,
+      "longitude": 139.7075,
+      "timezone": "Asia/Jayapura"
+    },
+    {
+      "name": "",
+      "name_en": "Tobong",
+      "province": "Riau Islands",
+      "latitude": 3.2906,
+      "longitude": 106.2905,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Tuapejat",
+      "province": "West Sumatra",
+      "latitude": -2.0283,
+      "longitude": 99.5894,
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "name": "",
+      "name_en": "Tiakur",
+      "province": "Maluku",
+      "latitude": -8.15,
+      "longitude": 127.795,
+      "timezone": "Asia/Jayapura"
+    },
+    {
+      "name": "",
+      "name_en": "Banjarbaru",
+      "province": "南加里曼丹省",
+      "latitude": -3.4406,
+      "longitude": 114.8365,
+      "timezone": "Asia/Makassar"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "country_code": "GI",
+  "country_name": "直布罗陀",
+  "cities": [
+    {
+      "name": "直布罗陀",
+      "name_en": "Gibraltar",
+      "province": "",
+      "latitude": 36.1447,
+      "longitude": -5.3526,
+      "timezone": "Europe/Gibraltar"
+    },
+    {
+      "name": "",
+      "name_en": "Reclamation Areas",
+      "province": "",
+      "latitude": 36.144,
+      "longitude": -5.3569,
+      "timezone": "Europe/Gibraltar"
+    },
+    {
+      "name": "",
+      "name_en": "South District",
+      "province": "",
+      "latitude": 36.114,
+      "longitude": -5.3466,
+      "timezone": "Europe/Gibraltar"
+    }
+  ]
+}

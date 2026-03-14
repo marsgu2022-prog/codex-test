@@ -1,0 +1,1614 @@
+{
+  "country_code": "KZ",
+  "country_name": "哈萨克斯坦",
+  "cities": [
+    {
+      "name": "阿拉木图",
+      "name_en": "Almaty",
+      "province": "Almaty",
+      "latitude": 43.2525,
+      "longitude": 76.9115,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "奇姆肯特",
+      "name_en": "Shymkent",
+      "province": "Shymkent",
+      "latitude": 42.3099,
+      "longitude": 69.6004,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "阿克托比",
+      "name_en": "Aktobe",
+      "province": "Aktyubinskaya Oblast’",
+      "latitude": 50.2797,
+      "longitude": 57.2072,
+      "timezone": "Asia/Aqtobe"
+    },
+    {
+      "name": "",
+      "name_en": "Karagandy",
+      "province": "卡拉干达州",
+      "latitude": 49.8019,
+      "longitude": 73.1021,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "塔拉兹",
+      "name_en": "Taraz",
+      "province": "Zhambyl",
+      "latitude": 42.898,
+      "longitude": 71.3733,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "克孜勒奥尔达",
+      "name_en": "Kyzylorda",
+      "province": "Qyzylorda",
+      "latitude": 44.8528,
+      "longitude": 65.5092,
+      "timezone": "Asia/Qyzylorda"
+    },
+    {
+      "name": "阿斯塔纳",
+      "name_en": "Astana",
+      "province": "Astana",
+      "latitude": 51.1801,
+      "longitude": 71.446,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "乌拉尔",
+      "name_en": "Oral",
+      "province": "Batys Qazaqstan",
+      "latitude": 51.246,
+      "longitude": 51.4256,
+      "timezone": "Asia/Oral"
+    },
+    {
+      "name": "巴甫洛达尔",
+      "name_en": "Pavlodar",
+      "province": "巴甫洛达尔州",
+      "latitude": 52.276,
+      "longitude": 76.9688,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Ust-Kamenogorsk",
+      "province": "East Kazakhstan",
+      "latitude": 49.9714,
+      "longitude": 82.6059,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "塞米伊",
+      "name_en": "Semey",
+      "province": "Abai Region",
+      "latitude": 50.4206,
+      "longitude": 80.2502,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "阿特劳",
+      "name_en": "Atyrau",
+      "province": "Atyrau Oblisi",
+      "latitude": 47.1048,
+      "longitude": 51.8843,
+      "timezone": "Asia/Atyrau"
+    },
+    {
+      "name": "",
+      "name_en": "Turkestan",
+      "province": "Turkistan",
+      "latitude": 43.2946,
+      "longitude": 68.2569,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "库斯塔奈",
+      "name_en": "Kostanay",
+      "province": "Qostanay",
+      "latitude": 53.2144,
+      "longitude": 63.6246,
+      "timezone": "Asia/Qostanay"
+    },
+    {
+      "name": "彼得罗巴甫尔",
+      "name_en": "Petropavl",
+      "province": "North Kazakhstan",
+      "latitude": 54.8734,
+      "longitude": 69.1506,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "铁米尔套",
+      "name_en": "Temirtau",
+      "province": "卡拉干达州",
+      "latitude": 50.052,
+      "longitude": 72.955,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "科克舍套",
+      "name_en": "Kokshetau",
+      "province": "Aqmola",
+      "latitude": 53.2841,
+      "longitude": 69.3936,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "阿克套",
+      "name_en": "Aktau",
+      "province": "Mangghystaū",
+      "latitude": 43.6611,
+      "longitude": 51.1739,
+      "timezone": "Asia/Aqtau"
+    },
+    {
+      "name": "",
+      "name_en": "Rudnyy",
+      "province": "Qostanay",
+      "latitude": 52.9724,
+      "longitude": 63.1106,
+      "timezone": "Asia/Qostanay"
+    },
+    {
+      "name": "埃基巴斯图兹",
+      "name_en": "Ekibastuz",
+      "province": "巴甫洛达尔州",
+      "latitude": 51.7237,
+      "longitude": 75.3229,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "塔尔迪库尔干",
+      "name_en": "Taldykorgan",
+      "province": "Jetisu Region",
+      "latitude": 45.0156,
+      "longitude": 78.3739,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Zhezqazghan",
+      "province": "Ulytau Region",
+      "latitude": 47.7941,
+      "longitude": 67.7063,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Zhanaozen",
+      "province": "Mangghystaū",
+      "latitude": 43.3412,
+      "longitude": 52.8619,
+      "timezone": "Asia/Aqtau"
+    },
+    {
+      "name": "",
+      "name_en": "Balqash",
+      "province": "卡拉干达州",
+      "latitude": 46.8455,
+      "longitude": 74.9821,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Sarqant",
+      "province": "Jetisu Region",
+      "latitude": 45.4132,
+      "longitude": 79.9171,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "拜科努",
+      "name_en": "Baikonur",
+      "province": "Baikonur",
+      "latitude": 45.6167,
+      "longitude": 63.3167,
+      "timezone": "Asia/Qostanay"
+    },
+    {
+      "name": "",
+      "name_en": "Satpayev",
+      "province": "Ulytau Region",
+      "latitude": 47.9041,
+      "longitude": 67.5411,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "肯套",
+      "name_en": "Kentau",
+      "province": "Turkistan",
+      "latitude": 43.5167,
+      "longitude": 68.5046,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "里德",
+      "name_en": "Ridder",
+      "province": "East Kazakhstan",
+      "latitude": 50.3452,
+      "longitude": 83.5156,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Qulsary",
+      "province": "Atyrau Oblisi",
+      "latitude": 46.9531,
+      "longitude": 54.0198,
+      "timezone": "Asia/Atyrau"
+    },
+    {
+      "name": "",
+      "name_en": "Shchuchinsk",
+      "province": "Aqmola",
+      "latitude": 52.9359,
+      "longitude": 70.189,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "斯捷普诺戈尔斯克",
+      "name_en": "Stepnogorsk",
+      "province": "Aqmola",
+      "latitude": 52.3506,
+      "longitude": 71.8816,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Altay",
+      "province": "East Kazakhstan",
+      "latitude": 49.7363,
+      "longitude": 84.2542,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Aksu",
+      "province": "巴甫洛达尔州",
+      "latitude": 52.0402,
+      "longitude": 76.9275,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Zhitikara",
+      "province": "Qostanay",
+      "latitude": 52.1902,
+      "longitude": 61.1989,
+      "timezone": "Asia/Qostanay"
+    },
+    {
+      "name": "",
+      "name_en": "Saran",
+      "province": "卡拉干达州",
+      "latitude": 49.8025,
+      "longitude": 72.8319,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Talghar",
+      "province": "Almaty Region",
+      "latitude": 43.3023,
+      "longitude": 77.2381,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Konayev",
+      "province": "Almaty Region",
+      "latitude": 43.8668,
+      "longitude": 77.063,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "阿尔卡雷克",
+      "name_en": "Arkalyk",
+      "province": "Qostanay",
+      "latitude": 50.2503,
+      "longitude": 66.9038,
+      "timezone": "Asia/Qostanay"
+    },
+    {
+      "name": "",
+      "name_en": "Shakhtinsk",
+      "province": "卡拉干达州",
+      "latitude": 49.7071,
+      "longitude": 72.5932,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Lisakovsk",
+      "province": "Qostanay",
+      "latitude": 52.5449,
+      "longitude": 62.4989,
+      "timezone": "Asia/Qostanay"
+    },
+    {
+      "name": "",
+      "name_en": "Shu",
+      "province": "Zhambyl",
+      "latitude": 43.6051,
+      "longitude": 73.7622,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Karatau",
+      "province": "Zhambyl",
+      "latitude": 43.1796,
+      "longitude": 70.4592,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Zhetysay",
+      "province": "Turkistan",
+      "latitude": 40.7763,
+      "longitude": 68.3277,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "阿雷西",
+      "name_en": "Arys",
+      "province": "Turkistan",
+      "latitude": 42.4301,
+      "longitude": 68.8087,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Novokazalinsk",
+      "province": "Qyzylorda",
+      "latitude": 45.8481,
+      "longitude": 62.1525,
+      "timezone": "Asia/Qyzylorda"
+    },
+    {
+      "name": "",
+      "name_en": "Abay",
+      "province": "卡拉干达州",
+      "latitude": 49.6354,
+      "longitude": 72.8652,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Aqsay",
+      "province": "Batys Qazaqstan",
+      "latitude": 51.1681,
+      "longitude": 52.9978,
+      "timezone": "Asia/Oral"
+    },
+    {
+      "name": "阿特巴萨尔",
+      "name_en": "Atbasar",
+      "province": "Aqmola",
+      "latitude": 51.8085,
+      "longitude": 68.3582,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Zharkent",
+      "province": "Jetisu Region",
+      "latitude": 44.1662,
+      "longitude": 80.0074,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Zhangatas",
+      "province": "Zhambyl",
+      "latitude": 43.5627,
+      "longitude": 69.7321,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Ayagoz",
+      "province": "Abai Region",
+      "latitude": 47.9645,
+      "longitude": 80.4344,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "阿拉尔",
+      "name_en": "Aral",
+      "province": "Qyzylorda",
+      "latitude": 46.8017,
+      "longitude": 61.6631,
+      "timezone": "Asia/Qyzylorda"
+    },
+    {
+      "name": "伊塞克",
+      "name_en": "Esik",
+      "province": "Almaty Region",
+      "latitude": 43.3552,
+      "longitude": 77.4524,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Mangistau",
+      "province": "Mangghystaū",
+      "latitude": 43.6909,
+      "longitude": 51.3224,
+      "timezone": "Asia/Aqtau"
+    },
+    {
+      "name": "",
+      "name_en": "Shiyeli",
+      "province": "Qyzylorda",
+      "latitude": 44.1706,
+      "longitude": 66.7338,
+      "timezone": "Asia/Qyzylorda"
+    },
+    {
+      "name": "",
+      "name_en": "Kandyagash",
+      "province": "Aktyubinskaya Oblast’",
+      "latitude": 49.4692,
+      "longitude": 57.4186,
+      "timezone": "Asia/Aqtobe"
+    },
+    {
+      "name": "",
+      "name_en": "Shalqar",
+      "province": "Aktyubinskaya Oblast’",
+      "latitude": 47.8315,
+      "longitude": 59.6193,
+      "timezone": "Asia/Aqtobe"
+    },
+    {
+      "name": "",
+      "name_en": "Shalkar",
+      "province": "Atyrau Oblisi",
+      "latitude": 47.8315,
+      "longitude": 59.6193,
+      "timezone": "Asia/Aqtobe"
+    },
+    {
+      "name": "",
+      "name_en": "Tekeli",
+      "province": "Jetisu Region",
+      "latitude": 44.8678,
+      "longitude": 78.7281,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Aksu",
+      "province": "Turkistan",
+      "latitude": 52.0402,
+      "longitude": 76.9275,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Shardara",
+      "province": "Turkistan",
+      "latitude": 41.2583,
+      "longitude": 67.9699,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Saryaghash",
+      "province": "Turkistan",
+      "latitude": 41.4604,
+      "longitude": 69.1679,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Abay",
+      "province": "Turkistan",
+      "latitude": 49.6354,
+      "longitude": 72.8652,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Khromtau",
+      "province": "Aktyubinskaya Oblast’",
+      "latitude": 50.2516,
+      "longitude": 58.4357,
+      "timezone": "Asia/Aqtobe"
+    },
+    {
+      "name": "",
+      "name_en": "Kalbatau",
+      "province": "Abai Region",
+      "latitude": 49.3301,
+      "longitude": 81.5727,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Zhangaqorghan",
+      "province": "Qyzylorda",
+      "latitude": 43.9065,
+      "longitude": 67.2464,
+      "timezone": "Asia/Qyzylorda"
+    },
+    {
+      "name": "",
+      "name_en": "Lenger",
+      "province": "Turkistan",
+      "latitude": 42.1815,
+      "longitude": 69.8858,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Burunday",
+      "province": "Almaty Region",
+      "latitude": 43.3557,
+      "longitude": 76.8548,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Ushtobe",
+      "province": "Jetisu Region",
+      "latitude": 45.2526,
+      "longitude": 77.9828,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Shemonaikha",
+      "province": "East Kazakhstan",
+      "latitude": 50.629,
+      "longitude": 81.9109,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Zhosaly",
+      "province": "Qyzylorda",
+      "latitude": 45.4878,
+      "longitude": 64.0781,
+      "timezone": "Asia/Qyzylorda"
+    },
+    {
+      "name": "",
+      "name_en": "Balykshi",
+      "province": "Atyrau Oblisi",
+      "latitude": 47.0667,
+      "longitude": 51.8667,
+      "timezone": "Asia/Atyrau"
+    },
+    {
+      "name": "",
+      "name_en": "Otegen Batyra",
+      "province": "Almaty Region",
+      "latitude": 43.4184,
+      "longitude": 77.0219,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Embi",
+      "province": "Aktyubinskaya Oblast’",
+      "latitude": 48.8298,
+      "longitude": 58.1504,
+      "timezone": "Asia/Aqtobe"
+    },
+    {
+      "name": "",
+      "name_en": "Maqanshy",
+      "province": "Abai Region",
+      "latitude": 46.7817,
+      "longitude": 82.0226,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Turar Ryskulov",
+      "province": "Turkistan",
+      "latitude": 42.5334,
+      "longitude": 70.3496,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Makinsk",
+      "province": "Aqmola",
+      "latitude": 52.6329,
+      "longitude": 70.4191,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "斋桑",
+      "name_en": "Zaysan",
+      "province": "East Kazakhstan",
+      "latitude": 47.4666,
+      "longitude": 84.8714,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Akkol’",
+      "province": "Aqmola",
+      "latitude": 53.2962,
+      "longitude": 69.6,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Tasbuget",
+      "province": "Qyzylorda",
+      "latitude": 44.7702,
+      "longitude": 65.5546,
+      "timezone": "Asia/Qyzylorda"
+    },
+    {
+      "name": "",
+      "name_en": "Merke",
+      "province": "Zhambyl",
+      "latitude": 42.8718,
+      "longitude": 73.1965,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Sarykemer",
+      "province": "Zhambyl",
+      "latitude": 43.0093,
+      "longitude": 71.5101,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Urzhar",
+      "province": "East Kazakhstan",
+      "latitude": 47.093,
+      "longitude": 81.6294,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Kazygurt",
+      "province": "Turkistan",
+      "latitude": 41.7564,
+      "longitude": 69.3839,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Beyneu",
+      "province": "Mangghystaū",
+      "latitude": 45.3167,
+      "longitude": 55.2,
+      "timezone": "Asia/Aqtau"
+    },
+    {
+      "name": "",
+      "name_en": "Zhalagash",
+      "province": "Qyzylorda",
+      "latitude": 45.0796,
+      "longitude": 64.6817,
+      "timezone": "Asia/Qyzylorda"
+    },
+    {
+      "name": "",
+      "name_en": "Yereymentau",
+      "province": "Aqmola",
+      "latitude": 51.6236,
+      "longitude": 73.1026,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Maqat",
+      "province": "Atyrau Oblisi",
+      "latitude": 47.6497,
+      "longitude": 53.3429,
+      "timezone": "Asia/Atyrau"
+    },
+    {
+      "name": "",
+      "name_en": "Saryozek",
+      "province": "Jetisu Region",
+      "latitude": 44.3618,
+      "longitude": 77.9728,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Derzhavinsk",
+      "province": "Aqmola",
+      "latitude": 51.0972,
+      "longitude": 66.3187,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Qarazhal",
+      "province": "Ulytau Region",
+      "latitude": 48.0108,
+      "longitude": 70.8006,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Jıbek joly",
+      "province": "Almaty Region",
+      "latitude": 43.3748,
+      "longitude": 76.6244,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Esil",
+      "province": "Aqmola",
+      "latitude": 51.9545,
+      "longitude": 66.4077,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "普里奥焦尔斯克",
+      "name_en": "Priozersk",
+      "province": "卡拉干达州",
+      "latitude": 46.0311,
+      "longitude": 73.7025,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Shakhan",
+      "province": "卡拉干达州",
+      "latitude": 49.8196,
+      "longitude": 72.6541,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Inderbor",
+      "province": "Atyrau Oblisi",
+      "latitude": 48.55,
+      "longitude": 51.7833,
+      "timezone": "Asia/Atyrau"
+    },
+    {
+      "name": "",
+      "name_en": "Zhangaarqa",
+      "province": "Ulytau Region",
+      "latitude": 48.6866,
+      "longitude": 71.6447,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Taiynsha",
+      "province": "North Kazakhstan",
+      "latitude": 53.848,
+      "longitude": 69.7677,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Kulan",
+      "province": "Zhambyl",
+      "latitude": 42.9102,
+      "longitude": 72.7157,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Turgen",
+      "province": "Almaty Region",
+      "latitude": 43.4006,
+      "longitude": 77.5933,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Atakent",
+      "province": "Turkistan",
+      "latitude": 40.8478,
+      "longitude": 68.5064,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Temirlanovka",
+      "province": "Turkistan",
+      "latitude": 42.6,
+      "longitude": 69.2584,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Kuryk",
+      "province": "Mangghystaū",
+      "latitude": 43.1803,
+      "longitude": 51.6812,
+      "timezone": "Asia/Aqtau"
+    },
+    {
+      "name": "",
+      "name_en": "Shetpe",
+      "province": "Mangghystaū",
+      "latitude": 44.1392,
+      "longitude": 52.1531,
+      "timezone": "Asia/Aqtau"
+    },
+    {
+      "name": "",
+      "name_en": "Balpyk Bi",
+      "province": "Jetisu Region",
+      "latitude": 44.9012,
+      "longitude": 78.2293,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Shubarkuduk",
+      "province": "Aktyubinskaya Oblast’",
+      "latitude": 49.1439,
+      "longitude": 56.482,
+      "timezone": "Asia/Aqtobe"
+    },
+    {
+      "name": "",
+      "name_en": "Zhetybay",
+      "province": "Mangghystaū",
+      "latitude": 43.5893,
+      "longitude": 52.1031,
+      "timezone": "Asia/Aqtau"
+    },
+    {
+      "name": "",
+      "name_en": "Asyqata",
+      "province": "Turkistan",
+      "latitude": 40.8946,
+      "longitude": 68.3643,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Glubokoye",
+      "province": "East Kazakhstan",
+      "latitude": 50.1389,
+      "longitude": 82.3111,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Moyynkum",
+      "province": "Zhambyl",
+      "latitude": 44.2831,
+      "longitude": 72.9437,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Sholakkorgan",
+      "province": "Turkistan",
+      "latitude": 43.7645,
+      "longitude": 69.1786,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Tyul’kubas",
+      "province": "Turkistan",
+      "latitude": 42.4858,
+      "longitude": 70.296,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Kurchatov",
+      "province": "Abai Region",
+      "latitude": 50.7562,
+      "longitude": 78.5419,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Lugovoy",
+      "province": "Zhambyl",
+      "latitude": 42.9102,
+      "longitude": 72.7157,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Qashar",
+      "province": "Qostanay",
+      "latitude": 53.368,
+      "longitude": 62.8684,
+      "timezone": "Asia/Qostanay"
+    },
+    {
+      "name": "",
+      "name_en": "Kantagi",
+      "province": "Turkistan",
+      "latitude": 43.5279,
+      "longitude": 68.5829,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Kegen",
+      "province": "Almaty Region",
+      "latitude": 43.0145,
+      "longitude": 79.2264,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Aktau",
+      "province": "卡拉干达州",
+      "latitude": 43.6611,
+      "longitude": 51.1739,
+      "timezone": "Asia/Aqtau"
+    },
+    {
+      "name": "",
+      "name_en": "Belousovka",
+      "province": "East Kazakhstan",
+      "latitude": 50.1329,
+      "longitude": 82.5248,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Aktas",
+      "province": "卡拉干达州",
+      "latitude": 49.7795,
+      "longitude": 72.9613,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Bulayevo",
+      "province": "North Kazakhstan",
+      "latitude": 54.906,
+      "longitude": 70.4416,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Qarabalyq",
+      "province": "Qostanay",
+      "latitude": 53.7502,
+      "longitude": 62.0584,
+      "timezone": "Asia/Qostanay"
+    },
+    {
+      "name": "",
+      "name_en": "Korday",
+      "province": "Zhambyl",
+      "latitude": 43.0388,
+      "longitude": 74.7129,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Oytal",
+      "province": "Zhambyl",
+      "latitude": 42.9057,
+      "longitude": 73.2697,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Myrzakent",
+      "province": "Turkistan",
+      "latitude": 40.6634,
+      "longitude": 68.5451,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Aqadyr",
+      "province": "卡拉干达州",
+      "latitude": 48.2601,
+      "longitude": 72.8585,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Terenozek",
+      "province": "Qyzylorda",
+      "latitude": 45.0505,
+      "longitude": 64.9826,
+      "timezone": "Asia/Qyzylorda"
+    },
+    {
+      "name": "",
+      "name_en": "Borovskoy",
+      "province": "Qostanay",
+      "latitude": 53.7927,
+      "longitude": 64.1827,
+      "timezone": "Asia/Qostanay"
+    },
+    {
+      "name": "",
+      "name_en": "Tyuratam",
+      "province": "Baikonur",
+      "latitude": 45.6167,
+      "longitude": 63.3167,
+      "timezone": "Asia/Qostanay"
+    },
+    {
+      "name": "",
+      "name_en": "Shayan",
+      "province": "Turkistan",
+      "latitude": 43.034,
+      "longitude": 69.3805,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Dossor",
+      "province": "Atyrau Oblisi",
+      "latitude": 47.5323,
+      "longitude": 52.9709,
+      "timezone": "Asia/Atyrau"
+    },
+    {
+      "name": "",
+      "name_en": "Aktau",
+      "province": "卡拉干达州",
+      "latitude": 43.6611,
+      "longitude": 51.1739,
+      "timezone": "Asia/Aqtau"
+    },
+    {
+      "name": "",
+      "name_en": "Saksaul’skiy",
+      "province": "Qyzylorda",
+      "latitude": 47.0815,
+      "longitude": 61.1524,
+      "timezone": "Asia/Qyzylorda"
+    },
+    {
+      "name": "",
+      "name_en": "Irtyshsk",
+      "province": "巴甫洛达尔州",
+      "latitude": 53.3336,
+      "longitude": 75.4578,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Shar",
+      "province": "Abai Region",
+      "latitude": 49.5872,
+      "longitude": 81.0488,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Terengköl",
+      "province": "巴甫洛达尔州",
+      "latitude": 53.0665,
+      "longitude": 76.1049,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Karaton",
+      "province": "Atyrau Oblisi",
+      "latitude": 46.4368,
+      "longitude": 53.489,
+      "timezone": "Asia/Atyrau"
+    },
+    {
+      "name": "",
+      "name_en": "Makhambet",
+      "province": "Atyrau Oblisi",
+      "latitude": 47.6706,
+      "longitude": 51.586,
+      "timezone": "Asia/Atyrau"
+    },
+    {
+      "name": "",
+      "name_en": "Zhezkent",
+      "province": "Abai Region",
+      "latitude": 50.9311,
+      "longitude": 81.3615,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Sergeyevka",
+      "province": "North Kazakhstan",
+      "latitude": 53.8814,
+      "longitude": 67.4088,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Kurchum",
+      "province": "East Kazakhstan",
+      "latitude": 48.566,
+      "longitude": 83.6615,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Shubarshi",
+      "province": "Aktyubinskaya Oblast’",
+      "latitude": 48.5802,
+      "longitude": 57.1829,
+      "timezone": "Asia/Aqtobe"
+    },
+    {
+      "name": "",
+      "name_en": "Leninskiy",
+      "province": "巴甫洛达尔州",
+      "latitude": 45.6167,
+      "longitude": 63.3167,
+      "timezone": "Asia/Qostanay"
+    },
+    {
+      "name": "",
+      "name_en": "Aksu",
+      "province": "Aqmola",
+      "latitude": 52.0402,
+      "longitude": 76.9275,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Maloye Ganyushkino",
+      "province": "Atyrau Oblisi",
+      "latitude": 46.6,
+      "longitude": 49.2667,
+      "timezone": "Asia/Atyrau"
+    },
+    {
+      "name": "",
+      "name_en": "Fyodorov",
+      "province": "Qostanay",
+      "latitude": 53.6381,
+      "longitude": 62.6965,
+      "timezone": "Asia/Qostanay"
+    },
+    {
+      "name": "",
+      "name_en": "Zhanibek",
+      "province": "Batys Qazaqstan",
+      "latitude": 49.4228,
+      "longitude": 46.8463,
+      "timezone": "Asia/Oral"
+    },
+    {
+      "name": "",
+      "name_en": "Qarqaraly",
+      "province": "卡拉干达州",
+      "latitude": 49.4124,
+      "longitude": 75.4723,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Qusmuryn",
+      "province": "Qostanay",
+      "latitude": 52.4514,
+      "longitude": 64.6168,
+      "timezone": "Asia/Qostanay"
+    },
+    {
+      "name": "",
+      "name_en": "Pervomayka",
+      "province": "Almaty",
+      "latitude": 43.3736,
+      "longitude": 76.94,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Martuk",
+      "province": "Aktyubinskaya Oblast’",
+      "latitude": 50.7475,
+      "longitude": 56.5061,
+      "timezone": "Asia/Aqtobe"
+    },
+    {
+      "name": "",
+      "name_en": "Narynkol",
+      "province": "Almaty Region",
+      "latitude": 42.7264,
+      "longitude": 80.1749,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Mayqayyng",
+      "province": "巴甫洛达尔州",
+      "latitude": 51.4598,
+      "longitude": 75.8023,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Kazalinsk",
+      "province": "Qyzylorda",
+      "latitude": 45.7626,
+      "longitude": 62.1033,
+      "timezone": "Asia/Qyzylorda"
+    },
+    {
+      "name": "",
+      "name_en": "Bayganin",
+      "province": "Aktyubinskaya Oblast’",
+      "latitude": 48.6897,
+      "longitude": 55.8751,
+      "timezone": "Asia/Aqtobe"
+    },
+    {
+      "name": "",
+      "name_en": "Zhibek Zholy",
+      "province": "Turkistan",
+      "latitude": 43.3748,
+      "longitude": 76.6244,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Osakarovka",
+      "province": "卡拉干达州",
+      "latitude": 50.5632,
+      "longitude": 72.5728,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Bestobe",
+      "province": "Aqmola",
+      "latitude": 52.498,
+      "longitude": 73.0959,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Tobol",
+      "province": "Qostanay",
+      "latitude": 52.6937,
+      "longitude": 62.5914,
+      "timezone": "Asia/Qostanay"
+    },
+    {
+      "name": "",
+      "name_en": "Nura",
+      "province": "卡拉干达州",
+      "latitude": 50.2616,
+      "longitude": 71.548,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Shortandy",
+      "province": "Aqmola",
+      "latitude": 51.6993,
+      "longitude": 70.9913,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Tasqala",
+      "province": "Batys Qazaqstan",
+      "latitude": 51.1107,
+      "longitude": 50.2945,
+      "timezone": "Asia/Oral"
+    },
+    {
+      "name": "",
+      "name_en": "Bakanas",
+      "province": "Almaty Region",
+      "latitude": 44.806,
+      "longitude": 76.2746,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Zholymbet",
+      "province": "Aqmola",
+      "latitude": 51.7426,
+      "longitude": 71.7097,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Zhumysker",
+      "province": "",
+      "latitude": 49.3333,
+      "longitude": 49.4,
+      "timezone": "Asia/Oral"
+    },
+    {
+      "name": "",
+      "name_en": "Sastobe",
+      "province": "Turkistan",
+      "latitude": 42.5533,
+      "longitude": 69.9984,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Kishkenekol’",
+      "province": "North Kazakhstan",
+      "latitude": 53.6359,
+      "longitude": 72.3408,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Aksuat",
+      "province": "",
+      "latitude": 48.7167,
+      "longitude": 83.7,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "图古尔",
+      "name_en": "Tughyl",
+      "province": "East Kazakhstan",
+      "latitude": 47.725,
+      "longitude": 84.2058,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Būrabay",
+      "province": "Aqmola",
+      "latitude": 53.0838,
+      "longitude": 70.3138,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Astrakhanka",
+      "province": "Aqmola",
+      "latitude": 51.5307,
+      "longitude": 69.7969,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Qabilanbek",
+      "province": "Turkistan",
+      "latitude": 41.4941,
+      "longitude": 69.2765,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Zhympity",
+      "province": "Batys Qazaqstan",
+      "latitude": 50.2565,
+      "longitude": 52.5971,
+      "timezone": "Asia/Oral"
+    },
+    {
+      "name": "",
+      "name_en": "Shyngyrlau",
+      "province": "Batys Qazaqstan",
+      "latitude": 51.0996,
+      "longitude": 54.0841,
+      "timezone": "Asia/Oral"
+    },
+    {
+      "name": "",
+      "name_en": "Miyaly",
+      "province": "Atyrau Oblisi",
+      "latitude": 48.8855,
+      "longitude": 53.7917,
+      "timezone": "Asia/Atyrau"
+    },
+    {
+      "name": "",
+      "name_en": "Balkashino",
+      "province": "Aqmola",
+      "latitude": 52.5178,
+      "longitude": 68.7516,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Ūst’-Talovka",
+      "province": "East Kazakhstan",
+      "latitude": 50.5506,
+      "longitude": 81.8485,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Novoishimskiy",
+      "province": "North Kazakhstan",
+      "latitude": 53.1981,
+      "longitude": 66.7694,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Zavodskoy",
+      "province": "Aqmola",
+      "latitude": 52.4703,
+      "longitude": 72.0151,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Novaya Bukhtarma",
+      "province": "East Kazakhstan",
+      "latitude": 49.6287,
+      "longitude": 83.521,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Chapayev",
+      "province": "Batys Qazaqstan",
+      "latitude": 47.1048,
+      "longitude": 51.8843,
+      "timezone": "Asia/Atyrau"
+    },
+    {
+      "name": "",
+      "name_en": "Zhangaqala",
+      "province": "Batys Qazaqstan",
+      "latitude": 49.2153,
+      "longitude": 50.2901,
+      "timezone": "Asia/Oral"
+    },
+    {
+      "name": "",
+      "name_en": "Borodulikha",
+      "province": "Abai Region",
+      "latitude": 50.7184,
+      "longitude": 80.9295,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Smirnovo",
+      "province": "North Kazakhstan",
+      "latitude": 54.5148,
+      "longitude": 69.4273,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Bayanaul",
+      "province": "巴甫洛达尔州",
+      "latitude": 50.793,
+      "longitude": 75.7012,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Badamsha",
+      "province": "Aktyubinskaya Oblast’",
+      "latitude": 50.5618,
+      "longitude": 58.2772,
+      "timezone": "Asia/Aqtobe"
+    },
+    {
+      "name": "",
+      "name_en": "Asubulak",
+      "province": "East Kazakhstan",
+      "latitude": 49.5403,
+      "longitude": 82.9947,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Ashchysay",
+      "province": "Turkistan",
+      "latitude": 43.5537,
+      "longitude": 68.8979,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Shantobe",
+      "province": "Aqmola",
+      "latitude": 52.4538,
+      "longitude": 68.1748,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Bishkul",
+      "province": "North Kazakhstan",
+      "latitude": 54.7776,
+      "longitude": 69.0995,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Kalkaman",
+      "province": "巴甫洛达尔州",
+      "latitude": 51.9535,
+      "longitude": 76.0272,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "列普瑟",
+      "name_en": "Lepsy",
+      "province": "Jetisu Region",
+      "latitude": 46.2343,
+      "longitude": 78.9403,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Terekti",
+      "province": "Batys Qazaqstan",
+      "latitude": 51.2221,
+      "longitude": 51.9573,
+      "timezone": "Asia/Oral"
+    },
+    {
+      "name": "",
+      "name_en": "Torghay",
+      "province": "Qostanay",
+      "latitude": 49.6307,
+      "longitude": 63.4903,
+      "timezone": "Asia/Qostanay"
+    },
+    {
+      "name": "",
+      "name_en": "Karaaul",
+      "province": "Abai Region",
+      "latitude": 48.9451,
+      "longitude": 79.255,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Zhelezinka",
+      "province": "巴甫洛达尔州",
+      "latitude": 53.5388,
+      "longitude": 75.3133,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Fort-Shevchenko",
+      "province": "Mangghystaū",
+      "latitude": 44.5065,
+      "longitude": 50.2639,
+      "timezone": "Asia/Aqtau"
+    },
+    {
+      "name": "",
+      "name_en": "Novodolinskiy",
+      "province": "卡拉干达州",
+      "latitude": 49.7065,
+      "longitude": 72.7081,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Kokpekty",
+      "province": "",
+      "latitude": 48.75,
+      "longitude": 82.4,
+      "timezone": "Asia/Almaty"
+    },
+    {
+      "name": "",
+      "name_en": "Zhaksy",
+      "province": "Aqmola",
+      "latitude": 51.9106,
+      "longitude": 67.3166,
+      "timezone": "Asia/Almaty"
+    }
+  ]
+}

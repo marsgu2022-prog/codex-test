@@ -1,0 +1,1870 @@
+{
+  "country_code": "KE",
+  "country_name": "肯尼亚",
+  "cities": [
+    {
+      "name": "内罗毕",
+      "name_en": "Nairobi",
+      "province": "内罗毕郡",
+      "latitude": -1.2833,
+      "longitude": 36.8167,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "卡卡梅加",
+      "name_en": "Kakamega",
+      "province": "卡卡梅加郡",
+      "latitude": 0.2842,
+      "longitude": 34.7523,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "蒙巴萨",
+      "name_en": "Mombasa",
+      "province": "蒙巴萨县",
+      "latitude": -4.0547,
+      "longitude": 39.6636,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "纳库鲁",
+      "name_en": "Nakuru",
+      "province": "纳库鲁郡",
+      "latitude": -0.3072,
+      "longitude": 36.0722,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "鲁依鲁",
+      "name_en": "Ruiru",
+      "province": "基安布郡",
+      "latitude": -1.1466,
+      "longitude": 36.9609,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "埃尔多雷特",
+      "name_en": "Eldoret",
+      "province": "瓦辛基苏郡",
+      "latitude": 0.5204,
+      "longitude": 35.2699,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "基苏木",
+      "name_en": "Kisumu",
+      "province": "基苏木郡",
+      "latitude": -0.1022,
+      "longitude": 34.7617,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Kikuyu",
+      "province": "基安布郡",
+      "latitude": -1.2463,
+      "longitude": 36.6629,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Thika",
+      "province": "内罗毕郡",
+      "latitude": -1.0333,
+      "longitude": 37.0693,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "奈瓦沙",
+      "name_en": "Naivasha",
+      "province": "纳库鲁郡",
+      "latitude": -0.7138,
+      "longitude": 36.4326,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Karuri",
+      "province": "基安布郡",
+      "latitude": -1.1764,
+      "longitude": 36.7564,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Karuri",
+      "province": "Murang'A",
+      "latitude": -1.1764,
+      "longitude": 36.7564,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Matuga",
+      "province": "夸莱郡",
+      "latitude": -4.168,
+      "longitude": 39.5707,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Mwala",
+      "province": "马查科斯郡",
+      "latitude": -1.3525,
+      "longitude": 37.4548,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Lang'ata",
+      "province": "内罗毕郡",
+      "latitude": -1.3666,
+      "longitude": 36.7332,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Ongata Rongai",
+      "province": "卡耶亚多郡",
+      "latitude": -1.3953,
+      "longitude": 36.764,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Jomvu",
+      "province": "蒙巴萨县",
+      "latitude": -3.9862,
+      "longitude": 39.6082,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "加里萨",
+      "name_en": "Garissa",
+      "province": "加里萨郡",
+      "latitude": -0.4527,
+      "longitude": 39.646,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "基塔莱",
+      "name_en": "Kitale",
+      "province": "Trans Nzoia",
+      "latitude": 1.0157,
+      "longitude": 35.0062,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "利穆鲁",
+      "name_en": "Limuru",
+      "province": "基安布郡",
+      "latitude": -1.1136,
+      "longitude": 36.642,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Juja",
+      "province": "基安布郡",
+      "latitude": -1.1015,
+      "longitude": 37.0132,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Kitengela",
+      "province": "卡耶亚多郡",
+      "latitude": -1.4761,
+      "longitude": 36.9614,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Kiambu",
+      "province": "基安布郡",
+      "latitude": -1.1714,
+      "longitude": 36.8356,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Mlolongo",
+      "province": "马查科斯郡",
+      "latitude": -1.3964,
+      "longitude": 36.9403,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "马林迪",
+      "name_en": "Malindi",
+      "province": "基利菲县",
+      "latitude": -3.218,
+      "longitude": 40.1169,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Mandera",
+      "province": "曼德拉郡",
+      "latitude": 3.9373,
+      "longitude": 41.8569,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Khwisero",
+      "province": "卡卡梅加郡",
+      "latitude": 0.1712,
+      "longitude": 34.5947,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "基西",
+      "name_en": "Kisii",
+      "province": "基西郡",
+      "latitude": -0.6817,
+      "longitude": 34.7667,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Ngong",
+      "province": "卡耶亚多郡",
+      "latitude": -1.3527,
+      "longitude": 36.6699,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Mtwapa",
+      "province": "基利菲县",
+      "latitude": -3.9394,
+      "longitude": 39.7488,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "瓦吉尔",
+      "name_en": "Wajir",
+      "province": "瓦吉尔郡",
+      "latitude": 1.7471,
+      "longitude": 40.0573,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "洛德瓦尔",
+      "name_en": "Lodwar",
+      "province": "图尔卡纳郡",
+      "latitude": 3.1199,
+      "longitude": 35.5964,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Athi River",
+      "province": "马查科斯郡",
+      "latitude": -1.4563,
+      "longitude": 36.9783,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Meru",
+      "province": "梅鲁郡",
+      "latitude": 0.0463,
+      "longitude": 37.6559,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "尼耶利",
+      "name_en": "Nyeri",
+      "province": "涅里郡",
+      "latitude": -0.4201,
+      "longitude": 36.9476,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Isiolo",
+      "province": "伊希约洛郡",
+      "latitude": 0.3546,
+      "longitude": 37.5822,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Ukunda",
+      "province": "夸莱郡",
+      "latitude": -4.2929,
+      "longitude": 39.564,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Kiserian",
+      "province": "卡耶亚多郡",
+      "latitude": -1.4275,
+      "longitude": 36.6865,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "基利菲",
+      "name_en": "Kilifi",
+      "province": "基利菲县",
+      "latitude": -3.6305,
+      "longitude": 39.8499,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "纳纽基",
+      "name_en": "Nanyuki",
+      "province": "莱基皮亚郡",
+      "latitude": 0.0062,
+      "longitude": 37.074,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Busia",
+      "province": "布希亚郡",
+      "latitude": 0.4601,
+      "longitude": 34.1117,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Migori",
+      "province": "米戈利郡",
+      "latitude": -1.0634,
+      "longitude": 34.4731,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Bungoma",
+      "province": "邦戈马郡",
+      "latitude": 0.5635,
+      "longitude": 34.5605,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Narok",
+      "province": "纳罗克郡",
+      "latitude": -1.0808,
+      "longitude": 35.8711,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "恩布",
+      "name_en": "Embu",
+      "province": "恩布郡",
+      "latitude": -0.5399,
+      "longitude": 37.4574,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "马查科斯",
+      "name_en": "Machakos",
+      "province": "马查科斯郡",
+      "latitude": -1.5223,
+      "longitude": 37.2652,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Githunguri",
+      "province": "基安布郡",
+      "latitude": -1.0575,
+      "longitude": 36.7762,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Githunguri",
+      "province": "马查科斯郡",
+      "latitude": -1.0575,
+      "longitude": 36.7762,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "El Wak",
+      "province": "曼德拉郡",
+      "latitude": 2.8092,
+      "longitude": 40.9288,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Gilgil",
+      "province": "纳库鲁郡",
+      "latitude": -0.504,
+      "longitude": 36.3184,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Upper Gilgil",
+      "province": "年达鲁阿郡",
+      "latitude": -0.2121,
+      "longitude": 36.2725,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Mbale",
+      "province": "维希加县",
+      "latitude": 0.0821,
+      "longitude": 34.7214,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Kimilili",
+      "province": "邦戈马郡",
+      "latitude": 0.7877,
+      "longitude": 34.7156,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Kapenguria",
+      "province": "西波克特郡",
+      "latitude": 1.2389,
+      "longitude": 35.1119,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Kericho",
+      "province": "凯里乔郡",
+      "latitude": -0.3677,
+      "longitude": 35.2831,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Voi",
+      "province": "Taita Taveta",
+      "latitude": -3.396,
+      "longitude": 38.5561,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Imara Daima Estate",
+      "province": "内罗毕郡",
+      "latitude": -1.3232,
+      "longitude": 36.8802,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Wanguru",
+      "province": "基里尼亚加郡",
+      "latitude": -0.6839,
+      "longitude": 37.357,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Habaswein",
+      "province": "瓦吉尔郡",
+      "latitude": 1.0166,
+      "longitude": 39.4912,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Molo",
+      "province": "纳库鲁郡",
+      "latitude": -0.2485,
+      "longitude": 35.7319,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "摩亚雷",
+      "name_en": "Moyale",
+      "province": "马萨比特郡",
+      "latitude": 3.5266,
+      "longitude": 39.0561,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Ol Kalou",
+      "province": "年达鲁阿郡",
+      "latitude": -0.2709,
+      "longitude": 36.3792,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "穆米亚斯",
+      "name_en": "Mumias",
+      "province": "卡卡梅加郡",
+      "latitude": 0.3347,
+      "longitude": 34.488,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Homa Bay",
+      "province": "霍马湾郡",
+      "latitude": -0.5273,
+      "longitude": 34.4571,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Kenol",
+      "province": "Murang'A",
+      "latitude": -1.6558,
+      "longitude": 37.3745,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Kinoi",
+      "province": "马查科斯郡",
+      "latitude": -1.6558,
+      "longitude": 37.3745,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Masalani",
+      "province": "塔纳河郡",
+      "latitude": -1.6941,
+      "longitude": 40.1701,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Murang’a",
+      "province": "Murang'A",
+      "latitude": -0.721,
+      "longitude": 37.1526,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Webuye",
+      "province": "邦戈马郡",
+      "latitude": 0.6004,
+      "longitude": 34.7712,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Njoro",
+      "province": "纳库鲁郡",
+      "latitude": -0.3302,
+      "longitude": 35.9445,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Iten",
+      "province": "Elegeyo-Marakwet",
+      "latitude": 0.6703,
+      "longitude": 35.5081,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Kapsabet",
+      "province": "Nandi",
+      "latitude": 0.2039,
+      "longitude": 35.105,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Lugulu",
+      "province": "布希亚郡",
+      "latitude": 0.3934,
+      "longitude": 34.304,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Tetu",
+      "province": "涅里郡",
+      "latitude": -0.4342,
+      "longitude": 36.9168,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "尼亚胡鲁鲁",
+      "name_en": "Nyahururu",
+      "province": "莱基皮亚郡",
+      "latitude": 0.0381,
+      "longitude": 36.3634,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Marsabit",
+      "province": "马萨比特郡",
+      "latitude": 2.3347,
+      "longitude": 37.9909,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Ramu",
+      "province": "曼德拉郡",
+      "latitude": 3.9315,
+      "longitude": 41.2229,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Siaya",
+      "province": "夏亚郡",
+      "latitude": 0.0607,
+      "longitude": 34.2881,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "马里亚卡尼",
+      "name_en": "Mariakani",
+      "province": "基利菲县",
+      "latitude": -3.8626,
+      "longitude": 39.4746,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Maralal",
+      "province": "桑布卢郡",
+      "latitude": 1.0967,
+      "longitude": 36.6981,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Mairo Inya",
+      "province": "年达鲁阿郡",
+      "latitude": 0.0254,
+      "longitude": 36.4087,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Rongai",
+      "province": "纳库鲁郡",
+      "latitude": -0.1734,
+      "longitude": 35.8631,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Kerugoya",
+      "province": "基里尼亚加郡",
+      "latitude": -0.4989,
+      "longitude": 37.2803,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Pumwani",
+      "province": "内罗毕郡",
+      "latitude": -1.2832,
+      "longitude": 36.8473,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Kitui",
+      "province": "基图伊郡",
+      "latitude": -1.367,
+      "longitude": 38.0106,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Makutano",
+      "province": "西波克特郡",
+      "latitude": 1.2588,
+      "longitude": 35.0957,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Elburgon",
+      "province": "纳库鲁郡",
+      "latitude": -0.3004,
+      "longitude": 35.8094,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "瓦塔穆",
+      "name_en": "Watamu",
+      "province": "基利菲县",
+      "latitude": -3.3533,
+      "longitude": 40.0209,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "拉穆",
+      "name_en": "Lamu",
+      "province": "Lamu",
+      "latitude": -2.2717,
+      "longitude": 40.902,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Kajiado",
+      "province": "卡耶亚多郡",
+      "latitude": -1.8524,
+      "longitude": 36.7768,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Kabarnet",
+      "province": "巴林戈郡",
+      "latitude": 0.4919,
+      "longitude": 35.743,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Nyamira",
+      "province": "尼亚米拉郡",
+      "latitude": -0.5633,
+      "longitude": 34.9358,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Isebania",
+      "province": "米戈利郡",
+      "latitude": -1.2251,
+      "longitude": 34.4639,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "卡拉蒂纳",
+      "name_en": "Karatina",
+      "province": "涅里郡",
+      "latitude": -0.4841,
+      "longitude": 37.1266,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Kakuma",
+      "province": "图尔卡纳郡",
+      "latitude": 3.7136,
+      "longitude": 34.8572,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Lafey",
+      "province": "曼德拉郡",
+      "latitude": 3.1511,
+      "longitude": 41.1858,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Bondo",
+      "province": "夏亚郡",
+      "latitude": -0.0962,
+      "longitude": 34.2732,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Chuka",
+      "province": "Tharaka - Nithi",
+      "latitude": -0.3332,
+      "longitude": 37.6459,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Kihancha",
+      "province": "米戈利郡",
+      "latitude": -1.1935,
+      "longitude": 34.6197,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Maua",
+      "province": "梅鲁郡",
+      "latitude": 0.2332,
+      "longitude": 37.9409,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Taveta",
+      "province": "Taita Taveta",
+      "latitude": -3.3988,
+      "longitude": 37.6834,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Takaba",
+      "province": "曼德拉郡",
+      "latitude": 3.3553,
+      "longitude": 40.2228,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "エルダマ峡谷",
+      "name_en": "Eldama Ravine",
+      "province": "巴林戈郡",
+      "latitude": 0.052,
+      "longitude": 35.7273,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Hola",
+      "province": "塔纳河郡",
+      "latitude": -1.4826,
+      "longitude": 40.0334,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Maai Mahiu",
+      "province": "纳库鲁郡",
+      "latitude": -0.9886,
+      "longitude": 36.5854,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Mai",
+      "province": "纳库鲁郡",
+      "latitude": -0.9817,
+      "longitude": 36.5864,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Rongo",
+      "province": "米戈利郡",
+      "latitude": -0.7568,
+      "longitude": 34.5983,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Makueni Boma",
+      "province": "马瓜尼郡",
+      "latitude": -1.8039,
+      "longitude": 37.624,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Ogembo",
+      "province": "基西郡",
+      "latitude": -0.8012,
+      "longitude": 34.7258,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Oyugis",
+      "province": "霍马湾郡",
+      "latitude": -0.5097,
+      "longitude": 34.7307,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Wote",
+      "province": "马瓜尼郡",
+      "latitude": -1.7808,
+      "longitude": 37.6288,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "埃马利",
+      "name_en": "Emali",
+      "province": "马瓜尼郡",
+      "latitude": -2.0803,
+      "longitude": 37.472,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Garba Tula",
+      "province": "伊希约洛郡",
+      "latitude": 0.5339,
+      "longitude": 38.5188,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Mwingi",
+      "province": "基图伊郡",
+      "latitude": -0.9361,
+      "longitude": 38.0596,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Awendo",
+      "province": "米戈利郡",
+      "latitude": -0.9071,
+      "longitude": 34.529,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Awendo",
+      "province": "霍马湾郡",
+      "latitude": -0.9071,
+      "longitude": 34.529,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Kiminini",
+      "province": "Trans Nzoia",
+      "latitude": 0.8928,
+      "longitude": 34.9247,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Moi‘s Bridge",
+      "province": "瓦辛基苏郡",
+      "latitude": 0.8718,
+      "longitude": 35.1221,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Mazeras",
+      "province": "夸莱郡",
+      "latitude": -3.9643,
+      "longitude": 39.5498,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Malaba",
+      "province": "布希亚郡",
+      "latitude": 0.6351,
+      "longitude": 34.2816,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Muhoroni",
+      "province": "基苏木郡",
+      "latitude": -0.1582,
+      "longitude": 35.1964,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "马金杜",
+      "name_en": "Makindu",
+      "province": "马瓜尼郡",
+      "latitude": -2.2781,
+      "longitude": 37.8187,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Banissa",
+      "province": "曼德拉郡",
+      "latitude": 3.941,
+      "longitude": 40.3425,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Msambweni",
+      "province": "夸莱郡",
+      "latitude": -4.4619,
+      "longitude": 39.4826,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Mbita",
+      "province": "霍马湾郡",
+      "latitude": -0.4249,
+      "longitude": 34.2074,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Magadi",
+      "province": "卡耶亚多郡",
+      "latitude": -1.9012,
+      "longitude": 36.287,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Isinya",
+      "province": "卡耶亚多郡",
+      "latitude": -1.6792,
+      "longitude": 36.8506,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Bute",
+      "province": "瓦吉尔郡",
+      "latitude": 3.3588,
+      "longitude": 39.4197,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Kawaida",
+      "province": "基安布郡",
+      "latitude": -1.1464,
+      "longitude": 36.7598,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Kagio",
+      "province": "基里尼亚加郡",
+      "latitude": -0.6248,
+      "longitude": 37.2555,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Bura Tana",
+      "province": "塔纳河郡",
+      "latitude": -1.1933,
+      "longitude": 39.8405,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Nyambunwa",
+      "province": "基西郡",
+      "latitude": -0.6778,
+      "longitude": 34.7072,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Litein",
+      "province": "凯里乔郡",
+      "latitude": -0.5825,
+      "longitude": 35.1897,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Mogotio",
+      "province": "巴林戈郡",
+      "latitude": -0.0224,
+      "longitude": 35.9612,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Luanda",
+      "province": "维希加县",
+      "latitude": 0.0233,
+      "longitude": 34.5866,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Ol Kalau South Settlement",
+      "province": "年达鲁阿郡",
+      "latitude": -0.2744,
+      "longitude": 36.34,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Rumuruti",
+      "province": "莱基皮亚郡",
+      "latitude": 0.2725,
+      "longitude": 36.5381,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Sagana",
+      "province": "基里尼亚加郡",
+      "latitude": -0.6681,
+      "longitude": 37.2088,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Sawa Sawa",
+      "province": "夸莱郡",
+      "latitude": -4.4717,
+      "longitude": 39.4846,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Lokichar",
+      "province": "图尔卡纳郡",
+      "latitude": 2.3812,
+      "longitude": 35.6512,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Chavakali",
+      "province": "维希加县",
+      "latitude": 0.1177,
+      "longitude": 34.7334,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Wundanyi",
+      "province": "Taita Taveta",
+      "latitude": -3.3964,
+      "longitude": 38.3573,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Makutano",
+      "province": "马查科斯郡",
+      "latitude": 1.2588,
+      "longitude": 35.0957,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Eldas",
+      "province": "瓦吉尔郡",
+      "latitude": 2.4918,
+      "longitude": 39.5665,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Port Victoria",
+      "province": "布希亚郡",
+      "latitude": 0.0981,
+      "longitude": 33.9725,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Vipingo",
+      "province": "基利菲县",
+      "latitude": -3.8147,
+      "longitude": 39.8128,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Matuu",
+      "province": "马查科斯郡",
+      "latitude": -1.1454,
+      "longitude": 37.5467,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Majengo",
+      "province": "维希加县",
+      "latitude": 0.0494,
+      "longitude": 34.7248,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Mado Gashi",
+      "province": "加里萨郡",
+      "latitude": 0.7311,
+      "longitude": 39.1739,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Mau Narok",
+      "province": "纳库鲁郡",
+      "latitude": -0.6066,
+      "longitude": 36.0084,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Ahero",
+      "province": "基苏木郡",
+      "latitude": -0.1736,
+      "longitude": 34.9189,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Ijara",
+      "province": "加里萨郡",
+      "latitude": -1.5952,
+      "longitude": 40.5144,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Bomet",
+      "province": "博美特郡",
+      "latitude": -0.7813,
+      "longitude": 35.3416,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Lokichokio",
+      "province": "图尔卡纳郡",
+      "latitude": 4.2077,
+      "longitude": 34.3538,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Dadaab",
+      "province": "加里萨郡",
+      "latitude": 0.0524,
+      "longitude": 40.3085,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Tala",
+      "province": "马查科斯郡",
+      "latitude": -1.2685,
+      "longitude": 37.3219,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Butere",
+      "province": "卡卡梅加郡",
+      "latitude": 0.2069,
+      "longitude": 34.4901,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Kinna",
+      "province": "伊希约洛郡",
+      "latitude": 0.3188,
+      "longitude": 38.205,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Gongoni",
+      "province": "基利菲县",
+      "latitude": -3.0367,
+      "longitude": 40.1375,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Merti",
+      "province": "伊希约洛郡",
+      "latitude": 1.0673,
+      "longitude": 38.6662,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Keroka",
+      "province": "尼亚米拉郡",
+      "latitude": -0.7761,
+      "longitude": 34.9468,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Kilgoris",
+      "province": "纳罗克郡",
+      "latitude": -1.0082,
+      "longitude": 34.8781,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Matunda",
+      "province": "瓦辛基苏郡",
+      "latitude": 0.8444,
+      "longitude": 35.1372,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "塔卡温古",
+      "name_en": "Takaungu",
+      "province": "基利菲县",
+      "latitude": -3.6835,
+      "longitude": 39.8569,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Timau",
+      "province": "梅鲁郡",
+      "latitude": 0.0835,
+      "longitude": 37.2392,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Oloitokitok",
+      "province": "卡耶亚多郡",
+      "latitude": -2.9272,
+      "longitude": 37.5103,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Kainuk",
+      "province": "图尔卡纳郡",
+      "latitude": 1.7744,
+      "longitude": 35.5064,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Subukia",
+      "province": "纳库鲁郡",
+      "latitude": -0.0164,
+      "longitude": 36.2093,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Sindo",
+      "province": "霍马湾郡",
+      "latitude": -0.5406,
+      "longitude": 34.1689,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Kangundo",
+      "province": "马查科斯郡",
+      "latitude": -1.3034,
+      "longitude": 37.3481,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Kimana",
+      "province": "卡耶亚多郡",
+      "latitude": -2.7988,
+      "longitude": 37.5371,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "夸勒",
+      "name_en": "Kwale",
+      "province": "夸莱郡",
+      "latitude": -4.1738,
+      "longitude": 39.4521,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Luanda",
+      "province": "布希亚郡",
+      "latitude": 0.0233,
+      "longitude": 34.5866,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Chwele",
+      "province": "邦戈马郡",
+      "latitude": 0.7624,
+      "longitude": 34.5485,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Mwatate",
+      "province": "Taita Taveta",
+      "latitude": -3.505,
+      "longitude": 38.3772,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Marigat",
+      "province": "巴林戈郡",
+      "latitude": 0.4712,
+      "longitude": 35.9864,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Kapsowar",
+      "province": "Elegeyo-Marakwet",
+      "latitude": 0.9789,
+      "longitude": 35.5585,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Kutus",
+      "province": "基里尼亚加郡",
+      "latitude": -0.5753,
+      "longitude": 37.3269,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "纳罗莫鲁",
+      "name_en": "Naro Moru",
+      "province": "涅里郡",
+      "latitude": -0.1636,
+      "longitude": 37.0177,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "苏丹哈茂德",
+      "name_en": "Sultan Hamud",
+      "province": "马瓜尼郡",
+      "latitude": -2.0204,
+      "longitude": 37.3721,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Bondo",
+      "province": "夏亚郡",
+      "latitude": -0.0962,
+      "longitude": 34.2732,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Maragua",
+      "province": "Murang'A",
+      "latitude": -0.796,
+      "longitude": 37.1329,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Kibwezi",
+      "province": "马瓜尼郡",
+      "latitude": -2.4093,
+      "longitude": 37.9663,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Rodi",
+      "province": "霍马湾郡",
+      "latitude": -0.6246,
+      "longitude": 34.503,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Kinango",
+      "province": "夸莱郡",
+      "latitude": -4.1372,
+      "longitude": 39.3153,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Nandi Hills",
+      "province": "Nandi",
+      "latitude": 0.1037,
+      "longitude": 35.1843,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Usenge",
+      "province": "夏亚郡",
+      "latitude": -0.0673,
+      "longitude": 34.0566,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Gatundu",
+      "province": "基安布郡",
+      "latitude": -1.05,
+      "longitude": 36.9,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Giriftu",
+      "province": "瓦吉尔郡",
+      "latitude": 2.0004,
+      "longitude": 39.7519,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Brooke",
+      "province": "凯里乔郡",
+      "latitude": -0.3341,
+      "longitude": 35.3254,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Il",
+      "province": "卡耶亚多郡",
+      "latitude": -2.0976,
+      "longitude": 36.7922,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Sololo",
+      "province": "",
+      "latitude": 3.5639,
+      "longitude": 38.6432,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Nkubu",
+      "province": "梅鲁郡",
+      "latitude": -0.0693,
+      "longitude": 37.6662,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Baringo",
+      "province": "巴林戈郡",
+      "latitude": 0.4667,
+      "longitude": 35.9667,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Chogoria",
+      "province": "Tharaka - Nithi",
+      "latitude": -0.2295,
+      "longitude": 37.6273,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Shianda",
+      "province": "卡卡梅加郡",
+      "latitude": 0.3194,
+      "longitude": 34.5735,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Garsen",
+      "province": "塔纳河郡",
+      "latitude": -2.2664,
+      "longitude": 40.1097,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Marereni",
+      "province": "基利菲县",
+      "latitude": -2.8604,
+      "longitude": 40.1506,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Kapsokwony",
+      "province": "邦戈马郡",
+      "latitude": 0.8522,
+      "longitude": 34.7019,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Ogunja",
+      "province": "夏亚郡",
+      "latitude": 0.1902,
+      "longitude": 34.2992,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Sori",
+      "province": "米戈利郡",
+      "latitude": -0.8409,
+      "longitude": 34.1598,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Kaloleni",
+      "province": "基利菲县",
+      "latitude": -3.8141,
+      "longitude": 39.6314,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Sondu",
+      "province": "凯里乔郡",
+      "latitude": -0.3906,
+      "longitude": 35.0127,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Kimbimbi",
+      "province": "基里尼亚加郡",
+      "latitude": -0.6223,
+      "longitude": 37.3648,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "马西诺",
+      "name_en": "Maseno",
+      "province": "基苏木郡",
+      "latitude": -0.0066,
+      "longitude": 34.6,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Othaya",
+      "province": "涅里郡",
+      "latitude": -0.5465,
+      "longitude": 36.9318,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Mukurwe-ini",
+      "province": "涅里郡",
+      "latitude": -0.5609,
+      "longitude": 37.0476,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Bura",
+      "province": "加里萨郡",
+      "latitude": -1.0943,
+      "longitude": 39.9419,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Kangema",
+      "province": "Murang'A",
+      "latitude": -0.6855,
+      "longitude": 36.9646,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Kendu Bay",
+      "province": "霍马湾郡",
+      "latitude": -0.3618,
+      "longitude": 34.6527,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Tinganga",
+      "province": "基安布郡",
+      "latitude": -1.1303,
+      "longitude": 36.8136,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Lolgorien",
+      "province": "纳罗克郡",
+      "latitude": -1.2291,
+      "longitude": 34.8071,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Nyansiongo",
+      "province": "尼亚米拉郡",
+      "latitude": -0.7596,
+      "longitude": 35.0148,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Chaka",
+      "province": "涅里郡",
+      "latitude": -0.3597,
+      "longitude": 37.0,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Mpeketoni",
+      "province": "Lamu",
+      "latitude": -2.3891,
+      "longitude": 40.6981,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "姆蒂托安代",
+      "name_en": "Mtito Andei",
+      "province": "马瓜尼郡",
+      "latitude": -2.6899,
+      "longitude": 38.1669,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Olulung’a",
+      "province": "纳罗克郡",
+      "latitude": -1.0027,
+      "longitude": 35.6634,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Githiga A",
+      "province": "基安布郡",
+      "latitude": -1.0869,
+      "longitude": 36.7341,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Rironi",
+      "province": "基安布郡",
+      "latitude": -1.1512,
+      "longitude": 36.6356,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Dundori",
+      "province": "纳库鲁郡",
+      "latitude": -0.2519,
+      "longitude": 36.2364,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Witu",
+      "province": "Lamu",
+      "latitude": -2.3889,
+      "longitude": 40.4383,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Jebilat",
+      "province": "尼亚米拉郡",
+      "latitude": -0.6936,
+      "longitude": 35.0713,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Lare",
+      "province": "梅鲁郡",
+      "latitude": 0.3373,
+      "longitude": 37.9375,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Engineer",
+      "province": "年达鲁阿郡",
+      "latitude": -0.6054,
+      "longitude": 36.5763,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Gazi",
+      "province": "夸莱郡",
+      "latitude": -4.424,
+      "longitude": 39.5059,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Loiyangalani",
+      "province": "马萨比特郡",
+      "latitude": 2.7444,
+      "longitude": 36.7146,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "North Horr",
+      "province": "马萨比特郡",
+      "latitude": 3.322,
+      "longitude": 37.0703,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Maji Mazuri",
+      "province": "巴林戈郡",
+      "latitude": -0.0197,
+      "longitude": 35.6914,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Malava",
+      "province": "卡卡梅加郡",
+      "latitude": 0.4471,
+      "longitude": 34.8539,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Katito",
+      "province": "基苏木郡",
+      "latitude": -0.2693,
+      "longitude": 34.972,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Awasi",
+      "province": "基苏木郡",
+      "latitude": -0.1677,
+      "longitude": 35.0824,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Laisamis",
+      "province": "马萨比特郡",
+      "latitude": 1.5932,
+      "longitude": 37.806,
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "name": "",
+      "name_en": "Kathwana",
+      "province": "Tharaka - Nithi",
+      "latitude": -0.3314,
+      "longitude": 37.8686,
+      "timezone": "Africa/Nairobi"
+    }
+  ]
+}

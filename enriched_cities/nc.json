@@ -1,0 +1,110 @@
+{
+  "country_code": "NC",
+  "country_name": "新喀里多尼亚",
+  "cities": [
+    {
+      "name": "努美阿",
+      "name_en": "Nouméa",
+      "province": "South Province",
+      "latitude": -22.2741,
+      "longitude": 166.4488,
+      "timezone": "Pacific/Noumea"
+    },
+    {
+      "name": "",
+      "name_en": "Mont-Dore",
+      "province": "South Province",
+      "latitude": -22.2626,
+      "longitude": 166.5662,
+      "timezone": "Pacific/Noumea"
+    },
+    {
+      "name": "",
+      "name_en": "Dumbéa",
+      "province": "South Province",
+      "latitude": -22.1576,
+      "longitude": 166.4572,
+      "timezone": "Pacific/Noumea"
+    },
+    {
+      "name": "",
+      "name_en": "Païta",
+      "province": "South Province",
+      "latitude": -22.131,
+      "longitude": 166.3572,
+      "timezone": "Pacific/Noumea"
+    },
+    {
+      "name": "",
+      "name_en": "Wé",
+      "province": "Loyalty Islands",
+      "latitude": -20.9169,
+      "longitude": 167.2646,
+      "timezone": "Pacific/Noumea"
+    },
+    {
+      "name": "",
+      "name_en": "Vallée des Colons",
+      "province": "South Province",
+      "latitude": -22.2773,
+      "longitude": 166.458,
+      "timezone": "Pacific/Noumea"
+    },
+    {
+      "name": "",
+      "name_en": "Tadine",
+      "province": "Loyalty Islands",
+      "latitude": -21.5475,
+      "longitude": 167.8802,
+      "timezone": "Pacific/Noumea"
+    },
+    {
+      "name": "",
+      "name_en": "Magenta",
+      "province": "South Province",
+      "latitude": -22.2687,
+      "longitude": 166.4712,
+      "timezone": "Pacific/Noumea"
+    },
+    {
+      "name": "",
+      "name_en": "Rivière-Salée",
+      "province": "South Province",
+      "latitude": -22.2314,
+      "longitude": 166.4642,
+      "timezone": "Pacific/Noumea"
+    },
+    {
+      "name": "",
+      "name_en": "Bourail",
+      "province": "South Province",
+      "latitude": -21.5669,
+      "longitude": 165.4974,
+      "timezone": "Pacific/Noumea"
+    },
+    {
+      "name": "",
+      "name_en": "Poindimié",
+      "province": "North Province",
+      "latitude": -20.9371,
+      "longitude": 165.3312,
+      "timezone": "Pacific/Noumea"
+    },
+    {
+      "name": "",
+      "name_en": "Koné",
+      "province": "North Province",
+      "latitude": -21.0595,
+      "longitude": 164.8658,
+      "timezone": "Pacific/Noumea"
+    },
+    {
+      "name": "",
+      "name_en": "La Foa",
+      "province": "South Province",
+      "latitude": -21.7108,
+      "longitude": 165.8276,
+      "timezone": "Pacific/Noumea"
+    }
+  ]
+}

@@ -1,0 +1,1222 @@
+{
+  "country_code": "IE",
+  "country_name": "爱尔兰",
+  "cities": [
+    {
+      "name": "都柏林",
+      "name_en": "Dublin",
+      "province": "伦斯特省",
+      "latitude": 53.3331,
+      "longitude": -6.2489,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "南都柏林郡",
+      "name_en": "South Dublin",
+      "province": "伦斯特省",
+      "latitude": 53.2903,
+      "longitude": -6.3415,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "科克",
+      "name_en": "Cork",
+      "province": "芒斯特省",
+      "latitude": 51.898,
+      "longitude": -8.4706,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Limerick",
+      "province": "芒斯特省",
+      "latitude": 52.6647,
+      "longitude": -8.6231,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "戈尔韦",
+      "name_en": "Galway",
+      "province": "Connacht",
+      "latitude": 53.2724,
+      "longitude": -9.051,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "塔拉",
+      "name_en": "Tallaght",
+      "province": "伦斯特省",
+      "latitude": 53.2859,
+      "longitude": -6.3734,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "沃特福德",
+      "name_en": "Waterford",
+      "province": "芒斯特省",
+      "latitude": 52.2583,
+      "longitude": -7.1119,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "斯沃司",
+      "name_en": "Swords",
+      "province": "伦斯特省",
+      "latitude": 53.4597,
+      "longitude": -6.2181,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "德罗赫达",
+      "name_en": "Drogheda",
+      "province": "伦斯特省",
+      "latitude": 53.7189,
+      "longitude": -6.3478,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "邓多克",
+      "name_en": "Dundalk",
+      "province": "伦斯特省",
+      "latitude": 54.0,
+      "longitude": -6.4167,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "布雷",
+      "name_en": "Bray",
+      "province": "伦斯特省",
+      "latitude": 53.2028,
+      "longitude": -6.0983,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "道格拉斯",
+      "name_en": "Douglas",
+      "province": "芒斯特省",
+      "latitude": 51.8744,
+      "longitude": -8.435,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "邓莱里",
+      "name_en": "Dún Laoghaire",
+      "province": "伦斯特省",
+      "latitude": 53.294,
+      "longitude": -6.1359,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "恩尼斯",
+      "name_en": "Ennis",
+      "province": "芒斯特省",
+      "latitude": 52.8436,
+      "longitude": -8.9864,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "纳文",
+      "name_en": "Navan",
+      "province": "伦斯特省",
+      "latitude": 53.6528,
+      "longitude": -6.6814,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Carlow",
+      "province": "伦斯特省",
+      "latitude": 52.8408,
+      "longitude": -6.9261,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "特拉利",
+      "name_en": "Tralee",
+      "province": "芒斯特省",
+      "latitude": 52.2704,
+      "longitude": -9.7026,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Droichead Nua",
+      "province": "伦斯特省",
+      "latitude": 53.1819,
+      "longitude": -6.7967,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "桑迪福德",
+      "name_en": "Sandyford",
+      "province": "伦斯特省",
+      "latitude": 53.2747,
+      "longitude": -6.2253,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "巴尔布里根",
+      "name_en": "Balbriggan",
+      "province": "伦斯特省",
+      "latitude": 53.6085,
+      "longitude": -6.1831,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Kilkenny",
+      "province": "伦斯特省",
+      "latitude": 52.6542,
+      "longitude": -7.2522,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "阿斯隆",
+      "name_en": "Athlone",
+      "province": "伦斯特省",
+      "latitude": 53.4228,
+      "longitude": -7.9372,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "内斯",
+      "name_en": "Naas",
+      "province": "伦斯特省",
+      "latitude": 53.2158,
+      "longitude": -6.6669,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "塞尔布里奇",
+      "name_en": "Celbridge",
+      "province": "伦斯特省",
+      "latitude": 53.3417,
+      "longitude": -6.5442,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Wexford",
+      "province": "伦斯特省",
+      "latitude": 52.3342,
+      "longitude": -6.4575,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Finglas",
+      "province": "伦斯特省",
+      "latitude": 53.3892,
+      "longitude": -6.2969,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "莱特肯尼",
+      "name_en": "Letterkenny",
+      "province": "阿尔斯特省",
+      "latitude": 54.95,
+      "longitude": -7.7333,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Sligo",
+      "province": "Connacht",
+      "latitude": 54.2697,
+      "longitude": -8.4694,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "巴林科利格",
+      "name_en": "Ballincollig",
+      "province": "芒斯特省",
+      "latitude": 51.8833,
+      "longitude": -8.5833,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "格雷斯通",
+      "name_en": "Greystones",
+      "province": "伦斯特省",
+      "latitude": 53.1408,
+      "longitude": -6.0631,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "拉斯法奈姆",
+      "name_en": "Rathfarnham",
+      "province": "伦斯特省",
+      "latitude": 53.3006,
+      "longitude": -6.2828,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "An Muileann gCearr",
+      "province": "伦斯特省",
+      "latitude": 53.5247,
+      "longitude": -7.3385,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Cluain Meala",
+      "province": "芒斯特省",
+      "latitude": 52.355,
+      "longitude": -7.7039,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "马拉海德",
+      "name_en": "Malahide",
+      "province": "伦斯特省",
+      "latitude": 53.4508,
+      "longitude": -6.1544,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "布兰查斯顿",
+      "name_en": "Blanchardstown",
+      "province": "伦斯特省",
+      "latitude": 53.3881,
+      "longitude": -6.3756,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "卡里格莱恩",
+      "name_en": "Carrigaline",
+      "province": "芒斯特省",
+      "latitude": 51.8117,
+      "longitude": -8.3986,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "莱克斯利普",
+      "name_en": "Leixlip",
+      "province": "伦斯特省",
+      "latitude": 53.3658,
+      "longitude": -6.4956,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Donaghmede",
+      "province": "伦斯特省",
+      "latitude": 53.3984,
+      "longitude": -6.1618,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "卢肯",
+      "name_en": "Lucan",
+      "province": "伦斯特省",
+      "latitude": 53.3574,
+      "longitude": -6.4486,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Kilquade",
+      "province": "伦斯特省",
+      "latitude": 53.0974,
+      "longitude": -6.0841,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Castletroy",
+      "province": "芒斯特省",
+      "latitude": 52.6735,
+      "longitude": -8.5533,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Knocklyon",
+      "province": "伦斯特省",
+      "latitude": 53.2803,
+      "longitude": -6.3313,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "梅努斯",
+      "name_en": "Maynooth",
+      "province": "伦斯特省",
+      "latitude": 53.385,
+      "longitude": -6.5936,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Clondalkin",
+      "province": "伦斯特省",
+      "latitude": 53.3244,
+      "longitude": -6.3972,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Killarney",
+      "province": "芒斯特省",
+      "latitude": 52.0598,
+      "longitude": -9.5086,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "香基尔",
+      "name_en": "Shankill",
+      "province": "伦斯特省",
+      "latitude": 53.2261,
+      "longitude": -6.1244,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Wicklow",
+      "province": "伦斯特省",
+      "latitude": 52.975,
+      "longitude": -6.0494,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Portlaoise",
+      "province": "伦斯特省",
+      "latitude": 53.0344,
+      "longitude": -7.2998,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "阿克洛",
+      "name_en": "Arklow",
+      "province": "伦斯特省",
+      "latitude": 52.7944,
+      "longitude": -6.1496,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "卡斯尔巴",
+      "name_en": "Castlebar",
+      "province": "Connacht",
+      "latitude": 53.85,
+      "longitude": -9.3,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "福克斯罗克",
+      "name_en": "Foxrock",
+      "province": "伦斯特省",
+      "latitude": 53.2667,
+      "longitude": -6.1742,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "科芙",
+      "name_en": "Cobh",
+      "province": "芒斯特省",
+      "latitude": 51.8505,
+      "longitude": -8.2948,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Ashbourne",
+      "province": "伦斯特省",
+      "latitude": 53.5116,
+      "longitude": -6.3982,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "米德勒顿",
+      "name_en": "Midleton",
+      "province": "芒斯特省",
+      "latitude": 51.9153,
+      "longitude": -8.1805,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "马罗",
+      "name_en": "Mallow",
+      "province": "芒斯特省",
+      "latitude": 52.1333,
+      "longitude": -8.6333,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "邓德拉姆",
+      "name_en": "Dundrum",
+      "province": "伦斯特省",
+      "latitude": 53.2907,
+      "longitude": -6.2571,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "塔拉莫尔",
+      "name_en": "Tullamore",
+      "province": "伦斯特省",
+      "latitude": 53.2739,
+      "longitude": -7.4889,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Crumlin",
+      "province": "伦斯特省",
+      "latitude": 53.3215,
+      "longitude": -6.3144,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "帕默斯顿",
+      "name_en": "Palmerstown",
+      "province": "伦斯特省",
+      "latitude": 53.3502,
+      "longitude": -6.3778,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Rathmines",
+      "province": "伦斯特省",
+      "latitude": 53.3203,
+      "longitude": -6.2633,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Marino",
+      "province": "伦斯特省",
+      "latitude": 53.3702,
+      "longitude": -6.2365,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Laytown",
+      "province": "伦斯特省",
+      "latitude": 53.6819,
+      "longitude": -6.2392,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Jobstown",
+      "province": "伦斯特省",
+      "latitude": 53.2787,
+      "longitude": -6.408,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Donnybrook",
+      "province": "伦斯特省",
+      "latitude": 53.3137,
+      "longitude": -6.2227,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "特拉莫尔",
+      "name_en": "Trá Mhór",
+      "province": "芒斯特省",
+      "latitude": 52.1624,
+      "longitude": -7.1524,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "巴利纳",
+      "name_en": "Ballina",
+      "province": "Connacht",
+      "latitude": 54.1167,
+      "longitude": -9.1667,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Skerries",
+      "province": "伦斯特省",
+      "latitude": 53.5828,
+      "longitude": -6.1083,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Cabinteely",
+      "province": "伦斯特省",
+      "latitude": 53.2697,
+      "longitude": -6.1606,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "哥里",
+      "name_en": "Gorey",
+      "province": "伦斯特省",
+      "latitude": 52.6747,
+      "longitude": -6.2925,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Oldbawn",
+      "province": "伦斯特省",
+      "latitude": 53.2756,
+      "longitude": -6.3675,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Shannon",
+      "province": "芒斯特省",
+      "latitude": 52.7039,
+      "longitude": -8.8642,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "恩尼斯科西",
+      "name_en": "Enniscorthy",
+      "province": "伦斯特省",
+      "latitude": 52.5008,
+      "longitude": -6.5578,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Athy",
+      "province": "伦斯特省",
+      "latitude": 52.9914,
+      "longitude": -6.9803,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "图尔姆",
+      "name_en": "Tuam",
+      "province": "Connacht",
+      "latitude": 53.5167,
+      "longitude": -8.85,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Ballyboden",
+      "province": "伦斯特省",
+      "latitude": 53.2806,
+      "longitude": -6.3164,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "特里姆",
+      "name_en": "Trim",
+      "province": "伦斯特省",
+      "latitude": 53.555,
+      "longitude": -6.7917,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "波特马诺克",
+      "name_en": "Portmarnock",
+      "province": "伦斯特省",
+      "latitude": 53.4231,
+      "longitude": -6.1375,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "An Ros",
+      "province": "伦斯特省",
+      "latitude": 53.5242,
+      "longitude": -6.105,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Balally",
+      "province": "伦斯特省",
+      "latitude": 53.275,
+      "longitude": -6.2359,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Ratoath",
+      "province": "伦斯特省",
+      "latitude": 53.5081,
+      "longitude": -6.4625,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Sandymount",
+      "province": "伦斯特省",
+      "latitude": 53.3282,
+      "longitude": -6.2222,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Glanmire",
+      "province": "芒斯特省",
+      "latitude": 51.9158,
+      "longitude": -8.3997,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "布莱克罗克",
+      "name_en": "Blackrock",
+      "province": "伦斯特省",
+      "latitude": 53.3015,
+      "longitude": -6.1778,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Kildare",
+      "province": "伦斯特省",
+      "latitude": 53.1561,
+      "longitude": -6.9144,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Beaumont",
+      "province": "伦斯特省",
+      "latitude": 53.3872,
+      "longitude": -6.2271,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Ballyfermot",
+      "province": "伦斯特省",
+      "latitude": 53.3428,
+      "longitude": -6.3548,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Ballinteer",
+      "province": "伦斯特省",
+      "latitude": 53.2741,
+      "longitude": -6.254,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "拉斯加",
+      "name_en": "Rathgar",
+      "province": "伦斯特省",
+      "latitude": 53.3146,
+      "longitude": -6.275,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "卡索诺",
+      "name_en": "Castleknock",
+      "province": "伦斯特省",
+      "latitude": 53.3748,
+      "longitude": -6.3634,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Howth",
+      "province": "伦斯特省",
+      "latitude": 53.3878,
+      "longitude": -6.0653,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Ringsend",
+      "province": "伦斯特省",
+      "latitude": 53.3419,
+      "longitude": -6.2264,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Baldoyle",
+      "province": "伦斯特省",
+      "latitude": 53.3997,
+      "longitude": -6.1258,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "新罗斯",
+      "name_en": "New Ross",
+      "province": "伦斯特省",
+      "latitude": 52.3967,
+      "longitude": -6.9367,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Little Bray",
+      "province": "伦斯特省",
+      "latitude": 53.2044,
+      "longitude": -6.1208,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "雅各哈",
+      "name_en": "Youghal",
+      "province": "芒斯特省",
+      "latitude": 51.95,
+      "longitude": -7.8506,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "瑟勒斯",
+      "name_en": "Thurles",
+      "province": "芒斯特省",
+      "latitude": 52.6819,
+      "longitude": -7.8022,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Cherry Orchard",
+      "province": "伦斯特省",
+      "latitude": 53.3361,
+      "longitude": -6.378,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Monaghan",
+      "province": "阿尔斯特省",
+      "latitude": 54.2459,
+      "longitude": -6.971,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Mount Merrion",
+      "province": "伦斯特省",
+      "latitude": 53.3001,
+      "longitude": -6.215,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Portarlington",
+      "province": "伦斯特省",
+      "latitude": 53.1622,
+      "longitude": -7.1911,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "朗福德",
+      "name_en": "Longford",
+      "province": "伦斯特省",
+      "latitude": 53.7254,
+      "longitude": -7.7982,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "卢斯克",
+      "name_en": "Lusk",
+      "province": "伦斯特省",
+      "latitude": 53.5274,
+      "longitude": -6.1642,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Terenure",
+      "province": "伦斯特省",
+      "latitude": 53.3097,
+      "longitude": -6.2853,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Donnycarney",
+      "province": "伦斯特省",
+      "latitude": 53.3735,
+      "longitude": -6.2098,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "邓加文",
+      "name_en": "Dungarvan",
+      "province": "芒斯特省",
+      "latitude": 52.0881,
+      "longitude": -7.6253,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Donabate",
+      "province": "伦斯特省",
+      "latitude": 53.4872,
+      "longitude": -6.1519,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Edenderry",
+      "province": "伦斯特省",
+      "latitude": 53.3395,
+      "longitude": -7.0475,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Clane",
+      "province": "伦斯特省",
+      "latitude": 53.2914,
+      "longitude": -6.6892,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Dunboyne",
+      "province": "伦斯特省",
+      "latitude": 53.419,
+      "longitude": -6.4737,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "拉赫尼",
+      "name_en": "Raheny",
+      "province": "伦斯特省",
+      "latitude": 53.3868,
+      "longitude": -6.1807,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Booterstown",
+      "province": "伦斯特省",
+      "latitude": 53.3045,
+      "longitude": -6.1998,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Templeogue",
+      "province": "伦斯特省",
+      "latitude": 53.2953,
+      "longitude": -6.3089,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "班顿",
+      "name_en": "Bandon",
+      "province": "芒斯特省",
+      "latitude": 51.7469,
+      "longitude": -8.7425,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Sallynoggin",
+      "province": "伦斯特省",
+      "latitude": 53.2792,
+      "longitude": -6.1406,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Greenhills",
+      "province": "伦斯特省",
+      "latitude": 53.3347,
+      "longitude": -6.303,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Firhouse",
+      "province": "伦斯特省",
+      "latitude": 53.2817,
+      "longitude": -6.3392,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Walkinstown",
+      "province": "伦斯特省",
+      "latitude": 53.3296,
+      "longitude": -6.3396,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Buncrana",
+      "province": "阿尔斯特省",
+      "latitude": 55.1333,
+      "longitude": -7.45,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Newtown Trim",
+      "province": "伦斯特省",
+      "latitude": 53.5561,
+      "longitude": -6.77,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Nenagh Bridge",
+      "province": "芒斯特省",
+      "latitude": 52.8817,
+      "longitude": -8.1958,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Ballinasloe",
+      "province": "Connacht",
+      "latitude": 53.3275,
+      "longitude": -8.2194,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Dalkey",
+      "province": "伦斯特省",
+      "latitude": 53.2783,
+      "longitude": -6.1003,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "西纽卡斯尔",
+      "name_en": "Newcastle West",
+      "province": "芒斯特省",
+      "latitude": 52.4492,
+      "longitude": -9.0611,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "佛摩伊",
+      "name_en": "Fermoy",
+      "province": "芒斯特省",
+      "latitude": 52.1358,
+      "longitude": -8.2758,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "卡文",
+      "name_en": "Cavan",
+      "province": "阿尔斯特省",
+      "latitude": 53.9908,
+      "longitude": -7.3606,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Cherryville",
+      "province": "伦斯特省",
+      "latitude": 53.1569,
+      "longitude": -6.9667,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "巴利蒙",
+      "name_en": "Ballymun",
+      "province": "伦斯特省",
+      "latitude": 53.3981,
+      "longitude": -6.2669,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Westport",
+      "province": "Connacht",
+      "latitude": 53.8,
+      "longitude": -9.5167,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Hartstown",
+      "province": "伦斯特省",
+      "latitude": 53.3931,
+      "longitude": -6.4269,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Passage West",
+      "province": "芒斯特省",
+      "latitude": 51.8708,
+      "longitude": -8.3355,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Kinsealy-Drinan",
+      "province": "伦斯特省",
+      "latitude": 53.444,
+      "longitude": -6.2033,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Carrick-on-Suir",
+      "province": "芒斯特省",
+      "latitude": 52.3492,
+      "longitude": -7.4131,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Birr",
+      "province": "伦斯特省",
+      "latitude": 53.0914,
+      "longitude": -7.9133,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "罗斯康芒",
+      "name_en": "Roscommon",
+      "province": "Connacht",
+      "latitude": 53.6333,
+      "longitude": -8.1833,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Sutton",
+      "province": "伦斯特省",
+      "latitude": 53.3895,
+      "longitude": -6.1106,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Darndale",
+      "province": "伦斯特省",
+      "latitude": 53.3995,
+      "longitude": -6.1889,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Loughrea",
+      "province": "Connacht",
+      "latitude": 53.1969,
+      "longitude": -8.5669,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Monkstown",
+      "province": "伦斯特省",
+      "latitude": 53.2931,
+      "longitude": -6.1531,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Kilcock",
+      "province": "伦斯特省",
+      "latitude": 53.4022,
+      "longitude": -6.6708,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "布莱辛顿",
+      "name_en": "Blessington",
+      "province": "伦斯特省",
+      "latitude": 53.17,
+      "longitude": -6.5325,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "尼纳",
+      "name_en": "Nenagh",
+      "province": "芒斯特省",
+      "latitude": 52.8628,
+      "longitude": -8.1995,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Roscrea",
+      "province": "芒斯特省",
+      "latitude": 52.9511,
+      "longitude": -7.8017,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Confey",
+      "province": "伦斯特省",
+      "latitude": 53.3792,
+      "longitude": -6.4905,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Eadestown",
+      "province": "伦斯特省",
+      "latitude": 53.2027,
+      "longitude": -6.5777,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Artane",
+      "province": "伦斯特省",
+      "latitude": 53.3871,
+      "longitude": -6.2138,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "恰佩利佐德",
+      "name_en": "Chapelizod",
+      "province": "伦斯特省",
+      "latitude": 53.3485,
+      "longitude": -6.343,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Sallins",
+      "province": "伦斯特省",
+      "latitude": 53.2489,
+      "longitude": -6.6661,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Kinsale",
+      "province": "芒斯特省",
+      "latitude": 51.7075,
+      "longitude": -8.5306,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Killester",
+      "province": "伦斯特省",
+      "latitude": 53.3732,
+      "longitude": -6.2043,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Carrigtwohill",
+      "province": "芒斯特省",
+      "latitude": 51.9083,
+      "longitude": -8.2633,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Dollymount",
+      "province": "伦斯特省",
+      "latitude": 53.3649,
+      "longitude": -6.1803,
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "name": "",
+      "name_en": "Carrickmacross",
+      "province": "阿尔斯特省",
+      "latitude": 53.9728,
+      "longitude": -6.7189,
+      "timezone": "Europe/Dublin"
+    }
+  ]
+}

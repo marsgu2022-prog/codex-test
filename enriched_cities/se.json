@@ -1,0 +1,2230 @@
+{
+  "country_code": "SE",
+  "country_name": "瑞典",
+  "cities": [
+    {
+      "name": "斯德哥尔摩",
+      "name_en": "Stockholm",
+      "province": "Stockholm",
+      "latitude": 59.3294,
+      "longitude": 18.0687,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "哥德堡",
+      "name_en": "Göteborg",
+      "province": "西约塔兰省",
+      "latitude": 57.7072,
+      "longitude": 11.9668,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "马尔默",
+      "name_en": "Malmö",
+      "province": "斯科讷省",
+      "latitude": 55.6059,
+      "longitude": 13.0007,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "乌普萨拉",
+      "name_en": "Uppsala",
+      "province": "乌普萨拉省",
+      "latitude": 59.8588,
+      "longitude": 17.6389,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "林雪平",
+      "name_en": "Linköping",
+      "province": "东约特兰省",
+      "latitude": 58.4109,
+      "longitude": 15.6216,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "厄勒布鲁",
+      "name_en": "Örebro",
+      "province": "厄勒布鲁省",
+      "latitude": 59.2741,
+      "longitude": 15.2066,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Sollentuna",
+      "province": "Stockholm",
+      "latitude": 59.428,
+      "longitude": 17.9509,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "于默奥",
+      "name_en": "Umeå",
+      "province": "西博滕省",
+      "latitude": 63.8284,
+      "longitude": 20.2597,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "韦斯特罗斯",
+      "name_en": "Västerås",
+      "province": "西曼兰省",
+      "latitude": 59.6162,
+      "longitude": 16.5528,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Södermalm",
+      "province": "Stockholm",
+      "latitude": 59.3128,
+      "longitude": 18.0758,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "延雪平",
+      "name_en": "Jönköping",
+      "province": "延雪平省",
+      "latitude": 57.7814,
+      "longitude": 14.1562,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "赫尔辛堡",
+      "name_en": "Helsingborg",
+      "province": "斯科讷省",
+      "latitude": 56.0467,
+      "longitude": 12.6944,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "北雪平",
+      "name_en": "Norrköping",
+      "province": "东约特兰省",
+      "latitude": 58.5942,
+      "longitude": 16.1826,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Huddinge",
+      "province": "Stockholm",
+      "latitude": 59.2371,
+      "longitude": 17.9819,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "隆德",
+      "name_en": "Lund",
+      "province": "斯科讷省",
+      "latitude": 55.7058,
+      "longitude": 13.1932,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "吕勒奥",
+      "name_en": "Luleå",
+      "province": "北博滕省",
+      "latitude": 65.5841,
+      "longitude": 22.1547,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Haninge",
+      "province": "Stockholm",
+      "latitude": 59.1677,
+      "longitude": 18.1448,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "耶夫勒",
+      "name_en": "Gävle",
+      "province": "耶夫勒堡省",
+      "latitude": 60.6745,
+      "longitude": 17.1417,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Bromma",
+      "province": "Stockholm",
+      "latitude": 59.34,
+      "longitude": 17.94,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "布罗斯",
+      "name_en": "Borås",
+      "province": "西约塔兰省",
+      "latitude": 57.721,
+      "longitude": 12.9401,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "韦克舍",
+      "name_en": "Växjö",
+      "province": "克鲁努贝里省",
+      "latitude": 56.8777,
+      "longitude": 14.8091,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "南泰利耶",
+      "name_en": "Södertälje",
+      "province": "Stockholm",
+      "latitude": 59.1955,
+      "longitude": 17.6253,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "哈尔姆斯塔德",
+      "name_en": "Halmstad",
+      "province": "哈兰省",
+      "latitude": 56.6745,
+      "longitude": 12.8568,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Kungsholmen",
+      "province": "Stockholm",
+      "latitude": 59.3318,
+      "longitude": 18.0412,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "埃斯基尔斯蒂纳",
+      "name_en": "Eskilstuna",
+      "province": "南曼兰省",
+      "latitude": 59.3666,
+      "longitude": 16.5077,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Solna",
+      "province": "Stockholm",
+      "latitude": 59.36,
+      "longitude": 18.0009,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "卡尔斯克鲁纳",
+      "name_en": "Karlskrona",
+      "province": "布莱金厄省",
+      "latitude": 56.1616,
+      "longitude": 15.5866,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "卡尔斯塔德",
+      "name_en": "Karlstad",
+      "province": "韦姆兰省",
+      "latitude": 59.3793,
+      "longitude": 13.5036,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Mölndal",
+      "province": "西约塔兰省",
+      "latitude": 57.6554,
+      "longitude": 12.0138,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Vasastaden",
+      "province": "Stockholm",
+      "latitude": 59.35,
+      "longitude": 18.0333,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Täby",
+      "province": "Stockholm",
+      "latitude": 59.4439,
+      "longitude": 18.0687,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "松兹瓦尔",
+      "name_en": "Sundsvall",
+      "province": "西诺尔兰省",
+      "latitude": 62.3913,
+      "longitude": 17.3063,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "厄斯特松德",
+      "name_en": "Östersund",
+      "province": "耶姆特兰省",
+      "latitude": 63.1792,
+      "longitude": 14.6357,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "特罗尔海坦",
+      "name_en": "Trollhättan",
+      "province": "西约塔兰省",
+      "latitude": 58.2837,
+      "longitude": 12.2886,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Lidingö",
+      "province": "Stockholm",
+      "latitude": 59.3667,
+      "longitude": 18.1333,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Borlänge",
+      "province": "达拉纳省",
+      "latitude": 60.4858,
+      "longitude": 15.4371,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Tumba",
+      "province": "Stockholm",
+      "latitude": 59.1986,
+      "longitude": 17.8332,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "克里斯蒂安斯塔德",
+      "name_en": "Kristianstad",
+      "province": "斯科讷省",
+      "latitude": 56.0313,
+      "longitude": 14.1524,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "尼雪平",
+      "name_en": "Nyköping",
+      "province": "南曼兰省",
+      "latitude": 58.753,
+      "longitude": 17.0079,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "卡尔马",
+      "name_en": "Kalmar",
+      "province": "卡尔马省",
+      "latitude": 56.6616,
+      "longitude": 16.3616,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "法伦",
+      "name_en": "Falun",
+      "province": "达拉纳省",
+      "latitude": 60.6036,
+      "longitude": 15.626,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "舍夫德",
+      "name_en": "Skövde",
+      "province": "西约塔兰省",
+      "latitude": 58.3912,
+      "longitude": 13.8451,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Upplands Väsby",
+      "province": "Stockholm",
+      "latitude": 59.5184,
+      "longitude": 17.9113,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Östermalm",
+      "province": "Stockholm",
+      "latitude": 59.3388,
+      "longitude": 18.0849,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "谢莱夫特奥",
+      "name_en": "Skellefteå",
+      "province": "西博滕省",
+      "latitude": 64.7507,
+      "longitude": 20.9528,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "乌德瓦拉",
+      "name_en": "Uddevalla",
+      "province": "西约塔兰省",
+      "latitude": 58.3478,
+      "longitude": 11.9424,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Sundbyberg",
+      "province": "Stockholm",
+      "latitude": 59.3613,
+      "longitude": 17.9711,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "瓦尔贝里",
+      "name_en": "Varberg",
+      "province": "哈兰省",
+      "latitude": 57.1056,
+      "longitude": 12.2508,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Åkersberga",
+      "province": "Stockholm",
+      "latitude": 59.4794,
+      "longitude": 18.2997,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "恩舍尔兹维克",
+      "name_en": "Örnsköldsvik",
+      "province": "西诺尔兰省",
+      "latitude": 63.2909,
+      "longitude": 18.7153,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Danderyd",
+      "province": "Stockholm",
+      "latitude": 59.404,
+      "longitude": 18.0238,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "兰斯克鲁纳",
+      "name_en": "Landskrona",
+      "province": "斯科讷省",
+      "latitude": 55.8708,
+      "longitude": 12.8302,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Vallentuna",
+      "province": "Stockholm",
+      "latitude": 59.5344,
+      "longitude": 18.0776,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Motala",
+      "province": "东约特兰省",
+      "latitude": 58.5371,
+      "longitude": 15.0365,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "特雷勒堡",
+      "name_en": "Trelleborg",
+      "province": "斯科讷省",
+      "latitude": 55.3751,
+      "longitude": 13.1569,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Majorna",
+      "province": "西约塔兰省",
+      "latitude": 57.6919,
+      "longitude": 11.9161,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Partille",
+      "province": "西约塔兰省",
+      "latitude": 57.7395,
+      "longitude": 12.1064,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "卡尔斯库加",
+      "name_en": "Karlskoga",
+      "province": "厄勒布鲁省",
+      "latitude": 59.3267,
+      "longitude": 14.5239,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "迈什塔",
+      "name_en": "Märsta",
+      "province": "Stockholm",
+      "latitude": 59.6216,
+      "longitude": 17.8548,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Lerum",
+      "province": "西约塔兰省",
+      "latitude": 57.7705,
+      "longitude": 12.269,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "阿灵索斯",
+      "name_en": "Alingsås",
+      "province": "西约塔兰省",
+      "latitude": 57.9303,
+      "longitude": 12.5335,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Nacka",
+      "province": "Stockholm",
+      "latitude": 59.3105,
+      "longitude": 18.1637,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "海讷桑德",
+      "name_en": "Härnösand",
+      "province": "西诺尔兰省",
+      "latitude": 62.6323,
+      "longitude": 17.9379,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "桑德维肯",
+      "name_en": "Sandviken",
+      "province": "耶夫勒堡省",
+      "latitude": 60.6167,
+      "longitude": 16.7667,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "孔艾尔夫",
+      "name_en": "Kungälv",
+      "province": "西约塔兰省",
+      "latitude": 57.871,
+      "longitude": 11.9805,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "法尔肯贝里",
+      "name_en": "Falkenberg",
+      "province": "哈兰省",
+      "latitude": 56.9055,
+      "longitude": 12.4912,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Boo",
+      "province": "Stockholm",
+      "latitude": 59.3333,
+      "longitude": 18.2833,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Jakobsberg",
+      "province": "Stockholm",
+      "latitude": 59.4227,
+      "longitude": 17.8351,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "维斯比",
+      "name_en": "Visby",
+      "province": "哥得兰省",
+      "latitude": 57.6409,
+      "longitude": 18.296,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "卡特琳娜霍尔姆",
+      "name_en": "Katrineholm",
+      "province": "南曼兰省",
+      "latitude": 58.9959,
+      "longitude": 16.2072,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Ängelholm",
+      "province": "斯科讷省",
+      "latitude": 56.2428,
+      "longitude": 12.8622,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "维纳什堡",
+      "name_en": "Vänersborg",
+      "province": "西约塔兰省",
+      "latitude": 58.3807,
+      "longitude": 12.3234,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Björlanda",
+      "province": "西约塔兰省",
+      "latitude": 57.7667,
+      "longitude": 11.8333,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "皮特奥",
+      "name_en": "Piteå",
+      "province": "北博滕省",
+      "latitude": 65.3172,
+      "longitude": 21.4794,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "利德雪平",
+      "name_en": "Lidköping",
+      "province": "西约塔兰省",
+      "latitude": 58.5052,
+      "longitude": 13.1577,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Enköping",
+      "province": "乌普萨拉省",
+      "latitude": 59.6361,
+      "longitude": 17.0777,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Huskvarna",
+      "province": "延雪平省",
+      "latitude": 57.786,
+      "longitude": 14.3021,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Västervik",
+      "province": "卡尔马省",
+      "latitude": 57.7584,
+      "longitude": 16.6373,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Gustavsberg",
+      "province": "Stockholm",
+      "latitude": 59.3268,
+      "longitude": 18.3897,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "卡尔斯港",
+      "name_en": "Karlshamn",
+      "province": "布莱金厄省",
+      "latitude": 56.1706,
+      "longitude": 14.8619,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "诺尔泰利耶",
+      "name_en": "Norrtälje",
+      "province": "Stockholm",
+      "latitude": 59.758,
+      "longitude": 18.705,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Rinkeby",
+      "province": "Stockholm",
+      "latitude": 59.3871,
+      "longitude": 17.9275,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "海斯勒霍尔姆",
+      "name_en": "Hässleholm",
+      "province": "斯科讷省",
+      "latitude": 56.1591,
+      "longitude": 13.7664,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Värnamo",
+      "province": "延雪平省",
+      "latitude": 57.186,
+      "longitude": 14.04,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Hässelby Villastad",
+      "province": "Stockholm",
+      "latitude": 59.38,
+      "longitude": 17.8087,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "于斯塔德",
+      "name_en": "Ystad",
+      "province": "斯科讷省",
+      "latitude": 55.4297,
+      "longitude": 13.8204,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "孔斯巴卡",
+      "name_en": "Kungsbacka",
+      "province": "哈兰省",
+      "latitude": 57.4872,
+      "longitude": 12.0761,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Eslöv",
+      "province": "斯科讷省",
+      "latitude": 55.8393,
+      "longitude": 13.3039,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "克里斯蒂娜港",
+      "name_en": "Kristinehamn",
+      "province": "韦姆兰省",
+      "latitude": 59.3098,
+      "longitude": 14.1081,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Köping",
+      "province": "西曼兰省",
+      "latitude": 59.514,
+      "longitude": 15.9925,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "奥斯卡港",
+      "name_en": "Oskarshamn",
+      "province": "卡尔马省",
+      "latitude": 57.2645,
+      "longitude": 16.4484,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Gamla Uppsala",
+      "province": "乌普萨拉省",
+      "latitude": 59.8982,
+      "longitude": 17.6339,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "奈舍",
+      "name_en": "Nässjö",
+      "province": "延雪平省",
+      "latitude": 57.6531,
+      "longitude": 14.6968,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Mölnlycke",
+      "province": "西约塔兰省",
+      "latitude": 57.6589,
+      "longitude": 12.1179,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "法尔雪平",
+      "name_en": "Falköping",
+      "province": "西约塔兰省",
+      "latitude": 58.1735,
+      "longitude": 13.5507,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Tensta",
+      "province": "Stockholm",
+      "latitude": 59.3939,
+      "longitude": 17.9011,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "基律纳",
+      "name_en": "Kiruna",
+      "province": "北博滕省",
+      "latitude": 67.8557,
+      "longitude": 20.2251,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Råsunda",
+      "province": "Stockholm",
+      "latitude": 59.3659,
+      "longitude": 17.9957,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Boden",
+      "province": "北博滕省",
+      "latitude": 65.8252,
+      "longitude": 21.6886,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Årsta",
+      "province": "Stockholm",
+      "latitude": 59.2978,
+      "longitude": 18.0514,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Kumla",
+      "province": "厄勒布鲁省",
+      "latitude": 59.1277,
+      "longitude": 15.1434,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "玛丽斯塔德",
+      "name_en": "Mariestad",
+      "province": "西约塔兰省",
+      "latitude": 58.7097,
+      "longitude": 13.8237,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "胡迪克斯瓦尔",
+      "name_en": "Hudiksvall",
+      "province": "耶夫勒堡省",
+      "latitude": 61.7274,
+      "longitude": 17.1056,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Tullinge",
+      "province": "Stockholm",
+      "latitude": 59.2,
+      "longitude": 17.9,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Västra Frölunda",
+      "province": "西约塔兰省",
+      "latitude": 57.6467,
+      "longitude": 11.9294,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "永比",
+      "name_en": "Ljungby",
+      "province": "克鲁努贝里省",
+      "latitude": 56.8332,
+      "longitude": 13.9408,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Staffanstorp",
+      "province": "斯科讷省",
+      "latitude": 55.6428,
+      "longitude": 13.2064,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "卢德维卡",
+      "name_en": "Ludvika",
+      "province": "达拉纳省",
+      "latitude": 60.1496,
+      "longitude": 15.1878,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Kinna",
+      "province": "西约塔兰省",
+      "latitude": 57.5073,
+      "longitude": 12.6946,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Höllviken",
+      "province": "斯科讷省",
+      "latitude": 55.4098,
+      "longitude": 12.9558,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Billdal",
+      "province": "西约塔兰省",
+      "latitude": 57.5667,
+      "longitude": 11.9333,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Höganäs",
+      "province": "斯科讷省",
+      "latitude": 56.1997,
+      "longitude": 12.5579,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Tranås",
+      "province": "延雪平省",
+      "latitude": 58.0372,
+      "longitude": 14.9782,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "尼奈斯港",
+      "name_en": "Nynäshamn",
+      "province": "Stockholm",
+      "latitude": 58.9034,
+      "longitude": 17.9479,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "阿尔维卡",
+      "name_en": "Arvika",
+      "province": "韦姆兰省",
+      "latitude": 59.6553,
+      "longitude": 12.5852,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "博尔奈斯",
+      "name_en": "Bollnäs",
+      "province": "耶夫勒堡省",
+      "latitude": 61.3482,
+      "longitude": 16.3946,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "斯特兰奈斯",
+      "name_en": "Strängnäs",
+      "province": "南曼兰省",
+      "latitude": 59.3774,
+      "longitude": 17.0312,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Skoghall",
+      "province": "韦姆兰省",
+      "latitude": 59.3232,
+      "longitude": 13.4655,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Vetlanda",
+      "province": "延雪平省",
+      "latitude": 57.4289,
+      "longitude": 15.0776,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Bålsta",
+      "province": "乌普萨拉省",
+      "latitude": 59.5671,
+      "longitude": 17.5278,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Stenungsund",
+      "province": "西约塔兰省",
+      "latitude": 58.0705,
+      "longitude": 11.8181,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Sala",
+      "province": "西曼兰省",
+      "latitude": 59.9199,
+      "longitude": 16.6065,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Bunkeflostrand",
+      "province": "斯科讷省",
+      "latitude": 55.5448,
+      "longitude": 12.9238,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Nybro",
+      "province": "卡尔马省",
+      "latitude": 56.7446,
+      "longitude": 15.9071,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Mjölby",
+      "province": "东约特兰省",
+      "latitude": 58.3259,
+      "longitude": 15.1236,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Finspång",
+      "province": "东约特兰省",
+      "latitude": 58.7058,
+      "longitude": 15.7674,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Oxie",
+      "province": "斯科讷省",
+      "latitude": 55.5401,
+      "longitude": 13.096,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "龙讷比",
+      "name_en": "Ronneby",
+      "province": "布莱金厄省",
+      "latitude": 56.21,
+      "longitude": 15.276,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Mora",
+      "province": "达拉纳省",
+      "latitude": 61.007,
+      "longitude": 14.5432,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Lomma",
+      "province": "斯科讷省",
+      "latitude": 55.6724,
+      "longitude": 13.0685,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Onsala",
+      "province": "哈兰省",
+      "latitude": 57.4253,
+      "longitude": 12.029,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "瑟德港",
+      "name_en": "Söderhamn",
+      "province": "耶夫勒堡省",
+      "latitude": 61.3037,
+      "longitude": 17.0592,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Höör",
+      "province": "斯科讷省",
+      "latitude": 55.9344,
+      "longitude": 13.5385,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Avesta",
+      "province": "达拉纳省",
+      "latitude": 60.1427,
+      "longitude": 16.1629,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Fagersta",
+      "province": "西曼兰省",
+      "latitude": 60.0042,
+      "longitude": 15.7932,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Svedala",
+      "province": "斯科讷省",
+      "latitude": 55.5079,
+      "longitude": 13.2352,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Handen",
+      "province": "Stockholm",
+      "latitude": 59.1681,
+      "longitude": 18.138,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Ekerö",
+      "province": "Stockholm",
+      "latitude": 59.291,
+      "longitude": 17.8121,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "斯卡拉",
+      "name_en": "Skara",
+      "province": "西约塔兰省",
+      "latitude": 58.3866,
+      "longitude": 13.4384,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Alby",
+      "province": "Stockholm",
+      "latitude": 59.2335,
+      "longitude": 17.8538,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Oxelösund",
+      "province": "南曼兰省",
+      "latitude": 58.6706,
+      "longitude": 17.1015,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "林多姆",
+      "name_en": "Lindome",
+      "province": "西约塔兰省",
+      "latitude": 57.5667,
+      "longitude": 12.0833,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "阿尔博加",
+      "name_en": "Arboga",
+      "province": "西曼兰省",
+      "latitude": 59.3939,
+      "longitude": 15.8388,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Hallstahammar",
+      "province": "西曼兰省",
+      "latitude": 59.614,
+      "longitude": 16.2285,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Jordbro",
+      "province": "Stockholm",
+      "latitude": 59.1497,
+      "longitude": 18.1167,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Ulricehamn",
+      "province": "西约塔兰省",
+      "latitude": 57.7916,
+      "longitude": 13.4142,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Bjuv",
+      "province": "斯科讷省",
+      "latitude": 56.0837,
+      "longitude": 12.9191,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Segeltorp",
+      "province": "Stockholm",
+      "latitude": 59.276,
+      "longitude": 17.9307,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Timrå",
+      "province": "西诺尔兰省",
+      "latitude": 62.4865,
+      "longitude": 17.3261,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "耶利瓦勒",
+      "name_en": "Gällivare",
+      "province": "北博滕省",
+      "latitude": 67.1339,
+      "longitude": 20.6528,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "希斯塔",
+      "name_en": "Kista",
+      "province": "Stockholm",
+      "latitude": 59.4032,
+      "longitude": 17.9448,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Gislaved",
+      "province": "延雪平省",
+      "latitude": 57.3044,
+      "longitude": 13.5408,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Eksjö",
+      "province": "延雪平省",
+      "latitude": 57.6664,
+      "longitude": 14.972,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Kungsängen",
+      "province": "Stockholm",
+      "latitude": 59.4786,
+      "longitude": 17.7483,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Torslanda",
+      "province": "西约塔兰省",
+      "latitude": 57.7243,
+      "longitude": 11.7701,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Vårby",
+      "province": "Stockholm",
+      "latitude": 59.2667,
+      "longitude": 17.8841,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Bjärred",
+      "province": "斯科讷省",
+      "latitude": 55.7167,
+      "longitude": 13.0167,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "奥胡斯",
+      "name_en": "Åhus",
+      "province": "斯科讷省",
+      "latitude": 55.9167,
+      "longitude": 14.2833,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Sävja",
+      "province": "乌普萨拉省",
+      "latitude": 59.8187,
+      "longitude": 17.6996,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "林德斯贝里",
+      "name_en": "Lindesberg",
+      "province": "厄勒布鲁省",
+      "latitude": 59.592,
+      "longitude": 15.2304,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Älmhult",
+      "province": "克鲁努贝里省",
+      "latitude": 56.5515,
+      "longitude": 14.1383,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "萨尔特舍巴登",
+      "name_en": "Saltsjöbaden",
+      "province": "Stockholm",
+      "latitude": 59.2833,
+      "longitude": 18.3,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "奥莫尔",
+      "name_en": "Åmål",
+      "province": "西约塔兰省",
+      "latitude": 59.051,
+      "longitude": 12.7049,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Kävlinge",
+      "province": "斯科讷省",
+      "latitude": 55.7919,
+      "longitude": 13.1102,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Älta",
+      "province": "Stockholm",
+      "latitude": 59.2667,
+      "longitude": 18.1833,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Åstorp",
+      "province": "斯科讷省",
+      "latitude": 56.1357,
+      "longitude": 12.9443,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Säffle",
+      "province": "韦姆兰省",
+      "latitude": 59.1323,
+      "longitude": 12.9289,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Arlöv",
+      "province": "斯科讷省",
+      "latitude": 55.6325,
+      "longitude": 13.0714,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "锡格蒂纳",
+      "name_en": "Sigtuna",
+      "province": "Stockholm",
+      "latitude": 59.6173,
+      "longitude": 17.7236,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "瑟尔沃斯堡",
+      "name_en": "Sölvesborg",
+      "province": "布莱金厄省",
+      "latitude": 56.0521,
+      "longitude": 14.5753,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "托什海拉",
+      "name_en": "Torshälla",
+      "province": "南曼兰省",
+      "latitude": 59.4167,
+      "longitude": 16.4667,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Djursholm",
+      "province": "Stockholm",
+      "latitude": 59.3993,
+      "longitude": 18.0562,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "兰德维特",
+      "name_en": "Landvetter",
+      "province": "西约塔兰省",
+      "latitude": 57.6867,
+      "longitude": 12.2117,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Kvissleby",
+      "province": "西诺尔兰省",
+      "latitude": 62.2936,
+      "longitude": 17.375,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Alvesta",
+      "province": "克鲁努贝里省",
+      "latitude": 56.8993,
+      "longitude": 14.5556,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "吕克瑟勒",
+      "name_en": "Lycksele",
+      "province": "西博滕省",
+      "latitude": 64.5954,
+      "longitude": 18.6735,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Bankeryd",
+      "province": "延雪平省",
+      "latitude": 57.8602,
+      "longitude": 14.124,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Klippan",
+      "province": "斯科讷省",
+      "latitude": 56.1356,
+      "longitude": 13.1309,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Tibro",
+      "province": "西约塔兰省",
+      "latitude": 58.4245,
+      "longitude": 14.1616,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Bro",
+      "province": "Stockholm",
+      "latitude": 59.3098,
+      "longitude": 14.1081,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Tidaholm",
+      "province": "西约塔兰省",
+      "latitude": 58.1803,
+      "longitude": 13.9582,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Akalla",
+      "province": "Stockholm",
+      "latitude": 59.4147,
+      "longitude": 17.914,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Hallsberg",
+      "province": "厄勒布鲁省",
+      "latitude": 59.0646,
+      "longitude": 15.1099,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Fisksätra",
+      "province": "Stockholm",
+      "latitude": 59.2915,
+      "longitude": 18.2549,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Skurup",
+      "province": "斯科讷省",
+      "latitude": 55.4784,
+      "longitude": 13.5019,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "维默比",
+      "name_en": "Vimmerby",
+      "province": "卡尔马省",
+      "latitude": 57.6659,
+      "longitude": 15.8552,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Gårdsten",
+      "province": "西约塔兰省",
+      "latitude": 57.8048,
+      "longitude": 12.0288,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Brevik",
+      "province": "Stockholm",
+      "latitude": 59.35,
+      "longitude": 18.2,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Knivsta",
+      "province": "乌普萨拉省",
+      "latitude": 59.7256,
+      "longitude": 17.7875,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Hammarkullen",
+      "province": "西约塔兰省",
+      "latitude": 57.7805,
+      "longitude": 12.036,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Sjöbo",
+      "province": "斯科讷省",
+      "latitude": 55.6313,
+      "longitude": 13.7062,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Bromölla",
+      "province": "斯科讷省",
+      "latitude": 56.0755,
+      "longitude": 14.4696,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Habo",
+      "province": "延雪平省",
+      "latitude": 57.9119,
+      "longitude": 14.0744,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Lysekil",
+      "province": "西约塔兰省",
+      "latitude": 58.2743,
+      "longitude": 11.4358,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Kil",
+      "province": "韦姆兰省",
+      "latitude": 59.5023,
+      "longitude": 13.3128,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Osby",
+      "province": "斯科讷省",
+      "latitude": 56.3817,
+      "longitude": 13.9936,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Olofström",
+      "province": "布莱金厄省",
+      "latitude": 56.2773,
+      "longitude": 14.534,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Fittja",
+      "province": "Stockholm",
+      "latitude": 59.2487,
+      "longitude": 17.8599,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Kalix",
+      "province": "北博滕省",
+      "latitude": 65.853,
+      "longitude": 23.1564,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Mariastaden",
+      "province": "斯科讷省",
+      "latitude": 56.0849,
+      "longitude": 12.6944,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Hörby",
+      "province": "斯科讷省",
+      "latitude": 55.8524,
+      "longitude": 13.6609,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "南雪平",
+      "name_en": "Söderköping",
+      "province": "东约特兰省",
+      "latitude": 58.4806,
+      "longitude": 16.3222,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Sollefteå",
+      "province": "西诺尔兰省",
+      "latitude": 63.1667,
+      "longitude": 17.2667,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Hedemora",
+      "province": "达拉纳省",
+      "latitude": 60.2797,
+      "longitude": 15.9886,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Nykvarn",
+      "province": "Stockholm",
+      "latitude": 59.1772,
+      "longitude": 17.4323,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Bergshamra",
+      "province": "Stockholm",
+      "latitude": 59.3808,
+      "longitude": 18.0343,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Ljusdal",
+      "province": "耶夫勒堡省",
+      "latitude": 61.8288,
+      "longitude": 16.0913,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Degerfors",
+      "province": "厄勒布鲁省",
+      "latitude": 59.238,
+      "longitude": 14.4308,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "斯特伦斯塔德",
+      "name_en": "Strömstad",
+      "province": "西约塔兰省",
+      "latitude": 58.9395,
+      "longitude": 11.1712,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Valbo",
+      "province": "耶夫勒堡省",
+      "latitude": 60.65,
+      "longitude": 17.0333,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Lövgärdet",
+      "province": "西约塔兰省",
+      "latitude": 57.8156,
+      "longitude": 12.0386,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Skanör med Falsterbo",
+      "province": "斯科讷省",
+      "latitude": 55.4,
+      "longitude": 12.85,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Åtvidaberg",
+      "province": "东约特兰省",
+      "latitude": 58.2015,
+      "longitude": 15.9977,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "奥比",
+      "name_en": "Åby",
+      "province": "东约特兰省",
+      "latitude": 58.6667,
+      "longitude": 16.1833,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Tomelilla",
+      "province": "斯科讷省",
+      "latitude": 55.5429,
+      "longitude": 13.9546,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Kållered",
+      "province": "西约塔兰省",
+      "latitude": 57.6099,
+      "longitude": 12.0511,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Simrishamn",
+      "province": "斯科讷省",
+      "latitude": 55.5565,
+      "longitude": 14.3504,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Ljungsbro",
+      "province": "东约特兰省",
+      "latitude": 58.5167,
+      "longitude": 15.5,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "哈帕兰达",
+      "name_en": "Haparanda",
+      "province": "北博滕省",
+      "latitude": 65.8355,
+      "longitude": 24.1368,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Nora",
+      "province": "厄勒布鲁省",
+      "latitude": 59.5193,
+      "longitude": 15.0398,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Flen",
+      "province": "南曼兰省",
+      "latitude": 59.0583,
+      "longitude": 16.5878,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Kramfors",
+      "province": "西诺尔兰省",
+      "latitude": 62.9316,
+      "longitude": 17.7765,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Or",
+      "province": "Stockholm",
+      "latitude": 59.3746,
+      "longitude": 17.9772,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Laholm",
+      "province": "哈兰省",
+      "latitude": 56.5121,
+      "longitude": 13.0437,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Vellinge",
+      "province": "斯科讷省",
+      "latitude": 55.4712,
+      "longitude": 13.0197,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Löddeköpinge",
+      "province": "斯科讷省",
+      "latitude": 55.7667,
+      "longitude": 13.0167,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Forshaga",
+      "province": "韦姆兰省",
+      "latitude": 59.5254,
+      "longitude": 13.4813,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Storvreta",
+      "province": "乌普萨拉省",
+      "latitude": 59.9593,
+      "longitude": 17.7059,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Södra Sandby",
+      "province": "斯科讷省",
+      "latitude": 55.7168,
+      "longitude": 13.3466,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Dalby",
+      "province": "斯科讷省",
+      "latitude": 55.6666,
+      "longitude": 13.3498,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Skutskär",
+      "province": "乌普萨拉省",
+      "latitude": 60.6251,
+      "longitude": 17.4155,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Surahammar",
+      "province": "西曼兰省",
+      "latitude": 59.7073,
+      "longitude": 16.2219,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Hjo",
+      "province": "西约塔兰省",
+      "latitude": 58.3013,
+      "longitude": 14.2878,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "菲利普斯塔德",
+      "name_en": "Filipstad",
+      "province": "韦姆兰省",
+      "latitude": 59.7124,
+      "longitude": 14.1683,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Leksand",
+      "province": "达拉纳省",
+      "latitude": 60.7303,
+      "longitude": 14.9999,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Hofors",
+      "province": "耶夫勒堡省",
+      "latitude": 60.5457,
+      "longitude": 16.2867,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Åsa",
+      "province": "哈兰省",
+      "latitude": 57.35,
+      "longitude": 12.1167,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Järna",
+      "province": "Stockholm",
+      "latitude": 59.0917,
+      "longitude": 17.5662,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Nykvarn",
+      "province": "Stockholm",
+      "latitude": 59.1772,
+      "longitude": 17.4323,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Gråbo",
+      "province": "西约塔兰省",
+      "latitude": 57.8362,
+      "longitude": 12.2995,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "马尔姆贝里耶",
+      "name_en": "Malmberget",
+      "province": "北博滕省",
+      "latitude": 67.1753,
+      "longitude": 20.6549,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Surte",
+      "province": "西约塔兰省",
+      "latitude": 57.8253,
+      "longitude": 12.016,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "霍尔姆松德",
+      "name_en": "Holmsund",
+      "province": "西博滕省",
+      "latitude": 63.706,
+      "longitude": 20.3641,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Åkarp",
+      "province": "斯科讷省",
+      "latitude": 55.654,
+      "longitude": 13.1111,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Södra Sandby",
+      "province": "卡尔马省",
+      "latitude": 55.7168,
+      "longitude": 13.3466,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Rydebäck",
+      "province": "斯科讷省",
+      "latitude": 55.9667,
+      "longitude": 12.7667,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Kungsör",
+      "province": "西曼兰省",
+      "latitude": 59.4224,
+      "longitude": 16.0966,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Perstorp",
+      "province": "斯科讷省",
+      "latitude": 56.1383,
+      "longitude": 13.3948,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Vi",
+      "province": "西诺尔兰省",
+      "latitude": 62.4333,
+      "longitude": 17.4167,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "特鲁萨",
+      "name_en": "Trosa",
+      "province": "南曼兰省",
+      "latitude": 58.8962,
+      "longitude": 17.5481,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Tierp",
+      "province": "乌普萨拉省",
+      "latitude": 60.3427,
+      "longitude": 17.5181,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Gnesta",
+      "province": "南曼兰省",
+      "latitude": 59.0475,
+      "longitude": 17.3119,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Lindsdal",
+      "province": "卡尔马省",
+      "latitude": 56.7333,
+      "longitude": 16.3,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "瓦斯泰纳",
+      "name_en": "Vadstena",
+      "province": "东约特兰省",
+      "latitude": 58.4486,
+      "longitude": 14.8897,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Färjestaden",
+      "province": "卡尔马省",
+      "latitude": 56.6499,
+      "longitude": 16.4686,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Viken",
+      "province": "斯科讷省",
+      "latitude": 56.1506,
+      "longitude": 12.5743,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Mullsjö",
+      "province": "延雪平省",
+      "latitude": 57.9171,
+      "longitude": 13.8783,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Hultsfred",
+      "province": "卡尔马省",
+      "latitude": 57.4881,
+      "longitude": 15.8436,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Skåre",
+      "province": "韦姆兰省",
+      "latitude": 59.4333,
+      "longitude": 13.4333,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Fristad",
+      "province": "西约塔兰省",
+      "latitude": 57.8248,
+      "longitude": 13.0106,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Åkarp",
+      "province": "西约塔兰省",
+      "latitude": 55.654,
+      "longitude": 13.1111,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Vårgårda",
+      "province": "西约塔兰省",
+      "latitude": 58.0371,
+      "longitude": 12.8091,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Sävsjö",
+      "province": "延雪平省",
+      "latitude": 57.4033,
+      "longitude": 14.6624,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Orsa",
+      "province": "达拉纳省",
+      "latitude": 61.1203,
+      "longitude": 14.6155,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Hönö",
+      "province": "西约塔兰省",
+      "latitude": 57.6897,
+      "longitude": 11.6497,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Smedjebacken",
+      "province": "达拉纳省",
+      "latitude": 60.1418,
+      "longitude": 15.4142,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Ödåkra",
+      "province": "斯科讷省",
+      "latitude": 56.1041,
+      "longitude": 12.7477,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Örkelljunga",
+      "province": "斯科讷省",
+      "latitude": 56.2834,
+      "longitude": 13.2777,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Skåre",
+      "province": "斯科讷省",
+      "latitude": 59.4333,
+      "longitude": 13.4333,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Rättvik",
+      "province": "达拉纳省",
+      "latitude": 60.8863,
+      "longitude": 15.1179,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "博斯塔德",
+      "name_en": "Båstad",
+      "province": "斯科讷省",
+      "latitude": 56.4269,
+      "longitude": 12.8534,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Vaggeryd",
+      "province": "延雪平省",
+      "latitude": 57.4981,
+      "longitude": 14.1484,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Anderstorp",
+      "province": "延雪平省",
+      "latitude": 57.2833,
+      "longitude": 13.6333,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Malmslätt",
+      "province": "东约特兰省",
+      "latitude": 58.411,
+      "longitude": 15.5165,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Krokek",
+      "province": "东约特兰省",
+      "latitude": 58.6723,
+      "longitude": 16.3674,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Grums",
+      "province": "韦姆兰省",
+      "latitude": 59.3514,
+      "longitude": 13.1111,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Götene",
+      "province": "西约塔兰省",
+      "latitude": 58.5282,
+      "longitude": 13.4946,
+      "timezone": "Europe/Stockholm"
+    },
+    {
+      "name": "",
+      "name_en": "Sunne",
+      "province": "韦姆兰省",
+      "latitude": 59.8376,
+      "longitude": 13.143,
+      "timezone": "Europe/Stockholm"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "country_code": "SH",
+  "country_name": "圣赫勒拿",
+  "cities": [
+    {
+      "name": "乔治敦",
+      "name_en": "Georgetown",
+      "province": "Ascension",
+      "latitude": -7.9286,
+      "longitude": -14.4119,
+      "timezone": "Atlantic/St_Helena"
+    },
+    {
+      "name": "七海爱丁堡",
+      "name_en": "Edinburgh of the Seven Seas",
+      "province": "Tristan da Cunha",
+      "latitude": -37.0676,
+      "longitude": -12.3116,
+      "timezone": "Atlantic/St_Helena"
+    },
+    {
+      "name": "詹姆斯敦",
+      "name_en": "Jamestown",
+      "province": "Saint Helena",
+      "latitude": -15.9249,
+      "longitude": -5.7182,
+      "timezone": "Atlantic/St_Helena"
+    }
+  ]
+}

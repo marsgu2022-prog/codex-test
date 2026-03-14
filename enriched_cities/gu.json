@@ -1,0 +1,174 @@
+{
+  "country_code": "GU",
+  "country_name": "关岛",
+  "cities": [
+    {
+      "name": "",
+      "name_en": "Dededo Village",
+      "province": "Dededo",
+      "latitude": 13.5178,
+      "longitude": 144.8391,
+      "timezone": "Pacific/Guam"
+    },
+    {
+      "name": "",
+      "name_en": "Yigo Village",
+      "province": "Yigo",
+      "latitude": 13.536,
+      "longitude": 144.8886,
+      "timezone": "Pacific/Guam"
+    },
+    {
+      "name": "塔穆宁",
+      "name_en": "Tamuning",
+      "province": "Tamuning",
+      "latitude": 13.4875,
+      "longitude": 144.7814,
+      "timezone": "Pacific/Guam"
+    },
+    {
+      "name": "",
+      "name_en": "Tamuning-Tumon-Harmon Village",
+      "province": "Tamuning",
+      "latitude": 13.4877,
+      "longitude": 144.7814,
+      "timezone": "Pacific/Guam"
+    },
+    {
+      "name": "",
+      "name_en": "Mangilao Village",
+      "province": "Mangilao",
+      "latitude": 13.4476,
+      "longitude": 144.8011,
+      "timezone": "Pacific/Guam"
+    },
+    {
+      "name": "",
+      "name_en": "Barrigada Village",
+      "province": "Barrigada",
+      "latitude": 13.4691,
+      "longitude": 144.799,
+      "timezone": "Pacific/Guam"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Rita Village",
+      "province": "Santa Rita",
+      "latitude": 13.3861,
+      "longitude": 144.6723,
+      "timezone": "Pacific/Guam"
+    },
+    {
+      "name": "",
+      "name_en": "Mongmong-Toto-Maite Village",
+      "province": "Mongmong-Toto-Maite",
+      "latitude": 13.4686,
+      "longitude": 144.7821,
+      "timezone": "Pacific/Guam"
+    },
+    {
+      "name": "",
+      "name_en": "Chalan Pago-Ordot Village",
+      "province": "Chalan Pago-Ordot",
+      "latitude": 13.4474,
+      "longitude": 144.759,
+      "timezone": "Pacific/Guam"
+    },
+    {
+      "name": "",
+      "name_en": "Yona Village",
+      "province": "Yona",
+      "latitude": 13.4097,
+      "longitude": 144.777,
+      "timezone": "Pacific/Guam"
+    },
+    {
+      "name": "",
+      "name_en": "Apotgan",
+      "province": "Tamuning",
+      "latitude": 13.4882,
+      "longitude": 144.7764,
+      "timezone": "Pacific/Guam"
+    },
+    {
+      "name": "",
+      "name_en": "Agana Heights Village",
+      "province": "Agana Heights",
+      "latitude": 13.4656,
+      "longitude": 144.748,
+      "timezone": "Pacific/Guam"
+    },
+    {
+      "name": "",
+      "name_en": "Agat Village",
+      "province": "Agat",
+      "latitude": 13.383,
+      "longitude": 144.66,
+      "timezone": "Pacific/Guam"
+    },
+    {
+      "name": "",
+      "name_en": "Talofofo Village",
+      "province": "Talofofo",
+      "latitude": 13.3551,
+      "longitude": 144.7584,
+      "timezone": "Pacific/Guam"
+    },
+    {
+      "name": "",
+      "name_en": "Inarajan Village",
+      "province": "Inarajan",
+      "latitude": 13.2736,
+      "longitude": 144.7484,
+      "timezone": "Pacific/Guam"
+    },
+    {
+      "name": "",
+      "name_en": "Sinajana Village",
+      "province": "Sinajana",
+      "latitude": 13.4633,
+      "longitude": 144.7541,
+      "timezone": "Pacific/Guam"
+    },
+    {
+      "name": "",
+      "name_en": "Merizo Village",
+      "province": "Merizo",
+      "latitude": 13.2658,
+      "longitude": 144.6691,
+      "timezone": "Pacific/Guam"
+    },
+    {
+      "name": "",
+      "name_en": "Asan-Maina Village",
+      "province": "Asan",
+      "latitude": 13.4721,
+      "longitude": 144.7165,
+      "timezone": "Pacific/Guam"
+    },
+    {
+      "name": "",
+      "name_en": "Piti Village",
+      "province": "Piti",
+      "latitude": 13.4626,
+      "longitude": 144.6933,
+      "timezone": "Pacific/Guam"
+    },
+    {
+      "name": "阿加尼亚",
+      "name_en": "Hagåtña",
+      "province": "Hagatna",
+      "latitude": 13.4757,
+      "longitude": 144.7489,
+      "timezone": "Pacific/Guam"
+    },
+    {
+      "name": "",
+      "name_en": "Umatac Village",
+      "province": "Umatac",
+      "latitude": 13.2984,
+      "longitude": 144.6631,
+      "timezone": "Pacific/Guam"
+    }
+  ]
+}

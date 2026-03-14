@@ -1,0 +1,790 @@
+{
+  "country_code": "SD",
+  "country_name": "苏丹",
+  "cities": [
+    {
+      "name": "喀土穆",
+      "name_en": "Khartoum",
+      "province": "喀土穆州",
+      "latitude": 15.5518,
+      "longitude": 32.5324,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "恩图曼",
+      "name_en": "Omdurman",
+      "province": "喀土穆州",
+      "latitude": 15.6445,
+      "longitude": 32.4777,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Khartoum North",
+      "province": "喀土穆州",
+      "latitude": 15.6493,
+      "longitude": 32.5346,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "尼亚拉",
+      "name_en": "Nyala",
+      "province": "南达尔富尔州",
+      "latitude": 12.0489,
+      "longitude": 24.8807,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "苏丹港",
+      "name_en": "Port Sudan",
+      "province": "红海州",
+      "latitude": 19.6175,
+      "longitude": 37.2164,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "卡萨拉",
+      "name_en": "Kassala",
+      "province": "卡萨拉州",
+      "latitude": 15.451,
+      "longitude": 36.4,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "El Obeid",
+      "province": "北科尔多凡州",
+      "latitude": 13.1842,
+      "longitude": 30.2167,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "加达里夫",
+      "name_en": "Al Qadarif",
+      "province": "加达里夫州",
+      "latitude": 14.0349,
+      "longitude": 35.3834,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Kosti",
+      "province": "白尼罗州",
+      "latitude": 13.1629,
+      "longitude": 32.6635,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Wad Medani",
+      "province": "杰济拉州",
+      "latitude": 14.4012,
+      "longitude": 33.5199,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "El Daein",
+      "province": "东达尔富尔州",
+      "latitude": 11.4619,
+      "longitude": 26.1258,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "El Fasher",
+      "province": "北达尔富尔州",
+      "latitude": 13.6279,
+      "longitude": 25.3494,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Singa",
+      "province": "森纳尔州",
+      "latitude": 13.1483,
+      "longitude": 33.9312,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Ad-Damazin",
+      "province": "青尼罗州",
+      "latitude": 11.7891,
+      "longitude": 34.3592,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Al-Junaynah",
+      "province": "西达尔富尔州",
+      "latitude": 13.4526,
+      "longitude": 22.4473,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Rabak",
+      "province": "白尼罗州",
+      "latitude": 13.1809,
+      "longitude": 32.74,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "El Geneina Fort",
+      "province": "西达尔富尔州",
+      "latitude": 13.4748,
+      "longitude": 22.4574,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Sennar",
+      "province": "森纳尔州",
+      "latitude": 13.5691,
+      "longitude": 33.5672,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Al Manāqil",
+      "province": "杰济拉州",
+      "latitude": 14.2459,
+      "longitude": 32.9891,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Gereida",
+      "province": "南达尔富尔州",
+      "latitude": 11.2754,
+      "longitude": 25.1403,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "阿特巴拉",
+      "name_en": "Atbara",
+      "province": "尼罗州",
+      "latitude": 17.7022,
+      "longitude": 33.9864,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "恩纳胡德",
+      "name_en": "An Nuhūd",
+      "province": "西科尔多凡州",
+      "latitude": 12.7,
+      "longitude": 28.4333,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Ad-Damir",
+      "province": "尼罗州",
+      "latitude": 17.599,
+      "longitude": 33.9721,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Kadugli",
+      "province": "南科尔多凡州",
+      "latitude": 11.0111,
+      "longitude": 29.7183,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Ad Douiem",
+      "province": "白尼罗州",
+      "latitude": 14.0012,
+      "longitude": 32.3116,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Burām",
+      "province": "南达尔富尔州",
+      "latitude": 10.8583,
+      "longitude": 25.1592,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "沉迪",
+      "name_en": "Shendi",
+      "province": "尼罗州",
+      "latitude": 16.6915,
+      "longitude": 33.4341,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "New Halfa",
+      "province": "卡萨拉州",
+      "latitude": 15.3302,
+      "longitude": 35.5985,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Dilling",
+      "province": "南科尔多凡州",
+      "latitude": 12.05,
+      "longitude": 29.65,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "罗赛雷斯",
+      "name_en": "Er Roseires",
+      "province": "青尼罗州",
+      "latitude": 11.8659,
+      "longitude": 34.3869,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Umm Ruwaba",
+      "province": "北科尔多凡州",
+      "latitude": 12.9061,
+      "longitude": 31.2158,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "栋古拉",
+      "name_en": "Dongola",
+      "province": "北部州",
+      "latitude": 19.1816,
+      "longitude": 30.4769,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "'Ārdamatā",
+      "province": "西达尔富尔州",
+      "latitude": 13.4755,
+      "longitude": 22.4853,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Kas",
+      "province": "南达尔富尔州",
+      "latitude": 12.5097,
+      "longitude": 24.2852,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Mellit",
+      "province": "北达尔富尔州",
+      "latitude": 14.1333,
+      "longitude": 25.55,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Sh'īarīah",
+      "province": "东达尔富尔州",
+      "latitude": 12.4388,
+      "longitude": 25.5811,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Al Hasaheisa",
+      "province": "杰济拉州",
+      "latitude": 14.7526,
+      "longitude": 33.2984,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Abu Jibeha",
+      "province": "南科尔多凡州",
+      "latitude": 11.4562,
+      "longitude": 31.2285,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "海什姆吉尔拜",
+      "name_en": "Khashm al Qirbah",
+      "province": "加达里夫州",
+      "latitude": 14.9667,
+      "longitude": 35.9167,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "萨瓦金",
+      "name_en": "Suakin",
+      "province": "红海州",
+      "latitude": 19.1059,
+      "longitude": 37.3321,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Kabkābīyah",
+      "province": "北达尔富尔州",
+      "latitude": 13.65,
+      "longitude": 24.0833,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Tullus",
+      "province": "南达尔富尔州",
+      "latitude": 11.0904,
+      "longitude": 24.5301,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Al Mijlad",
+      "province": "西科尔多凡州",
+      "latitude": 11.0333,
+      "longitude": 27.7333,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Tokār",
+      "province": "红海州",
+      "latitude": 18.4254,
+      "longitude": 37.729,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Ar Rahad",
+      "province": "北科尔多凡州",
+      "latitude": 12.7167,
+      "longitude": 30.65,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Sinkat",
+      "province": "红海州",
+      "latitude": 18.8405,
+      "longitude": 36.8351,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Zalinjay",
+      "province": "中达尔富尔州",
+      "latitude": 12.9092,
+      "longitude": 23.4706,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Kutum",
+      "province": "北达尔富尔州",
+      "latitude": 14.2,
+      "longitude": 24.6667,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "As Sūkī",
+      "province": "森纳尔州",
+      "latitude": 13.3167,
+      "longitude": 33.8833,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Babanūsah",
+      "province": "西科尔多凡州",
+      "latitude": 11.3333,
+      "longitude": 27.8,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Tandaltī",
+      "province": "白尼罗州",
+      "latitude": 13.0167,
+      "longitude": 31.8667,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Jubayt",
+      "province": "红海州",
+      "latitude": 18.9533,
+      "longitude": 36.8336,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Al-Fāw",
+      "province": "加达里夫州",
+      "latitude": 14.1078,
+      "longitude": 34.092,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Al Ḩawātah",
+      "province": "加达里夫州",
+      "latitude": 13.4167,
+      "longitude": 34.6333,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Maiurno",
+      "province": "森纳尔州",
+      "latitude": 13.4167,
+      "longitude": 33.6667,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Rufā‘a",
+      "province": "杰济拉州",
+      "latitude": 14.7597,
+      "longitude": 33.3675,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Al-Quṭaynah",
+      "province": "白尼罗州",
+      "latitude": 14.7278,
+      "longitude": 32.2693,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Kināna",
+      "province": "森纳尔州",
+      "latitude": 14.0361,
+      "longitude": 33.1712,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Berber",
+      "province": "尼罗州",
+      "latitude": 18.0216,
+      "longitude": 33.983,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Al Fūlah",
+      "province": "南科尔多凡州",
+      "latitude": 11.7329,
+      "longitude": 28.3579,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Ad-Dindar",
+      "province": "森纳尔州",
+      "latitude": 13.334,
+      "longitude": 34.0927,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Rahad al Bardi",
+      "province": "南达尔富尔州",
+      "latitude": 11.3,
+      "longitude": 23.8833,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Abū Zabad",
+      "province": "西科尔多凡州",
+      "latitude": 12.35,
+      "longitude": 29.25,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Ghubaysh",
+      "province": "西科尔多凡州",
+      "latitude": 12.15,
+      "longitude": 27.35,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Al Jazeera Aba",
+      "province": "白尼罗州",
+      "latitude": 13.3193,
+      "longitude": 32.6132,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Al-Fashaqah",
+      "province": "加达里夫州",
+      "latitude": 14.3973,
+      "longitude": 35.8667,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Umm Shawkah",
+      "province": "森纳尔州",
+      "latitude": 13.3167,
+      "longitude": 33.7667,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "阿卜耶伊",
+      "name_en": "Abyei",
+      "province": "西科尔多凡州",
+      "latitude": 9.5953,
+      "longitude": 28.4349,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Doka",
+      "province": "加达里夫州",
+      "latitude": 13.5167,
+      "longitude": 35.7667,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Kuraymah",
+      "province": "北部州",
+      "latitude": 18.55,
+      "longitude": 31.85,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "El Bauga",
+      "province": "尼罗州",
+      "latitude": 18.262,
+      "longitude": 33.9081,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Al Qiţena",
+      "province": "白尼罗州",
+      "latitude": 14.8648,
+      "longitude": 32.3668,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Al Hilāliyya",
+      "province": "杰济拉州",
+      "latitude": 14.9398,
+      "longitude": 33.234,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Bārah",
+      "province": "北科尔多凡州",
+      "latitude": 13.7,
+      "longitude": 30.3667,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Ad Dindar",
+      "province": "森纳尔州",
+      "latitude": 13.334,
+      "longitude": 34.0927,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "ALdinigila wad dhahi",
+      "province": "白尼罗州",
+      "latitude": 13.8823,
+      "longitude": 32.3771,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Ash Shallāl",
+      "province": "青尼罗州",
+      "latitude": 11.8,
+      "longitude": 34.4,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "塔罗蒂",
+      "name_en": "Talodi",
+      "province": "南科尔多凡州",
+      "latitude": 10.6325,
+      "longitude": 30.3797,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Aroma",
+      "province": "卡萨拉州",
+      "latitude": 15.8167,
+      "longitude": 36.1333,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Marabba",
+      "province": "白尼罗州",
+      "latitude": 12.35,
+      "longitude": 32.1833,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Wagar",
+      "province": "卡萨拉州",
+      "latitude": 16.1525,
+      "longitude": 36.2032,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "阿尔达巴",
+      "name_en": "Ad Dabbah",
+      "province": "北部州",
+      "latitude": 18.05,
+      "longitude": 30.95,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "El Matama",
+      "province": "尼罗州",
+      "latitude": 16.7095,
+      "longitude": 33.3565,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Gebeit",
+      "province": "红海州",
+      "latitude": 18.9533,
+      "longitude": 36.8336,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Al Lagowa",
+      "province": "西科尔多凡州",
+      "latitude": 11.4,
+      "longitude": 29.1333,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Umm Kaddadah",
+      "province": "北达尔富尔州",
+      "latitude": 13.6017,
+      "longitude": 26.6876,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Kurmuk",
+      "province": "青尼罗州",
+      "latitude": 10.557,
+      "longitude": 34.287,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Wad Rāwah",
+      "province": "杰济拉州",
+      "latitude": 15.1603,
+      "longitude": 33.1397,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Merowe",
+      "province": "北部州",
+      "latitude": 18.4704,
+      "longitude": 31.8113,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Al Kawa",
+      "province": "白尼罗州",
+      "latitude": 13.7463,
+      "longitude": 32.4996,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Al Kiremit al ‘Arakiyyīn",
+      "province": "杰济拉州",
+      "latitude": 14.3476,
+      "longitude": 32.9437,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Jalqani",
+      "province": "森纳尔州",
+      "latitude": 12.4486,
+      "longitude": 34.2186,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Al Masallamiyya",
+      "province": "杰济拉州",
+      "latitude": 14.5748,
+      "longitude": 33.3373,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Wad az Zāki",
+      "province": "白尼罗州",
+      "latitude": 14.4619,
+      "longitude": 32.2065,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Um Jar Al Gharbiyya",
+      "province": "白尼罗州",
+      "latitude": 13.8013,
+      "longitude": 32.4078,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Argo",
+      "province": "北部州",
+      "latitude": 19.5167,
+      "longitude": 30.4167,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Umm Dafog",
+      "province": "南达尔富尔州",
+      "latitude": 10.4634,
+      "longitude": 23.3175,
+      "timezone": "Africa/Khartoum"
+    },
+    {
+      "name": "",
+      "name_en": "Al-Fulah",
+      "province": "西科尔多凡州",
+      "latitude": 11.7329,
+      "longitude": 28.3579,
+      "timezone": "Africa/Khartoum"
+    }
+  ]
+}

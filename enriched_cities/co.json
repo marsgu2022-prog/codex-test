@@ -1,0 +1,4846 @@
+{
+  "country_code": "CO",
+  "country_name": "哥伦比亚",
+  "cities": [
+    {
+      "name": "波哥大",
+      "name_en": "Bogotá",
+      "province": "Bogota D.C.",
+      "latitude": 4.6097,
+      "longitude": -74.0817,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "卡利",
+      "name_en": "Cali",
+      "province": "考卡山谷省",
+      "latitude": 3.4305,
+      "longitude": -76.5199,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "麦德林",
+      "name_en": "Medellín",
+      "province": "安蒂奥基亚省",
+      "latitude": 6.245,
+      "longitude": -75.5715,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "巴兰基亚",
+      "name_en": "Barranquilla",
+      "province": "Atlántico",
+      "latitude": 10.9685,
+      "longitude": -74.7813,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "卡塔赫纳",
+      "name_en": "Cartagena",
+      "province": "Bolívar",
+      "latitude": 10.3982,
+      "longitude": -75.4933,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "库库塔",
+      "name_en": "Cúcuta",
+      "province": "北桑坦德省",
+      "latitude": 7.9074,
+      "longitude": -72.5049,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Soacha",
+      "province": "昆迪纳马卡省",
+      "latitude": 4.5794,
+      "longitude": -74.2168,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "布卡拉曼加",
+      "name_en": "Bucaramanga",
+      "province": "桑坦德省",
+      "latitude": 7.125,
+      "longitude": -73.1189,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "伊瓦格",
+      "name_en": "Ibagué",
+      "province": "托利马省",
+      "latitude": 4.4357,
+      "longitude": -75.2029,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Marta",
+      "province": "马格达莱纳省",
+      "latitude": 11.2386,
+      "longitude": -74.1943,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Montería",
+      "province": "Córdoba",
+      "latitude": 8.7508,
+      "longitude": -75.8782,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "巴耶杜帕尔",
+      "name_en": "Valledupar",
+      "province": "塞萨尔省",
+      "latitude": 10.4654,
+      "longitude": -73.2531,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Pereira",
+      "province": "里萨拉尔达省",
+      "latitude": 4.8143,
+      "longitude": -75.6949,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "马尼萨莱斯",
+      "name_en": "Manizales",
+      "province": "卡尔达斯省",
+      "latitude": 5.0668,
+      "longitude": -75.5068,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Buenaventura",
+      "province": "考卡山谷省",
+      "latitude": 3.5833,
+      "longitude": -77.0,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "贝约",
+      "name_en": "Bello",
+      "province": "安蒂奥基亚省",
+      "latitude": 6.3373,
+      "longitude": -75.558,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Pasto",
+      "province": "Nariño",
+      "latitude": 1.2146,
+      "longitude": -77.2785,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Neiva",
+      "province": "乌伊拉省",
+      "latitude": 2.93,
+      "longitude": -75.2797,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Soledad",
+      "province": "Atlántico",
+      "latitude": 10.9184,
+      "longitude": -74.7646,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "比亚维森西奥",
+      "name_en": "Villavicencio",
+      "province": "梅塔省",
+      "latitude": 4.1324,
+      "longitude": -73.6256,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "波帕扬",
+      "name_en": "Popayán",
+      "province": "考卡省",
+      "latitude": 2.4382,
+      "longitude": -76.6132,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Palmira",
+      "province": "考卡山谷省",
+      "latitude": 3.5394,
+      "longitude": -76.3036,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Armenia",
+      "province": "金迪奥省",
+      "latitude": 4.5366,
+      "longitude": -75.6726,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "伊塔圭",
+      "name_en": "Itagüí",
+      "province": "安蒂奥基亚省",
+      "latitude": 6.1846,
+      "longitude": -75.5991,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "辛塞莱霍",
+      "name_en": "Sincelejo",
+      "province": "苏克雷省",
+      "latitude": 9.3045,
+      "longitude": -75.3905,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Floridablanca",
+      "province": "桑坦德省",
+      "latitude": 7.0622,
+      "longitude": -73.0864,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "布埃纳文图拉",
+      "name_en": "Buenaventura",
+      "province": "考卡山谷省",
+      "latitude": 3.5833,
+      "longitude": -77.0,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "图卢阿",
+      "name_en": "Tuluá",
+      "province": "考卡山谷省",
+      "latitude": 4.0847,
+      "longitude": -76.1954,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Dosquebradas",
+      "province": "里萨拉尔达省",
+      "latitude": 4.8392,
+      "longitude": -75.6673,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "巴兰卡韦梅哈",
+      "name_en": "Barrancabermeja",
+      "province": "桑坦德省",
+      "latitude": 7.0653,
+      "longitude": -73.8547,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Riohacha",
+      "province": "瓜希拉省",
+      "latitude": 11.5444,
+      "longitude": -72.9072,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "通哈",
+      "name_en": "Tunja",
+      "province": "Boyacá",
+      "latitude": 5.5448,
+      "longitude": -73.3576,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "约帕尔",
+      "name_en": "Yopal",
+      "province": "卡萨纳雷省",
+      "latitude": 5.3357,
+      "longitude": -72.3939,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Florencia",
+      "province": "Caquetá",
+      "latitude": 1.6155,
+      "longitude": -75.6041,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Maicao",
+      "province": "瓜希拉省",
+      "latitude": 11.3784,
+      "longitude": -72.2395,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Piedecuesta",
+      "province": "桑坦德省",
+      "latitude": 6.9879,
+      "longitude": -73.0495,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "恩维加多",
+      "name_en": "Envigado",
+      "province": "安蒂奥基亚省",
+      "latitude": 6.1759,
+      "longitude": -75.5917,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "法卡塔蒂瓦",
+      "name_en": "Facatativá",
+      "province": "昆迪纳马卡省",
+      "latitude": 4.8137,
+      "longitude": -74.3545,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "皮塔利托",
+      "name_en": "Pitalito",
+      "province": "乌伊拉省",
+      "latitude": 1.8537,
+      "longitude": -76.0507,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Madrid",
+      "province": "昆迪纳马卡省",
+      "latitude": 4.7325,
+      "longitude": -74.2642,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Cartago",
+      "province": "考卡山谷省",
+      "latitude": 4.7464,
+      "longitude": -75.9117,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "锡帕基拉",
+      "name_en": "Zipaquirá",
+      "province": "昆迪纳马卡省",
+      "latitude": 5.0221,
+      "longitude": -74.0048,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "基布多",
+      "name_en": "Quibdó",
+      "province": "Chocó",
+      "latitude": 5.6919,
+      "longitude": -76.6583,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Malambo",
+      "province": "Atlántico",
+      "latitude": 10.8595,
+      "longitude": -74.7739,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "里奥内格罗",
+      "name_en": "Rionegro",
+      "province": "安蒂奥基亚省",
+      "latitude": 6.1551,
+      "longitude": -75.3737,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Mosquera",
+      "province": "昆迪纳马卡省",
+      "latitude": 4.7059,
+      "longitude": -74.2302,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Chía",
+      "province": "昆迪纳马卡省",
+      "latitude": 4.8588,
+      "longitude": -74.0587,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "马甘格",
+      "name_en": "Magangué",
+      "province": "Bolívar",
+      "latitude": 9.242,
+      "longitude": -74.7547,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Funza",
+      "province": "昆迪纳马卡省",
+      "latitude": 4.7164,
+      "longitude": -74.212,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "布加",
+      "name_en": "Guadalajara de Buga",
+      "province": "考卡山谷省",
+      "latitude": 3.9009,
+      "longitude": -76.2978,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "索加莫索",
+      "name_en": "Sogamoso",
+      "province": "Boyacá",
+      "latitude": 5.7143,
+      "longitude": -72.9339,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Girón",
+      "province": "桑坦德省",
+      "latitude": 7.0682,
+      "longitude": -73.1698,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Girardot City",
+      "province": "昆迪纳马卡省",
+      "latitude": 4.3008,
+      "longitude": -74.8075,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Sabanalarga",
+      "province": "Atlántico",
+      "latitude": 10.6307,
+      "longitude": -74.9221,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "奥卡尼亚",
+      "name_en": "Ocaña",
+      "province": "北桑坦德省",
+      "latitude": 8.2377,
+      "longitude": -73.356,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Santander de Quilichao",
+      "province": "考卡省",
+      "latitude": 3.0095,
+      "longitude": -76.4849,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Aguachica",
+      "province": "塞萨尔省",
+      "latitude": 8.3084,
+      "longitude": -73.6166,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Cereté",
+      "province": "Córdoba",
+      "latitude": 8.8848,
+      "longitude": -75.7905,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "杜伊塔马",
+      "name_en": "Duitama",
+      "province": "Boyacá",
+      "latitude": 5.8245,
+      "longitude": -73.0341,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Montelíbano",
+      "province": "Córdoba",
+      "latitude": 7.9792,
+      "longitude": -75.4202,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Fusagasugá",
+      "province": "昆迪纳马卡省",
+      "latitude": 4.3365,
+      "longitude": -74.3638,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Ciénaga",
+      "province": "马格达莱纳省",
+      "latitude": 11.007,
+      "longitude": -74.2476,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "图马科",
+      "name_en": "Tumaco",
+      "province": "Nariño",
+      "latitude": 1.7911,
+      "longitude": -78.7927,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Apartadó",
+      "province": "安蒂奥基亚省",
+      "latitude": 7.883,
+      "longitude": -76.6259,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Chigorodó",
+      "province": "安蒂奥基亚省",
+      "latitude": 7.6664,
+      "longitude": -76.6811,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "阿劳卡",
+      "name_en": "Arauca",
+      "province": "阿劳卡省",
+      "latitude": 7.0847,
+      "longitude": -70.7591,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Sabaneta",
+      "province": "安蒂奥基亚省",
+      "latitude": 6.1515,
+      "longitude": -75.6166,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "卡尔达斯",
+      "name_en": "Caldas",
+      "province": "安蒂奥基亚省",
+      "latitude": 6.0911,
+      "longitude": -75.6357,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "La Dorada",
+      "province": "卡尔达斯省",
+      "latitude": 5.4478,
+      "longitude": -74.6631,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Calarcá",
+      "province": "金迪奥省",
+      "latitude": 4.5295,
+      "longitude": -75.6409,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "伊皮亚莱斯",
+      "name_en": "Ipiales",
+      "province": "Nariño",
+      "latitude": 0.825,
+      "longitude": -77.6397,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Yumbo",
+      "province": "考卡山谷省",
+      "latitude": 3.5823,
+      "longitude": -76.4915,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Planeta Rica",
+      "province": "Córdoba",
+      "latitude": 8.4115,
+      "longitude": -75.5851,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Granada",
+      "province": "梅塔省",
+      "latitude": 3.5463,
+      "longitude": -73.7069,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Chinchiná",
+      "province": "卡尔达斯省",
+      "latitude": 4.9825,
+      "longitude": -75.6036,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Baranoa",
+      "province": "Atlántico",
+      "latitude": 10.7941,
+      "longitude": -74.9164,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Villa del Rosario",
+      "province": "北桑坦德省",
+      "latitude": 7.8339,
+      "longitude": -72.4742,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "San Marcos",
+      "province": "苏克雷省",
+      "latitude": 8.6597,
+      "longitude": -75.1281,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Sahagún",
+      "province": "Córdoba",
+      "latitude": 8.9462,
+      "longitude": -75.4428,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Fundación",
+      "province": "马格达莱纳省",
+      "latitude": 10.5207,
+      "longitude": -74.185,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Los Patios",
+      "province": "北桑坦德省",
+      "latitude": 7.8379,
+      "longitude": -72.5037,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "San Andrés",
+      "province": "San Andres y Providencia",
+      "latitude": 12.5786,
+      "longitude": -81.6997,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "考卡西亚",
+      "name_en": "Caucasia",
+      "province": "安蒂奥基亚省",
+      "latitude": 7.9865,
+      "longitude": -75.1935,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Rosa de Cabal",
+      "province": "里萨拉尔达省",
+      "latitude": 4.8681,
+      "longitude": -75.6214,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Orito",
+      "province": "普图马约省",
+      "latitude": 0.6675,
+      "longitude": -76.873,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Marinilla",
+      "province": "安蒂奥基亚省",
+      "latitude": 6.1736,
+      "longitude": -75.3362,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "莫科阿",
+      "name_en": "Mocoa",
+      "province": "普图马约省",
+      "latitude": 1.1528,
+      "longitude": -76.6521,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Espinal",
+      "province": "托利马省",
+      "latitude": 4.1492,
+      "longitude": -74.8843,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Turbaco",
+      "province": "Bolívar",
+      "latitude": 10.3294,
+      "longitude": -75.4114,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Ayapel",
+      "province": "Córdoba",
+      "latitude": 8.3137,
+      "longitude": -75.1398,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "El Banco",
+      "province": "马格达莱纳省",
+      "latitude": 9.0011,
+      "longitude": -73.9758,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Cajicá",
+      "province": "昆迪纳马卡省",
+      "latitude": 4.9186,
+      "longitude": -74.028,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "巴尔博萨",
+      "name_en": "Barbosa",
+      "province": "安蒂奥基亚省",
+      "latitude": 6.4381,
+      "longitude": -75.3314,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Pamplona",
+      "province": "北桑坦德省",
+      "latitude": 7.3757,
+      "longitude": -72.6479,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "San José del Guaviare",
+      "province": "瓜维亚雷省",
+      "latitude": 2.568,
+      "longitude": -72.6397,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "科达齐",
+      "name_en": "Agustín Codazzi",
+      "province": "塞萨尔省",
+      "latitude": 10.0367,
+      "longitude": -73.2356,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "埃尔巴格莱",
+      "name_en": "El Bagre",
+      "province": "安蒂奥基亚省",
+      "latitude": 7.6035,
+      "longitude": -74.8095,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Puerto Berrío",
+      "province": "安蒂奥基亚省",
+      "latitude": 6.4916,
+      "longitude": -74.4033,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Cimitarra",
+      "province": "桑坦德省",
+      "latitude": 6.3142,
+      "longitude": -73.9497,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Chinú",
+      "province": "Córdoba",
+      "latitude": 9.1057,
+      "longitude": -75.3981,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Turbo",
+      "province": "安蒂奥基亚省",
+      "latitude": 8.0926,
+      "longitude": -76.7282,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Arjona",
+      "province": "Bolívar",
+      "latitude": 10.2544,
+      "longitude": -75.3439,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "卡门德比博拉尔",
+      "name_en": "Carmen de Viboral",
+      "province": "安蒂奥基亚省",
+      "latitude": 6.0824,
+      "longitude": -75.3351,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "La Estrella",
+      "province": "安蒂奥基亚省",
+      "latitude": 6.1577,
+      "longitude": -75.6432,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Copacabana",
+      "province": "安蒂奥基亚省",
+      "latitude": 6.3463,
+      "longitude": -75.5089,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Samaniego",
+      "province": "Nariño",
+      "latitude": 1.3385,
+      "longitude": -77.5957,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Plato",
+      "province": "马格达莱纳省",
+      "latitude": 9.7903,
+      "longitude": -74.7824,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "莱蒂西亚",
+      "name_en": "Leticia",
+      "province": "亚马孙省",
+      "latitude": -4.2108,
+      "longitude": -69.9394,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "El Carmen de Bolívar",
+      "province": "Bolívar",
+      "latitude": 9.7174,
+      "longitude": -75.1202,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Florida",
+      "province": "考卡山谷省",
+      "latitude": 7.0622,
+      "longitude": -73.0864,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Puerto Tejada",
+      "province": "考卡省",
+      "latitude": 3.2311,
+      "longitude": -76.4167,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "圣希尔",
+      "name_en": "San Gil",
+      "province": "桑坦德省",
+      "latitude": 6.5595,
+      "longitude": -73.1364,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Chiquinquirá",
+      "province": "Boyacá",
+      "latitude": 5.6164,
+      "longitude": -73.8175,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Jamundí",
+      "province": "考卡山谷省",
+      "latitude": 3.2607,
+      "longitude": -76.535,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Pradera",
+      "province": "考卡山谷省",
+      "latitude": 3.4211,
+      "longitude": -76.2447,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Piendamo",
+      "province": "考卡省",
+      "latitude": 2.6392,
+      "longitude": -76.5306,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Sevilla",
+      "province": "考卡山谷省",
+      "latitude": 4.2642,
+      "longitude": -75.9309,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Miranda",
+      "province": "考卡省",
+      "latitude": 3.2528,
+      "longitude": -76.2292,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Montenegro",
+      "province": "金迪奥省",
+      "latitude": 4.5664,
+      "longitude": -75.7511,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "阿拉卡塔卡",
+      "name_en": "Aracataca",
+      "province": "马格达莱纳省",
+      "latitude": 10.5918,
+      "longitude": -74.1898,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Guaduas",
+      "province": "昆迪纳马卡省",
+      "latitude": 5.0669,
+      "longitude": -74.595,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "La Unión",
+      "province": "考卡山谷省",
+      "latitude": 4.5328,
+      "longitude": -76.1032,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Acacías",
+      "province": "梅塔省",
+      "latitude": 3.987,
+      "longitude": -73.758,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Lorica",
+      "province": "Córdoba",
+      "latitude": 9.2365,
+      "longitude": -75.8135,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Bosconia",
+      "province": "塞萨尔省",
+      "latitude": 9.9711,
+      "longitude": -73.8882,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "San Juan del Cesar",
+      "province": "瓜希拉省",
+      "latitude": 10.7711,
+      "longitude": -73.0031,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Túquerres",
+      "province": "Nariño",
+      "latitude": 1.0865,
+      "longitude": -77.6186,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Segovia",
+      "province": "安蒂奥基亚省",
+      "latitude": 7.0799,
+      "longitude": -74.6989,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Corozal",
+      "province": "苏克雷省",
+      "latitude": 9.3185,
+      "longitude": -75.2933,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Líbano",
+      "province": "托利马省",
+      "latitude": 4.9218,
+      "longitude": -75.0623,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "El Cerrito",
+      "province": "考卡山谷省",
+      "latitude": 3.6855,
+      "longitude": -76.3137,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Barrancas",
+      "province": "瓜希拉省",
+      "latitude": 10.9567,
+      "longitude": -72.7946,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "圣罗莎德奥索斯",
+      "name_en": "Santa Rosa de Osos",
+      "province": "安蒂奥基亚省",
+      "latitude": 6.6474,
+      "longitude": -75.4603,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Patía",
+      "province": "考卡省",
+      "latitude": 2.069,
+      "longitude": -77.0527,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Bosconia",
+      "province": "昆迪纳马卡省",
+      "latitude": 9.9711,
+      "longitude": -73.8882,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Payandé",
+      "province": "托利马省",
+      "latitude": 4.2975,
+      "longitude": -75.0967,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "San Pablo",
+      "province": "Bolívar",
+      "latitude": 10.0515,
+      "longitude": -75.2678,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Belalcázar",
+      "province": "考卡省",
+      "latitude": 2.6464,
+      "longitude": -75.9727,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "La Ceja",
+      "province": "安蒂奥基亚省",
+      "latitude": 6.0313,
+      "longitude": -75.4333,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Gigante",
+      "province": "乌伊拉省",
+      "latitude": 2.3868,
+      "longitude": -75.5474,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Quimbaya",
+      "province": "金迪奥省",
+      "latitude": 4.6231,
+      "longitude": -75.7628,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Villamaría",
+      "province": "卡尔达斯省",
+      "latitude": 5.0457,
+      "longitude": -75.5147,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Sabanagrande",
+      "province": "Atlántico",
+      "latitude": 10.7912,
+      "longitude": -74.7606,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Curumaní",
+      "province": "塞萨尔省",
+      "latitude": 9.1999,
+      "longitude": -73.5427,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Paz de Ariporo",
+      "province": "卡萨纳雷省",
+      "latitude": 5.8815,
+      "longitude": -71.8917,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "San Antero",
+      "province": "Córdoba",
+      "latitude": 9.3741,
+      "longitude": -75.7589,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "San Juan Nepomuceno",
+      "province": "Bolívar",
+      "latitude": 9.9516,
+      "longitude": -75.082,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Quinchía",
+      "province": "里萨拉尔达省",
+      "latitude": 5.3396,
+      "longitude": -75.7302,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Corinto",
+      "province": "考卡省",
+      "latitude": 3.173,
+      "longitude": -76.2627,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Puerto Rico",
+      "province": "Caquetá",
+      "latitude": 1.91,
+      "longitude": -75.1593,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Puebloviejo",
+      "province": "马格达莱纳省",
+      "latitude": 10.9938,
+      "longitude": -74.2844,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Sonsón",
+      "province": "安蒂奥基亚省",
+      "latitude": 5.7106,
+      "longitude": -75.3107,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Sitionuevo",
+      "province": "马格达莱纳省",
+      "latitude": 10.7774,
+      "longitude": -74.7205,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "San Sebastián de Mariquita",
+      "province": "托利马省",
+      "latitude": 5.1989,
+      "longitude": -74.8929,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Anserma",
+      "province": "里萨拉尔达省",
+      "latitude": 5.3328,
+      "longitude": -75.7911,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Pivijay",
+      "province": "马格达莱纳省",
+      "latitude": 10.4617,
+      "longitude": -74.6162,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "San Onofre",
+      "province": "苏克雷省",
+      "latitude": 9.7359,
+      "longitude": -75.5263,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Caicedonia",
+      "province": "考卡山谷省",
+      "latitude": 4.3324,
+      "longitude": -75.8267,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Fonseca",
+      "province": "瓜希拉省",
+      "latitude": 10.8861,
+      "longitude": -72.8487,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Villanueva",
+      "province": "卡萨纳雷省",
+      "latitude": 5.2833,
+      "longitude": -71.9667,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Puerto Wilches",
+      "province": "桑坦德省",
+      "latitude": 7.3483,
+      "longitude": -73.896,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Mompós",
+      "province": "Bolívar",
+      "latitude": 9.2419,
+      "longitude": -74.4267,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "San Luis de Sincé",
+      "province": "苏克雷省",
+      "latitude": 9.2439,
+      "longitude": -75.1467,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "San Pedro de Urabá",
+      "province": "安蒂奥基亚省",
+      "latitude": 8.2752,
+      "longitude": -76.3764,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Guamo",
+      "province": "托利马省",
+      "latitude": 4.0308,
+      "longitude": -74.9701,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Chimichagua",
+      "province": "塞萨尔省",
+      "latitude": 9.2578,
+      "longitude": -73.8123,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Socorro",
+      "province": "桑坦德省",
+      "latitude": 6.4684,
+      "longitude": -73.2602,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Mitú",
+      "province": "Vaupés",
+      "latitude": 1.2574,
+      "longitude": -70.2355,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Puerto Asís",
+      "province": "普图马约省",
+      "latitude": 0.5051,
+      "longitude": -76.4957,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Morales",
+      "province": "考卡省",
+      "latitude": 2.7545,
+      "longitude": -76.6279,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Purificación",
+      "province": "托利马省",
+      "latitude": 3.8587,
+      "longitude": -74.9313,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Garzón",
+      "province": "乌伊拉省",
+      "latitude": 2.1959,
+      "longitude": -75.6278,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Flandes",
+      "province": "托利马省",
+      "latitude": 4.29,
+      "longitude": -74.8161,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "塔梅",
+      "name_en": "Tame",
+      "province": "阿劳卡省",
+      "latitude": 6.4607,
+      "longitude": -71.7362,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Zarzal",
+      "province": "考卡山谷省",
+      "latitude": 4.3946,
+      "longitude": -76.0715,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Santo Tomás",
+      "province": "Atlántico",
+      "latitude": 10.7577,
+      "longitude": -74.7545,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "El Charco",
+      "province": "Nariño",
+      "latitude": 2.4808,
+      "longitude": -78.1097,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "El Copey",
+      "province": "塞萨尔省",
+      "latitude": 10.1503,
+      "longitude": -73.9614,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Honda",
+      "province": "托利马省",
+      "latitude": 5.2086,
+      "longitude": -74.7358,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Sabana de Torres",
+      "province": "桑坦德省",
+      "latitude": 7.3915,
+      "longitude": -73.4957,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Luruaco",
+      "province": "Atlántico",
+      "latitude": 10.6171,
+      "longitude": -75.1515,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Roldanillo",
+      "province": "考卡山谷省",
+      "latitude": 4.4126,
+      "longitude": -76.1546,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "托卢",
+      "name_en": "Santiago de Tolú",
+      "province": "苏克雷省",
+      "latitude": 9.5239,
+      "longitude": -75.5814,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Puerto Boyacá",
+      "province": "Boyacá",
+      "latitude": 5.976,
+      "longitude": -74.5852,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Circasia",
+      "province": "金迪奥省",
+      "latitude": 4.6189,
+      "longitude": -75.6358,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "La Tebaida",
+      "province": "金迪奥省",
+      "latitude": 4.4527,
+      "longitude": -75.7875,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Palmar de Varela",
+      "province": "Atlántico",
+      "latitude": 10.7406,
+      "longitude": -74.7544,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Chiriguaná",
+      "province": "塞萨尔省",
+      "latitude": 9.3624,
+      "longitude": -73.6031,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Albania",
+      "province": "瓜希拉省",
+      "latitude": 11.161,
+      "longitude": -72.5924,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "La Mesa",
+      "province": "昆迪纳马卡省",
+      "latitude": 5.2667,
+      "longitude": -73.9167,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Supía",
+      "province": "卡尔达斯省",
+      "latitude": 5.453,
+      "longitude": -75.6507,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Ariguaní",
+      "province": "塞萨尔省",
+      "latitude": 10.25,
+      "longitude": -74.0,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Tierralta",
+      "province": "Córdoba",
+      "latitude": 8.1736,
+      "longitude": -76.0592,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Puerto Colombia",
+      "province": "Atlántico",
+      "latitude": 10.9878,
+      "longitude": -74.9547,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Mahates",
+      "province": "Bolívar",
+      "latitude": 10.2329,
+      "longitude": -75.1899,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "El Zulia",
+      "province": "北桑坦德省",
+      "latitude": 7.9325,
+      "longitude": -72.6012,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Melgar",
+      "province": "托利马省",
+      "latitude": 4.2047,
+      "longitude": -74.6407,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "La Virginia",
+      "province": "里萨拉尔达省",
+      "latitude": 4.8997,
+      "longitude": -75.8825,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Anaime",
+      "province": "托利马省",
+      "latitude": 4.3964,
+      "longitude": -75.445,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Repelón",
+      "province": "Atlántico",
+      "latitude": 10.4952,
+      "longitude": -75.1245,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Guamal",
+      "province": "马格达莱纳省",
+      "latitude": 9.1433,
+      "longitude": -74.2238,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Isnos",
+      "province": "乌伊拉省",
+      "latitude": 1.9356,
+      "longitude": -76.2406,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Zaragoza",
+      "province": "安蒂奥基亚省",
+      "latitude": 7.4897,
+      "longitude": -74.8692,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Nechí",
+      "province": "安蒂奥基亚省",
+      "latitude": 8.0942,
+      "longitude": -74.7757,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Cumaribo",
+      "province": "比查达省",
+      "latitude": 4.4455,
+      "longitude": -69.799,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Candelaria",
+      "province": "考卡山谷省",
+      "latitude": 3.4067,
+      "longitude": -76.3482,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Ituango",
+      "province": "安蒂奥基亚省",
+      "latitude": 7.1712,
+      "longitude": -75.764,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "San Jacinto",
+      "province": "Bolívar",
+      "latitude": 9.8277,
+      "longitude": -75.1217,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "San Carlos",
+      "province": "Córdoba",
+      "latitude": 8.7958,
+      "longitude": -75.6995,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Ponedera",
+      "province": "Atlántico",
+      "latitude": 10.643,
+      "longitude": -74.7539,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "María la Baja",
+      "province": "Bolívar",
+      "latitude": 9.9832,
+      "longitude": -75.3016,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Ciudad Bolívar",
+      "province": "安蒂奥基亚省",
+      "latitude": 5.8539,
+      "longitude": -76.0253,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Pinillos",
+      "province": "Bolívar",
+      "latitude": 8.9192,
+      "longitude": -74.4677,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Fe de Antioquia",
+      "province": "安蒂奥基亚省",
+      "latitude": 6.5569,
+      "longitude": -75.8281,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Sucre",
+      "province": "苏克雷省",
+      "latitude": 8.8114,
+      "longitude": -74.7208,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Sibaté",
+      "province": "昆迪纳马卡省",
+      "latitude": 4.4915,
+      "longitude": -74.2596,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Rivera",
+      "province": "乌伊拉省",
+      "latitude": 2.7772,
+      "longitude": -75.2564,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Campo de la Cruz",
+      "province": "Atlántico",
+      "latitude": 10.3781,
+      "longitude": -74.8836,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Dabeiba",
+      "province": "安蒂奥基亚省",
+      "latitude": 7.0002,
+      "longitude": -76.2691,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Campoalegre",
+      "province": "乌伊拉省",
+      "latitude": 2.6849,
+      "longitude": -75.3231,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Natagaima",
+      "province": "托利马省",
+      "latitude": 3.6206,
+      "longitude": -75.0941,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Yarumal",
+      "province": "安蒂奥基亚省",
+      "latitude": 6.9632,
+      "longitude": -75.4174,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "San Martín",
+      "province": "梅塔省",
+      "latitude": 3.6964,
+      "longitude": -73.6996,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Tauramena",
+      "province": "卡萨纳雷省",
+      "latitude": 5.0179,
+      "longitude": -72.7468,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Timbiquí",
+      "province": "考卡省",
+      "latitude": 2.7717,
+      "longitude": -77.6654,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Planadas",
+      "province": "托利马省",
+      "latitude": 3.197,
+      "longitude": -75.6451,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Belén de Umbría",
+      "province": "里萨拉尔达省",
+      "latitude": 5.2009,
+      "longitude": -75.8687,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "La Jagua de Ibirico",
+      "province": "塞萨尔省",
+      "latitude": 9.5623,
+      "longitude": -73.3341,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Sampués",
+      "province": "苏克雷省",
+      "latitude": 9.1836,
+      "longitude": -75.3817,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Puerto Carreño",
+      "province": "比查达省",
+      "latitude": 6.1904,
+      "longitude": -67.4839,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Moniquirá",
+      "province": "Boyacá",
+      "latitude": 5.8764,
+      "longitude": -73.5728,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "La Unión",
+      "province": "安蒂奥基亚省",
+      "latitude": 4.5328,
+      "longitude": -76.1032,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Aguadas",
+      "province": "卡尔达斯省",
+      "latitude": 5.6116,
+      "longitude": -75.4562,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Retiro",
+      "province": "安蒂奥基亚省",
+      "latitude": 6.0586,
+      "longitude": -75.5031,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Villeta",
+      "province": "昆迪纳马卡省",
+      "latitude": 5.0089,
+      "longitude": -74.4723,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Carepa",
+      "province": "安蒂奥基亚省",
+      "latitude": 7.7585,
+      "longitude": -76.6526,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Silvania",
+      "province": "昆迪纳马卡省",
+      "latitude": 4.4037,
+      "longitude": -74.3867,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Neira",
+      "province": "卡尔达斯省",
+      "latitude": 5.1665,
+      "longitude": -75.52,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Villa de San Diego de Ubaté",
+      "province": "昆迪纳马卡省",
+      "latitude": 5.3093,
+      "longitude": -73.8157,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Becerril",
+      "province": "塞萨尔省",
+      "latitude": 9.7041,
+      "longitude": -73.2793,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Cota",
+      "province": "昆迪纳马卡省",
+      "latitude": 4.8094,
+      "longitude": -74.098,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Rovira",
+      "province": "托利马省",
+      "latitude": 4.2392,
+      "longitude": -75.24,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "San Martín",
+      "province": "塞萨尔省",
+      "latitude": 3.6964,
+      "longitude": -73.6996,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Barbosa",
+      "province": "桑坦德省",
+      "latitude": 6.4381,
+      "longitude": -75.3314,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Galeras",
+      "province": "苏克雷省",
+      "latitude": 9.1609,
+      "longitude": -75.0481,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Frontino",
+      "province": "安蒂奥基亚省",
+      "latitude": 6.7713,
+      "longitude": -76.1332,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Puerto Leguízamo",
+      "province": "普图马约省",
+      "latitude": -0.1934,
+      "longitude": -74.7819,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Tolú Viejo",
+      "province": "苏克雷省",
+      "latitude": 9.4508,
+      "longitude": -75.4386,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "San Juan de Urabá",
+      "province": "安蒂奥基亚省",
+      "latitude": 8.7592,
+      "longitude": -76.5297,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Chaparral",
+      "province": "托利马省",
+      "latitude": 3.7231,
+      "longitude": -75.4832,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Buesaco",
+      "province": "Nariño",
+      "latitude": 1.3836,
+      "longitude": -77.1562,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Málaga",
+      "province": "桑坦德省",
+      "latitude": 6.699,
+      "longitude": -72.7323,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Galapa",
+      "province": "Atlántico",
+      "latitude": 10.8969,
+      "longitude": -74.886,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Suárez",
+      "province": "考卡省",
+      "latitude": 2.9539,
+      "longitude": -76.6964,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Guacarí",
+      "province": "考卡山谷省",
+      "latitude": 3.7638,
+      "longitude": -76.3329,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Polonuevo",
+      "province": "Atlántico",
+      "latitude": 10.777,
+      "longitude": -74.8534,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Vélez",
+      "province": "桑坦德省",
+      "latitude": 6.0133,
+      "longitude": -73.6735,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "El Retén",
+      "province": "马格达莱纳省",
+      "latitude": 10.6113,
+      "longitude": -74.2682,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Padua",
+      "province": "托利马省",
+      "latitude": 5.1343,
+      "longitude": -75.14,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "La Plata",
+      "province": "乌伊拉省",
+      "latitude": 2.3934,
+      "longitude": -75.8923,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Manatí",
+      "province": "Atlántico",
+      "latitude": 10.4459,
+      "longitude": -74.9587,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Rioblanco",
+      "province": "托利马省",
+      "latitude": 3.5297,
+      "longitude": -75.6453,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Riosucio",
+      "province": "卡尔达斯省",
+      "latitude": 5.4216,
+      "longitude": -75.7032,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Balboa",
+      "province": "考卡省",
+      "latitude": 2.0418,
+      "longitude": -77.2165,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Urrao",
+      "province": "安蒂奥基亚省",
+      "latitude": 6.317,
+      "longitude": -76.1342,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Juan de Acosta",
+      "province": "Atlántico",
+      "latitude": 10.8293,
+      "longitude": -75.0335,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Fredonia",
+      "province": "安蒂奥基亚省",
+      "latitude": 5.9258,
+      "longitude": -75.6706,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Villa Rica",
+      "province": "考卡省",
+      "latitude": 2.5142,
+      "longitude": -76.8494,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Villanueva",
+      "province": "瓜希拉省",
+      "latitude": 5.2833,
+      "longitude": -71.9667,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Morales",
+      "province": "Bolívar",
+      "latitude": 2.7545,
+      "longitude": -76.6279,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Pizarro",
+      "province": "Chocó",
+      "latitude": 4.9533,
+      "longitude": -77.366,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "San Diego",
+      "province": "塞萨尔省",
+      "latitude": 10.3338,
+      "longitude": -73.1805,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Astrea",
+      "province": "塞萨尔省",
+      "latitude": 9.4983,
+      "longitude": -73.9759,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Rosa",
+      "province": "Bolívar",
+      "latitude": 4.8681,
+      "longitude": -75.6214,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Chivolo",
+      "province": "马格达莱纳省",
+      "latitude": 10.025,
+      "longitude": -74.6228,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "San Benito Abad",
+      "province": "苏克雷省",
+      "latitude": 8.929,
+      "longitude": -75.0271,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Andalucía",
+      "province": "考卡山谷省",
+      "latitude": 4.1706,
+      "longitude": -76.1664,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Salamina",
+      "province": "卡尔达斯省",
+      "latitude": 5.4073,
+      "longitude": -75.4875,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "San Vicente",
+      "province": "安蒂奥基亚省",
+      "latitude": 6.2854,
+      "longitude": -75.3338,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Tiquisio",
+      "province": "Bolívar",
+      "latitude": 8.5567,
+      "longitude": -74.2635,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "El Doncello",
+      "province": "Caquetá",
+      "latitude": 1.6782,
+      "longitude": -75.2847,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Santuario",
+      "province": "安蒂奥基亚省",
+      "latitude": 6.1383,
+      "longitude": -75.2642,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Fresno",
+      "province": "托利马省",
+      "latitude": 5.1526,
+      "longitude": -75.0362,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "El Carmen de Chucurí",
+      "province": "桑坦德省",
+      "latitude": 6.6974,
+      "longitude": -73.5112,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Ciénaga de Oro",
+      "province": "Córdoba",
+      "latitude": 8.8744,
+      "longitude": -75.6203,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Restrepo",
+      "province": "梅塔省",
+      "latitude": 4.2583,
+      "longitude": -73.5614,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Abejorral",
+      "province": "安蒂奥基亚省",
+      "latitude": 5.7893,
+      "longitude": -75.4273,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Yondó",
+      "province": "安蒂奥基亚省",
+      "latitude": 7.0062,
+      "longitude": -73.9097,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Nueva Granada",
+      "province": "马格达莱纳省",
+      "latitude": 9.1609,
+      "longitude": -75.0481,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Puerto Triunfo",
+      "province": "安蒂奥基亚省",
+      "latitude": 5.8726,
+      "longitude": -74.6405,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Lérida",
+      "province": "托利马省",
+      "latitude": 4.8624,
+      "longitude": -74.9098,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Tadó",
+      "province": "Chocó",
+      "latitude": 5.266,
+      "longitude": -76.5649,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Pailitas",
+      "province": "塞萨尔省",
+      "latitude": 8.9567,
+      "longitude": -73.6238,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Pacho",
+      "province": "昆迪纳马卡省",
+      "latitude": 5.1328,
+      "longitude": -74.1598,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Puerto López",
+      "province": "梅塔省",
+      "latitude": 4.0991,
+      "longitude": -72.9565,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "San Lorenzo",
+      "province": "Nariño",
+      "latitude": 1.5029,
+      "longitude": -77.2154,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Manzanares",
+      "province": "卡尔达斯省",
+      "latitude": 5.254,
+      "longitude": -75.154,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "San Estanislao",
+      "province": "Bolívar",
+      "latitude": 10.3983,
+      "longitude": -75.1511,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Pupiales",
+      "province": "Nariño",
+      "latitude": 0.8714,
+      "longitude": -77.6403,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Andes",
+      "province": "安蒂奥基亚省",
+      "latitude": 5.6561,
+      "longitude": -75.8788,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Puerto Santander",
+      "province": "北桑坦德省",
+      "latitude": 8.3636,
+      "longitude": -72.4063,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Momil",
+      "province": "Córdoba",
+      "latitude": 9.2377,
+      "longitude": -75.6749,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Cotorra",
+      "province": "Córdoba",
+      "latitude": 9.0389,
+      "longitude": -75.7897,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Tarqui",
+      "province": "乌伊拉省",
+      "latitude": 2.1125,
+      "longitude": -75.8242,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "孔科尔迪亚",
+      "name_en": "Concordia",
+      "province": "安蒂奥基亚省",
+      "latitude": 3.7638,
+      "longitude": -76.3329,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Guadalupe",
+      "province": "乌伊拉省",
+      "latitude": 2.0248,
+      "longitude": -75.7559,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Salgar",
+      "province": "安蒂奥基亚省",
+      "latitude": 5.965,
+      "longitude": -75.9654,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Darien",
+      "province": "考卡山谷省",
+      "latitude": 3.9314,
+      "longitude": -76.4848,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Lucía",
+      "province": "Atlántico",
+      "latitude": 10.3242,
+      "longitude": -74.9602,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "阿瓜苏尔",
+      "name_en": "Aguazul",
+      "province": "卡萨纳雷省",
+      "latitude": 5.1728,
+      "longitude": -72.5471,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Candelaria",
+      "province": "Atlántico",
+      "latitude": 3.4067,
+      "longitude": -76.3482,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Marsella",
+      "province": "里萨拉尔达省",
+      "latitude": 4.9372,
+      "longitude": -75.7378,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "托坎西帕",
+      "name_en": "Tocancipá",
+      "province": "昆迪纳马卡省",
+      "latitude": 4.9653,
+      "longitude": -73.913,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Simití",
+      "province": "Bolívar",
+      "latitude": 7.9579,
+      "longitude": -73.9436,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Betulia",
+      "province": "安蒂奥基亚省",
+      "latitude": 6.1128,
+      "longitude": -75.9838,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "La Unión",
+      "province": "Nariño",
+      "latitude": 4.5328,
+      "longitude": -76.1032,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Puerto Salgar",
+      "province": "昆迪纳马卡省",
+      "latitude": 5.463,
+      "longitude": -74.6544,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "La Gloria",
+      "province": "塞萨尔省",
+      "latitude": 8.6195,
+      "longitude": -73.8021,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Canalete",
+      "province": "Córdoba",
+      "latitude": 8.6761,
+      "longitude": -76.2042,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "蒙特雷",
+      "name_en": "Monterrey",
+      "province": "卡萨纳雷省",
+      "latitude": 4.878,
+      "longitude": -72.8958,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Mercaderes",
+      "province": "考卡省",
+      "latitude": 1.8017,
+      "longitude": -77.1703,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Cocorná",
+      "province": "安蒂奥基亚省",
+      "latitude": 6.0573,
+      "longitude": -75.1852,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Purísima de la Concepción",
+      "province": "Córdoba",
+      "latitude": 9.2366,
+      "longitude": -75.7219,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Chicoral",
+      "province": "托利马省",
+      "latitude": 4.2154,
+      "longitude": -74.9819,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "San Carlos",
+      "province": "安蒂奥基亚省",
+      "latitude": 8.7958,
+      "longitude": -75.6995,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Pueblo Rico",
+      "province": "里萨拉尔达省",
+      "latitude": 5.2226,
+      "longitude": -76.0303,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Río de Oro",
+      "province": "塞萨尔省",
+      "latitude": 8.2922,
+      "longitude": -73.3849,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Los Palmitos",
+      "province": "苏克雷省",
+      "latitude": 9.379,
+      "longitude": -75.2677,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Guarne",
+      "province": "安蒂奥基亚省",
+      "latitude": 6.2805,
+      "longitude": -75.4435,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Donmatías",
+      "province": "安蒂奥基亚省",
+      "latitude": 6.4857,
+      "longitude": -75.395,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Catalina",
+      "province": "Bolívar",
+      "latitude": 10.6036,
+      "longitude": -75.2882,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Ana",
+      "province": "马格达莱纳省",
+      "latitude": 9.3212,
+      "longitude": -74.5685,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Guamal",
+      "province": "梅塔省",
+      "latitude": 9.1433,
+      "longitude": -74.2238,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Guapí",
+      "province": "考卡省",
+      "latitude": 2.5708,
+      "longitude": -77.8854,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Clemencia",
+      "province": "Bolívar",
+      "latitude": 10.5664,
+      "longitude": -75.325,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Istmina",
+      "province": "Chocó",
+      "latitude": 5.1605,
+      "longitude": -76.684,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Toro",
+      "province": "考卡山谷省",
+      "latitude": 4.6117,
+      "longitude": -76.0814,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Tocaima",
+      "province": "昆迪纳马卡省",
+      "latitude": 4.4582,
+      "longitude": -74.6343,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Cañasgordas",
+      "province": "安蒂奥基亚省",
+      "latitude": 6.7499,
+      "longitude": -76.0254,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Tibú",
+      "province": "北桑坦德省",
+      "latitude": 8.6389,
+      "longitude": -72.7358,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Palestina",
+      "province": "卡尔达斯省",
+      "latitude": 5.0161,
+      "longitude": -75.6285,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Paipa",
+      "province": "Boyacá",
+      "latitude": 5.7801,
+      "longitude": -73.1171,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Chimá",
+      "province": "Córdoba",
+      "latitude": 9.1489,
+      "longitude": -75.6284,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Ataco",
+      "province": "托利马省",
+      "latitude": 3.5915,
+      "longitude": -75.3818,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Montecristo",
+      "province": "Bolívar",
+      "latitude": 8.2971,
+      "longitude": -74.4733,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Maní",
+      "province": "卡萨纳雷省",
+      "latitude": 4.8164,
+      "longitude": -72.2795,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Ovejas",
+      "province": "苏克雷省",
+      "latitude": 9.5272,
+      "longitude": -75.2287,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "La Paz",
+      "province": "塞萨尔省",
+      "latitude": 10.3844,
+      "longitude": -73.1733,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Pácora",
+      "province": "卡尔达斯省",
+      "latitude": 5.5271,
+      "longitude": -75.4593,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "San Jerónimo",
+      "province": "安蒂奥基亚省",
+      "latitude": 6.4434,
+      "longitude": -75.7281,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "El Playón",
+      "province": "桑坦德省",
+      "latitude": 7.4713,
+      "longitude": -73.2031,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Villanueva",
+      "province": "Bolívar",
+      "latitude": 5.2833,
+      "longitude": -71.9667,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "圣芭芭拉",
+      "name_en": "Santa Bárbara",
+      "province": "安蒂奥基亚省",
+      "latitude": 2.7717,
+      "longitude": -77.6654,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Mutatá",
+      "province": "安蒂奥基亚省",
+      "latitude": 7.2441,
+      "longitude": -76.4356,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Viotá",
+      "province": "昆迪纳马卡省",
+      "latitude": 4.4371,
+      "longitude": -74.5216,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Puente Nacional",
+      "province": "桑坦德省",
+      "latitude": 5.8774,
+      "longitude": -73.6781,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "San Rafael",
+      "province": "安蒂奥基亚省",
+      "latitude": 6.2944,
+      "longitude": -75.0259,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "El Tambo",
+      "province": "Nariño",
+      "latitude": 1.4079,
+      "longitude": -77.3922,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Gamarra",
+      "province": "塞萨尔省",
+      "latitude": 8.3229,
+      "longitude": -73.7423,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Viterbo",
+      "province": "卡尔达斯省",
+      "latitude": 5.0624,
+      "longitude": -75.8716,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Bugalagrande",
+      "province": "考卡山谷省",
+      "latitude": 4.2121,
+      "longitude": -76.1556,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Santo Domingo",
+      "province": "安蒂奥基亚省",
+      "latitude": 6.4728,
+      "longitude": -75.1655,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Ansermanuevo",
+      "province": "考卡山谷省",
+      "latitude": 4.7972,
+      "longitude": -75.995,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Dagua",
+      "province": "考卡山谷省",
+      "latitude": 3.6568,
+      "longitude": -76.6886,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Pital",
+      "province": "乌伊拉省",
+      "latitude": 2.2665,
+      "longitude": -75.8044,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "阿诺莱马",
+      "name_en": "Anolaima",
+      "province": "昆迪纳马卡省",
+      "latitude": 4.7633,
+      "longitude": -74.4647,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Unguía",
+      "province": "Chocó",
+      "latitude": 8.0436,
+      "longitude": -77.0914,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Amagá",
+      "province": "安蒂奥基亚省",
+      "latitude": 6.04,
+      "longitude": -75.7031,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Marquetalia",
+      "province": "卡尔达斯省",
+      "latitude": 5.2966,
+      "longitude": -75.055,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "El Bordo",
+      "province": "考卡省",
+      "latitude": 2.117,
+      "longitude": -76.9821,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "El Carmen",
+      "province": "北桑坦德省",
+      "latitude": 9.7174,
+      "longitude": -75.1202,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Distracción",
+      "province": "瓜希拉省",
+      "latitude": 10.8978,
+      "longitude": -72.8867,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Santuario",
+      "province": "里萨拉尔达省",
+      "latitude": 6.1383,
+      "longitude": -75.2642,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Trinidad",
+      "province": "卡萨纳雷省",
+      "latitude": 5.4085,
+      "longitude": -71.662,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Armero-Guyabal",
+      "province": "托利马省",
+      "latitude": 4.967,
+      "longitude": -74.9029,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Curití",
+      "province": "桑坦德省",
+      "latitude": 6.6052,
+      "longitude": -73.0681,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "San Carlos de Guaroa",
+      "province": "梅塔省",
+      "latitude": 3.7116,
+      "longitude": -73.2434,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Valdivia",
+      "province": "安蒂奥基亚省",
+      "latitude": 7.2938,
+      "longitude": -75.3919,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "San Pedro",
+      "province": "苏克雷省",
+      "latitude": 9.3956,
+      "longitude": -75.0648,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Municipio Hato Corozal",
+      "province": "卡萨纳雷省",
+      "latitude": 6.1568,
+      "longitude": -71.7637,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "El Retorno",
+      "province": "瓜维亚雷省",
+      "latitude": 2.3302,
+      "longitude": -72.6277,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Rosa de Viterbo",
+      "province": "Boyacá",
+      "latitude": 5.874,
+      "longitude": -72.9822,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Venadillo",
+      "province": "托利马省",
+      "latitude": 4.7193,
+      "longitude": -74.9292,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Pelaya",
+      "province": "塞萨尔省",
+      "latitude": 8.6882,
+      "longitude": -73.6645,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "San Vicente de Chucurí",
+      "province": "桑坦德省",
+      "latitude": 6.881,
+      "longitude": -73.4098,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Cumaral",
+      "province": "梅塔省",
+      "latitude": 4.2708,
+      "longitude": -73.4867,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Gachancipá",
+      "province": "昆迪纳马卡省",
+      "latitude": 4.9911,
+      "longitude": -73.8715,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Junín",
+      "province": "托利马省",
+      "latitude": 4.7833,
+      "longitude": -75.0167,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Majagual",
+      "province": "苏克雷省",
+      "latitude": 8.5412,
+      "longitude": -74.6294,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Oporapa",
+      "province": "乌伊拉省",
+      "latitude": 2.0238,
+      "longitude": -75.9959,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "加拉戈阿",
+      "name_en": "Garagoa",
+      "province": "Boyacá",
+      "latitude": 5.0824,
+      "longitude": -73.3633,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Pijiño del Carmen",
+      "province": "马格达莱纳省",
+      "latitude": 9.3291,
+      "longitude": -74.453,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "La Victoria",
+      "province": "考卡山谷省",
+      "latitude": 4.5248,
+      "longitude": -76.0392,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Gaitania",
+      "province": "托利马省",
+      "latitude": 3.15,
+      "longitude": -75.8167,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Obando",
+      "province": "考卡山谷省",
+      "latitude": 4.5758,
+      "longitude": -75.9739,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Soatá",
+      "province": "Boyacá",
+      "latitude": 6.3337,
+      "longitude": -72.6828,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Yacopí",
+      "province": "昆迪纳马卡省",
+      "latitude": 5.4595,
+      "longitude": -74.3382,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Necoclí",
+      "province": "安蒂奥基亚省",
+      "latitude": 8.4263,
+      "longitude": -76.7893,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Abrego",
+      "province": "北桑坦德省",
+      "latitude": 8.082,
+      "longitude": -73.2214,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Icononzo",
+      "province": "托利马省",
+      "latitude": 4.177,
+      "longitude": -74.5325,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Algeciras",
+      "province": "乌伊拉省",
+      "latitude": 2.5238,
+      "longitude": -75.3173,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Ricaurte",
+      "province": "昆迪纳马卡省",
+      "latitude": 4.2808,
+      "longitude": -74.7647,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "阿瓜德迪奥斯",
+      "name_en": "Agua de Dios",
+      "province": "昆迪纳马卡省",
+      "latitude": 4.3765,
+      "longitude": -74.67,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Valencia",
+      "province": "Córdoba",
+      "latitude": 8.258,
+      "longitude": -76.1493,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "San Alberto",
+      "province": "塞萨尔省",
+      "latitude": 7.7611,
+      "longitude": -73.3922,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Yacuanquer",
+      "province": "Nariño",
+      "latitude": 1.1158,
+      "longitude": -77.4017,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Lejanías",
+      "province": "梅塔省",
+      "latitude": 3.5276,
+      "longitude": -74.0233,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Nilo",
+      "province": "昆迪纳马卡省",
+      "latitude": 4.306,
+      "longitude": -74.6208,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Palestina",
+      "province": "乌伊拉省",
+      "latitude": 5.0161,
+      "longitude": -75.6285,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Sandoná",
+      "province": "Nariño",
+      "latitude": 1.2863,
+      "longitude": -77.4692,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Suan",
+      "province": "Atlántico",
+      "latitude": 10.3335,
+      "longitude": -74.8802,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Ebéjico",
+      "province": "安蒂奥基亚省",
+      "latitude": 6.326,
+      "longitude": -75.7683,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Solano",
+      "province": "Caquetá",
+      "latitude": 0.6994,
+      "longitude": -75.2535,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Caparrapí",
+      "province": "昆迪纳马卡省",
+      "latitude": 5.3464,
+      "longitude": -74.4915,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Venecia",
+      "province": "安蒂奥基亚省",
+      "latitude": 5.9628,
+      "longitude": -75.7381,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Tello",
+      "province": "乌伊拉省",
+      "latitude": 3.0669,
+      "longitude": -75.1378,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Turbaná",
+      "province": "Bolívar",
+      "latitude": 10.2717,
+      "longitude": -75.4422,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Mosquera",
+      "province": "Nariño",
+      "latitude": 4.7059,
+      "longitude": -74.2302,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Potosí",
+      "province": "Nariño",
+      "latitude": 0.8074,
+      "longitude": -77.5722,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "La Calera",
+      "province": "昆迪纳马卡省",
+      "latitude": 4.7207,
+      "longitude": -73.9693,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Mogotes",
+      "province": "桑坦德省",
+      "latitude": 6.4756,
+      "longitude": -72.9705,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Saladoblanco",
+      "province": "乌伊拉省",
+      "latitude": 1.9924,
+      "longitude": -76.0434,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Algarrobo",
+      "province": "马格达莱纳省",
+      "latitude": 10.1869,
+      "longitude": -74.5753,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Valle del Guamuez",
+      "province": "普图马约省",
+      "latitude": 0.4525,
+      "longitude": -76.9192,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Arauquita",
+      "province": "阿劳卡省",
+      "latitude": 7.0292,
+      "longitude": -71.4281,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "La Sierra",
+      "province": "考卡省",
+      "latitude": 2.1784,
+      "longitude": -76.7626,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Condoto",
+      "province": "Chocó",
+      "latitude": 5.0935,
+      "longitude": -76.6497,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Palermo",
+      "province": "乌伊拉省",
+      "latitude": 2.8917,
+      "longitude": -75.4375,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Coello",
+      "province": "托利马省",
+      "latitude": 4.4031,
+      "longitude": -75.2942,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Aranzazu",
+      "province": "卡尔达斯省",
+      "latitude": 5.2712,
+      "longitude": -75.4904,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Olaya Herrera",
+      "province": "Nariño",
+      "latitude": 1.248,
+      "longitude": -77.4908,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Sasaima",
+      "province": "昆迪纳马卡省",
+      "latitude": 4.9671,
+      "longitude": -74.4351,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Mesetas",
+      "province": "梅塔省",
+      "latitude": 3.3846,
+      "longitude": -74.0442,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Hacarí",
+      "province": "北桑坦德省",
+      "latitude": 8.321,
+      "longitude": -73.1458,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Amalfi",
+      "province": "安蒂奥基亚省",
+      "latitude": 6.9102,
+      "longitude": -75.0776,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Margarita",
+      "province": "Bolívar",
+      "latitude": 9.156,
+      "longitude": -74.2662,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Manaure",
+      "province": "瓜希拉省",
+      "latitude": 11.7751,
+      "longitude": -72.4445,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Belalcázar",
+      "province": "卡尔达斯省",
+      "latitude": 2.6464,
+      "longitude": -75.9727,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "La Primavera",
+      "province": "比查达省",
+      "latitude": 5.4906,
+      "longitude": -70.4092,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Chinácota",
+      "province": "北桑坦德省",
+      "latitude": 7.6073,
+      "longitude": -72.6011,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Filadelfia",
+      "province": "卡尔达斯省",
+      "latitude": 5.2961,
+      "longitude": -75.5612,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Vegachí",
+      "province": "安蒂奥基亚省",
+      "latitude": 6.7614,
+      "longitude": -74.7947,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Bolívar",
+      "province": "桑坦德省",
+      "latitude": 5.9893,
+      "longitude": -73.7706,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Zambrano",
+      "province": "Bolívar",
+      "latitude": 9.7474,
+      "longitude": -74.8157,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Restrepo",
+      "province": "考卡山谷省",
+      "latitude": 4.2583,
+      "longitude": -73.5614,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Cunday",
+      "province": "托利马省",
+      "latitude": 4.06,
+      "longitude": -74.6921,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Usiacurí",
+      "province": "Atlántico",
+      "latitude": 10.7431,
+      "longitude": -74.976,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Curillo",
+      "province": "Caquetá",
+      "latitude": 1.0333,
+      "longitude": -75.9191,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "San Agustín",
+      "province": "乌伊拉省",
+      "latitude": 1.8788,
+      "longitude": -76.2672,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Sibundoy",
+      "province": "普图马约省",
+      "latitude": 1.203,
+      "longitude": -76.9227,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Bahía Solano",
+      "province": "Chocó",
+      "latitude": 6.2262,
+      "longitude": -77.4044,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Rosas",
+      "province": "考卡省",
+      "latitude": 2.2609,
+      "longitude": -76.7399,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Manaure Balcón del Cesar",
+      "province": "塞萨尔省",
+      "latitude": 10.3928,
+      "longitude": -73.0325,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Cajamarca",
+      "province": "托利马省",
+      "latitude": 4.4423,
+      "longitude": -75.4287,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Landázuri",
+      "province": "桑坦德省",
+      "latitude": 6.2183,
+      "longitude": -73.8112,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Saldaña",
+      "province": "托利马省",
+      "latitude": 3.9292,
+      "longitude": -75.0152,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Riofrío",
+      "province": "考卡山谷省",
+      "latitude": 4.1571,
+      "longitude": -76.2885,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Falan",
+      "province": "托利马省",
+      "latitude": 5.1238,
+      "longitude": -74.9518,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Granada",
+      "province": "安蒂奥基亚省",
+      "latitude": 3.5463,
+      "longitude": -73.7069,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Calamar",
+      "province": "Bolívar",
+      "latitude": 10.2527,
+      "longitude": -74.9157,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Alcalá",
+      "province": "考卡山谷省",
+      "latitude": 4.6747,
+      "longitude": -75.7825,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Palocabildo",
+      "province": "托利马省",
+      "latitude": 5.117,
+      "longitude": -75.0173,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "San Juan de Betulia",
+      "province": "苏克雷省",
+      "latitude": 9.2735,
+      "longitude": -75.241,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Pueblo Nuevo",
+      "province": "Córdoba",
+      "latitude": 10.777,
+      "longitude": -74.8534,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Íquira",
+      "province": "乌伊拉省",
+      "latitude": 2.6487,
+      "longitude": -75.6346,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Linares",
+      "province": "Nariño",
+      "latitude": 1.3508,
+      "longitude": -77.5234,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "San Bernardo del Viento",
+      "province": "Córdoba",
+      "latitude": 9.3533,
+      "longitude": -75.9524,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Lebrija",
+      "province": "桑坦德省",
+      "latitude": 7.1132,
+      "longitude": -73.2178,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Rosa del Sur",
+      "province": "Bolívar",
+      "latitude": 7.9644,
+      "longitude": -74.0544,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Entrerríos",
+      "province": "安蒂奥基亚省",
+      "latitude": 6.5654,
+      "longitude": -75.5169,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "San Pedro",
+      "province": "安蒂奥基亚省",
+      "latitude": 9.3956,
+      "longitude": -75.0648,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Alvarado",
+      "province": "托利马省",
+      "latitude": 4.5683,
+      "longitude": -74.9523,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "La Cruz",
+      "province": "Nariño",
+      "latitude": 8.082,
+      "longitude": -73.2214,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Sotomayor",
+      "province": "Nariño",
+      "latitude": 1.4947,
+      "longitude": -77.5214,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Urumita",
+      "province": "瓜希拉省",
+      "latitude": 10.561,
+      "longitude": -73.0134,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "San Antonio",
+      "province": "马格达莱纳省",
+      "latitude": 9.933,
+      "longitude": -74.6935,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Achí",
+      "province": "Bolívar",
+      "latitude": 8.5695,
+      "longitude": -74.5571,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Sopó",
+      "province": "昆迪纳马卡省",
+      "latitude": 4.9075,
+      "longitude": -73.9384,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Arboletes",
+      "province": "安蒂奥基亚省",
+      "latitude": 8.8505,
+      "longitude": -76.4269,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Yotoco",
+      "province": "考卡山谷省",
+      "latitude": 3.8605,
+      "longitude": -76.3836,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Titiribí",
+      "province": "安蒂奥基亚省",
+      "latitude": 6.0628,
+      "longitude": -75.7937,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Remolino",
+      "province": "马格达莱纳省",
+      "latitude": 10.702,
+      "longitude": -74.716,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Miraflores",
+      "province": "Boyacá",
+      "latitude": 5.1961,
+      "longitude": -73.145,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Gómez Plata",
+      "province": "安蒂奥基亚省",
+      "latitude": 6.6818,
+      "longitude": -75.2191,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Cisneros",
+      "province": "安蒂奥基亚省",
+      "latitude": 6.5383,
+      "longitude": -75.0886,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Timaná",
+      "province": "乌伊拉省",
+      "latitude": 1.9714,
+      "longitude": -75.9312,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Leiva",
+      "province": "Nariño",
+      "latitude": 1.935,
+      "longitude": -77.3063,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Tubará",
+      "province": "Atlántico",
+      "latitude": 10.8756,
+      "longitude": -74.9787,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Pensilvania",
+      "province": "卡尔达斯省",
+      "latitude": 5.3835,
+      "longitude": -75.1612,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Policarpa",
+      "province": "Nariño",
+      "latitude": 1.6284,
+      "longitude": -77.4596,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Río Viejo",
+      "province": "Bolívar",
+      "latitude": 8.5886,
+      "longitude": -73.8397,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Puerto Concordia",
+      "province": "梅塔省",
+      "latitude": 2.6221,
+      "longitude": -72.7572,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Soplaviento",
+      "province": "Bolívar",
+      "latitude": 10.3931,
+      "longitude": -75.1408,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Muzo",
+      "province": "Boyacá",
+      "latitude": 5.5353,
+      "longitude": -74.1078,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Aipe",
+      "province": "乌伊拉省",
+      "latitude": 3.2222,
+      "longitude": -75.2367,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Cáqueza",
+      "province": "昆迪纳马卡省",
+      "latitude": 4.4057,
+      "longitude": -73.9468,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "El Dovio",
+      "province": "考卡山谷省",
+      "latitude": 4.5079,
+      "longitude": -76.2362,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Liborina",
+      "province": "安蒂奥基亚省",
+      "latitude": 6.6779,
+      "longitude": -75.8122,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Herveo",
+      "province": "托利马省",
+      "latitude": 5.08,
+      "longitude": -75.1756,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Sardinata",
+      "province": "北桑坦德省",
+      "latitude": 8.0829,
+      "longitude": -72.8007,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Jericó",
+      "province": "安蒂奥基亚省",
+      "latitude": 5.7921,
+      "longitude": -75.786,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Jardín",
+      "province": "安蒂奥基亚省",
+      "latitude": 5.599,
+      "longitude": -75.8198,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "San Carlos",
+      "province": "安蒂奥基亚省",
+      "latitude": 8.7958,
+      "longitude": -75.6995,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Cicuco",
+      "province": "Bolívar",
+      "latitude": 9.2776,
+      "longitude": -74.6431,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Barbacoas",
+      "province": "Nariño",
+      "latitude": 1.6715,
+      "longitude": -78.1398,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "El Paujíl",
+      "province": "Caquetá",
+      "latitude": 1.5701,
+      "longitude": -75.3286,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Prado",
+      "province": "托利马省",
+      "latitude": 3.7512,
+      "longitude": -74.93,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Chocontá",
+      "province": "昆迪纳马卡省",
+      "latitude": 5.1447,
+      "longitude": -73.6858,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Cartagena del Chairá",
+      "province": "Caquetá",
+      "latitude": 1.3349,
+      "longitude": -74.8429,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Cumbal",
+      "province": "Nariño",
+      "latitude": 0.9087,
+      "longitude": -77.7914,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Uribia",
+      "province": "瓜希拉省",
+      "latitude": 11.715,
+      "longitude": -72.2659,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Milán",
+      "province": "Caquetá",
+      "latitude": 1.2903,
+      "longitude": -75.5076,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "El Piñón",
+      "province": "马格达莱纳省",
+      "latitude": 10.4028,
+      "longitude": -74.8242,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Silvia",
+      "province": "考卡省",
+      "latitude": 2.6156,
+      "longitude": -76.3826,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Salahonda",
+      "province": "Nariño",
+      "latitude": 2.0406,
+      "longitude": -78.6588,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "El Águila",
+      "province": "考卡山谷省",
+      "latitude": 4.9135,
+      "longitude": -76.04,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "伊尼里达",
+      "name_en": "Inírida",
+      "province": "瓜伊尼亚省",
+      "latitude": 3.8653,
+      "longitude": -67.9239,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Medina",
+      "province": "昆迪纳马卡省",
+      "latitude": 4.51,
+      "longitude": -73.3498,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "El Peñón",
+      "province": "Bolívar",
+      "latitude": 8.9888,
+      "longitude": -73.949,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "La Dorada",
+      "province": "普图马约省",
+      "latitude": 5.4478,
+      "longitude": -74.6631,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Riosucio",
+      "province": "Chocó",
+      "latitude": 5.4216,
+      "longitude": -75.7032,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Peque",
+      "province": "安蒂奥基亚省",
+      "latitude": 7.0212,
+      "longitude": -75.9093,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Génova",
+      "province": "金迪奥省",
+      "latitude": 4.3167,
+      "longitude": -75.7667,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "La Chamba",
+      "province": "托利马省",
+      "latitude": 4.0265,
+      "longitude": -74.8684,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Guateque",
+      "province": "Boyacá",
+      "latitude": 5.0062,
+      "longitude": -73.4727,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Cerro de San Antonio",
+      "province": "马格达莱纳省",
+      "latitude": 10.3259,
+      "longitude": -74.8693,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Colombia",
+      "province": "乌伊拉省",
+      "latitude": 3.3761,
+      "longitude": -74.8015,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Villagarzón",
+      "province": "普图马约省",
+      "latitude": 1.0375,
+      "longitude": -76.6267,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Otanche",
+      "province": "Boyacá",
+      "latitude": 5.6567,
+      "longitude": -74.1825,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Apía",
+      "province": "里萨拉尔达省",
+      "latitude": 5.1066,
+      "longitude": -75.9424,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Cantagallo",
+      "province": "Bolívar",
+      "latitude": 7.3793,
+      "longitude": -73.9155,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Ortega",
+      "province": "托利马省",
+      "latitude": 3.9361,
+      "longitude": -75.2217,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Filandia",
+      "province": "金迪奥省",
+      "latitude": 4.6747,
+      "longitude": -75.6583,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Santiago",
+      "province": "普图马约省",
+      "latitude": 1.1484,
+      "longitude": -77.0045,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Ambalema",
+      "province": "托利马省",
+      "latitude": 4.784,
+      "longitude": -74.7627,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Casabianca",
+      "province": "托利马省",
+      "latitude": 5.0796,
+      "longitude": -75.1206,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Concordia",
+      "province": "马格达莱纳省",
+      "latitude": 3.7638,
+      "longitude": -76.3329,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Córdoba",
+      "province": "Bolívar",
+      "latitude": 9.5861,
+      "longitude": -74.827,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "San Pablo",
+      "province": "Nariño",
+      "latitude": 10.0515,
+      "longitude": -75.2678,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "San Zenón",
+      "province": "马格达莱纳省",
+      "latitude": 9.2422,
+      "longitude": -74.5004,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "El Rosario",
+      "province": "Nariño",
+      "latitude": 3.2607,
+      "longitude": -76.535,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Caloto",
+      "province": "考卡省",
+      "latitude": 3.0359,
+      "longitude": -76.4079,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "雷梅迪奥斯",
+      "name_en": "Remedios",
+      "province": "安蒂奥基亚省",
+      "latitude": 7.0283,
+      "longitude": -74.6938,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Támesis",
+      "province": "安蒂奥基亚省",
+      "latitude": 5.6646,
+      "longitude": -75.7134,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Isabel",
+      "province": "托利马省",
+      "latitude": 3.3494,
+      "longitude": -74.9806,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "El Paso",
+      "province": "塞萨尔省",
+      "latitude": 9.6572,
+      "longitude": -73.7468,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "El Tambo",
+      "province": "考卡省",
+      "latitude": 1.4079,
+      "longitude": -77.3922,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Pauna",
+      "province": "Boyacá",
+      "latitude": 5.6586,
+      "longitude": -73.9825,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Roncesvalles",
+      "province": "托利马省",
+      "latitude": 4.0108,
+      "longitude": -75.6049,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Guaitarilla",
+      "province": "Nariño",
+      "latitude": 1.131,
+      "longitude": -77.5482,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Mistrató",
+      "province": "里萨拉尔达省",
+      "latitude": 5.2962,
+      "longitude": -75.8839,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Talaigua Viejo",
+      "province": "Bolívar",
+      "latitude": 9.3121,
+      "longitude": -74.5854,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Salamina",
+      "province": "马格达莱纳省",
+      "latitude": 5.4073,
+      "longitude": -75.4875,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Ginebra",
+      "province": "考卡山谷省",
+      "latitude": 3.7246,
+      "longitude": -76.2668,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Aldana",
+      "province": "Nariño",
+      "latitude": 0.8828,
+      "longitude": -77.701,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Valparaíso",
+      "province": "Caquetá",
+      "latitude": 1.194,
+      "longitude": -75.7075,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Zapatoca",
+      "province": "桑坦德省",
+      "latitude": 6.8153,
+      "longitude": -73.2677,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Mapiripán",
+      "province": "梅塔省",
+      "latitude": 2.8912,
+      "longitude": -72.1333,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Yolombó",
+      "province": "安蒂奥基亚省",
+      "latitude": 6.5984,
+      "longitude": -75.0114,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Norcasia",
+      "province": "卡尔达斯省",
+      "latitude": 5.5754,
+      "longitude": -74.8883,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Barranco de Loba",
+      "province": "Bolívar",
+      "latitude": 8.946,
+      "longitude": -74.1065,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Puerto Gaitán",
+      "province": "梅塔省",
+      "latitude": 4.3133,
+      "longitude": -72.0816,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Toledo",
+      "province": "北桑坦德省",
+      "latitude": 7.3098,
+      "longitude": -72.483,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Trujillo",
+      "province": "考卡山谷省",
+      "latitude": 4.2122,
+      "longitude": -76.3195,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Villapinzón",
+      "province": "昆迪纳马卡省",
+      "latitude": 5.2162,
+      "longitude": -73.5949,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Ancuya",
+      "province": "Nariño",
+      "latitude": 1.2633,
+      "longitude": -77.5138,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "La Tola",
+      "province": "Nariño",
+      "latitude": 2.3995,
+      "longitude": -78.1892,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "San Pablo de Borbur",
+      "province": "Boyacá",
+      "latitude": 5.6514,
+      "longitude": -74.0699,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Yaguará",
+      "province": "乌伊拉省",
+      "latitude": 2.6635,
+      "longitude": -75.5175,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Aquitania",
+      "province": "Boyacá",
+      "latitude": 5.5186,
+      "longitude": -72.8839,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "La Vega",
+      "province": "昆迪纳马卡省",
+      "latitude": 5.0018,
+      "longitude": -74.3417,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Pijao",
+      "province": "金迪奥省",
+      "latitude": 4.3335,
+      "longitude": -75.7046,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Piedras",
+      "province": "托利马省",
+      "latitude": 4.5426,
+      "longitude": -74.8782,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Carmen de Apicalá",
+      "province": "托利马省",
+      "latitude": 4.1472,
+      "longitude": -74.7201,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "San Pelayo",
+      "province": "Córdoba",
+      "latitude": 8.9583,
+      "longitude": -75.8363,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "González",
+      "province": "塞萨尔省",
+      "latitude": 8.3902,
+      "longitude": -73.3805,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Vigía del Fuerte",
+      "province": "安蒂奥基亚省",
+      "latitude": 6.5893,
+      "longitude": -76.896,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "San Roque",
+      "province": "安蒂奥基亚省",
+      "latitude": 6.4851,
+      "longitude": -75.0196,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "El Rosal",
+      "province": "昆迪纳马卡省",
+      "latitude": 4.8531,
+      "longitude": -74.26,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "San Pedro",
+      "province": "考卡山谷省",
+      "latitude": 9.3956,
+      "longitude": -75.0648,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Nemocón",
+      "province": "昆迪纳马卡省",
+      "latitude": 5.0677,
+      "longitude": -73.8777,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Risaralda",
+      "province": "卡尔达斯省",
+      "latitude": 5.1665,
+      "longitude": -75.766,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Belén",
+      "province": "Boyacá",
+      "latitude": 5.2009,
+      "longitude": -75.8687,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Fómeque",
+      "province": "昆迪纳马卡省",
+      "latitude": 4.488,
+      "longitude": -73.8975,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Guatapé",
+      "province": "安蒂奥基亚省",
+      "latitude": 6.2343,
+      "longitude": -75.1633,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Moñitos",
+      "province": "Córdoba",
+      "latitude": 8.25,
+      "longitude": -76.05,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Playarrica",
+      "province": "托利马省",
+      "latitude": 4.0569,
+      "longitude": -75.4103,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Arenal",
+      "province": "Bolívar",
+      "latitude": 10.3983,
+      "longitude": -75.1511,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Palmito",
+      "province": "苏克雷省",
+      "latitude": 9.3319,
+      "longitude": -75.5417,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "拉平塔达",
+      "name_en": "La Pintada",
+      "province": "安蒂奥基亚省",
+      "latitude": 5.7487,
+      "longitude": -75.6063,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Guayabal",
+      "province": "托利马省",
+      "latitude": 6.5893,
+      "longitude": -76.896,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Regidor",
+      "province": "Bolívar",
+      "latitude": 8.6663,
+      "longitude": -73.8222,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Pueblorrico",
+      "province": "安蒂奥基亚省",
+      "latitude": 5.2226,
+      "longitude": -76.0303,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "El Molino",
+      "province": "瓜希拉省",
+      "latitude": 10.653,
+      "longitude": -72.9246,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Arbeláez",
+      "province": "昆迪纳马卡省",
+      "latitude": 4.2725,
+      "longitude": -74.4151,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Altos del Rosario",
+      "province": "Bolívar",
+      "latitude": 8.7916,
+      "longitude": -74.1656,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "San Antonio",
+      "province": "托利马省",
+      "latitude": 9.933,
+      "longitude": -74.6935,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Pesca",
+      "province": "Boyacá",
+      "latitude": 5.55,
+      "longitude": -73.05,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Villa de Leyva",
+      "province": "Boyacá",
+      "latitude": 5.6341,
+      "longitude": -73.5244,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Cumbitara",
+      "province": "Nariño",
+      "latitude": 1.6479,
+      "longitude": -77.5782,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Puerto Lleras",
+      "province": "梅塔省",
+      "latitude": 3.0223,
+      "longitude": -73.4044,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Buenavista",
+      "province": "Córdoba",
+      "latitude": 9.0496,
+      "longitude": -76.0028,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Ramiriquí",
+      "province": "Boyacá",
+      "latitude": 5.4002,
+      "longitude": -73.3354,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Puerto Yuca",
+      "province": "梅塔省",
+      "latitude": 2.9383,
+      "longitude": -73.2083,
+      "timezone": "America/Bogota"
+    },
+    {
+      "name": "",
+      "name_en": "Miraflores",
+      "province": "瓜维亚雷省",
+      "latitude": 5.1961,
+      "longitude": -73.145,
+      "timezone": "America/Bogota"
+    }
+  ]
+}

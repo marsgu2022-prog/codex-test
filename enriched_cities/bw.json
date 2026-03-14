@@ -1,0 +1,510 @@
+{
+  "country_code": "BW",
+  "country_name": "博茨瓦纳",
+  "cities": [
+    {
+      "name": "嘉柏隆里",
+      "name_en": "Gaborone",
+      "province": "Gaborone",
+      "latitude": -24.6545,
+      "longitude": 25.9086,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "弗朗西斯敦",
+      "name_en": "Francistown",
+      "province": "City of Francistown",
+      "latitude": -21.17,
+      "longitude": 27.5078,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "莫戈迪沙内",
+      "name_en": "Mogoditshane",
+      "province": "奎嫩区",
+      "latitude": -24.6269,
+      "longitude": 25.8656,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "马翁",
+      "name_en": "Maun",
+      "province": "西北区",
+      "latitude": -19.9833,
+      "longitude": 23.4167,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "莫莱波洛莱",
+      "name_en": "Molepolole",
+      "province": "奎嫩区",
+      "latitude": -24.4066,
+      "longitude": 25.4951,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "塞罗韦",
+      "name_en": "Serowe",
+      "province": "中部区",
+      "latitude": -22.3875,
+      "longitude": 26.7108,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "",
+      "name_en": "Tlokweng",
+      "province": "South-East",
+      "latitude": -24.6686,
+      "longitude": 25.9711,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "帕拉佩",
+      "name_en": "Palapye",
+      "province": "中部区",
+      "latitude": -22.5461,
+      "longitude": 27.1251,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "莫丘迪",
+      "name_en": "Mochudi",
+      "province": "卡特伦区",
+      "latitude": -24.4167,
+      "longitude": 26.15,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "马哈拉佩",
+      "name_en": "Mahalapye",
+      "province": "中部区",
+      "latitude": -23.1041,
+      "longitude": 26.8142,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "卡内",
+      "name_en": "Kanye",
+      "province": "南部区",
+      "latitude": -24.9668,
+      "longitude": 25.3327,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "塞莱比-皮奎",
+      "name_en": "Selebi-Phikwe",
+      "province": "Selibe Phikwe",
+      "latitude": -21.979,
+      "longitude": 27.843,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "",
+      "name_en": "Letlhakane",
+      "province": "中部区",
+      "latitude": -21.4149,
+      "longitude": 25.5926,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "",
+      "name_en": "Ramotswa",
+      "province": "South-East",
+      "latitude": -24.8716,
+      "longitude": 25.8699,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "洛巴策",
+      "name_en": "Lobatse",
+      "province": "Lobatse",
+      "latitude": -25.2244,
+      "longitude": 25.6773,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "",
+      "name_en": "Mmopone",
+      "province": "奎嫩区",
+      "latitude": -24.5669,
+      "longitude": 25.8742,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "",
+      "name_en": "Thamaga",
+      "province": "奎嫩区",
+      "latitude": -24.6701,
+      "longitude": 25.5398,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "",
+      "name_en": "Mosopa",
+      "province": "南部区",
+      "latitude": -24.7718,
+      "longitude": 25.4216,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "",
+      "name_en": "Tonota",
+      "province": "中部区",
+      "latitude": -21.4424,
+      "longitude": 27.4615,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "博博农",
+      "name_en": "Bobonong",
+      "province": "中部区",
+      "latitude": -21.9655,
+      "longitude": 28.4363,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "哈巴内",
+      "name_en": "Gabane",
+      "province": "奎嫩区",
+      "latitude": -24.6667,
+      "longitude": 25.7822,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "杭济",
+      "name_en": "Ghanzi",
+      "province": "杭济区",
+      "latitude": -21.6978,
+      "longitude": 21.6458,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "",
+      "name_en": "Jwaneng",
+      "province": "Jwaneng",
+      "latitude": -24.6017,
+      "longitude": 24.7281,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "图图梅",
+      "name_en": "Tutume",
+      "province": "中部区",
+      "latitude": -20.4943,
+      "longitude": 27.0348,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "",
+      "name_en": "Janeng",
+      "province": "South-East",
+      "latitude": -25.4167,
+      "longitude": 25.55,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "",
+      "name_en": "Kopong",
+      "province": "South-East",
+      "latitude": -24.4833,
+      "longitude": 25.8833,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "",
+      "name_en": "Mmadinare",
+      "province": "中部区",
+      "latitude": -21.8765,
+      "longitude": 27.7518,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "",
+      "name_en": "Tati Siding",
+      "province": "North-East",
+      "latitude": -21.2735,
+      "longitude": 27.49,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "察邦",
+      "name_en": "Tshabong",
+      "province": "卡拉哈迪区",
+      "latitude": -26.05,
+      "longitude": 22.45,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "",
+      "name_en": "Metsemotlhaba",
+      "province": "奎嫩区",
+      "latitude": -24.5514,
+      "longitude": 25.8031,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "",
+      "name_en": "Gumare",
+      "province": "西北区",
+      "latitude": -19.3692,
+      "longitude": 22.1617,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "沙卡韦",
+      "name_en": "Shakawe",
+      "province": "西北区",
+      "latitude": -18.3654,
+      "longitude": 21.8422,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "",
+      "name_en": "Oodi",
+      "province": "South-East",
+      "latitude": -24.5731,
+      "longitude": 26.0339,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "",
+      "name_en": "Bokaa",
+      "province": "卡特伦区",
+      "latitude": -24.45,
+      "longitude": 26.0167,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "卡萨内",
+      "name_en": "Kasane",
+      "province": "Chobe",
+      "latitude": -17.8016,
+      "longitude": 25.1602,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "",
+      "name_en": "Borolong",
+      "province": "中部区",
+      "latitude": -21.1036,
+      "longitude": 27.3361,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "绍雄",
+      "name_en": "Shoshong",
+      "province": "中部区",
+      "latitude": -23.0389,
+      "longitude": 26.51,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "",
+      "name_en": "Orapa",
+      "province": "中部区",
+      "latitude": -21.3115,
+      "longitude": 25.3764,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "",
+      "name_en": "Letlhakeng",
+      "province": "奎嫩区",
+      "latitude": -24.0944,
+      "longitude": 25.0298,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "",
+      "name_en": "Nata",
+      "province": "中部区",
+      "latitude": -20.2167,
+      "longitude": 26.1833,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "",
+      "name_en": "Mmankgodi",
+      "province": "奎嫩区",
+      "latitude": -24.726,
+      "longitude": 25.6496,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "",
+      "name_en": "Lerala",
+      "province": "中部区",
+      "latitude": -22.788,
+      "longitude": 27.765,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "",
+      "name_en": "Otse",
+      "province": "South-East",
+      "latitude": -25.0167,
+      "longitude": 25.7333,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "",
+      "name_en": "Kumakwane",
+      "province": "奎嫩区",
+      "latitude": -24.6552,
+      "longitude": 25.6992,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "",
+      "name_en": "Sese",
+      "province": "南部区",
+      "latitude": -24.6561,
+      "longitude": 24.8063,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "",
+      "name_en": "Kang",
+      "province": "卡拉哈迪区",
+      "latitude": -23.6752,
+      "longitude": 22.7876,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "",
+      "name_en": "Lentsweletau",
+      "province": "奎嫩区",
+      "latitude": -24.2486,
+      "longitude": 25.8522,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "",
+      "name_en": "Ramotswa Station/Taung",
+      "province": "South-East",
+      "latitude": -24.978,
+      "longitude": 25.6782,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "",
+      "name_en": "Masunga",
+      "province": "North-East",
+      "latitude": -20.6245,
+      "longitude": 27.4488,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "",
+      "name_en": "Lotlhakane",
+      "province": "南部区",
+      "latitude": -25.0861,
+      "longitude": 25.4586,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "",
+      "name_en": "Sefophe",
+      "province": "中部区",
+      "latitude": -22.1833,
+      "longitude": 27.9667,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "",
+      "name_en": "Rasesa",
+      "province": "卡特伦区",
+      "latitude": -24.3731,
+      "longitude": 26.0729,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "",
+      "name_en": "Maitengwe",
+      "province": "North-East",
+      "latitude": -20.1289,
+      "longitude": 27.21,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "",
+      "name_en": "Mathangwane",
+      "province": "中部区",
+      "latitude": -21.0,
+      "longitude": 27.3333,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "",
+      "name_en": "Shashe Mooke",
+      "province": "中部区",
+      "latitude": -21.1879,
+      "longitude": 27.3787,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "",
+      "name_en": "Good Hope",
+      "province": "南部区",
+      "latitude": -25.4671,
+      "longitude": 25.4392,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "",
+      "name_en": "Gweta",
+      "province": "中部区",
+      "latitude": -20.1833,
+      "longitude": 25.2333,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "",
+      "name_en": "Mmathete",
+      "province": "南部区",
+      "latitude": -25.3219,
+      "longitude": 25.2691,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "",
+      "name_en": "Sefhare",
+      "province": "中部区",
+      "latitude": -23.029,
+      "longitude": 27.4691,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "",
+      "name_en": "Chadibe",
+      "province": "中部区",
+      "latitude": -21.0653,
+      "longitude": 27.3479,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "",
+      "name_en": "Tsetsebjwe",
+      "province": "中部区",
+      "latitude": -22.4159,
+      "longitude": 28.398,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "",
+      "name_en": "Hukuntsi",
+      "province": "卡拉哈迪区",
+      "latitude": -23.9988,
+      "longitude": 21.7796,
+      "timezone": "Africa/Gaborone"
+    },
+    {
+      "name": "",
+      "name_en": "Charles Hill",
+      "province": "杭济区",
+      "latitude": -22.2764,
+      "longitude": 20.0928,
+      "timezone": "Africa/Gaborone"
+    }
+  ]
+}

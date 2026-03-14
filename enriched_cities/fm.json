@@ -1,0 +1,54 @@
+{
+  "country_code": "FM",
+  "country_name": "密克罗尼西亚联邦",
+  "cities": [
+    {
+      "name": "维诺",
+      "name_en": "Weno",
+      "province": "丘克州",
+      "latitude": 7.4465,
+      "longitude": 151.8414,
+      "timezone": "Pacific/Chuuk"
+    },
+    {
+      "name": "",
+      "name_en": "Tofol",
+      "province": "Kosrae",
+      "latitude": 5.3248,
+      "longitude": 163.0078,
+      "timezone": "Pacific/Kosrae"
+    },
+    {
+      "name": "",
+      "name_en": "Colonia",
+      "province": "雅浦州",
+      "latitude": 9.5164,
+      "longitude": 138.1217,
+      "timezone": "Pacific/Chuuk"
+    },
+    {
+      "name": "帕利基尔",
+      "name_en": "Palikir",
+      "province": "波纳佩州",
+      "latitude": 6.9248,
+      "longitude": 158.1611,
+      "timezone": "Pacific/Pohnpei"
+    },
+    {
+      "name": "",
+      "name_en": "Kolonia",
+      "province": "波纳佩州",
+      "latitude": 6.964,
+      "longitude": 158.2062,
+      "timezone": "Pacific/Pohnpei"
+    },
+    {
+      "name": "",
+      "name_en": "Kolonia Town",
+      "province": "波纳佩州",
+      "latitude": 6.964,
+      "longitude": 158.206,
+      "timezone": "Pacific/Pohnpei"
+    }
+  ]
+}

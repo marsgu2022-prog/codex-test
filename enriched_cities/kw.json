@@ -1,0 +1,190 @@
+{
+  "country_code": "KW",
+  "country_name": "科威特",
+  "cities": [
+    {
+      "name": "",
+      "name_en": "Al Aḩmadī",
+      "province": "艾哈迈迪省",
+      "latitude": 29.0769,
+      "longitude": 48.0839,
+      "timezone": "Asia/Kuwait"
+    },
+    {
+      "name": "",
+      "name_en": "Ḩawallī",
+      "province": "Hawalli",
+      "latitude": 29.3328,
+      "longitude": 48.0286,
+      "timezone": "Asia/Kuwait"
+    },
+    {
+      "name": "",
+      "name_en": "As Sālimīyah",
+      "province": "Hawalli",
+      "latitude": 29.3339,
+      "longitude": 48.0761,
+      "timezone": "Asia/Kuwait"
+    },
+    {
+      "name": "",
+      "name_en": "Şabāḩ as Sālim",
+      "province": "Mubārak al Kabīr",
+      "latitude": 29.2572,
+      "longitude": 48.0572,
+      "timezone": "Asia/Kuwait"
+    },
+    {
+      "name": "",
+      "name_en": "Al Farwānīyah",
+      "province": "费尔瓦尼耶省",
+      "latitude": 29.2775,
+      "longitude": 47.9586,
+      "timezone": "Asia/Kuwait"
+    },
+    {
+      "name": "",
+      "name_en": "Al Faḩāḩīl",
+      "province": "艾哈迈迪省",
+      "latitude": 29.0825,
+      "longitude": 48.1303,
+      "timezone": "Asia/Kuwait"
+    },
+    {
+      "name": "科威特市",
+      "name_en": "Kuwait City",
+      "province": "Al Asimah",
+      "latitude": 29.367,
+      "longitude": 47.9743,
+      "timezone": "Asia/Kuwait"
+    },
+    {
+      "name": "",
+      "name_en": "Ar Rumaythīyah",
+      "province": "Hawalli",
+      "latitude": 29.3117,
+      "longitude": 48.0742,
+      "timezone": "Asia/Kuwait"
+    },
+    {
+      "name": "",
+      "name_en": "Ar Riqqah",
+      "province": "艾哈迈迪省",
+      "latitude": 29.1458,
+      "longitude": 48.0947,
+      "timezone": "Asia/Kuwait"
+    },
+    {
+      "name": "",
+      "name_en": "Salwá",
+      "province": "Hawalli",
+      "latitude": 29.2958,
+      "longitude": 48.0786,
+      "timezone": "Asia/Kuwait"
+    },
+    {
+      "name": "",
+      "name_en": "Al Manqaf",
+      "province": "艾哈迈迪省",
+      "latitude": 29.0961,
+      "longitude": 48.1328,
+      "timezone": "Asia/Kuwait"
+    },
+    {
+      "name": "",
+      "name_en": "Ar Rābiyah",
+      "province": "Al Asimah",
+      "latitude": 29.295,
+      "longitude": 47.9331,
+      "timezone": "Asia/Kuwait"
+    },
+    {
+      "name": "",
+      "name_en": "Bayān",
+      "province": "Hawalli",
+      "latitude": 29.3032,
+      "longitude": 48.0488,
+      "timezone": "Asia/Kuwait"
+    },
+    {
+      "name": "",
+      "name_en": "Al Jahrā’",
+      "province": "杰赫拉省",
+      "latitude": 29.3375,
+      "longitude": 47.6581,
+      "timezone": "Asia/Kuwait"
+    },
+    {
+      "name": "",
+      "name_en": "Al Finţās",
+      "province": "艾哈迈迪省",
+      "latitude": 29.1739,
+      "longitude": 48.1211,
+      "timezone": "Asia/Kuwait"
+    },
+    {
+      "name": "",
+      "name_en": "Janūb as Surrah",
+      "province": "费尔瓦尼耶省",
+      "latitude": 29.2692,
+      "longitude": 47.9781,
+      "timezone": "Asia/Kuwait"
+    },
+    {
+      "name": "",
+      "name_en": "Al Mahbūlah",
+      "province": "艾哈迈迪省",
+      "latitude": 29.145,
+      "longitude": 48.1303,
+      "timezone": "Asia/Kuwait"
+    },
+    {
+      "name": "",
+      "name_en": "Ad Dasmah",
+      "province": "Al Asimah",
+      "latitude": 29.365,
+      "longitude": 48.0014,
+      "timezone": "Asia/Kuwait"
+    },
+    {
+      "name": "",
+      "name_en": "Ash Shāmīyah",
+      "province": "Al Asimah",
+      "latitude": 29.3472,
+      "longitude": 47.9617,
+      "timezone": "Asia/Kuwait"
+    },
+    {
+      "name": "",
+      "name_en": "Al Wafrah",
+      "province": "艾哈迈迪省",
+      "latitude": 28.6392,
+      "longitude": 47.9306,
+      "timezone": "Asia/Kuwait"
+    },
+    {
+      "name": "",
+      "name_en": "Mazāri‘ al ‘Abdalī",
+      "province": "杰赫拉省",
+      "latitude": 30.0422,
+      "longitude": 47.7221,
+      "timezone": "Asia/Kuwait"
+    },
+    {
+      "name": "",
+      "name_en": "Az Zawr",
+      "province": "Al Asimah",
+      "latitude": 29.4425,
+      "longitude": 48.2747,
+      "timezone": "Asia/Kuwait"
+    },
+    {
+      "name": "",
+      "name_en": "Mubārak al Kabīr",
+      "province": "Mubārak al Kabīr",
+      "latitude": 29.1898,
+      "longitude": 48.0872,
+      "timezone": "Asia/Kuwait"
+    }
+  ]
+}

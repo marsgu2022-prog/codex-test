@@ -1,0 +1,670 @@
+{
+  "country_code": "BF",
+  "country_name": "布基纳法索",
+  "cities": [
+    {
+      "name": "瓦加杜古",
+      "name_en": "Ouagadougou",
+      "province": "中央大区",
+      "latitude": 12.3657,
+      "longitude": -1.5339,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "博博迪乌拉索",
+      "name_en": "Bobo-Dioulasso",
+      "province": "上盆地大区",
+      "latitude": 11.1806,
+      "longitude": -4.2949,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "库杜古",
+      "name_en": "Koudougou",
+      "province": "中西大区",
+      "latitude": 12.2519,
+      "longitude": -2.3669,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Saaba",
+      "province": "中央大区",
+      "latitude": 12.3714,
+      "longitude": -1.4147,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "瓦希古亚",
+      "name_en": "Ouahigouya",
+      "province": "北部大区",
+      "latitude": 13.5769,
+      "longitude": -2.4179,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "卡亚",
+      "name_en": "Kaya",
+      "province": "中北大区",
+      "latitude": 13.0883,
+      "longitude": -1.0837,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "邦福拉",
+      "name_en": "Banfora",
+      "province": "瀑布大区",
+      "latitude": 10.6406,
+      "longitude": -4.7528,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Pouytenga",
+      "province": "中东大区",
+      "latitude": 12.2516,
+      "longitude": -0.4256,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Houndé",
+      "province": "上盆地大区",
+      "latitude": 11.5,
+      "longitude": -3.5167,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Fada N'gourma",
+      "province": "东部大区",
+      "latitude": 12.0616,
+      "longitude": 0.3584,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Nioko I",
+      "province": "中央大区",
+      "latitude": 12.395,
+      "longitude": -1.4386,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "代杜古",
+      "name_en": "Dédougou",
+      "province": "布克莱迪穆翁大区",
+      "latitude": 12.4636,
+      "longitude": -3.4607,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "滕科多戈",
+      "name_en": "Tenkodogo",
+      "province": "中东大区",
+      "latitude": 11.7844,
+      "longitude": -0.3718,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Djibo",
+      "province": "萨赫勒大区",
+      "latitude": 14.0986,
+      "longitude": -1.6266,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Kongoussi",
+      "province": "中北大区",
+      "latitude": 13.3258,
+      "longitude": -1.5347,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Léo",
+      "province": "中西大区",
+      "latitude": 11.1003,
+      "longitude": -2.1065,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Koupéla",
+      "province": "中东大区",
+      "latitude": 12.1786,
+      "longitude": -0.351,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Titao",
+      "province": "北部大区",
+      "latitude": 13.7667,
+      "longitude": -2.0667,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Saonré",
+      "province": "中央大区",
+      "latitude": 12.2751,
+      "longitude": -1.5769,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "多里",
+      "name_en": "Dori",
+      "province": "萨赫勒大区",
+      "latitude": 14.0333,
+      "longitude": -0.0333,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Aribinda",
+      "province": "萨赫勒大区",
+      "latitude": 14.2296,
+      "longitude": -0.8654,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "加瓦",
+      "name_en": "Gaoua",
+      "province": "西南大区",
+      "latitude": 10.3314,
+      "longitude": -3.182,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "加朗戈",
+      "name_en": "Garango",
+      "province": "中东大区",
+      "latitude": 11.8,
+      "longitude": -0.5506,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Gourcy",
+      "province": "北部大区",
+      "latitude": 13.2078,
+      "longitude": -2.3589,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Yako",
+      "province": "北部大区",
+      "latitude": 12.9591,
+      "longitude": -2.2607,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Zorgo",
+      "province": "高原-中部大区",
+      "latitude": 12.2492,
+      "longitude": -0.6153,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Réo",
+      "province": "中西大区",
+      "latitude": 12.3196,
+      "longitude": -2.4709,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "奥罗达拉",
+      "name_en": "Orodara",
+      "province": "上盆地大区",
+      "latitude": 10.9811,
+      "longitude": -4.9188,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Ziniaré",
+      "province": "高原-中部大区",
+      "latitude": 12.5824,
+      "longitude": -1.2975,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Niangoloko",
+      "province": "瀑布大区",
+      "latitude": 10.2833,
+      "longitude": -4.9167,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Nouna",
+      "province": "布克莱迪穆翁大区",
+      "latitude": 12.7294,
+      "longitude": -3.863,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Bama",
+      "province": "布克莱迪穆翁大区",
+      "latitude": 12.0357,
+      "longitude": -4.3987,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Bittou",
+      "province": "中东大区",
+      "latitude": 11.2581,
+      "longitude": -0.3061,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Kombissiri",
+      "province": "中南大区",
+      "latitude": 12.0688,
+      "longitude": -1.3364,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Manga",
+      "province": "中南大区",
+      "latitude": 11.665,
+      "longitude": -1.0698,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Pô",
+      "province": "中南大区",
+      "latitude": 11.1697,
+      "longitude": -1.145,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Bourzanga",
+      "province": "中北大区",
+      "latitude": 13.6781,
+      "longitude": -1.5461,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Barogo",
+      "province": "高原-中部大区",
+      "latitude": 12.55,
+      "longitude": -0.9667,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Gao",
+      "province": "中西大区",
+      "latitude": 11.6497,
+      "longitude": -2.1778,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Tougan",
+      "province": "布克莱迪穆翁大区",
+      "latitude": 13.0724,
+      "longitude": -3.0694,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Sapouy",
+      "province": "中西大区",
+      "latitude": 11.5544,
+      "longitude": -1.7736,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Yalgo",
+      "province": "中北大区",
+      "latitude": 12.9333,
+      "longitude": -0.85,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Kokologo",
+      "province": "中西大区",
+      "latitude": 12.1939,
+      "longitude": -1.8769,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Dano",
+      "province": "西南大区",
+      "latitude": 11.1464,
+      "longitude": -3.0578,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Mogtédo",
+      "province": "高原-中部大区",
+      "latitude": 12.2844,
+      "longitude": -0.8372,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Diébougou",
+      "province": "西南大区",
+      "latitude": 10.9621,
+      "longitude": -3.2497,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Boussé",
+      "province": "高原-中部大区",
+      "latitude": 12.6612,
+      "longitude": -1.8951,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Solenzo",
+      "province": "布克莱迪穆翁大区",
+      "latitude": 12.1742,
+      "longitude": -4.0848,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Boulsa",
+      "province": "中北大区",
+      "latitude": 12.6666,
+      "longitude": -0.5747,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Pissila",
+      "province": "中北大区",
+      "latitude": 13.1642,
+      "longitude": -0.8225,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Béguédo",
+      "province": "中东大区",
+      "latitude": 11.7808,
+      "longitude": -0.7339,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Zabré",
+      "province": "中东大区",
+      "latitude": 11.1825,
+      "longitude": -0.6322,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Bogandé",
+      "province": "东部大区",
+      "latitude": 12.9771,
+      "longitude": -0.1466,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Fara Department",
+      "province": "布克莱迪穆翁大区",
+      "latitude": 11.5294,
+      "longitude": -2.768,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Boromo",
+      "province": "布克莱迪穆翁大区",
+      "latitude": 11.7454,
+      "longitude": -2.9301,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Cinkansé",
+      "province": "中东大区",
+      "latitude": 11.1186,
+      "longitude": 0.0099,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Zinguédéssé",
+      "province": "中央大区",
+      "latitude": 12.2466,
+      "longitude": -1.584,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Korsimoro",
+      "province": "中北大区",
+      "latitude": 12.8251,
+      "longitude": -1.0674,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Batié",
+      "province": "西南大区",
+      "latitude": 9.8833,
+      "longitude": -2.9167,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Kouka",
+      "province": "中北大区",
+      "latitude": 13.4345,
+      "longitude": -1.6136,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Natiaboani",
+      "province": "东部大区",
+      "latitude": 11.6992,
+      "longitude": 0.5061,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Tita",
+      "province": "中西大区",
+      "latitude": 11.9209,
+      "longitude": -2.5154,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Kindi",
+      "province": "中西大区",
+      "latitude": 12.4386,
+      "longitude": -2.0328,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Namponkoré",
+      "province": "东部大区",
+      "latitude": 11.7375,
+      "longitude": 1.7772,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Tô",
+      "province": "中西大区",
+      "latitude": 11.4438,
+      "longitude": -2.2255,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Toma",
+      "province": "布克莱迪穆翁大区",
+      "latitude": 12.7584,
+      "longitude": -2.8988,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Diapaga",
+      "province": "东部大区",
+      "latitude": 12.0729,
+      "longitude": 1.7884,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Karankasso",
+      "province": "上盆地大区",
+      "latitude": 11.2219,
+      "longitude": -4.6442,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Gomboussougou",
+      "province": "中南大区",
+      "latitude": 11.4261,
+      "longitude": -0.7728,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Gayéri",
+      "province": "东部大区",
+      "latitude": 12.6482,
+      "longitude": 0.4931,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Pa",
+      "province": "布克莱迪穆翁大区",
+      "latitude": 12.6667,
+      "longitude": -3.95,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Mani",
+      "province": "东部大区",
+      "latitude": 13.2583,
+      "longitude": -0.2131,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Sabou",
+      "province": "中西大区",
+      "latitude": 12.0667,
+      "longitude": -2.2333,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Kompienga",
+      "province": "东部大区",
+      "latitude": 11.0817,
+      "longitude": 0.7237,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Pama",
+      "province": "东部大区",
+      "latitude": 11.2497,
+      "longitude": 0.7075,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Ouargaye",
+      "province": "中东大区",
+      "latitude": 11.502,
+      "longitude": 0.0589,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Sebba",
+      "province": "萨赫勒大区",
+      "latitude": 13.4364,
+      "longitude": 0.5304,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Nanoro",
+      "province": "中西大区",
+      "latitude": 12.6866,
+      "longitude": -2.1938,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Gorom-Gorom",
+      "province": "萨赫勒大区",
+      "latitude": 14.4429,
+      "longitude": -0.2347,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Mangodara",
+      "province": "瀑布大区",
+      "latitude": 9.9024,
+      "longitude": -4.3576,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Pitmoaga",
+      "province": "中西大区",
+      "latitude": 12.2456,
+      "longitude": -1.8815,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Sindou",
+      "province": "瀑布大区",
+      "latitude": 10.6667,
+      "longitude": -5.1667,
+      "timezone": "Africa/Ouagadougou"
+    },
+    {
+      "name": "",
+      "name_en": "Goulouré",
+      "province": "中西大区",
+      "latitude": 12.2348,
+      "longitude": -1.9339,
+      "timezone": "Africa/Ouagadougou"
+    }
+  ]
+}

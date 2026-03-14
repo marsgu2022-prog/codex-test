@@ -1,0 +1,158 @@
+{
+  "country_code": "SR",
+  "country_name": "苏里南",
+  "cities": [
+    {
+      "name": "帕拉马里博",
+      "name_en": "Paramaribo",
+      "province": "帕拉马里博区",
+      "latitude": 5.8664,
+      "longitude": -55.1668,
+      "timezone": "America/Paramaribo"
+    },
+    {
+      "name": "",
+      "name_en": "Blauwgrond",
+      "province": "帕拉马里博区",
+      "latitude": 5.8434,
+      "longitude": -55.1193,
+      "timezone": "America/Paramaribo"
+    },
+    {
+      "name": "",
+      "name_en": "Rainville",
+      "province": "帕拉马里博区",
+      "latitude": 5.8344,
+      "longitude": -55.1377,
+      "timezone": "America/Paramaribo"
+    },
+    {
+      "name": "",
+      "name_en": "Flora",
+      "province": "帕拉马里博区",
+      "latitude": 5.8,
+      "longitude": -55.2,
+      "timezone": "America/Paramaribo"
+    },
+    {
+      "name": "",
+      "name_en": "Welgelegen",
+      "province": "帕拉马里博区",
+      "latitude": 5.8421,
+      "longitude": -55.2186,
+      "timezone": "America/Paramaribo"
+    },
+    {
+      "name": "",
+      "name_en": "Lelydorp",
+      "province": "瓦尼卡区",
+      "latitude": 5.7,
+      "longitude": -55.2333,
+      "timezone": "America/Paramaribo"
+    },
+    {
+      "name": "",
+      "name_en": "Munder Buiten",
+      "province": "帕拉马里博区",
+      "latitude": 5.8412,
+      "longitude": -55.1825,
+      "timezone": "America/Paramaribo"
+    },
+    {
+      "name": "",
+      "name_en": "Beekhuizen",
+      "province": "帕拉马里博区",
+      "latitude": 5.8057,
+      "longitude": -55.1737,
+      "timezone": "America/Paramaribo"
+    },
+    {
+      "name": "",
+      "name_en": "Tammenga",
+      "province": "帕拉马里博区",
+      "latitude": 5.8289,
+      "longitude": -55.202,
+      "timezone": "America/Paramaribo"
+    },
+    {
+      "name": "",
+      "name_en": "Brokopondo",
+      "province": "布罗科蓬多区",
+      "latitude": 5.0559,
+      "longitude": -54.9804,
+      "timezone": "America/Paramaribo"
+    },
+    {
+      "name": "",
+      "name_en": "Nieuw Nickerie",
+      "province": "尼克里区",
+      "latitude": 5.9261,
+      "longitude": -56.973,
+      "timezone": "America/Paramaribo"
+    },
+    {
+      "name": "",
+      "name_en": "Meerzorg",
+      "province": "科默韦讷区",
+      "latitude": 5.8079,
+      "longitude": -55.1408,
+      "timezone": "America/Paramaribo"
+    },
+    {
+      "name": "",
+      "name_en": "Livorno",
+      "province": "帕拉马里博区",
+      "latitude": 5.7805,
+      "longitude": -55.1811,
+      "timezone": "America/Paramaribo"
+    },
+    {
+      "name": "",
+      "name_en": "Moengo",
+      "province": "马罗韦讷区",
+      "latitude": 5.6141,
+      "longitude": -54.4012,
+      "timezone": "America/Paramaribo"
+    },
+    {
+      "name": "",
+      "name_en": "Nieuw Amsterdam",
+      "province": "科默韦讷区",
+      "latitude": 5.8857,
+      "longitude": -55.0887,
+      "timezone": "America/Paramaribo"
+    },
+    {
+      "name": "",
+      "name_en": "Albina",
+      "province": "马罗韦讷区",
+      "latitude": 5.4979,
+      "longitude": -54.0552,
+      "timezone": "America/Paramaribo"
+    },
+    {
+      "name": "",
+      "name_en": "Groningen",
+      "province": "萨拉马卡区",
+      "latitude": 5.8,
+      "longitude": -55.4667,
+      "timezone": "America/Paramaribo"
+    },
+    {
+      "name": "",
+      "name_en": "Onverwacht",
+      "province": "帕拉区",
+      "latitude": 5.5898,
+      "longitude": -55.1946,
+      "timezone": "America/Paramaribo"
+    },
+    {
+      "name": "",
+      "name_en": "Totness",
+      "province": "科罗尼区",
+      "latitude": 5.8762,
+      "longitude": -56.3257,
+      "timezone": "America/Paramaribo"
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "country_code": "LB",
+  "country_name": "黎巴嫩",
+  "cities": [
+    {
+      "name": "贝鲁特",
+      "name_en": "Beirut",
+      "province": "Beyrouth",
+      "latitude": 33.8933,
+      "longitude": 35.5016,
+      "timezone": "Asia/Beirut"
+    },
+    {
+      "name": "",
+      "name_en": "Ra’s Bayrūt",
+      "province": "Beyrouth",
+      "latitude": 33.9,
+      "longitude": 35.4833,
+      "timezone": "Asia/Beirut"
+    },
+    {
+      "name": "的黎波里",
+      "name_en": "Tripoli",
+      "province": "Liban-Nord",
+      "latitude": 34.4335,
+      "longitude": 35.8441,
+      "timezone": "Asia/Beirut"
+    },
+    {
+      "name": "赛达",
+      "name_en": "Sidon",
+      "province": "南部省",
+      "latitude": 33.5575,
+      "longitude": 35.3715,
+      "timezone": "Asia/Beirut"
+    },
+    {
+      "name": "泰尔",
+      "name_en": "Tyre",
+      "province": "南部省",
+      "latitude": 33.2733,
+      "longitude": 35.1939,
+      "timezone": "Asia/Beirut"
+    },
+    {
+      "name": "",
+      "name_en": "Aley",
+      "province": "Mont-Liban",
+      "latitude": 33.8053,
+      "longitude": 35.6,
+      "timezone": "Asia/Beirut"
+    },
+    {
+      "name": "",
+      "name_en": "Nabatîyé et Tahta",
+      "province": "Nabatîyé",
+      "latitude": 33.3789,
+      "longitude": 35.4839,
+      "timezone": "Asia/Beirut"
+    },
+    {
+      "name": "",
+      "name_en": "Habboûch",
+      "province": "Nabatîyé",
+      "latitude": 33.4073,
+      "longitude": 35.4817,
+      "timezone": "Asia/Beirut"
+    },
+    {
+      "name": "",
+      "name_en": "Jounieh",
+      "province": "Mont-Liban",
+      "latitude": 33.9808,
+      "longitude": 35.6178,
+      "timezone": "Asia/Beirut"
+    },
+    {
+      "name": "扎赫勒",
+      "name_en": "Zahlé",
+      "province": "Béqaa",
+      "latitude": 33.8468,
+      "longitude": 35.902,
+      "timezone": "Asia/Beirut"
+    },
+    {
+      "name": "",
+      "name_en": "Ghazieh",
+      "province": "南部省",
+      "latitude": 33.5175,
+      "longitude": 35.3689,
+      "timezone": "Asia/Beirut"
+    },
+    {
+      "name": "巴勒贝克",
+      "name_en": "Baalbek",
+      "province": "巴勒贝克-希尔米勒省",
+      "latitude": 34.0058,
+      "longitude": 36.2181,
+      "timezone": "Asia/Beirut"
+    },
+    {
+      "name": "",
+      "name_en": "En Nâqoûra",
+      "province": "南部省",
+      "latitude": 33.1181,
+      "longitude": 35.1397,
+      "timezone": "Asia/Beirut"
+    },
+    {
+      "name": "",
+      "name_en": "El Hermel",
+      "province": "巴勒贝克-希尔米勒省",
+      "latitude": 34.3942,
+      "longitude": 36.3847,
+      "timezone": "Asia/Beirut"
+    },
+    {
+      "name": "",
+      "name_en": "Byblos",
+      "province": "Mont-Liban",
+      "latitude": 34.1211,
+      "longitude": 35.6481,
+      "timezone": "Asia/Beirut"
+    },
+    {
+      "name": "",
+      "name_en": "Bsharri",
+      "province": "Liban-Nord",
+      "latitude": 34.2508,
+      "longitude": 36.0106,
+      "timezone": "Asia/Beirut"
+    },
+    {
+      "name": "",
+      "name_en": "Sarafand",
+      "province": "南部省",
+      "latitude": 33.4495,
+      "longitude": 35.2995,
+      "timezone": "Asia/Beirut"
+    },
+    {
+      "name": "",
+      "name_en": "Batroûn",
+      "province": "Liban-Nord",
+      "latitude": 34.2553,
+      "longitude": 35.6581,
+      "timezone": "Asia/Beirut"
+    },
+    {
+      "name": "",
+      "name_en": "Aajaltoûn",
+      "province": "Mont-Liban",
+      "latitude": 33.9653,
+      "longitude": 35.6828,
+      "timezone": "Asia/Beirut"
+    },
+    {
+      "name": "",
+      "name_en": "Qâna",
+      "province": "南部省",
+      "latitude": 33.2089,
+      "longitude": 35.2994,
+      "timezone": "Asia/Beirut"
+    },
+    {
+      "name": "巴卜达",
+      "name_en": "Baabda",
+      "province": "Mont-Liban",
+      "latitude": 33.8339,
+      "longitude": 35.5442,
+      "timezone": "Asia/Beirut"
+    },
+    {
+      "name": "",
+      "name_en": "Hrajel",
+      "province": "Mont-Liban",
+      "latitude": 34.0172,
+      "longitude": 35.7924,
+      "timezone": "Asia/Beirut"
+    },
+    {
+      "name": "",
+      "name_en": "Aaïtanît",
+      "province": "Béqaa",
+      "latitude": 33.5614,
+      "longitude": 35.6703,
+      "timezone": "Asia/Beirut"
+    },
+    {
+      "name": "",
+      "name_en": "Kfar Kila",
+      "province": "Nabatîyé",
+      "latitude": 33.2772,
+      "longitude": 35.5517,
+      "timezone": "Asia/Beirut"
+    },
+    {
+      "name": "",
+      "name_en": "Halba",
+      "province": "Aakkâr",
+      "latitude": 34.5428,
+      "longitude": 36.0797,
+      "timezone": "Asia/Beirut"
+    }
+  ]
+}

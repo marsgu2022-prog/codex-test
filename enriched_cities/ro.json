@@ -1,0 +1,6310 @@
+{
+  "country_code": "RO",
+  "country_name": "罗马尼亚",
+  "cities": [
+    {
+      "name": "布加勒斯特",
+      "name_en": "Bucharest",
+      "province": "București",
+      "latitude": 44.4323,
+      "longitude": 26.1063,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Sector 3",
+      "province": "București",
+      "latitude": 44.4234,
+      "longitude": 26.1687,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "雅西",
+      "name_en": "Iaşi",
+      "province": "雅西县",
+      "latitude": 47.1667,
+      "longitude": 27.6,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Sector 6",
+      "province": "București",
+      "latitude": 44.4358,
+      "longitude": 26.0165,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "康斯坦察",
+      "name_en": "Constanţa",
+      "province": "康斯坦察县",
+      "latitude": 44.1807,
+      "longitude": 28.6343,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Sector 2",
+      "province": "București",
+      "latitude": 44.4528,
+      "longitude": 26.1332,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Sector 4",
+      "province": "București",
+      "latitude": 44.3757,
+      "longitude": 26.1209,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "克卢日-纳波卡",
+      "name_en": "Cluj-Napoca",
+      "province": "克卢日县",
+      "latitude": 46.7667,
+      "longitude": 23.6,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Sector 5",
+      "province": "București",
+      "latitude": 44.3881,
+      "longitude": 26.0714,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Braşov",
+      "province": "布拉索夫县",
+      "latitude": 45.6486,
+      "longitude": 25.6061,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Timişoara",
+      "province": "蒂米什县",
+      "latitude": 45.7537,
+      "longitude": 21.2257,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "克拉约瓦",
+      "name_en": "Craiova",
+      "province": "多尔日县",
+      "latitude": 44.3167,
+      "longitude": 23.8,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Sector 1",
+      "province": "București",
+      "latitude": 44.4924,
+      "longitude": 26.0483,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "加拉茨",
+      "name_en": "Galaţi",
+      "province": "加拉茨县",
+      "latitude": 45.4369,
+      "longitude": 28.0503,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Târgu Mureş",
+      "province": "穆列什县",
+      "latitude": 46.5425,
+      "longitude": 24.5575,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "奥拉迪亚",
+      "name_en": "Oradea",
+      "province": "比霍尔县",
+      "latitude": 47.0458,
+      "longitude": 21.9183,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Ploieşti",
+      "province": "普拉霍瓦县",
+      "latitude": 44.95,
+      "longitude": 26.0167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Arad",
+      "province": "阿拉德县",
+      "latitude": 46.1833,
+      "longitude": 21.3167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Brăila",
+      "province": "布勒伊拉县",
+      "latitude": 45.2715,
+      "longitude": 27.9743,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Piteşti",
+      "province": "阿尔杰什县",
+      "latitude": 44.85,
+      "longitude": 24.8667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Bacău",
+      "province": "巴克乌县",
+      "latitude": 46.5672,
+      "longitude": 26.9138,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "锡比乌",
+      "name_en": "Sibiu",
+      "province": "锡比乌县",
+      "latitude": 45.8,
+      "longitude": 24.15,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "萨图马雷",
+      "name_en": "Satu Mare",
+      "province": "萨图马雷县",
+      "latitude": 47.7993,
+      "longitude": 22.8625,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Baia Mare",
+      "province": "马拉穆列什县",
+      "latitude": 47.6573,
+      "longitude": 23.5681,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "布泽乌",
+      "name_en": "Buzău",
+      "province": "布泽乌县",
+      "latitude": 45.15,
+      "longitude": 26.8333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Piatra Neamţ",
+      "province": "尼亚姆茨县",
+      "latitude": 46.9167,
+      "longitude": 26.3333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "勒姆尼库沃尔恰",
+      "name_en": "Râmnicu Vâlcea",
+      "province": "沃尔恰县",
+      "latitude": 45.1,
+      "longitude": 24.3667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Botoşani",
+      "province": "博托沙尼县",
+      "latitude": 47.75,
+      "longitude": 26.6667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "苏恰瓦",
+      "name_en": "Suceava",
+      "province": "苏恰瓦县",
+      "latitude": 47.6333,
+      "longitude": 26.25,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Reşiţa",
+      "province": "卡拉什-塞维林县",
+      "latitude": 45.3008,
+      "longitude": 21.8892,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "德罗贝塔-塞维林堡",
+      "name_en": "Drobeta-Turnu Severin",
+      "province": "梅赫丁茨县",
+      "latitude": 44.6269,
+      "longitude": 22.6529,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Bistriţa",
+      "province": "比斯特里察-讷瑟乌德县",
+      "latitude": 47.1332,
+      "longitude": 24.5001,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "特尔古日乌",
+      "name_en": "Târgu Jiu",
+      "province": "戈尔日县",
+      "latitude": 45.05,
+      "longitude": 23.2833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Hunedoara",
+      "province": "胡内多阿拉县",
+      "latitude": 45.75,
+      "longitude": 22.9,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "罗曼",
+      "name_en": "Roman",
+      "province": "尼亚姆茨县",
+      "latitude": 46.9212,
+      "longitude": 26.9265,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "伯尔拉德",
+      "name_en": "Bârlad",
+      "province": "Vaslui County",
+      "latitude": 46.2317,
+      "longitude": 27.6691,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "德瓦",
+      "name_en": "Deva",
+      "province": "胡内多阿拉县",
+      "latitude": 45.8833,
+      "longitude": 22.9,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Târgovişte",
+      "province": "登博维察县",
+      "latitude": 44.9254,
+      "longitude": 25.4567,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Focșani",
+      "province": "弗朗恰县",
+      "latitude": 45.7,
+      "longitude": 27.1833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "图尔恰",
+      "name_en": "Tulcea",
+      "province": "图尔恰县",
+      "latitude": 45.1787,
+      "longitude": 28.805,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "阿尔巴尤利亚",
+      "name_en": "Alba Iulia",
+      "province": "阿尔巴县",
+      "latitude": 46.0667,
+      "longitude": 23.5833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "斯拉蒂纳",
+      "name_en": "Slatina",
+      "province": "奥尔特县",
+      "latitude": 44.4333,
+      "longitude": 24.3667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "瓦斯卢伊",
+      "name_en": "Vaslui",
+      "province": "Vaslui County",
+      "latitude": 46.6333,
+      "longitude": 27.7333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Giurgiu",
+      "province": "久尔久县",
+      "latitude": 43.8866,
+      "longitude": 25.9627,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Mediaş",
+      "province": "锡比乌县",
+      "latitude": 46.1667,
+      "longitude": 24.35,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "札勒乌",
+      "name_en": "Zalău",
+      "province": "瑟拉日县",
+      "latitude": 47.2,
+      "longitude": 23.05,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Sfântu Gheorghe",
+      "province": "科瓦斯纳县",
+      "latitude": 45.8667,
+      "longitude": 25.7833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Paşcani",
+      "province": "雅西县",
+      "latitude": 47.2469,
+      "longitude": 26.7229,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Petroşani",
+      "province": "胡内多阿拉县",
+      "latitude": 45.4167,
+      "longitude": 23.3667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "图尔达",
+      "name_en": "Turda",
+      "province": "克卢日县",
+      "latitude": 46.5667,
+      "longitude": 23.7833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "梅吉迪亚",
+      "name_en": "Medgidia",
+      "province": "康斯坦察县",
+      "latitude": 44.25,
+      "longitude": 28.2833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "卢戈日",
+      "name_en": "Lugoj",
+      "province": "蒂米什县",
+      "latitude": 45.6886,
+      "longitude": 21.9031,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "坎皮纳",
+      "name_en": "Câmpina",
+      "province": "普拉霍瓦县",
+      "latitude": 45.1262,
+      "longitude": 25.735,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Slobozia",
+      "province": "雅洛米察县",
+      "latitude": 44.5647,
+      "longitude": 27.3633,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "泰库奇",
+      "name_en": "Tecuci",
+      "province": "加拉茨县",
+      "latitude": 45.8497,
+      "longitude": 27.4344,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Sighetu Marmaţiei",
+      "province": "马拉穆列什县",
+      "latitude": 47.932,
+      "longitude": 23.886,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "亚历山德里亚",
+      "name_en": "Alexandria",
+      "province": "特列奥尔曼县",
+      "latitude": 43.9833,
+      "longitude": 25.3333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "曼加利亚",
+      "name_en": "Mangalia",
+      "province": "康斯坦察县",
+      "latitude": 43.8162,
+      "longitude": 28.5766,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Râmnicu Sărat",
+      "province": "布泽乌县",
+      "latitude": 45.3833,
+      "longitude": 27.05,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "代日",
+      "name_en": "Dej",
+      "province": "克卢日县",
+      "latitude": 47.15,
+      "longitude": 23.8667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "奥多尔黑尤-塞库耶斯克",
+      "name_en": "Odorheiu Secuiesc",
+      "province": "Harghita County",
+      "latitude": 46.3,
+      "longitude": 25.3,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Reghin-Sat",
+      "province": "穆列什县",
+      "latitude": 46.7833,
+      "longitude": 24.7167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "锡吉什瓦拉",
+      "name_en": "Sighișoara",
+      "province": "穆列什县",
+      "latitude": 46.2214,
+      "longitude": 24.7928,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Miercurea-Ciuc",
+      "province": "Harghita County",
+      "latitude": 46.35,
+      "longitude": 25.8,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "卡拉卡尔",
+      "name_en": "Caracal",
+      "province": "奥尔特县",
+      "latitude": 44.1167,
+      "longitude": 24.35,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Năvodari",
+      "province": "康斯坦察县",
+      "latitude": 44.3167,
+      "longitude": 28.6,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Feteşti",
+      "province": "雅洛米察县",
+      "latitude": 44.3833,
+      "longitude": 27.8333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Curtea de Argeş",
+      "province": "阿尔杰什县",
+      "latitude": 45.1342,
+      "longitude": 24.6741,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "多罗霍伊",
+      "name_en": "Dorohoi",
+      "province": "博托沙尼县",
+      "latitude": 47.95,
+      "longitude": 26.4,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "弗格拉什",
+      "name_en": "Făgăraș",
+      "province": "布拉索夫县",
+      "latitude": 45.85,
+      "longitude": 24.9667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Lupeni",
+      "province": "胡内多阿拉县",
+      "latitude": 45.3603,
+      "longitude": 23.2383,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Voluntari",
+      "province": "伊尔福夫县",
+      "latitude": 44.49,
+      "longitude": 26.1734,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "瑟切莱",
+      "name_en": "Săcele",
+      "province": "布拉索夫县",
+      "latitude": 45.6167,
+      "longitude": 25.711,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "弗尔蒂切尼",
+      "name_en": "Fălticeni",
+      "province": "苏恰瓦县",
+      "latitude": 47.45,
+      "longitude": 26.3,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Huşi",
+      "province": "Vaslui County",
+      "latitude": 46.6736,
+      "longitude": 28.0594,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Mioveni",
+      "province": "阿尔杰什县",
+      "latitude": 44.959,
+      "longitude": 24.942,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "图尔努默古雷莱",
+      "name_en": "Turnu Măgurele",
+      "province": "特列奥尔曼县",
+      "latitude": 43.7469,
+      "longitude": 24.8685,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Târnăveni",
+      "province": "穆列什县",
+      "latitude": 46.3319,
+      "longitude": 24.2966,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "阿尤德",
+      "name_en": "Aiud",
+      "province": "阿尔巴县",
+      "latitude": 46.3101,
+      "longitude": 23.7213,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Caransebeş",
+      "province": "卡拉什-塞维林县",
+      "latitude": 45.4167,
+      "longitude": 22.2167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Roșiorii de Vede",
+      "province": "特列奥尔曼县",
+      "latitude": 44.1167,
+      "longitude": 24.9833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Sebeş",
+      "province": "阿尔巴县",
+      "latitude": 45.9565,
+      "longitude": 23.571,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Borşa",
+      "province": "马拉穆列什县",
+      "latitude": 47.6553,
+      "longitude": 24.6633,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "肯皮亚图尔济",
+      "name_en": "Câmpia Turzii",
+      "province": "克卢日县",
+      "latitude": 46.55,
+      "longitude": 23.8833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Petrila",
+      "province": "胡内多阿拉县",
+      "latitude": 45.45,
+      "longitude": 23.4167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Zărnești",
+      "province": "布拉索夫县",
+      "latitude": 45.5609,
+      "longitude": 25.3179,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "库吉尔",
+      "name_en": "Cugir",
+      "province": "阿尔巴县",
+      "latitude": 45.8365,
+      "longitude": 23.37,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Moineşti",
+      "province": "巴克乌县",
+      "latitude": 46.4752,
+      "longitude": 26.4891,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "勒德乌齐",
+      "name_en": "Rădăuți",
+      "province": "苏恰瓦县",
+      "latitude": 47.85,
+      "longitude": 25.9167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Fetești-Gară",
+      "province": "雅洛米察县",
+      "latitude": 44.4196,
+      "longitude": 27.8254,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "盖尔拉",
+      "name_en": "Gherla",
+      "province": "克卢日县",
+      "latitude": 47.0333,
+      "longitude": 23.9167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Comăneşti",
+      "province": "巴克乌县",
+      "latitude": 46.4213,
+      "longitude": 26.4365,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Olteniţa",
+      "province": "克勒拉希县",
+      "latitude": 44.0833,
+      "longitude": 26.6333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Motru",
+      "province": "戈尔日县",
+      "latitude": 44.8033,
+      "longitude": 22.9719,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "卡雷",
+      "name_en": "Carei",
+      "province": "萨图马雷县",
+      "latitude": 47.6833,
+      "longitude": 22.4667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Orăştie",
+      "province": "胡内多阿拉县",
+      "latitude": 45.8333,
+      "longitude": 23.2,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "布夫泰亚",
+      "name_en": "Buftea",
+      "province": "伊尔福夫县",
+      "latitude": 44.5614,
+      "longitude": 25.9489,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Drăgăşani",
+      "province": "沃尔恰县",
+      "latitude": 44.65,
+      "longitude": 24.2667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Balş",
+      "province": "奥尔特县",
+      "latitude": 44.35,
+      "longitude": 24.1,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Moreni",
+      "province": "登博维察县",
+      "latitude": 44.983,
+      "longitude": 25.6441,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "科德莱亚",
+      "name_en": "Codlea",
+      "province": "布拉索夫县",
+      "latitude": 45.7,
+      "longitude": 25.45,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Târgu Neamţ",
+      "province": "尼亚姆茨县",
+      "latitude": 47.2,
+      "longitude": 26.3667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "布拉日",
+      "name_en": "Blaj",
+      "province": "阿尔巴县",
+      "latitude": 46.1751,
+      "longitude": 23.9158,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "特尔古-塞奎斯",
+      "name_en": "Târgu Secuiesc",
+      "province": "科瓦斯纳县",
+      "latitude": 46.0,
+      "longitude": 26.1333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "科拉比亚",
+      "name_en": "Corabia",
+      "province": "奥尔特县",
+      "latitude": 43.7751,
+      "longitude": 24.5015,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Băicoi",
+      "province": "普拉霍瓦县",
+      "latitude": 45.0333,
+      "longitude": 25.85,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "格奥尔盖尼",
+      "name_en": "Gheorgheni",
+      "province": "Harghita County",
+      "latitude": 46.7229,
+      "longitude": 25.6005,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Vulcan",
+      "province": "胡内多阿拉县",
+      "latitude": 45.3833,
+      "longitude": 23.2667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "摩尔多瓦地区肯普隆格",
+      "name_en": "Câmpulung Moldovenesc",
+      "province": "苏恰瓦县",
+      "latitude": 47.5333,
+      "longitude": 25.5667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Băileşti",
+      "province": "多尔日县",
+      "latitude": 44.0167,
+      "longitude": 23.35,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Filiaşi",
+      "province": "多尔日县",
+      "latitude": 44.55,
+      "longitude": 23.5167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "卡拉法特",
+      "name_en": "Calafat",
+      "province": "多尔日县",
+      "latitude": 43.9907,
+      "longitude": 22.9333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "切尔纳沃德",
+      "name_en": "Cernavodă",
+      "province": "康斯坦察县",
+      "latitude": 44.3396,
+      "longitude": 28.0327,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Buhuşi",
+      "province": "巴克乌县",
+      "latitude": 46.7167,
+      "longitude": 26.7,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Breaza",
+      "province": "普拉霍瓦县",
+      "latitude": 45.1833,
+      "longitude": 25.6667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "萨隆塔",
+      "name_en": "Salonta",
+      "province": "比霍尔县",
+      "latitude": 46.8,
+      "longitude": 21.65,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Luduş",
+      "province": "穆列什县",
+      "latitude": 46.4833,
+      "longitude": 24.1,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "乌尔济切尼",
+      "name_en": "Urziceni",
+      "province": "雅洛米察县",
+      "latitude": 44.7167,
+      "longitude": 26.6333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Baia Sprie",
+      "province": "马拉穆列什县",
+      "latitude": 47.6619,
+      "longitude": 23.6922,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Bocşa",
+      "province": "卡拉什-塞维林县",
+      "latitude": 45.3733,
+      "longitude": 21.7092,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Pantelimon",
+      "province": "伊尔福夫县",
+      "latitude": 44.45,
+      "longitude": 26.2,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "瓦特拉多尔内",
+      "name_en": "Vatra Dornei",
+      "province": "苏恰瓦县",
+      "latitude": 47.35,
+      "longitude": 25.3667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "布拉德",
+      "name_en": "Brad",
+      "province": "胡内多阿拉县",
+      "latitude": 46.1333,
+      "longitude": 22.7833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Gura Humorului",
+      "province": "苏恰瓦县",
+      "latitude": 47.55,
+      "longitude": 25.9,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Şimleu Silvaniei",
+      "province": "瑟拉日县",
+      "latitude": 47.2333,
+      "longitude": 22.8,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "米济尔",
+      "name_en": "Mizil",
+      "province": "普拉霍瓦县",
+      "latitude": 45.0167,
+      "longitude": 26.45,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Vişeu de Sus",
+      "province": "马拉穆列什县",
+      "latitude": 47.7079,
+      "longitude": 24.4295,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Ocna Mureş",
+      "province": "阿尔巴县",
+      "latitude": 46.3833,
+      "longitude": 23.85,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Popeşti-Leordeni",
+      "province": "伊尔福夫县",
+      "latitude": 44.3833,
+      "longitude": 26.1667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Râşnov",
+      "province": "布拉索夫县",
+      "latitude": 45.5833,
+      "longitude": 25.45,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "济姆尼恰",
+      "name_en": "Zimnicea",
+      "province": "特列奥尔曼县",
+      "latitude": 43.6564,
+      "longitude": 25.3645,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Adjud",
+      "province": "弗朗恰县",
+      "latitude": 46.0991,
+      "longitude": 27.1814,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Cisnădie",
+      "province": "锡比乌县",
+      "latitude": 45.7167,
+      "longitude": 24.15,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Găeşti",
+      "province": "登博维察县",
+      "latitude": 44.7167,
+      "longitude": 25.3167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Sânpetru",
+      "province": "布拉索夫县",
+      "latitude": 45.7108,
+      "longitude": 25.6368,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Pucioasa",
+      "province": "登博维察县",
+      "latitude": 45.0781,
+      "longitude": 25.4323,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Dărmăneşti",
+      "province": "巴克乌县",
+      "latitude": 46.3667,
+      "longitude": 26.4833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Vicovu de Sus",
+      "province": "苏恰瓦县",
+      "latitude": 47.9333,
+      "longitude": 25.6833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Avrig",
+      "province": "锡比乌县",
+      "latitude": 45.7167,
+      "longitude": 24.3833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "马尔吉塔",
+      "name_en": "Marghita",
+      "province": "比霍尔县",
+      "latitude": 47.35,
+      "longitude": 22.3333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "锡梅里亚",
+      "name_en": "Simeria",
+      "province": "胡内多阿拉县",
+      "latitude": 45.85,
+      "longitude": 23.0167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Târgu Frumos",
+      "province": "雅西县",
+      "latitude": 47.2,
+      "longitude": 27.0,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Dăbuleni",
+      "province": "多尔日县",
+      "latitude": 43.8,
+      "longitude": 24.0833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Negreşti-Oaş",
+      "province": "萨图马雷县",
+      "latitude": 47.8667,
+      "longitude": 23.4333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "新摩尔多瓦",
+      "name_en": "Moldova Nouă",
+      "province": "卡拉什-塞维林县",
+      "latitude": 44.7375,
+      "longitude": 21.6669,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Ovidiu",
+      "province": "康斯坦察县",
+      "latitude": 44.258,
+      "longitude": 28.5608,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Comarnic",
+      "province": "普拉霍瓦县",
+      "latitude": 45.25,
+      "longitude": 25.6333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "特尔古奥克纳",
+      "name_en": "Târgu Ocna",
+      "province": "巴克乌县",
+      "latitude": 46.279,
+      "longitude": 26.613,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Sânnicolau Mare",
+      "province": "蒂米什县",
+      "latitude": 46.0833,
+      "longitude": 20.6333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Ştefăneşti",
+      "province": "阿尔杰什县",
+      "latitude": 44.8651,
+      "longitude": 24.9496,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Pecica",
+      "province": "阿拉德县",
+      "latitude": 46.1667,
+      "longitude": 21.0667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Chitila",
+      "province": "伊尔福夫县",
+      "latitude": 44.5081,
+      "longitude": 25.9822,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Călan",
+      "province": "胡内多阿拉县",
+      "latitude": 45.7333,
+      "longitude": 22.9833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Ţăndărei",
+      "province": "雅洛米察县",
+      "latitude": 44.6413,
+      "longitude": 27.6563,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Sântana",
+      "province": "阿拉德县",
+      "latitude": 46.35,
+      "longitude": 21.5,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Poiana Mare",
+      "province": "多尔日县",
+      "latitude": 43.9167,
+      "longitude": 23.0667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Topliţa",
+      "province": "Harghita County",
+      "latitude": 46.9243,
+      "longitude": 25.3519,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Scorniceşti",
+      "province": "奥尔特县",
+      "latitude": 44.5667,
+      "longitude": 24.55,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Orşova",
+      "province": "梅赫丁茨县",
+      "latitude": 44.723,
+      "longitude": 22.3962,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Oraviţa",
+      "province": "卡拉什-塞维林县",
+      "latitude": 45.0325,
+      "longitude": 21.6894,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Rovinari",
+      "province": "戈尔日县",
+      "latitude": 44.9167,
+      "longitude": 23.1833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Drăgăneşti-Olt",
+      "province": "奥尔特县",
+      "latitude": 44.1667,
+      "longitude": 24.5333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Vălenii de Munte",
+      "province": "普拉霍瓦县",
+      "latitude": 45.1833,
+      "longitude": 26.0333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Jilava",
+      "province": "伊尔福夫县",
+      "latitude": 44.3333,
+      "longitude": 26.0781,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Holboca",
+      "province": "雅西县",
+      "latitude": 47.15,
+      "longitude": 27.7,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "锡纳亚",
+      "name_en": "Sinaia",
+      "province": "普拉霍瓦县",
+      "latitude": 45.35,
+      "longitude": 25.55,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Darabani",
+      "province": "博托沙尼县",
+      "latitude": 48.1833,
+      "longitude": 26.5833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Tomeşti",
+      "province": "雅西县",
+      "latitude": 47.1167,
+      "longitude": 27.6833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Videle",
+      "province": "特列奥尔曼县",
+      "latitude": 44.2781,
+      "longitude": 25.5244,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Storeşti",
+      "province": "博托沙尼县",
+      "latitude": 47.55,
+      "longitude": 26.8667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Urlaţi",
+      "province": "普拉霍瓦县",
+      "latitude": 44.9833,
+      "longitude": 26.2333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Bolintin Vale",
+      "province": "久尔久县",
+      "latitude": 44.4489,
+      "longitude": 25.7578,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Matca",
+      "province": "加拉茨县",
+      "latitude": 45.85,
+      "longitude": 27.5333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Strehaia",
+      "province": "梅赫丁茨县",
+      "latitude": 44.6167,
+      "longitude": 23.2,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Oţelu Roşu",
+      "province": "卡拉什-塞维林县",
+      "latitude": 45.5333,
+      "longitude": 22.3667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "索瓦塔",
+      "name_en": "Sovata",
+      "province": "穆列什县",
+      "latitude": 46.5833,
+      "longitude": 25.0667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Boldeşti-Scăeni",
+      "province": "普拉霍瓦县",
+      "latitude": 45.0333,
+      "longitude": 26.0333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Nehoiu",
+      "province": "布泽乌县",
+      "latitude": 45.4167,
+      "longitude": 26.3,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Belceşti",
+      "province": "雅西县",
+      "latitude": 47.3,
+      "longitude": 27.0833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Hârlău",
+      "province": "雅西县",
+      "latitude": 47.4333,
+      "longitude": 26.9,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Pechea",
+      "province": "加拉茨县",
+      "latitude": 45.6333,
+      "longitude": 27.8,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Ianca",
+      "province": "布勒伊拉县",
+      "latitude": 45.1333,
+      "longitude": 27.45,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "日博乌",
+      "name_en": "Jibou",
+      "province": "瑟拉日县",
+      "latitude": 47.259,
+      "longitude": 23.2565,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "利波瓦",
+      "name_en": "Lipova",
+      "province": "阿拉德县",
+      "latitude": 46.0909,
+      "longitude": 21.6963,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Topoloveni",
+      "province": "阿尔杰什县",
+      "latitude": 44.8167,
+      "longitude": 25.0833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Dolhasca",
+      "province": "苏恰瓦县",
+      "latitude": 47.4333,
+      "longitude": 26.6,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Covasna",
+      "province": "科瓦斯纳县",
+      "latitude": 45.85,
+      "longitude": 26.1833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Lieşti",
+      "province": "加拉茨县",
+      "latitude": 45.6167,
+      "longitude": 27.5167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Beclean",
+      "province": "比斯特里察-讷瑟乌德县",
+      "latitude": 47.1833,
+      "longitude": 24.1833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Murfatlar",
+      "province": "康斯坦察县",
+      "latitude": 44.1833,
+      "longitude": 28.4167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Breaza de Sus",
+      "province": "普拉霍瓦县",
+      "latitude": 45.1988,
+      "longitude": 25.6558,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Haţeg",
+      "province": "胡内多阿拉县",
+      "latitude": 45.6167,
+      "longitude": 22.95,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "任博利亚",
+      "name_en": "Jimbolia",
+      "province": "蒂米什县",
+      "latitude": 45.7914,
+      "longitude": 20.7172,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Dofteana",
+      "province": "巴克乌县",
+      "latitude": 46.3167,
+      "longitude": 26.5167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "贝尤什",
+      "name_en": "Beiuş",
+      "province": "比霍尔县",
+      "latitude": 46.6667,
+      "longitude": 22.35,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Costeşti",
+      "province": "阿尔杰什县",
+      "latitude": 44.6667,
+      "longitude": 24.8833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "阿格尼塔",
+      "name_en": "Agnita",
+      "province": "锡比乌县",
+      "latitude": 45.9667,
+      "longitude": 24.6167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Deleni",
+      "province": "雅西县",
+      "latitude": 47.4667,
+      "longitude": 26.8833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Vladimirescu",
+      "province": "阿拉德县",
+      "latitude": 46.1663,
+      "longitude": 21.401,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Bumbeşti-Jiu",
+      "province": "戈尔日县",
+      "latitude": 45.1667,
+      "longitude": 23.4,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Călineşti",
+      "province": "阿尔杰什县",
+      "latitude": 44.8167,
+      "longitude": 25.05,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Seini",
+      "province": "马拉穆列什县",
+      "latitude": 47.75,
+      "longitude": 23.2833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Năsăud",
+      "province": "比斯特里察-讷瑟乌德县",
+      "latitude": 47.2833,
+      "longitude": 24.4,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Valea Călugărească",
+      "province": "普拉霍瓦县",
+      "latitude": 44.9667,
+      "longitude": 26.15,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "奥托佩尼",
+      "name_en": "Otopeni",
+      "province": "伊尔福夫县",
+      "latitude": 44.55,
+      "longitude": 26.0667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Măcin",
+      "province": "图尔恰县",
+      "latitude": 45.2437,
+      "longitude": 28.1356,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Bucov",
+      "province": "普拉霍瓦县",
+      "latitude": 44.9667,
+      "longitude": 26.0833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Aleşd",
+      "province": "比霍尔县",
+      "latitude": 47.0667,
+      "longitude": 22.4167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Cormaia",
+      "province": "比斯特里察-讷瑟乌德县",
+      "latitude": 47.3667,
+      "longitude": 24.6833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Victoria",
+      "province": "布拉索夫县",
+      "latitude": 45.7297,
+      "longitude": 24.7028,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "米哈伊谷乡",
+      "name_en": "Valea lui Mihai",
+      "province": "比霍尔县",
+      "latitude": 47.5167,
+      "longitude": 22.15,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Săbăoani",
+      "province": "尼亚姆茨县",
+      "latitude": 47.0114,
+      "longitude": 26.8654,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Filipeştii de Pădure",
+      "province": "普拉霍瓦县",
+      "latitude": 45.0,
+      "longitude": 25.75,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Nicolae Bălcescu",
+      "province": "巴克乌县",
+      "latitude": 46.4667,
+      "longitude": 26.9167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Ciurea",
+      "province": "雅西县",
+      "latitude": 47.05,
+      "longitude": 27.5667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Babadag",
+      "province": "图尔恰县",
+      "latitude": 44.9,
+      "longitude": 28.7167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Titu",
+      "province": "登博维察县",
+      "latitude": 44.65,
+      "longitude": 25.5333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Hârşova",
+      "province": "康斯坦察县",
+      "latitude": 44.6855,
+      "longitude": 27.9501,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "伊内乌",
+      "name_en": "Ineu",
+      "province": "阿拉德县",
+      "latitude": 46.4337,
+      "longitude": 21.8405,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Negreşti",
+      "province": "Vaslui County",
+      "latitude": 47.8667,
+      "longitude": 23.4333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Sascut",
+      "province": "巴克乌县",
+      "latitude": 46.2,
+      "longitude": 27.1,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Mihail Kogălniceanu",
+      "province": "康斯坦察县",
+      "latitude": 44.368,
+      "longitude": 28.46,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Uricani",
+      "province": "胡内多阿拉县",
+      "latitude": 45.3373,
+      "longitude": 23.1524,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Buşteni",
+      "province": "普拉霍瓦县",
+      "latitude": 45.4,
+      "longitude": 25.5333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Homocea",
+      "province": "弗朗恰县",
+      "latitude": 46.1333,
+      "longitude": 27.2333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Poienile de sub Munte",
+      "province": "马拉穆列什县",
+      "latitude": 47.8167,
+      "longitude": 24.4333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Liteni",
+      "province": "苏恰瓦县",
+      "latitude": 47.5667,
+      "longitude": 26.2,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Munteni",
+      "province": "加拉茨县",
+      "latitude": 47.1667,
+      "longitude": 27.6,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Podu Iloaiei",
+      "province": "雅西县",
+      "latitude": 47.2167,
+      "longitude": 27.2667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Cumpăna",
+      "province": "康斯坦察县",
+      "latitude": 44.1167,
+      "longitude": 28.5667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Modelu",
+      "province": "克勒拉希县",
+      "latitude": 44.1957,
+      "longitude": 27.3872,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Iveşti",
+      "province": "加拉茨县",
+      "latitude": 45.6833,
+      "longitude": 27.5167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "库尔蒂奇",
+      "name_en": "Curtici",
+      "province": "阿拉德县",
+      "latitude": 46.35,
+      "longitude": 21.3,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Budeşti",
+      "province": "克勒拉希县",
+      "latitude": 44.2347,
+      "longitude": 26.4658,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Oituz",
+      "province": "巴克乌县",
+      "latitude": 46.2,
+      "longitude": 26.6167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "达拉巴尼",
+      "name_en": "Cristuru Secuiesc",
+      "province": "Harghita County",
+      "latitude": 46.2833,
+      "longitude": 25.0333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Borcea",
+      "province": "克勒拉希县",
+      "latitude": 44.3333,
+      "longitude": 27.75,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Cernica",
+      "province": "伊尔福夫县",
+      "latitude": 44.4167,
+      "longitude": 26.2833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Zorleni",
+      "province": "Vaslui County",
+      "latitude": 46.2667,
+      "longitude": 27.7167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Eforie Sud",
+      "province": "康斯坦察县",
+      "latitude": 44.0229,
+      "longitude": 28.6494,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Marginea",
+      "province": "苏恰瓦县",
+      "latitude": 47.8167,
+      "longitude": 25.8167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Berca",
+      "province": "布泽乌县",
+      "latitude": 45.2833,
+      "longitude": 26.6833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Tăşnad",
+      "province": "萨图马雷县",
+      "latitude": 47.4833,
+      "longitude": 22.5833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Şimian",
+      "province": "梅赫丁茨县",
+      "latitude": 44.6142,
+      "longitude": 22.7072,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Baraolt",
+      "province": "科瓦斯纳县",
+      "latitude": 46.0751,
+      "longitude": 25.6003,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "胡埃丁",
+      "name_en": "Huedin",
+      "province": "克卢日县",
+      "latitude": 46.8667,
+      "longitude": 23.05,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Măgurele",
+      "province": "伊尔福夫县",
+      "latitude": 44.35,
+      "longitude": 26.0333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Băbeni",
+      "province": "沃尔恰县",
+      "latitude": 44.9667,
+      "longitude": 24.2333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Iernut",
+      "province": "穆列什县",
+      "latitude": 46.45,
+      "longitude": 24.25,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "锡雷特",
+      "name_en": "Siret",
+      "province": "苏恰瓦县",
+      "latitude": 47.95,
+      "longitude": 26.0667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Bărcăneşti",
+      "province": "普拉霍瓦县",
+      "latitude": 44.8833,
+      "longitude": 26.05,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Brăneşti",
+      "province": "登博维察县",
+      "latitude": 45.0333,
+      "longitude": 25.4167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Preuteşti",
+      "province": "苏恰瓦县",
+      "latitude": 47.45,
+      "longitude": 26.4167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Vadu Paşii",
+      "province": "布泽乌县",
+      "latitude": 45.1667,
+      "longitude": 26.9,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Întorsura Buzăului",
+      "province": "科瓦斯纳县",
+      "latitude": 45.6833,
+      "longitude": 26.0333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Cobadin",
+      "province": "康斯坦察县",
+      "latitude": 44.0833,
+      "longitude": 28.2167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Borleşti",
+      "province": "尼亚姆茨县",
+      "latitude": 46.7667,
+      "longitude": 26.4833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Moisei",
+      "province": "马拉穆列什县",
+      "latitude": 47.6556,
+      "longitude": 24.5401,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Puchenii Mari",
+      "province": "普拉霍瓦县",
+      "latitude": 44.8167,
+      "longitude": 26.0833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Lovrin",
+      "province": "蒂米什县",
+      "latitude": 45.9681,
+      "longitude": 20.7703,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Mărășești",
+      "province": "弗朗恰县",
+      "latitude": 45.8833,
+      "longitude": 27.2333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Panciu",
+      "province": "弗朗恰县",
+      "latitude": 45.9,
+      "longitude": 27.0833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Hotarele",
+      "province": "久尔久县",
+      "latitude": 44.1725,
+      "longitude": 26.3703,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Ariceştii-Rahtivani",
+      "province": "普拉霍瓦县",
+      "latitude": 44.95,
+      "longitude": 25.8333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Bascov",
+      "province": "阿尔杰什县",
+      "latitude": 44.9,
+      "longitude": 24.8167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Valu lui Traian",
+      "province": "康斯坦察县",
+      "latitude": 44.1667,
+      "longitude": 28.4667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "阿尼纳",
+      "name_en": "Anina",
+      "province": "卡拉什-塞维林县",
+      "latitude": 45.0794,
+      "longitude": 21.8569,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Roznov",
+      "province": "尼亚姆茨县",
+      "latitude": 46.8333,
+      "longitude": 26.5167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Apahida",
+      "province": "克卢日县",
+      "latitude": 46.8167,
+      "longitude": 23.75,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Salcea",
+      "province": "苏恰瓦县",
+      "latitude": 47.65,
+      "longitude": 26.3667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Târgu Cărbuneşti",
+      "province": "戈尔日县",
+      "latitude": 44.95,
+      "longitude": 23.5167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Brăneşti",
+      "province": "伊尔福夫县",
+      "latitude": 45.0333,
+      "longitude": 25.4167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Dragalina",
+      "province": "克勒拉希县",
+      "latitude": 44.4333,
+      "longitude": 27.3167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Joiţa",
+      "province": "久尔久县",
+      "latitude": 44.4942,
+      "longitude": 25.8539,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Verneşti",
+      "province": "布泽乌县",
+      "latitude": 45.2167,
+      "longitude": 26.7333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Pipirig",
+      "province": "尼亚姆茨县",
+      "latitude": 47.25,
+      "longitude": 26.0667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Milcovul",
+      "province": "弗朗恰县",
+      "latitude": 45.65,
+      "longitude": 27.25,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Recaş",
+      "province": "蒂米什县",
+      "latitude": 45.7989,
+      "longitude": 21.5008,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Călimăneşti",
+      "province": "沃尔恰县",
+      "latitude": 45.2333,
+      "longitude": 24.3333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Târgşoru Vechi",
+      "province": "普拉霍瓦县",
+      "latitude": 44.8667,
+      "longitude": 25.9167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Turceni",
+      "province": "戈尔日县",
+      "latitude": 44.6833,
+      "longitude": 23.3667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Brazii de Sus",
+      "province": "普拉霍瓦县",
+      "latitude": 44.8667,
+      "longitude": 26.0167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Milişăuţi",
+      "province": "苏恰瓦县",
+      "latitude": 47.7833,
+      "longitude": 26.0,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Zlatna",
+      "province": "阿尔巴县",
+      "latitude": 46.1063,
+      "longitude": 23.2316,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Popeşti",
+      "province": "比霍尔县",
+      "latitude": 44.3833,
+      "longitude": 26.1667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Roata de Jos",
+      "province": "久尔久县",
+      "latitude": 44.4108,
+      "longitude": 25.5433,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Bicaz",
+      "province": "尼亚姆茨县",
+      "latitude": 46.9167,
+      "longitude": 26.0667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Vidra",
+      "province": "伊尔福夫县",
+      "latitude": 44.2606,
+      "longitude": 26.1697,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Răzvad",
+      "province": "登博维察县",
+      "latitude": 44.9333,
+      "longitude": 25.5333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Potlogi",
+      "province": "登博维察县",
+      "latitude": 44.55,
+      "longitude": 25.5833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Tămăşeni",
+      "province": "尼亚姆茨县",
+      "latitude": 46.9833,
+      "longitude": 26.9333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Sadova",
+      "province": "多尔日县",
+      "latitude": 43.9,
+      "longitude": 23.95,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Bragadiru",
+      "province": "伊尔福夫县",
+      "latitude": 44.3711,
+      "longitude": 25.9775,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Corbii Mari",
+      "province": "登博维察县",
+      "latitude": 44.55,
+      "longitude": 25.5,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Sângeorz-Băi",
+      "province": "比斯特里察-讷瑟乌德县",
+      "latitude": 47.3685,
+      "longitude": 24.6721,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Băleni Sârbi",
+      "province": "登博维察县",
+      "latitude": 44.8167,
+      "longitude": 25.6333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Răuceşti",
+      "province": "尼亚姆茨县",
+      "latitude": 47.25,
+      "longitude": 26.4167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Orbeasca de Sus",
+      "province": "特列奥尔曼县",
+      "latitude": 44.15,
+      "longitude": 25.3167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Dragomireşti",
+      "province": "登博维察县",
+      "latitude": 44.9167,
+      "longitude": 25.3333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Chişineu-Criş",
+      "province": "阿拉德县",
+      "latitude": 46.5251,
+      "longitude": 21.5184,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Dumbrăveni",
+      "province": "锡比乌县",
+      "latitude": 46.2333,
+      "longitude": 24.5667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Miroslava",
+      "province": "雅西县",
+      "latitude": 47.15,
+      "longitude": 27.5167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Săveni",
+      "province": "博托沙尼县",
+      "latitude": 47.95,
+      "longitude": 26.8667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Dumbrăveni",
+      "province": "苏恰瓦县",
+      "latitude": 46.2333,
+      "longitude": 24.5667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Prejmer",
+      "province": "布拉索夫县",
+      "latitude": 45.7167,
+      "longitude": 25.7667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Chiajna",
+      "province": "伊尔福夫县",
+      "latitude": 44.46,
+      "longitude": 25.9733,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Burueneşti",
+      "province": "布泽乌县",
+      "latitude": 45.3167,
+      "longitude": 26.35,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Nădlac",
+      "province": "阿拉德县",
+      "latitude": 46.1667,
+      "longitude": 20.75,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Cudalbi",
+      "province": "加拉茨县",
+      "latitude": 45.7833,
+      "longitude": 27.7,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Baciu",
+      "province": "克卢日县",
+      "latitude": 46.8,
+      "longitude": 23.5167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Mărgineni-Munteni",
+      "province": "巴克乌县",
+      "latitude": 46.6,
+      "longitude": 26.9,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Odobeşti",
+      "province": "弗朗恰县",
+      "latitude": 45.7667,
+      "longitude": 27.05,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Chirnogi",
+      "province": "克勒拉希县",
+      "latitude": 44.1167,
+      "longitude": 26.5667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Şiria",
+      "province": "阿拉德县",
+      "latitude": 46.2667,
+      "longitude": 21.6333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "格塔亚",
+      "name_en": "Gătaia",
+      "province": "蒂米什县",
+      "latitude": 45.4311,
+      "longitude": 21.43,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Vorona Teodoru",
+      "province": "博托沙尼县",
+      "latitude": 47.55,
+      "longitude": 26.6,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Cotnari",
+      "province": "雅西县",
+      "latitude": 47.35,
+      "longitude": 26.9833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Balcani",
+      "province": "巴克乌县",
+      "latitude": 46.6333,
+      "longitude": 26.55,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Segarcea",
+      "province": "多尔日县",
+      "latitude": 44.1,
+      "longitude": 23.75,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Poduri",
+      "province": "巴克乌县",
+      "latitude": 46.4667,
+      "longitude": 26.5333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "肯佩尼",
+      "name_en": "Câmpeni",
+      "province": "阿尔巴县",
+      "latitude": 46.3667,
+      "longitude": 23.05,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Dărmăneşti",
+      "province": "登博维察县",
+      "latitude": 46.3667,
+      "longitude": 26.4833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Moţăţei",
+      "province": "多尔日县",
+      "latitude": 44.0833,
+      "longitude": 23.2,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Corod",
+      "province": "加拉茨县",
+      "latitude": 45.9,
+      "longitude": 27.6167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Piatra Şoimului",
+      "province": "尼亚姆茨县",
+      "latitude": 46.8333,
+      "longitude": 26.4333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Vasilaţi",
+      "province": "克勒拉希县",
+      "latitude": 44.2878,
+      "longitude": 26.4475,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Răcăciuni",
+      "province": "巴克乌县",
+      "latitude": 46.3333,
+      "longitude": 26.9833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "1 Decembrie",
+      "province": "伊尔福夫县",
+      "latitude": 44.2908,
+      "longitude": 26.0581,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Castelu",
+      "province": "康斯坦察县",
+      "latitude": 44.25,
+      "longitude": 28.3333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Peretu",
+      "province": "特列奥尔曼县",
+      "latitude": 44.05,
+      "longitude": 25.0833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Văcăreşti",
+      "province": "登博维察县",
+      "latitude": 44.85,
+      "longitude": 25.4833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Filipeştii de Târg",
+      "province": "普拉霍瓦县",
+      "latitude": 44.9833,
+      "longitude": 25.7833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Adâncata",
+      "province": "苏恰瓦县",
+      "latitude": 47.7333,
+      "longitude": 26.3,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Pogoanele",
+      "province": "布泽乌县",
+      "latitude": 44.9167,
+      "longitude": 27.0,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Sângeorgiu de Mureş",
+      "province": "穆列什县",
+      "latitude": 46.5696,
+      "longitude": 24.5945,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Suraia",
+      "province": "弗朗恰县",
+      "latitude": 45.6833,
+      "longitude": 27.4,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Tismana",
+      "province": "戈尔日县",
+      "latitude": 45.05,
+      "longitude": 22.9667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Gilău",
+      "province": "克卢日县",
+      "latitude": 46.7325,
+      "longitude": 23.3617,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Plopeni",
+      "province": "普拉霍瓦县",
+      "latitude": 45.0496,
+      "longitude": 25.952,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Comana",
+      "province": "久尔久县",
+      "latitude": 44.1706,
+      "longitude": 26.145,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Răducăneni",
+      "province": "雅西县",
+      "latitude": 46.95,
+      "longitude": 27.9333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Brăhăşeştii de Sus",
+      "province": "加拉茨县",
+      "latitude": 46.05,
+      "longitude": 27.35,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Murgeni",
+      "province": "Vaslui County",
+      "latitude": 46.2044,
+      "longitude": 28.0197,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Ţibăneşti",
+      "province": "雅西县",
+      "latitude": 46.9167,
+      "longitude": 27.3333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Blejoi",
+      "province": "普拉霍瓦县",
+      "latitude": 45.0,
+      "longitude": 26.0167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Buziaş",
+      "province": "蒂米什县",
+      "latitude": 45.6492,
+      "longitude": 21.6036,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Scobinţi",
+      "province": "雅西县",
+      "latitude": 47.402,
+      "longitude": 26.912,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Corneşti",
+      "province": "登博维察县",
+      "latitude": 44.7833,
+      "longitude": 25.8667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Ulmi",
+      "province": "久尔久县",
+      "latitude": 44.4867,
+      "longitude": 25.7803,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Band",
+      "province": "穆列什县",
+      "latitude": 46.5833,
+      "longitude": 24.3833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Şomcuta Mare",
+      "province": "马拉穆列什县",
+      "latitude": 47.5167,
+      "longitude": 23.4667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Fieni",
+      "province": "登博维察县",
+      "latitude": 45.1333,
+      "longitude": 25.4167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Amara",
+      "province": "雅洛米察县",
+      "latitude": 44.6167,
+      "longitude": 27.3167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Scheia",
+      "province": "苏恰瓦县",
+      "latitude": 47.65,
+      "longitude": 26.2333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Floreşti",
+      "province": "普拉霍瓦县",
+      "latitude": 45.05,
+      "longitude": 25.7833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Mihăileşti",
+      "province": "久尔久县",
+      "latitude": 44.3267,
+      "longitude": 25.9083,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Tuluceşti",
+      "province": "加拉茨县",
+      "latitude": 45.5667,
+      "longitude": 28.0333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Sarichioi",
+      "province": "图尔恰县",
+      "latitude": 44.95,
+      "longitude": 28.85,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Sagna",
+      "province": "尼亚姆茨县",
+      "latitude": 46.9833,
+      "longitude": 27.0167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Asău",
+      "province": "巴克乌县",
+      "latitude": 46.443,
+      "longitude": 26.4004,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Vidra",
+      "province": "弗朗恰县",
+      "latitude": 44.2606,
+      "longitude": 26.1697,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Floreşti",
+      "province": "克卢日县",
+      "latitude": 45.05,
+      "longitude": 25.7833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Girov",
+      "province": "尼亚姆茨县",
+      "latitude": 46.95,
+      "longitude": 26.5167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Sărmaşu",
+      "province": "穆列什县",
+      "latitude": 46.75,
+      "longitude": 24.1667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Bixad",
+      "province": "萨图马雷县",
+      "latitude": 47.9333,
+      "longitude": 23.4,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Doljeşti",
+      "province": "尼亚姆茨县",
+      "latitude": 47.0333,
+      "longitude": 26.9833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Băleşti",
+      "province": "戈尔日县",
+      "latitude": 45.0167,
+      "longitude": 23.2167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Vadu Moldovei",
+      "province": "苏恰瓦县",
+      "latitude": 47.3833,
+      "longitude": 26.3667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Însurăţei",
+      "province": "布勒伊拉县",
+      "latitude": 44.9167,
+      "longitude": 27.6,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Cornu Luncii",
+      "province": "苏恰瓦县",
+      "latitude": 47.4667,
+      "longitude": 26.15,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Bălan",
+      "province": "Harghita County",
+      "latitude": 46.6505,
+      "longitude": 25.8083,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Vânători-Neamţ",
+      "province": "尼亚姆茨县",
+      "latitude": 47.2,
+      "longitude": 26.3167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Măieru",
+      "province": "比斯特里察-讷瑟乌德县",
+      "latitude": 47.4,
+      "longitude": 24.75,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Armăşeşti",
+      "province": "雅洛米察县",
+      "latitude": 44.75,
+      "longitude": 26.5833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Cajvana",
+      "province": "苏恰瓦县",
+      "latitude": 47.7,
+      "longitude": 25.9667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Periş",
+      "province": "伊尔福夫县",
+      "latitude": 44.6847,
+      "longitude": 26.0139,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Glina",
+      "province": "伊尔福夫县",
+      "latitude": 44.3833,
+      "longitude": 26.25,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Tărlungeni",
+      "province": "布拉索夫县",
+      "latitude": 45.6333,
+      "longitude": 25.75,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Ciacova",
+      "province": "蒂米什县",
+      "latitude": 45.5081,
+      "longitude": 21.1286,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Cojasca",
+      "province": "登博维察县",
+      "latitude": 44.7167,
+      "longitude": 25.85,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Helegiu",
+      "province": "巴克乌县",
+      "latitude": 46.35,
+      "longitude": 26.75,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Măneşti",
+      "province": "普拉霍瓦县",
+      "latitude": 44.8667,
+      "longitude": 25.85,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Halmeu",
+      "province": "萨图马雷县",
+      "latitude": 47.9667,
+      "longitude": 23.0167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Gruiu",
+      "province": "伊尔福夫县",
+      "latitude": 44.7333,
+      "longitude": 26.2333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Udeşti",
+      "province": "苏恰瓦县",
+      "latitude": 47.5667,
+      "longitude": 26.4167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Lumina",
+      "province": "康斯坦察县",
+      "latitude": 44.2833,
+      "longitude": 28.5667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Blăgeşti",
+      "province": "巴克乌县",
+      "latitude": 46.6833,
+      "longitude": 26.65,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Mălini",
+      "province": "苏恰瓦县",
+      "latitude": 47.4667,
+      "longitude": 26.0833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Merei",
+      "province": "布泽乌县",
+      "latitude": 45.1333,
+      "longitude": 26.6833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Pâncota",
+      "province": "阿拉德县",
+      "latitude": 46.3333,
+      "longitude": 21.7,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "弗杰特",
+      "name_en": "Făget",
+      "province": "蒂米什县",
+      "latitude": 45.85,
+      "longitude": 22.1833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Cordun",
+      "province": "尼亚姆茨县",
+      "latitude": 46.95,
+      "longitude": 26.8667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Medieşu Aurit",
+      "province": "萨图马雷县",
+      "latitude": 47.7833,
+      "longitude": 23.15,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Umbrăreşti",
+      "province": "加拉茨县",
+      "latitude": 45.7167,
+      "longitude": 27.4667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Teiuş",
+      "province": "阿尔巴县",
+      "latitude": 46.2,
+      "longitude": 23.6833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Dăneţi",
+      "province": "多尔日县",
+      "latitude": 43.9833,
+      "longitude": 24.05,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Dumbrava Roşie",
+      "province": "尼亚姆茨县",
+      "latitude": 46.8833,
+      "longitude": 26.4333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Ţibana",
+      "province": "雅西县",
+      "latitude": 46.9833,
+      "longitude": 27.3333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Mărăcineni",
+      "province": "布泽乌县",
+      "latitude": 45.2,
+      "longitude": 26.8,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Vereşti",
+      "province": "苏恰瓦县",
+      "latitude": 47.6,
+      "longitude": 26.4333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Copălău",
+      "province": "博托沙尼县",
+      "latitude": 47.6167,
+      "longitude": 26.8333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Vărbilău",
+      "province": "普拉霍瓦县",
+      "latitude": 45.1833,
+      "longitude": 25.95,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Techirghiol",
+      "province": "康斯坦察县",
+      "latitude": 44.05,
+      "longitude": 28.6,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Săcueni",
+      "province": "比霍尔县",
+      "latitude": 47.35,
+      "longitude": 22.1,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Cărpiniş",
+      "province": "蒂米什县",
+      "latitude": 45.7872,
+      "longitude": 20.9042,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Luncaviţa",
+      "province": "图尔恰县",
+      "latitude": 45.2833,
+      "longitude": 28.2667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Ulmeni",
+      "province": "马拉穆列什县",
+      "latitude": 47.4667,
+      "longitude": 23.3,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Cogealac",
+      "province": "康斯坦察县",
+      "latitude": 44.55,
+      "longitude": 28.5667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Cioranii de Jos",
+      "province": "普拉霍瓦县",
+      "latitude": 44.8167,
+      "longitude": 26.4167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Griviţa",
+      "province": "雅洛米察县",
+      "latitude": 44.7333,
+      "longitude": 27.2833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Smeeni",
+      "province": "布泽乌县",
+      "latitude": 44.9833,
+      "longitude": 26.85,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Tileagd",
+      "province": "比霍尔县",
+      "latitude": 47.0667,
+      "longitude": 22.2,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Volovăţ",
+      "province": "苏恰瓦县",
+      "latitude": 47.8167,
+      "longitude": 25.9,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Mircea Vodă",
+      "province": "康斯坦察县",
+      "latitude": 44.2833,
+      "longitude": 28.1667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Todireşti",
+      "province": "雅西县",
+      "latitude": 47.3167,
+      "longitude": 26.8333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Feldru",
+      "province": "比斯特里察-讷瑟乌德县",
+      "latitude": 47.2833,
+      "longitude": 24.6,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Slănic",
+      "province": "普拉霍瓦县",
+      "latitude": 45.25,
+      "longitude": 25.9333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Coşereni",
+      "province": "雅洛米察县",
+      "latitude": 44.6833,
+      "longitude": 26.5667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Ungureni-Jianu",
+      "province": "博托沙尼县",
+      "latitude": 47.8833,
+      "longitude": 26.7833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Vlăhiţa",
+      "province": "Harghita County",
+      "latitude": 46.345,
+      "longitude": 25.527,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Dragodana",
+      "province": "登博维察县",
+      "latitude": 44.7333,
+      "longitude": 25.35,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Dancu",
+      "province": "雅西县",
+      "latitude": 47.1542,
+      "longitude": 27.6662,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Izvoarele",
+      "province": "登博维察县",
+      "latitude": 45.0333,
+      "longitude": 25.2667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Livada",
+      "province": "萨图马雷县",
+      "latitude": 47.8667,
+      "longitude": 23.1333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Răcari",
+      "province": "登博维察县",
+      "latitude": 44.6333,
+      "longitude": 25.7333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Cleja",
+      "province": "巴克乌县",
+      "latitude": 46.4167,
+      "longitude": 26.9,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Siculeni",
+      "province": "Harghita County",
+      "latitude": 46.4167,
+      "longitude": 25.75,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Dor Mărunt",
+      "province": "克勒拉希县",
+      "latitude": 44.45,
+      "longitude": 26.9167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Bucşani",
+      "province": "登博维察县",
+      "latitude": 44.8667,
+      "longitude": 25.65,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Mirceşti",
+      "province": "雅西县",
+      "latitude": 47.0833,
+      "longitude": 26.8333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Baloteşti",
+      "province": "伊尔福夫县",
+      "latitude": 44.6167,
+      "longitude": 26.1167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Păuneşti",
+      "province": "弗朗恰县",
+      "latitude": 46.0333,
+      "longitude": 27.1,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Bărbuleţu",
+      "province": "登博维察县",
+      "latitude": 45.1333,
+      "longitude": 25.3,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Doftana",
+      "province": "普拉霍瓦县",
+      "latitude": 46.3167,
+      "longitude": 26.5167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Baia",
+      "province": "苏恰瓦县",
+      "latitude": 47.4167,
+      "longitude": 26.2167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Popricani",
+      "province": "雅西县",
+      "latitude": 47.3,
+      "longitude": 27.5167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Horezu",
+      "province": "沃尔恰县",
+      "latitude": 45.15,
+      "longitude": 24.0167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Vânju-Mare",
+      "province": "梅赫丁茨县",
+      "latitude": 44.4253,
+      "longitude": 22.8697,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Praid",
+      "province": "Harghita County",
+      "latitude": 46.55,
+      "longitude": 25.1333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Oraşu Nou",
+      "province": "萨图马雷县",
+      "latitude": 47.8333,
+      "longitude": 23.2833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Arbore",
+      "province": "苏恰瓦县",
+      "latitude": 47.7333,
+      "longitude": 25.9333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Văleni",
+      "province": "Vaslui County",
+      "latitude": 47.3,
+      "longitude": 27.0833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Poiana Lacului",
+      "province": "阿尔杰什县",
+      "latitude": 44.8167,
+      "longitude": 24.7333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Afumaţi",
+      "province": "伊尔福夫县",
+      "latitude": 44.5167,
+      "longitude": 26.2667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Laza",
+      "province": "Vaslui County",
+      "latitude": 46.65,
+      "longitude": 27.5833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Turţ",
+      "province": "萨图马雷县",
+      "latitude": 47.9833,
+      "longitude": 23.2167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Pârjol",
+      "province": "巴克乌县",
+      "latitude": 46.5833,
+      "longitude": 26.6,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Călăraşi",
+      "province": "克勒拉希县",
+      "latitude": 44.2051,
+      "longitude": 27.3136,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Crevedia",
+      "province": "登博维察县",
+      "latitude": 44.6,
+      "longitude": 25.9333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Brezoi",
+      "province": "沃尔恰县",
+      "latitude": 45.338,
+      "longitude": 24.2486,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Fundulea",
+      "province": "克勒拉希县",
+      "latitude": 44.4667,
+      "longitude": 26.5167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Leţcani",
+      "province": "雅西县",
+      "latitude": 47.1833,
+      "longitude": 27.4167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Bălţăteşti",
+      "province": "尼亚姆茨县",
+      "latitude": 47.1167,
+      "longitude": 26.3,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Călăraşi",
+      "province": "多尔日县",
+      "latitude": 44.2051,
+      "longitude": 27.3136,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Agăş",
+      "province": "巴克乌县",
+      "latitude": 46.4833,
+      "longitude": 26.2167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Vişina",
+      "province": "登博维察县",
+      "latitude": 44.5833,
+      "longitude": 25.3333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Dobroeşti",
+      "province": "伊尔福夫县",
+      "latitude": 44.45,
+      "longitude": 26.1833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Starchiojd",
+      "province": "普拉霍瓦县",
+      "latitude": 45.3167,
+      "longitude": 26.1833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Albeşti",
+      "province": "博托沙尼县",
+      "latitude": 47.7,
+      "longitude": 27.0667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Broşteni",
+      "province": "苏恰瓦县",
+      "latitude": 47.2333,
+      "longitude": 25.7,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Brebu Mânăstirei",
+      "province": "普拉霍瓦县",
+      "latitude": 45.1833,
+      "longitude": 25.7667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Plopşoru",
+      "province": "戈尔日县",
+      "latitude": 44.7833,
+      "longitude": 23.35,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Periam",
+      "province": "蒂米什县",
+      "latitude": 46.05,
+      "longitude": 20.8667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Borca",
+      "province": "尼亚姆茨县",
+      "latitude": 47.1833,
+      "longitude": 25.7667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Rediu",
+      "province": "雅西县",
+      "latitude": 47.2167,
+      "longitude": 27.5,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Lehliu-Gară",
+      "province": "克勒拉希县",
+      "latitude": 44.4333,
+      "longitude": 26.85,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Diosig",
+      "province": "比霍尔县",
+      "latitude": 47.3,
+      "longitude": 22.0,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Ștei",
+      "province": "比霍尔县",
+      "latitude": 46.5333,
+      "longitude": 22.45,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Cosmeşti",
+      "province": "加拉茨县",
+      "latitude": 45.8702,
+      "longitude": 27.3112,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Corni",
+      "province": "博托沙尼县",
+      "latitude": 47.65,
+      "longitude": 26.5833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Frasin",
+      "province": "苏恰瓦县",
+      "latitude": 47.5333,
+      "longitude": 25.8,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Măgureni",
+      "province": "普拉霍瓦县",
+      "latitude": 45.0667,
+      "longitude": 25.7333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Botoroaga",
+      "province": "特列奥尔曼县",
+      "latitude": 44.1483,
+      "longitude": 25.5447,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Lunca",
+      "province": "特列奥尔曼县",
+      "latitude": 47.05,
+      "longitude": 27.5667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Gugeşti",
+      "province": "弗朗恰县",
+      "latitude": 45.5667,
+      "longitude": 27.1333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Ungheni",
+      "province": "穆列什县",
+      "latitude": 46.4833,
+      "longitude": 24.4667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Gherăeşti",
+      "province": "尼亚姆茨县",
+      "latitude": 47.0167,
+      "longitude": 26.8167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Călugăreni",
+      "province": "久尔久县",
+      "latitude": 44.1717,
+      "longitude": 25.9956,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Vărăşti",
+      "province": "久尔久县",
+      "latitude": 44.2378,
+      "longitude": 26.2486,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Ciprian Porumbescu",
+      "province": "苏恰瓦县",
+      "latitude": 47.5667,
+      "longitude": 26.0667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Plosca",
+      "province": "特列奥尔曼县",
+      "latitude": 44.0333,
+      "longitude": 25.1333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Şărmăşag",
+      "province": "瑟拉日县",
+      "latitude": 47.35,
+      "longitude": 22.8333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Domneşti-Sârbi",
+      "province": "伊尔福夫县",
+      "latitude": 44.3833,
+      "longitude": 25.9167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Hudeşti",
+      "province": "博托沙尼县",
+      "latitude": 48.15,
+      "longitude": 26.5,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Telega",
+      "province": "普拉霍瓦县",
+      "latitude": 45.1333,
+      "longitude": 25.7833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "阿尔杜德",
+      "name_en": "Ardud",
+      "province": "萨图马雷县",
+      "latitude": 47.6333,
+      "longitude": 22.8833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Tamaşi",
+      "province": "巴克乌县",
+      "latitude": 46.4833,
+      "longitude": 26.9833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Piatra Olt",
+      "province": "奥尔特县",
+      "latitude": 44.3667,
+      "longitude": 24.2667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Feldioara",
+      "province": "布拉索夫县",
+      "latitude": 45.8167,
+      "longitude": 25.6,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Sândominic",
+      "province": "Harghita County",
+      "latitude": 46.584,
+      "longitude": 25.7803,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Viziru",
+      "province": "布勒伊拉县",
+      "latitude": 45.0167,
+      "longitude": 27.7,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Podari",
+      "province": "多尔日县",
+      "latitude": 44.25,
+      "longitude": 23.7833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Ghidigeni",
+      "province": "加拉茨县",
+      "latitude": 46.05,
+      "longitude": 27.5,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Ighiu",
+      "province": "阿尔巴县",
+      "latitude": 46.15,
+      "longitude": 23.5167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Tuzla",
+      "province": "康斯坦察县",
+      "latitude": 44.0,
+      "longitude": 28.6333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Lucieni",
+      "province": "登博维察县",
+      "latitude": 44.85,
+      "longitude": 25.4333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Vinga",
+      "province": "阿拉德县",
+      "latitude": 46.0167,
+      "longitude": 21.2,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Buzoeşti",
+      "province": "阿尔杰什县",
+      "latitude": 44.5833,
+      "longitude": 24.9167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Gurghiu",
+      "province": "穆列什县",
+      "latitude": 46.7667,
+      "longitude": 24.85,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Băbăiţa",
+      "province": "特列奥尔曼县",
+      "latitude": 44.1667,
+      "longitude": 25.3833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Zvoriştea",
+      "province": "苏恰瓦县",
+      "latitude": 47.8333,
+      "longitude": 26.2833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Bosanci",
+      "province": "苏恰瓦县",
+      "latitude": 47.5833,
+      "longitude": 26.3167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Bârsana",
+      "province": "马拉穆列什县",
+      "latitude": 47.8167,
+      "longitude": 24.0667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Valea Stanciului",
+      "province": "多尔日县",
+      "latitude": 43.9833,
+      "longitude": 23.8667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Mihăeşti",
+      "province": "沃尔恰县",
+      "latitude": 45.0333,
+      "longitude": 24.25,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Deta",
+      "province": "蒂米什县",
+      "latitude": 45.3889,
+      "longitude": 21.2244,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Stulpicani",
+      "province": "苏恰瓦县",
+      "latitude": 47.4667,
+      "longitude": 25.7667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Crasna",
+      "province": "瑟拉日县",
+      "latitude": 47.1667,
+      "longitude": 22.9,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Biled",
+      "province": "蒂米什县",
+      "latitude": 45.8864,
+      "longitude": 20.9589,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Remetea",
+      "province": "Harghita County",
+      "latitude": 46.7833,
+      "longitude": 25.45,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Ruginoasa",
+      "province": "雅西县",
+      "latitude": 47.25,
+      "longitude": 26.85,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Rodna",
+      "province": "比斯特里察-讷瑟乌德县",
+      "latitude": 47.4167,
+      "longitude": 24.8167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Gălăneşti",
+      "province": "苏恰瓦县",
+      "latitude": 47.9167,
+      "longitude": 25.8,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Băiculeşti",
+      "province": "阿尔杰什县",
+      "latitude": 45.0667,
+      "longitude": 24.7,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Cefa",
+      "province": "比霍尔县",
+      "latitude": 46.9167,
+      "longitude": 21.7333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Mihail Kogălniceanu",
+      "province": "雅洛米察县",
+      "latitude": 44.368,
+      "longitude": 28.46,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Fălciu",
+      "province": "Vaslui County",
+      "latitude": 46.2961,
+      "longitude": 28.1408,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Săcălaz",
+      "province": "蒂米什县",
+      "latitude": 45.7583,
+      "longitude": 21.1122,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Sebiş",
+      "province": "阿拉德县",
+      "latitude": 46.3667,
+      "longitude": 22.1167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Sâncraiu de Mureş",
+      "province": "穆列什县",
+      "latitude": 46.5512,
+      "longitude": 24.5266,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Voineşti",
+      "province": "雅西县",
+      "latitude": 47.0667,
+      "longitude": 27.4167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Voineşti",
+      "province": "登博维察县",
+      "latitude": 47.0667,
+      "longitude": 27.4167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Nicoreşti",
+      "province": "加拉茨县",
+      "latitude": 45.9322,
+      "longitude": 27.3087,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Târnova",
+      "province": "阿拉德县",
+      "latitude": 46.3167,
+      "longitude": 21.8,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Rucăr",
+      "province": "阿尔杰什县",
+      "latitude": 45.4,
+      "longitude": 25.1667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Bolintin Deal",
+      "province": "久尔久县",
+      "latitude": 44.4592,
+      "longitude": 25.8211,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Lespezi",
+      "province": "雅西县",
+      "latitude": 47.3667,
+      "longitude": 26.7,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Snagov",
+      "province": "伊尔福夫县",
+      "latitude": 44.7,
+      "longitude": 26.1833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Suciu de Sus",
+      "province": "马拉穆列什县",
+      "latitude": 47.4333,
+      "longitude": 24.0333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Mânăstirea",
+      "province": "克勒拉希县",
+      "latitude": 44.2167,
+      "longitude": 26.9,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "阿布鲁德",
+      "name_en": "Abrud",
+      "province": "阿尔巴县",
+      "latitude": 46.2741,
+      "longitude": 23.0634,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Sâncrăieni",
+      "province": "Harghita County",
+      "latitude": 46.3144,
+      "longitude": 25.8394,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Corund",
+      "province": "Harghita County",
+      "latitude": 46.4667,
+      "longitude": 25.1833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Zăneşti",
+      "province": "尼亚姆茨县",
+      "latitude": 46.8167,
+      "longitude": 26.55,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Rozavlea",
+      "province": "马拉穆列什县",
+      "latitude": 47.7333,
+      "longitude": 24.2167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Gura Văii",
+      "province": "巴克乌县",
+      "latitude": 46.3333,
+      "longitude": 26.7333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Frumuşica",
+      "province": "博托沙尼县",
+      "latitude": 47.5333,
+      "longitude": 26.9,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Macea",
+      "province": "阿拉德县",
+      "latitude": 46.3833,
+      "longitude": 21.3,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Variaş",
+      "province": "蒂米什县",
+      "latitude": 46.0167,
+      "longitude": 20.95,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Hălchiu",
+      "province": "布拉索夫县",
+      "latitude": 45.7667,
+      "longitude": 25.55,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Focuri",
+      "province": "雅西县",
+      "latitude": 47.35,
+      "longitude": 27.2167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Islaz",
+      "province": "特列奥尔曼县",
+      "latitude": 43.7201,
+      "longitude": 24.7644,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "伯伊莱海尔库拉内",
+      "name_en": "Băile Herculane",
+      "province": "卡拉什-塞维林县",
+      "latitude": 44.8797,
+      "longitude": 22.4125,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Potcoava",
+      "province": "奥尔特县",
+      "latitude": 44.4833,
+      "longitude": 24.65,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Petreşti",
+      "province": "登博维察县",
+      "latitude": 44.65,
+      "longitude": 25.3333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Leordeni",
+      "province": "阿尔杰什县",
+      "latitude": 44.7833,
+      "longitude": 25.1167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Săvineşti",
+      "province": "尼亚姆茨县",
+      "latitude": 46.85,
+      "longitude": 26.4667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Scorţeni",
+      "province": "普拉霍瓦县",
+      "latitude": 45.1,
+      "longitude": 25.85,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Vama",
+      "province": "苏恰瓦县",
+      "latitude": 47.5667,
+      "longitude": 25.6833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Tanacu",
+      "province": "Vaslui County",
+      "latitude": 46.6833,
+      "longitude": 27.8167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Barcea",
+      "province": "加拉茨县",
+      "latitude": 45.75,
+      "longitude": 27.4667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Poşta Câlnău",
+      "province": "布泽乌县",
+      "latitude": 45.2333,
+      "longitude": 26.85,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Berceni",
+      "province": "普拉霍瓦县",
+      "latitude": 44.9333,
+      "longitude": 26.1167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Pârscov",
+      "province": "布泽乌县",
+      "latitude": 45.2833,
+      "longitude": 26.55,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Vicovu de Jos",
+      "province": "苏恰瓦县",
+      "latitude": 47.9,
+      "longitude": 25.7333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Teaca",
+      "province": "比斯特里察-讷瑟乌德县",
+      "latitude": 46.9167,
+      "longitude": 24.5167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Ciupercenii Noi",
+      "province": "多尔日县",
+      "latitude": 43.9097,
+      "longitude": 22.9483,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Gura Viţioarei",
+      "province": "普拉霍瓦县",
+      "latitude": 45.15,
+      "longitude": 26.0333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Corcova",
+      "province": "梅赫丁茨县",
+      "latitude": 44.7,
+      "longitude": 23.05,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Lechinţa",
+      "province": "比斯特里察-讷瑟乌德县",
+      "latitude": 47.0167,
+      "longitude": 24.35,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Geoagiu",
+      "province": "胡内多阿拉县",
+      "latitude": 45.9167,
+      "longitude": 23.2,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Cetate",
+      "province": "多尔日县",
+      "latitude": 44.1,
+      "longitude": 23.05,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Aninoasa",
+      "province": "登博维察县",
+      "latitude": 44.9667,
+      "longitude": 25.4333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Adămuş",
+      "province": "穆列什县",
+      "latitude": 46.3,
+      "longitude": 24.2333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Făcăeni",
+      "province": "雅洛米察县",
+      "latitude": 44.5667,
+      "longitude": 27.9,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Pănet",
+      "province": "穆列什县",
+      "latitude": 46.5551,
+      "longitude": 24.4697,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Drăgăneşti",
+      "province": "加拉茨县",
+      "latitude": 45.7833,
+      "longitude": 27.4667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Stănileşti",
+      "province": "Vaslui County",
+      "latitude": 46.6183,
+      "longitude": 28.1714,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Pietroşani",
+      "province": "阿尔杰什县",
+      "latitude": 45.4167,
+      "longitude": 23.3667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Amărăştii de Jos",
+      "province": "多尔日县",
+      "latitude": 43.95,
+      "longitude": 24.1667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Ditrău",
+      "province": "Harghita County",
+      "latitude": 46.8167,
+      "longitude": 25.5167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Urecheşti",
+      "province": "弗朗恰县",
+      "latitude": 45.6,
+      "longitude": 27.0667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Tălmaciu",
+      "province": "锡比乌县",
+      "latitude": 45.6671,
+      "longitude": 24.2646,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Roseţi",
+      "province": "克勒拉希县",
+      "latitude": 44.2148,
+      "longitude": 27.4485,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Mihăeşti",
+      "province": "阿尔杰什县",
+      "latitude": 45.0333,
+      "longitude": 24.25,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Săsciori",
+      "province": "阿尔巴县",
+      "latitude": 45.8667,
+      "longitude": 23.5833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Hălăuceşti",
+      "province": "雅西县",
+      "latitude": 47.1,
+      "longitude": 26.8,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Dărmăneşti",
+      "province": "苏恰瓦县",
+      "latitude": 46.3667,
+      "longitude": 26.4833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Albeştii Pământeni",
+      "province": "阿尔杰什县",
+      "latitude": 45.2071,
+      "longitude": 24.6683,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Valea Moldovei",
+      "province": "苏恰瓦县",
+      "latitude": 47.4667,
+      "longitude": 26.0333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Tulnici",
+      "province": "弗朗恰县",
+      "latitude": 45.9167,
+      "longitude": 26.6667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Şipote",
+      "province": "雅西县",
+      "latitude": 47.4667,
+      "longitude": 27.2167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Bârla",
+      "province": "阿尔杰什县",
+      "latitude": 44.4261,
+      "longitude": 24.7774,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Gorneşti",
+      "province": "穆列什县",
+      "latitude": 46.6713,
+      "longitude": 24.6476,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Viişoara",
+      "province": "克卢日县",
+      "latitude": 46.55,
+      "longitude": 23.9167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Vedea",
+      "province": "久尔久县",
+      "latitude": 43.7833,
+      "longitude": 25.7833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Mugeni",
+      "province": "Harghita County",
+      "latitude": 46.25,
+      "longitude": 25.2167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Tufeşti",
+      "province": "布勒伊拉县",
+      "latitude": 45.05,
+      "longitude": 27.8167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Sânpetru Mare",
+      "province": "蒂米什县",
+      "latitude": 46.0451,
+      "longitude": 20.8183,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Jijila",
+      "province": "图尔恰县",
+      "latitude": 45.3,
+      "longitude": 28.15,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Calafindeşti",
+      "province": "苏恰瓦县",
+      "latitude": 47.85,
+      "longitude": 26.1167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Todireşti",
+      "province": "苏恰瓦县",
+      "latitude": 47.3167,
+      "longitude": 26.8333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Runcu",
+      "province": "戈尔日县",
+      "latitude": 45.1167,
+      "longitude": 23.1333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Maglavit",
+      "province": "多尔日县",
+      "latitude": 44.0333,
+      "longitude": 23.1,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Secusigiu",
+      "province": "阿拉德县",
+      "latitude": 46.0833,
+      "longitude": 20.9833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Truşeşti",
+      "province": "博托沙尼县",
+      "latitude": 47.7667,
+      "longitude": 27.0167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Copalnic Mănăştur",
+      "province": "马拉穆列什县",
+      "latitude": 47.5,
+      "longitude": 23.6833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Dudeştii Vechi",
+      "province": "蒂米什县",
+      "latitude": 46.05,
+      "longitude": 20.4833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Miercurea Nirajului",
+      "province": "穆列什县",
+      "latitude": 46.5333,
+      "longitude": 24.8,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Ostroveni",
+      "province": "多尔日县",
+      "latitude": 43.8,
+      "longitude": 23.9,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Mătăsaru",
+      "province": "登博维察县",
+      "latitude": 44.7167,
+      "longitude": 25.4167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Lunguleţu",
+      "province": "登博维察县",
+      "latitude": 44.6167,
+      "longitude": 25.65,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Cochirleanca",
+      "province": "布泽乌县",
+      "latitude": 45.2167,
+      "longitude": 27.0333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Albeşti-Paleologu",
+      "province": "普拉霍瓦县",
+      "latitude": 44.95,
+      "longitude": 26.2167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Bălceşti",
+      "province": "沃尔恰县",
+      "latitude": 44.6167,
+      "longitude": 23.95,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Zetea",
+      "province": "Harghita County",
+      "latitude": 46.3833,
+      "longitude": 25.3667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Bereşti-Tazlău",
+      "province": "巴克乌县",
+      "latitude": 46.4667,
+      "longitude": 26.6667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Drajna de Jos",
+      "province": "普拉霍瓦县",
+      "latitude": 45.2167,
+      "longitude": 26.05,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Sălişte",
+      "province": "锡比乌县",
+      "latitude": 45.7963,
+      "longitude": 23.8868,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Mihai Viteazu",
+      "province": "克卢日县",
+      "latitude": 46.5333,
+      "longitude": 23.75,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Erbiceni",
+      "province": "雅西县",
+      "latitude": 47.2667,
+      "longitude": 27.2333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Tătăruşi",
+      "province": "雅西县",
+      "latitude": 47.35,
+      "longitude": 26.6,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Băneşti",
+      "province": "普拉霍瓦县",
+      "latitude": 45.1,
+      "longitude": 25.7667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Joseni",
+      "province": "Harghita County",
+      "latitude": 46.7,
+      "longitude": 25.5,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Păltinoasa",
+      "province": "苏恰瓦县",
+      "latitude": 47.55,
+      "longitude": 25.95,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Mavrodin",
+      "province": "特列奥尔曼县",
+      "latitude": 44.0333,
+      "longitude": 25.25,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Stolniceni-Prăjescu",
+      "province": "雅西县",
+      "latitude": 47.1986,
+      "longitude": 26.7481,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Tutova",
+      "province": "Vaslui County",
+      "latitude": 46.1167,
+      "longitude": 27.55,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "普雷代亚尔",
+      "name_en": "Predeal",
+      "province": "布拉索夫县",
+      "latitude": 45.5,
+      "longitude": 25.5667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Corbeni",
+      "province": "阿尔杰什县",
+      "latitude": 45.3,
+      "longitude": 24.65,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Rupea",
+      "province": "布拉索夫县",
+      "latitude": 46.0333,
+      "longitude": 25.2167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Ştefăneşti-Sat",
+      "province": "博托沙尼县",
+      "latitude": 47.7955,
+      "longitude": 27.1954,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Berbeşti",
+      "province": "沃尔恰县",
+      "latitude": 44.9833,
+      "longitude": 23.8833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Lenauheim",
+      "province": "蒂米什县",
+      "latitude": 45.8719,
+      "longitude": 20.7994,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Banca",
+      "province": "Vaslui County",
+      "latitude": 46.3,
+      "longitude": 27.8,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Fântânele",
+      "province": "阿拉德县",
+      "latitude": 46.1237,
+      "longitude": 21.3842,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Berezeni",
+      "province": "Vaslui County",
+      "latitude": 46.3761,
+      "longitude": 28.1478,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Negru Vodă",
+      "province": "康斯坦察县",
+      "latitude": 43.8167,
+      "longitude": 28.2,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Băneasa",
+      "province": "久尔久县",
+      "latitude": 44.0461,
+      "longitude": 26.0642,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Petricani",
+      "province": "尼亚姆茨县",
+      "latitude": 47.1667,
+      "longitude": 26.4667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Săveni",
+      "province": "雅洛米察县",
+      "latitude": 47.95,
+      "longitude": 26.8667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Dobreşti",
+      "province": "比霍尔县",
+      "latitude": 46.85,
+      "longitude": 22.3,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Brusturi",
+      "province": "尼亚姆茨县",
+      "latitude": 47.2833,
+      "longitude": 26.3833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Perişoru",
+      "province": "克勒拉希县",
+      "latitude": 44.45,
+      "longitude": 27.55,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Frăteşti",
+      "province": "久尔久县",
+      "latitude": 43.9667,
+      "longitude": 25.9667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Vânători",
+      "province": "弗朗恰县",
+      "latitude": 45.7333,
+      "longitude": 27.25,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Podoleni",
+      "province": "尼亚姆茨县",
+      "latitude": 46.8,
+      "longitude": 26.6167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Ostrov",
+      "province": "康斯坦察县",
+      "latitude": 44.1167,
+      "longitude": 27.3667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Frătăuţii Noi",
+      "province": "苏恰瓦县",
+      "latitude": 47.9426,
+      "longitude": 25.8447,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Cristeşti",
+      "province": "穆列什县",
+      "latitude": 46.5,
+      "longitude": 24.4833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Tudor Vladimirescu",
+      "province": "加拉茨县",
+      "latitude": 46.1663,
+      "longitude": 21.401,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Vulcan",
+      "province": "布拉索夫县",
+      "latitude": 45.3833,
+      "longitude": 23.2667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Avrămeni",
+      "province": "博托沙尼县",
+      "latitude": 48.0167,
+      "longitude": 26.95,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Colceag",
+      "province": "普拉霍瓦县",
+      "latitude": 44.95,
+      "longitude": 26.35,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Râfov",
+      "province": "普拉霍瓦县",
+      "latitude": 44.8667,
+      "longitude": 26.1333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Crasna",
+      "province": "戈尔日县",
+      "latitude": 47.1667,
+      "longitude": 22.9,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Bratca",
+      "province": "比霍尔县",
+      "latitude": 46.9333,
+      "longitude": 22.6167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Gorgota",
+      "province": "普拉霍瓦县",
+      "latitude": 44.7833,
+      "longitude": 26.0833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Zărneşti",
+      "province": "布泽乌县",
+      "latitude": 45.5609,
+      "longitude": 25.3179,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Nimigea de Sus",
+      "province": "比斯特里察-讷瑟乌德县",
+      "latitude": 47.2833,
+      "longitude": 24.3167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Găiseni",
+      "province": "久尔久县",
+      "latitude": 44.515,
+      "longitude": 25.6453,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Piscu Vechi",
+      "province": "多尔日县",
+      "latitude": 43.9,
+      "longitude": 23.1667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Fundeni",
+      "province": "克勒拉希县",
+      "latitude": 44.3833,
+      "longitude": 26.35,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Nuşfalău",
+      "province": "瑟拉日县",
+      "latitude": 47.2,
+      "longitude": 22.7333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Novaci",
+      "province": "久尔久县",
+      "latitude": 44.3011,
+      "longitude": 25.9863,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Săgeata",
+      "province": "布泽乌县",
+      "latitude": 45.1,
+      "longitude": 26.9833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Domnești",
+      "province": "伊尔福夫县",
+      "latitude": 44.3992,
+      "longitude": 25.9162,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Tătărani",
+      "province": "登博维察县",
+      "latitude": 45.0,
+      "longitude": 25.2667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Coşeşti",
+      "province": "阿尔杰什县",
+      "latitude": 45.0667,
+      "longitude": 24.8667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Zagon",
+      "province": "科瓦斯纳县",
+      "latitude": 45.7667,
+      "longitude": 26.1167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Mătăsari",
+      "province": "戈尔日县",
+      "latitude": 44.85,
+      "longitude": 23.0833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Cârţa",
+      "province": "Harghita County",
+      "latitude": 46.5333,
+      "longitude": 25.75,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Agigea",
+      "province": "康斯坦察县",
+      "latitude": 44.0926,
+      "longitude": 28.6108,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Griviţa",
+      "province": "Vaslui County",
+      "latitude": 44.7333,
+      "longitude": 27.2833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Leu",
+      "province": "多尔日县",
+      "latitude": 44.1833,
+      "longitude": 24.0,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Răşinari",
+      "province": "锡比乌县",
+      "latitude": 45.7,
+      "longitude": 24.0667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Comişani",
+      "province": "登博维察县",
+      "latitude": 44.8833,
+      "longitude": 25.5833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Ţigăneşti",
+      "province": "特列奥尔曼县",
+      "latitude": 43.9,
+      "longitude": 25.3667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Todireşti",
+      "province": "Vaslui County",
+      "latitude": 47.3167,
+      "longitude": 26.8333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Grumăzeşti",
+      "province": "尼亚姆茨县",
+      "latitude": 47.1333,
+      "longitude": 26.3667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Greci",
+      "province": "图尔恰县",
+      "latitude": 45.1833,
+      "longitude": 28.2333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Albeşti",
+      "province": "穆列什县",
+      "latitude": 47.7,
+      "longitude": 27.0667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "伊萨克恰",
+      "name_en": "Isaccea",
+      "province": "图尔恰县",
+      "latitude": 45.2667,
+      "longitude": 28.4667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Budeşti",
+      "province": "沃尔恰县",
+      "latitude": 44.2347,
+      "longitude": 26.4658,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Recea",
+      "province": "马拉穆列什县",
+      "latitude": 47.6333,
+      "longitude": 23.5167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Căiuţi-Sat",
+      "province": "巴克乌县",
+      "latitude": 46.1833,
+      "longitude": 26.9333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Giarmata",
+      "province": "蒂米什县",
+      "latitude": 45.8383,
+      "longitude": 21.3108,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Suharău",
+      "province": "博托沙尼县",
+      "latitude": 48.1333,
+      "longitude": 26.4167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Gura Şuţii",
+      "province": "登博维察县",
+      "latitude": 44.75,
+      "longitude": 25.5167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Ciocăneşti",
+      "province": "登博维察县",
+      "latitude": 44.6,
+      "longitude": 25.85,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Sihlea",
+      "province": "弗朗恰县",
+      "latitude": 45.5,
+      "longitude": 27.1167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Osica de Sus",
+      "province": "奥尔特县",
+      "latitude": 44.25,
+      "longitude": 24.3167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Copşa Mică",
+      "province": "锡比乌县",
+      "latitude": 46.1167,
+      "longitude": 24.25,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Căianu Mic",
+      "province": "比斯特里察-讷瑟乌德县",
+      "latitude": 47.2333,
+      "longitude": 24.15,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Satulung",
+      "province": "马拉穆列什县",
+      "latitude": 47.5667,
+      "longitude": 23.4333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Coţuşca",
+      "province": "博托沙尼县",
+      "latitude": 48.1333,
+      "longitude": 26.85,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Şirna",
+      "province": "普拉霍瓦县",
+      "latitude": 44.8,
+      "longitude": 25.95,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Certeze",
+      "province": "萨图马雷县",
+      "latitude": 47.9,
+      "longitude": 23.4667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Topraisar",
+      "province": "康斯坦察县",
+      "latitude": 44.0167,
+      "longitude": 28.45,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Corbasca",
+      "province": "巴克乌县",
+      "latitude": 46.2833,
+      "longitude": 27.1667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Tudor Vladimirescu",
+      "province": "布勒伊拉县",
+      "latitude": 46.1663,
+      "longitude": 21.401,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Celaru",
+      "province": "多尔日县",
+      "latitude": 44.05,
+      "longitude": 24.1333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Telciu",
+      "province": "比斯特里察-讷瑟乌德县",
+      "latitude": 47.4333,
+      "longitude": 24.4,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Măicăneşti",
+      "province": "弗朗恰县",
+      "latitude": 45.5,
+      "longitude": 27.5,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Gogoşu",
+      "province": "梅赫丁茨县",
+      "latitude": 44.3739,
+      "longitude": 22.5931,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Târgu Trotuş",
+      "province": "巴克乌县",
+      "latitude": 46.2667,
+      "longitude": 26.6667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Mogoşoaia",
+      "province": "伊尔福夫县",
+      "latitude": 44.5292,
+      "longitude": 26.0,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Straja",
+      "province": "苏恰瓦县",
+      "latitude": 47.9167,
+      "longitude": 25.55,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Sânandrei",
+      "province": "蒂米什县",
+      "latitude": 45.8531,
+      "longitude": 21.1681,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Jebel",
+      "province": "蒂米什县",
+      "latitude": 45.5556,
+      "longitude": 21.2136,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Drăguşeni",
+      "province": "加拉茨县",
+      "latitude": 45.9667,
+      "longitude": 27.75,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Chiscani",
+      "province": "布勒伊拉县",
+      "latitude": 45.1833,
+      "longitude": 27.9333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Berzunţi",
+      "province": "巴克乌县",
+      "latitude": 46.4,
+      "longitude": 26.6333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Borduşani",
+      "province": "雅洛米察县",
+      "latitude": 44.4833,
+      "longitude": 27.9,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Ulmeni",
+      "province": "克勒拉希县",
+      "latitude": 47.4667,
+      "longitude": 23.3,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Băneasa",
+      "province": "康斯坦察县",
+      "latitude": 44.0461,
+      "longitude": 26.0642,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Sângeru",
+      "province": "普拉霍瓦县",
+      "latitude": 45.1333,
+      "longitude": 26.35,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Pleniţa",
+      "province": "多尔日县",
+      "latitude": 44.2167,
+      "longitude": 23.1833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Gârla-Mare",
+      "province": "梅赫丁茨县",
+      "latitude": 44.2092,
+      "longitude": 22.775,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Perieni",
+      "province": "Vaslui County",
+      "latitude": 46.3,
+      "longitude": 27.6167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Livezi-Vale",
+      "province": "巴克乌县",
+      "latitude": 46.4167,
+      "longitude": 26.7333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Poiana Câmpina",
+      "province": "普拉霍瓦县",
+      "latitude": 45.127,
+      "longitude": 25.711,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Ţicleni",
+      "province": "戈尔日县",
+      "latitude": 44.8833,
+      "longitude": 23.4,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Ghimeş-Făget",
+      "province": "巴克乌县",
+      "latitude": 46.5833,
+      "longitude": 26.0667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Lazuri",
+      "province": "萨图马雷县",
+      "latitude": 47.85,
+      "longitude": 22.8667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Bucu",
+      "province": "雅洛米察县",
+      "latitude": 44.6053,
+      "longitude": 27.4934,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Grădiştea",
+      "province": "克勒拉希县",
+      "latitude": 44.2333,
+      "longitude": 27.2167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Trifeşti",
+      "province": "雅西县",
+      "latitude": 47.45,
+      "longitude": 27.5167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Vurpăr",
+      "province": "阿尔巴县",
+      "latitude": 46.0,
+      "longitude": 23.4667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Odobeşti",
+      "province": "登博维察县",
+      "latitude": 45.7667,
+      "longitude": 27.05,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Frumuşiţa",
+      "province": "加拉茨县",
+      "latitude": 45.6667,
+      "longitude": 28.0667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Ceptura de Sus",
+      "province": "普拉霍瓦县",
+      "latitude": 45.0167,
+      "longitude": 26.3167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Ţifeşti",
+      "province": "弗朗恰县",
+      "latitude": 45.85,
+      "longitude": 27.1,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Vişeu de Jos",
+      "province": "马拉穆列什县",
+      "latitude": 47.7256,
+      "longitude": 24.3661,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Slatina",
+      "province": "苏恰瓦县",
+      "latitude": 44.4333,
+      "longitude": 24.3667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Măstăcani",
+      "province": "加拉茨县",
+      "latitude": 45.7833,
+      "longitude": 28.0333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Ruscova",
+      "province": "马拉穆列什县",
+      "latitude": 47.7929,
+      "longitude": 24.2855,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Rediu",
+      "province": "尼亚姆茨县",
+      "latitude": 47.2167,
+      "longitude": 27.5,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Corbu",
+      "province": "康斯坦察县",
+      "latitude": 44.3833,
+      "longitude": 28.65,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Bran",
+      "province": "布拉索夫县",
+      "latitude": 45.5167,
+      "longitude": 25.35,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Zemeş",
+      "province": "巴克乌县",
+      "latitude": 46.5833,
+      "longitude": 26.4167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Curcani",
+      "province": "克勒拉希县",
+      "latitude": 44.2,
+      "longitude": 26.5833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Drăgăneşti",
+      "province": "普拉霍瓦县",
+      "latitude": 45.7833,
+      "longitude": 27.4667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Lunca de Jos",
+      "province": "Harghita County",
+      "latitude": 46.5667,
+      "longitude": 25.9833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Poiana Teiului",
+      "province": "尼亚姆茨县",
+      "latitude": 47.1,
+      "longitude": 25.9667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Batăr",
+      "province": "比霍尔县",
+      "latitude": 46.7,
+      "longitude": 21.8167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Bucecea",
+      "province": "博托沙尼县",
+      "latitude": 47.7667,
+      "longitude": 26.4333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Ernei",
+      "province": "穆列什县",
+      "latitude": 46.605,
+      "longitude": 24.6415,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Faraoaní",
+      "province": "巴克乌县",
+      "latitude": 46.4333,
+      "longitude": 26.9,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Tudora",
+      "province": "博托沙尼县",
+      "latitude": 47.5167,
+      "longitude": 26.6333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Horodnic de Sus",
+      "province": "苏恰瓦县",
+      "latitude": 47.8401,
+      "longitude": 25.8235,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Jurilovca",
+      "province": "图尔恰县",
+      "latitude": 44.7667,
+      "longitude": 28.8667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Drăguţeşti",
+      "province": "戈尔日县",
+      "latitude": 44.9667,
+      "longitude": 23.2333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Bodeşti",
+      "province": "尼亚姆茨县",
+      "latitude": 47.0333,
+      "longitude": 26.4167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Deleşti",
+      "province": "Vaslui County",
+      "latitude": 46.7,
+      "longitude": 27.55,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Săliştea de Sus",
+      "province": "马拉穆列什县",
+      "latitude": 47.65,
+      "longitude": 24.35,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Dridu",
+      "province": "雅洛米察县",
+      "latitude": 44.7,
+      "longitude": 26.45,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Frumuşani",
+      "province": "克勒拉希县",
+      "latitude": 44.2961,
+      "longitude": 26.3256,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Ceraşu",
+      "province": "普拉霍瓦县",
+      "latitude": 45.3167,
+      "longitude": 26.0333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Dersca",
+      "province": "博托沙尼县",
+      "latitude": 47.9833,
+      "longitude": 26.2,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Moceşti",
+      "province": "普拉霍瓦县",
+      "latitude": 45.05,
+      "longitude": 26.25,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Felnac",
+      "province": "阿拉德县",
+      "latitude": 46.1167,
+      "longitude": 21.15,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Dobroteşti",
+      "province": "特列奥尔曼县",
+      "latitude": 44.2833,
+      "longitude": 24.8833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Moţca",
+      "province": "雅西县",
+      "latitude": 47.25,
+      "longitude": 26.6167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Bradu",
+      "province": "阿尔杰什县",
+      "latitude": 44.7833,
+      "longitude": 24.9,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Izbiceni",
+      "province": "奥尔特县",
+      "latitude": 43.8222,
+      "longitude": 24.6633,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Havârna",
+      "province": "博托沙尼县",
+      "latitude": 48.0667,
+      "longitude": 26.65,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Stâlpeni",
+      "province": "阿尔杰什县",
+      "latitude": 45.05,
+      "longitude": 24.9667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Podu Turcului",
+      "province": "巴克乌县",
+      "latitude": 46.2,
+      "longitude": 27.3833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Suseni",
+      "province": "Harghita County",
+      "latitude": 46.6667,
+      "longitude": 25.55,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Cavnic",
+      "province": "马拉穆列什县",
+      "latitude": 47.6667,
+      "longitude": 23.8667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Sanislău",
+      "province": "萨图马雷县",
+      "latitude": 47.6333,
+      "longitude": 22.3333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Padeş",
+      "province": "戈尔日县",
+      "latitude": 45.0167,
+      "longitude": 22.85,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Păuleşti",
+      "province": "普拉霍瓦县",
+      "latitude": 45.0008,
+      "longitude": 25.9599,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Bezdead",
+      "province": "登博维察县",
+      "latitude": 45.15,
+      "longitude": 25.5167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Tărtăşeşti",
+      "province": "登博维察县",
+      "latitude": 44.5772,
+      "longitude": 25.8128,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Lungani",
+      "province": "雅西县",
+      "latitude": 47.1833,
+      "longitude": 27.15,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Radovanu",
+      "province": "克勒拉希县",
+      "latitude": 44.2,
+      "longitude": 26.5167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Cornetu",
+      "province": "伊尔福夫县",
+      "latitude": 44.3417,
+      "longitude": 25.9408,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Bălţaţi",
+      "province": "雅西县",
+      "latitude": 47.2167,
+      "longitude": 27.15,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Slobozia Bradului",
+      "province": "弗朗恰县",
+      "latitude": 45.5,
+      "longitude": 27.05,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Mireşu Mare",
+      "province": "马拉穆列什县",
+      "latitude": 47.5,
+      "longitude": 23.3333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Puieşti",
+      "province": "Vaslui County",
+      "latitude": 46.4287,
+      "longitude": 27.4898,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Fărcaşele",
+      "province": "奥尔特县",
+      "latitude": 44.15,
+      "longitude": 24.4333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Slobozia",
+      "province": "阿尔杰什县",
+      "latitude": 44.5647,
+      "longitude": 27.3633,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Moroeni",
+      "province": "登博维察县",
+      "latitude": 45.2167,
+      "longitude": 25.4333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Duda",
+      "province": "Vaslui County",
+      "latitude": 46.7493,
+      "longitude": 28.0424,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Mihăileni",
+      "province": "博托沙尼县",
+      "latitude": 47.9667,
+      "longitude": 26.15,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Coşoveni",
+      "province": "多尔日县",
+      "latitude": 44.25,
+      "longitude": 23.9333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Trifeşti",
+      "province": "尼亚姆茨县",
+      "latitude": 47.45,
+      "longitude": 27.5167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Băluşeni",
+      "province": "博托沙尼县",
+      "latitude": 47.6667,
+      "longitude": 26.8,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Viişoara",
+      "province": "尼亚姆茨县",
+      "latitude": 46.55,
+      "longitude": 23.9167,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Ludeşti",
+      "province": "登博维察县",
+      "latitude": 44.8667,
+      "longitude": 25.2333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Răchitoasa",
+      "province": "巴克乌县",
+      "latitude": 46.4333,
+      "longitude": 27.3667,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Tritenii de Jos",
+      "province": "克卢日县",
+      "latitude": 46.5833,
+      "longitude": 24.0,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Josenii Bârgăului",
+      "province": "比斯特里察-讷瑟乌德县",
+      "latitude": 47.2167,
+      "longitude": 24.6833,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Piscu",
+      "province": "加拉茨县",
+      "latitude": 45.5,
+      "longitude": 27.7333,
+      "timezone": "Europe/Bucharest"
+    },
+    {
+      "name": "",
+      "name_en": "Odăi",
+      "province": "București",
+      "latitude": 44.3927,
+      "longitude": 26.0354,
+      "timezone": "Europe/Bucharest"
+    }
+  ]
+}

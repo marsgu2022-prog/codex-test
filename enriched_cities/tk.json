@@ -1,0 +1,30 @@
+{
+  "country_code": "TK",
+  "country_name": "托克劳",
+  "cities": [
+    {
+      "name": "",
+      "name_en": "Nukunonu",
+      "province": "Nukunonu",
+      "latitude": -9.2005,
+      "longitude": -171.848,
+      "timezone": "Pacific/Fakaofo"
+    },
+    {
+      "name": "",
+      "name_en": "Atafu Village",
+      "province": "Atafu",
+      "latitude": -8.5421,
+      "longitude": -172.5159,
+      "timezone": "Pacific/Fakaofo"
+    },
+    {
+      "name": "",
+      "name_en": "Fale old settlement",
+      "province": "Fakaofo",
+      "latitude": -9.3852,
+      "longitude": -171.2467,
+      "timezone": "Pacific/Fakaofo"
+    }
+  ]
+}

@@ -1,0 +1,1006 @@
+{
+  "country_code": "CM",
+  "country_name": "喀麦隆",
+  "cities": [
+    {
+      "name": "杜阿拉",
+      "name_en": "Douala",
+      "province": "滨海区",
+      "latitude": 4.0483,
+      "longitude": 9.7043,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "雅温得",
+      "name_en": "Yaoundé",
+      "province": "中部区",
+      "latitude": 3.8667,
+      "longitude": 11.5167,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "巴门达",
+      "name_en": "Bamenda",
+      "province": "North-West",
+      "latitude": 5.9597,
+      "longitude": 10.146,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "巴富萨姆",
+      "name_en": "Bafoussam",
+      "province": "西部区",
+      "latitude": 5.4778,
+      "longitude": 10.4176,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "马鲁阿",
+      "name_en": "Maroua",
+      "province": "极北区",
+      "latitude": 10.5909,
+      "longitude": 14.3159,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "恩冈代雷",
+      "name_en": "Ngaoundéré",
+      "province": "阿达马瓦区",
+      "latitude": 7.3277,
+      "longitude": 13.5847,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Kumba",
+      "province": "South-West",
+      "latitude": 4.6363,
+      "longitude": 9.4469,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Nkongsamba",
+      "province": "滨海区",
+      "latitude": 4.9547,
+      "longitude": 9.9404,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "布埃亚",
+      "name_en": "Buea",
+      "province": "South-West",
+      "latitude": 4.1534,
+      "longitude": 9.2423,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Kousséri",
+      "province": "极北区",
+      "latitude": 12.0769,
+      "longitude": 15.0306,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "贝尔图阿",
+      "name_en": "Bertoua",
+      "province": "东部区",
+      "latitude": 4.5773,
+      "longitude": 13.6846,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "林贝",
+      "name_en": "Limbe",
+      "province": "South-West",
+      "latitude": 4.0236,
+      "longitude": 9.2061,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "丰班",
+      "name_en": "Foumban",
+      "province": "西部区",
+      "latitude": 5.7266,
+      "longitude": 10.8986,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Kumbo",
+      "province": "North-West",
+      "latitude": 6.2,
+      "longitude": 10.6667,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "埃代阿",
+      "name_en": "Edéa",
+      "province": "滨海区",
+      "latitude": 3.8,
+      "longitude": 10.1333,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Ébolowa",
+      "province": "南部区",
+      "latitude": 2.9,
+      "longitude": 11.15,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "姜镇",
+      "name_en": "Dschang",
+      "province": "西部区",
+      "latitude": 5.444,
+      "longitude": 10.0533,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Tiko",
+      "province": "South-West",
+      "latitude": 4.075,
+      "longitude": 9.36,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Kribi",
+      "province": "南部区",
+      "latitude": 2.9373,
+      "longitude": 9.9077,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Mbalmayo",
+      "province": "中部区",
+      "latitude": 3.5167,
+      "longitude": 11.5,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Guider",
+      "province": "北部区",
+      "latitude": 9.9333,
+      "longitude": 13.9467,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Sangmélima",
+      "province": "南部区",
+      "latitude": 2.9333,
+      "longitude": 11.9833,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Melong",
+      "province": "滨海区",
+      "latitude": 5.1218,
+      "longitude": 9.9614,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Foumbot",
+      "province": "西部区",
+      "latitude": 5.508,
+      "longitude": 10.6325,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Bafia",
+      "province": "中部区",
+      "latitude": 4.75,
+      "longitude": 11.2333,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Mbouda",
+      "province": "西部区",
+      "latitude": 5.6261,
+      "longitude": 10.2542,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Mutengene",
+      "province": "South-West",
+      "latitude": 4.0913,
+      "longitude": 9.3144,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Mora",
+      "province": "极北区",
+      "latitude": 11.0461,
+      "longitude": 14.1401,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Meïganga",
+      "province": "阿达马瓦区",
+      "latitude": 6.5167,
+      "longitude": 14.3,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Yagoua",
+      "province": "极北区",
+      "latitude": 10.3411,
+      "longitude": 15.2329,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Loum",
+      "province": "滨海区",
+      "latitude": 4.7182,
+      "longitude": 9.7351,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Bafang",
+      "province": "西部区",
+      "latitude": 5.157,
+      "longitude": 10.1771,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Mokolo",
+      "province": "极北区",
+      "latitude": 10.7424,
+      "longitude": 13.8023,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Batouri",
+      "province": "东部区",
+      "latitude": 4.4333,
+      "longitude": 14.3667,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Banyo",
+      "province": "阿达马瓦区",
+      "latitude": 6.75,
+      "longitude": 11.8167,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Garoua Boulaï",
+      "province": "东部区",
+      "latitude": 5.8833,
+      "longitude": 14.55,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Obala",
+      "province": "中部区",
+      "latitude": 4.1667,
+      "longitude": 11.5333,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Oku",
+      "province": "North-West",
+      "latitude": 6.25,
+      "longitude": 10.4333,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Mbanga",
+      "province": "滨海区",
+      "latitude": 4.5016,
+      "longitude": 9.5671,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Muyuka",
+      "province": "South-West",
+      "latitude": 4.2898,
+      "longitude": 9.4103,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Bangangté",
+      "province": "西部区",
+      "latitude": 5.1408,
+      "longitude": 10.5253,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Fundong",
+      "province": "North-West",
+      "latitude": 6.28,
+      "longitude": 10.283,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Fontem",
+      "province": "South-West",
+      "latitude": 5.4685,
+      "longitude": 9.8818,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Wum",
+      "province": "North-West",
+      "latitude": 6.3833,
+      "longitude": 10.0667,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Manjo",
+      "province": "滨海区",
+      "latitude": 4.8428,
+      "longitude": 9.8217,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Ngaoundal",
+      "province": "阿达马瓦区",
+      "latitude": 6.5,
+      "longitude": 13.2667,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Ndop",
+      "province": "North-West",
+      "latitude": 5.9884,
+      "longitude": 10.4386,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Tibati",
+      "province": "阿达马瓦区",
+      "latitude": 6.465,
+      "longitude": 12.6284,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Tchéboa",
+      "province": "北部区",
+      "latitude": 9.0287,
+      "longitude": 13.1848,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "加鲁阿",
+      "name_en": "Garoua",
+      "province": "北部区",
+      "latitude": 9.3014,
+      "longitude": 13.3977,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Pitoa",
+      "province": "北部区",
+      "latitude": 9.3839,
+      "longitude": 13.5023,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Lagdo",
+      "province": "北部区",
+      "latitude": 9.0583,
+      "longitude": 13.6661,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Yokadouma",
+      "province": "东部区",
+      "latitude": 3.5167,
+      "longitude": 15.05,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Kaélé",
+      "province": "极北区",
+      "latitude": 10.1092,
+      "longitude": 14.4508,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Bogo",
+      "province": "极北区",
+      "latitude": 10.7336,
+      "longitude": 14.6093,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "班祖恩",
+      "name_en": "Bandjoun",
+      "province": "西部区",
+      "latitude": 5.3757,
+      "longitude": 10.4133,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Figuil",
+      "province": "北部区",
+      "latitude": 9.7557,
+      "longitude": 13.9647,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Magba",
+      "province": "西部区",
+      "latitude": 5.95,
+      "longitude": 11.2167,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Akonolinga",
+      "province": "中部区",
+      "latitude": 3.7667,
+      "longitude": 12.25,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Mbandjok",
+      "province": "中部区",
+      "latitude": 4.45,
+      "longitude": 11.9,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Makak",
+      "province": "中部区",
+      "latitude": 3.55,
+      "longitude": 11.0333,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Touboro",
+      "province": "北部区",
+      "latitude": 7.7708,
+      "longitude": 15.3568,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Nanga Eboko",
+      "province": "中部区",
+      "latitude": 4.6833,
+      "longitude": 12.3667,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Eséka",
+      "province": "中部区",
+      "latitude": 3.65,
+      "longitude": 10.7667,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Nkoteng",
+      "province": "中部区",
+      "latitude": 4.5167,
+      "longitude": 12.0333,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Bali",
+      "province": "North-West",
+      "latitude": 5.8874,
+      "longitude": 10.0118,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Blangwa",
+      "province": "极北区",
+      "latitude": 12.7752,
+      "longitude": 14.5533,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Njombé",
+      "province": "滨海区",
+      "latitude": 4.5806,
+      "longitude": 9.6647,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Kekem",
+      "province": "西部区",
+      "latitude": 5.1569,
+      "longitude": 10.02,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Nkambe",
+      "province": "North-West",
+      "latitude": 6.6333,
+      "longitude": 10.6667,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Bafut",
+      "province": "North-West",
+      "latitude": 6.0833,
+      "longitude": 10.1,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Ambam",
+      "province": "南部区",
+      "latitude": 2.3833,
+      "longitude": 11.2833,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Souza Gare",
+      "province": "滨海区",
+      "latitude": 4.2344,
+      "longitude": 9.6164,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Bamusso",
+      "province": "South-West",
+      "latitude": 4.4591,
+      "longitude": 8.9027,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Guidiguis",
+      "province": "极北区",
+      "latitude": 10.1337,
+      "longitude": 14.7075,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Maga",
+      "province": "极北区",
+      "latitude": 10.8434,
+      "longitude": 14.9396,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Abong Mbang",
+      "province": "东部区",
+      "latitude": 3.9833,
+      "longitude": 13.1833,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Tombel",
+      "province": "South-West",
+      "latitude": 4.7466,
+      "longitude": 9.6705,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Bélabo",
+      "province": "东部区",
+      "latitude": 4.9333,
+      "longitude": 13.3,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Okoa",
+      "province": "中部区",
+      "latitude": 3.9833,
+      "longitude": 11.6,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Ekondo Titi",
+      "province": "South-West",
+      "latitude": 4.603,
+      "longitude": 9.0404,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Tcholliré",
+      "province": "北部区",
+      "latitude": 8.4022,
+      "longitude": 14.1698,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Lolodorf",
+      "province": "南部区",
+      "latitude": 3.2333,
+      "longitude": 10.7333,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Penja",
+      "province": "滨海区",
+      "latitude": 4.6391,
+      "longitude": 9.6799,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Mamfe",
+      "province": "South-West",
+      "latitude": 5.7513,
+      "longitude": 9.3137,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Dizangué",
+      "province": "滨海区",
+      "latitude": 3.7667,
+      "longitude": 9.9833,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Tonga",
+      "province": "西部区",
+      "latitude": 4.9667,
+      "longitude": 10.7,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Bazou",
+      "province": "西部区",
+      "latitude": 5.06,
+      "longitude": 10.4675,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Mundemba",
+      "province": "South-West",
+      "latitude": 4.9479,
+      "longitude": 8.8724,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Bétaré Oya",
+      "province": "东部区",
+      "latitude": 5.6,
+      "longitude": 14.0833,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Rey Bouba",
+      "province": "北部区",
+      "latitude": 8.6724,
+      "longitude": 14.1786,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Oshie",
+      "province": "North-West",
+      "latitude": 6.1273,
+      "longitude": 9.8681,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Mindif",
+      "province": "极北区",
+      "latitude": 10.3981,
+      "longitude": 14.4363,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Babanki",
+      "province": "North-West",
+      "latitude": 6.1167,
+      "longitude": 10.25,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Mbengwi",
+      "province": "North-West",
+      "latitude": 6.0167,
+      "longitude": 10.0,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Akom II",
+      "province": "南部区",
+      "latitude": 2.7833,
+      "longitude": 10.5667,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Batibo",
+      "province": "North-West",
+      "latitude": 5.8358,
+      "longitude": 9.8553,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Belo",
+      "province": "North-West",
+      "latitude": 6.175,
+      "longitude": 10.346,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Olamzé",
+      "province": "南部区",
+      "latitude": 2.2167,
+      "longitude": 11.0833,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Dimako",
+      "province": "东部区",
+      "latitude": 4.3833,
+      "longitude": 13.5667,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Ndikiniméki",
+      "province": "中部区",
+      "latitude": 4.7667,
+      "longitude": 10.8333,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Njinikom",
+      "province": "North-West",
+      "latitude": 6.2333,
+      "longitude": 10.2833,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Bonabéri",
+      "province": "滨海区",
+      "latitude": 4.0714,
+      "longitude": 9.6818,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Kontcha",
+      "province": "阿达马瓦区",
+      "latitude": 7.9667,
+      "longitude": 12.2333,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Bansoa",
+      "province": "西部区",
+      "latitude": 5.4484,
+      "longitude": 10.3135,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Ngou",
+      "province": "西部区",
+      "latitude": 5.1969,
+      "longitude": 10.3859,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Yabassi",
+      "province": "滨海区",
+      "latitude": 4.457,
+      "longitude": 9.9682,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Bekondo",
+      "province": "South-West",
+      "latitude": 4.6819,
+      "longitude": 9.3214,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Makary",
+      "province": "极北区",
+      "latitude": 12.5754,
+      "longitude": 14.4548,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Bélel",
+      "province": "阿达马瓦区",
+      "latitude": 7.05,
+      "longitude": 14.4333,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Bamendjou",
+      "province": "西部区",
+      "latitude": 5.3899,
+      "longitude": 10.3301,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Ngambé",
+      "province": "滨海区",
+      "latitude": 4.2334,
+      "longitude": 10.6153,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Ntui",
+      "province": "中部区",
+      "latitude": 4.45,
+      "longitude": 11.6333,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Mme-Bafumen",
+      "province": "North-West",
+      "latitude": 6.3333,
+      "longitude": 10.2333,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Bana",
+      "province": "西部区",
+      "latitude": 5.1466,
+      "longitude": 10.2754,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Bankim",
+      "province": "阿达马瓦区",
+      "latitude": 6.083,
+      "longitude": 11.4905,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Poli",
+      "province": "北部区",
+      "latitude": 8.4756,
+      "longitude": 13.241,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Saa",
+      "province": "中部区",
+      "latitude": 4.3667,
+      "longitude": 11.45,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Doumé",
+      "province": "东部区",
+      "latitude": 4.2333,
+      "longitude": 13.45,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Ndom",
+      "province": "滨海区",
+      "latitude": 4.4978,
+      "longitude": 9.5628,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Nguti",
+      "province": "South-West",
+      "latitude": 5.3299,
+      "longitude": 9.4185,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Okola",
+      "province": "中部区",
+      "latitude": 4.0167,
+      "longitude": 11.3833,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Jakiri",
+      "province": "North-West",
+      "latitude": 6.1,
+      "longitude": 10.65,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Yoko",
+      "province": "中部区",
+      "latitude": 5.5333,
+      "longitude": 12.3167,
+      "timezone": "Africa/Douala"
+    },
+    {
+      "name": "",
+      "name_en": "Ndelele",
+      "province": "东部区",
+      "latitude": 4.0407,
+      "longitude": 14.925,
+      "timezone": "Africa/Douala"
+    }
+  ]
+}

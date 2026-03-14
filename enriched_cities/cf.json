@@ -1,0 +1,374 @@
+{
+  "country_code": "CF",
+  "country_name": "中非",
+  "cities": [
+    {
+      "name": "班基",
+      "name_en": "Bangui",
+      "province": "Bangui",
+      "latitude": 4.3612,
+      "longitude": 18.555,
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "name": "",
+      "name_en": "Bimbo",
+      "province": "翁贝拉－姆波科省",
+      "latitude": 4.2567,
+      "longitude": 18.4158,
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "name": "",
+      "name_en": "Bégoua",
+      "province": "翁贝拉－姆波科省",
+      "latitude": 4.4544,
+      "longitude": 18.5347,
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "name": "",
+      "name_en": "Carnot",
+      "province": "Mambéré",
+      "latitude": 4.9427,
+      "longitude": 15.8773,
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "name": "",
+      "name_en": "Berbérati",
+      "province": "曼贝雷-卡代省",
+      "latitude": 4.2612,
+      "longitude": 15.7922,
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "name": "",
+      "name_en": "Bambari",
+      "province": "瓦卡省",
+      "latitude": 5.7679,
+      "longitude": 20.6757,
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "name": "布阿尔",
+      "name_en": "Bouar",
+      "province": "纳纳-曼贝雷省",
+      "latitude": 5.934,
+      "longitude": 15.596,
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "name": "",
+      "name_en": "Bossangoa",
+      "province": "瓦姆省",
+      "latitude": 6.4926,
+      "longitude": 17.4552,
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "name": "",
+      "name_en": "Kaga-Bandoro",
+      "province": "Nana-Grébizi",
+      "latitude": 6.9896,
+      "longitude": 19.1874,
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "name": "",
+      "name_en": "Bangassou",
+      "province": "姆博穆省",
+      "latitude": 4.7413,
+      "longitude": 22.8184,
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "name": "",
+      "name_en": "Paoua",
+      "province": "Lim-Pendé",
+      "latitude": 7.2427,
+      "longitude": 16.4406,
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "name": "",
+      "name_en": "Bria",
+      "province": "上科托省",
+      "latitude": 6.5423,
+      "longitude": 21.9863,
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "name": "",
+      "name_en": "Kouango",
+      "province": "瓦卡省",
+      "latitude": 4.9934,
+      "longitude": 19.9619,
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "name": "博卡加加",
+      "name_en": "Bocaranga",
+      "province": "瓦姆-彭代省",
+      "latitude": 6.9853,
+      "longitude": 15.6406,
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "name": "",
+      "name_en": "Baboua",
+      "province": "纳纳-曼贝雷省",
+      "latitude": 5.7957,
+      "longitude": 14.828,
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "name": "",
+      "name_en": "Alindao",
+      "province": "下科托省",
+      "latitude": 5.0267,
+      "longitude": 21.2088,
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "name": "",
+      "name_en": "Sibut",
+      "province": "凯莫省",
+      "latitude": 5.718,
+      "longitude": 19.0739,
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "name": "",
+      "name_en": "Nola",
+      "province": "桑加-姆巴埃雷省",
+      "latitude": 3.5249,
+      "longitude": 16.0458,
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "name": "",
+      "name_en": "Ippy",
+      "province": "瓦卡省",
+      "latitude": 6.2679,
+      "longitude": 21.2247,
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "name": "",
+      "name_en": "Ndélé",
+      "province": "巴明吉-班戈兰省",
+      "latitude": 8.4109,
+      "longitude": 20.6473,
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "name": "",
+      "name_en": "Batangafo",
+      "province": "Ouham-Fafa",
+      "latitude": 7.3008,
+      "longitude": 18.2833,
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "name": "",
+      "name_en": "Mbaïki",
+      "province": "洛巴耶省",
+      "latitude": 3.8678,
+      "longitude": 17.9892,
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "name": "",
+      "name_en": "Yaloké",
+      "province": "翁贝拉－姆波科省",
+      "latitude": 5.3195,
+      "longitude": 17.1011,
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "name": "",
+      "name_en": "Bozoum",
+      "province": "瓦姆-彭代省",
+      "latitude": 6.3193,
+      "longitude": 16.3799,
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "name": "",
+      "name_en": "Dekoa",
+      "province": "凯莫省",
+      "latitude": 6.3223,
+      "longitude": 19.0792,
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "name": "布卡",
+      "name_en": "Bouca",
+      "province": "Ouham-Fafa",
+      "latitude": 6.5073,
+      "longitude": 18.2767,
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "name": "",
+      "name_en": "Boali",
+      "province": "翁贝拉－姆波科省",
+      "latitude": 4.8005,
+      "longitude": 18.1275,
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "name": "",
+      "name_en": "Baoro",
+      "province": "纳纳-曼贝雷省",
+      "latitude": 5.6667,
+      "longitude": 15.9667,
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "name": "",
+      "name_en": "Zemio",
+      "province": "上姆博穆省",
+      "latitude": 5.0314,
+      "longitude": 25.1361,
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "name": "",
+      "name_en": "Bossembélé",
+      "province": "翁贝拉－姆波科省",
+      "latitude": 5.2667,
+      "longitude": 17.65,
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "name": "博班吉",
+      "name_en": "Bobangui",
+      "province": "洛巴耶省",
+      "latitude": 4.05,
+      "longitude": 18.1167,
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "name": "",
+      "name_en": "Kabo",
+      "province": "Ouham-Fafa",
+      "latitude": 7.6994,
+      "longitude": 18.629,
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "name": "",
+      "name_en": "Grimari",
+      "province": "瓦卡省",
+      "latitude": 5.7395,
+      "longitude": 20.0556,
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "name": "",
+      "name_en": "Obo",
+      "province": "上姆博穆省",
+      "latitude": 5.3959,
+      "longitude": 26.4921,
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "name": "",
+      "name_en": "Gamboula",
+      "province": "曼贝雷-卡代省",
+      "latitude": 4.1178,
+      "longitude": 15.1393,
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "name": "博达县",
+      "name_en": "Boda",
+      "province": "洛巴耶省",
+      "latitude": 4.3189,
+      "longitude": 17.4695,
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "name": "",
+      "name_en": "Bossemtele I",
+      "province": "瓦姆-彭代省",
+      "latitude": 5.7969,
+      "longitude": 16.5179,
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "name": "",
+      "name_en": "Mbrés",
+      "province": "Nana-Grébizi",
+      "latitude": 6.668,
+      "longitude": 19.8032,
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "name": "",
+      "name_en": "Mongoumba",
+      "province": "洛巴耶省",
+      "latitude": 3.6415,
+      "longitude": 18.5936,
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "name": "",
+      "name_en": "Damara",
+      "province": "翁贝拉－姆波科省",
+      "latitude": 4.9607,
+      "longitude": 18.7035,
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "name": "",
+      "name_en": "Bayanga",
+      "province": "桑加-姆巴埃雷省",
+      "latitude": 2.905,
+      "longitude": 16.2603,
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "name": "",
+      "name_en": "Birao",
+      "province": "瓦卡加省",
+      "latitude": 10.2849,
+      "longitude": 22.7882,
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "name": "肯贝",
+      "name_en": "Kembé",
+      "province": "下科托省",
+      "latitude": 4.6227,
+      "longitude": 21.8864,
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "name": "",
+      "name_en": "Mobaye",
+      "province": "下科托省",
+      "latitude": 4.319,
+      "longitude": 21.1786,
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "name": "",
+      "name_en": "Bamingui",
+      "province": "巴明吉-班戈兰省",
+      "latitude": 7.5559,
+      "longitude": 20.1767,
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "name": "",
+      "name_en": "Ouadda",
+      "province": "上科托省",
+      "latitude": 8.0777,
+      "longitude": 22.4007,
+      "timezone": "Africa/Bangui"
+    }
+  ]
+}

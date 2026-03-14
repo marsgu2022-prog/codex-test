@@ -1,0 +1,70 @@
+{
+  "country_code": "DJ",
+  "country_name": "吉布提",
+  "cities": [
+    {
+      "name": "吉布地市",
+      "name_en": "Djibouti",
+      "province": "Djibouti",
+      "latitude": 11.589,
+      "longitude": 43.145,
+      "timezone": "Africa/Djibouti"
+    },
+    {
+      "name": "",
+      "name_en": "Ali Sabih",
+      "province": "阿里萨比州",
+      "latitude": 11.1558,
+      "longitude": 42.7125,
+      "timezone": "Africa/Djibouti"
+    },
+    {
+      "name": "迪基勒",
+      "name_en": "Dikhil",
+      "province": "迪基尔州",
+      "latitude": 11.1045,
+      "longitude": 42.3697,
+      "timezone": "Africa/Djibouti"
+    },
+    {
+      "name": "塔朱拉",
+      "name_en": "Tadjoura",
+      "province": "塔朱拉州",
+      "latitude": 11.7878,
+      "longitude": 42.8822,
+      "timezone": "Africa/Djibouti"
+    },
+    {
+      "name": "",
+      "name_en": "Arta",
+      "province": "阿尔塔州",
+      "latitude": 11.5264,
+      "longitude": 42.8519,
+      "timezone": "Africa/Djibouti"
+    },
+    {
+      "name": "奥博克",
+      "name_en": "Obock",
+      "province": "奥博克州",
+      "latitude": 11.9669,
+      "longitude": 43.2884,
+      "timezone": "Africa/Djibouti"
+    },
+    {
+      "name": "",
+      "name_en": "‘As ‘Êla",
+      "province": "迪基尔州",
+      "latitude": 11.0036,
+      "longitude": 42.1025,
+      "timezone": "Africa/Djibouti"
+    },
+    {
+      "name": "",
+      "name_en": "Damêrdjôg",
+      "province": "Djibouti",
+      "latitude": 11.4856,
+      "longitude": 43.1872,
+      "timezone": "Africa/Djibouti"
+    }
+  ]
+}

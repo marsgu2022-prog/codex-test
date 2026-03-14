@@ -1,0 +1,574 @@
+{
+  "country_code": "LT",
+  "country_name": "立陶宛",
+  "cities": [
+    {
+      "name": "维尔纽斯",
+      "name_en": "Vilnius",
+      "province": "维尔纽斯县",
+      "latitude": 54.6892,
+      "longitude": 25.2798,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "考那斯",
+      "name_en": "Kaunas",
+      "province": "考纳斯县",
+      "latitude": 54.9016,
+      "longitude": 23.9091,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "克莱佩达",
+      "name_en": "Klaipėda",
+      "province": "克莱佩达县",
+      "latitude": 55.7068,
+      "longitude": 21.1391,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "希奥利艾",
+      "name_en": "Šiauliai",
+      "province": "希奥利艾县",
+      "latitude": 55.9333,
+      "longitude": 23.3167,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "帕内韦日斯",
+      "name_en": "Panevėžys",
+      "province": "帕内韦日斯县",
+      "latitude": 55.7319,
+      "longitude": 24.3598,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "",
+      "name_en": "Dainava (Kaunas)",
+      "province": "考纳斯县",
+      "latitude": 54.9153,
+      "longitude": 23.9683,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "阿利图斯",
+      "name_en": "Alytus",
+      "province": "阿利图斯县",
+      "latitude": 54.3957,
+      "longitude": 24.0389,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "",
+      "name_en": "Šilainiai",
+      "province": "考纳斯县",
+      "latitude": 54.9291,
+      "longitude": 23.886,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "",
+      "name_en": "Eiguliai",
+      "province": "考纳斯县",
+      "latitude": 54.9313,
+      "longitude": 23.9324,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "",
+      "name_en": "Antakalnis",
+      "province": "维尔纽斯县",
+      "latitude": 54.7078,
+      "longitude": 25.3171,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "",
+      "name_en": "Fabijoniškės",
+      "province": "维尔纽斯县",
+      "latitude": 54.7333,
+      "longitude": 25.2417,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "",
+      "name_en": "Naujoji Vilnia",
+      "province": "维尔纽斯县",
+      "latitude": 54.6951,
+      "longitude": 25.4197,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "",
+      "name_en": "Šeškinė",
+      "province": "维尔纽斯县",
+      "latitude": 54.7097,
+      "longitude": 25.2505,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "马里扬泊列",
+      "name_en": "Marijampolė",
+      "province": "马里扬波莱县",
+      "latitude": 54.5579,
+      "longitude": 23.35,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "",
+      "name_en": "Naujininkai",
+      "province": "维尔纽斯县",
+      "latitude": 54.6643,
+      "longitude": 25.2842,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "",
+      "name_en": "Pašilaičiai",
+      "province": "维尔纽斯县",
+      "latitude": 54.7343,
+      "longitude": 25.2191,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "",
+      "name_en": "Mazeikiai",
+      "province": "泰尔希艾县",
+      "latitude": 56.3167,
+      "longitude": 22.3333,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "",
+      "name_en": "Karoliniškės",
+      "province": "维尔纽斯县",
+      "latitude": 54.6903,
+      "longitude": 25.219,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "",
+      "name_en": "Lazdynai",
+      "province": "维尔纽斯县",
+      "latitude": 54.6681,
+      "longitude": 25.2068,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "",
+      "name_en": "Justiniškės",
+      "province": "维尔纽斯县",
+      "latitude": 54.7166,
+      "longitude": 25.2174,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "",
+      "name_en": "Naujamiestis",
+      "province": "维尔纽斯县",
+      "latitude": 54.6795,
+      "longitude": 25.2686,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "约纳瓦",
+      "name_en": "Jonava",
+      "province": "考纳斯县",
+      "latitude": 55.0801,
+      "longitude": 24.2754,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "乌田纳",
+      "name_en": "Utena",
+      "province": "乌泰纳县",
+      "latitude": 55.4978,
+      "longitude": 25.6046,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "",
+      "name_en": "Aleksotas",
+      "province": "考纳斯县",
+      "latitude": 54.8804,
+      "longitude": 23.9084,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "凯代尼艾",
+      "name_en": "Kėdainiai",
+      "province": "考纳斯县",
+      "latitude": 55.2878,
+      "longitude": 23.9728,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "",
+      "name_en": "Vilkpėdė",
+      "province": "维尔纽斯县",
+      "latitude": 54.6697,
+      "longitude": 25.2477,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "特尔希艾",
+      "name_en": "Telsiai",
+      "province": "泰尔希艾县",
+      "latitude": 55.9814,
+      "longitude": 22.2472,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "陶拉格",
+      "name_en": "Taurage",
+      "province": "陶拉盖县",
+      "latitude": 55.2522,
+      "longitude": 22.2897,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "",
+      "name_en": "Pilaitė",
+      "province": "维尔纽斯县",
+      "latitude": 54.6998,
+      "longitude": 25.1839,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "乌克梅尔盖",
+      "name_en": "Ukmerge",
+      "province": "维尔纽斯县",
+      "latitude": 55.25,
+      "longitude": 24.75,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "",
+      "name_en": "Plunge",
+      "province": "泰尔希艾县",
+      "latitude": 55.9114,
+      "longitude": 21.8442,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "帕兰加",
+      "name_en": "Palanga",
+      "province": "克莱佩达县",
+      "latitude": 55.9175,
+      "longitude": 21.0686,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "",
+      "name_en": "Visaginas",
+      "province": "乌泰纳县",
+      "latitude": 55.5968,
+      "longitude": 26.4398,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "",
+      "name_en": "Kretinga",
+      "province": "克莱佩达县",
+      "latitude": 55.8888,
+      "longitude": 21.2445,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "",
+      "name_en": "Gargždai",
+      "province": "克莱佩达县",
+      "latitude": 55.7095,
+      "longitude": 21.3944,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "",
+      "name_en": "Radviliskis",
+      "province": "希奥利艾县",
+      "latitude": 55.8167,
+      "longitude": 23.5333,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "",
+      "name_en": "Silute",
+      "province": "克莱佩达县",
+      "latitude": 55.3489,
+      "longitude": 21.4831,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "比尔扎伊",
+      "name_en": "Birzai",
+      "province": "帕内韦日斯县",
+      "latitude": 56.2,
+      "longitude": 24.75,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "埃莱克特雷奈",
+      "name_en": "Elektrėnai",
+      "province": "维尔纽斯县",
+      "latitude": 54.7854,
+      "longitude": 24.663,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "德鲁斯基宁凯",
+      "name_en": "Druskininkai",
+      "province": "阿利图斯县",
+      "latitude": 54.0157,
+      "longitude": 23.987,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "",
+      "name_en": "Naujoji Akmene",
+      "province": "希奥利艾县",
+      "latitude": 56.3167,
+      "longitude": 22.9,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "",
+      "name_en": "Rokiškis",
+      "province": "帕内韦日斯县",
+      "latitude": 55.9587,
+      "longitude": 25.5947,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "",
+      "name_en": "Grigiškės",
+      "province": "维尔纽斯县",
+      "latitude": 54.6833,
+      "longitude": 25.0833,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "",
+      "name_en": "Joniškis",
+      "province": "希奥利艾县",
+      "latitude": 56.2394,
+      "longitude": 23.6154,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "库尔舍奈",
+      "name_en": "Kuršėnai",
+      "province": "希奥利艾县",
+      "latitude": 56.0032,
+      "longitude": 22.9366,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "",
+      "name_en": "Rasos",
+      "province": "维尔纽斯县",
+      "latitude": 54.6788,
+      "longitude": 25.3117,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "",
+      "name_en": "Anykščiai",
+      "province": "乌泰纳县",
+      "latitude": 55.5256,
+      "longitude": 25.1026,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "",
+      "name_en": "Jurbarkas",
+      "province": "陶拉盖县",
+      "latitude": 55.0756,
+      "longitude": 22.7642,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "伦特瓦里斯",
+      "name_en": "Lentvaris",
+      "province": "维尔纽斯县",
+      "latitude": 54.6436,
+      "longitude": 25.0516,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "加尔利阿瓦",
+      "name_en": "Garliava",
+      "province": "考纳斯县",
+      "latitude": 54.8214,
+      "longitude": 23.8713,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "",
+      "name_en": "Kaišiadorys",
+      "province": "考纳斯县",
+      "latitude": 54.8653,
+      "longitude": 24.4682,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "",
+      "name_en": "Raseiniai",
+      "province": "考纳斯县",
+      "latitude": 55.3797,
+      "longitude": 23.1239,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "",
+      "name_en": "Vilkaviskis",
+      "province": "马里扬波莱县",
+      "latitude": 54.6517,
+      "longitude": 23.0322,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "",
+      "name_en": "Prienai",
+      "province": "考纳斯县",
+      "latitude": 54.636,
+      "longitude": 23.9459,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "",
+      "name_en": "Kupiskis",
+      "province": "帕内韦日斯县",
+      "latitude": 55.8403,
+      "longitude": 24.9798,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "",
+      "name_en": "Kelmė",
+      "province": "希奥利艾县",
+      "latitude": 55.6301,
+      "longitude": 22.9349,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "瓦雷纳",
+      "name_en": "Varėna",
+      "province": "阿利图斯县",
+      "latitude": 54.2155,
+      "longitude": 24.5754,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "",
+      "name_en": "Širvintos",
+      "province": "维尔纽斯县",
+      "latitude": 55.044,
+      "longitude": 24.9545,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "莫雷泰",
+      "name_en": "Molėtai",
+      "province": "乌泰纳县",
+      "latitude": 55.2247,
+      "longitude": 25.4169,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "",
+      "name_en": "Šalčininkai",
+      "province": "维尔纽斯县",
+      "latitude": 54.3086,
+      "longitude": 25.3868,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "帕布拉德",
+      "name_en": "Pabradė",
+      "province": "维尔纽斯县",
+      "latitude": 54.981,
+      "longitude": 25.761,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "",
+      "name_en": "Pasvalys",
+      "province": "帕内韦日斯县",
+      "latitude": 56.0625,
+      "longitude": 24.3997,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "",
+      "name_en": "Zarasai",
+      "province": "乌泰纳县",
+      "latitude": 55.7323,
+      "longitude": 26.2511,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "卡兹卢鲁达",
+      "name_en": "Kazlų Rūda",
+      "province": "马里扬波莱县",
+      "latitude": 54.749,
+      "longitude": 23.49,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "基巴尔泰",
+      "name_en": "Kybartai",
+      "province": "马里扬波莱县",
+      "latitude": 54.6386,
+      "longitude": 22.7632,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "",
+      "name_en": "Švenčionys",
+      "province": "维尔纽斯县",
+      "latitude": 55.135,
+      "longitude": 26.159,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "",
+      "name_en": "Trakai",
+      "province": "维尔纽斯县",
+      "latitude": 54.6378,
+      "longitude": 24.9343,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "",
+      "name_en": "Skuodas",
+      "province": "克莱佩达县",
+      "latitude": 56.2706,
+      "longitude": 21.5321,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "",
+      "name_en": "Domeikava",
+      "province": "考纳斯县",
+      "latitude": 54.9676,
+      "longitude": 23.9161,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "",
+      "name_en": "Ignalina",
+      "province": "乌泰纳县",
+      "latitude": 55.3406,
+      "longitude": 26.1605,
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "name": "内门奇内",
+      "name_en": "Nemenčinė",
+      "province": "维尔纽斯县",
+      "latitude": 54.8478,
+      "longitude": 25.4699,
+      "timezone": "Europe/Vilnius"
+    }
+  ]
+}

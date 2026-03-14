@@ -1,0 +1,126 @@
+{
+  "country_code": "FJ",
+  "country_name": "斐济",
+  "cities": [
+    {
+      "name": "",
+      "name_en": "Nasinu",
+      "province": "中央大区",
+      "latitude": -18.0705,
+      "longitude": 178.5131,
+      "timezone": "Pacific/Fiji"
+    },
+    {
+      "name": "苏瓦",
+      "name_en": "Suva",
+      "province": "中央大区",
+      "latitude": -18.1368,
+      "longitude": 178.4253,
+      "timezone": "Pacific/Fiji"
+    },
+    {
+      "name": "劳托卡",
+      "name_en": "Lautoka",
+      "province": "西部大区",
+      "latitude": -17.6169,
+      "longitude": 177.4505,
+      "timezone": "Pacific/Fiji"
+    },
+    {
+      "name": "楠迪",
+      "name_en": "Nadi",
+      "province": "西部大区",
+      "latitude": -17.8031,
+      "longitude": 177.4162,
+      "timezone": "Pacific/Fiji"
+    },
+    {
+      "name": "",
+      "name_en": "Labasa",
+      "province": "北部大区",
+      "latitude": -16.4332,
+      "longitude": 179.3645,
+      "timezone": "Pacific/Fiji"
+    },
+    {
+      "name": "",
+      "name_en": "Lami",
+      "province": "中央大区",
+      "latitude": -18.1109,
+      "longitude": 178.4094,
+      "timezone": "Pacific/Fiji"
+    },
+    {
+      "name": "",
+      "name_en": "Sigatoka",
+      "province": "西部大区",
+      "latitude": -18.1431,
+      "longitude": 177.5069,
+      "timezone": "Pacific/Fiji"
+    },
+    {
+      "name": "",
+      "name_en": "Ba",
+      "province": "西部大区",
+      "latitude": -17.5343,
+      "longitude": 177.6741,
+      "timezone": "Pacific/Fiji"
+    },
+    {
+      "name": "",
+      "name_en": "Tavua",
+      "province": "西部大区",
+      "latitude": -17.4422,
+      "longitude": 177.8622,
+      "timezone": "Pacific/Fiji"
+    },
+    {
+      "name": "",
+      "name_en": "Levuka",
+      "province": "东部大区",
+      "latitude": -18.0667,
+      "longitude": 179.3167,
+      "timezone": "Pacific/Fiji"
+    },
+    {
+      "name": "",
+      "name_en": "Savusavu",
+      "province": "北部大区",
+      "latitude": -16.7794,
+      "longitude": 179.3356,
+      "timezone": "Pacific/Fiji"
+    },
+    {
+      "name": "",
+      "name_en": "Vaileka",
+      "province": "西部大区",
+      "latitude": -17.3789,
+      "longitude": 178.1533,
+      "timezone": "Pacific/Fiji"
+    },
+    {
+      "name": "",
+      "name_en": "Navua",
+      "province": "中央大区",
+      "latitude": -18.2227,
+      "longitude": 178.17,
+      "timezone": "Pacific/Fiji"
+    },
+    {
+      "name": "",
+      "name_en": "Vatukoula",
+      "province": "西部大区",
+      "latitude": -17.5014,
+      "longitude": 177.8498,
+      "timezone": "Pacific/Fiji"
+    },
+    {
+      "name": "",
+      "name_en": "Ahau",
+      "province": "罗图马岛",
+      "latitude": -12.5,
+      "longitude": 177.05,
+      "timezone": "Pacific/Fiji"
+    }
+  ]
+}

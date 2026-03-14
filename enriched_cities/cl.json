@@ -1,0 +1,1654 @@
+{
+  "country_code": "CL",
+  "country_name": "智利",
+  "cities": [
+    {
+      "name": "圣地亚哥",
+      "name_en": "Santiago",
+      "province": "圣地亚哥首都大区",
+      "latitude": -33.4569,
+      "longitude": -70.6483,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "上普恩特",
+      "name_en": "Puente Alto",
+      "province": "圣地亚哥首都大区",
+      "latitude": -33.6117,
+      "longitude": -70.5758,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Maipú",
+      "province": "圣地亚哥首都大区",
+      "latitude": -33.5142,
+      "longitude": -70.7651,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "安托法加斯塔",
+      "name_en": "Antofagasta",
+      "province": "Antofagasta",
+      "latitude": -23.6509,
+      "longitude": -70.3975,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "比尼亚德尔马",
+      "name_en": "Viña del Mar",
+      "province": "Valparaíso",
+      "latitude": -33.0246,
+      "longitude": -71.5518,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "瓦尔帕莱索",
+      "name_en": "Valparaíso",
+      "province": "Valparaíso",
+      "latitude": -33.036,
+      "longitude": -71.6296,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "纽尼奥阿",
+      "name_en": "Ñuñoa",
+      "province": "圣地亚哥首都大区",
+      "latitude": -33.4474,
+      "longitude": -70.5828,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "圣贝尔纳多",
+      "name_en": "San Bernardo",
+      "province": "圣地亚哥首都大区",
+      "latitude": -33.5922,
+      "longitude": -70.6996,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "蒙特港",
+      "name_en": "Puerto Montt",
+      "province": "湖大区",
+      "latitude": -41.4693,
+      "longitude": -72.9424,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "阿里卡",
+      "name_en": "Arica",
+      "province": "阿里卡和帕里纳科塔大区",
+      "latitude": -18.4755,
+      "longitude": -70.3006,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "佩尼亚洛伦",
+      "name_en": "Peñalolén",
+      "province": "圣地亚哥首都大区",
+      "latitude": -33.4684,
+      "longitude": -70.5341,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "特木科",
+      "name_en": "Temuco",
+      "province": "Araucanía",
+      "latitude": -38.7363,
+      "longitude": -72.5974,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "康塞普西翁",
+      "name_en": "Concepción",
+      "province": "Biobío",
+      "latitude": -36.827,
+      "longitude": -73.0498,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "兰卡瓜",
+      "name_en": "Rancagua",
+      "province": "奥伊金斯将军解放者大区",
+      "latitude": -34.1691,
+      "longitude": -70.7405,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "基利库拉",
+      "name_en": "Quilicura",
+      "province": "圣地亚哥首都大区",
+      "latitude": -33.368,
+      "longitude": -70.7139,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "拉平塔纳",
+      "name_en": "La Pintana",
+      "province": "圣地亚哥首都大区",
+      "latitude": -33.5833,
+      "longitude": -70.6342,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "伊基克",
+      "name_en": "Iquique",
+      "province": "塔拉帕卡大区",
+      "latitude": -20.2133,
+      "longitude": -70.1503,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "塔尔卡",
+      "name_en": "Talca",
+      "province": "Maule Region",
+      "latitude": -35.4232,
+      "longitude": -71.6497,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "卡拉马",
+      "name_en": "Calama",
+      "province": "Antofagasta",
+      "latitude": -22.4567,
+      "longitude": -68.9237,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "科金博",
+      "name_en": "Coquimbo",
+      "province": "科金博大区",
+      "latitude": -29.9533,
+      "longitude": -71.3395,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "拉塞雷纳",
+      "name_en": "La Serena",
+      "province": "科金博大区",
+      "latitude": -29.9059,
+      "longitude": -71.2501,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "塔尔卡瓦诺",
+      "name_en": "Talcahuano",
+      "province": "Biobío",
+      "latitude": -36.7249,
+      "longitude": -73.1168,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Chillán",
+      "province": "纽夫莱大区",
+      "latitude": -36.6066,
+      "longitude": -72.1034,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Renca",
+      "province": "圣地亚哥首都大区",
+      "latitude": -33.4019,
+      "longitude": -70.7062,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "科利纳",
+      "name_en": "Colina",
+      "province": "圣地亚哥首都大区",
+      "latitude": -33.2044,
+      "longitude": -70.6747,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "上霍斯皮西奥",
+      "name_en": "Alto Hospicio",
+      "province": "塔拉帕卡大区",
+      "latitude": -20.2687,
+      "longitude": -70.1049,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Osorno",
+      "province": "湖大区",
+      "latitude": -40.574,
+      "longitude": -73.1335,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "瓦尔迪维亚",
+      "name_en": "Valdivia",
+      "province": "河大区",
+      "latitude": -39.8142,
+      "longitude": -73.2459,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Villa Mercedes",
+      "province": "Biobío",
+      "latitude": -37.4042,
+      "longitude": -71.9795,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "基尔普埃",
+      "name_en": "Quilpué",
+      "province": "Valparaíso",
+      "latitude": -33.0475,
+      "longitude": -71.4425,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "科皮亚波",
+      "name_en": "Copiapó",
+      "province": "Atacama",
+      "latitude": -27.3674,
+      "longitude": -70.3322,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "洛桑赫莱斯",
+      "name_en": "Los Ángeles",
+      "province": "Biobío",
+      "latitude": -37.4697,
+      "longitude": -72.3537,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "圣佩德罗德拉帕斯",
+      "name_en": "San Pedro de la Paz",
+      "province": "Biobío",
+      "latitude": -36.839,
+      "longitude": -73.1003,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "蓬塔阿雷纳斯",
+      "name_en": "Punta Arenas",
+      "province": "Region of Magallanes",
+      "latitude": -53.1628,
+      "longitude": -70.9092,
+      "timezone": "America/Punta_Arenas"
+    },
+    {
+      "name": "科罗内尔",
+      "name_en": "Coronel",
+      "province": "Biobío",
+      "latitude": -37.0339,
+      "longitude": -73.1402,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "洛普拉多",
+      "name_en": "Lo Prado",
+      "province": "圣地亚哥首都大区",
+      "latitude": -33.4443,
+      "longitude": -70.7255,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "库里科",
+      "name_en": "Curicó",
+      "province": "Maule Region",
+      "latitude": -34.9828,
+      "longitude": -71.2394,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Lampa",
+      "province": "圣地亚哥首都大区",
+      "latitude": -33.2863,
+      "longitude": -70.8756,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "阿莱马纳镇",
+      "name_en": "Villa Alemana",
+      "province": "Valparaíso",
+      "latitude": -33.0482,
+      "longitude": -71.3729,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "圣安东尼奥",
+      "name_en": "San Antonio",
+      "province": "Valparaíso",
+      "latitude": -33.5947,
+      "longitude": -71.6075,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "奇瓜扬特",
+      "name_en": "Chiguayante",
+      "province": "Biobío",
+      "latitude": -36.9256,
+      "longitude": -73.0284,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "奥瓦列",
+      "name_en": "Ovalle",
+      "province": "科金博大区",
+      "latitude": -30.6011,
+      "longitude": -71.199,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Padre Las Casas",
+      "province": "Araucanía",
+      "latitude": -38.7608,
+      "longitude": -72.5982,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Paine",
+      "province": "圣地亚哥首都大区",
+      "latitude": -33.808,
+      "longitude": -70.7411,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "利纳雷斯",
+      "name_en": "Linares",
+      "province": "Maule Region",
+      "latitude": -35.8467,
+      "longitude": -71.5931,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "基约塔",
+      "name_en": "Quillota",
+      "province": "Valparaíso",
+      "latitude": -32.8834,
+      "longitude": -71.2488,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Peñaflor",
+      "province": "圣地亚哥首都大区",
+      "latitude": -33.6063,
+      "longitude": -70.8765,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Buin",
+      "province": "圣地亚哥首都大区",
+      "latitude": -33.7326,
+      "longitude": -70.7428,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Padre Hurtado",
+      "province": "圣地亚哥首都大区",
+      "latitude": -33.5684,
+      "longitude": -70.8058,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "梅利皮亚",
+      "name_en": "Melipilla",
+      "province": "圣地亚哥首都大区",
+      "latitude": -33.6891,
+      "longitude": -71.2153,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "洛斯安第斯",
+      "name_en": "Los Andes",
+      "province": "Valparaíso",
+      "latitude": -32.8337,
+      "longitude": -70.5983,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "San Felipe",
+      "province": "Valparaíso",
+      "latitude": -32.7498,
+      "longitude": -70.7258,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "托梅",
+      "name_en": "Tomé",
+      "province": "Biobío",
+      "latitude": -36.6176,
+      "longitude": -72.9559,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "塔拉甘特",
+      "name_en": "Talagante",
+      "province": "圣地亚哥首都大区",
+      "latitude": -33.6639,
+      "longitude": -70.9273,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "拉卡莱拉",
+      "name_en": "La Calera",
+      "province": "Valparaíso",
+      "latitude": -32.7868,
+      "longitude": -71.198,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "比亚里卡",
+      "name_en": "Villarrica",
+      "province": "Araucanía",
+      "latitude": -39.2857,
+      "longitude": -72.2279,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Hacienda La Calera",
+      "province": "Valparaíso",
+      "latitude": -32.7833,
+      "longitude": -71.2167,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "洛塔",
+      "name_en": "Lota",
+      "province": "Biobío",
+      "latitude": -37.0899,
+      "longitude": -73.1577,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "利马切",
+      "name_en": "Limache",
+      "province": "Valparaíso",
+      "latitude": -33.0133,
+      "longitude": -71.2608,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "彭科",
+      "name_en": "Penco",
+      "province": "Biobío",
+      "latitude": -36.7407,
+      "longitude": -72.9953,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Coyhaique",
+      "province": "Aysén",
+      "latitude": -45.5752,
+      "longitude": -72.0662,
+      "timezone": "America/Coyhaique"
+    },
+    {
+      "name": "",
+      "name_en": "Vallenar",
+      "province": "Atacama",
+      "latitude": -28.5762,
+      "longitude": -70.7594,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "安戈尔",
+      "name_en": "Angol",
+      "province": "Araucanía",
+      "latitude": -37.7952,
+      "longitude": -72.7164,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "San Vicente de Tagua Tagua",
+      "province": "奥伊金斯将军解放者大区",
+      "latitude": -34.4386,
+      "longitude": -71.0775,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "马查利",
+      "name_en": "Machalí",
+      "province": "奥伊金斯将军解放者大区",
+      "latitude": -34.1808,
+      "longitude": -70.6493,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "孔孔",
+      "name_en": "Concón",
+      "province": "Valparaíso",
+      "latitude": -32.922,
+      "longitude": -71.5162,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "卡斯特罗市",
+      "name_en": "Castro",
+      "province": "湖大区",
+      "latitude": -42.4721,
+      "longitude": -73.7732,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "孔斯蒂图西翁",
+      "name_en": "Constitución",
+      "province": "Maule Region",
+      "latitude": -35.3332,
+      "longitude": -72.4116,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "安库德",
+      "name_en": "Ancud",
+      "province": "湖大区",
+      "latitude": -41.8707,
+      "longitude": -73.8162,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Molina",
+      "province": "Maule Region",
+      "latitude": -35.1143,
+      "longitude": -71.2823,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "圣哈维尔",
+      "name_en": "San Javier",
+      "province": "Maule Region",
+      "latitude": -35.5952,
+      "longitude": -71.7292,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "San Clemente",
+      "province": "Maule Region",
+      "latitude": -35.5378,
+      "longitude": -71.487,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "考克内斯",
+      "name_en": "Cauquenes",
+      "province": "Maule Region",
+      "latitude": -35.9671,
+      "longitude": -72.3225,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "伦戈",
+      "name_en": "Rengo",
+      "province": "奥伊金斯将军解放者大区",
+      "latitude": -34.4064,
+      "longitude": -70.8583,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "巴拉斯港",
+      "name_en": "Puerto Varas",
+      "province": "湖大区",
+      "latitude": -41.3195,
+      "longitude": -72.9854,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "圣克鲁斯",
+      "name_en": "Santa Cruz",
+      "province": "奥伊金斯将军解放者大区",
+      "latitude": -34.6388,
+      "longitude": -71.3658,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Lautaro",
+      "province": "Araucanía",
+      "latitude": -38.5307,
+      "longitude": -72.4365,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Chimbarongo",
+      "province": "奥伊金斯将军解放者大区",
+      "latitude": -34.7125,
+      "longitude": -71.0434,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "卡尔布科",
+      "name_en": "Calbuco",
+      "province": "湖大区",
+      "latitude": -41.7734,
+      "longitude": -73.1305,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "潘吉普伊",
+      "name_en": "Panguipulli",
+      "province": "河大区",
+      "latitude": -39.6435,
+      "longitude": -72.3327,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "维多利亚",
+      "name_en": "Victoria",
+      "province": "Araucanía",
+      "latitude": -38.2329,
+      "longitude": -72.3329,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "拉利瓜",
+      "name_en": "La Ligua",
+      "province": "Valparaíso",
+      "latitude": -32.4524,
+      "longitude": -71.2311,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "库拉尼拉韦",
+      "name_en": "Curanilahue",
+      "province": "Biobío",
+      "latitude": -37.4779,
+      "longitude": -73.3449,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "金特罗",
+      "name_en": "Quintero",
+      "province": "Valparaíso",
+      "latitude": -32.7859,
+      "longitude": -71.5322,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Cañete",
+      "province": "Biobío",
+      "latitude": -37.8,
+      "longitude": -73.3833,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "圣卡洛斯",
+      "name_en": "San Carlos",
+      "province": "纽夫莱大区",
+      "latitude": -36.4248,
+      "longitude": -71.958,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Río Bueno",
+      "province": "河大区",
+      "latitude": -40.3349,
+      "longitude": -72.9556,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Las Animas",
+      "province": "河大区",
+      "latitude": -39.8087,
+      "longitude": -73.2182,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "新帝国镇",
+      "name_en": "Nueva Imperial",
+      "province": "Araucanía",
+      "latitude": -38.7445,
+      "longitude": -72.9502,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Chillán Viejo",
+      "province": "纽夫莱大区",
+      "latitude": -36.623,
+      "longitude": -72.1319,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Longaví",
+      "province": "Maule Region",
+      "latitude": -35.965,
+      "longitude": -71.6836,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Vicuña",
+      "province": "科金博大区",
+      "latitude": -30.0354,
+      "longitude": -70.7127,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Cabrero",
+      "province": "Biobío",
+      "latitude": -37.0339,
+      "longitude": -72.4047,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Mulchén",
+      "province": "Biobío",
+      "latitude": -37.7189,
+      "longitude": -72.241,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "普孔",
+      "name_en": "Pucón",
+      "province": "Araucanía",
+      "latitude": -39.2822,
+      "longitude": -71.9543,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Parral",
+      "province": "Maule Region",
+      "latitude": -36.1431,
+      "longitude": -71.826,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Nacimiento",
+      "province": "Biobío",
+      "latitude": -37.5025,
+      "longitude": -72.6731,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Pirque",
+      "province": "圣地亚哥首都大区",
+      "latitude": -33.6364,
+      "longitude": -70.5736,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "El Monte",
+      "province": "圣地亚哥首都大区",
+      "latitude": -33.6797,
+      "longitude": -70.9848,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "La Unión",
+      "province": "河大区",
+      "latitude": -40.2931,
+      "longitude": -73.0817,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "托科皮亚",
+      "name_en": "Tocopilla",
+      "province": "Antofagasta",
+      "latitude": -22.092,
+      "longitude": -70.1979,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "San Francisco de Mostazal",
+      "province": "奥伊金斯将军解放者大区",
+      "latitude": -33.9822,
+      "longitude": -70.7104,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Coihueco",
+      "province": "纽夫莱大区",
+      "latitude": -36.6279,
+      "longitude": -71.8307,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "阿劳科",
+      "name_en": "Arauco",
+      "province": "Biobío",
+      "latitude": -37.2463,
+      "longitude": -73.3175,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Casablanca",
+      "province": "Valparaíso",
+      "latitude": -33.3171,
+      "longitude": -71.4031,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Carahue",
+      "province": "Araucanía",
+      "latitude": -38.7112,
+      "longitude": -73.161,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "瓦尔基",
+      "name_en": "Hualqui",
+      "province": "Biobío",
+      "latitude": -36.9727,
+      "longitude": -72.9356,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Collipulli",
+      "province": "Araucanía",
+      "latitude": -37.9545,
+      "longitude": -72.4344,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "格拉内罗斯",
+      "name_en": "Graneros",
+      "province": "奥伊金斯将军解放者大区",
+      "latitude": -34.0686,
+      "longitude": -70.7275,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "伊亚佩尔",
+      "name_en": "Illapel",
+      "province": "科金博大区",
+      "latitude": -31.6335,
+      "longitude": -71.1697,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Llaillay",
+      "province": "Valparaíso",
+      "latitude": -32.8404,
+      "longitude": -70.9562,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "San Vicente",
+      "province": "奥伊金斯将军解放者大区",
+      "latitude": -34.4386,
+      "longitude": -71.0775,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Vilcún",
+      "province": "Araucanía",
+      "latitude": -38.6688,
+      "longitude": -72.2257,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Freire",
+      "province": "Araucanía",
+      "latitude": -38.9525,
+      "longitude": -72.6265,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "莱布",
+      "name_en": "Lebu",
+      "province": "Biobío",
+      "latitude": -37.6082,
+      "longitude": -73.6536,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Pitrufquén",
+      "province": "Araucanía",
+      "latitude": -38.9864,
+      "longitude": -72.6372,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Quellón",
+      "province": "湖大区",
+      "latitude": -43.1182,
+      "longitude": -73.6166,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Loncoche",
+      "province": "Araucanía",
+      "latitude": -39.3671,
+      "longitude": -72.6309,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "普兰克",
+      "name_en": "Purranque",
+      "province": "湖大区",
+      "latitude": -40.913,
+      "longitude": -73.1591,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "卡涅特",
+      "name_en": "Cañete",
+      "province": "Biobío",
+      "latitude": -37.8,
+      "longitude": -73.3833,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Los Álamos",
+      "province": "Biobío",
+      "latitude": -37.628,
+      "longitude": -73.4601,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Cabildo",
+      "province": "Valparaíso",
+      "latitude": -32.4313,
+      "longitude": -71.0717,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Tiltil",
+      "province": "圣地亚哥首都大区",
+      "latitude": -33.0831,
+      "longitude": -70.9292,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Paillaco",
+      "province": "河大区",
+      "latitude": -40.0682,
+      "longitude": -72.8794,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "纳塔莱斯港",
+      "name_en": "Puerto Natales",
+      "province": "Region of Magallanes",
+      "latitude": -51.7299,
+      "longitude": -72.506,
+      "timezone": "America/Punta_Arenas"
+    },
+    {
+      "name": "洛斯比洛斯",
+      "name_en": "Los Vilos",
+      "province": "科金博大区",
+      "latitude": -31.9129,
+      "longitude": -71.5005,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "圣何塞德迈波",
+      "name_en": "San José de Maipo",
+      "province": "圣地亚哥首都大区",
+      "latitude": -33.6391,
+      "longitude": -70.3532,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Chicureo",
+      "province": "圣地亚哥首都大区",
+      "latitude": -33.2838,
+      "longitude": -70.6533,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "卡塔赫纳",
+      "name_en": "Cartagena",
+      "province": "Valparaíso",
+      "latitude": -33.5538,
+      "longitude": -71.6076,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Nancagua",
+      "province": "奥伊金斯将军解放者大区",
+      "latitude": -34.6519,
+      "longitude": -71.1972,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "科尔文",
+      "name_en": "Colbún",
+      "province": "Maule Region",
+      "latitude": -35.6949,
+      "longitude": -71.4057,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Sagrada Familia",
+      "province": "Maule Region",
+      "latitude": -34.9992,
+      "longitude": -71.3842,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Quillón",
+      "province": "纽夫莱大区",
+      "latitude": -36.7455,
+      "longitude": -72.4748,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "La Cruz",
+      "province": "Valparaíso",
+      "latitude": -32.8275,
+      "longitude": -71.2263,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "特赖根",
+      "name_en": "Traiguén",
+      "province": "Araucanía",
+      "latitude": -38.2496,
+      "longitude": -72.6703,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "San Esteban",
+      "province": "Valparaíso",
+      "latitude": -32.7987,
+      "longitude": -70.5807,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Puerto Aysén",
+      "province": "Aysén",
+      "latitude": -45.403,
+      "longitude": -72.6918,
+      "timezone": "America/Coyhaique"
+    },
+    {
+      "name": "",
+      "name_en": "Pozo Almonte",
+      "province": "塔拉帕卡大区",
+      "latitude": -20.2558,
+      "longitude": -69.7863,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Llanquihue",
+      "province": "湖大区",
+      "latitude": -41.256,
+      "longitude": -73.0065,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "卡尔德拉",
+      "name_en": "Caldera",
+      "province": "Atacama",
+      "latitude": -27.0681,
+      "longitude": -70.8192,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Coelemu",
+      "province": "纽夫莱大区",
+      "latitude": -36.4874,
+      "longitude": -72.7032,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Cunco",
+      "province": "Araucanía",
+      "latitude": -38.9318,
+      "longitude": -72.0315,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Maullín",
+      "province": "湖大区",
+      "latitude": -41.6178,
+      "longitude": -73.5983,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Teodoro Schmidt",
+      "province": "Araucanía",
+      "latitude": -38.9944,
+      "longitude": -73.0893,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Putaendo",
+      "province": "Valparaíso",
+      "latitude": -32.6264,
+      "longitude": -70.7184,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Villa Presidente Frei",
+      "province": "圣地亚哥首都大区",
+      "latitude": -33.4607,
+      "longitude": -70.5802,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Villa Alegre",
+      "province": "Maule Region",
+      "latitude": -35.673,
+      "longitude": -71.7443,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Gorbea",
+      "province": "Araucanía",
+      "latitude": -39.1016,
+      "longitude": -72.676,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "梅希约内斯",
+      "name_en": "Mejillones",
+      "province": "Antofagasta",
+      "latitude": -23.1,
+      "longitude": -70.447,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "蒙特帕特里亚",
+      "name_en": "Monte Patria",
+      "province": "科金博大区",
+      "latitude": -30.695,
+      "longitude": -70.9577,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Diego de Almagro",
+      "province": "Atacama",
+      "latitude": -26.3902,
+      "longitude": -70.0456,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "披市勒亩",
+      "name_en": "Pichilemu",
+      "province": "奥伊金斯将军解放者大区",
+      "latitude": -34.3833,
+      "longitude": -72.0,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "富特罗诺",
+      "name_en": "Futrono",
+      "province": "河大区",
+      "latitude": -40.1295,
+      "longitude": -72.3854,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "孔巴尔瓦拉",
+      "name_en": "Combarbalá",
+      "province": "科金博大区",
+      "latitude": -31.1786,
+      "longitude": -71.003,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "图卡佩尔",
+      "name_en": "Tucapel",
+      "province": "Biobío",
+      "latitude": -37.2908,
+      "longitude": -71.9493,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Bárbara",
+      "province": "Biobío",
+      "latitude": -37.6682,
+      "longitude": -72.0225,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Calle Larga",
+      "province": "Valparaíso",
+      "latitude": -32.8547,
+      "longitude": -70.626,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Catemu",
+      "province": "Valparaíso",
+      "latitude": -32.6333,
+      "longitude": -71.0333,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "萨拉曼卡",
+      "name_en": "Salamanca",
+      "province": "科金博大区",
+      "latitude": -31.7792,
+      "longitude": -70.9639,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Juana",
+      "province": "Biobío",
+      "latitude": -37.1751,
+      "longitude": -72.9433,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "达卡卫",
+      "name_en": "Dalcahue",
+      "province": "湖大区",
+      "latitude": -42.3785,
+      "longitude": -73.6501,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "琼奇",
+      "name_en": "Chonchi",
+      "province": "湖大区",
+      "latitude": -42.6239,
+      "longitude": -73.775,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Tierra Amarilla",
+      "province": "Atacama",
+      "latitude": -27.4663,
+      "longitude": -70.2626,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Bulnes",
+      "province": "纽夫莱大区",
+      "latitude": -36.7423,
+      "longitude": -72.2985,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Galvarino",
+      "province": "Araucanía",
+      "latitude": -38.4136,
+      "longitude": -72.7815,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "El Carmen",
+      "province": "纽夫莱大区",
+      "latitude": -36.8983,
+      "longitude": -72.0261,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "El Carmen",
+      "province": "Biobío",
+      "latitude": -36.8983,
+      "longitude": -72.0261,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Purén",
+      "province": "Araucanía",
+      "latitude": -38.0334,
+      "longitude": -73.0714,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Lumaco",
+      "province": "Araucanía",
+      "latitude": -38.1649,
+      "longitude": -72.9055,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Saavedra",
+      "province": "Araucanía",
+      "latitude": -38.787,
+      "longitude": -73.3971,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Fresia",
+      "province": "湖大区",
+      "latitude": -41.1536,
+      "longitude": -73.421,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "塔尔塔尔",
+      "name_en": "Taltal",
+      "province": "Antofagasta",
+      "latitude": -25.4071,
+      "longitude": -70.4855,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Laja",
+      "province": "Biobío",
+      "latitude": -37.2841,
+      "longitude": -72.7111,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "云贝尔",
+      "name_en": "Yumbel",
+      "province": "Biobío",
+      "latitude": -37.0982,
+      "longitude": -72.5608,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "安达科约",
+      "name_en": "Andacollo",
+      "province": "科金博大区",
+      "latitude": -30.2345,
+      "longitude": -71.0853,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "圣佩德罗德阿塔卡马",
+      "name_en": "San Pedro de Atacama",
+      "province": "Antofagasta",
+      "latitude": -22.9111,
+      "longitude": -68.2011,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Pinto",
+      "province": "纽夫莱大区",
+      "latitude": -36.7036,
+      "longitude": -71.8923,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Punitaqui",
+      "province": "科金博大区",
+      "latitude": -30.8345,
+      "longitude": -71.2586,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "阿尔加罗沃",
+      "name_en": "Algarrobo",
+      "province": "Valparaíso",
+      "latitude": -33.3695,
+      "longitude": -71.6765,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Rauco",
+      "province": "Maule Region",
+      "latitude": -34.9255,
+      "longitude": -71.3172,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Negrete",
+      "province": "Biobío",
+      "latitude": -37.5867,
+      "longitude": -72.5283,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "皮卡",
+      "name_en": "Pica",
+      "province": "塔拉帕卡大区",
+      "latitude": -20.4913,
+      "longitude": -69.3312,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Canela",
+      "province": "科金博大区",
+      "latitude": -31.5833,
+      "longitude": -70.85,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Chanco",
+      "province": "Maule Region",
+      "latitude": -35.7367,
+      "longitude": -72.5331,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "瓦斯科",
+      "name_en": "Huasco",
+      "province": "Atacama",
+      "latitude": -28.466,
+      "longitude": -71.2228,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Florida",
+      "province": "Biobío",
+      "latitude": -36.824,
+      "longitude": -72.661,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Ercilla",
+      "province": "Araucanía",
+      "latitude": -38.0632,
+      "longitude": -72.3743,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Pemuco",
+      "province": "纽夫莱大区",
+      "latitude": -36.9779,
+      "longitude": -72.0961,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Quirihue",
+      "province": "纽夫莱大区",
+      "latitude": -36.28,
+      "longitude": -72.5412,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "San Rafael",
+      "province": "Maule Region",
+      "latitude": -35.3062,
+      "longitude": -71.5191,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Pencahue",
+      "province": "Maule Region",
+      "latitude": -35.3935,
+      "longitude": -71.8005,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Pelarco",
+      "province": "Maule Region",
+      "latitude": -35.3844,
+      "longitude": -71.4451,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "María Elena",
+      "province": "Antofagasta",
+      "latitude": -22.3445,
+      "longitude": -69.6618,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "安加罗阿",
+      "name_en": "Hanga Roa",
+      "province": "Valparaíso",
+      "latitude": -27.1525,
+      "longitude": -109.4244,
+      "timezone": "Pacific/Easter"
+    },
+    {
+      "name": "",
+      "name_en": "Los Sauces",
+      "province": "Araucanía",
+      "latitude": -37.9812,
+      "longitude": -72.8339,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Teno",
+      "province": "Maule Region",
+      "latitude": -34.8706,
+      "longitude": -71.1622,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Panquehue",
+      "province": "Valparaíso",
+      "latitude": -32.7714,
+      "longitude": -70.8361,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "波韦尼尔",
+      "name_en": "Porvenir",
+      "province": "Region of Magallanes",
+      "latitude": -53.296,
+      "longitude": -70.3663,
+      "timezone": "America/Punta_Arenas"
+    },
+    {
+      "name": "",
+      "name_en": "Curarrehue",
+      "province": "Araucanía",
+      "latitude": -39.3602,
+      "longitude": -71.5875,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "弗雷里纳",
+      "name_en": "Freirina",
+      "province": "Atacama",
+      "latitude": -28.5092,
+      "longitude": -71.0812,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Contulmo",
+      "province": "Biobío",
+      "latitude": -38.0156,
+      "longitude": -73.2299,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Puerto Cisnes",
+      "province": "Aysén",
+      "latitude": -44.7474,
+      "longitude": -72.697,
+      "timezone": "America/Coyhaique"
+    },
+    {
+      "name": "",
+      "name_en": "Ninhue",
+      "province": "纽夫莱大区",
+      "latitude": -36.3942,
+      "longitude": -72.3987,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "科拉尔",
+      "name_en": "Corral",
+      "province": "河大区",
+      "latitude": -39.8873,
+      "longitude": -73.431,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "",
+      "name_en": "Cobquecura",
+      "province": "纽夫莱大区",
+      "latitude": -36.1325,
+      "longitude": -72.794,
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "阿托德尔卡门",
+      "name_en": "Alto del Carmen",
+      "province": "Atacama",
+      "latitude": -28.7595,
+      "longitude": -70.4865,
+      "timezone": "America/Santiago"
+    }
+  ]
+}

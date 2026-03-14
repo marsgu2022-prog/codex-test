@@ -1,0 +1,86 @@
+{
+  "country_code": "BH",
+  "country_name": "巴林",
+  "cities": [
+    {
+      "name": "",
+      "name_en": "Al Muharraq",
+      "province": "穆哈拉格省",
+      "latitude": 26.2572,
+      "longitude": 50.6119,
+      "timezone": "Asia/Bahrain"
+    },
+    {
+      "name": "麦纳麦",
+      "name_en": "Manama",
+      "province": "首都省",
+      "latitude": 26.2279,
+      "longitude": 50.5857,
+      "timezone": "Asia/Bahrain"
+    },
+    {
+      "name": "哈马德镇",
+      "name_en": "Madīnat Ḩamad",
+      "province": "北方省",
+      "latitude": 26.1153,
+      "longitude": 50.5069,
+      "timezone": "Asia/Bahrain"
+    },
+    {
+      "name": "里法",
+      "name_en": "Ar Rifā‘",
+      "province": "南方省",
+      "latitude": 26.13,
+      "longitude": 50.555,
+      "timezone": "Asia/Bahrain"
+    },
+    {
+      "name": "",
+      "name_en": "Sitrah",
+      "province": "首都省",
+      "latitude": 26.1547,
+      "longitude": 50.6206,
+      "timezone": "Asia/Bahrain"
+    },
+    {
+      "name": "",
+      "name_en": "Jidd Ḩafş",
+      "province": "首都省",
+      "latitude": 26.2186,
+      "longitude": 50.5478,
+      "timezone": "Asia/Bahrain"
+    },
+    {
+      "name": "",
+      "name_en": "Dār Kulayb",
+      "province": "南方省",
+      "latitude": 26.0686,
+      "longitude": 50.5039,
+      "timezone": "Asia/Bahrain"
+    },
+    {
+      "name": "伊萨城",
+      "name_en": "Madīnat ‘Īsá",
+      "province": "南方省",
+      "latitude": 26.1736,
+      "longitude": 50.5478,
+      "timezone": "Asia/Bahrain"
+    },
+    {
+      "name": "",
+      "name_en": "Al Ḩadd",
+      "province": "穆哈拉格省",
+      "latitude": 26.2456,
+      "longitude": 50.6542,
+      "timezone": "Asia/Bahrain"
+    },
+    {
+      "name": "",
+      "name_en": "Sanābis",
+      "province": "首都省",
+      "latitude": 26.2272,
+      "longitude": 50.5508,
+      "timezone": "Asia/Bahrain"
+    }
+  ]
+}

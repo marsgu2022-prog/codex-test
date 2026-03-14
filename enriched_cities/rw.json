@@ -1,0 +1,398 @@
+{
+  "country_code": "RW",
+  "country_name": "卢旺达",
+  "cities": [
+    {
+      "name": "吉佳利",
+      "name_en": "Kigali",
+      "province": "Kigali",
+      "latitude": -1.95,
+      "longitude": 30.0588,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "吉塞尼",
+      "name_en": "Gisenyi",
+      "province": "西部省",
+      "latitude": -1.7028,
+      "longitude": 29.2564,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "",
+      "name_en": "Musanze",
+      "province": "北部省",
+      "latitude": -1.4998,
+      "longitude": 29.635,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "",
+      "name_en": "Nyagatare",
+      "province": "东部省",
+      "latitude": -1.2952,
+      "longitude": 30.3226,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "吉塔拉马",
+      "name_en": "Gitarama",
+      "province": "南部省",
+      "latitude": -2.0744,
+      "longitude": 29.7567,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "",
+      "name_en": "Muhanga",
+      "province": "南部省",
+      "latitude": -2.0227,
+      "longitude": 29.7069,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "",
+      "name_en": "Butare",
+      "province": "南部省",
+      "latitude": -2.5967,
+      "longitude": 29.7394,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "",
+      "name_en": "Kibuye",
+      "province": "西部省",
+      "latitude": -2.0603,
+      "longitude": 29.3478,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "卢瓦马加纳",
+      "name_en": "Rwamagana",
+      "province": "东部省",
+      "latitude": -1.9487,
+      "longitude": 30.4347,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "",
+      "name_en": "Kibungo",
+      "province": "东部省",
+      "latitude": -2.1597,
+      "longitude": 30.5427,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "",
+      "name_en": "Cyangugu",
+      "province": "西部省",
+      "latitude": -2.4846,
+      "longitude": 28.9075,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "",
+      "name_en": "Shyorongi",
+      "province": "北部省",
+      "latitude": -1.8544,
+      "longitude": 29.9624,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "",
+      "name_en": "Byumba",
+      "province": "北部省",
+      "latitude": -1.5763,
+      "longitude": 30.0675,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "",
+      "name_en": "Ndera",
+      "province": "Kigali",
+      "latitude": -1.9495,
+      "longitude": 30.1697,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "",
+      "name_en": "Kirambo",
+      "province": "西部省",
+      "latitude": -2.3155,
+      "longitude": 29.1415,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "",
+      "name_en": "Kagano",
+      "province": "西部省",
+      "latitude": -2.3429,
+      "longitude": 29.0912,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "恩戈罗雷罗",
+      "name_en": "Ngororero",
+      "province": "西部省",
+      "latitude": -1.8628,
+      "longitude": 29.6254,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "",
+      "name_en": "Nzega",
+      "province": "南部省",
+      "latitude": -2.479,
+      "longitude": 29.5564,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "",
+      "name_en": "Macuba",
+      "province": "西部省",
+      "latitude": -2.2933,
+      "longitude": 29.1877,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "",
+      "name_en": "Karengera",
+      "province": "西部省",
+      "latitude": -2.5169,
+      "longitude": 29.0326,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "",
+      "name_en": "Nyanza",
+      "province": "南部省",
+      "latitude": -2.3519,
+      "longitude": 29.7509,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "",
+      "name_en": "Bugarama",
+      "province": "西部省",
+      "latitude": -2.6924,
+      "longitude": 29.0077,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "",
+      "name_en": "Gihombo",
+      "province": "西部省",
+      "latitude": -2.219,
+      "longitude": 29.2343,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "",
+      "name_en": "Karambi",
+      "province": "西部省",
+      "latitude": -2.3169,
+      "longitude": 29.2441,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "",
+      "name_en": "Bushekeri",
+      "province": "西部省",
+      "latitude": -2.4195,
+      "longitude": 29.0908,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "",
+      "name_en": "Nyabitekeli",
+      "province": "西部省",
+      "latitude": -2.3541,
+      "longitude": 29.0298,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "",
+      "name_en": "Busogo",
+      "province": "北部省",
+      "latitude": -1.5584,
+      "longitude": 29.5434,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "",
+      "name_en": "Shangi",
+      "province": "西部省",
+      "latitude": -2.4036,
+      "longitude": 29.0059,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "",
+      "name_en": "Kayonza",
+      "province": "东部省",
+      "latitude": -1.9509,
+      "longitude": 30.5205,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "",
+      "name_en": "Cyato",
+      "province": "西部省",
+      "latitude": -2.3871,
+      "longitude": 29.1929,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "",
+      "name_en": "Kirimbi",
+      "province": "西部省",
+      "latitude": -2.2647,
+      "longitude": 29.1964,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "",
+      "name_en": "Gitesi",
+      "province": "西部省",
+      "latitude": -2.1139,
+      "longitude": 29.4022,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "",
+      "name_en": "Bushenge",
+      "province": "西部省",
+      "latitude": -2.4421,
+      "longitude": 28.9824,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "",
+      "name_en": "Nyamata",
+      "province": "东部省",
+      "latitude": -2.2042,
+      "longitude": 30.1449,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "",
+      "name_en": "Ruhango",
+      "province": "南部省",
+      "latitude": -2.2246,
+      "longitude": 29.7909,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "",
+      "name_en": "Gikongoro",
+      "province": "南部省",
+      "latitude": -2.464,
+      "longitude": 29.5739,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "",
+      "name_en": "Mahembe",
+      "province": "西部省",
+      "latitude": -2.2386,
+      "longitude": 29.2929,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "",
+      "name_en": "Mukamira",
+      "province": "西部省",
+      "latitude": -1.6111,
+      "longitude": 29.4969,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "",
+      "name_en": "Mugina",
+      "province": "南部省",
+      "latitude": -2.1057,
+      "longitude": 29.9417,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "",
+      "name_en": "Umutara",
+      "province": "东部省",
+      "latitude": -1.2955,
+      "longitude": 30.323,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "",
+      "name_en": "Rangiro",
+      "province": "西部省",
+      "latitude": -2.4045,
+      "longitude": 29.1606,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "",
+      "name_en": "Kamuhanda / Ruyenzi",
+      "province": "南部省",
+      "latitude": -1.9657,
+      "longitude": 29.9846,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "",
+      "name_en": "Bugaragara",
+      "province": "东部省",
+      "latitude": -1.2929,
+      "longitude": 30.4077,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "",
+      "name_en": "Mukingo",
+      "province": "北部省",
+      "latitude": -1.5394,
+      "longitude": 29.5558,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "",
+      "name_en": "Kora",
+      "province": "西部省",
+      "latitude": -1.6101,
+      "longitude": 29.445,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "",
+      "name_en": "Kinigi",
+      "province": "北部省",
+      "latitude": -1.4426,
+      "longitude": 29.5902,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "",
+      "name_en": "Mabanza",
+      "province": "西部省",
+      "latitude": -2.0524,
+      "longitude": 29.4092,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "",
+      "name_en": "Gahini",
+      "province": "东部省",
+      "latitude": -1.8406,
+      "longitude": 30.4816,
+      "timezone": "Africa/Kigali"
+    },
+    {
+      "name": "",
+      "name_en": "Ruhuha",
+      "province": "东部省",
+      "latitude": -2.304,
+      "longitude": 30.0513,
+      "timezone": "Africa/Kigali"
+    }
+  ]
+}

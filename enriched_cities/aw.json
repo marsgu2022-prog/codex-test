@@ -1,0 +1,86 @@
+{
+  "country_code": "AW",
+  "country_name": "阿鲁巴",
+  "cities": [
+    {
+      "name": "奥拉涅斯塔德",
+      "name_en": "Oranjestad",
+      "province": "",
+      "latitude": 12.524,
+      "longitude": -70.027,
+      "timezone": "America/Aruba"
+    },
+    {
+      "name": "",
+      "name_en": "Noord",
+      "province": "",
+      "latitude": 12.566,
+      "longitude": -70.032,
+      "timezone": "America/Aruba"
+    },
+    {
+      "name": "",
+      "name_en": "Tanki Leendert",
+      "province": "",
+      "latitude": 12.5391,
+      "longitude": -70.02,
+      "timezone": "America/Aruba"
+    },
+    {
+      "name": "",
+      "name_en": "San Nicolas",
+      "province": "",
+      "latitude": 12.4362,
+      "longitude": -69.9071,
+      "timezone": "America/Aruba"
+    },
+    {
+      "name": "",
+      "name_en": "Santa Cruz",
+      "province": "",
+      "latitude": 12.5095,
+      "longitude": -69.9809,
+      "timezone": "America/Aruba"
+    },
+    {
+      "name": "",
+      "name_en": "Paradera",
+      "province": "",
+      "latitude": 12.5351,
+      "longitude": -70.0069,
+      "timezone": "America/Aruba"
+    },
+    {
+      "name": "",
+      "name_en": "Savaneta",
+      "province": "",
+      "latitude": 12.4503,
+      "longitude": -69.9381,
+      "timezone": "America/Aruba"
+    },
+    {
+      "name": "",
+      "name_en": "Palm Beach",
+      "province": "",
+      "latitude": 12.5685,
+      "longitude": -70.0389,
+      "timezone": "America/Aruba"
+    },
+    {
+      "name": "",
+      "name_en": "Pos Chiquito",
+      "province": "",
+      "latitude": 12.465,
+      "longitude": -69.9623,
+      "timezone": "America/Aruba"
+    },
+    {
+      "name": "",
+      "name_en": "Alto Vista",
+      "province": "",
+      "latitude": 12.5705,
+      "longitude": -70.0191,
+      "timezone": "America/Aruba"
+    }
+  ]
+}

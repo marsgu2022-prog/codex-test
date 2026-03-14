@@ -1,0 +1,430 @@
+{
+  "country_code": "NP",
+  "country_name": "尼泊尔",
+  "cities": [
+    {
+      "name": "加德满都",
+      "name_en": "Kathmandu",
+      "province": "Bagmati Province",
+      "latitude": 27.7017,
+      "longitude": 85.3206,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "博克拉",
+      "name_en": "Pokhara",
+      "province": "Gandaki Pradesh",
+      "latitude": 28.2669,
+      "longitude": 83.9685,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "婆罗多布尔",
+      "name_en": "Bharatpur",
+      "province": "Bagmati Province",
+      "latitude": 27.6803,
+      "longitude": 84.4365,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "",
+      "name_en": "Pātan",
+      "province": "Bagmati Province",
+      "latitude": 27.6766,
+      "longitude": 85.3142,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "",
+      "name_en": "Birgañj",
+      "province": "Madhesh",
+      "latitude": 27.0174,
+      "longitude": 84.8805,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "比拉德讷格尔",
+      "name_en": "Biratnagar",
+      "province": "Koshi",
+      "latitude": 26.455,
+      "longitude": 87.2701,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "",
+      "name_en": "Dhangaḍhi̇̄",
+      "province": "Sudurpashchim Pradesh",
+      "latitude": 28.7016,
+      "longitude": 80.5899,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "黑道达",
+      "name_en": "Hetauda",
+      "province": "Bagmati Province",
+      "latitude": 27.4284,
+      "longitude": 85.0322,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "贾纳克布尔",
+      "name_en": "Janakpur",
+      "province": "Madhesh",
+      "latitude": 26.7288,
+      "longitude": 85.9263,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "",
+      "name_en": "Butwāl",
+      "province": "Lumbini Province",
+      "latitude": 27.7005,
+      "longitude": 83.4484,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "",
+      "name_en": "Dharān",
+      "province": "Koshi",
+      "latitude": 26.8144,
+      "longitude": 87.2797,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "",
+      "name_en": "Nepalgunj",
+      "province": "Lumbini Province",
+      "latitude": 28.05,
+      "longitude": 81.6167,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "比兰德拉纳加尔",
+      "name_en": "Birendranagar",
+      "province": "Karnali Pradesh",
+      "latitude": 28.5967,
+      "longitude": 81.6166,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "",
+      "name_en": "Madhyapur Thimi",
+      "province": "Bagmati Province",
+      "latitude": 27.6806,
+      "longitude": 85.3875,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "",
+      "name_en": "Lahān",
+      "province": "Madhesh",
+      "latitude": 26.7202,
+      "longitude": 86.4826,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "",
+      "name_en": "Bhimdatta",
+      "province": "Sudurpashchim Pradesh",
+      "latitude": 28.964,
+      "longitude": 80.1771,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "",
+      "name_en": "Triyuga",
+      "province": "Koshi",
+      "latitude": 26.7919,
+      "longitude": 86.699,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "",
+      "name_en": "Inaruwa",
+      "province": "Koshi",
+      "latitude": 26.6068,
+      "longitude": 87.1478,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "",
+      "name_en": "Rājbirāj",
+      "province": "Madhesh",
+      "latitude": 26.5397,
+      "longitude": 86.748,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "巴内帕",
+      "name_en": "Banepā",
+      "province": "Bagmati Province",
+      "latitude": 27.6327,
+      "longitude": 85.522,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "",
+      "name_en": "Siddharthanagar",
+      "province": "Lumbini Province",
+      "latitude": 27.5,
+      "longitude": 83.45,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "",
+      "name_en": "Gulariyā",
+      "province": "Lumbini Province",
+      "latitude": 28.2058,
+      "longitude": 81.3453,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "",
+      "name_en": "Chautārā",
+      "province": "Bagmati Province",
+      "latitude": 27.7763,
+      "longitude": 85.7127,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "",
+      "name_en": "Īṭahari̇̄",
+      "province": "Koshi",
+      "latitude": 26.6637,
+      "longitude": 87.274,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "",
+      "name_en": "Panauti",
+      "province": "Bagmati Province",
+      "latitude": 27.5847,
+      "longitude": 85.5212,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "",
+      "name_en": "Ṭikāpur",
+      "province": "Sudurpashchim Pradesh",
+      "latitude": 28.5282,
+      "longitude": 81.1183,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "吉尔蒂布尔",
+      "name_en": "Ki̇̄rtipur",
+      "province": "Bagmati Province",
+      "latitude": 27.6785,
+      "longitude": 85.2757,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "",
+      "name_en": "Chari̇̄koṭ",
+      "province": "Bagmati Province",
+      "latitude": 27.6682,
+      "longitude": 86.0519,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "",
+      "name_en": "Tulsi̇̄pur",
+      "province": "Lumbini Province",
+      "latitude": 28.1333,
+      "longitude": 82.298,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "",
+      "name_en": "Dipayal",
+      "province": "Sudurpashchim Pradesh",
+      "latitude": 29.2608,
+      "longitude": 80.94,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "",
+      "name_en": "Panauti̇̄",
+      "province": "Bagmati Province",
+      "latitude": 27.5847,
+      "longitude": 85.5212,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "",
+      "name_en": "Gaur",
+      "province": "Madhesh",
+      "latitude": 26.7637,
+      "longitude": 85.2766,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "",
+      "name_en": "Siraha",
+      "province": "Madhesh",
+      "latitude": 26.6542,
+      "longitude": 86.2079,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "",
+      "name_en": "Tānsen",
+      "province": "Lumbini Province",
+      "latitude": 27.8666,
+      "longitude": 83.5459,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "",
+      "name_en": "Jaleshwar",
+      "province": "Madhesh",
+      "latitude": 26.6487,
+      "longitude": 85.8,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "",
+      "name_en": "Bāgluṅ",
+      "province": "Gandaki Pradesh",
+      "latitude": 28.2673,
+      "longitude": 83.5996,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "",
+      "name_en": "Khā̃dbāri̇̄",
+      "province": "Koshi",
+      "latitude": 27.3765,
+      "longitude": 87.2077,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "",
+      "name_en": "Dhankutā",
+      "province": "Koshi",
+      "latitude": 26.9833,
+      "longitude": 87.3333,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "",
+      "name_en": "Wāliṅ",
+      "province": "Gandaki Pradesh",
+      "latitude": 27.9837,
+      "longitude": 83.7592,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "",
+      "name_en": "Dailekh",
+      "province": "Karnali Pradesh",
+      "latitude": 28.8443,
+      "longitude": 81.7101,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "",
+      "name_en": "Malaṅgawā",
+      "province": "Madhesh",
+      "latitude": 26.8562,
+      "longitude": 85.5603,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "",
+      "name_en": "Bhadrapur",
+      "province": "Koshi",
+      "latitude": 26.544,
+      "longitude": 88.0944,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "",
+      "name_en": "Amargaḍhi̇̄",
+      "province": "Sudurpashchim Pradesh",
+      "latitude": 29.2992,
+      "longitude": 80.5833,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "",
+      "name_en": "Dārchulā",
+      "province": "Sudurpashchim Pradesh",
+      "latitude": 29.83,
+      "longitude": 80.55,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "",
+      "name_en": "Ilām",
+      "province": "Koshi",
+      "latitude": 26.9094,
+      "longitude": 87.9282,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "图利凯尔",
+      "name_en": "Dhulikhel",
+      "province": "Bagmati Province",
+      "latitude": 27.6221,
+      "longitude": 85.5428,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "",
+      "name_en": "Chapali̇̄ Bhaḍrakāli̇̄",
+      "province": "Bagmati Province",
+      "latitude": 27.7821,
+      "longitude": 85.3743,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "",
+      "name_en": "kankrabari Dovan",
+      "province": "Bagmati Province",
+      "latitude": 27.6288,
+      "longitude": 85.4593,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "",
+      "name_en": "Jumla",
+      "province": "Karnali Pradesh",
+      "latitude": 29.2747,
+      "longitude": 82.1838,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "",
+      "name_en": "Lobuche",
+      "province": "Koshi",
+      "latitude": 27.9481,
+      "longitude": 86.8102,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "",
+      "name_en": "Kusma",
+      "province": "Gandaki Pradesh",
+      "latitude": 28.2227,
+      "longitude": 83.6826,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "",
+      "name_en": "Bhattarai Danda",
+      "province": "Gandaki Pradesh",
+      "latitude": 27.8833,
+      "longitude": 83.9333,
+      "timezone": "Asia/Kathmandu"
+    },
+    {
+      "name": "",
+      "name_en": "Besisahar",
+      "province": "Karnali Pradesh",
+      "latitude": 28.2311,
+      "longitude": 84.3775,
+      "timezone": "Asia/Kathmandu"
+    }
+  ]
+}

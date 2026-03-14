@@ -1,0 +1,78 @@
+{
+  "country_code": "SZ",
+  "country_name": "斯威士兰",
+  "cities": [
+    {
+      "name": "曼齐尼",
+      "name_en": "Manzini",
+      "province": "曼齐尼区",
+      "latitude": -26.4988,
+      "longitude": 31.38,
+      "timezone": "Africa/Mbabane"
+    },
+    {
+      "name": "墨巴本",
+      "name_en": "Mbabane",
+      "province": "霍霍",
+      "latitude": -26.3167,
+      "longitude": 31.1333,
+      "timezone": "Africa/Mbabane"
+    },
+    {
+      "name": "",
+      "name_en": "Malkerns",
+      "province": "曼齐尼区",
+      "latitude": -26.5287,
+      "longitude": 31.1919,
+      "timezone": "Africa/Mbabane"
+    },
+    {
+      "name": "",
+      "name_en": "Nhlangano",
+      "province": "Shiselweni",
+      "latitude": -27.1122,
+      "longitude": 31.1983,
+      "timezone": "Africa/Mbabane"
+    },
+    {
+      "name": "",
+      "name_en": "Mhlume",
+      "province": "卢邦博",
+      "latitude": -26.0261,
+      "longitude": 31.8142,
+      "timezone": "Africa/Mbabane"
+    },
+    {
+      "name": "",
+      "name_en": "Hluti",
+      "province": "Shiselweni",
+      "latitude": -27.221,
+      "longitude": 31.5868,
+      "timezone": "Africa/Mbabane"
+    },
+    {
+      "name": "",
+      "name_en": "Siteki",
+      "province": "卢邦博",
+      "latitude": -26.4525,
+      "longitude": 31.9472,
+      "timezone": "Africa/Mbabane"
+    },
+    {
+      "name": "",
+      "name_en": "Piggs Peak",
+      "province": "霍霍",
+      "latitude": -25.9608,
+      "longitude": 31.2467,
+      "timezone": "Africa/Mbabane"
+    },
+    {
+      "name": "洛班巴",
+      "name_en": "Lobamba",
+      "province": "霍霍",
+      "latitude": -26.4667,
+      "longitude": 31.2,
+      "timezone": "Africa/Mbabane"
+    }
+  ]
+}

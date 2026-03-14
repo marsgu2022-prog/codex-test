@@ -1,0 +1,6814 @@
+{
+  "country_code": "TR",
+  "country_name": "土耳其",
+  "cities": [
+    {
+      "name": "伊斯坦布尔",
+      "name_en": "Istanbul",
+      "province": "伊斯坦布尔",
+      "latitude": 41.0138,
+      "longitude": 28.9497,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "安卡拉",
+      "name_en": "Ankara",
+      "province": "安卡拉次分区",
+      "latitude": 39.9199,
+      "longitude": 32.8543,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "布尔萨",
+      "name_en": "Bursa",
+      "province": "布尔萨省",
+      "latitude": 40.1956,
+      "longitude": 29.0601,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "伊兹密尔",
+      "name_en": "İzmir",
+      "province": "伊兹密尔省",
+      "latitude": 38.4127,
+      "longitude": 27.1384,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "加济安泰普",
+      "name_en": "Gaziantep",
+      "province": "加济安泰普省",
+      "latitude": 37.0594,
+      "longitude": 37.3825,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "阿达纳",
+      "name_en": "Adana",
+      "province": "阿达纳省",
+      "latitude": 36.9862,
+      "longitude": 35.3253,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "迪亚巴克尔",
+      "name_en": "Diyarbakır",
+      "province": "迪亚巴克尔省",
+      "latitude": 37.9136,
+      "longitude": 40.2172,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "开塞利",
+      "name_en": "Kayseri",
+      "province": "开塞利省",
+      "latitude": 38.7322,
+      "longitude": 35.4853,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "科尼亚",
+      "name_en": "Konya",
+      "province": "科尼亚省",
+      "latitude": 37.8713,
+      "longitude": 32.4846,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "安塔利亚",
+      "name_en": "Antalya",
+      "province": "安塔利亚省",
+      "latitude": 36.9081,
+      "longitude": 30.6956,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "马拉蒂亚",
+      "name_en": "Malatya",
+      "province": "马拉蒂亚省",
+      "latitude": 38.3502,
+      "longitude": 38.3167,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Çankaya",
+      "province": "安卡拉次分区",
+      "latitude": 39.9179,
+      "longitude": 32.8627,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "埃斯基谢希尔",
+      "name_en": "Eskişehir",
+      "province": "埃斯基谢希尔省",
+      "latitude": 39.7767,
+      "longitude": 30.5206,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "埃尔祖鲁姆",
+      "name_en": "Erzurum",
+      "province": "埃尔祖鲁姆省",
+      "latitude": 39.9086,
+      "longitude": 41.2769,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Bağcılar",
+      "province": "伊斯坦布尔",
+      "latitude": 41.039,
+      "longitude": 28.8567,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Bahçelievler",
+      "province": "伊斯坦布尔",
+      "latitude": 41.0023,
+      "longitude": 28.8598,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Umraniye",
+      "province": "伊斯坦布尔",
+      "latitude": 41.0164,
+      "longitude": 29.1248,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Mersin",
+      "province": "梅尔辛省",
+      "latitude": 36.812,
+      "longitude": 34.6389,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "凡城",
+      "name_en": "Van",
+      "province": "凡省",
+      "latitude": 38.4946,
+      "longitude": 43.3832,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Üsküdar",
+      "province": "伊斯坦布尔",
+      "latitude": 41.0227,
+      "longitude": 29.0137,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Esenler",
+      "province": "伊斯坦布尔",
+      "latitude": 41.0435,
+      "longitude": 28.8762,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Karabağlar",
+      "province": "伊兹密尔省",
+      "latitude": 38.382,
+      "longitude": 27.132,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "巴特曼",
+      "name_en": "Batman",
+      "province": "巴特曼省",
+      "latitude": 37.8874,
+      "longitude": 41.1322,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Muratpaşa",
+      "province": "安塔利亚省",
+      "latitude": 36.8916,
+      "longitude": 30.765,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Şanlıurfa",
+      "province": "尚勒乌尔法省",
+      "latitude": 37.1671,
+      "longitude": 38.7939,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "埃拉泽",
+      "name_en": "Elazığ",
+      "province": "埃拉泽省",
+      "latitude": 38.6743,
+      "longitude": 39.2232,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Sultangazi",
+      "province": "伊斯坦布尔",
+      "latitude": 41.1065,
+      "longitude": 28.8685,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Maltepe",
+      "province": "伊斯坦布尔",
+      "latitude": 40.9357,
+      "longitude": 29.1551,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "萨姆松",
+      "name_en": "Samsun",
+      "province": "萨姆松省",
+      "latitude": 41.2798,
+      "longitude": 36.3361,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "卡赫拉曼马拉什",
+      "name_en": "Kahramanmaraş",
+      "province": "卡赫拉曼马拉什省",
+      "latitude": 37.5847,
+      "longitude": 36.9264,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "乌沙克",
+      "name_en": "Uşak",
+      "province": "乌沙克省",
+      "latitude": 38.6735,
+      "longitude": 29.4058,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "阿拉尼亚",
+      "name_en": "Alanya",
+      "province": "安塔利亚省",
+      "latitude": 36.5438,
+      "longitude": 31.9998,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Ataşehir",
+      "province": "伊斯坦布尔",
+      "latitude": 40.9833,
+      "longitude": 29.1167,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "大数",
+      "name_en": "Tarsus",
+      "province": "梅尔辛省",
+      "latitude": 36.9177,
+      "longitude": 34.8928,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Karşıyaka",
+      "province": "伊兹密尔省",
+      "latitude": 38.4577,
+      "longitude": 27.1142,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Konak",
+      "province": "伊兹密尔省",
+      "latitude": 38.4,
+      "longitude": 27.1,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Şişli",
+      "province": "伊斯坦布尔",
+      "latitude": 41.0605,
+      "longitude": 28.9872,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "代尼兹利",
+      "name_en": "Denizli",
+      "province": "代尼兹利省",
+      "latitude": 37.7742,
+      "longitude": 29.0875,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Batikent",
+      "province": "安卡拉次分区",
+      "latitude": 39.9683,
+      "longitude": 32.7308,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Zeytinburnu",
+      "province": "伊斯坦布尔",
+      "latitude": 40.9944,
+      "longitude": 28.9042,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "阿达帕扎勒",
+      "name_en": "Adapazarı",
+      "province": "萨卡里亚省",
+      "latitude": 40.7806,
+      "longitude": 30.4033,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Sultanbeyli",
+      "province": "伊斯坦布尔",
+      "latitude": 40.9607,
+      "longitude": 29.2707,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "盖布泽",
+      "name_en": "Gebze",
+      "province": "科贾埃利省",
+      "latitude": 40.8028,
+      "longitude": 29.4307,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Merkezefendi",
+      "province": "代尼兹利省",
+      "latitude": 37.8054,
+      "longitude": 29.0424,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "乔鲁姆",
+      "name_en": "Çorum",
+      "province": "乔鲁姆省",
+      "latitude": 40.5489,
+      "longitude": 34.9533,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "阿德亚曼省",
+      "name_en": "Adıyaman",
+      "province": "阿德亚曼省",
+      "latitude": 37.7644,
+      "longitude": 38.2763,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "锡瓦斯",
+      "name_en": "Sivas",
+      "province": "锡瓦斯省",
+      "latitude": 39.7483,
+      "longitude": 37.0161,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "阿菲永卡拉希萨尔",
+      "name_en": "Afyonkarahisar",
+      "province": "阿菲永卡拉希萨尔省",
+      "latitude": 38.7567,
+      "longitude": 30.5433,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "伊斯肯德伦",
+      "name_en": "İskenderun",
+      "province": "哈塔伊省",
+      "latitude": 36.5872,
+      "longitude": 36.1735,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "阿克萨赖",
+      "name_en": "Aksaray",
+      "province": "阿克萨赖省",
+      "latitude": 38.3725,
+      "longitude": 34.0254,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "特拉布宗",
+      "name_en": "Trabzon",
+      "province": "特拉布宗省",
+      "latitude": 41.005,
+      "longitude": 39.7269,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Manisa",
+      "province": "马尼萨省",
+      "latitude": 38.612,
+      "longitude": 27.4265,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Sancaktepe",
+      "province": "伊斯坦布尔",
+      "latitude": 41.0024,
+      "longitude": 29.2319,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "巴勒克埃西尔",
+      "name_en": "Balıkesir",
+      "province": "巴勒克埃西尔省",
+      "latitude": 39.6492,
+      "longitude": 27.8861,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Ordu",
+      "province": "奥尔杜省",
+      "latitude": 40.9778,
+      "longitude": 37.8905,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Esenyurt",
+      "province": "伊斯坦布尔",
+      "latitude": 41.027,
+      "longitude": 28.6773,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "安条克",
+      "name_en": "Antakya",
+      "province": "哈塔伊省",
+      "latitude": 36.2066,
+      "longitude": 36.1572,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "奥斯曼尼耶",
+      "name_en": "Osmaniye",
+      "province": "奥斯曼尼耶省",
+      "latitude": 37.0742,
+      "longitude": 36.2478,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "乔尔卢",
+      "name_en": "Çorlu",
+      "province": "泰基尔达省",
+      "latitude": 41.1607,
+      "longitude": 27.8009,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Arnavutköy",
+      "province": "伊斯坦布尔",
+      "latitude": 41.1835,
+      "longitude": 28.7402,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "伊兹密特",
+      "name_en": "İzmit",
+      "province": "科贾埃利省",
+      "latitude": 40.765,
+      "longitude": 29.9293,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Çiğli",
+      "province": "伊兹密尔省",
+      "latitude": 38.4965,
+      "longitude": 27.0703,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Düzce",
+      "province": "Düzce",
+      "latitude": 40.8389,
+      "longitude": 31.1639,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Başakşehir",
+      "province": "伊斯坦布尔",
+      "latitude": 41.106,
+      "longitude": 28.791,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "克勒克卡莱",
+      "name_en": "Kırıkkale",
+      "province": "克勒克卡莱省",
+      "latitude": 39.8453,
+      "longitude": 33.5064,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "屈塔希亚",
+      "name_en": "Kütahya",
+      "province": "屈塔希亚省",
+      "latitude": 39.4242,
+      "longitude": 29.9833,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "博卢",
+      "name_en": "Bolu",
+      "province": "博卢省",
+      "latitude": 40.7358,
+      "longitude": 31.6061,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "埃迪尔内",
+      "name_en": "Edirne",
+      "province": "埃迪尔内省",
+      "latitude": 41.6772,
+      "longitude": 26.556,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "卡拉曼",
+      "name_en": "Karaman",
+      "province": "卡拉曼省",
+      "latitude": 37.1811,
+      "longitude": 33.215,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Siverek",
+      "province": "尚勒乌尔法省",
+      "latitude": 37.755,
+      "longitude": 39.3167,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "伊斯帕尔塔",
+      "name_en": "Isparta",
+      "province": "厄斯帕尔塔省",
+      "latitude": 37.7644,
+      "longitude": 30.5522,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Gölbaşı",
+      "province": "安卡拉次分区",
+      "latitude": 39.7904,
+      "longitude": 32.809,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Büyükçekmece",
+      "province": "伊斯坦布尔",
+      "latitude": 41.0207,
+      "longitude": 28.585,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "艾登",
+      "name_en": "Aydın",
+      "province": "艾登省",
+      "latitude": 37.845,
+      "longitude": 27.8396,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Viranşehir",
+      "province": "尚勒乌尔法省",
+      "latitude": 37.2235,
+      "longitude": 39.7552,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "埃尔津詹",
+      "name_en": "Erzincan",
+      "province": "埃尔津詹省",
+      "latitude": 39.7392,
+      "longitude": 39.4901,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "克尔谢希尔",
+      "name_en": "Kırşehir",
+      "province": "克尔谢希尔省",
+      "latitude": 39.1458,
+      "longitude": 34.1639,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kızıltepe",
+      "province": "马尔丁省",
+      "latitude": 37.1884,
+      "longitude": 40.5772,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "恰纳卡莱省",
+      "name_en": "Çanakkale",
+      "province": "恰纳卡莱省",
+      "latitude": 40.1555,
+      "longitude": 26.4127,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Cizre",
+      "province": "舍尔纳克省",
+      "latitude": 37.3302,
+      "longitude": 42.1848,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "İnegol",
+      "province": "布尔萨省",
+      "latitude": 40.0781,
+      "longitude": 29.5133,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "马尔丁",
+      "name_en": "Mardin",
+      "province": "马尔丁省",
+      "latitude": 37.3131,
+      "longitude": 40.7436,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "托卡特",
+      "name_en": "Tokat",
+      "province": "托卡特省",
+      "latitude": 40.3139,
+      "longitude": 36.5544,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Bingöl",
+      "province": "宾格尔省",
+      "latitude": 38.8847,
+      "longitude": 40.4939,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "吉雷松",
+      "name_en": "Giresun",
+      "province": "吉雷松省",
+      "latitude": 40.917,
+      "longitude": 38.3874,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "卡斯塔莫努",
+      "name_en": "Kastamonu",
+      "province": "卡斯塔莫努省",
+      "latitude": 41.3781,
+      "longitude": 33.7753,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Derince",
+      "province": "科贾埃利省",
+      "latitude": 40.7569,
+      "longitude": 29.8147,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "卡拉比克省",
+      "name_en": "Karabük",
+      "province": "卡拉比克省",
+      "latitude": 41.2049,
+      "longitude": 32.6277,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "阿勒",
+      "name_en": "Ağrı",
+      "province": "阿勒省",
+      "latitude": 39.7147,
+      "longitude": 43.0401,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Samandağ",
+      "province": "哈塔伊省",
+      "latitude": 36.0801,
+      "longitude": 35.976,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Beylikdüzü",
+      "province": "伊斯坦布尔",
+      "latitude": 40.982,
+      "longitude": 28.6399,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "泰基尔达",
+      "name_en": "Tekirdağ",
+      "province": "泰基尔达省",
+      "latitude": 40.9781,
+      "longitude": 27.511,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "里泽",
+      "name_en": "Rize",
+      "province": "里泽省",
+      "latitude": 41.0208,
+      "longitude": 40.5219,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "纳济利",
+      "name_en": "Nazilli",
+      "province": "艾登省",
+      "latitude": 37.9163,
+      "longitude": 28.3223,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Salihli",
+      "province": "马尼萨省",
+      "latitude": 38.4826,
+      "longitude": 28.1477,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "阿马西亚",
+      "name_en": "Amasya",
+      "province": "阿马西亚省",
+      "latitude": 40.6533,
+      "longitude": 35.8331,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Silopi",
+      "province": "舍尔纳克省",
+      "latitude": 37.2438,
+      "longitude": 42.4635,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "锡尔特",
+      "name_en": "Siirt",
+      "province": "锡尔特省",
+      "latitude": 37.9293,
+      "longitude": 41.9413,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "基利斯",
+      "name_en": "Kilis",
+      "province": "基利斯省",
+      "latitude": 36.7161,
+      "longitude": 37.115,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Turhal",
+      "province": "托卡特省",
+      "latitude": 40.3875,
+      "longitude": 36.0811,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Arsuz",
+      "province": "哈塔伊省",
+      "latitude": 36.413,
+      "longitude": 35.8903,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Bandırma",
+      "province": "巴勒克埃西尔省",
+      "latitude": 40.3522,
+      "longitude": 27.9767,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Turgutlu",
+      "province": "马尼萨省",
+      "latitude": 38.4953,
+      "longitude": 27.6997,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "宗古尔达克",
+      "name_en": "Zonguldak",
+      "province": "宗古尔达克省",
+      "latitude": 41.4514,
+      "longitude": 31.7931,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "厄德尔",
+      "name_en": "Iğdır",
+      "province": "厄德尔省",
+      "latitude": 39.9237,
+      "longitude": 44.045,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Mustafakemalpaşa",
+      "province": "布尔萨省",
+      "latitude": 40.0382,
+      "longitude": 28.4087,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Suruç",
+      "province": "尚勒乌尔法省",
+      "latitude": 36.9761,
+      "longitude": 38.4253,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Manavgat",
+      "province": "安塔利亚省",
+      "latitude": 36.7867,
+      "longitude": 31.4409,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kâhta",
+      "province": "阿德亚曼省",
+      "latitude": 37.7855,
+      "longitude": 38.6237,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "杰伊汉",
+      "name_en": "Ceyhan",
+      "province": "阿达纳省",
+      "latitude": 37.0247,
+      "longitude": 35.8175,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "巴尔杜尔",
+      "name_en": "Burdur",
+      "province": "布尔杜尔省",
+      "latitude": 37.7203,
+      "longitude": 30.2908,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "波拉特勒",
+      "name_en": "Polatlı",
+      "province": "安卡拉次分区",
+      "latitude": 39.5772,
+      "longitude": 32.1413,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Bafra",
+      "province": "萨姆松省",
+      "latitude": 41.5679,
+      "longitude": 35.9031,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "穆拉",
+      "name_en": "Muğla",
+      "province": "穆拉省",
+      "latitude": 37.2181,
+      "longitude": 28.3665,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "埃雷利",
+      "name_en": "Ereğli",
+      "province": "科尼亚省",
+      "latitude": 37.5133,
+      "longitude": 34.0467,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Erciş",
+      "province": "凡省",
+      "latitude": 39.0259,
+      "longitude": 43.3596,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "卡尔斯",
+      "name_en": "Kars",
+      "province": "卡尔斯省",
+      "latitude": 40.5983,
+      "longitude": 43.0855,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "尼代",
+      "name_en": "Niğde",
+      "province": "尼代省",
+      "latitude": 37.9658,
+      "longitude": 34.6793,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Lüleburgaz",
+      "province": "克尔克拉雷利省",
+      "latitude": 41.4017,
+      "longitude": 27.3575,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Körfez",
+      "province": "科贾埃利省",
+      "latitude": 40.767,
+      "longitude": 29.7828,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Çankırı",
+      "province": "昌克勒省",
+      "latitude": 40.5999,
+      "longitude": 33.6153,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Nusaybin",
+      "province": "马尔丁省",
+      "latitude": 37.0703,
+      "longitude": 41.2146,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Ereğli",
+      "province": "宗古尔达克省",
+      "latitude": 37.5133,
+      "longitude": 34.0467,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kozan",
+      "province": "阿达纳省",
+      "latitude": 37.4552,
+      "longitude": 35.8157,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "约兹加特",
+      "name_en": "Yozgat",
+      "province": "约兹加特省",
+      "latitude": 39.82,
+      "longitude": 34.8044,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Patnos",
+      "province": "阿勒省",
+      "latitude": 39.2249,
+      "longitude": 42.8569,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "阿克希萨尔",
+      "name_en": "Akhisar",
+      "province": "马尼萨省",
+      "latitude": 38.9185,
+      "longitude": 27.8401,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Akçapınar",
+      "province": "通杰利省",
+      "latitude": 38.9473,
+      "longitude": 38.9423,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Çerkezköy",
+      "province": "泰基尔达省",
+      "latitude": 41.2863,
+      "longitude": 27.9994,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "穆什",
+      "name_en": "Muş",
+      "province": "穆什省",
+      "latitude": 38.7316,
+      "longitude": 41.4848,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Nizip",
+      "province": "加济安泰普省",
+      "latitude": 37.0097,
+      "longitude": 37.7942,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Fatsa",
+      "province": "奥尔杜省",
+      "latitude": 41.0289,
+      "longitude": 37.4998,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "巴尔滕",
+      "name_en": "Bartın",
+      "province": "巴尔滕省",
+      "latitude": 41.6358,
+      "longitude": 32.3375,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Elbistan",
+      "province": "卡赫拉曼马拉什省",
+      "latitude": 38.2059,
+      "longitude": 37.1983,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Hakkâri",
+      "province": "哈卡里省",
+      "latitude": 37.5744,
+      "longitude": 43.7408,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Ünye",
+      "province": "奥尔杜省",
+      "latitude": 41.1405,
+      "longitude": 37.2885,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "米迪亚特",
+      "name_en": "Midyat",
+      "province": "马尔丁省",
+      "latitude": 37.4191,
+      "longitude": 41.3391,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "内夫谢希尔",
+      "name_en": "Nevşehir",
+      "province": "内夫谢希尔省",
+      "latitude": 38.625,
+      "longitude": 34.7122,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "锡利夫凯",
+      "name_en": "Silifke",
+      "province": "梅尔辛省",
+      "latitude": 36.3778,
+      "longitude": 33.9344,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Bismil",
+      "province": "迪亚巴克尔省",
+      "latitude": 37.8451,
+      "longitude": 40.6593,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "比莱吉克",
+      "name_en": "Bilecik",
+      "province": "比莱吉克省",
+      "latitude": 40.1419,
+      "longitude": 29.9793,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "贝莱克镇",
+      "name_en": "Belek",
+      "province": "安塔利亚省",
+      "latitude": 36.8631,
+      "longitude": 31.0654,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Tatvan",
+      "province": "比特利斯省",
+      "latitude": 38.4922,
+      "longitude": 42.2827,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "于克塞科瓦",
+      "name_en": "Yüksekova",
+      "province": "哈卡里省",
+      "latitude": 37.5736,
+      "longitude": 44.2872,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "亚洛瓦",
+      "name_en": "Yalova",
+      "province": "亚洛瓦省",
+      "latitude": 40.655,
+      "longitude": 29.2769,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Gemlik",
+      "province": "布尔萨省",
+      "latitude": 40.4309,
+      "longitude": 29.1597,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kadirli",
+      "province": "奥斯曼尼耶省",
+      "latitude": 37.3739,
+      "longitude": 36.0961,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Doğubayazıt",
+      "province": "阿勒省",
+      "latitude": 39.5469,
+      "longitude": 44.0842,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Ayvalık",
+      "province": "巴勒克埃西尔省",
+      "latitude": 39.3193,
+      "longitude": 26.6934,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "瑟凯",
+      "name_en": "Söke",
+      "province": "艾登省",
+      "latitude": 37.7482,
+      "longitude": 27.4061,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Ardeşen",
+      "province": "里泽省",
+      "latitude": 41.1906,
+      "longitude": 40.9793,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Şırnak",
+      "province": "舍尔纳克省",
+      "latitude": 37.5139,
+      "longitude": 42.4543,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Ödemiş",
+      "province": "伊兹密尔省",
+      "latitude": 38.2278,
+      "longitude": 27.9696,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "锡尔万",
+      "name_en": "Silvan",
+      "province": "迪亚巴克尔省",
+      "latitude": 38.1371,
+      "longitude": 41.0082,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "索马",
+      "name_en": "Soma",
+      "province": "马尼萨省",
+      "latitude": 39.1855,
+      "longitude": 27.6094,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Ahlat",
+      "province": "比特利斯省",
+      "latitude": 38.7489,
+      "longitude": 42.4801,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Akşehir",
+      "province": "科尼亚省",
+      "latitude": 38.3575,
+      "longitude": 31.4164,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "库沙达瑟",
+      "name_en": "Kuşadası",
+      "province": "艾登省",
+      "latitude": 37.8601,
+      "longitude": 27.2571,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Sorgun",
+      "province": "约兹加特省",
+      "latitude": 39.8101,
+      "longitude": 35.186,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Çubuk",
+      "province": "安卡拉次分区",
+      "latitude": 40.2386,
+      "longitude": 33.0322,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "比加",
+      "name_en": "Biga",
+      "province": "恰纳卡莱省",
+      "latitude": 40.2281,
+      "longitude": 27.2422,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kırıkhan",
+      "province": "哈塔伊省",
+      "latitude": 36.4994,
+      "longitude": 36.3576,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "费特希耶",
+      "name_en": "Fethiye",
+      "province": "穆拉省",
+      "latitude": 36.6404,
+      "longitude": 29.1276,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "克尔克拉雷利",
+      "name_en": "Kırklareli",
+      "province": "克尔克拉雷利省",
+      "latitude": 41.7351,
+      "longitude": 27.2252,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "别迦摩",
+      "name_en": "Bergama",
+      "province": "伊兹密尔省",
+      "latitude": 39.1207,
+      "longitude": 27.1805,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "阿纳穆尔",
+      "name_en": "Anamur",
+      "province": "梅尔辛省",
+      "latitude": 36.0751,
+      "longitude": 32.8369,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Reyhanlı",
+      "province": "哈塔伊省",
+      "latitude": 36.2679,
+      "longitude": 36.5675,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Dörtyol",
+      "province": "哈塔伊省",
+      "latitude": 36.8392,
+      "longitude": 36.2302,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Gölcük",
+      "province": "科贾埃利省",
+      "latitude": 40.715,
+      "longitude": 29.8182,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Bolvadin",
+      "province": "阿菲永卡拉希萨尔省",
+      "latitude": 38.7111,
+      "longitude": 31.0486,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Zile",
+      "province": "托卡特省",
+      "latitude": 40.3031,
+      "longitude": 35.8864,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Eminönü",
+      "province": "伊斯坦布尔",
+      "latitude": 41.0175,
+      "longitude": 28.971,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "博聚于克",
+      "name_en": "Bozüyük",
+      "province": "比莱吉克省",
+      "latitude": 39.9078,
+      "longitude": 30.0367,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Menemen",
+      "province": "伊兹密尔省",
+      "latitude": 38.6075,
+      "longitude": 27.0694,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Silivri",
+      "province": "伊斯坦布尔",
+      "latitude": 41.0739,
+      "longitude": 28.2464,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "比特利斯",
+      "name_en": "Bitlis",
+      "province": "比特利斯省",
+      "latitude": 38.4012,
+      "longitude": 42.1078,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Adilcevaz",
+      "province": "比特利斯省",
+      "latitude": 38.7991,
+      "longitude": 42.7316,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Ergani",
+      "province": "迪亚巴克尔省",
+      "latitude": 38.269,
+      "longitude": 39.7545,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Erbaa",
+      "province": "托卡特省",
+      "latitude": 40.6689,
+      "longitude": 36.5675,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Tavşanlı",
+      "province": "屈塔希亚省",
+      "latitude": 39.5424,
+      "longitude": 29.4987,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Orhangazi",
+      "province": "布尔萨省",
+      "latitude": 40.4892,
+      "longitude": 29.3089,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Seydişehir",
+      "province": "科尼亚省",
+      "latitude": 37.4193,
+      "longitude": 31.8453,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "梅尔济丰",
+      "name_en": "Merzifon",
+      "province": "阿马西亚省",
+      "latitude": 40.8733,
+      "longitude": 35.4631,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kavaklı",
+      "province": "伊斯坦布尔",
+      "latitude": 41.0926,
+      "longitude": 28.3317,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Çarşamba",
+      "province": "萨姆松省",
+      "latitude": 41.1989,
+      "longitude": 36.7219,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Torbalı",
+      "province": "伊兹密尔省",
+      "latitude": 38.182,
+      "longitude": 27.335,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Güngören Merter",
+      "province": "伊斯坦布尔",
+      "latitude": 41.0071,
+      "longitude": 28.888,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Merter Keresteciler",
+      "province": "伊斯坦布尔",
+      "latitude": 41.0129,
+      "longitude": 28.8859,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Niksar",
+      "province": "托卡特省",
+      "latitude": 40.5917,
+      "longitude": 36.9517,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Keskin",
+      "province": "克勒克卡莱省",
+      "latitude": 39.6731,
+      "longitude": 33.6136,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Karapınar",
+      "province": "科尼亚省",
+      "latitude": 37.716,
+      "longitude": 33.5506,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Mut",
+      "province": "梅尔辛省",
+      "latitude": 36.6439,
+      "longitude": 33.4389,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "阿拉谢希尔",
+      "name_en": "Alaşehir",
+      "province": "马尼萨省",
+      "latitude": 38.3508,
+      "longitude": 28.5172,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "巴伊布尔特省",
+      "name_en": "Bayburt",
+      "province": "巴伊布尔特省",
+      "latitude": 40.2563,
+      "longitude": 40.2229,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Suluova",
+      "province": "阿马西亚省",
+      "latitude": 40.8313,
+      "longitude": 35.6479,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Şebin Karahisar",
+      "province": "吉雷松省",
+      "latitude": 40.2883,
+      "longitude": 38.4236,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Tire",
+      "province": "伊兹密尔省",
+      "latitude": 38.0888,
+      "longitude": 27.7351,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kulu",
+      "province": "科尼亚省",
+      "latitude": 39.0951,
+      "longitude": 33.0799,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "埃尔代姆利",
+      "name_en": "Erdemli",
+      "province": "梅尔辛省",
+      "latitude": 36.605,
+      "longitude": 34.3084,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Çumra",
+      "province": "科尼亚省",
+      "latitude": 37.5732,
+      "longitude": 32.7745,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kireçocağı",
+      "province": "阿达纳省",
+      "latitude": 37.05,
+      "longitude": 35.2333,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Urla",
+      "province": "伊兹密尔省",
+      "latitude": 38.3229,
+      "longitude": 26.764,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Akçaabat",
+      "province": "特拉布宗省",
+      "latitude": 41.0212,
+      "longitude": 39.5715,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Aliağa",
+      "province": "伊兹密尔省",
+      "latitude": 38.7998,
+      "longitude": 26.972,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Keşan",
+      "province": "埃迪尔内省",
+      "latitude": 40.8552,
+      "longitude": 26.6327,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Beyşehir",
+      "province": "科尼亚省",
+      "latitude": 37.6773,
+      "longitude": 31.7246,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Birecik",
+      "province": "尚勒乌尔法省",
+      "latitude": 37.0258,
+      "longitude": 37.9784,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Karacabey",
+      "province": "布尔萨省",
+      "latitude": 40.2132,
+      "longitude": 28.3612,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "谢雷夫利科奇希萨尔",
+      "name_en": "Şereflikoçhisar",
+      "province": "安卡拉次分区",
+      "latitude": 38.9393,
+      "longitude": 33.5386,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Bulancak",
+      "province": "吉雷松省",
+      "latitude": 40.938,
+      "longitude": 38.2315,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "米拉斯",
+      "name_en": "Milas",
+      "province": "穆拉省",
+      "latitude": 37.3164,
+      "longitude": 27.7839,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "桑德克勒",
+      "name_en": "Sandıklı",
+      "province": "阿菲永卡拉希萨尔省",
+      "latitude": 38.4647,
+      "longitude": 30.2695,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "贝斯尼",
+      "name_en": "Besni",
+      "province": "阿德亚曼省",
+      "latitude": 37.6928,
+      "longitude": 37.8611,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "埃德雷米特",
+      "name_en": "Edremit",
+      "province": "巴勒克埃西尔省",
+      "latitude": 39.5961,
+      "longitude": 27.0244,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Gönen",
+      "province": "巴勒克埃西尔省",
+      "latitude": 40.1049,
+      "longitude": 27.654,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Afşin",
+      "province": "卡赫拉曼马拉什省",
+      "latitude": 38.2477,
+      "longitude": 36.914,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Cimin",
+      "province": "埃尔津詹省",
+      "latitude": 39.7095,
+      "longitude": 39.7002,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Karasu Mahallesi",
+      "province": "萨卡里亚省",
+      "latitude": 41.071,
+      "longitude": 30.7854,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "博德鲁姆",
+      "name_en": "Bodrum",
+      "province": "穆拉省",
+      "latitude": 37.0383,
+      "longitude": 27.4292,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Gümüşhane",
+      "province": "居米什哈内省",
+      "latitude": 40.46,
+      "longitude": 39.4718,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Yalvaç",
+      "province": "厄斯帕尔塔省",
+      "latitude": 38.2956,
+      "longitude": 31.1778,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "贝伊帕扎勒",
+      "name_en": "Beypazarı",
+      "province": "安卡拉次分区",
+      "latitude": 40.1675,
+      "longitude": 31.9211,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Burhaniye",
+      "province": "巴勒克埃西尔省",
+      "latitude": 39.5004,
+      "longitude": 26.9727,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Vakfıkebir",
+      "province": "特拉布宗省",
+      "latitude": 41.0458,
+      "longitude": 39.2764,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Sungurlu",
+      "province": "乔鲁姆省",
+      "latitude": 40.1675,
+      "longitude": 34.3739,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Beşikdüzü",
+      "province": "特拉布宗省",
+      "latitude": 41.052,
+      "longitude": 39.2329,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "塞里克",
+      "name_en": "Serik",
+      "province": "安塔利亚省",
+      "latitude": 36.9175,
+      "longitude": 31.1046,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Talas",
+      "province": "开塞利省",
+      "latitude": 38.6908,
+      "longitude": 35.5538,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "乌尊克普吕",
+      "name_en": "Uzunköprü",
+      "province": "埃迪尔内省",
+      "latitude": 41.2691,
+      "longitude": 26.686,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Osmancık",
+      "province": "乔鲁姆省",
+      "latitude": 40.9782,
+      "longitude": 34.8047,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kestel",
+      "province": "布尔萨省",
+      "latitude": 40.1983,
+      "longitude": 29.2124,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Görükle",
+      "province": "布尔萨省",
+      "latitude": 40.2311,
+      "longitude": 28.8402,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Develi",
+      "province": "开塞利省",
+      "latitude": 38.3906,
+      "longitude": 35.4922,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Hınıs",
+      "province": "埃尔祖鲁姆省",
+      "latitude": 39.3577,
+      "longitude": 41.6925,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "迪纳尔",
+      "name_en": "Dinar",
+      "province": "阿菲永卡拉希萨尔省",
+      "latitude": 38.065,
+      "longitude": 30.1656,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Yerköy",
+      "province": "约兹加特省",
+      "latitude": 39.6381,
+      "longitude": 34.4672,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Hendek",
+      "province": "萨卡里亚省",
+      "latitude": 40.7994,
+      "longitude": 30.7481,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "番红花城",
+      "name_en": "Safranbolu",
+      "province": "卡拉比克省",
+      "latitude": 41.2508,
+      "longitude": 32.6942,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "通杰利",
+      "name_en": "Tunceli",
+      "province": "通杰利省",
+      "latitude": 39.0992,
+      "longitude": 39.5435,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Akçakoca",
+      "province": "Düzce",
+      "latitude": 41.0894,
+      "longitude": 31.1236,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Simav",
+      "province": "屈塔希亚省",
+      "latitude": 39.0882,
+      "longitude": 28.9777,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "锡诺普",
+      "name_en": "Sinop",
+      "province": "锡诺普省",
+      "latitude": 42.0268,
+      "longitude": 35.1625,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Göksun",
+      "province": "卡赫拉曼马拉什省",
+      "latitude": 38.021,
+      "longitude": 36.4973,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Çay",
+      "province": "阿菲永卡拉希萨尔省",
+      "latitude": 38.5917,
+      "longitude": 31.0286,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "马尔马里斯港",
+      "name_en": "Marmaris",
+      "province": "穆拉省",
+      "latitude": 36.855,
+      "longitude": 28.2742,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Şarkîkaraağaç",
+      "province": "厄斯帕尔塔省",
+      "latitude": 38.0794,
+      "longitude": 31.3664,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "博尔",
+      "name_en": "Bor",
+      "province": "尼代省",
+      "latitude": 37.8906,
+      "longitude": 34.5589,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kumru",
+      "province": "奥尔杜省",
+      "latitude": 40.8744,
+      "longitude": 37.2639,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Etlik",
+      "province": "安卡拉次分区",
+      "latitude": 39.9821,
+      "longitude": 32.8246,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "阿克恰卡莱",
+      "name_en": "Akçakale",
+      "province": "尚勒乌尔法省",
+      "latitude": 36.7111,
+      "longitude": 38.9475,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kurtalan",
+      "province": "锡尔特省",
+      "latitude": 37.9253,
+      "longitude": 41.6849,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Yeşilli",
+      "province": "马尔丁省",
+      "latitude": 37.3381,
+      "longitude": 40.8174,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Of",
+      "province": "特拉布宗省",
+      "latitude": 40.9406,
+      "longitude": 40.2592,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "İmamoğlu",
+      "province": "阿达纳省",
+      "latitude": 37.2651,
+      "longitude": 35.6572,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Ceylanpınar",
+      "province": "尚勒乌尔法省",
+      "latitude": 36.8472,
+      "longitude": 40.05,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Bulanık",
+      "province": "穆什省",
+      "latitude": 39.0866,
+      "longitude": 42.2716,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Ortaköy",
+      "province": "阿克萨赖省",
+      "latitude": 38.7373,
+      "longitude": 34.0387,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kula",
+      "province": "马尼萨省",
+      "latitude": 38.5473,
+      "longitude": 28.6498,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Mimarsinan",
+      "province": "伊斯坦布尔",
+      "latitude": 41.0149,
+      "longitude": 28.5608,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Karasu",
+      "province": "萨卡里亚省",
+      "latitude": 41.071,
+      "longitude": 30.7854,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Karamürsel",
+      "province": "科贾埃利省",
+      "latitude": 40.6913,
+      "longitude": 29.6165,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "İncirli",
+      "province": "安卡拉次分区",
+      "latitude": 41.1044,
+      "longitude": 30.6966,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kemalpaşa",
+      "province": "伊兹密尔省",
+      "latitude": 38.4262,
+      "longitude": 27.4173,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Görele",
+      "province": "吉雷松省",
+      "latitude": 41.0308,
+      "longitude": 39.0031,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Beykonak",
+      "province": "安塔利亚省",
+      "latitude": 36.3257,
+      "longitude": 30.303,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Araklı",
+      "province": "特拉布宗省",
+      "latitude": 40.9385,
+      "longitude": 40.0584,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Bostanlı",
+      "province": "伊兹密尔省",
+      "latitude": 38.4592,
+      "longitude": 27.0973,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Karakoçan",
+      "province": "埃拉泽省",
+      "latitude": 38.9518,
+      "longitude": 40.0271,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kozluk",
+      "province": "巴特曼省",
+      "latitude": 38.1912,
+      "longitude": 41.4778,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Gürpınar",
+      "province": "伊斯坦布尔",
+      "latitude": 40.9926,
+      "longitude": 28.6143,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Şemikler",
+      "province": "伊兹密尔省",
+      "latitude": 38.475,
+      "longitude": 27.0959,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Bucak",
+      "province": "布尔杜尔省",
+      "latitude": 37.4592,
+      "longitude": 30.595,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "塞尔丘克",
+      "name_en": "Selçuk",
+      "province": "伊兹密尔省",
+      "latitude": 37.9514,
+      "longitude": 27.3685,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Ataşehir",
+      "province": "伊兹密尔省",
+      "latitude": 40.9833,
+      "longitude": 29.1167,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Oba",
+      "province": "安塔利亚省",
+      "latitude": 36.5501,
+      "longitude": 32.0596,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Yakuplu",
+      "province": "伊斯坦布尔",
+      "latitude": 40.9889,
+      "longitude": 28.6758,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Yenişehir",
+      "province": "布尔萨省",
+      "latitude": 40.2644,
+      "longitude": 29.6531,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "卡曼",
+      "name_en": "Kaman",
+      "province": "克尔谢希尔省",
+      "latitude": 39.3575,
+      "longitude": 33.7239,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "盖雷代",
+      "name_en": "Gerede",
+      "province": "博卢省",
+      "latitude": 40.8008,
+      "longitude": 32.1969,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "博兹亚泽",
+      "name_en": "Bozyazı",
+      "province": "梅尔辛省",
+      "latitude": 36.1082,
+      "longitude": 32.9611,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Terme",
+      "province": "萨姆松省",
+      "latitude": 41.2092,
+      "longitude": 36.9739,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "格尔巴舍",
+      "name_en": "Gölbaşı",
+      "province": "阿德亚曼省",
+      "latitude": 39.7904,
+      "longitude": 32.809,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Boyabat",
+      "province": "锡诺普省",
+      "latitude": 41.4689,
+      "longitude": 34.7667,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Malkara",
+      "province": "泰基尔达省",
+      "latitude": 40.891,
+      "longitude": 26.902,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Ilgın",
+      "province": "科尼亚省",
+      "latitude": 38.2792,
+      "longitude": 31.9139,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Hıdırbey",
+      "province": "哈塔伊省",
+      "latitude": 36.208,
+      "longitude": 36.1279,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kırkağaç",
+      "province": "马尼萨省",
+      "latitude": 39.1064,
+      "longitude": 27.6693,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Alaca",
+      "province": "乔鲁姆省",
+      "latitude": 40.1683,
+      "longitude": 34.8425,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Babaeski",
+      "province": "克尔克拉雷利省",
+      "latitude": 41.4281,
+      "longitude": 27.0966,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Akyurt",
+      "province": "安卡拉次分区",
+      "latitude": 40.1351,
+      "longitude": 33.0861,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kulp",
+      "province": "迪亚巴克尔省",
+      "latitude": 38.4975,
+      "longitude": 41.0067,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Erzin",
+      "province": "哈塔伊省",
+      "latitude": 36.9535,
+      "longitude": 36.1984,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Çan",
+      "province": "恰纳卡莱省",
+      "latitude": 40.0333,
+      "longitude": 27.0524,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Altınşehir",
+      "province": "阿德亚曼省",
+      "latitude": 37.7412,
+      "longitude": 38.229,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Malazgirt",
+      "province": "穆什省",
+      "latitude": 39.1465,
+      "longitude": 42.5354,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Didim",
+      "province": "艾登省",
+      "latitude": 37.385,
+      "longitude": 27.2564,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "阿尔特温",
+      "name_en": "Artvin",
+      "province": "阿尔特温省",
+      "latitude": 41.1816,
+      "longitude": 41.8217,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Güroymak",
+      "province": "比特利斯省",
+      "latitude": 38.5758,
+      "longitude": 42.0156,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Suşehri",
+      "province": "锡瓦斯省",
+      "latitude": 40.16,
+      "longitude": 38.0841,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Elmadağ",
+      "province": "安卡拉次分区",
+      "latitude": 39.9208,
+      "longitude": 33.2308,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Sapanca",
+      "province": "萨卡里亚省",
+      "latitude": 40.6914,
+      "longitude": 30.2674,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "盖利博卢",
+      "name_en": "Gelibolu",
+      "province": "恰纳卡莱省",
+      "latitude": 40.4084,
+      "longitude": 26.6717,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kağızman",
+      "province": "卡尔斯省",
+      "latitude": 40.1567,
+      "longitude": 43.1342,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "韦济尔克普吕",
+      "name_en": "Vezirköprü",
+      "province": "萨姆松省",
+      "latitude": 41.1436,
+      "longitude": 35.4547,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Akyazı",
+      "province": "萨卡里亚省",
+      "latitude": 40.685,
+      "longitude": 30.6222,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Yahyalı",
+      "province": "开塞利省",
+      "latitude": 38.1023,
+      "longitude": 35.357,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Susurluk",
+      "province": "巴勒克埃西尔省",
+      "latitude": 39.9136,
+      "longitude": 28.1578,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Devrek",
+      "province": "宗古尔达克省",
+      "latitude": 41.2192,
+      "longitude": 31.9558,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Çayeli",
+      "province": "里泽省",
+      "latitude": 41.0861,
+      "longitude": 40.7221,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Pasinler",
+      "province": "埃尔祖鲁姆省",
+      "latitude": 39.9798,
+      "longitude": 41.67,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Gürsu",
+      "province": "布尔萨省",
+      "latitude": 40.2188,
+      "longitude": 29.1949,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Mahmutlar",
+      "province": "安塔利亚省",
+      "latitude": 36.4946,
+      "longitude": 32.0909,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Tosya",
+      "province": "卡斯塔莫努省",
+      "latitude": 41.0155,
+      "longitude": 34.0401,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kazan",
+      "province": "安卡拉次分区",
+      "latitude": 40.2317,
+      "longitude": 32.6839,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kelkit",
+      "province": "居米什哈内省",
+      "latitude": 40.1268,
+      "longitude": 39.4342,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Pazarcık",
+      "province": "卡赫拉曼马拉什省",
+      "latitude": 37.4868,
+      "longitude": 37.2996,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Emet",
+      "province": "屈塔希亚省",
+      "latitude": 39.343,
+      "longitude": 29.2585,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Şarkışla",
+      "province": "锡瓦斯省",
+      "latitude": 39.3519,
+      "longitude": 36.4098,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Ferizli",
+      "province": "萨卡里亚省",
+      "latitude": 40.9408,
+      "longitude": 30.4858,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Sarıkamış",
+      "province": "卡尔斯省",
+      "latitude": 40.3277,
+      "longitude": 42.587,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Oltu",
+      "province": "埃尔祖鲁姆省",
+      "latitude": 40.5395,
+      "longitude": 41.9872,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Mudanya",
+      "province": "布尔萨省",
+      "latitude": 40.6914,
+      "longitude": 30.2674,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Yakınca",
+      "province": "马拉蒂亚省",
+      "latitude": 38.3053,
+      "longitude": 38.2383,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Akdağmadeni",
+      "province": "约兹加特省",
+      "latitude": 39.6603,
+      "longitude": 35.8836,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kovancılar",
+      "province": "埃拉泽省",
+      "latitude": 38.7188,
+      "longitude": 39.8627,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "伊迪尔",
+      "name_en": "İdil",
+      "province": "舍尔纳克省",
+      "latitude": 37.3348,
+      "longitude": 41.8894,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "阿尔达汉",
+      "name_en": "Ardahan",
+      "province": "阿尔达汉省",
+      "latitude": 41.1087,
+      "longitude": 42.7022,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Erdek",
+      "province": "巴勒克埃西尔省",
+      "latitude": 40.3996,
+      "longitude": 27.7935,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Zekeriya",
+      "province": "伊斯坦布尔",
+      "latitude": 41.1981,
+      "longitude": 29.0303,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Genç",
+      "province": "宾格尔省",
+      "latitude": 38.7477,
+      "longitude": 40.5534,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "İznik",
+      "province": "布尔萨省",
+      "latitude": 40.4286,
+      "longitude": 29.7211,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Gediz",
+      "province": "屈塔希亚省",
+      "latitude": 38.9939,
+      "longitude": 29.3913,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Menderes",
+      "province": "伊兹密尔省",
+      "latitude": 38.2496,
+      "longitude": 27.1343,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Küçükçiğli",
+      "province": "伊兹密尔省",
+      "latitude": 38.508,
+      "longitude": 27.0554,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Çaycuma",
+      "province": "宗古尔达克省",
+      "latitude": 41.4264,
+      "longitude": 32.0756,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Tepecik",
+      "province": "伊斯坦布尔",
+      "latitude": 41.0293,
+      "longitude": 28.5498,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Bozova",
+      "province": "尚勒乌尔法省",
+      "latitude": 37.3625,
+      "longitude": 38.5267,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Havza",
+      "province": "萨姆松省",
+      "latitude": 40.9706,
+      "longitude": 35.6622,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Cikcilli",
+      "province": "安塔利亚省",
+      "latitude": 36.554,
+      "longitude": 32.0296,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Demirci",
+      "province": "马尼萨省",
+      "latitude": 39.0461,
+      "longitude": 28.6589,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Çine",
+      "province": "艾登省",
+      "latitude": 37.6127,
+      "longitude": 28.0591,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "切什梅",
+      "name_en": "Çeşme",
+      "province": "伊兹密尔省",
+      "latitude": 38.3261,
+      "longitude": 26.3057,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Hacılar",
+      "province": "开塞利省",
+      "latitude": 38.6463,
+      "longitude": 35.4494,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Çermik",
+      "province": "迪亚巴克尔省",
+      "latitude": 38.1354,
+      "longitude": 39.445,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Alaplı",
+      "province": "宗古尔达克省",
+      "latitude": 41.1814,
+      "longitude": 31.3851,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Dargeçit",
+      "province": "马尔丁省",
+      "latitude": 37.5462,
+      "longitude": 41.7165,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Çubuklu",
+      "province": "伊斯坦布尔",
+      "latitude": 41.1042,
+      "longitude": 29.0833,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Karaçoban",
+      "province": "埃尔祖鲁姆省",
+      "latitude": 39.3436,
+      "longitude": 42.0992,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "科尔库泰利",
+      "name_en": "Korkuteli",
+      "province": "安塔利亚省",
+      "latitude": 37.065,
+      "longitude": 30.1957,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Darende",
+      "province": "马拉蒂亚省",
+      "latitude": 37.1811,
+      "longitude": 33.215,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kaynaşlı",
+      "province": "Düzce",
+      "latitude": 40.7692,
+      "longitude": 31.3221,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Geyve",
+      "province": "萨卡里亚省",
+      "latitude": 40.5075,
+      "longitude": 30.2925,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Belen",
+      "province": "哈塔伊省",
+      "latitude": 36.4887,
+      "longitude": 36.1949,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Hadim",
+      "province": "科尼亚省",
+      "latitude": 36.9878,
+      "longitude": 32.4567,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "埃米尔达",
+      "name_en": "Emirdağ",
+      "province": "阿菲永卡拉希萨尔省",
+      "latitude": 39.0197,
+      "longitude": 31.15,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Sürmene",
+      "province": "特拉布宗省",
+      "latitude": 40.9385,
+      "longitude": 40.0584,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "İskilip",
+      "province": "乔鲁姆省",
+      "latitude": 40.7353,
+      "longitude": 34.4739,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Hayrabolu",
+      "province": "泰基尔达省",
+      "latitude": 41.2131,
+      "longitude": 27.1069,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Yomra",
+      "province": "特拉布宗省",
+      "latitude": 40.9533,
+      "longitude": 39.8555,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Ortaca",
+      "province": "穆拉省",
+      "latitude": 36.8391,
+      "longitude": 28.7646,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Seferihisar",
+      "province": "伊兹密尔省",
+      "latitude": 38.1975,
+      "longitude": 26.8388,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Çatalca",
+      "province": "伊斯坦布尔",
+      "latitude": 41.1407,
+      "longitude": 28.4597,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Dalaman",
+      "province": "穆拉省",
+      "latitude": 36.7659,
+      "longitude": 28.8028,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Taşova",
+      "province": "阿马西亚省",
+      "latitude": 40.7597,
+      "longitude": 36.3225,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "纳勒汉",
+      "name_en": "Nallıhan",
+      "province": "安卡拉次分区",
+      "latitude": 40.1859,
+      "longitude": 31.3518,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Balatçık",
+      "province": "伊兹密尔省",
+      "latitude": 38.5163,
+      "longitude": 27.0475,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Yatağan",
+      "province": "穆拉省",
+      "latitude": 37.3402,
+      "longitude": 28.1428,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Şemdinli",
+      "province": "哈卡里省",
+      "latitude": 37.3051,
+      "longitude": 44.5742,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "萨拉伊柯伊",
+      "name_en": "Sarayköy",
+      "province": "代尼兹利省",
+      "latitude": 37.9245,
+      "longitude": 28.9252,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Gürgentepe",
+      "province": "奥尔杜省",
+      "latitude": 40.7899,
+      "longitude": 37.6007,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Varto",
+      "province": "穆什省",
+      "latitude": 39.1737,
+      "longitude": 41.454,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "因吉尔利奥瓦",
+      "name_en": "İncirliova",
+      "province": "艾登省",
+      "latitude": 37.8522,
+      "longitude": 27.7236,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Narlıca",
+      "province": "哈塔伊省",
+      "latitude": 36.2353,
+      "longitude": 36.2146,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Gazipaşa",
+      "province": "安塔利亚省",
+      "latitude": 36.2694,
+      "longitude": 32.3179,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "迪亚丁",
+      "name_en": "Diyadin",
+      "province": "阿勒省",
+      "latitude": 39.5406,
+      "longitude": 43.6713,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "克孜勒贾哈马姆",
+      "name_en": "Kızılcahamam",
+      "province": "安卡拉次分区",
+      "latitude": 40.4697,
+      "longitude": 32.6506,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Konaklı",
+      "province": "安塔利亚省",
+      "latitude": 36.5925,
+      "longitude": 31.8954,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Tarabya",
+      "province": "伊斯坦布尔",
+      "latitude": 41.1336,
+      "longitude": 29.0464,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Çerkeş",
+      "province": "昌克勒省",
+      "latitude": 40.8116,
+      "longitude": 32.8936,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Dursunbey",
+      "province": "巴勒克埃西尔省",
+      "latitude": 39.586,
+      "longitude": 28.6257,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "霍帕",
+      "name_en": "Hopa",
+      "province": "阿尔特温省",
+      "latitude": 41.3905,
+      "longitude": 41.4197,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "德尼兹吉莱尔",
+      "name_en": "Denizciler",
+      "province": "哈塔伊省",
+      "latitude": 36.6411,
+      "longitude": 36.2142,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Taşköprü",
+      "province": "卡斯塔莫努省",
+      "latitude": 41.5098,
+      "longitude": 34.2141,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kemer",
+      "province": "安塔利亚省",
+      "latitude": 39.5004,
+      "longitude": 26.9727,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Tekkeköy",
+      "province": "萨姆松省",
+      "latitude": 41.2117,
+      "longitude": 36.46,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Serinhisar",
+      "province": "代尼兹利省",
+      "latitude": 37.581,
+      "longitude": 29.2664,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Tirebolu",
+      "province": "吉雷松省",
+      "latitude": 41.0069,
+      "longitude": 38.8139,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Banaz",
+      "province": "乌沙克省",
+      "latitude": 38.7371,
+      "longitude": 29.7519,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Horasan",
+      "province": "埃尔祖鲁姆省",
+      "latitude": 40.0388,
+      "longitude": 42.1637,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Hilvan",
+      "province": "尚勒乌尔法省",
+      "latitude": 37.5869,
+      "longitude": 38.955,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Ermenek",
+      "province": "卡拉曼省",
+      "latitude": 36.6404,
+      "longitude": 32.8918,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Gemerek",
+      "province": "锡瓦斯省",
+      "latitude": 39.1834,
+      "longitude": 36.0719,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Eğirdir",
+      "province": "厄斯帕尔塔省",
+      "latitude": 37.8746,
+      "longitude": 30.8504,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Bayındır",
+      "province": "伊兹密尔省",
+      "latitude": 38.2174,
+      "longitude": 27.6474,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Serinyol",
+      "province": "哈塔伊省",
+      "latitude": 36.3614,
+      "longitude": 36.2136,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Korgan",
+      "province": "奥尔杜省",
+      "latitude": 40.8247,
+      "longitude": 37.3467,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Ürgüp",
+      "province": "内夫谢希尔省",
+      "latitude": 38.6296,
+      "longitude": 34.912,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "埃尔马勒",
+      "name_en": "Elmalı",
+      "province": "安塔利亚省",
+      "latitude": 36.7358,
+      "longitude": 29.9178,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Mucur",
+      "province": "克尔谢希尔省",
+      "latitude": 39.0615,
+      "longitude": 34.3829,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Turgutreis",
+      "province": "穆拉省",
+      "latitude": 37.0167,
+      "longitude": 27.2667,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Lice",
+      "province": "迪亚巴克尔省",
+      "latitude": 38.4582,
+      "longitude": 40.6389,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Arhavi",
+      "province": "阿尔特温省",
+      "latitude": 41.3512,
+      "longitude": 41.3046,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Arsin",
+      "province": "特拉布宗省",
+      "latitude": 40.9527,
+      "longitude": 39.9267,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Sarigerme",
+      "province": "穆拉省",
+      "latitude": 36.7155,
+      "longitude": 28.7044,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Baskil",
+      "province": "埃拉泽省",
+      "latitude": 38.5687,
+      "longitude": 38.8163,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Senirkent",
+      "province": "厄斯帕尔塔省",
+      "latitude": 38.1044,
+      "longitude": 30.5486,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "İstinye",
+      "province": "伊斯坦布尔",
+      "latitude": 41.1101,
+      "longitude": 29.0509,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Osmaneli",
+      "province": "比莱吉克省",
+      "latitude": 40.3572,
+      "longitude": 30.0142,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Ezine",
+      "province": "恰纳卡莱省",
+      "latitude": 39.7856,
+      "longitude": 26.3408,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Çat",
+      "province": "埃尔祖鲁姆省",
+      "latitude": 39.6064,
+      "longitude": 40.9684,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Çağlayancerit",
+      "province": "卡赫拉曼马拉什省",
+      "latitude": 37.7452,
+      "longitude": 37.2862,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Aşkale",
+      "province": "埃尔祖鲁姆省",
+      "latitude": 39.9208,
+      "longitude": 40.695,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kestel",
+      "province": "安塔利亚省",
+      "latitude": 40.1983,
+      "longitude": 29.2124,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Solhan",
+      "province": "宾格尔省",
+      "latitude": 38.9652,
+      "longitude": 41.0544,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Hizan",
+      "province": "比特利斯省",
+      "latitude": 38.225,
+      "longitude": 42.4183,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kadınhanı",
+      "province": "科尼亚省",
+      "latitude": 38.2397,
+      "longitude": 32.2114,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Bigadiç",
+      "province": "巴勒克埃西尔省",
+      "latitude": 39.3925,
+      "longitude": 28.1311,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Yeşilova",
+      "province": "阿达纳省",
+      "latitude": 39.8101,
+      "longitude": 35.186,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Akhisar",
+      "province": "布尔萨省",
+      "latitude": 38.9185,
+      "longitude": 27.8401,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Foça",
+      "province": "伊兹密尔省",
+      "latitude": 38.6703,
+      "longitude": 26.7566,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Taşucu",
+      "province": "梅尔辛省",
+      "latitude": 36.3214,
+      "longitude": 33.8817,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kocaali",
+      "province": "萨卡里亚省",
+      "latitude": 41.0534,
+      "longitude": 30.8528,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Espiye",
+      "province": "吉雷松省",
+      "latitude": 40.947,
+      "longitude": 38.703,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Yeniköy",
+      "province": "伊斯坦布尔",
+      "latitude": 41.1217,
+      "longitude": 29.0699,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Pamukova",
+      "province": "萨卡里亚省",
+      "latitude": 40.5081,
+      "longitude": 30.1673,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Demirci",
+      "province": "布尔萨省",
+      "latitude": 39.0461,
+      "longitude": 28.6589,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "布尔丹",
+      "name_en": "Buldan",
+      "province": "代尼兹利省",
+      "latitude": 38.045,
+      "longitude": 28.8306,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Doğanşehir",
+      "province": "马拉蒂亚省",
+      "latitude": 38.0857,
+      "longitude": 37.8712,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Akçadağ",
+      "province": "马拉蒂亚省",
+      "latitude": 38.339,
+      "longitude": 37.9702,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Gümüşhacıköy",
+      "province": "阿马西亚省",
+      "latitude": 40.8731,
+      "longitude": 35.2147,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Çayıralan",
+      "province": "约兹加特省",
+      "latitude": 39.3028,
+      "longitude": 35.6439,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Şiran",
+      "province": "居米什哈内省",
+      "latitude": 40.1906,
+      "longitude": 39.1175,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Tonya",
+      "province": "特拉布宗省",
+      "latitude": 40.884,
+      "longitude": 39.2849,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Başkale",
+      "province": "凡省",
+      "latitude": 38.0453,
+      "longitude": 44.0172,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Demre",
+      "province": "安塔利亚省",
+      "latitude": 36.2444,
+      "longitude": 29.985,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Çaykara",
+      "province": "特拉布宗省",
+      "latitude": 40.7427,
+      "longitude": 40.2317,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Yeşilhisar",
+      "province": "开塞利省",
+      "latitude": 38.3523,
+      "longitude": 35.0887,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Gönen",
+      "province": "厄斯帕尔塔省",
+      "latitude": 40.1049,
+      "longitude": 27.654,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "迪基利",
+      "name_en": "Dikili",
+      "province": "伊兹密尔省",
+      "latitude": 39.071,
+      "longitude": 26.8902,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Yunak",
+      "province": "科尼亚省",
+      "latitude": 38.8142,
+      "longitude": 31.7322,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Çivril",
+      "province": "代尼兹利省",
+      "latitude": 38.3014,
+      "longitude": 29.7386,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Hekimhan",
+      "province": "马拉蒂亚省",
+      "latitude": 38.8162,
+      "longitude": 37.9288,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Şefaatlı",
+      "province": "约兹加特省",
+      "latitude": 39.5043,
+      "longitude": 34.7563,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Şuhut",
+      "province": "阿菲永卡拉希萨尔省",
+      "latitude": 38.5311,
+      "longitude": 30.5458,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kandıra",
+      "province": "科贾埃利省",
+      "latitude": 41.07,
+      "longitude": 30.1526,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Mavişehir",
+      "province": "伊兹密尔省",
+      "latitude": 38.4699,
+      "longitude": 27.0773,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Çengelköy",
+      "province": "伊斯坦布尔",
+      "latitude": 41.0506,
+      "longitude": 29.0551,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Altınoluk",
+      "province": "巴勒克埃西尔省",
+      "latitude": 39.5794,
+      "longitude": 26.7372,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Cihanbeyli",
+      "province": "科尼亚省",
+      "latitude": 38.6607,
+      "longitude": 32.9244,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Yeşilyurt",
+      "province": "马拉蒂亚省",
+      "latitude": 38.296,
+      "longitude": 38.2453,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Harran",
+      "province": "尚勒乌尔法省",
+      "latitude": 36.86,
+      "longitude": 39.0314,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Özdere",
+      "province": "伊兹密尔省",
+      "latitude": 38.0161,
+      "longitude": 27.1281,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Altunizade",
+      "province": "伊斯坦布尔",
+      "latitude": 41.0178,
+      "longitude": 29.0479,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Yıldızlı",
+      "province": "特拉布宗省",
+      "latitude": 41.0012,
+      "longitude": 39.6073,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Hanımçiftliği",
+      "province": "马拉蒂亚省",
+      "latitude": 38.3785,
+      "longitude": 38.3348,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "迪夫里伊",
+      "name_en": "Divriği",
+      "province": "锡瓦斯省",
+      "latitude": 39.371,
+      "longitude": 38.1137,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Mazıdağı",
+      "province": "马尔丁省",
+      "latitude": 37.478,
+      "longitude": 40.4815,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Eynesil",
+      "province": "吉雷松省",
+      "latitude": 41.0644,
+      "longitude": 39.1427,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Bahçe",
+      "province": "阿达纳省",
+      "latitude": 37.1972,
+      "longitude": 36.5766,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Altınekin",
+      "province": "科尼亚省",
+      "latitude": 38.3078,
+      "longitude": 32.8686,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Maçka",
+      "province": "特拉布宗省",
+      "latitude": 40.8107,
+      "longitude": 39.6046,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Dicle",
+      "province": "迪亚巴克尔省",
+      "latitude": 38.3657,
+      "longitude": 40.0645,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Çey",
+      "province": "哈卡里省",
+      "latitude": 37.2621,
+      "longitude": 44.0409,
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "name": "",
+      "name_en": "Ilgaz",
+      "province": "昌克勒省",
+      "latitude": 40.9251,
+      "longitude": 33.6259,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Çelikhan",
+      "province": "阿德亚曼省",
+      "latitude": 38.0256,
+      "longitude": 38.2366,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Saruhanlı",
+      "province": "马尼萨省",
+      "latitude": 38.7345,
+      "longitude": 27.5681,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kalecik",
+      "province": "安卡拉次分区",
+      "latitude": 40.0972,
+      "longitude": 33.4083,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Altpınar",
+      "province": "安卡拉次分区",
+      "latitude": 39.2042,
+      "longitude": 32.7478,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Ilıca",
+      "province": "埃尔祖鲁姆省",
+      "latitude": 39.9465,
+      "longitude": 41.0952,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "İspir",
+      "province": "埃尔祖鲁姆省",
+      "latitude": 40.4798,
+      "longitude": 40.9937,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Gölmarmara",
+      "province": "马尼萨省",
+      "latitude": 38.7139,
+      "longitude": 27.9142,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Avanos",
+      "province": "内夫谢希尔省",
+      "latitude": 38.715,
+      "longitude": 34.8467,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Avsallar",
+      "province": "安塔利亚省",
+      "latitude": 36.6245,
+      "longitude": 31.7694,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Nurdağı",
+      "province": "加济安泰普省",
+      "latitude": 37.1682,
+      "longitude": 36.7362,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Bünyan",
+      "province": "开塞利省",
+      "latitude": 38.8463,
+      "longitude": 35.8603,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Zara",
+      "province": "锡瓦斯省",
+      "latitude": 39.8978,
+      "longitude": 37.7583,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Sarıgöl",
+      "province": "马尼萨省",
+      "latitude": 38.2395,
+      "longitude": 28.6966,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Gölhisar",
+      "province": "布尔杜尔省",
+      "latitude": 37.1459,
+      "longitude": 29.5088,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Evka-Beş",
+      "province": "伊兹密尔省",
+      "latitude": 38.517,
+      "longitude": 27.053,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Gürün",
+      "province": "锡瓦斯省",
+      "latitude": 38.7223,
+      "longitude": 37.271,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Atabey",
+      "province": "厄斯帕尔塔省",
+      "latitude": 37.9508,
+      "longitude": 30.6386,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Uluborlu",
+      "province": "厄斯帕尔塔省",
+      "latitude": 38.0782,
+      "longitude": 30.4502,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Çamlıdere",
+      "province": "安卡拉次分区",
+      "latitude": 40.4896,
+      "longitude": 32.475,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Derinkuyu",
+      "province": "内夫谢希尔省",
+      "latitude": 38.3751,
+      "longitude": 34.7342,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Gülnar",
+      "province": "梅尔辛省",
+      "latitude": 36.3415,
+      "longitude": 33.3992,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Pınarbaşı",
+      "province": "开塞利省",
+      "latitude": 38.7229,
+      "longitude": 36.3931,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Acarlar",
+      "province": "艾登省",
+      "latitude": 37.8244,
+      "longitude": 27.7467,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Delice",
+      "province": "克勒克卡莱省",
+      "latitude": 39.9537,
+      "longitude": 34.0259,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Maslak",
+      "province": "伊斯坦布尔",
+      "latitude": 41.1083,
+      "longitude": 29.0183,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Varsak",
+      "province": "安塔利亚省",
+      "latitude": 36.9897,
+      "longitude": 30.7159,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Tercan",
+      "province": "埃尔津詹省",
+      "latitude": 39.7771,
+      "longitude": 40.3778,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Cide",
+      "province": "卡斯塔莫努省",
+      "latitude": 41.8921,
+      "longitude": 33.0044,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Sarıhamzalı",
+      "province": "阿达纳省",
+      "latitude": 36.9775,
+      "longitude": 35.2253,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kurşunlu",
+      "province": "昌克勒省",
+      "latitude": 40.841,
+      "longitude": 33.2603,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Umurlu",
+      "province": "艾登省",
+      "latitude": 37.85,
+      "longitude": 27.9627,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kumburgaz",
+      "province": "伊斯坦布尔",
+      "latitude": 41.03,
+      "longitude": 28.4539,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Göle",
+      "province": "阿尔达汉省",
+      "latitude": 40.7875,
+      "longitude": 42.606,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Haymana",
+      "province": "安卡拉次分区",
+      "latitude": 39.4321,
+      "longitude": 32.4973,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kangal",
+      "province": "锡瓦斯省",
+      "latitude": 39.2335,
+      "longitude": 37.3911,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Gevaş",
+      "province": "凡省",
+      "latitude": 38.2921,
+      "longitude": 43.1019,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Taşkent",
+      "province": "科尼亚省",
+      "latitude": 36.9243,
+      "longitude": 32.4913,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Boyalık",
+      "province": "伊斯坦布尔",
+      "latitude": 41.2634,
+      "longitude": 28.6314,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "İscehisar",
+      "province": "阿菲永卡拉希萨尔省",
+      "latitude": 38.8619,
+      "longitude": 30.7503,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Perşembe",
+      "province": "奥尔杜省",
+      "latitude": 41.0656,
+      "longitude": 37.7714,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Ayancık",
+      "province": "锡诺普省",
+      "latitude": 41.9447,
+      "longitude": 34.5861,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Tomarza",
+      "province": "开塞利省",
+      "latitude": 38.4472,
+      "longitude": 35.7992,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kiraz",
+      "province": "伊兹密尔省",
+      "latitude": 38.2306,
+      "longitude": 28.2044,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Tosmur",
+      "province": "安塔利亚省",
+      "latitude": 36.532,
+      "longitude": 32.0529,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Durağan",
+      "province": "锡诺普省",
+      "latitude": 41.4158,
+      "longitude": 35.0544,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Akseki",
+      "province": "安塔利亚省",
+      "latitude": 37.0486,
+      "longitude": 31.79,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Şile",
+      "province": "伊斯坦布尔",
+      "latitude": 41.1789,
+      "longitude": 29.6108,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "塔瓦斯",
+      "name_en": "Tavas",
+      "province": "代尼兹利省",
+      "latitude": 37.5735,
+      "longitude": 29.0706,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Oğuzeli",
+      "province": "加济安泰普省",
+      "latitude": 36.9657,
+      "longitude": 37.5134,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Hüyük",
+      "province": "科尼亚省",
+      "latitude": 37.9539,
+      "longitude": 31.5964,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Yenifakılı",
+      "province": "约兹加特省",
+      "latitude": 39.2114,
+      "longitude": 35.0004,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Sason",
+      "province": "巴特曼省",
+      "latitude": 38.3277,
+      "longitude": 41.4138,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Ahmetli",
+      "province": "马尼萨省",
+      "latitude": 38.5196,
+      "longitude": 27.9386,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Baykan",
+      "province": "锡尔特省",
+      "latitude": 38.1575,
+      "longitude": 41.7733,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Palu",
+      "province": "埃拉泽省",
+      "latitude": 38.6913,
+      "longitude": 39.9198,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Gerze",
+      "province": "锡诺普省",
+      "latitude": 41.8036,
+      "longitude": 35.2011,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Etiler",
+      "province": "伊斯坦布尔",
+      "latitude": 41.0843,
+      "longitude": 29.0359,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Yalıkavak",
+      "province": "穆拉省",
+      "latitude": 37.1053,
+      "longitude": 27.2972,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Germencik",
+      "province": "艾登省",
+      "latitude": 37.8706,
+      "longitude": 27.6028,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Pınarhisar",
+      "province": "克尔克拉雷利省",
+      "latitude": 41.6271,
+      "longitude": 27.5148,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Saraykent",
+      "province": "约兹加特省",
+      "latitude": 39.6936,
+      "longitude": 35.5111,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Gördes",
+      "province": "马尼萨省",
+      "latitude": 38.9328,
+      "longitude": 28.2894,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Karapınar",
+      "province": "阿德亚曼省",
+      "latitude": 37.716,
+      "longitude": 33.5506,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Araban",
+      "province": "加济安泰普省",
+      "latitude": 37.4267,
+      "longitude": 37.689,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Keçiborlu",
+      "province": "厄斯帕尔塔省",
+      "latitude": 37.9425,
+      "longitude": 30.3022,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Hani",
+      "province": "迪亚巴克尔省",
+      "latitude": 38.4074,
+      "longitude": 40.3858,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Havran",
+      "province": "巴勒克埃西尔省",
+      "latitude": 39.5583,
+      "longitude": 27.0983,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Bitez",
+      "province": "穆拉省",
+      "latitude": 37.0444,
+      "longitude": 27.3933,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Vize",
+      "province": "克尔克拉雷利省",
+      "latitude": 41.5763,
+      "longitude": 27.7673,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Eşme",
+      "province": "乌沙克省",
+      "latitude": 38.3998,
+      "longitude": 28.969,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Pınarbaşı",
+      "province": "梅尔辛省",
+      "latitude": 38.7229,
+      "longitude": 36.3931,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Bozkır",
+      "province": "科尼亚省",
+      "latitude": 37.1896,
+      "longitude": 32.2474,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Marmara Ereğlisi",
+      "province": "泰基尔达省",
+      "latitude": 40.9691,
+      "longitude": 27.955,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Acıpayam",
+      "province": "代尼兹利省",
+      "latitude": 37.4239,
+      "longitude": 29.3494,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Sındırgı",
+      "province": "巴勒克埃西尔省",
+      "latitude": 39.2413,
+      "longitude": 28.1784,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kınık",
+      "province": "伊兹密尔省",
+      "latitude": 39.0872,
+      "longitude": 27.3833,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "İkizce",
+      "province": "奥尔杜省",
+      "latitude": 41.0583,
+      "longitude": 37.0803,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Cumayeri",
+      "province": "Düzce",
+      "latitude": 40.8739,
+      "longitude": 30.9509,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Bahçelievler",
+      "province": "安卡拉次分区",
+      "latitude": 41.0023,
+      "longitude": 28.8598,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Çekerek",
+      "province": "约兹加特省",
+      "latitude": 40.0731,
+      "longitude": 35.4947,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Selimpaşa",
+      "province": "伊斯坦布尔",
+      "latitude": 41.0553,
+      "longitude": 28.3678,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Sivrihisar",
+      "province": "埃斯基谢希尔省",
+      "latitude": 39.4504,
+      "longitude": 31.5341,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Çamaş",
+      "province": "奥尔杜省",
+      "latitude": 40.902,
+      "longitude": 37.5279,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "波赞特",
+      "name_en": "Pozantı",
+      "province": "阿达纳省",
+      "latitude": 37.4278,
+      "longitude": 34.8717,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "西代",
+      "name_en": "Side",
+      "province": "安塔利亚省",
+      "latitude": 41.0289,
+      "longitude": 37.4998,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Aksu",
+      "province": "锡瓦斯省",
+      "latitude": 41.071,
+      "longitude": 30.7854,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Karacaören",
+      "province": "加济安泰普省",
+      "latitude": 37.4779,
+      "longitude": 37.6823,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Savaştepe",
+      "province": "巴勒克埃西尔省",
+      "latitude": 39.3832,
+      "longitude": 27.6561,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Yakakent",
+      "province": "伊兹密尔省",
+      "latitude": 38.5079,
+      "longitude": 27.0734,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Şalpazarı",
+      "province": "特拉布宗省",
+      "latitude": 40.9383,
+      "longitude": 39.1901,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Akbez",
+      "province": "哈塔伊省",
+      "latitude": 36.8555,
+      "longitude": 36.5179,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Akkuş",
+      "province": "奥尔杜省",
+      "latitude": 40.7931,
+      "longitude": 37.0164,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Sarayönü",
+      "province": "科尼亚省",
+      "latitude": 38.262,
+      "longitude": 32.4046,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Çifteler",
+      "province": "埃斯基谢希尔省",
+      "latitude": 39.3831,
+      "longitude": 31.0392,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Datça",
+      "province": "穆拉省",
+      "latitude": 36.7378,
+      "longitude": 27.6842,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Narman",
+      "province": "埃尔祖鲁姆省",
+      "latitude": 40.3445,
+      "longitude": 41.8609,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Lapseki",
+      "province": "恰纳卡莱省",
+      "latitude": 40.3442,
+      "longitude": 26.6856,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Keşap",
+      "province": "吉雷松省",
+      "latitude": 40.9103,
+      "longitude": 38.5013,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Arapgir",
+      "province": "马拉蒂亚省",
+      "latitude": 39.0412,
+      "longitude": 38.4952,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "棉花堡",
+      "name_en": "Pamukkale",
+      "province": "代尼兹利省",
+      "latitude": 37.9164,
+      "longitude": 29.1173,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Piraziz",
+      "province": "吉雷松省",
+      "latitude": 40.9224,
+      "longitude": 38.1246,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Borçka",
+      "province": "阿尔特温省",
+      "latitude": 41.3579,
+      "longitude": 41.6658,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "İnebolu",
+      "province": "卡斯塔莫努省",
+      "latitude": 41.9789,
+      "longitude": 33.7601,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Uskumruköy",
+      "province": "伊斯坦布尔",
+      "latitude": 41.2203,
+      "longitude": 29.0233,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Doğanhisar",
+      "province": "科尼亚省",
+      "latitude": 38.1463,
+      "longitude": 31.6765,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Eleşkirt",
+      "province": "阿勒省",
+      "latitude": 39.798,
+      "longitude": 42.6757,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Gülşehir",
+      "province": "内夫谢希尔省",
+      "latitude": 38.7459,
+      "longitude": 34.6252,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Hassa",
+      "province": "哈塔伊省",
+      "latitude": 36.7994,
+      "longitude": 36.5178,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Mihalgazi",
+      "province": "埃斯基谢希尔省",
+      "latitude": 40.0262,
+      "longitude": 30.5771,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Köşk",
+      "province": "艾登省",
+      "latitude": 37.8533,
+      "longitude": 28.0517,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kadriye",
+      "province": "安塔利亚省",
+      "latitude": 36.8865,
+      "longitude": 31.0061,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "İçmeler",
+      "province": "穆拉省",
+      "latitude": 36.7986,
+      "longitude": 28.2264,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Ladik",
+      "province": "萨姆松省",
+      "latitude": 40.9106,
+      "longitude": 35.8919,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Salacak",
+      "province": "伊斯坦布尔",
+      "latitude": 41.015,
+      "longitude": 29.0126,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Beşiri",
+      "province": "巴特曼省",
+      "latitude": 37.9157,
+      "longitude": 41.2865,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Davutlar",
+      "province": "艾登省",
+      "latitude": 37.7339,
+      "longitude": 27.2928,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Tortum",
+      "province": "埃尔祖鲁姆省",
+      "latitude": 40.2889,
+      "longitude": 41.541,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Çeltik",
+      "province": "科尼亚省",
+      "latitude": 39.0244,
+      "longitude": 31.7906,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "萨姆萨特",
+      "name_en": "Samsat",
+      "province": "阿德亚曼省",
+      "latitude": 37.5819,
+      "longitude": 38.4742,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kabala",
+      "province": "马尔丁省",
+      "latitude": 37.3505,
+      "longitude": 40.8029,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "菲尼凯",
+      "name_en": "Finike",
+      "province": "安塔利亚省",
+      "latitude": 36.295,
+      "longitude": 30.1406,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Karataş",
+      "province": "阿达纳省",
+      "latitude": 36.582,
+      "longitude": 35.3701,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Köseköy",
+      "province": "科贾埃利省",
+      "latitude": 40.7401,
+      "longitude": 30.0056,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "İhsaniye",
+      "province": "科贾埃利省",
+      "latitude": 40.6909,
+      "longitude": 29.8347,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Çıplaklı",
+      "province": "安塔利亚省",
+      "latitude": 36.5627,
+      "longitude": 32.0523,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kalkandere",
+      "province": "里泽省",
+      "latitude": 40.9205,
+      "longitude": 40.4369,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kabataş",
+      "province": "奥尔杜省",
+      "latitude": 40.75,
+      "longitude": 37.45,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Gökçebey",
+      "province": "宗古尔达克省",
+      "latitude": 41.3058,
+      "longitude": 32.1423,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kavak",
+      "province": "萨姆松省",
+      "latitude": 41.0783,
+      "longitude": 36.0425,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Şenköy",
+      "province": "马尔丁省",
+      "latitude": 37.4644,
+      "longitude": 41.1906,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Orhaneli",
+      "province": "布尔萨省",
+      "latitude": 39.9033,
+      "longitude": 28.9906,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "İbradı",
+      "province": "安塔利亚省",
+      "latitude": 37.0969,
+      "longitude": 31.5992,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Çukurca",
+      "province": "哈卡里省",
+      "latitude": 37.2481,
+      "longitude": 43.6136,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Aşağı Hisar",
+      "province": "安塔利亚省",
+      "latitude": 36.7824,
+      "longitude": 31.448,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Ayazlı",
+      "province": "奥尔杜省",
+      "latitude": 41.027,
+      "longitude": 37.4789,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Uludere",
+      "province": "舍尔纳克省",
+      "latitude": 37.4407,
+      "longitude": 42.8524,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kullar",
+      "province": "科贾埃利省",
+      "latitude": 40.7242,
+      "longitude": 29.9894,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Karlıova",
+      "province": "宾格尔省",
+      "latitude": 39.2904,
+      "longitude": 41.0059,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Ağva",
+      "province": "伊斯坦布尔",
+      "latitude": 41.1381,
+      "longitude": 29.8567,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Selendi",
+      "province": "马尼萨省",
+      "latitude": 38.7444,
+      "longitude": 28.8678,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Köse",
+      "province": "居米什哈内省",
+      "latitude": 40.7401,
+      "longitude": 30.0056,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Sarıyahşi",
+      "province": "阿克萨赖省",
+      "latitude": 38.9835,
+      "longitude": 33.8414,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Andırın",
+      "province": "卡赫拉曼马拉什省",
+      "latitude": 37.5776,
+      "longitude": 36.3549,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Savur",
+      "province": "马尔丁省",
+      "latitude": 37.5354,
+      "longitude": 40.8788,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Bahçecik",
+      "province": "科贾埃利省",
+      "latitude": 40.6681,
+      "longitude": 29.9148,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Ulubey",
+      "province": "奥尔杜省",
+      "latitude": 40.8686,
+      "longitude": 37.754,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Nurhak",
+      "province": "卡赫拉曼马拉什省",
+      "latitude": 37.9637,
+      "longitude": 37.4405,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Koçarlı",
+      "province": "艾登省",
+      "latitude": 37.7611,
+      "longitude": 27.7058,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Gercüş",
+      "province": "巴特曼省",
+      "latitude": 37.5625,
+      "longitude": 41.3775,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Büyükdere",
+      "province": "伊斯坦布尔",
+      "latitude": 41.1605,
+      "longitude": 29.0415,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kızılcaşar",
+      "province": "安卡拉次分区",
+      "latitude": 39.8226,
+      "longitude": 32.7329,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Toprakkale",
+      "province": "奥斯曼尼耶省",
+      "latitude": 39.798,
+      "longitude": 42.6757,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Ayaş",
+      "province": "安卡拉次分区",
+      "latitude": 40.0193,
+      "longitude": 32.3322,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Çavuşlu",
+      "province": "马尔丁省",
+      "latitude": 37.5002,
+      "longitude": 41.2511,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Aksaray",
+      "province": "伊斯坦布尔",
+      "latitude": 38.3725,
+      "longitude": 34.0254,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kuluncak",
+      "province": "马拉蒂亚省",
+      "latitude": 38.8766,
+      "longitude": 37.6628,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Dereli",
+      "province": "吉雷松省",
+      "latitude": 40.7389,
+      "longitude": 38.4434,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Karakeçili",
+      "province": "克勒克卡莱省",
+      "latitude": 39.5942,
+      "longitude": 33.3778,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Emirgazi",
+      "province": "科尼亚省",
+      "latitude": 37.9022,
+      "longitude": 33.8372,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Başmakçı",
+      "province": "阿菲永卡拉希萨尔省",
+      "latitude": 37.8972,
+      "longitude": 30.0117,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "阿伊登哲克",
+      "name_en": "Aydıncık",
+      "province": "梅尔辛省",
+      "latitude": 36.1437,
+      "longitude": 33.3202,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Hayrat",
+      "province": "特拉布宗省",
+      "latitude": 40.8853,
+      "longitude": 40.365,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Bozdoğan",
+      "province": "艾登省",
+      "latitude": 37.6713,
+      "longitude": 28.3139,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Sarıçam",
+      "province": "阿达纳省",
+      "latitude": 37.1517,
+      "longitude": 35.5077,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Turunçova",
+      "province": "安塔利亚省",
+      "latitude": 36.3689,
+      "longitude": 30.1375,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Şirintepe",
+      "province": "伊兹密尔省",
+      "latitude": 38.496,
+      "longitude": 27.0668,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Beytüşşebap",
+      "province": "舍尔纳克省",
+      "latitude": 37.5632,
+      "longitude": 43.1658,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Yayladağı",
+      "province": "哈塔伊省",
+      "latitude": 35.9025,
+      "longitude": 36.0627,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Gözyeri",
+      "province": "卡拉比克省",
+      "latitude": 40.866,
+      "longitude": 32.5417,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Türkeli",
+      "province": "锡诺普省",
+      "latitude": 41.9476,
+      "longitude": 34.3386,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Tekman",
+      "province": "埃尔祖鲁姆省",
+      "latitude": 39.6411,
+      "longitude": 41.5054,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Özalp",
+      "province": "凡省",
+      "latitude": 38.6546,
+      "longitude": 43.9887,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Atakent",
+      "province": "梅尔辛省",
+      "latitude": 36.4007,
+      "longitude": 34.0579,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Yavuzeli",
+      "province": "加济安泰普省",
+      "latitude": 37.3177,
+      "longitude": 37.5682,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Çayırhan",
+      "province": "安卡拉次分区",
+      "latitude": 40.0981,
+      "longitude": 31.6732,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Şavşat",
+      "province": "阿尔特温省",
+      "latitude": 41.2534,
+      "longitude": 42.3553,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Egekent",
+      "province": "伊兹密尔省",
+      "latitude": 38.505,
+      "longitude": 27.064,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Hozat",
+      "province": "通杰利省",
+      "latitude": 39.1003,
+      "longitude": 39.2082,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Düzköy",
+      "province": "特拉布宗省",
+      "latitude": 40.8746,
+      "longitude": 39.4154,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Korkut",
+      "province": "穆什省",
+      "latitude": 38.7339,
+      "longitude": 41.784,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "İpsala",
+      "province": "埃迪尔内省",
+      "latitude": 40.9211,
+      "longitude": 26.3827,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Söğütlü",
+      "province": "萨卡里亚省",
+      "latitude": 40.9059,
+      "longitude": 30.4745,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Güzelçamlı",
+      "province": "艾登省",
+      "latitude": 37.7133,
+      "longitude": 27.2278,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Honaz",
+      "province": "代尼兹利省",
+      "latitude": 37.7573,
+      "longitude": 29.27,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Aydıntepe",
+      "province": "巴伊布尔特省",
+      "latitude": 40.3832,
+      "longitude": 40.1427,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Derbent",
+      "province": "科尼亚省",
+      "latitude": 38.0142,
+      "longitude": 32.0164,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Velimeşe",
+      "province": "泰基尔达省",
+      "latitude": 41.2536,
+      "longitude": 27.8783,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Inonu",
+      "province": "伊兹密尔省",
+      "latitude": 38.7223,
+      "longitude": 37.271,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Eruh",
+      "province": "锡尔特省",
+      "latitude": 37.7418,
+      "longitude": 42.1742,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Göynük",
+      "province": "安塔利亚省",
+      "latitude": 36.66,
+      "longitude": 30.55,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Gökçeada",
+      "province": "恰纳卡莱省",
+      "latitude": 40.2011,
+      "longitude": 25.909,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Konuklu",
+      "province": "尚勒乌尔法省",
+      "latitude": 37.1263,
+      "longitude": 38.8486,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "卡什",
+      "name_en": "Kaş",
+      "province": "安塔利亚省",
+      "latitude": 36.2018,
+      "longitude": 29.6377,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kindirip",
+      "province": "马尔丁省",
+      "latitude": 37.4471,
+      "longitude": 41.2198,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Celâliye",
+      "province": "伊斯坦布尔",
+      "latitude": 41.0515,
+      "longitude": 28.4196,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Buharkent",
+      "province": "艾登省",
+      "latitude": 37.964,
+      "longitude": 28.7427,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Şabanözü",
+      "province": "昌克勒省",
+      "latitude": 40.4825,
+      "longitude": 33.2835,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Aktoprak",
+      "province": "加济安泰普省",
+      "latitude": 37.1862,
+      "longitude": 37.2858,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Korgun",
+      "province": "昌克勒省",
+      "latitude": 40.7348,
+      "longitude": 33.5184,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Çınarcık",
+      "province": "亚洛瓦省",
+      "latitude": 40.6454,
+      "longitude": 29.1245,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Atça",
+      "province": "艾登省",
+      "latitude": 37.8886,
+      "longitude": 28.2153,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Tut",
+      "province": "阿德亚曼省",
+      "latitude": 37.7953,
+      "longitude": 37.9161,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Şenoba",
+      "province": "舍尔纳克省",
+      "latitude": 37.4629,
+      "longitude": 42.7228,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Acırlı",
+      "province": "马尔丁省",
+      "latitude": 37.4562,
+      "longitude": 41.2951,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Sultandağı",
+      "province": "阿菲永卡拉希萨尔省",
+      "latitude": 38.5311,
+      "longitude": 31.2281,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Havsa",
+      "province": "埃迪尔内省",
+      "latitude": 41.549,
+      "longitude": 26.8221,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Sarıveliler",
+      "province": "卡拉曼省",
+      "latitude": 36.6976,
+      "longitude": 32.6167,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Ortaköy",
+      "province": "马尔丁省",
+      "latitude": 38.7373,
+      "longitude": 34.0387,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Edremit",
+      "province": "凡省",
+      "latitude": 39.5961,
+      "longitude": 27.0244,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Savulca",
+      "province": "艾登省",
+      "latitude": 37.738,
+      "longitude": 27.3989,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Başçiftlik",
+      "province": "托卡特省",
+      "latitude": 40.5469,
+      "longitude": 37.1692,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Gölpazarı",
+      "province": "比莱吉克省",
+      "latitude": 40.2847,
+      "longitude": 30.3172,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Uğurludağ",
+      "province": "乔鲁姆省",
+      "latitude": 40.4463,
+      "longitude": 34.4526,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Sivaslı",
+      "province": "乌沙克省",
+      "latitude": 38.4994,
+      "longitude": 29.6836,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Karayazı",
+      "province": "埃尔祖鲁姆省",
+      "latitude": 39.696,
+      "longitude": 42.1428,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Yuvacık",
+      "province": "科贾埃利省",
+      "latitude": 40.6882,
+      "longitude": 29.9674,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Adalar",
+      "province": "伊斯坦布尔",
+      "latitude": 40.8678,
+      "longitude": 29.1331,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Dilek",
+      "province": "马拉蒂亚省",
+      "latitude": 38.4422,
+      "longitude": 38.2508,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Arpaçbahşiş",
+      "province": "梅尔辛省",
+      "latitude": 36.6455,
+      "longitude": 34.3508,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Gelendost",
+      "province": "厄斯帕尔塔省",
+      "latitude": 38.1208,
+      "longitude": 31.0153,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kale",
+      "province": "代尼兹利省",
+      "latitude": 39.1465,
+      "longitude": 42.5354,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Işıklar",
+      "province": "阿菲永卡拉希萨尔省",
+      "latitude": 38.671,
+      "longitude": 30.741,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Türkler",
+      "province": "安塔利亚省",
+      "latitude": 36.602,
+      "longitude": 31.8207,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Başverimli",
+      "province": "舍尔纳克省",
+      "latitude": 37.2033,
+      "longitude": 42.5376,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Ömerli",
+      "province": "马尔丁省",
+      "latitude": 37.399,
+      "longitude": 40.9544,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "İmranlı",
+      "province": "锡瓦斯省",
+      "latitude": 39.8754,
+      "longitude": 38.1136,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Çolaklı",
+      "province": "安塔利亚省",
+      "latitude": 36.8374,
+      "longitude": 31.3184,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Mavikent",
+      "province": "安塔利亚省",
+      "latitude": 36.3167,
+      "longitude": 30.35,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kuyucak",
+      "province": "艾登省",
+      "latitude": 37.9133,
+      "longitude": 28.4592,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "狼丘",
+      "name_en": "Kurttepe",
+      "province": "阿达纳省",
+      "latitude": 37.0547,
+      "longitude": 35.2757,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Demirköprü",
+      "province": "伊兹密尔省",
+      "latitude": 38.468,
+      "longitude": 27.0987,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Dernekpazarı",
+      "province": "特拉布宗省",
+      "latitude": 40.7966,
+      "longitude": 40.2446,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Ayvacık",
+      "province": "恰纳卡莱省",
+      "latitude": 39.6011,
+      "longitude": 26.4047,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Atayurt",
+      "province": "梅尔辛省",
+      "latitude": 36.3836,
+      "longitude": 34.0223,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Hacıbektaş",
+      "province": "内夫谢希尔省",
+      "latitude": 38.9408,
+      "longitude": 34.5577,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Yeşilyurt",
+      "province": "托卡特省",
+      "latitude": 38.296,
+      "longitude": 38.2453,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Yeniçağa",
+      "province": "博卢省",
+      "latitude": 40.7711,
+      "longitude": 32.0337,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Yusufeli",
+      "province": "阿尔特温省",
+      "latitude": 40.8204,
+      "longitude": 41.5374,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "佩尔泰克",
+      "name_en": "Pertek",
+      "province": "通杰利省",
+      "latitude": 38.8657,
+      "longitude": 39.3227,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Cumhuriyet",
+      "province": "伊兹密尔省",
+      "latitude": 38.4793,
+      "longitude": 27.0988,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Narlı",
+      "province": "卡赫拉曼马拉什省",
+      "latitude": 37.3915,
+      "longitude": 37.1361,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Pınarkent",
+      "province": "代尼兹利省",
+      "latitude": 37.7973,
+      "longitude": 29.222,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Yeşilova",
+      "province": "布尔杜尔省",
+      "latitude": 39.8101,
+      "longitude": 35.186,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Aydıncık",
+      "province": "约兹加特省",
+      "latitude": 36.1437,
+      "longitude": 33.3202,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Baklan",
+      "province": "代尼兹利省",
+      "latitude": 37.9769,
+      "longitude": 29.6086,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Acıgöl",
+      "province": "内夫谢希尔省",
+      "latitude": 38.5503,
+      "longitude": 34.5092,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Pazaryeri",
+      "province": "比莱吉克省",
+      "latitude": 39.9939,
+      "longitude": 29.9042,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Demirtaş",
+      "province": "布尔萨省",
+      "latitude": 40.2719,
+      "longitude": 29.0983,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Çayyolu",
+      "province": "安卡拉次分区",
+      "latitude": 39.8808,
+      "longitude": 32.7095,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Karaisalı",
+      "province": "阿达纳省",
+      "latitude": 37.2567,
+      "longitude": 35.0589,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Salat",
+      "province": "迪亚巴克尔省",
+      "latitude": 37.8417,
+      "longitude": 40.8865,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Devrekani",
+      "province": "卡斯塔莫努省",
+      "latitude": 41.603,
+      "longitude": 33.8392,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Sulakyurt",
+      "province": "克勒克卡莱省",
+      "latitude": 40.1573,
+      "longitude": 33.716,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Mesudiye",
+      "province": "奥尔杜省",
+      "latitude": 40.4545,
+      "longitude": 37.7735,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Alifakı",
+      "province": "梅尔辛省",
+      "latitude": 36.8831,
+      "longitude": 34.995,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Yenipazar",
+      "province": "艾登省",
+      "latitude": 37.8233,
+      "longitude": 28.1957,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kocaköy",
+      "province": "迪亚巴克尔省",
+      "latitude": 38.2889,
+      "longitude": 40.4979,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Gelinkaya",
+      "province": "马尔丁省",
+      "latitude": 37.4173,
+      "longitude": 41.2695,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Dazkırı",
+      "province": "阿菲永卡拉希萨尔省",
+      "latitude": 37.9186,
+      "longitude": 29.8606,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Yıldızeli",
+      "province": "锡瓦斯省",
+      "latitude": 39.8664,
+      "longitude": 36.5989,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Ovacık",
+      "province": "通杰利省",
+      "latitude": 39.3526,
+      "longitude": 39.2089,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Sutaşı",
+      "province": "哈塔伊省",
+      "latitude": 36.0821,
+      "longitude": 36.0063,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Malazgirt",
+      "province": "阿德亚曼省",
+      "latitude": 39.1465,
+      "longitude": 42.5354,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Guzeltepe",
+      "province": "伊兹密尔省",
+      "latitude": 38.5033,
+      "longitude": 27.0728,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Eldivan",
+      "province": "昌克勒省",
+      "latitude": 40.5297,
+      "longitude": 33.499,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Yapraklı",
+      "province": "昌克勒省",
+      "latitude": 40.7578,
+      "longitude": 33.7782,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Pazarlar",
+      "province": "屈塔希亚省",
+      "latitude": 38.995,
+      "longitude": 29.1258,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Ahmet Taner Kışlalı",
+      "province": "伊兹密尔省",
+      "latitude": 38.4977,
+      "longitude": 27.0838,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "格雷梅",
+      "name_en": "Göreme",
+      "province": "内夫谢希尔省",
+      "latitude": 38.6428,
+      "longitude": 34.8289,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Atakent",
+      "province": "伊兹密尔省",
+      "latitude": 36.4007,
+      "longitude": 34.0579,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Doğanyol",
+      "province": "马拉蒂亚省",
+      "latitude": 38.3075,
+      "longitude": 39.0343,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Hasanbeyli",
+      "province": "奥斯曼尼耶省",
+      "latitude": 37.1284,
+      "longitude": 36.5461,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Almus",
+      "province": "托卡特省",
+      "latitude": 40.3758,
+      "longitude": 36.9044,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Ekinözü",
+      "province": "卡赫拉曼马拉什省",
+      "latitude": 38.0597,
+      "longitude": 37.1879,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "İzkent",
+      "province": "伊兹密尔省",
+      "latitude": 38.512,
+      "longitude": 27.065,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Hazro",
+      "province": "迪亚巴克尔省",
+      "latitude": 38.249,
+      "longitude": 40.7713,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Mudurnu",
+      "province": "博卢省",
+      "latitude": 40.473,
+      "longitude": 31.2076,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Sultanhisar",
+      "province": "艾登省",
+      "latitude": 37.8899,
+      "longitude": 28.1544,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Artova",
+      "province": "托卡特省",
+      "latitude": 40.1158,
+      "longitude": 36.3001,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Esentepe",
+      "province": "伊兹密尔省",
+      "latitude": 38.5121,
+      "longitude": 27.0624,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Karacasu",
+      "province": "艾登省",
+      "latitude": 37.7282,
+      "longitude": 28.6057,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Yalıntaş",
+      "province": "布尔萨省",
+      "latitude": 40.0184,
+      "longitude": 28.3985,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kavaklıdere",
+      "province": "安卡拉次分区",
+      "latitude": 39.9115,
+      "longitude": 32.858,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kaynarca",
+      "province": "萨卡里亚省",
+      "latitude": 41.0308,
+      "longitude": 30.3075,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Uğur Mumcu",
+      "province": "伊兹密尔省",
+      "latitude": 38.527,
+      "longitude": 27.0446,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Marmaracık",
+      "province": "泰基尔达省",
+      "latitude": 41.2067,
+      "longitude": 27.7544,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Amasra",
+      "province": "巴尔滕省",
+      "latitude": 41.7463,
+      "longitude": 32.3863,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Çağdaş",
+      "province": "伊兹密尔省",
+      "latitude": 38.5053,
+      "longitude": 27.0623,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "İvrindi",
+      "province": "巴勒克埃西尔省",
+      "latitude": 39.5839,
+      "longitude": 27.4864,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Yalıhüyük",
+      "province": "科尼亚省",
+      "latitude": 37.3008,
+      "longitude": 32.0855,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Orta",
+      "province": "昌克勒省",
+      "latitude": 40.6242,
+      "longitude": 33.1093,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Çamyuva",
+      "province": "安塔利亚省",
+      "latitude": 36.5536,
+      "longitude": 30.5596,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Bozkurt",
+      "province": "卡斯塔莫努省",
+      "latitude": 41.9577,
+      "longitude": 34.0109,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Tuzlukçu",
+      "province": "科尼亚省",
+      "latitude": 38.4778,
+      "longitude": 31.6264,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Karakise",
+      "province": "哈塔伊省",
+      "latitude": 36.85,
+      "longitude": 36.2167,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kemerağzı",
+      "province": "安塔利亚省",
+      "latitude": 37.1065,
+      "longitude": 30.3986,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kargıcak",
+      "province": "安塔利亚省",
+      "latitude": 36.4782,
+      "longitude": 32.1093,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Alpu",
+      "province": "埃斯基谢希尔省",
+      "latitude": 39.769,
+      "longitude": 30.9606,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Güneysu",
+      "province": "里泽省",
+      "latitude": 40.9813,
+      "longitude": 40.6046,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Pervari",
+      "province": "锡尔特省",
+      "latitude": 37.9357,
+      "longitude": 42.5493,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Düğrek",
+      "province": "穆拉省",
+      "latitude": 37.2062,
+      "longitude": 28.4097,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Sinanpaşa",
+      "province": "阿菲永卡拉希萨尔省",
+      "latitude": 38.7444,
+      "longitude": 30.2428,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Güdül",
+      "province": "安卡拉次分区",
+      "latitude": 40.2105,
+      "longitude": 32.2455,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Çeşmeli",
+      "province": "梅尔辛省",
+      "latitude": 36.686,
+      "longitude": 34.4219,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Uzungeçit",
+      "province": "舍尔纳克省",
+      "latitude": 37.4943,
+      "longitude": 42.993,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Pazaryolu",
+      "province": "埃尔祖鲁姆省",
+      "latitude": 40.4114,
+      "longitude": 40.7678,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Keban",
+      "province": "埃拉泽省",
+      "latitude": 38.7938,
+      "longitude": 38.7352,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Ağaçören",
+      "province": "阿克萨赖省",
+      "latitude": 38.8748,
+      "longitude": 33.9167,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Mahmutlar",
+      "province": "哈塔伊省",
+      "latitude": 36.4946,
+      "longitude": 32.0909,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Gündoğmuş",
+      "province": "安塔利亚省",
+      "latitude": 36.8134,
+      "longitude": 31.9997,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Çeştepe",
+      "province": "艾登省",
+      "latitude": 37.8252,
+      "longitude": 27.8517,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "İhsaniye",
+      "province": "阿菲永卡拉希萨尔省",
+      "latitude": 40.6909,
+      "longitude": 29.8347,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Hasyurt",
+      "province": "安塔利亚省",
+      "latitude": 36.3242,
+      "longitude": 30.2229,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Çiftlikköy",
+      "province": "亚洛瓦省",
+      "latitude": 40.6603,
+      "longitude": 29.3236,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kocahasanlı",
+      "province": "梅尔辛省",
+      "latitude": 36.5842,
+      "longitude": 34.2736,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Ayvacık",
+      "province": "萨姆松省",
+      "latitude": 39.6011,
+      "longitude": 26.4047,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Bağarası",
+      "province": "艾登省",
+      "latitude": 37.7071,
+      "longitude": 27.5487,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kadışehri",
+      "province": "约兹加特省",
+      "latitude": 39.9957,
+      "longitude": 35.7919,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Felahiye",
+      "province": "开塞利省",
+      "latitude": 39.0906,
+      "longitude": 35.5672,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Başyayla",
+      "province": "卡拉曼省",
+      "latitude": 36.7534,
+      "longitude": 32.6802,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Altınyayla",
+      "province": "锡瓦斯省",
+      "latitude": 39.2725,
+      "longitude": 36.751,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kastal",
+      "province": "哈塔伊省",
+      "latitude": 36.2476,
+      "longitude": 36.2409,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Bayat",
+      "province": "乔鲁姆省",
+      "latitude": 40.6458,
+      "longitude": 34.2614,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kayabağlar",
+      "province": "锡尔特省",
+      "latitude": 37.986,
+      "longitude": 41.6676,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Göynük",
+      "province": "博卢省",
+      "latitude": 36.66,
+      "longitude": 30.55,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Araç",
+      "province": "卡斯塔莫努省",
+      "latitude": 41.2422,
+      "longitude": 33.3277,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Refahiye",
+      "province": "埃尔津詹省",
+      "latitude": 39.8931,
+      "longitude": 38.7661,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "İncek",
+      "province": "安卡拉次分区",
+      "latitude": 39.807,
+      "longitude": 32.6982,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Uzundere",
+      "province": "埃尔祖鲁姆省",
+      "latitude": 40.5322,
+      "longitude": 41.5383,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "İnönü",
+      "province": "卡拉曼省",
+      "latitude": 38.7223,
+      "longitude": 37.271,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Gürbüz",
+      "province": "迪亚巴克尔省",
+      "latitude": 38.3791,
+      "longitude": 40.3625,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kepsut",
+      "province": "巴勒克埃西尔省",
+      "latitude": 39.6889,
+      "longitude": 28.1522,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Sincik",
+      "province": "阿德亚曼省",
+      "latitude": 38.0365,
+      "longitude": 38.6126,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Ulus",
+      "province": "巴尔滕省",
+      "latitude": 41.5842,
+      "longitude": 32.6414,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Altınkum",
+      "province": "艾登省",
+      "latitude": 37.3576,
+      "longitude": 27.2879,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Mutki",
+      "province": "比特利斯省",
+      "latitude": 38.4062,
+      "longitude": 41.9202,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Şirvan",
+      "province": "锡尔特省",
+      "latitude": 38.0625,
+      "longitude": 42.0252,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Mecitözü",
+      "province": "乔鲁姆省",
+      "latitude": 40.52,
+      "longitude": 35.2953,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Koyulhisar",
+      "province": "锡瓦斯省",
+      "latitude": 40.3018,
+      "longitude": 37.8234,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Sivrice",
+      "province": "埃拉泽省",
+      "latitude": 38.4422,
+      "longitude": 39.3094,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Taşlıçay",
+      "province": "阿勒省",
+      "latitude": 39.6297,
+      "longitude": 43.3688,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Nikfer",
+      "province": "代尼兹利省",
+      "latitude": 37.4054,
+      "longitude": 29.1373,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Çanta",
+      "province": "伊斯坦布尔",
+      "latitude": 41.079,
+      "longitude": 28.0832,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Bebek",
+      "province": "伊斯坦布尔",
+      "latitude": 41.0782,
+      "longitude": 29.0431,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Akarsu",
+      "province": "马尔丁省",
+      "latitude": 37.2262,
+      "longitude": 41.0514,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Payallar",
+      "province": "安塔利亚省",
+      "latitude": 36.6016,
+      "longitude": 31.8506,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Saimbeyli",
+      "province": "阿达纳省",
+      "latitude": 37.9863,
+      "longitude": 36.0906,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Yolbaşı",
+      "province": "马尔丁省",
+      "latitude": 37.3874,
+      "longitude": 41.3166,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Sarıoğlan",
+      "province": "开塞利省",
+      "latitude": 39.0769,
+      "longitude": 35.9667,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Yıldız",
+      "province": "伊斯坦布尔",
+      "latitude": 41.05,
+      "longitude": 29.0164,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Konacık",
+      "province": "穆拉省",
+      "latitude": 37.0449,
+      "longitude": 27.4099,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Manyas",
+      "province": "巴勒克埃西尔省",
+      "latitude": 40.0464,
+      "longitude": 27.97,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Ardanuç",
+      "province": "阿尔特温省",
+      "latitude": 41.1195,
+      "longitude": 42.0688,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Köprübaşı",
+      "province": "特拉布宗省",
+      "latitude": 40.8069,
+      "longitude": 40.1144,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Tefenni",
+      "province": "布尔杜尔省",
+      "latitude": 37.3097,
+      "longitude": 29.7754,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Ula",
+      "province": "穆拉省",
+      "latitude": 37.1049,
+      "longitude": 28.4167,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "İyidere",
+      "province": "里泽省",
+      "latitude": 41.0119,
+      "longitude": 40.3618,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "水地古",
+      "name_en": "Şambayadı",
+      "province": "阿达纳省",
+      "latitude": 37.0421,
+      "longitude": 35.1994,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kayapınar",
+      "province": "巴特曼省",
+      "latitude": 37.5576,
+      "longitude": 41.1623,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Daday",
+      "province": "卡斯塔莫努省",
+      "latitude": 41.4787,
+      "longitude": 33.4667,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Yenişarbademli",
+      "province": "厄斯帕尔塔省",
+      "latitude": 37.7078,
+      "longitude": 31.3864,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Karslı",
+      "province": "阿达纳省",
+      "latitude": 37.059,
+      "longitude": 35.299,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Arıcak",
+      "province": "埃拉泽省",
+      "latitude": 38.5634,
+      "longitude": 40.1248,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Beylerbeyi",
+      "province": "伊斯坦布尔",
+      "latitude": 41.0439,
+      "longitude": 29.0464,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kale",
+      "province": "马拉蒂亚省",
+      "latitude": 39.1465,
+      "longitude": 42.5354,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Tufanbeyli",
+      "province": "阿达纳省",
+      "latitude": 38.2633,
+      "longitude": 36.2206,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Yazıhan",
+      "province": "马拉蒂亚省",
+      "latitude": 38.5929,
+      "longitude": 38.1733,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Dursunlu",
+      "province": "哈塔伊省",
+      "latitude": 36.1674,
+      "longitude": 36.1579,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Beylikova",
+      "province": "埃斯基谢希尔省",
+      "latitude": 39.6869,
+      "longitude": 31.2056,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Doğankent",
+      "province": "阿达纳省",
+      "latitude": 36.8443,
+      "longitude": 35.344,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Arpaçay",
+      "province": "卡尔斯省",
+      "latitude": 40.8452,
+      "longitude": 43.3275,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Avsuyu",
+      "province": "哈塔伊省",
+      "latitude": 36.1936,
+      "longitude": 36.3135,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Hanak",
+      "province": "阿尔达汉省",
+      "latitude": 41.2334,
+      "longitude": 42.8404,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Eceabat",
+      "province": "恰纳卡莱省",
+      "latitude": 40.1842,
+      "longitude": 26.3574,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Pazar",
+      "province": "托卡特省",
+      "latitude": 40.2765,
+      "longitude": 36.2835,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Çüngüş",
+      "province": "迪亚巴克尔省",
+      "latitude": 38.208,
+      "longitude": 39.2855,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Ulubey",
+      "province": "乌沙克省",
+      "latitude": 40.8686,
+      "longitude": 37.754,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Atkaracalar",
+      "province": "昌克勒省",
+      "latitude": 40.8159,
+      "longitude": 33.0756,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Yakakent",
+      "province": "萨姆松省",
+      "latitude": 38.5079,
+      "longitude": 27.0734,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Şaphane",
+      "province": "屈塔希亚省",
+      "latitude": 39.0273,
+      "longitude": 29.2222,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Karakoyunlu",
+      "province": "厄德尔省",
+      "latitude": 39.8704,
+      "longitude": 43.6301,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Ambar",
+      "province": "迪亚巴克尔省",
+      "latitude": 37.8531,
+      "longitude": 40.528,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Ömerli",
+      "province": "巴勒克埃西尔省",
+      "latitude": 37.399,
+      "longitude": 40.9544,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Derebucak",
+      "province": "科尼亚省",
+      "latitude": 37.3918,
+      "longitude": 31.5092,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Domaniç",
+      "province": "屈塔希亚省",
+      "latitude": 39.8019,
+      "longitude": 29.6092,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Kumçatı",
+      "province": "舍尔纳克省",
+      "latitude": 37.4733,
+      "longitude": 42.3163,
+      "timezone": "Europe/Istanbul"
+    },
+    {
+      "name": "",
+      "name_en": "Altınsu",
+      "province": "哈卡里省",
+      "latitude": 37.3217,
+      "longitude": 44.5521,
+      "timezone": "Europe/Istanbul"
+    }
+  ]
+}

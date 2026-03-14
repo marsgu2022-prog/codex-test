@@ -1,0 +1,2950 @@
+{
+  "country_code": "HU",
+  "country_name": "匈牙利",
+  "cities": [
+    {
+      "name": "布达佩斯",
+      "name_en": "Budapest",
+      "province": "Budapest",
+      "latitude": 47.4984,
+      "longitude": 19.0404,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "德布勒森",
+      "name_en": "Debrecen",
+      "province": "豪伊杜-比豪尔州",
+      "latitude": 47.5317,
+      "longitude": 21.6244,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Szeged",
+      "province": "Csongrád",
+      "latitude": 46.253,
+      "longitude": 20.1482,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "米什科尔茨",
+      "name_en": "Miskolc",
+      "province": "包尔绍德-奥包乌伊-曾普伦州",
+      "latitude": 48.1033,
+      "longitude": 20.7781,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "佩奇",
+      "name_en": "Pécs",
+      "province": "Baranya",
+      "latitude": 46.0762,
+      "longitude": 18.2281,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Budapest XI. kerület",
+      "province": "Budapest",
+      "latitude": 47.476,
+      "longitude": 19.036,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "布达佩斯第十四区",
+      "name_en": "Zugló",
+      "province": "Budapest",
+      "latitude": 47.5176,
+      "longitude": 19.1055,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "杰尔",
+      "name_en": "Győr",
+      "province": "杰尔-莫雄-肖普朗州",
+      "latitude": 47.6833,
+      "longitude": 17.6351,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Budapest III. kerület",
+      "province": "Budapest",
+      "latitude": 47.5416,
+      "longitude": 19.045,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "尼赖吉哈佐",
+      "name_en": "Nyíregyháza",
+      "province": "索博尔奇-索特马尔-贝拉格州",
+      "latitude": 47.9554,
+      "longitude": 21.7167,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Budapest XIII. kerület",
+      "province": "Budapest",
+      "latitude": 47.5298,
+      "longitude": 19.0807,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "凯奇凯梅特",
+      "name_en": "Kecskemét",
+      "province": "巴奇-基什孔州",
+      "latitude": 46.9062,
+      "longitude": 19.6913,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "塞克什白堡",
+      "name_en": "Székesfehérvár",
+      "province": "费耶尔州",
+      "latitude": 47.19,
+      "longitude": 18.4103,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Újpest",
+      "province": "Budapest",
+      "latitude": 47.5686,
+      "longitude": 19.0846,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Budapest IV. kerület",
+      "province": "Budapest",
+      "latitude": 47.5618,
+      "longitude": 19.0891,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Budapest XVIII. kerület",
+      "province": "Budapest",
+      "latitude": 47.4442,
+      "longitude": 19.176,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Budapest II. kerület",
+      "province": "Budapest",
+      "latitude": 47.5198,
+      "longitude": 19.0222,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Budapest VIII. kerület",
+      "province": "Budapest",
+      "latitude": 47.4892,
+      "longitude": 19.0701,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Budapest XV. kerület",
+      "province": "Budapest",
+      "latitude": 47.5626,
+      "longitude": 19.1168,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "布达佩斯第十区",
+      "name_en": "Kőbánya",
+      "province": "Budapest",
+      "latitude": 47.4843,
+      "longitude": 19.1391,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Budapest XVII. kerület",
+      "province": "Budapest",
+      "latitude": 47.48,
+      "longitude": 19.2539,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "松博特海伊",
+      "name_en": "Szombathely",
+      "province": "沃什州",
+      "latitude": 47.2309,
+      "longitude": 16.6215,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Józsefváros",
+      "province": "Budapest",
+      "latitude": 47.4892,
+      "longitude": 19.0701,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Budapest XXI. kerület",
+      "province": "Budapest",
+      "latitude": 47.4222,
+      "longitude": 19.0664,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "索尔诺克",
+      "name_en": "Szolnok",
+      "province": "亚斯-瑙吉孔-索尔诺克州",
+      "latitude": 47.1807,
+      "longitude": 20.1984,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Budapest XVI. kerület",
+      "province": "Budapest",
+      "latitude": 47.5148,
+      "longitude": 19.1703,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "陶陶巴尼奥",
+      "name_en": "Tatabánya",
+      "province": "科马罗姆-埃斯泰尔戈姆州",
+      "latitude": 47.5925,
+      "longitude": 18.381,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "考波什堡",
+      "name_en": "Kaposvár",
+      "province": "绍莫吉州",
+      "latitude": 46.3667,
+      "longitude": 17.8,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Budapest XX. kerület",
+      "province": "Budapest",
+      "latitude": 47.4367,
+      "longitude": 19.1009,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "埃尔德",
+      "name_en": "Érd",
+      "province": "佩斯州",
+      "latitude": 47.3949,
+      "longitude": 18.9136,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "肖普朗",
+      "name_en": "Sopron",
+      "province": "杰尔-莫雄-肖普朗州",
+      "latitude": 47.685,
+      "longitude": 16.5905,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Angyalföld",
+      "province": "Budapest",
+      "latitude": 47.5476,
+      "longitude": 19.0797,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "伊丽莎白城",
+      "name_en": "Erzsébetváros",
+      "province": "Budapest",
+      "latitude": 47.5021,
+      "longitude": 19.0722,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "佐洛埃格塞格",
+      "name_en": "Zalaegerszeg",
+      "province": "佐洛州",
+      "latitude": 46.837,
+      "longitude": 16.844,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Budapest XIX. kerület",
+      "province": "Budapest",
+      "latitude": 47.4529,
+      "longitude": 19.1494,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Kispest",
+      "province": "Budapest",
+      "latitude": 47.4515,
+      "longitude": 19.1402,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "贝凯什乔包",
+      "name_en": "Békéscsaba",
+      "province": "Bekes County",
+      "latitude": 46.6833,
+      "longitude": 21.1,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "弗朗茨城",
+      "name_en": "Ferencváros",
+      "province": "Budapest",
+      "latitude": 47.4775,
+      "longitude": 19.0908,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Pestlőrinc",
+      "province": "Budapest",
+      "latitude": 47.4298,
+      "longitude": 19.2159,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "维斯普雷姆",
+      "name_en": "Veszprém",
+      "province": "Veszprém",
+      "latitude": 47.0933,
+      "longitude": 17.9115,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Budapest XII. kerület",
+      "province": "Budapest",
+      "latitude": 47.4919,
+      "longitude": 19.0149,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "埃格尔",
+      "name_en": "Eger",
+      "province": "赫维什州",
+      "latitude": 47.9027,
+      "longitude": 20.3733,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Kelenföld",
+      "province": "Budapest",
+      "latitude": 47.4661,
+      "longitude": 19.031,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Budapest XXII. kerület",
+      "province": "Budapest",
+      "latitude": 47.427,
+      "longitude": 19.0402,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "多瑙新城",
+      "name_en": "Dunaújváros",
+      "province": "费耶尔州",
+      "latitude": 46.9648,
+      "longitude": 18.9397,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "瑙吉考尼饶",
+      "name_en": "Nagykanizsa",
+      "province": "佐洛州",
+      "latitude": 46.4535,
+      "longitude": 16.991,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "霍德梅泽瓦",
+      "name_en": "Hódmezővásárhely",
+      "province": "Csongrád",
+      "latitude": 46.4167,
+      "longitude": 20.3333,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Budapest VI. kerület",
+      "province": "Budapest",
+      "latitude": 47.5037,
+      "longitude": 19.0658,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "采格莱德",
+      "name_en": "Cegléd",
+      "province": "佩斯州",
+      "latitude": 47.1727,
+      "longitude": 19.7995,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Rákospalota",
+      "province": "Budapest",
+      "latitude": 47.5645,
+      "longitude": 19.1221,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "欧兹德",
+      "name_en": "Ózd",
+      "province": "包尔绍德-奥包乌伊-曾普伦州",
+      "latitude": 48.2167,
+      "longitude": 20.3,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "包姚",
+      "name_en": "Baja",
+      "province": "巴奇-基什孔州",
+      "latitude": 46.183,
+      "longitude": 18.9531,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Újlipótváros",
+      "province": "Budapest",
+      "latitude": 47.5161,
+      "longitude": 19.0528,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Újpalota",
+      "province": "佩斯州",
+      "latitude": 47.5373,
+      "longitude": 19.1441,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Pesterzsébet",
+      "province": "Budapest",
+      "latitude": 47.4367,
+      "longitude": 19.1009,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "瓦茨",
+      "name_en": "Vác",
+      "province": "佩斯州",
+      "latitude": 47.7759,
+      "longitude": 19.1361,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "绍尔戈陶尔扬",
+      "name_en": "Salgótarján",
+      "province": "Nógrád",
+      "latitude": 48.0987,
+      "longitude": 19.803,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "塞克萨德",
+      "name_en": "Szekszárd",
+      "province": "托尔瑙州",
+      "latitude": 46.3472,
+      "longitude": 18.7119,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Középső-Ferencváros",
+      "province": "Budapest",
+      "latitude": 47.4731,
+      "longitude": 19.0797,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "古布达",
+      "name_en": "Óbuda",
+      "province": "Budapest",
+      "latitude": 47.55,
+      "longitude": 19.0333,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "帕波",
+      "name_en": "Pápa",
+      "province": "Veszprém",
+      "latitude": 47.33,
+      "longitude": 17.4674,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "珍珠市",
+      "name_en": "Gyöngyös",
+      "province": "赫维什州",
+      "latitude": 47.7826,
+      "longitude": 19.928,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "考津茨包尔齐考",
+      "name_en": "Kazincbarcika",
+      "province": "包尔绍德-奥包乌伊-曾普伦州",
+      "latitude": 48.25,
+      "longitude": 20.6333,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "格德勒",
+      "name_en": "Gödöllő",
+      "province": "佩斯州",
+      "latitude": 47.5966,
+      "longitude": 19.3551,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "久洛",
+      "name_en": "Gyula",
+      "province": "Bekes County",
+      "latitude": 46.65,
+      "longitude": 21.2833,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Hajdúböszörmény",
+      "province": "豪伊杜-比豪尔州",
+      "latitude": 47.6667,
+      "longitude": 21.5167,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Kiskunfélegyháza",
+      "province": "巴奇-基什孔州",
+      "latitude": 46.7121,
+      "longitude": 19.8446,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "奥伊考",
+      "name_en": "Ajka",
+      "province": "Veszprém",
+      "latitude": 47.102,
+      "longitude": 17.5589,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Orosháza",
+      "province": "Bekes County",
+      "latitude": 46.5667,
+      "longitude": 20.6667,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "莫雄马扎尔古堡",
+      "name_en": "Mosonmagyaróvár",
+      "province": "杰尔-莫雄-肖普朗州",
+      "latitude": 47.8679,
+      "longitude": 17.2699,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Dunakeszi",
+      "province": "佩斯州",
+      "latitude": 47.6364,
+      "longitude": 19.1386,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Kiskunhalas",
+      "province": "巴奇-基什孔州",
+      "latitude": 46.434,
+      "longitude": 19.4848,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "埃斯泰尔戈姆",
+      "name_en": "Esztergom",
+      "province": "科马罗姆-埃斯泰尔戈姆州",
+      "latitude": 47.7928,
+      "longitude": 18.7415,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Szentes",
+      "province": "Csongrád",
+      "latitude": 46.6583,
+      "longitude": 20.2608,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Jászberény",
+      "province": "亚斯-瑙吉孔-索尔诺克州",
+      "latitude": 47.5,
+      "longitude": 19.9167,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Komló",
+      "province": "Baranya",
+      "latitude": 46.1928,
+      "longitude": 18.2649,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Budafok",
+      "province": "Budapest",
+      "latitude": 47.4239,
+      "longitude": 19.0363,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Budapest V. kerület",
+      "province": "Budapest",
+      "latitude": 47.4996,
+      "longitude": 19.0511,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Óhegy",
+      "province": "Budapest",
+      "latitude": 47.478,
+      "longitude": 19.1479,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Újszeged",
+      "province": "",
+      "latitude": 46.2475,
+      "longitude": 20.1657,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "毛科",
+      "name_en": "Makó",
+      "province": "Csongrád",
+      "latitude": 46.2167,
+      "longitude": 20.4833,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Budaörs",
+      "province": "佩斯州",
+      "latitude": 47.4618,
+      "longitude": 18.9584,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Rákoskeresztúr",
+      "province": "佩斯州",
+      "latitude": 47.4732,
+      "longitude": 19.2618,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Szigetszentmiklós",
+      "province": "佩斯州",
+      "latitude": 47.3438,
+      "longitude": 19.0434,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Budapest I. kerület",
+      "province": "Budapest",
+      "latitude": 47.4971,
+      "longitude": 19.0396,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Naphegy",
+      "province": "佩斯州",
+      "latitude": 47.4884,
+      "longitude": 19.0254,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Hajdúszoboszló",
+      "province": "豪伊杜-比豪尔州",
+      "latitude": 47.45,
+      "longitude": 21.4,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "圣安德烈",
+      "name_en": "Szentendre",
+      "province": "佩斯州",
+      "latitude": 47.6694,
+      "longitude": 19.0756,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Nagykőrös",
+      "province": "佩斯州",
+      "latitude": 47.0342,
+      "longitude": 19.7786,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "陶陶",
+      "name_en": "Tata",
+      "province": "科马罗姆-埃斯泰尔戈姆州",
+      "latitude": 47.6529,
+      "longitude": 18.3184,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Rákosszentmihály",
+      "province": "Budapest",
+      "latitude": 47.5246,
+      "longitude": 19.155,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "希欧福克",
+      "name_en": "Siófok",
+      "province": "绍莫吉州",
+      "latitude": 46.9041,
+      "longitude": 18.058,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Törökszentmiklós",
+      "province": "亚斯-瑙吉孔-索尔诺克州",
+      "latitude": 47.1833,
+      "longitude": 20.4167,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Karcag",
+      "province": "亚斯-瑙吉孔-索尔诺克州",
+      "latitude": 47.3167,
+      "longitude": 20.9333,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Gyál",
+      "province": "佩斯州",
+      "latitude": 47.3845,
+      "longitude": 19.2214,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Monor",
+      "province": "佩斯州",
+      "latitude": 47.3513,
+      "longitude": 19.4473,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Várpalota",
+      "province": "Veszprém",
+      "latitude": 47.1994,
+      "longitude": 18.1395,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Békés",
+      "province": "Bekes County",
+      "latitude": 46.7667,
+      "longitude": 21.1333,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Dombóvár",
+      "province": "托尔瑙州",
+      "latitude": 46.3766,
+      "longitude": 18.137,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Paks",
+      "province": "托尔瑙州",
+      "latitude": 46.6221,
+      "longitude": 18.8557,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Budapest XXIII. kerület",
+      "province": "Budapest",
+      "latitude": 47.3979,
+      "longitude": 19.1149,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Oroszlány",
+      "province": "科马罗姆-埃斯泰尔戈姆州",
+      "latitude": 47.4867,
+      "longitude": 18.3122,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Hatvan",
+      "province": "赫维什州",
+      "latitude": 47.6667,
+      "longitude": 19.6833,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Mátyásföld",
+      "province": "Budapest",
+      "latitude": 47.5095,
+      "longitude": 19.2113,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Lágymányos",
+      "province": "佩斯州",
+      "latitude": 47.4724,
+      "longitude": 19.0581,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "凯斯特海伊",
+      "name_en": "Keszthely",
+      "province": "佐洛州",
+      "latitude": 46.7681,
+      "longitude": 17.2432,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Vecsés",
+      "province": "佩斯州",
+      "latitude": 47.407,
+      "longitude": 19.2865,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Mezőtúr",
+      "province": "亚斯-瑙吉孔-索尔诺克州",
+      "latitude": 47.0,
+      "longitude": 20.6333,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "科马罗姆",
+      "name_en": "Komárom",
+      "province": "科马罗姆-埃斯泰尔戈姆州",
+      "latitude": 47.7432,
+      "longitude": 18.1191,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Mátészalka",
+      "province": "索博尔奇-索特马尔-贝拉格州",
+      "latitude": 47.9553,
+      "longitude": 22.3235,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "莫哈奇",
+      "name_en": "Mohács",
+      "province": "Baranya",
+      "latitude": 45.9902,
+      "longitude": 18.6862,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Csongrád",
+      "province": "Csongrád",
+      "latitude": 46.7133,
+      "longitude": 20.1424,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Csepel-Csillagtelep",
+      "province": "Budapest",
+      "latitude": 47.4092,
+      "longitude": 19.0594,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "考洛乔",
+      "name_en": "Kalocsa",
+      "province": "巴奇-基什孔州",
+      "latitude": 46.5298,
+      "longitude": 18.9728,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Kisvárda",
+      "province": "索博尔奇-索特马尔-贝拉格州",
+      "latitude": 48.2167,
+      "longitude": 22.0833,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Szarvas",
+      "province": "Bekes County",
+      "latitude": 46.8667,
+      "longitude": 20.55,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Veresegyház",
+      "province": "佩斯州",
+      "latitude": 47.6459,
+      "longitude": 19.2954,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Diósgyőr",
+      "province": "包尔绍德-奥包乌伊-曾普伦州",
+      "latitude": 48.1,
+      "longitude": 20.6833,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "沙托劳尔尧乌伊海伊",
+      "name_en": "Sátoraljaújhely",
+      "province": "包尔绍德-奥包乌伊-曾普伦州",
+      "latitude": 48.3949,
+      "longitude": 21.6587,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Hajdúnánás",
+      "province": "豪伊杜-比豪尔州",
+      "latitude": 47.85,
+      "longitude": 21.4333,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Balmazújváros",
+      "province": "豪伊杜-比豪尔州",
+      "latitude": 47.6167,
+      "longitude": 21.35,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Mezőkövesd",
+      "province": "包尔绍德-奥包乌伊-曾普伦州",
+      "latitude": 47.8167,
+      "longitude": 20.5833,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Tapolca",
+      "province": "Veszprém",
+      "latitude": 46.8815,
+      "longitude": 17.4412,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Százhalombatta",
+      "province": "佩斯州",
+      "latitude": 47.3295,
+      "longitude": 18.9388,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Tiszaújváros",
+      "province": "包尔绍德-奥包乌伊-曾普伦州",
+      "latitude": 47.9333,
+      "longitude": 21.0833,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Dunaharaszti",
+      "province": "佩斯州",
+      "latitude": 47.3545,
+      "longitude": 19.0982,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Fót",
+      "province": "佩斯州",
+      "latitude": 47.6177,
+      "longitude": 19.1887,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Dabas",
+      "province": "佩斯州",
+      "latitude": 47.1859,
+      "longitude": 19.3109,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Abony",
+      "province": "佩斯州",
+      "latitude": 47.1899,
+      "longitude": 20.0048,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Püspökladány",
+      "province": "豪伊杜-比豪尔州",
+      "latitude": 47.3167,
+      "longitude": 21.1167,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Csepel-Királyerdő",
+      "province": "Budapest",
+      "latitude": 47.4025,
+      "longitude": 19.0918,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Göd",
+      "province": "佩斯州",
+      "latitude": 47.6832,
+      "longitude": 19.1342,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Sárvár",
+      "province": "沃什州",
+      "latitude": 47.254,
+      "longitude": 16.9352,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Sashalom",
+      "province": "Budapest",
+      "latitude": 47.5153,
+      "longitude": 19.1706,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Gyomaendrőd",
+      "province": "Bekes County",
+      "latitude": 46.9333,
+      "longitude": 20.8333,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Kiskőrös",
+      "province": "巴奇-基什孔州",
+      "latitude": 46.6214,
+      "longitude": 19.2853,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Pomáz",
+      "province": "佩斯州",
+      "latitude": 47.6423,
+      "longitude": 19.0278,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Rákoscsaba",
+      "province": "Budapest",
+      "latitude": 47.4879,
+      "longitude": 19.2981,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Újhegy",
+      "province": "Budapest",
+      "latitude": 47.4672,
+      "longitude": 19.1664,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Mór",
+      "province": "费耶尔州",
+      "latitude": 47.3779,
+      "longitude": 18.2035,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "拜赖焦新村",
+      "name_en": "Berettyóújfalu",
+      "province": "豪伊杜-比豪尔州",
+      "latitude": 47.2236,
+      "longitude": 21.5366,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Budakeszi",
+      "province": "佩斯州",
+      "latitude": 47.5108,
+      "longitude": 18.9272,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Pilisvörösvár",
+      "province": "佩斯州",
+      "latitude": 47.6139,
+      "longitude": 18.9089,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Bátonyterenye",
+      "province": "Nógrád",
+      "latitude": 47.9696,
+      "longitude": 19.8408,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Bonyhád",
+      "province": "托尔瑙州",
+      "latitude": 46.2992,
+      "longitude": 18.5302,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Gyömrő",
+      "province": "佩斯州",
+      "latitude": 47.4273,
+      "longitude": 19.4013,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Soroksár",
+      "province": "Budapest",
+      "latitude": 47.3979,
+      "longitude": 19.1149,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Balassagyarmat",
+      "province": "Nógrád",
+      "latitude": 48.073,
+      "longitude": 19.2961,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Tiszavasvári",
+      "province": "索博尔奇-索特马尔-贝拉格州",
+      "latitude": 47.9667,
+      "longitude": 21.35,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Rákoshegy",
+      "province": "Budapest",
+      "latitude": 47.4626,
+      "longitude": 19.2389,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Újfehértó",
+      "province": "索博尔奇-索特马尔-贝拉格州",
+      "latitude": 47.8,
+      "longitude": 21.6833,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Nyírbátor",
+      "province": "索博尔奇-索特马尔-贝拉格州",
+      "latitude": 47.8333,
+      "longitude": 22.1333,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Sárbogárd",
+      "province": "费耶尔州",
+      "latitude": 46.8869,
+      "longitude": 18.6204,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Havanna-lakótelep",
+      "province": "Budapest",
+      "latitude": 47.4403,
+      "longitude": 19.1669,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Nagykáta",
+      "province": "佩斯州",
+      "latitude": 47.4151,
+      "longitude": 19.7441,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Pécel",
+      "province": "佩斯州",
+      "latitude": 47.4896,
+      "longitude": 19.3416,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "巴拉顿菲赖德",
+      "name_en": "Balatonfüred",
+      "province": "Veszprém",
+      "latitude": 46.9619,
+      "longitude": 17.8719,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Szigethalom",
+      "province": "佩斯州",
+      "latitude": 47.3223,
+      "longitude": 19.0026,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "豪伊杜豪德哈兹",
+      "name_en": "Hajdúhadház",
+      "province": "豪伊杜-比豪尔州",
+      "latitude": 47.6833,
+      "longitude": 21.6667,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Kisújszállás",
+      "province": "亚斯-瑙吉孔-索尔诺克州",
+      "latitude": 47.2167,
+      "longitude": 20.7667,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "多罗格",
+      "name_en": "Dorog",
+      "province": "科马罗姆-埃斯泰尔戈姆州",
+      "latitude": 47.721,
+      "longitude": 18.7364,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Kistarcsa",
+      "province": "佩斯州",
+      "latitude": 47.5476,
+      "longitude": 19.2625,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Körmend",
+      "province": "沃什州",
+      "latitude": 47.011,
+      "longitude": 16.606,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Üllő",
+      "province": "佩斯州",
+      "latitude": 47.3877,
+      "longitude": 19.3553,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Barcs",
+      "province": "绍莫吉州",
+      "latitude": 45.96,
+      "longitude": 17.4586,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "József Attila-lakótelep",
+      "province": "Budapest",
+      "latitude": 47.4641,
+      "longitude": 19.1168,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Lipótváros",
+      "province": "Budapest",
+      "latitude": 47.5024,
+      "longitude": 19.0493,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Tolna",
+      "province": "托尔瑙州",
+      "latitude": 46.4268,
+      "longitude": 18.7825,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Kiskunmajsa",
+      "province": "巴奇-基什孔州",
+      "latitude": 46.4903,
+      "longitude": 19.74,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Sárospatak",
+      "province": "包尔绍德-奥包乌伊-曾普伦州",
+      "latitude": 48.3245,
+      "longitude": 21.5738,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Tiszaföldvár",
+      "province": "亚斯-瑙吉孔-索尔诺克州",
+      "latitude": 46.9833,
+      "longitude": 20.25,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Albertirsa",
+      "province": "佩斯州",
+      "latitude": 47.2431,
+      "longitude": 19.6169,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Istvánmező",
+      "province": "Budapest",
+      "latitude": 47.5047,
+      "longitude": 19.0955,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Pacsirtatelep",
+      "province": "Budapest",
+      "latitude": 47.4219,
+      "longitude": 19.122,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Tiszakécske",
+      "province": "巴奇-基什孔州",
+      "latitude": 46.9326,
+      "longitude": 20.1035,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Sajószentpéter",
+      "province": "包尔绍德-奥包乌伊-曾普伦州",
+      "latitude": 48.2167,
+      "longitude": 20.7167,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Törökbálint",
+      "province": "佩斯州",
+      "latitude": 47.4293,
+      "longitude": 18.9136,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "克塞格",
+      "name_en": "Kőszeg",
+      "province": "沃什州",
+      "latitude": 47.3892,
+      "longitude": 16.541,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Wekerletelep",
+      "province": "Budapest",
+      "latitude": 47.4556,
+      "longitude": 19.1261,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Celldömölk",
+      "province": "沃什州",
+      "latitude": 47.2571,
+      "longitude": 17.1503,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Isaszeg",
+      "province": "佩斯州",
+      "latitude": 47.5301,
+      "longitude": 19.402,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "赫维什",
+      "name_en": "Heves",
+      "province": "赫维什州",
+      "latitude": 47.6,
+      "longitude": 20.2833,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Mezőberény",
+      "province": "Bekes County",
+      "latitude": 46.8167,
+      "longitude": 21.0333,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "锡盖特堡",
+      "name_en": "Szigetvár",
+      "province": "Baranya",
+      "latitude": 46.0487,
+      "longitude": 17.8055,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Marcali",
+      "province": "绍莫吉州",
+      "latitude": 46.585,
+      "longitude": 17.412,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Rákoscsaba-Újtelep",
+      "province": "佩斯州",
+      "latitude": 47.5012,
+      "longitude": 19.2859,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Pilis",
+      "province": "佩斯州",
+      "latitude": 47.289,
+      "longitude": 19.5485,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Bicske",
+      "province": "费耶尔州",
+      "latitude": 47.4842,
+      "longitude": 18.644,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Edelény",
+      "province": "包尔绍德-奥包乌伊-曾普伦州",
+      "latitude": 48.3,
+      "longitude": 20.7333,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Lajosmizse",
+      "province": "巴奇-基什孔州",
+      "latitude": 47.0213,
+      "longitude": 19.5617,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Tiszafüred",
+      "province": "亚斯-瑙吉孔-索尔诺克州",
+      "latitude": 47.6167,
+      "longitude": 20.7667,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Hajdúsámson",
+      "province": "豪伊杜-比豪尔州",
+      "latitude": 47.6,
+      "longitude": 21.7667,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Csorna",
+      "province": "杰尔-莫雄-肖普朗州",
+      "latitude": 47.6116,
+      "longitude": 17.2501,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Nagykálló",
+      "province": "索博尔奇-索特马尔-贝拉格州",
+      "latitude": 47.8749,
+      "longitude": 21.8408,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Budatétény",
+      "province": "Budapest",
+      "latitude": 47.4087,
+      "longitude": 19.0361,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Sarkad",
+      "province": "Bekes County",
+      "latitude": 46.75,
+      "longitude": 21.3833,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Újpéteritelep",
+      "province": "Budapest",
+      "latitude": 47.4068,
+      "longitude": 19.1905,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Kapuvár",
+      "province": "杰尔-莫雄-肖普朗州",
+      "latitude": 47.5922,
+      "longitude": 17.0289,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Pestújhely",
+      "province": "Budapest",
+      "latitude": 47.5398,
+      "longitude": 19.1336,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Csepel-Belváros",
+      "province": "Budapest",
+      "latitude": 47.4303,
+      "longitude": 19.0684,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Nagyatád",
+      "province": "绍莫吉州",
+      "latitude": 46.2296,
+      "longitude": 17.3579,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Magdolnanegyed",
+      "province": "Budapest",
+      "latitude": 47.493,
+      "longitude": 19.0832,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Gubacsipuszta",
+      "province": "Budapest",
+      "latitude": 47.4312,
+      "longitude": 19.1412,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "希克洛什",
+      "name_en": "Siklós",
+      "province": "Baranya",
+      "latitude": 45.855,
+      "longitude": 18.2975,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Tököl",
+      "province": "佩斯州",
+      "latitude": 47.3218,
+      "longitude": 18.9625,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Maglód",
+      "province": "佩斯州",
+      "latitude": 47.4426,
+      "longitude": 19.3644,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Pásztó",
+      "province": "Nógrád",
+      "latitude": 47.9202,
+      "longitude": 19.6983,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Szerencs",
+      "province": "包尔绍德-奥包乌伊-曾普伦州",
+      "latitude": 48.1599,
+      "longitude": 21.2097,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Túrkeve",
+      "province": "亚斯-瑙吉孔-索尔诺克州",
+      "latitude": 47.1,
+      "longitude": 20.75,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Csepel-Erdősor",
+      "province": "Budapest",
+      "latitude": 47.4075,
+      "longitude": 19.0758,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Szeghalom",
+      "province": "Bekes County",
+      "latitude": 47.0333,
+      "longitude": 21.1667,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Kerepes",
+      "province": "佩斯州",
+      "latitude": 47.5601,
+      "longitude": 19.2829,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Csarnoknegyed",
+      "province": "Budapest",
+      "latitude": 47.494,
+      "longitude": 19.0737,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Jászapáti",
+      "province": "亚斯-瑙吉孔-索尔诺克州",
+      "latitude": 47.5167,
+      "longitude": 20.15,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Rákoskert",
+      "province": "Budapest",
+      "latitude": 47.4645,
+      "longitude": 19.2977,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Jánoshalma",
+      "province": "巴奇-基什孔州",
+      "latitude": 46.2986,
+      "longitude": 19.3258,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Palotanegyed",
+      "province": "Budapest",
+      "latitude": 47.4927,
+      "longitude": 19.0652,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Tamási",
+      "province": "托尔瑙州",
+      "latitude": 46.6333,
+      "longitude": 18.2833,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Belső-Ferencváros",
+      "province": "Budapest",
+      "latitude": 47.4853,
+      "longitude": 19.0647,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Kunszentmárton",
+      "province": "亚斯-瑙吉孔-索尔诺克州",
+      "latitude": 46.8392,
+      "longitude": 20.2888,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "豪伊杜多罗格",
+      "name_en": "Hajdúdorog",
+      "province": "豪伊杜-比豪尔州",
+      "latitude": 47.8167,
+      "longitude": 21.5,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Vásárosnamény",
+      "province": "索博尔奇-索特马尔-贝拉格州",
+      "latitude": 48.1254,
+      "longitude": 22.3133,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Solymár",
+      "province": "佩斯州",
+      "latitude": 47.5925,
+      "longitude": 18.9321,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Ráckeve",
+      "province": "佩斯州",
+      "latitude": 47.1609,
+      "longitude": 18.9448,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Orczynegyed",
+      "province": "Budapest",
+      "latitude": 47.4854,
+      "longitude": 19.0885,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "代赖奇凯",
+      "name_en": "Derecske",
+      "province": "豪伊杜-比豪尔州",
+      "latitude": 47.35,
+      "longitude": 21.5667,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Kecel",
+      "province": "巴奇-基什孔州",
+      "latitude": 46.5253,
+      "longitude": 19.2519,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Nádudvar",
+      "province": "豪伊杜-比豪尔州",
+      "latitude": 47.4167,
+      "longitude": 21.1667,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Ócsa",
+      "province": "佩斯州",
+      "latitude": 47.2999,
+      "longitude": 19.2306,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Pesthidegkút",
+      "province": "Budapest",
+      "latitude": 47.5576,
+      "longitude": 18.9644,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "多瑙城堡",
+      "name_en": "Dunaföldvár",
+      "province": "托尔瑙州",
+      "latitude": 46.8071,
+      "longitude": 18.9276,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Fehérgyarmat",
+      "province": "索博尔奇-索特马尔-贝拉格州",
+      "latitude": 47.9833,
+      "longitude": 22.5167,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Kiskunlacháza",
+      "province": "佩斯州",
+      "latitude": 47.1884,
+      "longitude": 19.0093,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Kunszentmiklós",
+      "province": "巴奇-基什孔州",
+      "latitude": 47.027,
+      "longitude": 19.1258,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Szentgotthárd",
+      "province": "沃什州",
+      "latitude": 46.9526,
+      "longitude": 16.2736,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "代沃瓦尼奥",
+      "name_en": "Dévaványa",
+      "province": "Bekes County",
+      "latitude": 47.0333,
+      "longitude": 20.9667,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Nagykovácsi",
+      "province": "佩斯州",
+      "latitude": 47.5814,
+      "longitude": 18.8855,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Biatorbágy",
+      "province": "佩斯州",
+      "latitude": 47.4706,
+      "longitude": 18.8189,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Corvinnegyed",
+      "province": "Budapest",
+      "latitude": 47.4902,
+      "longitude": 19.071,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Kunhegyes",
+      "province": "亚斯-瑙吉孔-索尔诺克州",
+      "latitude": 47.3667,
+      "longitude": 20.6333,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Lenti",
+      "province": "佐洛州",
+      "latitude": 46.624,
+      "longitude": 16.5386,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Ercsi",
+      "province": "费耶尔州",
+      "latitude": 47.2519,
+      "longitude": 18.8962,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Balatonalmádi",
+      "province": "Veszprém",
+      "latitude": 47.0353,
+      "longitude": 18.0208,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Polgár",
+      "province": "豪伊杜-比豪尔州",
+      "latitude": 47.8667,
+      "longitude": 21.1167,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "多瑙沃尔沙尼",
+      "name_en": "Dunavarsány",
+      "province": "佩斯州",
+      "latitude": 47.2786,
+      "longitude": 19.0662,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Tura",
+      "province": "佩斯州",
+      "latitude": 47.6092,
+      "longitude": 19.6028,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Sülysáp",
+      "province": "佩斯州",
+      "latitude": 47.4521,
+      "longitude": 19.5337,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Felsőrákos",
+      "province": "Budapest",
+      "latitude": 47.496,
+      "longitude": 19.1603,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Füzesabony",
+      "province": "赫维什州",
+      "latitude": 47.75,
+      "longitude": 20.4167,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Jászárokszállás",
+      "province": "亚斯-瑙吉孔-索尔诺克州",
+      "latitude": 47.6424,
+      "longitude": 19.9804,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Gárdony",
+      "province": "费耶尔州",
+      "latitude": 47.2094,
+      "longitude": 18.6361,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Tárnok",
+      "province": "佩斯州",
+      "latitude": 47.3733,
+      "longitude": 18.8458,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Nyíradony",
+      "province": "豪伊杜-比豪尔州",
+      "latitude": 47.6975,
+      "longitude": 21.9188,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Zalaszentgrót",
+      "province": "佐洛州",
+      "latitude": 46.9447,
+      "longitude": 17.0792,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Sándorfalva",
+      "province": "Csongrád",
+      "latitude": 46.3609,
+      "longitude": 20.0989,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Losoncinegyed",
+      "province": "Budapest",
+      "latitude": 47.4844,
+      "longitude": 19.0817,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Soltvadkert",
+      "province": "巴奇-基什孔州",
+      "latitude": 46.5789,
+      "longitude": 19.3939,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Nyergesújfalu",
+      "province": "科马罗姆-埃斯泰尔戈姆州",
+      "latitude": 47.7603,
+      "longitude": 18.5569,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Bácsalmás",
+      "province": "巴奇-基什孔州",
+      "latitude": 46.1265,
+      "longitude": 19.3326,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Csömör",
+      "province": "佩斯州",
+      "latitude": 47.55,
+      "longitude": 19.2333,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Putnok",
+      "province": "包尔绍德-奥包乌伊-曾普伦州",
+      "latitude": 48.3,
+      "longitude": 20.4333,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Vésztő",
+      "province": "Bekes County",
+      "latitude": 46.9167,
+      "longitude": 21.2667,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Gyárdűlő",
+      "province": "Budapest",
+      "latitude": 47.4759,
+      "longitude": 19.1204,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Csepel-Szabótelep",
+      "province": "Budapest",
+      "latitude": 47.435,
+      "longitude": 19.0764,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Ligettelek",
+      "province": "Budapest",
+      "latitude": 47.4931,
+      "longitude": 19.1285,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Szemeretelep",
+      "province": "Budapest",
+      "latitude": 47.4388,
+      "longitude": 19.2131,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Kistelek",
+      "province": "Csongrád",
+      "latitude": 46.4725,
+      "longitude": 19.9797,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Zirc",
+      "province": "Veszprém",
+      "latitude": 47.2636,
+      "longitude": 17.8737,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "豪拉斯泰莱克",
+      "name_en": "Halásztelek",
+      "province": "佩斯州",
+      "latitude": 47.3617,
+      "longitude": 18.9812,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Mindszent",
+      "province": "Csongrád",
+      "latitude": 46.5236,
+      "longitude": 20.1904,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Gellérthegy",
+      "province": "Budapest",
+      "latitude": 47.4833,
+      "longitude": 19.05,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Ács",
+      "province": "科马罗姆-埃斯泰尔戈姆州",
+      "latitude": 47.7123,
+      "longitude": 18.0113,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Enying",
+      "province": "费耶尔州",
+      "latitude": 46.9305,
+      "longitude": 18.242,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Létavértes",
+      "province": "豪伊杜-比豪尔州",
+      "latitude": 47.3833,
+      "longitude": 21.9,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Nyírtelek",
+      "province": "索博尔奇-索特马尔-贝拉格州",
+      "latitude": 48.0167,
+      "longitude": 21.6333,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Szentlőrinc",
+      "province": "Baranya",
+      "latitude": 46.0402,
+      "longitude": 17.9872,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Újlak",
+      "province": "Budapest",
+      "latitude": 47.5289,
+      "longitude": 19.038,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Felsőzsolca",
+      "province": "包尔绍德-奥包乌伊-曾普伦州",
+      "latitude": 48.1,
+      "longitude": 20.8667,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Szent Imre-kertváros",
+      "province": "Budapest",
+      "latitude": 47.4297,
+      "longitude": 19.2065,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Solt",
+      "province": "巴奇-基什孔州",
+      "latitude": 46.801,
+      "longitude": 19.001,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Fegyvernek",
+      "province": "亚斯-瑙吉孔-索尔诺克州",
+      "latitude": 47.2667,
+      "longitude": 20.5333,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Nagyecsed",
+      "province": "索博尔奇-索特马尔-贝拉格州",
+      "latitude": 47.8655,
+      "longitude": 22.3916,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "恩奇",
+      "name_en": "Encs",
+      "province": "包尔绍德-奥包乌伊-曾普伦州",
+      "latitude": 48.3333,
+      "longitude": 21.1333,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Ibrány",
+      "province": "索博尔奇-索特马尔-贝拉格州",
+      "latitude": 48.1233,
+      "longitude": 21.7095,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Mezőkovácsháza",
+      "province": "Bekes County",
+      "latitude": 46.4,
+      "longitude": 20.9167,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Újszász",
+      "province": "亚斯-瑙吉孔-索尔诺克州",
+      "latitude": 47.3,
+      "longitude": 20.0833,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Bátaszék",
+      "province": "托尔瑙州",
+      "latitude": 46.1937,
+      "longitude": 18.7231,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Balkány",
+      "province": "索博尔奇-索特马尔-贝拉格州",
+      "latitude": 47.7707,
+      "longitude": 21.8631,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Sümeg",
+      "province": "Veszprém",
+      "latitude": 46.977,
+      "longitude": 17.2821,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Gloriett-telep",
+      "province": "Budapest",
+      "latitude": 47.4318,
+      "longitude": 19.1929,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Tápiószecső",
+      "province": "佩斯州",
+      "latitude": 47.45,
+      "longitude": 19.6092,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Szabadszállás",
+      "province": "巴奇-基什孔州",
+      "latitude": 46.8757,
+      "longitude": 19.2232,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Battonya",
+      "province": "Bekes County",
+      "latitude": 46.2833,
+      "longitude": 21.0167,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Cinkota",
+      "province": "Budapest",
+      "latitude": 47.5219,
+      "longitude": 19.2297,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Polgárdi",
+      "province": "费耶尔州",
+      "latitude": 47.061,
+      "longitude": 18.302,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Mezőcsát",
+      "province": "包尔绍德-奥包乌伊-曾普伦州",
+      "latitude": 47.8167,
+      "longitude": 20.9167,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Tótkomlós",
+      "province": "Bekes County",
+      "latitude": 46.4167,
+      "longitude": 20.7333,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Piliscsaba",
+      "province": "佩斯州",
+      "latitude": 47.6342,
+      "longitude": 18.8289,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Szécsény",
+      "province": "Nógrád",
+      "latitude": 48.0806,
+      "longitude": 19.5202,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Füzesgyarmat",
+      "province": "Bekes County",
+      "latitude": 47.1,
+      "longitude": 21.2167,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Népszínháznegyed",
+      "province": "Budapest",
+      "latitude": 47.4963,
+      "longitude": 19.0789,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Kaba",
+      "province": "豪伊杜-比豪尔州",
+      "latitude": 47.35,
+      "longitude": 21.2833,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Pusztaszabolcs",
+      "province": "费耶尔州",
+      "latitude": 47.1372,
+      "longitude": 18.767,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Téglás",
+      "province": "豪伊杜-比豪尔州",
+      "latitude": 47.7167,
+      "longitude": 21.6833,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Jánossomorja",
+      "province": "杰尔-莫雄-肖普朗州",
+      "latitude": 47.7862,
+      "longitude": 17.136,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Mezőhegyes",
+      "province": "Bekes County",
+      "latitude": 46.3167,
+      "longitude": 20.8167,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Jászladány",
+      "province": "亚斯-瑙吉孔-索尔诺克州",
+      "latitude": 47.3667,
+      "longitude": 20.1667,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Tápiószele",
+      "province": "佩斯州",
+      "latitude": 47.3361,
+      "longitude": 19.8772,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Aszód",
+      "province": "佩斯州",
+      "latitude": 47.6517,
+      "longitude": 19.4785,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "迪欧什德",
+      "name_en": "Diósd",
+      "province": "佩斯州",
+      "latitude": 47.4095,
+      "longitude": 18.949,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Taksony",
+      "province": "佩斯州",
+      "latitude": 47.3297,
+      "longitude": 19.0669,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Tiszalök",
+      "province": "索博尔奇-索特马尔-贝拉格州",
+      "latitude": 48.0167,
+      "longitude": 21.3833,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Izsák",
+      "province": "巴奇-基什孔州",
+      "latitude": 46.8045,
+      "longitude": 19.3517,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Komádi",
+      "province": "豪伊杜-比豪尔州",
+      "latitude": 47.0,
+      "longitude": 21.5,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Lőrinci",
+      "province": "赫维什州",
+      "latitude": 47.733,
+      "longitude": 19.6787,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Orbánhegy",
+      "province": "Budapest",
+      "latitude": 47.4954,
+      "longitude": 19.0058,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Alsózsolca",
+      "province": "包尔绍德-奥包乌伊-曾普伦州",
+      "latitude": 48.0698,
+      "longitude": 20.8805,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Soroksár-Ujtelep",
+      "province": "Budapest",
+      "latitude": 47.4156,
+      "longitude": 19.132,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Kartal",
+      "province": "佩斯州",
+      "latitude": 47.6713,
+      "longitude": 19.542,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Erdőkertes",
+      "province": "佩斯州",
+      "latitude": 47.6726,
+      "longitude": 19.3079,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Kerekegyháza",
+      "province": "巴奇-基什孔州",
+      "latitude": 46.9372,
+      "longitude": 19.4781,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Balatonboglár",
+      "province": "绍莫吉州",
+      "latitude": 46.7752,
+      "longitude": 17.6441,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Szikszó",
+      "province": "包尔绍德-奥包乌伊-曾普伦州",
+      "latitude": 48.2,
+      "longitude": 20.9333,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Dömsöd",
+      "province": "佩斯州",
+      "latitude": 47.09,
+      "longitude": 19.0111,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Nagyhalász",
+      "province": "索博尔奇-索特马尔-贝拉格州",
+      "latitude": 48.1327,
+      "longitude": 21.761,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Kisbér",
+      "province": "科马罗姆-埃斯泰尔戈姆州",
+      "latitude": 47.5029,
+      "longitude": 18.0367,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Kunmadaras",
+      "province": "亚斯-瑙吉孔-索尔诺克州",
+      "latitude": 47.4333,
+      "longitude": 20.8,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Berhida",
+      "province": "Veszprém",
+      "latitude": 47.1113,
+      "longitude": 18.1295,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Kondoros",
+      "province": "Bekes County",
+      "latitude": 46.7667,
+      "longitude": 20.8,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Mélykút",
+      "province": "巴奇-基什孔州",
+      "latitude": 46.2151,
+      "longitude": 19.381,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Csepel-Kertváros",
+      "province": "Budapest",
+      "latitude": 47.4201,
+      "longitude": 19.0846,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Jászkisér",
+      "province": "亚斯-瑙吉孔-索尔诺克州",
+      "latitude": 47.45,
+      "longitude": 20.2167,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Csurgó",
+      "province": "绍莫吉州",
+      "latitude": 46.2531,
+      "longitude": 17.1006,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Csorvás",
+      "province": "Bekes County",
+      "latitude": 46.6333,
+      "longitude": 20.8333,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Nagyszénás",
+      "province": "Bekes County",
+      "latitude": 46.6833,
+      "longitude": 20.6667,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Újkígyós",
+      "province": "Bekes County",
+      "latitude": 46.5833,
+      "longitude": 21.0333,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Tápiószentmárton",
+      "province": "佩斯州",
+      "latitude": 47.3399,
+      "longitude": 19.7465,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Tát",
+      "province": "科马罗姆-埃斯泰尔戈姆州",
+      "latitude": 47.7415,
+      "longitude": 18.6481,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Egyek",
+      "province": "豪伊杜-比豪尔州",
+      "latitude": 47.6333,
+      "longitude": 20.9,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Tiszalúc",
+      "province": "包尔绍德-奥包乌伊-曾普伦州",
+      "latitude": 48.0377,
+      "longitude": 21.0726,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Őrbottyán",
+      "province": "佩斯州",
+      "latitude": 47.6871,
+      "longitude": 19.2824,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Rákóczifalva",
+      "province": "亚斯-瑙吉孔-索尔诺克州",
+      "latitude": 47.0833,
+      "longitude": 20.2333,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Hosszúpályi",
+      "province": "豪伊杜-比豪尔州",
+      "latitude": 47.393,
+      "longitude": 21.7328,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "让贝克",
+      "name_en": "Zsámbék",
+      "province": "佩斯州",
+      "latitude": 47.5481,
+      "longitude": 18.7201,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Páty",
+      "province": "佩斯州",
+      "latitude": 47.5171,
+      "longitude": 18.8285,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Elek",
+      "province": "Bekes County",
+      "latitude": 46.5333,
+      "longitude": 21.25,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Vámospércs",
+      "province": "豪伊杜-比豪尔州",
+      "latitude": 47.5333,
+      "longitude": 21.9,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Mórahalom",
+      "province": "Csongrád",
+      "latitude": 46.2181,
+      "longitude": 19.8851,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Bugyi",
+      "province": "佩斯州",
+      "latitude": 47.2275,
+      "longitude": 19.1466,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Emőd",
+      "province": "包尔绍德-奥包乌伊-曾普伦州",
+      "latitude": 47.9333,
+      "longitude": 20.8167,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Lakatos-lakótelep",
+      "province": "Budapest",
+      "latitude": 47.4543,
+      "longitude": 19.1744,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Lábatlan",
+      "province": "科马罗姆-埃斯泰尔戈姆州",
+      "latitude": 47.7473,
+      "longitude": 18.4962,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Laposdűlő",
+      "province": "Budapest",
+      "latitude": 47.4925,
+      "longitude": 19.1149,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Csákvár",
+      "province": "费耶尔州",
+      "latitude": 47.3918,
+      "longitude": 18.465,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Algyő",
+      "province": "Csongrád",
+      "latitude": 46.3347,
+      "longitude": 20.2085,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Kenderes",
+      "province": "亚斯-瑙吉孔-索尔诺克州",
+      "latitude": 47.25,
+      "longitude": 20.6833,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Csenger",
+      "province": "索博尔奇-索特马尔-贝拉格州",
+      "latitude": 47.8358,
+      "longitude": 22.681,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Fonyód",
+      "province": "绍莫吉州",
+      "latitude": 46.743,
+      "longitude": 17.5575,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Rakamaz",
+      "province": "索博尔奇-索特马尔-贝拉格州",
+      "latitude": 48.1237,
+      "longitude": 21.4643,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Martonvásár",
+      "province": "费耶尔州",
+      "latitude": 47.316,
+      "longitude": 18.7904,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Miklóstelep",
+      "province": "Budapest",
+      "latitude": 47.4467,
+      "longitude": 19.1954,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Devecser",
+      "province": "Veszprém",
+      "latitude": 47.1032,
+      "longitude": 17.438,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Örkény",
+      "province": "佩斯州",
+      "latitude": 47.1299,
+      "longitude": 19.4332,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Bókaytelep",
+      "province": "Budapest",
+      "latitude": 47.4381,
+      "longitude": 19.1811,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Tiszaalpár",
+      "province": "巴奇-基什孔州",
+      "latitude": 46.8128,
+      "longitude": 19.9984,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Átány",
+      "province": "赫维什州",
+      "latitude": 47.6156,
+      "longitude": 20.3625,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Kemecse",
+      "province": "索博尔奇-索特马尔-贝拉格州",
+      "latitude": 48.0753,
+      "longitude": 21.8062,
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "name": "",
+      "name_en": "Körösladány",
+      "province": "Bekes County",
+      "latitude": 46.9667,
+      "longitude": 21.0833,
+      "timezone": "Europe/Budapest"
+    }
+  ]
+}

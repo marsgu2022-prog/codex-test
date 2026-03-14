@@ -1,0 +1,94 @@
+{
+  "country_code": "SC",
+  "country_name": "塞舌尔",
+  "cities": [
+    {
+      "name": "维多利亚",
+      "name_en": "Victoria",
+      "province": "英吉利河",
+      "latitude": -4.62,
+      "longitude": 55.455,
+      "timezone": "Indian/Mahe"
+    },
+    {
+      "name": "",
+      "name_en": "Cascade",
+      "province": "卡斯喀得区",
+      "latitude": -4.6692,
+      "longitude": 55.4995,
+      "timezone": "Indian/Mahe"
+    },
+    {
+      "name": "",
+      "name_en": "Perseverance",
+      "province": "",
+      "latitude": -4.6044,
+      "longitude": 55.4643,
+      "timezone": "Indian/Mahe"
+    },
+    {
+      "name": "",
+      "name_en": "Baie Sainte Anne",
+      "province": "贝圣安那区",
+      "latitude": -4.32,
+      "longitude": 55.7534,
+      "timezone": "Indian/Mahe"
+    },
+    {
+      "name": "",
+      "name_en": "Anse Boileau",
+      "province": "Anse Boileau",
+      "latitude": -4.7167,
+      "longitude": 55.4833,
+      "timezone": "Indian/Mahe"
+    },
+    {
+      "name": "",
+      "name_en": "Bel Ombre",
+      "province": "贝尔翁布雷区",
+      "latitude": -4.6167,
+      "longitude": 55.4167,
+      "timezone": "Indian/Mahe"
+    },
+    {
+      "name": "",
+      "name_en": "Beau Vallon",
+      "province": "Beau Vallon",
+      "latitude": -4.6209,
+      "longitude": 55.4301,
+      "timezone": "Indian/Mahe"
+    },
+    {
+      "name": "",
+      "name_en": "Anse Royale",
+      "province": "Anse Royale",
+      "latitude": -4.7333,
+      "longitude": 55.5167,
+      "timezone": "Indian/Mahe"
+    },
+    {
+      "name": "",
+      "name_en": "Port Glaud",
+      "province": "波特格劳德区",
+      "latitude": -4.6626,
+      "longitude": 55.4184,
+      "timezone": "Indian/Mahe"
+    },
+    {
+      "name": "",
+      "name_en": "Takamaka",
+      "province": "塔卡玛卡区",
+      "latitude": -4.7667,
+      "longitude": 55.5,
+      "timezone": "Indian/Mahe"
+    },
+    {
+      "name": "",
+      "name_en": "La Passe",
+      "province": "拉蒂格与内岛区",
+      "latitude": -4.3481,
+      "longitude": 55.8327,
+      "timezone": "Indian/Mahe"
+    }
+  ]
+}

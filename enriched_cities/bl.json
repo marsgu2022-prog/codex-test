@@ -1,0 +1,14 @@
+{
+  "country_code": "BL",
+  "country_name": "圣巴泰勒米",
+  "cities": [
+    {
+      "name": "居斯塔维亚",
+      "name_en": "Gustavia",
+      "province": "",
+      "latitude": 17.8962,
+      "longitude": -62.8498,
+      "timezone": "America/St_Barthelemy"
+    }
+  ]
+}

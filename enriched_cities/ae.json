@@ -1,0 +1,750 @@
+{
+  "country_code": "AE",
+  "country_name": "阿联酋",
+  "cities": [
+    {
+      "name": "迪拜",
+      "name_en": "Dubai",
+      "province": "Dubai",
+      "latitude": 25.0772,
+      "longitude": 55.3093,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "阿布扎比",
+      "name_en": "Abu Dhabi",
+      "province": "阿布扎比酋长国",
+      "latitude": 24.4512,
+      "longitude": 54.397,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "夏尔迦",
+      "name_en": "Sharjah",
+      "province": "Sharjah",
+      "latitude": 25.3342,
+      "longitude": 55.4122,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "艾因",
+      "name_en": "Al Ain City",
+      "province": "阿布扎比酋长国",
+      "latitude": 24.1917,
+      "longitude": 55.7606,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Ajman",
+      "province": "Ajman",
+      "latitude": 25.4018,
+      "longitude": 55.4788,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Dayrah",
+      "province": "Dubai",
+      "latitude": 25.2714,
+      "longitude": 55.3021,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Ras Al Khaimah",
+      "province": "Ras Al Khaimah",
+      "latitude": 25.7895,
+      "longitude": 55.9432,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Musaffah",
+      "province": "阿布扎比酋长国",
+      "latitude": 24.3589,
+      "longitude": 54.4827,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Jebel Ali",
+      "province": "Dubai",
+      "latitude": 25.0025,
+      "longitude": 55.1081,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Business Bay",
+      "province": "Dubai",
+      "latitude": 25.1854,
+      "longitude": 55.2697,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Dubai Investments Park",
+      "province": "Dubai",
+      "latitude": 25.0083,
+      "longitude": 55.1568,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Dubai Marina",
+      "province": "Dubai",
+      "latitude": 25.0852,
+      "longitude": 55.1465,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "International City",
+      "province": "Dubai",
+      "latitude": 25.1638,
+      "longitude": 55.4099,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "富吉拉",
+      "name_en": "Fujairah",
+      "province": "Fujairah",
+      "latitude": 25.1164,
+      "longitude": 56.3414,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Al Majaz",
+      "province": "Sharjah",
+      "latitude": 25.3235,
+      "longitude": 55.3877,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Warīsān",
+      "province": "Dubai",
+      "latitude": 25.1674,
+      "longitude": 55.4071,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Dubai Silicon Oasis",
+      "province": "Dubai",
+      "latitude": 25.1198,
+      "longitude": 55.3872,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Ar Rumaylah",
+      "province": "Ajman",
+      "latitude": 25.4034,
+      "longitude": 55.4334,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Khalifah A City",
+      "province": "阿布扎比酋长国",
+      "latitude": 24.4259,
+      "longitude": 54.605,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Mohammed Bin Zayed City",
+      "province": "阿布扎比酋长国",
+      "latitude": 24.3479,
+      "longitude": 54.5537,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Hawr al ‘Anz",
+      "province": "Dubai",
+      "latitude": 25.2774,
+      "longitude": 55.3368,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Reef Al Fujairah City",
+      "province": "Fujairah",
+      "latitude": 25.1448,
+      "longitude": 56.2476,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Bani Yas City",
+      "province": "阿布扎比酋长国",
+      "latitude": 24.3098,
+      "longitude": 54.6294,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Dubai Festival City",
+      "province": "Dubai",
+      "latitude": 25.2218,
+      "longitude": 55.3573,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Al Karama",
+      "province": "Dubai",
+      "latitude": 25.24,
+      "longitude": 55.3011,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Zayed City",
+      "province": "阿布扎比酋长国",
+      "latitude": 23.6542,
+      "longitude": 53.7052,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Al Shamkhah City",
+      "province": "阿布扎比酋长国",
+      "latitude": 24.3927,
+      "longitude": 54.7078,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Mirdif",
+      "province": "Dubai",
+      "latitude": 25.2244,
+      "longitude": 55.4141,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Al Warqaa",
+      "province": "Dubai",
+      "latitude": 25.1927,
+      "longitude": 55.4201,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Umm Al Quwain City",
+      "province": "Umm al Qaywayn",
+      "latitude": 25.5647,
+      "longitude": 55.5552,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Al Sajaah",
+      "province": "Sharjah",
+      "latitude": 25.3153,
+      "longitude": 55.6321,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Lahbab",
+      "province": "Dubai",
+      "latitude": 25.0376,
+      "longitude": 55.5913,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Nāyf",
+      "province": "Dubai",
+      "latitude": 25.2714,
+      "longitude": 55.3032,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Ţarīf Kalbā",
+      "province": "Fujairah",
+      "latitude": 25.0695,
+      "longitude": 56.3312,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Al Muteena",
+      "province": "Dubai",
+      "latitude": 25.2737,
+      "longitude": 55.3227,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Al Qusais 1",
+      "province": "Dubai",
+      "latitude": 25.2793,
+      "longitude": 55.37,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Mankhūl",
+      "province": "Dubai",
+      "latitude": 25.2461,
+      "longitude": 55.2922,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "As Saţwah",
+      "province": "Dubai",
+      "latitude": 25.2219,
+      "longitude": 55.2746,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Khawr Fakkān",
+      "province": "Sharjah",
+      "latitude": 25.3313,
+      "longitude": 56.342,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Jumayrā",
+      "province": "Dubai",
+      "latitude": 25.208,
+      "longitude": 55.2497,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Ar Rāshidīyah",
+      "province": "Dubai",
+      "latitude": 25.225,
+      "longitude": 55.3895,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Kalbā",
+      "province": "Sharjah",
+      "latitude": 25.0513,
+      "longitude": 56.3542,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Dubai International Financial Centre",
+      "province": "Dubai",
+      "latitude": 25.2106,
+      "longitude": 55.2779,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Dibba Al-Fujairah",
+      "province": "Fujairah",
+      "latitude": 25.5925,
+      "longitude": 56.2618,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Al Ḩamīdīyah",
+      "province": "Ajman",
+      "latitude": 25.4,
+      "longitude": 55.5292,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Dibba Al-Hisn",
+      "province": "Fujairah",
+      "latitude": 25.6196,
+      "longitude": 56.2729,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Al Furjan",
+      "province": "Dubai",
+      "latitude": 25.0265,
+      "longitude": 55.1457,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "The Palm Jumeirah",
+      "province": "Dubai",
+      "latitude": 25.1161,
+      "longitude": 55.1351,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "鲁瓦斯",
+      "name_en": "Ar Ruways",
+      "province": "阿布扎比酋长国",
+      "latitude": 24.1103,
+      "longitude": 52.7306,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Dubai Internet City",
+      "province": "Dubai",
+      "latitude": 25.0954,
+      "longitude": 55.1617,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Al Wasl",
+      "province": "Dubai",
+      "latitude": 25.1988,
+      "longitude": 55.2557,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Al Waheda",
+      "province": "Dubai",
+      "latitude": 25.2917,
+      "longitude": 55.3382,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "达伊德",
+      "name_en": "Adh Dhayd",
+      "province": "Sharjah",
+      "latitude": 25.2881,
+      "longitude": 55.8816,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Al Murar al Qadīm",
+      "province": "Dubai",
+      "latitude": 25.2758,
+      "longitude": 55.3074,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Halwan",
+      "province": "Sharjah",
+      "latitude": 25.3459,
+      "longitude": 55.4216,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Al Bada'a",
+      "province": "Dubai",
+      "latitude": 25.2246,
+      "longitude": 55.2689,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Bur Dubai",
+      "province": "Dubai",
+      "latitude": 25.2604,
+      "longitude": 55.2989,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Abū Hayl",
+      "province": "Dubai",
+      "latitude": 25.2841,
+      "longitude": 55.3315,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Al Jurf",
+      "province": "Ajman",
+      "latitude": 25.4181,
+      "longitude": 55.5079,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Al Mizhar First",
+      "province": "Dubai",
+      "latitude": 25.248,
+      "longitude": 55.4413,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Umm Suqaym",
+      "province": "Dubai",
+      "latitude": 25.1549,
+      "longitude": 55.2101,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Al Safa",
+      "province": "Dubai",
+      "latitude": 25.1705,
+      "longitude": 55.2334,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Ḩattā",
+      "province": "Dubai",
+      "latitude": 24.8007,
+      "longitude": 56.1273,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Dubai Sports City",
+      "province": "Dubai",
+      "latitude": 25.0388,
+      "longitude": 55.2172,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Knowledge Village",
+      "province": "Dubai",
+      "latitude": 25.1022,
+      "longitude": 55.1643,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Masdar City",
+      "province": "阿布扎比酋长国",
+      "latitude": 24.4321,
+      "longitude": 54.6158,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Nadd al Ḩumr",
+      "province": "Dubai",
+      "latitude": 25.2013,
+      "longitude": 55.3839,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Downtown Dubai",
+      "province": "Dubai",
+      "latitude": 25.1941,
+      "longitude": 55.2781,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Al Qusais Second",
+      "province": "Dubai",
+      "latitude": 25.2715,
+      "longitude": 55.386,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Al Khawaneej 1",
+      "province": "Dubai",
+      "latitude": 25.2488,
+      "longitude": 55.4855,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Al Twar First",
+      "province": "Dubai",
+      "latitude": 25.2715,
+      "longitude": 55.3616,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Al Mizhar Second",
+      "province": "Dubai",
+      "latitude": 25.2433,
+      "longitude": 55.4619,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "As Saţwah Sharq",
+      "province": "Dubai",
+      "latitude": 25.238,
+      "longitude": 55.2868,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Al Twar 3",
+      "province": "Dubai",
+      "latitude": 25.2516,
+      "longitude": 55.3941,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Būr Sa‘īd",
+      "province": "Dubai",
+      "latitude": 25.261,
+      "longitude": 55.3302,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Al Jazīrah al Ḩamrā’",
+      "province": "Ras Al Khaimah",
+      "latitude": 25.7091,
+      "longitude": 55.8077,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Muzayri‘",
+      "province": "阿布扎比酋长国",
+      "latitude": 23.1436,
+      "longitude": 53.7881,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Maşfūţ",
+      "province": "Ajman",
+      "latitude": 24.8109,
+      "longitude": 56.1066,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Al Madam",
+      "province": "Sharjah",
+      "latitude": 24.9735,
+      "longitude": 55.7778,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Dubai Motor City",
+      "province": "Dubai",
+      "latitude": 25.0459,
+      "longitude": 55.241,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Oud Metha",
+      "province": "Dubai",
+      "latitude": 25.2369,
+      "longitude": 55.3142,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Ar Riqqah",
+      "province": "Dubai",
+      "latitude": 25.268,
+      "longitude": 55.3127,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "DAMAC Hills",
+      "province": "Dubai",
+      "latitude": 25.0292,
+      "longitude": 55.2528,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Al Hudaiba",
+      "province": "Dubai",
+      "latitude": 25.2415,
+      "longitude": 55.2781,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Sha'biyyat Al Hiyar",
+      "province": "阿布扎比酋长国",
+      "latitude": 24.5824,
+      "longitude": 55.7467,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Al Khabaisi",
+      "province": "Dubai",
+      "latitude": 25.2663,
+      "longitude": 55.3338,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Mushayrif",
+      "province": "Ajman",
+      "latitude": 25.4098,
+      "longitude": 55.4711,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Shakhbout City",
+      "province": "阿布扎比酋长国",
+      "latitude": 24.3673,
+      "longitude": 54.6372,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Umm Al Sheif",
+      "province": "Dubai",
+      "latitude": 25.1323,
+      "longitude": 55.2057,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Al Manāmah",
+      "province": "Ajman",
+      "latitude": 25.3299,
+      "longitude": 56.0219,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Suwayḩān",
+      "province": "阿布扎比酋长国",
+      "latitude": 24.4624,
+      "longitude": 55.3372,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "Za'abeel",
+      "province": "Dubai",
+      "latitude": 25.2254,
+      "longitude": 55.305,
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "name": "",
+      "name_en": "AL Twar Second",
+      "province": "Dubai",
+      "latitude": 25.2631,
+      "longitude": 55.3803,
+      "timezone": "Asia/Dubai"
+    }
+  ]
+}
