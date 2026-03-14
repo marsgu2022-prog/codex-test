@@ -54,6 +54,7 @@ def _configure_logger() -> logging.Logger:
 
 
 LOGGER = _configure_logger()
+DAYUN_MODULE = _load_local_module("bazichart_engine_dayun", BASE_DIR / "dayun.py")
 PDF_MODULE = _load_local_module("bazichart_engine_pdf_generator", BASE_DIR / "pdf_generator.py")
 SOLAR_TIME_MODULE = _load_local_module("bazichart_engine_solar_time", BASE_DIR / "solar_time.py")
 INTERPRETER_MODULE = _load_local_module("bazichart_engine_ai_interpreter", BASE_DIR.parent / "src" / "ai_interpreter.py")
@@ -268,6 +269,7 @@ def build_four_pillars(payload: InterpretRequest, solar_time_info: dict[str, Any
 def generate_interpretation(payload: InterpretRequest, four_pillars: dict[str, Any]) -> dict[str, Any]:
     day_master = four_pillars["day"]["heavenly_stem"]
     dominant_gods = ["比肩", "正印"]
+    current_year = datetime.now().year
     narrative = INTERPRETER_MODULE.post_interpret(
         {
             "lang": "zh",
@@ -290,6 +292,8 @@ def generate_interpretation(payload: InterpretRequest, four_pillars: dict[str, A
             "longitude": payload.longitude,
         },
         "four_pillars": four_pillars,
+        "dayun": DAYUN_MODULE.calculate_dayun(payload.year, payload.month, payload.day, payload.hour, payload.gender),
+        "liunian": DAYUN_MODULE.calculate_liunian(payload.year, current_year - 5, 10),
         "ten_gods_analysis": {
             "比肩": {
                 "interpretation": "比肩体现自主驱动力、边界感与对平等关系的重视。"
