@@ -5,9 +5,9 @@ from pathlib import Path
 from typing import Any
 
 from fastapi import FastAPI, HTTPException
-from fastapi.responses import Response
 from fastapi.exceptions import RequestValidationError
-from fastapi.responses import JSONResponse
+from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import JSONResponse, Response
 from pydantic import BaseModel, Field
 
 
@@ -86,6 +86,13 @@ def generate_interpretation(payload: InterpretRequest, four_pillars: dict[str, A
 
 
 app = FastAPI()
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:3003"],
+    allow_credentials=False,
+    allow_methods=["POST", "GET", "OPTIONS"],
+    allow_headers=["Content-Type"],
+)
 
 
 @app.exception_handler(RequestValidationError)
@@ -94,6 +101,11 @@ async def handle_validation_error(_request, exc: RequestValidationError):
         status_code=400,
         content={"error": "参数校验失败", "details": exc.errors()},
     )
+
+
+@app.get("/api/health")
+def health_check():
+    return {"status": "ok"}
 
 
 @app.post("/api/report/pdf")

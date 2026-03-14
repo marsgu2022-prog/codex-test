@@ -1,0 +1,5 @@
+fastapi
+pydantic
+reportlab
+uvicorn
+pytest

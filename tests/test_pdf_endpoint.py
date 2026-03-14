@@ -15,6 +15,13 @@ SPEC.loader.exec_module(MODULE)
 client = TestClient(MODULE.app)
 
 
+def test_health_endpoint():
+    response = client.get("/api/health")
+
+    assert response.status_code == 200
+    assert response.json() == {"status": "ok"}
+
+
 def test_pdf_endpoint_returns_pdf():
     response = client.post(
         "/api/report/pdf",
@@ -48,3 +55,17 @@ def test_pdf_endpoint_missing_required_field_returns_400():
 
     assert response.status_code == 400
     assert response.headers["content-type"].startswith("application/json")
+
+
+def test_cors_preflight_allows_frontend_origin():
+    response = client.options(
+        "/api/report/pdf",
+        headers={
+            "Origin": "http://localhost:3003",
+            "Access-Control-Request-Method": "POST",
+            "Access-Control-Request-Headers": "Content-Type",
+        },
+    )
+
+    assert response.status_code == 200
+    assert response.headers["access-control-allow-origin"] == "http://localhost:3003"
