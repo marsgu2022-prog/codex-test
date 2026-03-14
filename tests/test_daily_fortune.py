@@ -28,6 +28,8 @@ def test_generate_daily_fortune_returns_complete_structure():
         "date",
         "day_ganzhi",
         "day_wuxing",
+        "liunian_ganzhi",
+        "liuyue_ganzhi",
         "fortune_level",
         "lucky_color",
         "lucky_direction",
@@ -40,6 +42,18 @@ def test_generate_daily_fortune_returns_complete_structure():
     assert required_fields.issubset(result.keys())
     assert result["general_message"]
     assert result["personal_message"]
+
+
+def test_daily_fortune_uses_jieqi_boundaries_for_year_and_month():
+    before_lichun = MODULE.generate_daily_fortune("2024-02-04")
+    after_lichun = MODULE.generate_daily_fortune("2024-02-05")
+    before_jingzhe = MODULE.generate_daily_fortune("2024-03-05")
+    after_jingzhe = MODULE.generate_daily_fortune("2024-03-06")
+
+    assert before_lichun["liunian_ganzhi"] == "癸卯"
+    assert after_lichun["liunian_ganzhi"] == "甲辰"
+    assert before_jingzhe["liuyue_ganzhi"] == "丙寅"
+    assert after_jingzhe["liuyue_ganzhi"] == "丁卯"
 
 
 def test_different_dates_return_different_results():

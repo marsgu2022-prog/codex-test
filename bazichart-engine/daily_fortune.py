@@ -2,7 +2,10 @@ from __future__ import annotations
 
 from datetime import date as date_type, datetime
 from hashlib import sha256
+from importlib.util import module_from_spec, spec_from_file_location
+from pathlib import Path
 from random import Random
+import sys
 from typing import Any
 
 
@@ -332,6 +335,20 @@ WALLPAPER_TEXTS = {
 }
 
 
+def _load_local_module(module_name: str, file_path: Path):
+    spec = spec_from_file_location(module_name, file_path)
+    if spec is None or spec.loader is None:
+        raise RuntimeError(f"无法加载模块: {file_path}")
+    module = module_from_spec(spec)
+    sys.modules[module_name] = module
+    spec.loader.exec_module(module)
+    return module
+
+
+BASE_DIR = Path(__file__).resolve().parent
+SOLAR_TERMS_MODULE = _load_local_module("bazichart_engine_daily_solar_terms", BASE_DIR / "solar_terms.py")
+
+
 def _ganzhi_for_day(target_date: date_type) -> tuple[str, str]:
     base_date = date_type(1984, 2, 2)
     delta_days = (target_date - base_date).days
@@ -386,6 +403,7 @@ def _general_fortune(day_element: str, day_ganzhi: str, branch: str, date_str: s
 def generate_daily_fortune(date, user_bazi=None, lang="zh") -> dict:
     resolved_lang = "en" if lang == "en" else "zh"
     target_date = date if isinstance(date, date_type) else datetime.strptime(str(date), "%Y-%m-%d").date()
+    target_datetime = datetime.combine(target_date, datetime.min.time())
     day_stem, day_branch = _ganzhi_for_day(target_date)
     day_ganzhi = f"{day_stem}{day_branch}"
     day_element = STEM_WUXING[day_stem]
@@ -397,6 +415,8 @@ def generate_daily_fortune(date, user_bazi=None, lang="zh") -> dict:
         "date": target_date.isoformat(),
         "day_ganzhi": day_ganzhi,
         "day_wuxing": day_element,
+        "liunian_ganzhi": SOLAR_TERMS_MODULE.get_bazi_year_ganzhi(target_datetime),
+        "liuyue_ganzhi": SOLAR_TERMS_MODULE.get_bazi_month_ganzhi(target_datetime),
         "fortune_level": "小吉" if _branch_bonus(day_branch) >= 0 else "平",
         "lucky_color": _localize(LUCKY_COLORS[day_element], resolved_lang),
         "lucky_direction": _localize(LUCKY_DIRECTIONS[day_element], resolved_lang),

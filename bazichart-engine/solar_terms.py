@@ -22,6 +22,22 @@ JIE_MONTH_STARTS = [
     ("大雪", 11),
     ("小寒", 12),
 ]
+TIANGAN = "甲乙丙丁戊己庚辛壬癸"
+DIZHI = "子丑寅卯辰巳午未申酉戌亥"
+YEAR_BASE = 1984
+MONTH_START_STEM_MAP = {
+    "甲": "丙",
+    "己": "丙",
+    "乙": "戊",
+    "庚": "戊",
+    "丙": "庚",
+    "辛": "庚",
+    "丁": "壬",
+    "壬": "壬",
+    "戊": "甲",
+    "癸": "甲",
+}
+MONTH_BRANCHES = "寅卯辰巳午未申酉戌亥子丑"
 
 
 @lru_cache(maxsize=1)
@@ -101,3 +117,17 @@ def get_next_jie(dt: datetime) -> tuple[str, datetime]:
     if not eligible:
         raise KeyError(f"缺少 {dt.year} 附近的下一节数据")
     return min(eligible, key=lambda item: item[1])
+
+
+def get_bazi_year_ganzhi(dt: datetime) -> str:
+    bazi_year = resolve_bazi_year(dt)
+    offset = bazi_year - YEAR_BASE
+    return f"{TIANGAN[offset % 10]}{DIZHI[offset % 12]}"
+
+
+def get_bazi_month_ganzhi(dt: datetime) -> str:
+    year_ganzhi = get_bazi_year_ganzhi(dt)
+    month_order = resolve_bazi_month_order(dt)
+    stem = TIANGAN[(TIANGAN.index(MONTH_START_STEM_MAP[year_ganzhi[0]]) + month_order - 1) % 10]
+    branch = MONTH_BRANCHES[month_order - 1]
+    return f"{stem}{branch}"
