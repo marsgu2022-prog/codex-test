@@ -57,6 +57,7 @@ LOGGER = _configure_logger()
 DAYUN_MODULE = _load_local_module("bazichart_engine_dayun", BASE_DIR / "dayun.py")
 PDF_MODULE = _load_local_module("bazichart_engine_pdf_generator", BASE_DIR / "pdf_generator.py")
 SOLAR_TIME_MODULE = _load_local_module("bazichart_engine_solar_time", BASE_DIR / "solar_time.py")
+WUXING_MODULE = _load_local_module("bazichart_engine_wuxing_analysis", BASE_DIR / "wuxing_analysis.py")
 INTERPRETER_MODULE = _load_local_module("bazichart_engine_ai_interpreter", BASE_DIR.parent / "src" / "ai_interpreter.py")
 INTERPRETATION_CACHE: OrderedDict[str, dict[str, Any]] = OrderedDict()
 CITY_LONGITUDE_MAP = {
@@ -292,6 +293,7 @@ def generate_interpretation(payload: InterpretRequest, four_pillars: dict[str, A
             "longitude": payload.longitude,
         },
         "four_pillars": four_pillars,
+        "wuxing_analysis": WUXING_MODULE.analyze_wuxing(four_pillars),
         "dayun": DAYUN_MODULE.calculate_dayun(payload.year, payload.month, payload.day, payload.hour, payload.gender),
         "liunian": DAYUN_MODULE.calculate_liunian(payload.year, current_year - 5, 10),
         "ten_gods_analysis": {
