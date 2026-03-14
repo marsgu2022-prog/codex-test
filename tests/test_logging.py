@@ -22,12 +22,12 @@ def test_request_logging_writes_log_file():
     response = client.post(
         "/api/interpret",
         json={
-            "birth_year": 1990,
-            "birth_month": 7,
-            "birth_day": 15,
-            "birth_hour": 9,
+            "year": 1990,
+            "month": 7,
+            "day": 15,
+            "hour": 9,
             "gender": "女",
-            "birthplace": "上海",
+            "city": "上海",
         },
     )
 

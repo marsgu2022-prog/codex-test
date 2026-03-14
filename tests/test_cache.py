@@ -18,12 +18,12 @@ client = TestClient(MODULE.app)
 def test_interpret_cache_reuses_same_parameters():
     MODULE.clear_interpretation_cache()
     payload = {
-        "birth_year": 1990,
-        "birth_month": 7,
-        "birth_day": 15,
-        "birth_hour": 9,
+        "year": 1990,
+        "month": 7,
+        "day": 15,
+        "hour": 9,
         "gender": "女",
-        "birthplace": "上海",
+        "city": "上海",
     }
 
     first = client.post("/api/interpret", json=payload)
@@ -37,12 +37,12 @@ def test_interpret_cache_reuses_same_parameters():
 def test_pdf_endpoint_uses_shared_interpretation_cache():
     MODULE.clear_interpretation_cache()
     payload = {
-        "birth_year": 1988,
-        "birth_month": 10,
-        "birth_day": 8,
-        "birth_hour": 6,
+        "year": 1988,
+        "month": 10,
+        "day": 8,
+        "hour": 6,
         "gender": "男",
-        "birthplace": "北京",
+        "city": "北京",
     }
 
     interpret_response = client.post("/api/interpret", json=payload)

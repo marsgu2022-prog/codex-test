@@ -26,12 +26,12 @@ def test_pdf_endpoint_returns_pdf():
     response = client.post(
         "/api/report/pdf",
         json={
-            "birth_year": 1990,
-            "birth_month": 7,
-            "birth_day": 15,
-            "birth_hour": 9,
+            "year": 1990,
+            "month": 7,
+            "day": 15,
+            "hour": 9,
             "gender": "女",
-            "birthplace": "上海",
+            "city": "上海",
         },
     )
 
@@ -45,12 +45,12 @@ def test_interpret_endpoint_returns_json():
     response = client.post(
         "/api/interpret",
         json={
-            "birth_year": 1990,
-            "birth_month": 7,
-            "birth_day": 15,
-            "birth_hour": 9,
+            "year": 1990,
+            "month": 7,
+            "day": 15,
+            "hour": 9,
             "gender": "女",
-            "birthplace": "上海",
+            "city": "上海",
         },
     )
 
@@ -58,22 +58,23 @@ def test_interpret_endpoint_returns_json():
     body = response.json()
     assert "four_pillars" in body
     assert "ten_gods_analysis" in body
+    assert body["input"]["gender"] == "female"
 
 
 def test_pdf_endpoint_missing_required_field_returns_400():
     response = client.post(
         "/api/report/pdf",
         json={
-            "birth_year": 1990,
-            "birth_month": 7,
-            "birth_day": 15,
-            "birth_hour": 9,
+            "month": 7,
+            "day": 15,
+            "hour": 9,
             "gender": "女",
         },
     )
 
     assert response.status_code == 400
     assert response.headers["content-type"].startswith("application/json")
+    assert response.json() == {"error": "请输入出生年份"}
 
 
 def test_cors_preflight_allows_frontend_origin():

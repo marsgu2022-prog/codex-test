@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 from collections import OrderedDict
+from datetime import datetime
 from hashlib import sha256
 from importlib.util import module_from_spec, spec_from_file_location
 import json
@@ -14,7 +15,7 @@ from fastapi import FastAPI, HTTPException, Request
 from fastapi.exceptions import RequestValidationError
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse, Response
-from pydantic import BaseModel, Field
+from pydantic import BaseModel, Field, model_validator
 
 
 BASE_DIR = Path(__file__).resolve().parent
@@ -59,18 +60,89 @@ INTERPRETATION_CACHE: OrderedDict[str, dict[str, Any]] = OrderedDict()
 
 
 class InterpretRequest(BaseModel):
-    birth_year: int = Field(..., ge=1900, le=2100)
-    birth_month: int = Field(..., ge=1, le=12)
-    birth_day: int = Field(..., ge=1, le=31)
-    birth_hour: int = Field(..., ge=0, le=23)
-    gender: str = Field(..., min_length=1)
-    birthplace: str = Field(..., min_length=1)
+    year: Any = Field(default=None)
+    month: Any = Field(default=None)
+    day: Any = Field(default=None)
+    hour: Any = Field(default=None)
+    gender: Any = Field(default=None)
+    city: str | None = Field(default=None)
+    timezone: str | None = Field(default=None)
+
+    @model_validator(mode="after")
+    def validate_fields(self) -> "InterpretRequest":
+        self.year = _validate_int_field(self.year, "请输入出生年份", "年份范围为1900-2030", 1900, 2030)
+        self.month = _validate_int_field(self.month, "请输入出生月份", "月份范围为1-12", 1, 12)
+        self.day = _validate_int_field(self.day, "请输入出生日期", "日期范围为1-31", 1, 31)
+        self.hour = _validate_int_field(self.hour, "请输入出生时辰", "时辰范围为0-23", 0, 23)
+        self.gender = _normalize_gender(self.gender)
+        self.city = (self.city or "").strip()
+        self.timezone = (self.timezone or "Asia/Shanghai").strip() or "Asia/Shanghai"
+        _validate_date(self.year, self.month, self.day)
+        return self
+
+
+def _extract_validation_message(exc: RequestValidationError) -> str:
+    errors = exc.errors()
+    if not errors:
+        return "参数校验失败"
+
+    first = errors[0]
+    error_type = first.get("type")
+    field = first.get("loc", [])[-1] if first.get("loc") else None
+    if error_type == "missing":
+        if field == "year":
+            return "请输入出生年份"
+        if field == "month":
+            return "请输入出生月份"
+        if field == "day":
+            return "请输入出生日期"
+        if field == "hour":
+            return "请输入出生时辰"
+        if field == "gender":
+            return "请选择性别"
+
+    message = first.get("msg", "参数校验失败")
+    if message.startswith("Value error, "):
+        return message.split("Value error, ", 1)[1]
+    return message
+
+
+def _validate_int_field(value: Any, missing_message: str, invalid_message: str, minimum: int, maximum: int) -> int:
+    if value is None or value == "":
+        raise ValueError(missing_message)
+    try:
+        int_value = int(value)
+    except (TypeError, ValueError) as exc:
+        raise ValueError(invalid_message) from exc
+    if int_value < minimum or int_value > maximum:
+        raise ValueError(invalid_message)
+    return int_value
+
+
+def _normalize_gender(value: Any) -> str:
+    if value is None or str(value).strip() == "":
+        raise ValueError("请选择性别")
+    text = str(value).strip().lower()
+    if text == "男":
+        return "male"
+    if text == "女":
+        return "female"
+    if text in {"male", "female"}:
+        return text
+    raise ValueError("请选择性别")
+
+
+def _validate_date(year: int, month: int, day: int) -> None:
+    try:
+        datetime(year=year, month=month, day=day)
+    except ValueError as exc:
+        raise ValueError("日期无效") from exc
 
 
 def _mask_request_params(payload: dict[str, Any] | None) -> str:
     if not payload:
         return "year=unknown gender=unknown"
-    year = payload.get("birth_year", "unknown")
+    year = payload.get("year", "unknown")
     gender = payload.get("gender", "unknown")
     return f"year={year} gender={gender}"
 
@@ -78,12 +150,12 @@ def _mask_request_params(payload: dict[str, Any] | None) -> str:
 def _cache_key(payload: InterpretRequest) -> str:
     raw_key = "|".join(
         [
-            str(payload.birth_year),
-            str(payload.birth_month),
-            str(payload.birth_day),
-            str(payload.birth_hour),
+            str(payload.year),
+            str(payload.month),
+            str(payload.day),
+            str(payload.hour),
             payload.gender.strip(),
-            payload.birthplace.strip(),
+            payload.city.strip(),
         ]
     )
     return sha256(raw_key.encode("utf-8")).hexdigest()
@@ -119,10 +191,10 @@ def build_four_pillars(payload: InterpretRequest) -> dict[str, dict[str, str]]:
         }
 
     return {
-        "year": pillar(payload.birth_year),
-        "month": pillar(payload.birth_month),
-        "day": pillar(payload.birth_day),
-        "hour": pillar(payload.birth_hour),
+        "year": pillar(payload.year),
+        "month": pillar(payload.month),
+        "day": pillar(payload.day),
+        "hour": pillar(payload.hour),
     }
 
 
@@ -139,7 +211,15 @@ def generate_interpretation(payload: InterpretRequest, four_pillars: dict[str, A
     )
 
     return {
-        "input": payload.model_dump(),
+        "input": {
+            "birth_year": payload.year,
+            "birth_month": payload.month,
+            "birth_day": payload.day,
+            "birth_hour": payload.hour,
+            "gender": payload.gender,
+            "birthplace": payload.city,
+            "timezone": payload.timezone,
+        },
         "four_pillars": four_pillars,
         "ten_gods_analysis": {
             "比肩": {
@@ -219,7 +299,7 @@ async def handle_validation_error(request: Request, exc: RequestValidationError)
     request.state.cache_status = "MISS"
     return JSONResponse(
         status_code=400,
-        content={"error": "参数校验失败", "details": exc.errors()},
+        content={"error": _extract_validation_message(exc)},
     )
 
 
