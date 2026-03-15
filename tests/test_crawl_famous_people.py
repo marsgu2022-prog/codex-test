@@ -45,6 +45,7 @@ def test_build_day_pillar_index_groups_people():
             "name_en": "A",
             "birth_date": "1900-01-01",
             "nationality_zh": "中国",
+            "occupation": ["政治家"],
             "field_zh": "政治家",
             "summary": "简介",
             "day_pillar": "甲子",
@@ -55,6 +56,7 @@ def test_build_day_pillar_index_groups_people():
             "name_en": "B",
             "birth_date": "1900-01-02",
             "nationality_zh": "美国",
+            "occupation": ["科学家"],
             "field_zh": "科学家",
             "summary": "简介",
             "day_pillar": "甲子",
@@ -63,6 +65,20 @@ def test_build_day_pillar_index_groups_people():
     index = MODULE.build_day_pillar_index(people)
     assert list(index) == ["甲子"]
     assert len(index["甲子"]) == 2
+
+
+def test_classify_occupations_maps_standard_categories():
+    occupations = MODULE.classify_occupations(
+        [MODULE.OCCUPATION_QIDS["mathematician"], MODULE.OCCUPATION_QIDS["writer"]],
+        ["数学家", "作家"],
+        ["mathematician", "writer"],
+    )
+    assert occupations == ["科学家", "作家"]
+
+
+def test_classify_occupations_uses_keyword_fallback():
+    occupations = MODULE.classify_occupations([], ["奥运选手", "钢琴家"], ["Olympic athlete", "pianist"])
+    assert occupations == ["运动员", "音乐家"]
 
 
 def test_validate_people_flags_missing_required_fields():

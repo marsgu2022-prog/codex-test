@@ -124,6 +124,33 @@ OCCUPATION_QIDS = {
     "businessperson": "Q43845",
     "entrepreneur": "Q131524",
 }
+STANDARD_OCCUPATION_NAMES = ["企业家", "政治家", "演员", "运动员", "科学家", "作家", "音乐家"]
+OCCUPATION_CATEGORY_BY_KEY = {
+    "businessperson": "企业家",
+    "entrepreneur": "企业家",
+    "politician": "政治家",
+    "actor": "演员",
+    "athlete": "运动员",
+    "scientist": "科学家",
+    "mathematician": "科学家",
+    "physicist": "科学家",
+    "chemist": "科学家",
+    "biologist": "科学家",
+    "astronomer": "科学家",
+    "computer_scientist": "科学家",
+    "inventor": "科学家",
+    "writer": "作家",
+    "singer": "音乐家",
+}
+OCCUPATION_KEYWORDS = {
+    "企业家": ["business", "entrepreneur", "executive", "industrialist", "tycoon", "商人", "企业家", "实业家", "总裁", "首席执行官"],
+    "政治家": ["politician", "political", "statesperson", "president", "prime minister", "皇帝", "君主", "政治家", "政治人物", "总统", "首相"],
+    "演员": ["actor", "actress", "film actor", "television actor", "演员", "艺人"],
+    "运动员": ["athlete", "player", "footballer", "basketball", "baseball", "tennis", "olympic", "运动员", "选手", "球员", "奥运"],
+    "科学家": ["scientist", "mathematician", "physicist", "chemist", "biologist", "astronomer", "computer scientist", "inventor", "engineer", "科学家", "数学家", "物理学家", "化学家", "生物学家", "天文学家", "计算机科学家", "发明家", "工程师"],
+    "作家": ["writer", "author", "novelist", "poet", "essayist", "writer", "作家", "小说家", "诗人", "编剧"],
+    "音乐家": ["singer", "musician", "composer", "rapper", "pianist", "violinist", "歌手", "音乐家", "作曲家", "演奏家"],
+}
 SCIENTIST_OCCUPATIONS = [
     "scientist",
     "mathematician",
@@ -501,6 +528,7 @@ def build_detail_map(session: requests.Session, person_ids: list[str]) -> dict[s
         countries_en = [label_value(related_entities.get(item, {}), "en") or label_value(related_entities.get(item, {}), "zh") for item in country_ids]
         fields_zh = [label_value(related_entities.get(item, {}), "zh") or label_value(related_entities.get(item, {}), "en") for item in occupation_ids]
         fields_en = [label_value(related_entities.get(item, {}), "en") or label_value(related_entities.get(item, {}), "zh") for item in occupation_ids]
+        occupations = classify_occupations(occupation_ids, fields_zh, fields_en)
         details[person_id] = {
             "name_zh": label_value(entity, "zh") or label_value(entity, "en") or person_id,
             "name_en": label_value(entity, "en") or label_value(entity, "zh") or person_id,
@@ -509,8 +537,28 @@ def build_detail_map(session: requests.Session, person_ids: list[str]) -> dict[s
             "nationality_en": ", ".join(dict.fromkeys(item for item in countries_en if item)),
             "field_zh": "、".join(dict.fromkeys(item for item in fields_zh if item)),
             "field_en": ", ".join(dict.fromkeys(item for item in fields_en if item)),
+            "occupation": occupations,
         }
     return details
+
+
+def classify_occupations(occupation_ids: list[str], fields_zh: list[str], fields_en: list[str]) -> list[str]:
+    categories: list[str] = []
+    for occupation_key, occupation_qid in OCCUPATION_QIDS.items():
+        if occupation_qid in occupation_ids:
+            category = OCCUPATION_CATEGORY_BY_KEY.get(occupation_key)
+            if category and category not in categories:
+                categories.append(category)
+
+    labels = [item for item in [*fields_zh, *fields_en] if item]
+    lower_labels = [item.lower() for item in labels]
+    for category in STANDARD_OCCUPATION_NAMES:
+        if category in categories:
+            continue
+        keywords = OCCUPATION_KEYWORDS[category]
+        if any(keyword in label for keyword in keywords for label in lower_labels) or any(keyword in label for keyword in keywords for label in labels):
+            categories.append(category)
+    return categories
 
 
 def enrich_person(row: dict[str, Any], cohort: str, details: dict[str, dict[str, Any]]) -> dict[str, Any] | None:
@@ -531,6 +579,7 @@ def enrich_person(row: dict[str, Any], cohort: str, details: dict[str, dict[str,
         "has_birth_hour": birth["hour"] is not None,
         "nationality_zh": detail.get("nationality_zh", ""),
         "nationality_en": detail.get("nationality_en", ""),
+        "occupation": detail.get("occupation", []),
         "field_zh": detail.get("field_zh", ""),
         "field_en": detail.get("field_en", ""),
         "summary": detail.get("summary", ""),
@@ -812,6 +861,11 @@ def fill_related_labels(session: requests.Session, entities: dict[str, Any]) -> 
         entity["_field_en"] = ", ".join(
             dict.fromkeys(label_value(related_entities.get(item, {}), "en") or label_value(related_entities.get(item, {}), "zh") for item in occupation_ids if related_entities.get(item))
         )
+        entity["_occupation"] = classify_occupations(
+            occupation_ids,
+            [label_value(related_entities.get(item, {}), "zh") or label_value(related_entities.get(item, {}), "en") for item in occupation_ids if related_entities.get(item)],
+            [label_value(related_entities.get(item, {}), "en") or label_value(related_entities.get(item, {}), "zh") for item in occupation_ids if related_entities.get(item)],
+        )
     return entities
 
 
@@ -834,6 +888,7 @@ def build_people_from_entities(entities: dict[str, Any], cohort: str) -> list[di
                 "has_birth_hour": birth["hour"] is not None,
                 "nationality_zh": entity.get("_country_zh", ""),
                 "nationality_en": entity.get("_country_en", ""),
+                "occupation": entity.get("_occupation", []),
                 "field_zh": entity.get("_field_zh", ""),
                 "field_en": entity.get("_field_en", ""),
                 "summary": description_value(entity, "zh") or description_value(entity, "en") or "",
@@ -891,6 +946,7 @@ def build_day_pillar_index(people: list[dict[str, Any]]) -> dict[str, list[dict[
                 "name_en": person["name_en"],
                 "birth_date": person["birth_date"],
                 "nationality_zh": person["nationality_zh"],
+                "occupation": person.get("occupation", []),
                 "field_zh": person["field_zh"],
                 "summary": person["summary"],
             }
