@@ -42,3 +42,9 @@
 - 名称字段统一为 `name_zh_hans`、`name_zh_hant`、`name_en`
 - 简介字段统一为 `bio_zh_hans`、`bio_zh_hant`、`bio_en`
 - 旧字段保留兼容，后续前台和检索优先切到新命名
+
+## 名人库增加敏感人物清洗管线
+
+- 新增 `bazichart-engine/scripts/clean_famous_people.py`，对名人库做长期可复用的敏感人物过滤
+- 清洗规则分为三层：明确黑名单直接删除、关键词高风险删除、不确定人物进入 `review_list.json`
+- 清洗后会原地重写 `famous_people.json`，并重新生成 `day_pillar_index.json` 与 `deleted_report.json`

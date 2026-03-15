@@ -1,0 +1,174 @@
+{
+  "generated_at": "2026-03-15 12:52:03",
+  "before_count": 3212,
+  "after_count": 3192,
+  "deleted_count": 20,
+  "deleted_by_category": {
+    "战争与暴力": 11,
+    "政治敏感": 6,
+    "邪教与极端": 2,
+    "犯罪类": 1
+  },
+  "deleted_people": [
+    {
+      "id": "Q174971",
+      "name_zh": "伊藤博文",
+      "name_en": "Itō Hirobumi",
+      "birth_date": "1841-10-16",
+      "category": "战争与暴力",
+      "reason": "二战战犯或侵华战争相关核心人物"
+    },
+    {
+      "id": "Q160847",
+      "name_zh": "东条英机",
+      "name_en": "Hideki Tojo",
+      "birth_date": "1884-12-30",
+      "category": "战争与暴力",
+      "reason": "二战战犯或侵华战争相关核心人物"
+    },
+    {
+      "id": "Q352",
+      "name_zh": "阿道夫·希特勒",
+      "name_en": "Adolf Hitler",
+      "birth_date": "1889-04-20",
+      "category": "战争与暴力",
+      "reason": "二战战犯或侵华战争相关核心人物"
+    },
+    {
+      "id": "Q650219",
+      "name_zh": "阿圖爾·賽斯-英夸特",
+      "name_en": "Arthur Seyss-Inquart",
+      "birth_date": "1892-07-22",
+      "category": "战争与暴力",
+      "reason": "命中战争/恐怖/屠杀关键词: nazi"
+    },
+    {
+      "id": "Q47906",
+      "name_zh": "赫尔曼·戈林",
+      "name_en": "Hermann Göring",
+      "birth_date": "1893-01-12",
+      "category": "战争与暴力",
+      "reason": "二战战犯或侵华战争相关核心人物"
+    },
+    {
+      "id": "Q60145",
+      "name_zh": "里夏德·瓦尔特·达雷",
+      "name_en": "Richard Walther Darré",
+      "birth_date": "1895-07-14",
+      "category": "战争与暴力",
+      "reason": "命中战争/恐怖/屠杀关键词: nazi"
+    },
+    {
+      "id": "Q41749",
+      "name_zh": "約瑟夫·戈培爾",
+      "name_en": "Joseph Goebbels",
+      "birth_date": "1897-10-29",
+      "category": "战争与暴力",
+      "reason": "二战战犯或侵华战争相关核心人物"
+    },
+    {
+      "id": "Q78473",
+      "name_zh": "恩斯特·卡爾滕布倫納",
+      "name_en": "Ernst Kaltenbrunner",
+      "birth_date": "1903-10-04",
+      "category": "战争与暴力",
+      "reason": "命中战争/恐怖/屠杀关键词: war criminal"
+    },
+    {
+      "id": "Q69166",
+      "name_zh": "沃尔夫冈·阿本德罗特",
+      "name_en": "Wolfgang Abendroth",
+      "birth_date": "1906-05-02",
+      "category": "战争与暴力",
+      "reason": "命中战争/恐怖/屠杀关键词: nazi"
+    },
+    {
+      "id": "Q315528",
+      "name_zh": "李登輝",
+      "name_en": "Lee Teng-hui",
+      "birth_date": "1923-01-15",
+      "category": "政治敏感",
+      "reason": "分裂主义、反华制裁、叛逃或间谍相关人物"
+    },
+    {
+      "id": "Q66107",
+      "name_zh": "亨利·基辛格",
+      "name_en": "Henry Kissinger",
+      "birth_date": "1923-05-27",
+      "category": "战争与暴力",
+      "reason": "命中战争/恐怖/屠杀关键词: 战犯"
+    },
+    {
+      "id": "Q17293",
+      "name_zh": "第十四世達賴喇嘛",
+      "name_en": "Tenzin Gyatso",
+      "birth_date": "1935-07-06",
+      "category": "政治敏感",
+      "reason": "分裂主义、反华制裁、叛逃或间谍相关人物"
+    },
+    {
+      "id": "Q298133",
+      "name_zh": "热比娅·卡德尔",
+      "name_en": "Rebiya Kadeer",
+      "birth_date": "1947-01-21",
+      "category": "政治敏感",
+      "reason": "分裂主义、反华制裁、叛逃或间谍相关人物"
+    },
+    {
+      "id": "Q311669",
+      "name_zh": "麻原彰晃",
+      "name_en": "Shōkō Asahara",
+      "birth_date": "1955-03-02",
+      "category": "邪教与极端",
+      "reason": "邪教、极端宗教、军火或奴隶贸易相关人物"
+    },
+    {
+      "id": "Q27514522",
+      "name_zh": "崔顺实",
+      "name_en": "Choi Sun-sil",
+      "birth_date": "1956-06-23",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: cult leader"
+    },
+    {
+      "id": "Q233984",
+      "name_zh": "蔡英文",
+      "name_en": "Tsai Ing-wen",
+      "birth_date": "1956-08-31",
+      "category": "政治敏感",
+      "reason": "分裂主义、反华制裁、叛逃或间谍相关人物"
+    },
+    {
+      "id": "Q615836",
+      "name_zh": "葉真理",
+      "name_en": "Zhenli Ye Gon",
+      "birth_date": "1963-01-31",
+      "category": "犯罪类",
+      "reason": "命中严重犯罪关键词: drug lord"
+    },
+    {
+      "id": "Q44220",
+      "name_zh": "安德斯·贝林·布雷维克",
+      "name_en": "Anders Behring Breivik",
+      "birth_date": "1979-02-13",
+      "category": "战争与暴力",
+      "reason": "命中战争/恐怖/屠杀关键词: terrorist"
+    },
+    {
+      "id": "Q18437771",
+      "name_zh": "朴延美",
+      "name_en": "Park Yeon-mi",
+      "birth_date": "1993-10-04",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: defector"
+    },
+    {
+      "id": "Q9455382",
+      "name_zh": "黃之鋒",
+      "name_en": "Joshua Wong",
+      "birth_date": "1996-10-13",
+      "category": "政治敏感",
+      "reason": "分裂主义、反华制裁、叛逃或间谍相关人物"
+    }
+  ]
+}

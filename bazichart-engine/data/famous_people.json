@@ -5390,41 +5390,6 @@
     }
   },
   {
-    "id": "Q174971",
-    "name_zh": "伊藤博文",
-    "name_en": "Itō Hirobumi",
-    "birth_date": "1841-10-16",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "日本",
-    "nationality_en": "Japan",
-    "field_zh": "政治人物、外交官",
-    "field_en": "politician, diplomat",
-    "summary": "日本政治家、军事家、外交家，首任内阁总理大臣",
-    "source": {
-      "type": "wikidata",
-      "cohort": "global_extra",
-      "id": "Q174971",
-      "url": "https://www.wikidata.org/wiki/Q174971"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "辛丑",
-      "month": "戊戌",
-      "day": "癸丑",
-      "hour": null
-    },
-    "day_pillar": "癸丑",
-    "day_master": "癸",
-    "wuxing_distribution": {
-      "金": 1,
-      "木": 0,
-      "水": 1,
-      "火": 0,
-      "土": 4
-    }
-  },
-  {
     "id": "Q1442208",
     "name_zh": "法蘭斯高·謝伯",
     "name_en": "Francisco Seeber",
@@ -13510,41 +13475,6 @@
     }
   },
   {
-    "id": "Q160847",
-    "name_zh": "东条英机",
-    "name_en": "Hideki Tojo",
-    "birth_date": "1884-12-30",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "日本",
-    "nationality_en": "Japan",
-    "field_zh": "政治人物、外交官、軍官",
-    "field_en": "politician, diplomat, military officer",
-    "summary": "軍官 和前任日本內閣總理大臣",
-    "source": {
-      "type": "wikidata",
-      "cohort": "global_extra",
-      "id": "Q160847",
-      "url": "https://www.wikidata.org/wiki/Q160847"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "甲申",
-      "month": "丙子",
-      "day": "甲寅",
-      "hour": null
-    },
-    "day_pillar": "甲寅",
-    "day_master": "甲",
-    "wuxing_distribution": {
-      "金": 1,
-      "木": 3,
-      "水": 1,
-      "火": 1,
-      "土": 0
-    }
-  },
-  {
     "id": "Q235509",
     "name_zh": "伊麗莎白雅頓",
     "name_en": "Elizabeth Arden",
@@ -14945,41 +14875,6 @@
     }
   },
   {
-    "id": "Q352",
-    "name_zh": "阿道夫·希特勒",
-    "name_en": "Adolf Hitler",
-    "birth_date": "1889-04-20",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "內萊塔尼亞、奧地利、德意志国、納粹德國",
-    "nationality_en": "Cisleithania, Austria, German Reich, Nazi Germany",
-    "field_zh": "士兵、畫家、政治作家、政治人物、武将、作家、Holocaust perpetrator",
-    "field_en": "soldier, painter, political writer, politician, military commander, writer, Holocaust perpetrator",
-    "summary": "前任德國總理",
-    "source": {
-      "type": "wikidata",
-      "cohort": "western",
-      "id": "Q352",
-      "url": "https://www.wikidata.org/wiki/Q352"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "己丑",
-      "month": "戊辰",
-      "day": "丙寅",
-      "hour": null
-    },
-    "day_pillar": "丙寅",
-    "day_master": "丙",
-    "wuxing_distribution": {
-      "金": 0,
-      "木": 1,
-      "水": 0,
-      "火": 1,
-      "土": 4
-    }
-  },
-  {
     "id": "Q151394",
     "name_zh": "萨拉查",
     "name_en": "António de Oliveira Salazar",
@@ -16240,41 +16135,6 @@
     }
   },
   {
-    "id": "Q650219",
-    "name_zh": "阿圖爾·賽斯-英夸特",
-    "name_en": "Arthur Seyss-Inquart",
-    "birth_date": "1892-07-22",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "奧匈帝國、奧地利、納粹德國",
-    "nationality_en": "Austria–Hungary, Austria, Nazi Germany",
-    "field_zh": "政治人物、律師、法学家、作家、Holocaust perpetrator",
-    "field_en": "politician, lawyer, jurist, writer, Holocaust perpetrator",
-    "summary": "Austrian Nazi politician, and Nazi ruler of occupied Netherlands, convicted of crimes against humanity and sentenced to death (1892–1946)",
-    "source": {
-      "type": "wikidata",
-      "cohort": "western",
-      "id": "Q650219",
-      "url": "https://www.wikidata.org/wiki/Q650219"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "壬辰",
-      "month": "丁未",
-      "day": "乙卯",
-      "hour": null
-    },
-    "day_pillar": "乙卯",
-    "day_master": "乙",
-    "wuxing_distribution": {
-      "金": 0,
-      "木": 2,
-      "水": 1,
-      "火": 1,
-      "土": 2
-    }
-  },
-  {
     "id": "Q11987",
     "name_zh": "Assis Chateaubriand",
     "name_en": "Assis Chateaubriand",
@@ -16447,41 +16307,6 @@
       "水": 3,
       "火": 0,
       "土": 2
-    }
-  },
-  {
-    "id": "Q47906",
-    "name_zh": "赫尔曼·戈林",
-    "name_en": "Hermann Göring",
-    "birth_date": "1893-01-12",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "納粹德國、德意志帝國、德國、瑞典",
-    "nationality_en": "Nazi Germany, German Empire, Germany, Sweden",
-    "field_zh": "政治人物、飛行員、艺术收藏家、战犯、air force officer、軍官、戰鬥機飛行員、部長、Holocaust perpetrator",
-    "field_en": "politician, aircraft pilot, art collector, war criminal, air force officer, military officer, fighter pilot, minister, Holocaust perpetrator",
-    "summary": "纳粹德国帝国元帅",
-    "source": {
-      "type": "wikidata",
-      "cohort": "western",
-      "id": "Q47906",
-      "url": "https://www.wikidata.org/wiki/Q47906"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "壬辰",
-      "month": "癸丑",
-      "day": "己酉",
-      "hour": null
-    },
-    "day_pillar": "己酉",
-    "day_master": "己",
-    "wuxing_distribution": {
-      "金": 1,
-      "木": 0,
-      "水": 2,
-      "火": 0,
-      "土": 3
     }
   },
   {
@@ -17290,41 +17115,6 @@
     }
   },
   {
-    "id": "Q60145",
-    "name_zh": "里夏德·瓦尔特·达雷",
-    "name_en": "Richard Walther Darré",
-    "birth_date": "1895-07-14",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "阿根廷",
-    "nationality_en": "Argentina",
-    "field_zh": "政治人物、农学家、作家",
-    "field_en": "politician, agronomist, writer",
-    "summary": "Nazi SS General; Reich Minister of Nutrition and Agriculture (1895-1953)",
-    "source": {
-      "type": "wikidata",
-      "cohort": "global_extra",
-      "id": "Q60145",
-      "url": "https://www.wikidata.org/wiki/Q60145"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "乙未",
-      "month": "癸未",
-      "day": "壬戌",
-      "hour": null
-    },
-    "day_pillar": "壬戌",
-    "day_master": "壬",
-    "wuxing_distribution": {
-      "金": 0,
-      "木": 1,
-      "水": 2,
-      "火": 0,
-      "土": 3
-    }
-  },
-  {
     "id": "Q128614",
     "name_zh": "约翰·迪芬贝克",
     "name_en": "John Diefenbaker",
@@ -17916,41 +17706,6 @@
       "木": 0,
       "水": 1,
       "火": 2,
-      "土": 1
-    }
-  },
-  {
-    "id": "Q41749",
-    "name_zh": "約瑟夫·戈培爾",
-    "name_en": "Joseph Goebbels",
-    "birth_date": "1897-10-29",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "納粹德國、德國",
-    "nationality_en": "Nazi Germany, Germany",
-    "field_zh": "政治人物、日记作者、自传作者、新聞工作者、小说家、宣传工作者、編劇、煽动家、作家、Holocaust perpetrator",
-    "field_en": "politician, diarist, autobiographer, journalist, novelist, propagandist, screenwriter, demagogue, writer, Holocaust perpetrator",
-    "summary": "語文學家 和前任德國總理",
-    "source": {
-      "type": "wikidata",
-      "cohort": "western",
-      "id": "Q41749",
-      "url": "https://www.wikidata.org/wiki/Q41749"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "丁酉",
-      "month": "庚戌",
-      "day": "庚申",
-      "hour": null
-    },
-    "day_pillar": "庚申",
-    "day_master": "庚",
-    "wuxing_distribution": {
-      "金": 4,
-      "木": 0,
-      "水": 0,
-      "火": 1,
       "土": 1
     }
   },
@@ -20440,41 +20195,6 @@
     }
   },
   {
-    "id": "Q78473",
-    "name_zh": "恩斯特·卡爾滕布倫納",
-    "name_en": "Ernst Kaltenbrunner",
-    "birth_date": "1903-10-04",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "奧地利、納粹德國",
-    "nationality_en": "Austria, Nazi Germany",
-    "field_zh": "政治人物、律師、軍官、Gestapo employee、Holocaust perpetrator",
-    "field_en": "politician, lawyer, military officer, Gestapo employee, Holocaust perpetrator",
-    "summary": "Austrian SS official, a major perpetrator of the Holocaust and convicted war criminal (1903-1946)",
-    "source": {
-      "type": "wikidata",
-      "cohort": "western",
-      "id": "Q78473",
-      "url": "https://www.wikidata.org/wiki/Q78473"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "癸卯",
-      "month": "辛酉",
-      "day": "乙丑",
-      "hour": null
-    },
-    "day_pillar": "乙丑",
-    "day_master": "乙",
-    "wuxing_distribution": {
-      "金": 2,
-      "木": 2,
-      "水": 1,
-      "火": 0,
-      "土": 1
-    }
-  },
-  {
     "id": "Q3442299",
     "name_zh": "埃里克·安克尔",
     "name_en": "Erik Anker",
@@ -21661,41 +21381,6 @@
       "木": 0,
       "水": 2,
       "火": 3,
-      "土": 1
-    }
-  },
-  {
-    "id": "Q69166",
-    "name_zh": "沃尔夫冈·阿本德罗特",
-    "name_en": "Wolfgang Abendroth",
-    "birth_date": "1906-05-02",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "德國",
-    "nationality_en": "Germany",
-    "field_zh": "法学家、法官、大學教師、labor historian、政治学家、科學家、抵抗运动成员、社会主义者、anti-Nazi fighter",
-    "field_en": "jurist, judge, university teacher, labor historian, political scientist, scientist, resistance fighter, socialist, anti-Nazi fighter",
-    "summary": "德国政治学家、法学家",
-    "source": {
-      "type": "wikidata",
-      "cohort": "western",
-      "id": "Q69166",
-      "url": "https://www.wikidata.org/wiki/Q69166"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "丙午",
-      "month": "壬辰",
-      "day": "丙午",
-      "hour": null
-    },
-    "day_pillar": "丙午",
-    "day_master": "丙",
-    "wuxing_distribution": {
-      "金": 0,
-      "木": 0,
-      "水": 1,
-      "火": 4,
       "土": 1
     }
   },
@@ -30450,41 +30135,6 @@
     }
   },
   {
-    "id": "Q315528",
-    "name_zh": "李登輝",
-    "name_en": "Lee Teng-hui",
-    "birth_date": "1923-01-15",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "大日本帝國、中華民國大陸時期、中華民國",
-    "nationality_en": "Empire of Japan, Republic of China, Taiwan",
-    "field_zh": "農業經濟學家、政治人物",
-    "field_en": "agricultural economist, politician",
-    "summary": "農業學者 和前任中華民國總統",
-    "source": {
-      "type": "wikidata",
-      "cohort": "china_like",
-      "id": "Q315528",
-      "url": "https://www.wikidata.org/wiki/Q315528"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "壬戌",
-      "month": "癸丑",
-      "day": "戊子",
-      "hour": null
-    },
-    "day_pillar": "戊子",
-    "day_master": "戊",
-    "wuxing_distribution": {
-      "金": 0,
-      "木": 0,
-      "水": 3,
-      "火": 0,
-      "土": 3
-    }
-  },
-  {
     "id": "Q242084",
     "name_zh": "罗拉·弗洛雷斯",
     "name_en": "Lola Flores",
@@ -30725,41 +30375,6 @@
       "金": 1,
       "木": 1,
       "水": 2,
-      "火": 2,
-      "土": 0
-    }
-  },
-  {
-    "id": "Q66107",
-    "name_zh": "亨利·基辛格",
-    "name_en": "Henry Kissinger",
-    "birth_date": "1923-05-27",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "德意志国、美國",
-    "nationality_en": "German Reich, United States",
-    "field_zh": "政治人物、政治学家、外交官、作家、企业家、教育學家、自传作者、商人、外交部长、战犯",
-    "field_en": "politician, political scientist, diplomat, writer, entrepreneur, pedagogue, autobiographer, businessperson, foreign minister, war criminal",
-    "summary": "美國政治人物、外交官",
-    "source": {
-      "type": "wikidata",
-      "cohort": "western",
-      "id": "Q66107",
-      "url": "https://www.wikidata.org/wiki/Q66107"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "癸亥",
-      "month": "丁巳",
-      "day": "庚子",
-      "hour": null
-    },
-    "day_pillar": "庚子",
-    "day_master": "庚",
-    "wuxing_distribution": {
-      "金": 1,
-      "木": 0,
-      "水": 3,
       "火": 2,
       "土": 0
     }
@@ -40667,41 +40282,6 @@
       "水": 3,
       "火": 2,
       "土": 0
-    }
-  },
-  {
-    "id": "Q17293",
-    "name_zh": "第十四世達賴喇嘛",
-    "name_en": "Tenzin Gyatso",
-    "birth_date": "1935-07-06",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "西藏、中华人民共和国、中華民國大陸時期",
-    "nationality_en": "Tibet, People's Republic of China, Republic of China",
-    "field_zh": "比丘、喇嘛、政治人物",
-    "field_en": "Buddhist monk, Lama, politician",
-    "summary": "西藏政見不同者，西藏精神領袖",
-    "source": {
-      "type": "wikidata",
-      "cohort": "china_like",
-      "id": "Q17293",
-      "url": "https://www.wikidata.org/wiki/Q17293"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "乙亥",
-      "month": "壬午",
-      "day": "癸未",
-      "hour": null
-    },
-    "day_pillar": "癸未",
-    "day_master": "癸",
-    "wuxing_distribution": {
-      "金": 0,
-      "木": 1,
-      "水": 3,
-      "火": 1,
-      "土": 1
     }
   },
   {
@@ -52570,41 +52150,6 @@
     }
   },
   {
-    "id": "Q298133",
-    "name_zh": "热比娅·卡德尔",
-    "name_en": "Rebiya Kadeer",
-    "birth_date": "1947-01-21",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "中华人民共和国",
-    "nationality_en": "People's Republic of China",
-    "field_zh": "人權護衛者、商家、政治人物",
-    "field_en": "human rights defender, merchant, politician",
-    "summary": "新疆商人，第2任世界维吾尔代表大会主席",
-    "source": {
-      "type": "wikidata",
-      "cohort": "china_like",
-      "id": "Q298133",
-      "url": "https://www.wikidata.org/wiki/Q298133"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "丙戌",
-      "month": "辛丑",
-      "day": "庚子",
-      "hour": null
-    },
-    "day_pillar": "庚子",
-    "day_master": "庚",
-    "wuxing_distribution": {
-      "金": 2,
-      "木": 0,
-      "水": 1,
-      "火": 1,
-      "土": 2
-    }
-  },
-  {
     "id": "Q3740449",
     "name_zh": "塔蒂亚娜·切尔尼戈夫斯卡娅",
     "name_en": "Tatyana Chernigovskaya",
@@ -63105,41 +62650,6 @@
     }
   },
   {
-    "id": "Q311669",
-    "name_zh": "麻原彰晃",
-    "name_en": "Shōkō Asahara",
-    "birth_date": "1955-03-02",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "日本",
-    "nationality_en": "Japan",
-    "field_zh": "恐怖分子、作家、連環殺手、邪教领导、歌手",
-    "field_en": "terrorist, writer, serial killer, cult leader, singer",
-    "summary": "日本宗教人物・前任真理黨黨魁、真理國最高領導人",
-    "source": {
-      "type": "wikidata",
-      "cohort": "global_extra",
-      "id": "Q311669",
-      "url": "https://www.wikidata.org/wiki/Q311669"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "乙未",
-      "month": "戊寅",
-      "day": "壬戌",
-      "hour": null
-    },
-    "day_pillar": "壬戌",
-    "day_master": "壬",
-    "wuxing_distribution": {
-      "金": 0,
-      "木": 2,
-      "水": 1,
-      "火": 0,
-      "土": 3
-    }
-  },
-  {
     "id": "Q729642",
     "name_zh": "喬格·威格拉",
     "name_en": "Jorge Carlos Vergara",
@@ -65030,41 +64540,6 @@
     }
   },
   {
-    "id": "Q27514522",
-    "name_zh": "崔顺实",
-    "name_en": "Choi Sun-sil",
-    "birth_date": "1956-06-23",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "大韩民国",
-    "nationality_en": "South Korea",
-    "field_zh": "商人、邪教领导、物業投資者、译者、restaurant manager、幼儿园老师",
-    "field_en": "businessperson, cult leader, real estate entrepreneur, translator, restaurant manager, kindergarten teacher",
-    "summary": "朴槿惠密友",
-    "source": {
-      "type": "wikidata",
-      "cohort": "global_extra",
-      "id": "Q27514522",
-      "url": "https://www.wikidata.org/wiki/Q27514522"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "丙申",
-      "month": "甲午",
-      "day": "辛酉",
-      "hour": null
-    },
-    "day_pillar": "辛酉",
-    "day_master": "辛",
-    "wuxing_distribution": {
-      "金": 3,
-      "木": 1,
-      "水": 0,
-      "火": 2,
-      "土": 0
-    }
-  },
-  {
     "id": "Q19966099",
     "name_zh": "Daniel J. Drucker",
     "name_en": "Daniel J. Drucker",
@@ -65167,41 +64642,6 @@
       "水": 0,
       "火": 3,
       "土": 1
-    }
-  },
-  {
-    "id": "Q233984",
-    "name_zh": "蔡英文",
-    "name_en": "Tsai Ing-wen",
-    "birth_date": "1956-08-31",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "中華民國",
-    "nationality_en": "Taiwan",
-    "field_zh": "政治人物、律師、大學教師、法学家",
-    "field_en": "politician, lawyer, university teacher, jurist",
-    "summary": "中華民國第14、15任總統，中華民國（台灣）第4位民選總統（第1位女總統），前民主進步黨主席，法律學者",
-    "source": {
-      "type": "wikidata",
-      "cohort": "china_like",
-      "id": "Q233984",
-      "url": "https://www.wikidata.org/wiki/Q233984"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "丙申",
-      "month": "丙申",
-      "day": "庚午",
-      "hour": null
-    },
-    "day_pillar": "庚午",
-    "day_master": "庚",
-    "wuxing_distribution": {
-      "金": 3,
-      "木": 0,
-      "水": 0,
-      "火": 3,
-      "土": 0
     }
   },
   {
@@ -73531,41 +72971,6 @@
       "木": 1,
       "水": 2,
       "火": 1,
-      "土": 2
-    }
-  },
-  {
-    "id": "Q615836",
-    "name_zh": "葉真理",
-    "name_en": "Zhenli Ye Gon",
-    "birth_date": "1963-01-31",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "墨西哥",
-    "nationality_en": "Mexico",
-    "field_zh": "毒梟、商人、企业家",
-    "field_en": "drug lord, businessperson, entrepreneur",
-    "summary": "Mexican businessman",
-    "source": {
-      "type": "wikidata",
-      "cohort": "global_extra",
-      "id": "Q615836",
-      "url": "https://www.wikidata.org/wiki/Q615836"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "壬寅",
-      "month": "癸丑",
-      "day": "甲戌",
-      "hour": null
-    },
-    "day_pillar": "甲戌",
-    "day_master": "甲",
-    "wuxing_distribution": {
-      "金": 0,
-      "木": 2,
-      "水": 2,
-      "火": 0,
       "土": 2
     }
   },
@@ -93450,41 +92855,6 @@
     }
   },
   {
-    "id": "Q44220",
-    "name_zh": "安德斯·贝林·布雷维克",
-    "name_en": "Anders Behring Breivik",
-    "birth_date": "1979-02-13",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "挪威",
-    "nationality_en": "Norway",
-    "field_zh": "操盘手、推銷員、企业家、屠杀犯、恐怖分子、conspiracy theorist",
-    "field_en": "trader, salesperson, entrepreneur, mass murderer, terrorist, conspiracy theorist",
-    "summary": "挪威狂歡殺手",
-    "source": {
-      "type": "wikidata",
-      "cohort": "western",
-      "id": "Q44220",
-      "url": "https://www.wikidata.org/wiki/Q44220"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "己未",
-      "month": "丙寅",
-      "day": "辛亥",
-      "hour": null
-    },
-    "day_pillar": "辛亥",
-    "day_master": "辛",
-    "wuxing_distribution": {
-      "金": 1,
-      "木": 1,
-      "水": 1,
-      "火": 1,
-      "土": 2
-    }
-  },
-  {
     "id": "Q466580",
     "name_zh": "Débora Falabella",
     "name_en": "Débora Falabella",
@@ -107625,41 +106995,6 @@
     }
   },
   {
-    "id": "Q18437771",
-    "name_zh": "朴延美",
-    "name_en": "Park Yeon-mi",
-    "birth_date": "1993-10-04",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "朝鮮民主主義人民共和國、大韩民国、美國",
-    "nationality_en": "North Korea, South Korea, United States",
-    "field_zh": "人權護衛者、新聞工作者、作家",
-    "field_en": "human rights defender, journalist, writer",
-    "summary": "North Korean defector and conservative activist",
-    "source": {
-      "type": "wikidata",
-      "cohort": "global_extra",
-      "id": "Q18437771",
-      "url": "https://www.wikidata.org/wiki/Q18437771"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "癸酉",
-      "month": "辛酉",
-      "day": "戊午",
-      "hour": null
-    },
-    "day_pillar": "戊午",
-    "day_master": "戊",
-    "wuxing_distribution": {
-      "金": 3,
-      "木": 0,
-      "水": 1,
-      "火": 1,
-      "土": 1
-    }
-  },
-  {
     "id": "Q57943893",
     "name_zh": "凯里耶",
     "name_en": "Käärijä",
@@ -109652,41 +108987,6 @@
       "水": 1,
       "火": 3,
       "土": 0
-    }
-  },
-  {
-    "id": "Q9455382",
-    "name_zh": "黃之鋒",
-    "name_en": "Joshua Wong",
-    "birth_date": "1996-10-13",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "英屬香港、中华人民共和国、英國國民（海外）",
-    "nationality_en": "British Hong Kong, People's Republic of China, British National (Overseas)",
-    "field_zh": "civil rights advocate、政治人物、小孩子学生",
-    "field_en": "civil rights advocate, politician, schoolchild",
-    "summary": "香港政治人物",
-    "source": {
-      "type": "wikidata",
-      "cohort": "china_like",
-      "id": "Q9455382",
-      "url": "https://www.wikidata.org/wiki/Q9455382"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "丙子",
-      "month": "戊戌",
-      "day": "癸未",
-      "hour": null
-    },
-    "day_pillar": "癸未",
-    "day_master": "癸",
-    "wuxing_distribution": {
-      "金": 0,
-      "木": 0,
-      "水": 2,
-      "火": 1,
-      "土": 3
     }
   },
   {
