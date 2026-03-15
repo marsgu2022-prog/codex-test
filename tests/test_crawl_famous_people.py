@@ -111,17 +111,17 @@ def test_build_runtime_configs_full_preserves_default_scope():
 
 def test_build_runtime_configs_scientists_focus_limits_occupations():
     configs, min_total_people, output_suffix = MODULE.build_runtime_configs("full", "scientists")
-    assert min_total_people == MODULE.MIN_TOTAL_PEOPLE
+    assert min_total_people == MODULE.MIN_TOTAL_PEOPLE_SCIENTISTS
     assert output_suffix == "_scientists"
-    assert configs["china_like"]["occupations"] == ["scientist", "mathematician"]
-    assert configs["western"]["occupations"] == ["scientist", "mathematician"]
+    assert configs["china_like"]["occupations"] == MODULE.SCIENTIST_OCCUPATIONS
+    assert configs["western"]["occupations"] == MODULE.SCIENTIST_OCCUPATIONS
 
 
 def test_build_runtime_configs_scientists_smoke_has_distinct_suffix():
     configs, min_total_people, output_suffix = MODULE.build_runtime_configs("smoke", "scientists")
     assert min_total_people == MODULE.SMOKE_MIN_TOTAL_PEOPLE
     assert output_suffix == "_scientists_smoke"
-    assert configs["global_extra"]["occupations"] == ["scientist", "mathematician"]
+    assert configs["global_extra"]["occupations"] == MODULE.SCIENTIST_OCCUPATIONS
     assert configs["global_extra"]["country_qids"] == MODULE.GLOBAL_EXTRA_COUNTRY_QIDS[:1]
 
 

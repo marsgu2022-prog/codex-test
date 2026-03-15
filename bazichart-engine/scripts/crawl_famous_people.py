@@ -21,6 +21,7 @@ ZH_WIKIPEDIA_API_URL = "https://zh.wikipedia.org/w/api.php"
 USER_AGENT = "bazichart-engine/1.0 (famous people crawler)"
 ENTITY_BATCH_SIZE = 25
 MIN_TOTAL_PEOPLE = 10000
+MIN_TOTAL_PEOPLE_SCIENTISTS = 5000
 MAX_ACCEPTABLE_RETRY_AFTER = 30
 SMOKE_MIN_TOTAL_PEOPLE = 1
 FAILURE_RETRY_BASE_DELAY_SECONDS = 300
@@ -110,6 +111,12 @@ OCCUPATION_QIDS = {
     "politician": "Q82955",
     "scientist": "Q901",
     "mathematician": "Q170790",
+    "physicist": "Q169470",
+    "chemist": "Q593644",
+    "biologist": "Q864503",
+    "astronomer": "Q11063",
+    "computer_scientist": "Q82594",
+    "inventor": "Q205375",
     "writer": "Q36180",
     "actor": "Q33999",
     "singer": "Q177220",
@@ -117,6 +124,16 @@ OCCUPATION_QIDS = {
     "businessperson": "Q43845",
     "entrepreneur": "Q131524",
 }
+SCIENTIST_OCCUPATIONS = [
+    "scientist",
+    "mathematician",
+    "physicist",
+    "chemist",
+    "biologist",
+    "astronomer",
+    "computer_scientist",
+    "inventor",
+]
 COHORT_CONFIGS = {
     "china_like": {
         "country_qids": CHINA_LIKE_QIDS,
@@ -1091,10 +1108,12 @@ def parse_args() -> argparse.Namespace:
 def build_runtime_configs(mode: str, focus: str = "all") -> tuple[dict[str, dict[str, Any]], int, str]:
     configs = {name: dict(config) for name, config in COHORT_CONFIGS.items()}
     output_suffix = ""
+    min_total_people = MIN_TOTAL_PEOPLE
     if focus == "scientists":
         for config in configs.values():
-            config["occupations"] = ["scientist", "mathematician"]
+            config["occupations"] = list(SCIENTIST_OCCUPATIONS)
         output_suffix += "_scientists"
+        min_total_people = MIN_TOTAL_PEOPLE_SCIENTISTS
     if mode == "smoke":
         for config in configs.values():
             config["country_qids"] = config["country_qids"][:1]
@@ -1106,7 +1125,7 @@ def build_runtime_configs(mode: str, focus: str = "all") -> tuple[dict[str, dict
                 config["extra_country_names"] = []
         output_suffix += "_smoke"
         return configs, SMOKE_MIN_TOTAL_PEOPLE, output_suffix
-    return configs, MIN_TOTAL_PEOPLE, output_suffix
+    return configs, min_total_people, output_suffix
 
 
 def main() -> int:

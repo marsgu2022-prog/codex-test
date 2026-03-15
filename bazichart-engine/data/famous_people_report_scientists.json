@@ -1,0 +1,20 @@
+{
+  "generated_at": "2026-03-15 12:16:22",
+  "mode": "full",
+  "focus": "scientists",
+  "min_total_people": 5000,
+  "total_people": 6120,
+  "chinese_people": 159,
+  "western_people": 4290,
+  "global_extra_people": 1671,
+  "validation": {
+    "total_people": 6120,
+    "invalid_count": 0,
+    "invalid_ids": []
+  },
+  "pipeline": {
+    "candidate_pages": 905,
+    "failed_jobs": 0,
+    "ready_failed_jobs": 0
+  }
+}
