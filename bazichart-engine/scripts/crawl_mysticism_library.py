@@ -347,6 +347,22 @@ def record_failure(
     )
 
 
+def create_progress_report() -> dict[str, dict[str, int]]:
+    return {
+        "categories": {
+            "requested": 0,
+            "completed": 0,
+            "failed": 0,
+        },
+        "topics": {
+            "requested": 0,
+            "completed": 0,
+            "partial": 0,
+            "skipped": 0,
+        },
+    }
+
+
 def dedupe_titles(values: list[str], limit: int = MAX_RELATED_TITLES) -> list[str]:
     deduped: list[str] = []
     for value in values:
@@ -423,13 +439,18 @@ def expand_topic_seeds_from_categories(
     limit_per_category: int = CATEGORY_MEMBER_LIMIT,
     *,
     failure_log: list[dict[str, str]] | None = None,
+    progress: dict[str, dict[str, int]] | None = None,
 ) -> list[dict[str, Any]]:
     expanded: list[dict[str, Any]] = []
     seen_keys = {seed["key"] for seed in TOPIC_SEEDS}
     for item in TOPIC_CATEGORIES:
+        if progress is not None:
+            progress["categories"]["requested"] += 1
         try:
             titles = fetch_category_titles(session, item["language"], item["category"], limit=limit_per_category)
         except requests.RequestException as exc:
+            if progress is not None:
+                progress["categories"]["failed"] += 1
             record_failure(
                 failure_log,
                 stage="category",
@@ -438,6 +459,8 @@ def expand_topic_seeds_from_categories(
                 message=str(exc),
             )
             continue
+        if progress is not None:
+            progress["categories"]["completed"] += 1
         for title in titles:
             seed = build_expanded_topic_seed(item["language"], title)
             if seed["key"] in seen_keys:
@@ -519,6 +542,7 @@ def build_topic_library(
     include_categories: bool = False,
     category_limit: int = CATEGORY_MEMBER_LIMIT,
     failure_log: list[dict[str, str]] | None = None,
+    progress: dict[str, dict[str, int]] | None = None,
 ) -> list[dict[str, Any]]:
     seeds = TOPIC_SEEDS if seeds is None else seeds
     expanded_seeds = list(seeds)
@@ -528,18 +552,23 @@ def build_topic_library(
                 session,
                 limit_per_category=category_limit,
                 failure_log=failure_log,
+                progress=progress,
             )
         )
     records: list[dict[str, Any]] = []
     for seed in expanded_seeds:
+        if progress is not None:
+            progress["topics"]["requested"] += 1
         zh_page = None
         en_page = None
         zh_links: list[str] = []
         en_links: list[str] = []
+        topic_has_failure = False
 
         try:
             zh_page = fetch_page_summary(session, "zh", seed["title_zh_hans"])
         except requests.RequestException as exc:
+            topic_has_failure = True
             record_failure(
                 failure_log,
                 stage="summary",
@@ -551,6 +580,7 @@ def build_topic_library(
         try:
             en_page = fetch_page_summary(session, "en", seed["title_en"])
         except requests.RequestException as exc:
+            topic_has_failure = True
             record_failure(
                 failure_log,
                 stage="summary",
@@ -560,6 +590,8 @@ def build_topic_library(
             )
 
         if zh_page is None and en_page is None:
+            if progress is not None:
+                progress["topics"]["skipped"] += 1
             record_failure(
                 failure_log,
                 stage="record",
@@ -573,6 +605,7 @@ def build_topic_library(
             try:
                 zh_links = fetch_page_links(session, "zh", zh_page["title"])
             except requests.RequestException as exc:
+                topic_has_failure = True
                 record_failure(
                     failure_log,
                     stage="links",
@@ -585,6 +618,7 @@ def build_topic_library(
             try:
                 en_links = fetch_page_links(session, "en", en_page["title"])
             except requests.RequestException as exc:
+                topic_has_failure = True
                 record_failure(
                     failure_log,
                     stage="links",
@@ -594,6 +628,11 @@ def build_topic_library(
                 )
 
         records.append(build_library_record(seed, zh_page, en_page, zh_links, en_links))
+        if progress is not None:
+            if topic_has_failure:
+                progress["topics"]["partial"] += 1
+            else:
+                progress["topics"]["completed"] += 1
     return records
 
 
@@ -604,11 +643,13 @@ def build_report(
     requested_seed_count: int | None = None,
     include_categories: bool = False,
     category_limit: int | None = None,
+    progress: dict[str, dict[str, int]] | None = None,
 ) -> dict[str, Any]:
     categories: dict[str, int] = {}
     for item in records:
         categories[item["category"]] = categories.get(item["category"], 0) + 1
     failures = failures or []
+    progress = progress or create_progress_report()
     skipped_keys = {
         item["target"]
         for item in failures
@@ -622,6 +663,7 @@ def build_report(
         "requested_seed_count": requested_seed_count if requested_seed_count is not None else len(records),
         "succeeded_topics": len(records),
         "skipped_topics": len(skipped_keys),
+        "completed_stats": progress,
         "include_categories": include_categories,
         "category_limit": category_limit,
         "failed_requests": len(failures),
@@ -645,11 +687,13 @@ def main() -> int:
     session = requests.Session()
     session.headers.update({"User-Agent": USER_AGENT})
     failures: list[dict[str, str]] = []
+    progress = create_progress_report()
     records = build_topic_library(
         session,
         include_categories=args.include_categories,
         category_limit=args.category_limit,
         failure_log=failures,
+        progress=progress,
     )
     case_records = build_case_library()
     payload = {
@@ -662,6 +706,7 @@ def main() -> int:
         requested_seed_count=len(TOPIC_SEEDS),
         include_categories=args.include_categories,
         category_limit=args.category_limit,
+        progress=progress,
     )
     report["case_count"] = len(case_records)
     report["case_types"] = {

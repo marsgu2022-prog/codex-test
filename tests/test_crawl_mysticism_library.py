@@ -105,18 +105,20 @@ def test_expand_topic_seeds_from_categories_records_each_failed_category(monkeyp
     monkeypatch.setattr(MODULE, "fetch_category_titles", fake_fetch_category_titles)
 
     failures = []
-    expanded = MODULE.expand_topic_seeds_from_categories(object(), failure_log=failures)
+    progress = MODULE.create_progress_report()
+    expanded = MODULE.expand_topic_seeds_from_categories(object(), failure_log=failures, progress=progress)
 
     assert any(item["key"] == "en_divination" for item in expanded)
     assert len(failures) == 4
     assert all(item["stage"] == "category" and item["language"] == "zh" for item in failures)
+    assert progress["categories"] == {"requested": 8, "completed": 4, "failed": 4}
 
 
 def test_build_topic_library_can_include_category_expansion(monkeypatch):
     monkeypatch.setattr(
         MODULE,
         "expand_topic_seeds_from_categories",
-        lambda session, limit_per_category=MODULE.CATEGORY_MEMBER_LIMIT, failure_log=None: [
+        lambda session, limit_per_category=MODULE.CATEGORY_MEMBER_LIMIT, failure_log=None, progress=None: [
             {"key": "zh_sample", "title_zh_hans": "堪舆注解", "title_en": "Kanyu notes", "category": "reference", "tags": ["玄学", "扩展"]}
         ],
     )
@@ -161,12 +163,14 @@ def test_build_topic_library_keeps_partial_record_when_one_language_fails(monkey
     monkeypatch.setattr(MODULE, "fetch_page_links", lambda session, language, title, limit=MODULE.LINK_FETCH_LIMIT: [])
 
     failures = []
-    records = MODULE.build_topic_library(object(), seeds=MODULE.TOPIC_SEEDS[:1], failure_log=failures)
+    progress = MODULE.create_progress_report()
+    records = MODULE.build_topic_library(object(), seeds=MODULE.TOPIC_SEEDS[:1], failure_log=failures, progress=progress)
 
     assert len(records) == 1
     assert records[0]["summary_zh_hans"] == "zh:八字"
     assert records[0]["summary_en"] == "zh:八字"
     assert any(item["stage"] == "summary" and item["language"] == "en" for item in failures)
+    assert progress["topics"] == {"requested": 1, "completed": 0, "partial": 1, "skipped": 0}
 
 
 def test_build_topic_library_skips_seed_when_both_languages_fail(monkeypatch):
@@ -177,10 +181,12 @@ def test_build_topic_library_skips_seed_when_both_languages_fail(monkeypatch):
     )
 
     failures = []
-    records = MODULE.build_topic_library(object(), seeds=MODULE.TOPIC_SEEDS[:1], failure_log=failures)
+    progress = MODULE.create_progress_report()
+    records = MODULE.build_topic_library(object(), seeds=MODULE.TOPIC_SEEDS[:1], failure_log=failures, progress=progress)
 
     assert records == []
     assert any(item["stage"] == "record" and item["target"] == "bazi" for item in failures)
+    assert progress["topics"] == {"requested": 1, "completed": 0, "partial": 0, "skipped": 1}
 
 
 def test_topic_seeds_include_high_value_books_and_works():
@@ -228,12 +234,16 @@ def test_build_topic_library_includes_book_and_work_topics(monkeypatch):
 
 
 def test_build_report_counts_categories():
+    progress = MODULE.create_progress_report()
+    progress["topics"]["requested"] = 3
+    progress["topics"]["completed"] = 3
     report = MODULE.build_report(
         [
             {"key": "bazi", "category": "concept"},
             {"key": "feng_shui", "category": "practice"},
             {"key": "ziwei_doushu", "category": "concept"},
         ],
+        progress=progress,
         requested_seed_count=4,
         include_categories=True,
         category_limit=5,
@@ -244,6 +254,8 @@ def test_build_report_counts_categories():
     assert report["requested_seed_count"] == 4
     assert report["succeeded_topics"] == 3
     assert report["skipped_topics"] == 0
+    assert report["completed_stats"]["topics"] == {"requested": 3, "completed": 3, "partial": 0, "skipped": 0}
+    assert report["completed_stats"]["categories"] == {"requested": 0, "completed": 0, "failed": 0}
     assert report["include_categories"] is True
     assert report["category_limit"] == 5
     assert report["failed_requests"] == 0
@@ -253,21 +265,50 @@ def test_build_report_counts_categories():
 
 
 def test_build_report_includes_failure_summary():
+    progress = MODULE.create_progress_report()
+    progress["topics"]["requested"] = 2
+    progress["topics"]["partial"] = 1
+    progress["topics"]["skipped"] = 1
     report = MODULE.build_report(
         [{"key": "bazi", "category": "concept"}],
         [
             {"stage": "summary", "language": "zh", "target": "八字", "message": "429"},
             {"stage": "record", "language": "multi", "target": "bad_seed", "message": "skip"},
         ],
+        progress=progress,
     )
 
     assert report["failed_requests"] == 2
     assert report["skipped_topics"] == 1
+    assert report["completed_stats"]["topics"] == {"requested": 2, "completed": 0, "partial": 1, "skipped": 1}
     assert report["failure_summary"] == {
         "by_stage": {"summary": 1, "record": 1},
         "by_language": {"zh": 1, "multi": 1},
     }
     assert report["failures"][0]["target"] == "八字"
+
+
+def test_build_topic_library_marks_link_failure_as_partial(monkeypatch):
+    monkeypatch.setattr(
+        MODULE,
+        "fetch_page_summary",
+        lambda session, language, title: {"title": title, "summary": f"{language}:{title}", "source_url": f"https://{language}.example/{title}"},
+    )
+
+    def fake_fetch_page_links(session, language, title, limit=MODULE.LINK_FETCH_LIMIT):
+        if language == "zh":
+            raise MODULE.requests.RequestException("429")
+        return ["ok"]
+
+    monkeypatch.setattr(MODULE, "fetch_page_links", fake_fetch_page_links)
+
+    failures = []
+    progress = MODULE.create_progress_report()
+    records = MODULE.build_topic_library(object(), seeds=MODULE.TOPIC_SEEDS[:1], failure_log=failures, progress=progress)
+
+    assert len(records) == 1
+    assert any(item["stage"] == "links" and item["language"] == "zh" for item in failures)
+    assert progress["topics"] == {"requested": 1, "completed": 0, "partial": 1, "skipped": 0}
 
 
 def test_get_json_with_retry_does_not_retry_non_429_client_error(monkeypatch):
