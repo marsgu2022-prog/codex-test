@@ -1,13 +1,24 @@
 {
-  "generated_at": "2026-03-15 12:57:31",
-  "before_count": 3192,
-  "after_count": 3165,
-  "deleted_count": 27,
+  "generated_at": "2026-03-15 14:41:15",
+  "before_count": 14042,
+  "after_count": 13867,
+  "deleted_count": 175,
   "deleted_by_category": {
-    "政治敏感": 17,
-    "邪教与极端": 10
+    "邪教与极端": 49,
+    "政治敏感": 75,
+    "战争与暴力": 43,
+    "心理不适": 2,
+    "犯罪类": 6
   },
   "deleted_people": [
+    {
+      "id": "Q632219",
+      "name_zh": "约拿斯·阿尔斯特鲁玛",
+      "name_en": "Jonas Alströmer",
+      "birth_date": "1685-01-17",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: cult"
+    },
     {
       "id": "Q70326",
       "name_zh": "皮埃爾·博馬舍",
@@ -25,6 +36,30 @@
       "reason": "命中邪教/军火/奴隶贸易关键词: cult"
     },
     {
+      "id": "Q39691",
+      "name_zh": "伯克哈特",
+      "name_en": "Johann Ludwig Burckhardt",
+      "birth_date": "1784-11-24",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: intelligence officer"
+    },
+    {
+      "id": "Q188859",
+      "name_zh": "埃斯特万·埃切维里亚",
+      "name_en": "Esteban Echeverría Mamani",
+      "birth_date": "1805-09-02",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: cult"
+    },
+    {
+      "id": "Q930525",
+      "name_zh": "Thomas Kirk",
+      "name_en": "Thomas Kirk",
+      "birth_date": "1828-01-18",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: cult"
+    },
+    {
       "id": "Q202049",
       "name_zh": "奥古斯特·贝尔纳特",
       "name_en": "Auguste Beernaert",
@@ -33,12 +68,268 @@
       "reason": "命中分裂/间谍/制裁关键词: human rights activist"
     },
     {
+      "id": "Q365284",
+      "name_zh": "Pierre Paul Déhérain",
+      "name_en": "Pierre Paul Déhérain",
+      "birth_date": "1830-04-19",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: cult"
+    },
+    {
+      "id": "Q1237820",
+      "name_zh": "Ion Hanford Perdicaris",
+      "name_en": "Ion Hanford Perdicaris",
+      "birth_date": "1840-04-01",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: human rights activist"
+    },
+    {
+      "id": "Q174971",
+      "name_zh": "伊藤博文",
+      "name_en": "Itō Hirobumi",
+      "birth_date": "1841-10-16",
+      "category": "战争与暴力",
+      "reason": "二战战犯或侵华战争相关核心人物"
+    },
+    {
+      "id": "Q2667",
+      "name_zh": "保罗·冯·兴登堡",
+      "name_en": "Paul von Hindenburg",
+      "birth_date": "1847-10-02",
+      "category": "战争与暴力",
+      "reason": "命中战争/恐怖/屠杀关键词: nazi"
+    },
+    {
+      "id": "Q283026",
+      "name_zh": "巴希尔·扎哈罗夫",
+      "name_en": "Basil Zaharoff",
+      "birth_date": "1849-10-06",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: \\bspy\\b"
+    },
+    {
       "id": "Q78484",
       "name_zh": "魯道夫·斯坦納",
       "name_en": "Rudolf Steiner",
       "birth_date": "1861-02-27",
       "category": "邪教与极端",
       "reason": "命中邪教/军火/奴隶贸易关键词: cult"
+    },
+    {
+      "id": "Q6309203",
+      "name_zh": "Julio César Arana",
+      "name_en": "Julio César Arana",
+      "birth_date": "1864-04-12",
+      "category": "战争与暴力",
+      "reason": "命中战争/恐怖/屠杀关键词: genocide"
+    },
+    {
+      "id": "Q356691",
+      "name_zh": "西多尼奥·拜斯",
+      "name_en": "Sidónio Pais",
+      "birth_date": "1872-05-01",
+      "category": "心理不适",
+      "reason": "疑似即删除: 疑似自杀、意外死亡或早逝，需人工复核: assassinated"
+    },
+    {
+      "id": "Q276280",
+      "name_zh": "约翰·赫伊津哈",
+      "name_en": "Johan Huizinga",
+      "birth_date": "1872-12-07",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: cult"
+    },
+    {
+      "id": "Q1011463",
+      "name_zh": "Leó Goldberger",
+      "name_en": "Leó Goldberger",
+      "birth_date": "1878-05-02",
+      "category": "战争与暴力",
+      "reason": "命中战争/恐怖/屠杀关键词: nazi"
+    },
+    {
+      "id": "Q861074",
+      "name_zh": "喬林·費倫茨",
+      "name_en": "Ferenc Chorin",
+      "birth_date": "1879-03-03",
+      "category": "战争与暴力",
+      "reason": "命中战争/恐怖/屠杀关键词: nazi"
+    },
+    {
+      "id": "Q76361",
+      "name_zh": "威廉·凱特爾",
+      "name_en": "Wilhelm Keitel",
+      "birth_date": "1882-09-22",
+      "category": "战争与暴力",
+      "reason": "命中战争/恐怖/屠杀关键词: 纳粹"
+    },
+    {
+      "id": "Q63888",
+      "name_zh": "弗里德里希·弗利克",
+      "name_en": "Friedrich Flick",
+      "birth_date": "1883-07-10",
+      "category": "战争与暴力",
+      "reason": "命中战争/恐怖/屠杀关键词: 战犯"
+    },
+    {
+      "id": "Q160847",
+      "name_zh": "东条英机",
+      "name_en": "Hideki Tojo",
+      "birth_date": "1884-12-30",
+      "category": "战争与暴力",
+      "reason": "二战战犯或侵华战争相关核心人物"
+    },
+    {
+      "id": "Q151523",
+      "name_zh": "捷尔吉·卢卡奇",
+      "name_en": "Georg Lukács",
+      "birth_date": "1885-04-13",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: cult"
+    },
+    {
+      "id": "Q623326",
+      "name_zh": "Aquilino Ribeiro",
+      "name_en": "Aquilino Ribeiro",
+      "birth_date": "1885-09-13",
+      "category": "战争与暴力",
+      "reason": "命中战争/恐怖/屠杀关键词: terrorist"
+    },
+    {
+      "id": "Q151364",
+      "name_zh": "维德孔·吉斯林",
+      "name_en": "Vidkun Quisling",
+      "birth_date": "1887-07-18",
+      "category": "战争与暴力",
+      "reason": "命中战争/恐怖/屠杀关键词: nazi"
+    },
+    {
+      "id": "Q58583",
+      "name_zh": "恩斯特·罗姆",
+      "name_en": "Ernst Röhm",
+      "birth_date": "1887-11-28",
+      "category": "战争与暴力",
+      "reason": "命中战争/恐怖/屠杀关键词: 纳粹"
+    },
+    {
+      "id": "Q20041459",
+      "name_zh": "辻村美千代",
+      "name_en": "Michiyo Tsujimura",
+      "birth_date": "1888-09-17",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: cult"
+    },
+    {
+      "id": "Q352",
+      "name_zh": "阿道夫·希特勒",
+      "name_en": "Adolf Hitler",
+      "birth_date": "1889-04-20",
+      "category": "战争与暴力",
+      "reason": "二战战犯或侵华战争相关核心人物"
+    },
+    {
+      "id": "Q76437",
+      "name_zh": "卡尔·邓尼茨",
+      "name_en": "Karl Dönitz",
+      "birth_date": "1891-09-16",
+      "category": "战争与暴力",
+      "reason": "命中战争/恐怖/屠杀关键词: 纳粹"
+    },
+    {
+      "id": "Q944209",
+      "name_zh": "Joan Prats",
+      "name_en": "Joan Prats",
+      "birth_date": "1891-11-19",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: cult"
+    },
+    {
+      "id": "Q650219",
+      "name_zh": "阿圖爾·賽斯-英夸特",
+      "name_en": "Arthur Seyss-Inquart",
+      "birth_date": "1892-07-22",
+      "category": "战争与暴力",
+      "reason": "命中战争/恐怖/屠杀关键词: nazi"
+    },
+    {
+      "id": "Q7180378",
+      "name_zh": "范瓊",
+      "name_en": "Pham Quynh",
+      "birth_date": "1892-12-17",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: cult"
+    },
+    {
+      "id": "Q47906",
+      "name_zh": "赫尔曼·戈林",
+      "name_en": "Hermann Göring",
+      "birth_date": "1893-01-12",
+      "category": "战争与暴力",
+      "reason": "二战战犯或侵华战争相关核心人物"
+    },
+    {
+      "id": "Q101886",
+      "name_zh": "约阿希姆·冯·里宾特洛甫",
+      "name_en": "Joachim von Ribbentrop",
+      "birth_date": "1893-04-30",
+      "category": "战争与暴力",
+      "reason": "命中战争/恐怖/屠杀关键词: 纳粹"
+    },
+    {
+      "id": "Q369988",
+      "name_zh": "卡瓦贾·纳兹穆丁",
+      "name_en": "Khawaja Nazimuddin",
+      "birth_date": "1894-07-19",
+      "category": "战争与暴力",
+      "reason": "命中战争/恐怖/屠杀关键词: nazi"
+    },
+    {
+      "id": "Q60145",
+      "name_zh": "里夏德·瓦尔特·达雷",
+      "name_en": "Richard Walther Darré",
+      "birth_date": "1895-07-14",
+      "category": "战争与暴力",
+      "reason": "命中战争/恐怖/屠杀关键词: nazi"
+    },
+    {
+      "id": "Q315572",
+      "name_zh": "岸信介",
+      "name_en": "Nobusuke Kishi",
+      "birth_date": "1896-11-13",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: \\bspy\\b"
+    },
+    {
+      "id": "Q41749",
+      "name_zh": "約瑟夫·戈培爾",
+      "name_en": "Joseph Goebbels",
+      "birth_date": "1897-10-29",
+      "category": "战争与暴力",
+      "reason": "二战战犯或侵华战争相关核心人物"
+    },
+    {
+      "id": "Q481344",
+      "name_zh": "彼得·门滕",
+      "name_en": "Pieter Menten",
+      "birth_date": "1899-05-26",
+      "category": "战争与暴力",
+      "reason": "命中战争/恐怖/屠杀关键词: war criminal"
+    },
+    {
+      "id": "Q86930",
+      "name_zh": "弗里茨·曼德尔",
+      "name_en": "Friedrich Mandl",
+      "birth_date": "1900-02-09",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: arms dealer"
+    },
+    {
+      "id": "Q78473",
+      "name_zh": "恩斯特·卡爾滕布倫納",
+      "name_en": "Ernst Kaltenbrunner",
+      "birth_date": "1903-10-04",
+      "category": "战争与暴力",
+      "reason": "命中战争/恐怖/屠杀关键词: war criminal"
     },
     {
       "id": "Q244395",
@@ -57,12 +348,92 @@
       "reason": "命中分裂/间谍/制裁关键词: \\bspy\\b"
     },
     {
+      "id": "Q270337",
+      "name_zh": "萨维特里·黛维",
+      "name_en": "Savitri Devi",
+      "birth_date": "1905-09-30",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: \\bspy\\b"
+    },
+    {
+      "id": "Q69166",
+      "name_zh": "沃尔夫冈·阿本德罗特",
+      "name_en": "Wolfgang Abendroth",
+      "birth_date": "1906-05-02",
+      "category": "战争与暴力",
+      "reason": "命中战争/恐怖/屠杀关键词: nazi"
+    },
+    {
       "id": "Q151972",
       "name_zh": "約瑟芬·貝克",
       "name_en": "Josephine Baker",
       "birth_date": "1906-06-03",
       "category": "政治敏感",
       "reason": "命中分裂/间谍/制裁关键词: intelligence officer"
+    },
+    {
+      "id": "Q154545",
+      "name_zh": "利奥波德·塞达尔·桑戈尔",
+      "name_en": "Léopold Sédar Senghor",
+      "birth_date": "1906-10-09",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: cult"
+    },
+    {
+      "id": "Q49086",
+      "name_zh": "西蒙·维森塔尔",
+      "name_en": "Simon Wiesenthal",
+      "birth_date": "1908-12-31",
+      "category": "战争与暴力",
+      "reason": "命中战争/恐怖/屠杀关键词: nazi"
+    },
+    {
+      "id": "Q4021170",
+      "name_zh": "Władysław Mazurkiewicz",
+      "name_en": "Władysław Mazurkiewicz",
+      "birth_date": "1911-01-31",
+      "category": "犯罪类",
+      "reason": "命中严重犯罪关键词: serial killer"
+    },
+    {
+      "id": "Q153909",
+      "name_zh": "米洛万·吉拉斯",
+      "name_en": "Milovan Đilas",
+      "birth_date": "1911-06-12",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: dissident"
+    },
+    {
+      "id": "Q6381205",
+      "name_zh": "Kazimierz Leski",
+      "name_en": "Kazimierz Leski",
+      "birth_date": "1912-06-21",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: \\bspy\\b"
+    },
+    {
+      "id": "Q16262161",
+      "name_zh": "崔太敏",
+      "name_en": "Choi Tae-min",
+      "birth_date": "1912-08-25",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: cult leader"
+    },
+    {
+      "id": "Q317412",
+      "name_zh": "拉尔斯·科瓦尔",
+      "name_en": "Lars Korvald",
+      "birth_date": "1916-04-29",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: cult"
+    },
+    {
+      "id": "Q493786",
+      "name_zh": "安斗熙",
+      "name_en": "Ahn Doo-hee",
+      "birth_date": "1917-03-24",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: \\bspy\\b"
     },
     {
       "id": "Q55585108",
@@ -73,6 +444,14 @@
       "reason": "命中邪教/军火/奴隶贸易关键词: cult"
     },
     {
+      "id": "Q66329",
+      "name_zh": "Josef Scheungraber",
+      "name_en": "Josef Scheungraber",
+      "birth_date": "1918-09-08",
+      "category": "战争与暴力",
+      "reason": "命中战争/恐怖/屠杀关键词: war criminal"
+    },
+    {
       "id": "Q697911",
       "name_zh": "史明",
       "name_en": "Su Beng",
@@ -81,12 +460,92 @@
       "reason": "分裂主义、反华制裁、叛逃或间谍相关人物"
     },
     {
+      "id": "Q551521",
+      "name_zh": "利西奧·傑利",
+      "name_en": "Licio Gelli",
+      "birth_date": "1919-04-21",
+      "category": "战争与暴力",
+      "reason": "命中战争/恐怖/屠杀关键词: nazi"
+    },
+    {
       "id": "Q296734",
       "name_zh": "文鲜明",
       "name_en": "Sun Myung Moon",
       "birth_date": "1920-01-06",
       "category": "邪教与极端",
       "reason": "邪教、极端宗教、军火或奴隶贸易相关人物"
+    },
+    {
+      "id": "Q169613",
+      "name_zh": "撒迦利亞·西琴",
+      "name_en": "Zecharia Sitchin",
+      "birth_date": "1920-07-11",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: intelligence officer"
+    },
+    {
+      "id": "Q228611",
+      "name_zh": "梅利纳·梅尔库里",
+      "name_en": "Melina Mercouri",
+      "birth_date": "1920-10-18",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: cult"
+    },
+    {
+      "id": "Q311160",
+      "name_zh": "侯赛因-阿里·蒙塔泽里",
+      "name_en": "Hussein-Penesinni",
+      "birth_date": "1922-09-22",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: human rights activist"
+    },
+    {
+      "id": "Q315528",
+      "name_zh": "李登輝",
+      "name_en": "Lee Teng-hui",
+      "birth_date": "1923-01-15",
+      "category": "政治敏感",
+      "reason": "分裂主义、反华制裁、叛逃或间谍相关人物"
+    },
+    {
+      "id": "Q446808",
+      "name_zh": "葉連娜·邦納",
+      "name_en": "Yelena Bonner",
+      "birth_date": "1923-02-15",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: human rights activist"
+    },
+    {
+      "id": "Q66107",
+      "name_zh": "亨利·基辛格",
+      "name_en": "Henry Kissinger",
+      "birth_date": "1923-05-27",
+      "category": "战争与暴力",
+      "reason": "命中战争/恐怖/屠杀关键词: 战犯"
+    },
+    {
+      "id": "Q333468",
+      "name_zh": "羅伯特·麥克斯韋",
+      "name_en": "Robert Maxwell",
+      "birth_date": "1923-06-10",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: \\bspy\\b"
+    },
+    {
+      "id": "Q327142",
+      "name_zh": "亚沙尔·凯末尔",
+      "name_en": "Yaşar Kemal",
+      "birth_date": "1923-10-06",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: human rights activist"
+    },
+    {
+      "id": "Q15982157",
+      "name_zh": "Louis Lens",
+      "name_en": "Louis Lens",
+      "birth_date": "1924-03-03",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: cult"
     },
     {
       "id": "Q213416",
@@ -105,12 +564,76 @@
       "reason": "命中分裂/间谍/制裁关键词: dissident"
     },
     {
+      "id": "Q467445",
+      "name_zh": "瑪戈·貝納塞拉夫",
+      "name_en": "Margot Benacerraf",
+      "birth_date": "1926-08-14",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: cult"
+    },
+    {
+      "id": "Q675940",
+      "name_zh": "拉菲·伊坦",
+      "name_en": "Rafi Eitan",
+      "birth_date": "1926-11-23",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: \\bspy\\b"
+    },
+    {
       "id": "Q2920700",
       "name_zh": "Refaat Al-Gammal",
       "name_en": "Refaat Al-Gammal",
       "birth_date": "1927-07-01",
       "category": "政治敏感",
       "reason": "命中分裂/间谍/制裁关键词: \\bspy\\b"
+    },
+    {
+      "id": "Q194000",
+      "name_zh": "阿諾爾德·呂特爾",
+      "name_en": "Arnold Rüütel",
+      "birth_date": "1928-05-10",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: cult"
+    },
+    {
+      "id": "Q2658232",
+      "name_zh": "克里斯蒂娜·卡爾德容",
+      "name_en": "Cristina Calderón",
+      "birth_date": "1928-05-24",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: cult"
+    },
+    {
+      "id": "Q86264",
+      "name_zh": "Gerald Nagler",
+      "name_en": "Gerald Nagler",
+      "birth_date": "1929-12-10",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: human rights activist"
+    },
+    {
+      "id": "Q733180",
+      "name_zh": "湯·姆博亞",
+      "name_en": "Tom Mboya",
+      "birth_date": "1930-08-15",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: colonialist"
+    },
+    {
+      "id": "Q299652",
+      "name_zh": "Estela Barnes de Carlotto",
+      "name_en": "Estela Barnes de Carlotto",
+      "birth_date": "1930-10-22",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: human rights activist"
+    },
+    {
+      "id": "Q1979276",
+      "name_zh": "伊万·久巴",
+      "name_en": "Ivan Dziuba",
+      "birth_date": "1931-06-26",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: dissident"
     },
     {
       "id": "Q209641",
@@ -121,6 +644,14 @@
       "reason": "命中分裂/间谍/制裁关键词: \\bspy\\b"
     },
     {
+      "id": "Q157282",
+      "name_zh": "布羅尼斯瓦夫·葛萊米克",
+      "name_en": "Bronisław Geremek",
+      "birth_date": "1932-03-06",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: dissident"
+    },
+    {
       "id": "Q5547741",
       "name_zh": "Miguel de La Quadra-Salcedo",
       "name_en": "Miguel de La Quadra-Salcedo",
@@ -129,10 +660,146 @@
       "reason": "命中邪教/军火/奴隶贸易关键词: cult"
     },
     {
+      "id": "Q125133",
+      "name_zh": "维克多·哈拉",
+      "name_en": "Víctor Jara",
+      "birth_date": "1932-09-28",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: cult"
+    },
+    {
+      "id": "Q734434",
+      "name_zh": "潘提·林克勒",
+      "name_en": "Pentti Linkola",
+      "birth_date": "1932-12-07",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: dissident"
+    },
+    {
+      "id": "Q5667032",
+      "name_zh": "Alfonso Márquez de la Plata",
+      "name_en": "Alfonso Márquez de la Plata",
+      "birth_date": "1933-07-19",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: cult"
+    },
+    {
+      "id": "Q212190",
+      "name_zh": "潔罕·薩達特",
+      "name_en": "Jehan Sadat",
+      "birth_date": "1933-07-29",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: human rights activist"
+    },
+    {
+      "id": "Q455266",
+      "name_zh": "英格麗·瓊寇",
+      "name_en": "Ingrid Jonker",
+      "birth_date": "1933-09-19",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: dissident"
+    },
+    {
+      "id": "Q321322",
+      "name_zh": "阿维马埃尔·古斯曼",
+      "name_en": "Abimael Guzmán",
+      "birth_date": "1934-12-03",
+      "category": "战争与暴力",
+      "reason": "命中战争/恐怖/屠杀关键词: terrorist"
+    },
+    {
+      "id": "Q17293",
+      "name_zh": "第十四世達賴喇嘛",
+      "name_en": "Tenzin Gyatso",
+      "birth_date": "1935-07-06",
+      "category": "政治敏感",
+      "reason": "分裂主义、反华制裁、叛逃或间谍相关人物"
+    },
+    {
+      "id": "Q539312",
+      "name_zh": "塞尔日·克拉斯费尔德",
+      "name_en": "Serge Klarsfeld",
+      "birth_date": "1935-09-17",
+      "category": "战争与暴力",
+      "reason": "命中战争/恐怖/屠杀关键词: nazi"
+    },
+    {
+      "id": "Q36233",
+      "name_zh": "瓦茨拉夫·哈维尔",
+      "name_en": "Václav Havel",
+      "birth_date": "1936-10-05",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: dissident"
+    },
+    {
       "id": "Q133040",
       "name_zh": "阿爾貝托·藤森",
       "name_en": "Alberto Fujimori",
       "birth_date": "1938-07-28",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: cult"
+    },
+    {
+      "id": "Q907488",
+      "name_zh": "Rudolf Chmel",
+      "name_en": "Rudolf Chmel",
+      "birth_date": "1939-02-11",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: cult"
+    },
+    {
+      "id": "Q6940119",
+      "name_zh": "Musarrat Nazir",
+      "name_en": "Musarrat Nazir",
+      "birth_date": "1940-10-13",
+      "category": "战争与暴力",
+      "reason": "命中战争/恐怖/屠杀关键词: nazi"
+    },
+    {
+      "id": "Q467482",
+      "name_zh": "扬·卡普林斯基",
+      "name_en": "Jaan Kaplinski",
+      "birth_date": "1941-01-22",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: cult"
+    },
+    {
+      "id": "Q706548",
+      "name_zh": "貝爾納·埃伯斯",
+      "name_en": "Bernard Ebbers",
+      "birth_date": "1941-08-27",
+      "category": "犯罪类",
+      "reason": "命中严重犯罪关键词: fraudster"
+    },
+    {
+      "id": "Q6272196",
+      "name_zh": "I. 卡拉米特鲁",
+      "name_en": "Ion Caramitru",
+      "birth_date": "1942-03-09",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: cult"
+    },
+    {
+      "id": "Q173238",
+      "name_zh": "卡洛斯·瑞特曼",
+      "name_en": "Carlos Reutemann",
+      "birth_date": "1942-04-12",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: cult"
+    },
+    {
+      "id": "Q711477",
+      "name_zh": "Frans van Anraat",
+      "name_en": "Frans van Anraat",
+      "birth_date": "1942-08-09",
+      "category": "战争与暴力",
+      "reason": "命中战争/恐怖/屠杀关键词: war criminal"
+    },
+    {
+      "id": "Q3109110",
+      "name_zh": "格洛麗亞·E·安札杜爾",
+      "name_en": "Gloria E. Anzaldúa",
+      "birth_date": "1942-09-26",
       "category": "邪教与极端",
       "reason": "命中邪教/军火/奴隶贸易关键词: cult"
     },
@@ -145,12 +812,44 @@
       "reason": "命中分裂/间谍/制裁关键词: \\bspy\\b"
     },
     {
+      "id": "Q360471",
+      "name_zh": "弗拉基米尔·布科夫斯基",
+      "name_en": "Vladimir Bukovsky",
+      "birth_date": "1942-12-30",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: dissident"
+    },
+    {
       "id": "Q2643",
       "name_zh": "乔治·哈里森",
       "name_en": "George Harrison",
       "birth_date": "1943-02-25",
       "category": "邪教与极端",
       "reason": "命中邪教/军火/奴隶贸易关键词: cult"
+    },
+    {
+      "id": "Q444",
+      "name_zh": "萊赫·瓦文薩",
+      "name_en": "萊赫·瓦文薩",
+      "birth_date": "1943-09-29",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: dissident"
+    },
+    {
+      "id": "Q735699",
+      "name_zh": "穆斯塔法·杰米列夫",
+      "name_en": "Mustafa Dzhemilev",
+      "birth_date": "1943-11-13",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: dissident"
+    },
+    {
+      "id": "Q295537",
+      "name_zh": "愛德華·利莫诺夫",
+      "name_en": "Eduard Limonov",
+      "birth_date": "1943-11-22",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: dissident"
     },
     {
       "id": "Q2866586",
@@ -161,12 +860,140 @@
       "reason": "命中分裂/间谍/制裁关键词: \\bspy\\b"
     },
     {
+      "id": "Q697131",
+      "name_zh": "艾農·米爾臣",
+      "name_en": "Arnon Milchan",
+      "birth_date": "1944-12-06",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: \\bspy\\b"
+    },
+    {
+      "id": "Q1391733",
+      "name_zh": "Farag Foda",
+      "name_en": "Farag Foda",
+      "birth_date": "1945-08-20",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: human rights activist"
+    },
+    {
+      "id": "Q401911",
+      "name_zh": "Ahmet Nazif Zorlu",
+      "name_en": "Ahmet Nazif Zorlu",
+      "birth_date": "1946-02-01",
+      "category": "战争与暴力",
+      "reason": "命中战争/恐怖/屠杀关键词: nazi"
+    },
+    {
+      "id": "Q471862",
+      "name_zh": "塞米昂·莫吉列維奇",
+      "name_en": "Semion Mogilevich",
+      "birth_date": "1946-06-30",
+      "category": "犯罪类",
+      "reason": "命中严重犯罪关键词: fraudster"
+    },
+    {
       "id": "Q5383",
       "name_zh": "大卫·鲍伊",
       "name_en": "David Bowie",
       "birth_date": "1947-01-08",
       "category": "邪教与极端",
       "reason": "命中邪教/军火/奴隶贸易关键词: cult"
+    },
+    {
+      "id": "Q298133",
+      "name_zh": "热比娅·卡德尔",
+      "name_en": "Rebiya Kadeer",
+      "birth_date": "1947-01-21",
+      "category": "政治敏感",
+      "reason": "分裂主义、反华制裁、叛逃或间谍相关人物"
+    },
+    {
+      "id": "Q131152",
+      "name_zh": "希林·伊巴迪",
+      "name_en": "Shirin Ebadi",
+      "birth_date": "1947-06-21",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: human rights activist"
+    },
+    {
+      "id": "Q983958",
+      "name_zh": "Shabtai Kalmanovich",
+      "name_en": "Shabtai Kalmanovich",
+      "birth_date": "1947-12-18",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: \\bspy\\b"
+    },
+    {
+      "id": "Q217903",
+      "name_zh": "Zmago Jelinčič Plemeniti",
+      "name_en": "Zmago Jelinčič Plemeniti",
+      "birth_date": "1948-01-07",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: \\bspy\\b"
+    },
+    {
+      "id": "Q4311299",
+      "name_zh": "阿卜杜爾·誇德·莫拉",
+      "name_en": "Abdul Quader Molla",
+      "birth_date": "1948-08-14",
+      "category": "战争与暴力",
+      "reason": "命中战争/恐怖/屠杀关键词: war criminal"
+    },
+    {
+      "id": "Q184750",
+      "name_zh": "斯拉沃熱·齊澤克",
+      "name_en": "Slavoj Žižek",
+      "birth_date": "1949-03-21",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: cult"
+    },
+    {
+      "id": "Q2622432",
+      "name_zh": "尤里·穆辛",
+      "name_en": "Yury Mukhin",
+      "birth_date": "1949-03-22",
+      "category": "战争与暴力",
+      "reason": "命中战争/恐怖/屠杀关键词: 大屠杀"
+    },
+    {
+      "id": "Q2757",
+      "name_zh": "萊赫·卡欽斯基",
+      "name_en": "Lech Kaczyński",
+      "birth_date": "1949-06-18",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: dissident"
+    },
+    {
+      "id": "Q1348786",
+      "name_zh": "維克多·奧斯特洛夫斯基",
+      "name_en": "Victor Ostrovsky",
+      "birth_date": "1949-11-28",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: \\bspy\\b"
+    },
+    {
+      "id": "Q187447",
+      "name_zh": "巴勃羅·埃斯科瓦爾",
+      "name_en": "Pablo Escobar",
+      "birth_date": "1949-12-01",
+      "category": "犯罪类",
+      "reason": "重大诈骗、毒枭、黑帮或性犯罪相关人物"
+    },
+    {
+      "id": "Q751112",
+      "name_zh": "穆罕默德·萨利赫",
+      "name_en": "Muhammad Salih",
+      "birth_date": "1949-12-20",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: dissident"
+    },
+    {
+      "id": "Q318130",
+      "name_zh": "魏京生",
+      "name_en": "Wei Jingsheng",
+      "birth_date": "1950-05-20",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: dissident"
     },
     {
       "id": "Q19216",
@@ -177,12 +1004,76 @@
       "reason": "分裂主义、反华制裁、叛逃或间谍相关人物"
     },
     {
+      "id": "Q7462232",
+      "name_zh": "Shahriar Kabir",
+      "name_en": "Shahriar Kabir",
+      "birth_date": "1950-11-20",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: human rights activist"
+    },
+    {
+      "id": "Q42939",
+      "name_zh": "布羅尼斯瓦夫·科莫羅夫斯基",
+      "name_en": "Bronisław Komorowski",
+      "birth_date": "1952-06-04",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: dissident"
+    },
+    {
+      "id": "Q220296",
+      "name_zh": "艾哈迈德·马哈茂德·穆罕默德·纳齐夫",
+      "name_en": "Ahmed Nazif",
+      "birth_date": "1952-07-08",
+      "category": "战争与暴力",
+      "reason": "命中战争/恐怖/屠杀关键词: nazi"
+    },
+    {
       "id": "Q7747",
       "name_zh": "弗拉基米尔·普京",
       "name_en": "Vladimir Putin",
       "birth_date": "1952-10-07",
       "category": "政治敏感",
       "reason": "命中分裂/间谍/制裁关键词: \\bspy\\b"
+    },
+    {
+      "id": "Q377599",
+      "name_zh": "Bogdan Lis",
+      "name_en": "Bogdan Lis",
+      "birth_date": "1952-11-10",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: dissident"
+    },
+    {
+      "id": "Q34413",
+      "name_zh": "贝娜齐尔·布托",
+      "name_en": "Benazir Bhutto",
+      "birth_date": "1953-06-21",
+      "category": "战争与暴力",
+      "reason": "命中战争/恐怖/屠杀关键词: nazi"
+    },
+    {
+      "id": "Q15707593",
+      "name_zh": "Ioan Niculae",
+      "name_en": "Ioan Niculae",
+      "birth_date": "1954-07-19",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: intelligence officer"
+    },
+    {
+      "id": "Q94882",
+      "name_zh": "艾米爾·庫斯杜力卡",
+      "name_en": "Emir Kusturica",
+      "birth_date": "1954-11-24",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: \\bspy\\b"
+    },
+    {
+      "id": "Q311669",
+      "name_zh": "麻原彰晃",
+      "name_en": "Shōkō Asahara",
+      "birth_date": "1955-03-02",
+      "category": "邪教与极端",
+      "reason": "邪教、极端宗教、军火或奴隶贸易相关人物"
     },
     {
       "id": "Q41617",
@@ -193,12 +1084,84 @@
       "reason": "分裂主义、反华制裁、叛逃或间谍相关人物"
     },
     {
+      "id": "Q881193",
+      "name_zh": "布雷罗·博格斯·马吉",
+      "name_en": "Blairo Maggi",
+      "birth_date": "1956-05-29",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: cult"
+    },
+    {
+      "id": "Q27514522",
+      "name_zh": "崔顺实",
+      "name_en": "Choi Sun-sil",
+      "birth_date": "1956-06-23",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: cult leader"
+    },
+    {
+      "id": "Q233984",
+      "name_zh": "蔡英文",
+      "name_en": "Tsai Ing-wen",
+      "birth_date": "1956-08-31",
+      "category": "政治敏感",
+      "reason": "分裂主义、反华制裁、叛逃或间谍相关人物"
+    },
+    {
+      "id": "Q1317",
+      "name_zh": "奥萨马·本·拉登",
+      "name_en": "Osama bin Laden",
+      "birth_date": "1957-03-10",
+      "category": "战争与暴力",
+      "reason": "恐怖组织头目、种族灭绝实施者或大规模暴力实施者"
+    },
+    {
+      "id": "Q151796",
+      "name_zh": "齐皮·利夫尼",
+      "name_en": "Tzipi Livni",
+      "birth_date": "1958-07-08",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: \\bspy\\b"
+    },
+    {
+      "id": "Q18097239",
+      "name_zh": "阿金武米·阿德希納",
+      "name_en": "Akinwumi Adesina",
+      "birth_date": "1960-02-06",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: cult"
+    },
+    {
+      "id": "Q117254",
+      "name_zh": "伊尼亚齐奥·卡西斯",
+      "name_en": "Ignazio Cassis",
+      "birth_date": "1961-04-13",
+      "category": "战争与暴力",
+      "reason": "命中战争/恐怖/屠杀关键词: nazi"
+    },
+    {
+      "id": "Q1969431",
+      "name_zh": "阿列什·德贝莱克",
+      "name_en": "Aleš Debeljak",
+      "birth_date": "1961-12-25",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: cult"
+    },
+    {
       "id": "Q6276882",
       "name_zh": "乔丹·皮特森",
       "name_en": "Jordan Peterson",
       "birth_date": "1962-06-12",
       "category": "邪教与极端",
       "reason": "命中邪教/军火/奴隶贸易关键词: cult"
+    },
+    {
+      "id": "Q2585498",
+      "name_zh": "纳达拉·沙希卡拉",
+      "name_en": "Nadarajah Raviraj",
+      "birth_date": "1962-06-25",
+      "category": "心理不适",
+      "reason": "疑似即删除: 疑似自杀、意外死亡或早逝，需人工复核: assassinated"
     },
     {
       "id": "Q87015",
@@ -209,6 +1172,46 @@
       "reason": "分裂主义、反华制裁、叛逃或间谍相关人物"
     },
     {
+      "id": "Q615836",
+      "name_zh": "葉真理",
+      "name_en": "Zhenli Ye Gon",
+      "birth_date": "1963-01-31",
+      "category": "犯罪类",
+      "reason": "命中严重犯罪关键词: drug lord"
+    },
+    {
+      "id": "Q7074927",
+      "name_zh": "奥比亚格利·埃兹克维西里",
+      "name_en": "Obiageli Katryn Ezekwesili",
+      "birth_date": "1963-04-28",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: human rights activist"
+    },
+    {
+      "id": "Q10358939",
+      "name_zh": "Reinaldo Azambuja",
+      "name_en": "Reinaldo Azambuja",
+      "birth_date": "1963-05-13",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: cult"
+    },
+    {
+      "id": "Q3242258",
+      "name_zh": "娜絲亞·哈桑",
+      "name_en": "Nazia Hassan",
+      "birth_date": "1965-04-03",
+      "category": "战争与暴力",
+      "reason": "命中战争/恐怖/屠杀关键词: nazi"
+    },
+    {
+      "id": "Q12616590",
+      "name_zh": "曹國",
+      "name_en": "Cho Kuk",
+      "birth_date": "1965-04-06",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: 人权活动家"
+    },
+    {
       "id": "Q610332",
       "name_zh": "柴玲",
       "name_en": "Chai Ling",
@@ -217,10 +1220,194 @@
       "reason": "分裂主义、反华制裁、叛逃或间谍相关人物"
     },
     {
+      "id": "Q937697",
+      "name_zh": "斯蒂芬·莫利纽克斯",
+      "name_en": "Stefan Molyneux",
+      "birth_date": "1966-09-24",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: white supremacist"
+    },
+    {
+      "id": "Q6983484",
+      "name_zh": "纳西尔·拉萨",
+      "name_en": "Nazir Razak",
+      "birth_date": "1966-11-19",
+      "category": "战争与暴力",
+      "reason": "命中战争/恐怖/屠杀关键词: nazi"
+    },
+    {
+      "id": "Q468099",
+      "name_zh": "阿斯莉·埃尔多安",
+      "name_en": "Aslı Erdoğan",
+      "birth_date": "1967-03-08",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: human rights activist"
+    },
+    {
+      "id": "Q610164",
+      "name_zh": "吾爾開希",
+      "name_en": "Wu'erkaixi",
+      "birth_date": "1968-02-17",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: dissident"
+    },
+    {
+      "id": "Q981524",
+      "name_zh": "师涛",
+      "name_en": "Shi Tao",
+      "birth_date": "1968-07-25",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: dissident"
+    },
+    {
+      "id": "Q483097",
+      "name_zh": "姜哲煥",
+      "name_en": "Kang Chol-hwan",
+      "birth_date": "1968-09-18",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: defector"
+    },
+    {
+      "id": "Q11303255",
+      "name_zh": "Nora Ikstena",
+      "name_en": "Nora Ikstena",
+      "birth_date": "1969-10-15",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: cult"
+    },
+    {
+      "id": "Q23753778",
+      "name_zh": "利利亚·德格·阿尔弗雷什德蒂尔",
+      "name_en": "Lilja Dögg Alfreðsdóttir",
+      "birth_date": "1973-10-04",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: cult"
+    },
+    {
+      "id": "Q21489172",
+      "name_zh": "Oliver Loode",
+      "name_en": "Oliver Loode",
+      "birth_date": "1974-03-19",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: human rights activist"
+    },
+    {
+      "id": "Q23881008",
+      "name_zh": "Rosemary Odinga",
+      "name_en": "Rosemary Odinga",
+      "birth_date": "1977-08-13",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: cult"
+    },
+    {
+      "id": "Q44220",
+      "name_zh": "安德斯·贝林·布雷维克",
+      "name_en": "Anders Behring Breivik",
+      "birth_date": "1979-02-13",
+      "category": "战争与暴力",
+      "reason": "命中战争/恐怖/屠杀关键词: nazi"
+    },
+    {
+      "id": "Q11769926",
+      "name_zh": "玛丽亚·加布里埃尔",
+      "name_en": "Mariya Gabriel",
+      "birth_date": "1979-05-20",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: cult"
+    },
+    {
+      "id": "Q21284572",
+      "name_zh": "Goga Ashkenazi",
+      "name_en": "Goga Ashkenazi",
+      "birth_date": "1980-02-01",
+      "category": "战争与暴力",
+      "reason": "命中战争/恐怖/屠杀关键词: nazi"
+    },
+    {
       "id": "Q232776",
       "name_zh": "安娜·查普曼",
       "name_en": "Anna Chapman",
       "birth_date": "1982-02-23",
+      "category": "政治敏感",
+      "reason": "分裂主义、反华制裁、叛逃或间谍相关人物"
+    },
+    {
+      "id": "Q64075",
+      "name_zh": "申东赫",
+      "name_en": "Shin Dong-hyuk",
+      "birth_date": "1982-11-19",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: defector"
+    },
+    {
+      "id": "Q15902969",
+      "name_zh": "帕維爾·古巴廖夫",
+      "name_en": "Pavel Gubarev",
+      "birth_date": "1983-02-10",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: separatist"
+    },
+    {
+      "id": "Q111083817",
+      "name_zh": "Latifa bint Mohammed bin Rashid Al Maktoum",
+      "name_en": "Latifa bint Mohammed bin Rashid Al Maktoum",
+      "birth_date": "1983-06-16",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: cult"
+    },
+    {
+      "id": "Q25464675",
+      "name_zh": "纳迪姆·马卡里姆",
+      "name_en": "Nadiem Makarim",
+      "birth_date": "1984-07-04",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: cult"
+    },
+    {
+      "id": "Q4526147",
+      "name_zh": "伊蘭·肖爾",
+      "name_en": "Ilan Shor",
+      "birth_date": "1987-03-06",
+      "category": "犯罪类",
+      "reason": "命中严重犯罪关键词: fraudster"
+    },
+    {
+      "id": "Q64513802",
+      "name_zh": "岑子杰",
+      "name_en": "Sham Tsz Kit",
+      "birth_date": "1987-06-29",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: human rights activist"
+    },
+    {
+      "id": "Q63016893",
+      "name_zh": "纳兹玛",
+      "name_en": "Nazima",
+      "birth_date": "1990-10-21",
+      "category": "战争与暴力",
+      "reason": "命中战争/恐怖/屠杀关键词: nazi"
+    },
+    {
+      "id": "Q51577952",
+      "name_zh": "Julia Ebner",
+      "name_en": "Julia Ebner",
+      "birth_date": "1991-07-24",
+      "category": "战争与暴力",
+      "reason": "命中战争/恐怖/屠杀关键词: terrorism"
+    },
+    {
+      "id": "Q18437771",
+      "name_zh": "朴延美",
+      "name_en": "Park Yeon-mi",
+      "birth_date": "1993-10-04",
+      "category": "政治敏感",
+      "reason": "分裂主义、反华制裁、叛逃或间谍相关人物"
+    },
+    {
+      "id": "Q9455382",
+      "name_zh": "黃之鋒",
+      "name_en": "Joshua Wong",
+      "birth_date": "1996-10-13",
       "category": "政治敏感",
       "reason": "分裂主义、反华制裁、叛逃或间谍相关人物"
     }
