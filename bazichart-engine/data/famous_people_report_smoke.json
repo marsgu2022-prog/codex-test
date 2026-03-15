@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-15 10:18:52",
+  "generated_at": "2026-03-15 10:38:12",
   "mode": "smoke",
   "min_total_people": 1,
   "total_people": 23,
-  "chinese_people": 10,
+  "chinese_people": 9,
   "western_people": 5,
-  "global_extra_people": 10,
+  "global_extra_people": 9,
   "validation": {
     "total_people": 23,
     "invalid_count": 0,

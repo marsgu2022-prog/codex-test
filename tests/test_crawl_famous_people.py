@@ -142,3 +142,44 @@ def test_clear_failed_job_and_pipeline_summary(tmp_path):
         assert summary == {"candidate_pages": 1, "failed_jobs": 0}
     finally:
         MODULE.__file__ = original_file
+
+
+def test_collect_cached_rows_merges_all_pages(tmp_path):
+    original_file = MODULE.__file__
+    try:
+        MODULE.__file__ = str(tmp_path / "scripts" / "crawl_famous_people.py")
+        state = MODULE.load_pipeline_state("_smoke")
+        job1 = MODULE.build_query_job("china_like", "zh", "Q148", "politician", 5, 0)
+        job2 = MODULE.build_query_job("western", "en", "Q30", "scientist", 5, 0)
+        MODULE.cache_query_rows(state, job1, [{"person": {"value": "https://www.wikidata.org/entity/Q1"}}])
+        MODULE.cache_query_rows(state, job2, [{"person": {"value": "https://www.wikidata.org/entity/Q2"}}])
+
+        rows = MODULE.collect_cached_rows(state)
+        assert rows == [
+            {"person": {"value": "https://www.wikidata.org/entity/Q1"}, "_cohort": "china_like"},
+            {"person": {"value": "https://www.wikidata.org/entity/Q2"}, "_cohort": "western"},
+        ]
+    finally:
+        MODULE.__file__ = original_file
+
+
+def test_retry_failed_jobs_updates_cache_and_clears_queue(tmp_path, monkeypatch):
+    original_file = MODULE.__file__
+    try:
+        MODULE.__file__ = str(tmp_path / "scripts" / "crawl_famous_people.py")
+        state = MODULE.load_pipeline_state("_smoke")
+        job = MODULE.build_query_job("western", "en", "Q30", "politician", 5, 0)
+        MODULE.record_failed_job(state, job, "timeout")
+
+        monkeypatch.setattr(
+            MODULE,
+            "query_wikidata",
+            lambda session, query: [{"person": {"value": "https://www.wikidata.org/entity/Q3"}}],
+        )
+
+        retried = MODULE.retry_failed_jobs(object(), state)
+        assert retried == {"western": [{"person": {"value": "https://www.wikidata.org/entity/Q3"}}]}
+        assert MODULE.get_cached_rows(state, job) == [{"person": {"value": "https://www.wikidata.org/entity/Q3"}}]
+        assert state["failure_queue"]["jobs"] == []
+    finally:
+        MODULE.__file__ = original_file

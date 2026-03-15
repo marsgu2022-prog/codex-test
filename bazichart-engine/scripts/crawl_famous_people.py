@@ -556,30 +556,10 @@ def fetch_cohort_from_countries(
             occupation_qid = OCCUPATION_QIDS[occupation_name]
             for page in range(pages):
                 job = build_query_job(cohort, language, country_qid, occupation_name, per_query_limit, page)
-                offset = page * per_query_limit
-                query = build_sparql_query(language, [country_qid], occupation_qid, per_query_limit, offset)
-                print(
-                    f"[{cohort}] SPARQL 国家 {country_qid} × {occupation_name}，第 {page + 1}/{pages} 页，限制 {per_query_limit}",
-                    flush=True,
-                )
-                cached_rows = get_cached_rows(pipeline_state, job)
-                if cached_rows is not None:
-                    rows.extend(cached_rows)
-                    print(
-                        f"[{cohort}] 命中缓存 国家 {country_qid} × {occupation_name} 第 {page + 1} 页：{len(cached_rows)}，累计 {len(rows)}",
-                        flush=True,
-                    )
-                    if len(cached_rows) < per_query_limit:
-                        break
-                    continue
                 try:
-                    result_rows = query_wikidata(session, query)
+                    result_rows = run_query_job(session, pipeline_state, job, use_cache=True)
                 except RequestException as exc:
-                    record_failed_job(pipeline_state, job, str(exc))
-                    print(f"[{cohort}] 跳过国家 {country_qid} × {occupation_name} 第 {page + 1} 页：{exc}", flush=True)
                     break
-                cache_query_rows(pipeline_state, job, result_rows)
-                clear_failed_job(pipeline_state, job)
                 rows.extend(result_rows)
                 print(
                     f"[{cohort}] 国家 {country_qid} × {occupation_name} 第 {page + 1} 页完成：{len(result_rows)}，累计 {len(rows)}",
@@ -588,16 +568,83 @@ def fetch_cohort_from_countries(
                 if len(result_rows) < per_query_limit:
                     break
 
+    return fetch_people_from_cached_rows(session, cohort, rows)
+
+
+def run_query_job(
+    session: requests.Session,
+    pipeline_state: dict[str, Any],
+    job: dict[str, Any],
+    *,
+    use_cache: bool,
+) -> list[dict[str, Any]]:
+    occupation_qid = OCCUPATION_QIDS[job["occupation"]]
+    query = build_sparql_query(job["language"], [job["country_qid"]], occupation_qid, job["limit"], job["offset"])
+    print(
+        f"[{job['cohort']}] SPARQL 国家 {job['country_qid']} × {job['occupation']}，第 {job['page']} 页，限制 {job['limit']}",
+        flush=True,
+    )
+    if use_cache:
+        cached_rows = get_cached_rows(pipeline_state, job)
+        if cached_rows is not None:
+            print(
+                f"[{job['cohort']}] 命中缓存 国家 {job['country_qid']} × {job['occupation']} 第 {job['page']} 页：{len(cached_rows)}",
+                flush=True,
+            )
+            return cached_rows
+    try:
+        result_rows = query_wikidata(session, query)
+    except RequestException as exc:
+        record_failed_job(pipeline_state, job, str(exc))
+        print(f"[{job['cohort']}] 跳过国家 {job['country_qid']} × {job['occupation']} 第 {job['page']} 页：{exc}", flush=True)
+        raise
+    cache_query_rows(pipeline_state, job, result_rows)
+    clear_failed_job(pipeline_state, job)
+    print(
+        f"[{job['cohort']}] 国家 {job['country_qid']} × {job['occupation']} 第 {job['page']} 页完成：{len(result_rows)}",
+        flush=True,
+    )
+    return result_rows
+
+
+def collect_cached_rows(pipeline_state: dict[str, Any]) -> list[dict[str, Any]]:
+    rows: list[dict[str, Any]] = []
+    for item in pipeline_state["candidate_cache"]["pages"].values():
+        cohort = item.get("job", {}).get("cohort", "unknown")
+        for row in item.get("rows", []):
+            row_copy = dict(row)
+            row_copy["_cohort"] = cohort
+            rows.append(row_copy)
+    return rows
+
+
+def fetch_people_from_cached_rows(session: requests.Session, cohort: str, rows: list[dict[str, Any]]) -> list[dict[str, Any]]:
     qids = sorted({row["person"]["value"].rsplit("/", 1)[-1] for row in rows})
     print(f"[{cohort}] 准备补详情的去重 QID：{len(qids)}", flush=True)
     details = build_detail_map(session, qids)
     people = []
     for row in rows:
-        person = enrich_person(row, cohort, details)
+        person = enrich_person(row, row.get("_cohort", cohort), details)
         if person is not None:
             people.append(person)
     print(f"[{cohort}] 转换为名人记录：{len(people)}", flush=True)
     return people
+
+
+def retry_failed_jobs(session: requests.Session, pipeline_state: dict[str, Any]) -> dict[str, list[dict[str, Any]]]:
+    retried_rows: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    jobs = [item["job"] for item in pipeline_state["failure_queue"]["jobs"]]
+    if not jobs:
+        print("失败队列为空，直接复用缓存候选页", flush=True)
+        return retried_rows
+    print(f"开始补跑失败页：{len(jobs)}", flush=True)
+    for job in jobs:
+        try:
+            rows = run_query_job(session, pipeline_state, job, use_cache=False)
+        except RequestException:
+            continue
+        retried_rows[job["cohort"]].extend(rows)
+    return retried_rows
 
 
 def get_json_with_retry(session: requests.Session, url: str, params: dict[str, Any], timeout: int = 60) -> dict[str, Any]:
@@ -971,6 +1018,11 @@ def parse_args() -> argparse.Namespace:
         default="full",
         help="full 为默认全量模式，smoke 只跑最小链路验证",
     )
+    parser.add_argument(
+        "--retry-failures",
+        action="store_true",
+        help="只补跑失败队列中的查询页，并复用现有候选池缓存生成结果",
+    )
     return parser.parse_args()
 
 
@@ -996,33 +1048,46 @@ def main() -> int:
     pipeline_state = load_pipeline_state(output_suffix)
 
     print(f"运行模式：{args.mode}", flush=True)
+    if args.retry_failures:
+        print("补跑模式：只处理失败队列", flush=True)
 
-    print("抓取中文名人...", flush=True)
-    chinese_config = dict(runtime_configs["china_like"])
-    chinese_people = fetch_cohort_from_countries(session, "china_like", pipeline_state=pipeline_state, **chinese_config)
-    print(f"中文名人抓取完成：{len(chinese_people)}", flush=True)
+    if args.retry_failures:
+        retry_failed_jobs(session, pipeline_state)
+        cached_rows = collect_cached_rows(pipeline_state)
+        people = dedupe_people(fetch_people_from_cached_rows(session, "retry_failures", cached_rows))
+        people_by_cohort: dict[str, list[dict[str, Any]]] = defaultdict(list)
+        for person in people:
+            people_by_cohort[(person.get("source") or {}).get("cohort", "unknown")].append(person)
+        chinese_people = people_by_cohort.get("china_like", [])
+        western_people = people_by_cohort.get("western", [])
+        global_extra_people = people_by_cohort.get("global_extra", [])
+    else:
+        print("抓取中文名人...", flush=True)
+        chinese_config = dict(runtime_configs["china_like"])
+        chinese_people = fetch_cohort_from_countries(session, "china_like", pipeline_state=pipeline_state, **chinese_config)
+        print(f"中文名人抓取完成：{len(chinese_people)}", flush=True)
 
-    print("抓取西方名人...", flush=True)
-    western_config = dict(runtime_configs["western"])
-    western_config["country_qids"] = expand_country_qids(
-        session,
-        western_config["country_qids"],
-        western_config.pop("extra_country_names", []),
-    )
-    western_people = fetch_cohort_from_countries(session, "western", pipeline_state=pipeline_state, **western_config)
-    print(f"西方名人抓取完成：{len(western_people)}", flush=True)
+        print("抓取西方名人...", flush=True)
+        western_config = dict(runtime_configs["western"])
+        western_config["country_qids"] = expand_country_qids(
+            session,
+            western_config["country_qids"],
+            western_config.pop("extra_country_names", []),
+        )
+        western_people = fetch_cohort_from_countries(session, "western", pipeline_state=pipeline_state, **western_config)
+        print(f"西方名人抓取完成：{len(western_people)}", flush=True)
 
-    print("抓取全球补充名人...", flush=True)
-    global_extra_config = dict(runtime_configs["global_extra"])
-    global_extra_config["country_qids"] = expand_country_qids(
-        session,
-        global_extra_config["country_qids"],
-        global_extra_config.pop("extra_country_names", []),
-    )
-    global_extra_people = fetch_cohort_from_countries(session, "global_extra", pipeline_state=pipeline_state, **global_extra_config)
-    print(f"全球补充名人抓取完成：{len(global_extra_people)}", flush=True)
+        print("抓取全球补充名人...", flush=True)
+        global_extra_config = dict(runtime_configs["global_extra"])
+        global_extra_config["country_qids"] = expand_country_qids(
+            session,
+            global_extra_config["country_qids"],
+            global_extra_config.pop("extra_country_names", []),
+        )
+        global_extra_people = fetch_cohort_from_countries(session, "global_extra", pipeline_state=pipeline_state, **global_extra_config)
+        print(f"全球补充名人抓取完成：{len(global_extra_people)}", flush=True)
 
-    people = dedupe_people(chinese_people + western_people + global_extra_people)
+        people = dedupe_people(chinese_people + western_people + global_extra_people)
     if len(people) < min_total_people:
         raise RuntimeError(f"名人总数不足 {min_total_people}，当前仅 {len(people)}")
 
