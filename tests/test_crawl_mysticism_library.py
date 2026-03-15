@@ -1,6 +1,7 @@
 from importlib.util import module_from_spec, spec_from_file_location
 from pathlib import Path
 import sys
+from unittest.mock import Mock
 
 
 MODULE_PATH = Path(__file__).resolve().parents[1] / "bazichart-engine" / "scripts" / "crawl_mysticism_library.py"
@@ -95,10 +96,30 @@ def test_expand_topic_seeds_from_categories_builds_unique_reference_seeds(monkey
     assert all(item["category"] == "reference" for item in expanded)
 
 
+def test_expand_topic_seeds_from_categories_records_each_failed_category(monkeypatch):
+    def fake_fetch_category_titles(session, language, category, limit=MODULE.CATEGORY_MEMBER_LIMIT):
+        if language == "zh":
+            raise MODULE.requests.RequestException("429 Too Many Requests")
+        return ["Divination"]
+
+    monkeypatch.setattr(MODULE, "fetch_category_titles", fake_fetch_category_titles)
+
+    failures = []
+    expanded = MODULE.expand_topic_seeds_from_categories(object(), failure_log=failures)
+
+    assert any(item["key"] == "en_divination" for item in expanded)
+    assert len(failures) == 4
+    assert all(item["stage"] == "category" and item["language"] == "zh" for item in failures)
+
+
 def test_build_topic_library_can_include_category_expansion(monkeypatch):
-    monkeypatch.setattr(MODULE, "expand_topic_seeds_from_categories", lambda session, limit_per_category=MODULE.CATEGORY_MEMBER_LIMIT: [
-        {"key": "zh_sample", "title_zh_hans": "堪舆注解", "title_en": "Kanyu notes", "category": "reference", "tags": ["玄学", "扩展"]}
-    ])
+    monkeypatch.setattr(
+        MODULE,
+        "expand_topic_seeds_from_categories",
+        lambda session, limit_per_category=MODULE.CATEGORY_MEMBER_LIMIT, failure_log=None: [
+            {"key": "zh_sample", "title_zh_hans": "堪舆注解", "title_en": "Kanyu notes", "category": "reference", "tags": ["玄学", "扩展"]}
+        ],
+    )
     monkeypatch.setattr(
         MODULE,
         "fetch_page_summary",
@@ -109,6 +130,57 @@ def test_build_topic_library_can_include_category_expansion(monkeypatch):
     records = MODULE.build_topic_library(object(), seeds=MODULE.TOPIC_SEEDS[:1], include_categories=True, category_limit=3)
 
     assert [item["key"] for item in records] == ["bazi", "zh_sample"]
+
+
+def test_expand_topic_seeds_from_categories_skips_failed_category(monkeypatch):
+    def fake_fetch_category_titles(session, language, category, limit=MODULE.CATEGORY_MEMBER_LIMIT):
+        if category == "Category:道教占卜":
+            raise MODULE.requests.RequestException("429 Too Many Requests")
+        return ["八字扩展"] if language == "zh" else []
+
+    monkeypatch.setattr(MODULE, "fetch_category_titles", fake_fetch_category_titles)
+
+    failures = []
+    expanded = MODULE.expand_topic_seeds_from_categories(object(), failure_log=failures)
+
+    assert any(item["key"] == "zh_八字扩展" for item in expanded)
+    assert any(item["stage"] == "category" and item["target"] == "Category:道教占卜" for item in failures)
+
+
+def test_build_topic_library_keeps_partial_record_when_one_language_fails(monkeypatch):
+    def fake_fetch_page_summary(session, language, title):
+        if language == "en":
+            raise MODULE.requests.RequestException("gateway timeout")
+        return {
+            "title": title,
+            "summary": f"{language}:{title}",
+            "source_url": f"https://{language}.example/{title}",
+        }
+
+    monkeypatch.setattr(MODULE, "fetch_page_summary", fake_fetch_page_summary)
+    monkeypatch.setattr(MODULE, "fetch_page_links", lambda session, language, title, limit=MODULE.LINK_FETCH_LIMIT: [])
+
+    failures = []
+    records = MODULE.build_topic_library(object(), seeds=MODULE.TOPIC_SEEDS[:1], failure_log=failures)
+
+    assert len(records) == 1
+    assert records[0]["summary_zh_hans"] == "zh:八字"
+    assert records[0]["summary_en"] == "zh:八字"
+    assert any(item["stage"] == "summary" and item["language"] == "en" for item in failures)
+
+
+def test_build_topic_library_skips_seed_when_both_languages_fail(monkeypatch):
+    monkeypatch.setattr(
+        MODULE,
+        "fetch_page_summary",
+        lambda session, language, title: (_ for _ in ()).throw(MODULE.requests.RequestException("down")),
+    )
+
+    failures = []
+    records = MODULE.build_topic_library(object(), seeds=MODULE.TOPIC_SEEDS[:1], failure_log=failures)
+
+    assert records == []
+    assert any(item["stage"] == "record" and item["target"] == "bazi" for item in failures)
 
 
 def test_topic_seeds_include_high_value_books_and_works():
@@ -161,12 +233,61 @@ def test_build_report_counts_categories():
             {"key": "bazi", "category": "concept"},
             {"key": "feng_shui", "category": "practice"},
             {"key": "ziwei_doushu", "category": "concept"},
-        ]
+        ],
+        requested_seed_count=4,
+        include_categories=True,
+        category_limit=5,
     )
 
     assert report["total_records"] == 3
     assert report["categories"] == {"concept": 2, "practice": 1}
+    assert report["requested_seed_count"] == 4
+    assert report["succeeded_topics"] == 3
+    assert report["skipped_topics"] == 0
+    assert report["include_categories"] is True
+    assert report["category_limit"] == 5
+    assert report["failed_requests"] == 0
+    assert report["failure_summary"] == {"by_stage": {}, "by_language": {}}
+    assert report["failures"] == []
     assert report["seed_keys"] == ["bazi", "feng_shui", "ziwei_doushu"]
+
+
+def test_build_report_includes_failure_summary():
+    report = MODULE.build_report(
+        [{"key": "bazi", "category": "concept"}],
+        [
+            {"stage": "summary", "language": "zh", "target": "八字", "message": "429"},
+            {"stage": "record", "language": "multi", "target": "bad_seed", "message": "skip"},
+        ],
+    )
+
+    assert report["failed_requests"] == 2
+    assert report["skipped_topics"] == 1
+    assert report["failure_summary"] == {
+        "by_stage": {"summary": 1, "record": 1},
+        "by_language": {"zh": 1, "multi": 1},
+    }
+    assert report["failures"][0]["target"] == "八字"
+
+
+def test_get_json_with_retry_does_not_retry_non_429_client_error(monkeypatch):
+    response = Mock(status_code=404, headers={})
+    response.raise_for_status.side_effect = MODULE.requests.HTTPError("404", response=response)
+    session = Mock()
+    session.get.return_value = response
+
+    sleep_calls = []
+    monkeypatch.setattr(MODULE.time, "sleep", lambda seconds: sleep_calls.append(seconds))
+
+    try:
+        MODULE.get_json_with_retry(session, "https://example.com/missing")
+    except MODULE.requests.HTTPError:
+        pass
+    else:
+        raise AssertionError("预期抛出 HTTPError")
+
+    assert session.get.call_count == 1
+    assert sleep_calls == []
 
 
 def test_build_case_record_for_bazi_contains_required_fields():

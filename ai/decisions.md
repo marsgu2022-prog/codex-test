@@ -67,3 +67,9 @@
 - `Wikipedia` 和当前 `wikipedia_seed` 作为一级来源可直接入库，审核态固定为 `approved`
 - 除 Wikipedia 外的新来源默认归入 `external_pending_review`，必须人工审核通过后才能进入正式主题或案例表
 - `source quality review` 记录扩展为带 `review_scope`、`review_status`、`requires_manual_approval`、`reviewed_by` 的审核元数据，后续可支持更细的来源审批流
+
+## 玄学抓取改为部分成功优先
+
+- `crawl_mysticism_library.py` 遇到单个分类、单语摘要或相关链接抓取失败时，不再整批失败
+- 只要中英任一语言摘要成功，就保留该主题记录；仅在双语都失败时才跳过主题
+- 报告中新增失败统计与失败样本，便于后续按失败点补跑，而不是阻塞整批落盘

@@ -36,6 +36,7 @@ SOURCE_POLICY = {
     "archive_org": {"priority": 3, "quality_tier": "B"},
     "academic": {"priority": 4, "quality_tier": "A"},
 }
+MAX_REPORTED_FAILURES = 50
 
 TOPIC_SEEDS = [
     {
@@ -317,11 +318,33 @@ def get_json_with_retry(session: requests.Session, url: str, params: dict[str, A
             time.sleep(0.6)
             return response.json()
         except requests.RequestException as exc:
+            if response is not None and 400 <= response.status_code < 500 and response.status_code != 429:
+                raise
             last_error = exc
             time.sleep(2 + attempt)
     if last_error is not None:
         raise last_error
     raise RuntimeError("请求失败但未捕获具体异常")
+
+
+def record_failure(
+    failure_log: list[dict[str, str]] | None,
+    *,
+    stage: str,
+    language: str,
+    target: str,
+    message: str,
+) -> None:
+    if failure_log is None:
+        return
+    failure_log.append(
+        {
+            "stage": stage,
+            "language": language,
+            "target": target,
+            "message": normalize_text(message),
+        }
+    )
 
 
 def dedupe_titles(values: list[str], limit: int = MAX_RELATED_TITLES) -> list[str]:
@@ -395,11 +418,26 @@ def build_expanded_topic_seed(language: str, title: str) -> dict[str, Any]:
     }
 
 
-def expand_topic_seeds_from_categories(session: requests.Session, limit_per_category: int = CATEGORY_MEMBER_LIMIT) -> list[dict[str, Any]]:
+def expand_topic_seeds_from_categories(
+    session: requests.Session,
+    limit_per_category: int = CATEGORY_MEMBER_LIMIT,
+    *,
+    failure_log: list[dict[str, str]] | None = None,
+) -> list[dict[str, Any]]:
     expanded: list[dict[str, Any]] = []
     seen_keys = {seed["key"] for seed in TOPIC_SEEDS}
     for item in TOPIC_CATEGORIES:
-        titles = fetch_category_titles(session, item["language"], item["category"], limit=limit_per_category)
+        try:
+            titles = fetch_category_titles(session, item["language"], item["category"], limit=limit_per_category)
+        except requests.RequestException as exc:
+            record_failure(
+                failure_log,
+                stage="category",
+                language=item["language"],
+                target=item["category"],
+                message=str(exc),
+            )
+            continue
         for title in titles:
             seed = build_expanded_topic_seed(item["language"], title)
             if seed["key"] in seen_keys:
@@ -460,35 +498,135 @@ def build_case_library(seeds: list[dict[str, Any]] | None = None) -> list[dict[s
     return [build_case_record(seed) for seed in seeds]
 
 
+def summarize_failures(failures: list[dict[str, str]]) -> dict[str, dict[str, int]]:
+    by_stage: dict[str, int] = {}
+    by_language: dict[str, int] = {}
+    for item in failures:
+        stage = item.get("stage", "unknown")
+        language = item.get("language", "unknown")
+        by_stage[stage] = by_stage.get(stage, 0) + 1
+        by_language[language] = by_language.get(language, 0) + 1
+    return {
+        "by_stage": by_stage,
+        "by_language": by_language,
+    }
+
+
 def build_topic_library(
     session: requests.Session,
     seeds: list[dict[str, Any]] | None = None,
     *,
     include_categories: bool = False,
     category_limit: int = CATEGORY_MEMBER_LIMIT,
+    failure_log: list[dict[str, str]] | None = None,
 ) -> list[dict[str, Any]]:
     seeds = TOPIC_SEEDS if seeds is None else seeds
     expanded_seeds = list(seeds)
     if include_categories:
-        expanded_seeds.extend(expand_topic_seeds_from_categories(session, limit_per_category=category_limit))
+        expanded_seeds.extend(
+            expand_topic_seeds_from_categories(
+                session,
+                limit_per_category=category_limit,
+                failure_log=failure_log,
+            )
+        )
     records: list[dict[str, Any]] = []
     for seed in expanded_seeds:
-        zh_page = fetch_page_summary(session, "zh", seed["title_zh_hans"])
-        en_page = fetch_page_summary(session, "en", seed["title_en"])
-        zh_links = fetch_page_links(session, "zh", zh_page["title"])
-        en_links = fetch_page_links(session, "en", en_page["title"])
+        zh_page = None
+        en_page = None
+        zh_links: list[str] = []
+        en_links: list[str] = []
+
+        try:
+            zh_page = fetch_page_summary(session, "zh", seed["title_zh_hans"])
+        except requests.RequestException as exc:
+            record_failure(
+                failure_log,
+                stage="summary",
+                language="zh",
+                target=seed["title_zh_hans"],
+                message=str(exc),
+            )
+
+        try:
+            en_page = fetch_page_summary(session, "en", seed["title_en"])
+        except requests.RequestException as exc:
+            record_failure(
+                failure_log,
+                stage="summary",
+                language="en",
+                target=seed["title_en"],
+                message=str(exc),
+            )
+
+        if zh_page is None and en_page is None:
+            record_failure(
+                failure_log,
+                stage="record",
+                language="multi",
+                target=seed["key"],
+                message="zh/en 页面均抓取失败，已跳过该主题。",
+            )
+            continue
+
+        if zh_page is not None:
+            try:
+                zh_links = fetch_page_links(session, "zh", zh_page["title"])
+            except requests.RequestException as exc:
+                record_failure(
+                    failure_log,
+                    stage="links",
+                    language="zh",
+                    target=zh_page["title"],
+                    message=str(exc),
+                )
+
+        if en_page is not None:
+            try:
+                en_links = fetch_page_links(session, "en", en_page["title"])
+            except requests.RequestException as exc:
+                record_failure(
+                    failure_log,
+                    stage="links",
+                    language="en",
+                    target=en_page["title"],
+                    message=str(exc),
+                )
+
         records.append(build_library_record(seed, zh_page, en_page, zh_links, en_links))
     return records
 
 
-def build_report(records: list[dict[str, Any]]) -> dict[str, Any]:
+def build_report(
+    records: list[dict[str, Any]],
+    failures: list[dict[str, str]] | None = None,
+    *,
+    requested_seed_count: int | None = None,
+    include_categories: bool = False,
+    category_limit: int | None = None,
+) -> dict[str, Any]:
     categories: dict[str, int] = {}
     for item in records:
         categories[item["category"]] = categories.get(item["category"], 0) + 1
+    failures = failures or []
+    skipped_keys = {
+        item["target"]
+        for item in failures
+        if item.get("stage") == "record" and item.get("target")
+    }
+    failure_summary = summarize_failures(failures)
     return {
         "generated_at": __import__("time").strftime("%Y-%m-%d %H:%M:%S"),
         "total_records": len(records),
         "categories": categories,
+        "requested_seed_count": requested_seed_count if requested_seed_count is not None else len(records),
+        "succeeded_topics": len(records),
+        "skipped_topics": len(skipped_keys),
+        "include_categories": include_categories,
+        "category_limit": category_limit,
+        "failed_requests": len(failures),
+        "failure_summary": failure_summary,
+        "failures": failures[:MAX_REPORTED_FAILURES],
         "seed_keys": [item["key"] for item in records],
     }
 
@@ -498,6 +636,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--output", type=Path, default=OUTPUT_PATH, help="资料库输出文件")
     parser.add_argument("--report", type=Path, default=REPORT_PATH, help="抓取报告输出文件")
     parser.add_argument("--include-categories", action="store_true", help="额外抓取 Wikipedia 分类页扩展主题")
+    parser.add_argument("--category-limit", type=int, default=CATEGORY_MEMBER_LIMIT, help="每个分类最多扩展多少条主题")
     return parser.parse_args()
 
 
@@ -505,13 +644,25 @@ def main() -> int:
     args = parse_args()
     session = requests.Session()
     session.headers.update({"User-Agent": USER_AGENT})
-    records = build_topic_library(session, include_categories=args.include_categories)
+    failures: list[dict[str, str]] = []
+    records = build_topic_library(
+        session,
+        include_categories=args.include_categories,
+        category_limit=args.category_limit,
+        failure_log=failures,
+    )
     case_records = build_case_library()
     payload = {
         "topics": records,
         "cases": case_records,
     }
-    report = build_report(records)
+    report = build_report(
+        records,
+        failures,
+        requested_seed_count=len(TOPIC_SEEDS),
+        include_categories=args.include_categories,
+        category_limit=args.category_limit,
+    )
     report["case_count"] = len(case_records)
     report["case_types"] = {
         "bazi": sum(1 for item in case_records if item["case_type"] == "bazi"),
