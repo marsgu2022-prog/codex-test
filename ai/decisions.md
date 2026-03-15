@@ -60,3 +60,10 @@
 - 玄学资料库先以 Wikipedia 为一级来源，默认 `source_priority = 1`、`quality_tier = A`
 - 其他渠道后续可以接入，但必须显式记录来源类型、优先级和质量等级后才能入库
 - SQLite 数据库同时落主题、案例、标签、事件四类结构，便于后续检索、后台管理和持续更新
+
+## 玄学案例源采用来源注册表与审核态
+
+- 玄学数据库新增 `source registry` 结构，单独维护来源白名单、默认优先级、默认质量等级和是否允许入库
+- `Wikipedia` 和当前 `wikipedia_seed` 作为一级来源可直接入库，审核态固定为 `approved`
+- 除 Wikipedia 外的新来源默认归入 `external_pending_review`，必须人工审核通过后才能进入正式主题或案例表
+- `source quality review` 记录扩展为带 `review_scope`、`review_status`、`requires_manual_approval`、`reviewed_by` 的审核元数据，后续可支持更细的来源审批流
