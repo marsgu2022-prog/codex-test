@@ -1,172 +1,226 @@
 {
-  "generated_at": "2026-03-15 12:52:03",
-  "before_count": 3212,
-  "after_count": 3192,
-  "deleted_count": 20,
+  "generated_at": "2026-03-15 12:57:31",
+  "before_count": 3192,
+  "after_count": 3165,
+  "deleted_count": 27,
   "deleted_by_category": {
-    "战争与暴力": 11,
-    "政治敏感": 6,
-    "邪教与极端": 2,
-    "犯罪类": 1
+    "政治敏感": 17,
+    "邪教与极端": 10
   },
   "deleted_people": [
     {
-      "id": "Q174971",
-      "name_zh": "伊藤博文",
-      "name_en": "Itō Hirobumi",
-      "birth_date": "1841-10-16",
-      "category": "战争与暴力",
-      "reason": "二战战犯或侵华战争相关核心人物"
+      "id": "Q70326",
+      "name_zh": "皮埃爾·博馬舍",
+      "name_en": "Pierre Beaumarchais",
+      "birth_date": "1732-01-24",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: \\bspy\\b"
     },
     {
-      "id": "Q160847",
-      "name_zh": "东条英机",
-      "name_en": "Hideki Tojo",
-      "birth_date": "1884-12-30",
-      "category": "战争与暴力",
-      "reason": "二战战犯或侵华战争相关核心人物"
+      "id": "Q445843",
+      "name_zh": "Jean-Baptiste Van Mons",
+      "name_en": "Jean-Baptiste Van Mons",
+      "birth_date": "1765-11-11",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: cult"
     },
     {
-      "id": "Q352",
-      "name_zh": "阿道夫·希特勒",
-      "name_en": "Adolf Hitler",
-      "birth_date": "1889-04-20",
-      "category": "战争与暴力",
-      "reason": "二战战犯或侵华战争相关核心人物"
+      "id": "Q202049",
+      "name_zh": "奥古斯特·贝尔纳特",
+      "name_en": "Auguste Beernaert",
+      "birth_date": "1829-07-26",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: human rights activist"
     },
     {
-      "id": "Q650219",
-      "name_zh": "阿圖爾·賽斯-英夸特",
-      "name_en": "Arthur Seyss-Inquart",
-      "birth_date": "1892-07-22",
-      "category": "战争与暴力",
-      "reason": "命中战争/恐怖/屠杀关键词: nazi"
+      "id": "Q78484",
+      "name_zh": "魯道夫·斯坦納",
+      "name_en": "Rudolf Steiner",
+      "birth_date": "1861-02-27",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: cult"
     },
     {
-      "id": "Q47906",
-      "name_zh": "赫尔曼·戈林",
-      "name_en": "Hermann Göring",
-      "birth_date": "1893-01-12",
-      "category": "战争与暴力",
-      "reason": "二战战犯或侵华战争相关核心人物"
+      "id": "Q244395",
+      "name_zh": "肖恩·麦克布赖德",
+      "name_en": "Seán MacBride",
+      "birth_date": "1904-01-26",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: human rights activist"
     },
     {
-      "id": "Q60145",
-      "name_zh": "里夏德·瓦尔特·达雷",
-      "name_en": "Richard Walther Darré",
-      "birth_date": "1895-07-14",
-      "category": "战争与暴力",
-      "reason": "命中战争/恐怖/屠杀关键词: nazi"
+      "id": "Q26990381",
+      "name_zh": "Clara Stauffer",
+      "name_en": "Clara Stauffer",
+      "birth_date": "1904-05-21",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: \\bspy\\b"
     },
     {
-      "id": "Q41749",
-      "name_zh": "約瑟夫·戈培爾",
-      "name_en": "Joseph Goebbels",
-      "birth_date": "1897-10-29",
-      "category": "战争与暴力",
-      "reason": "二战战犯或侵华战争相关核心人物"
+      "id": "Q151972",
+      "name_zh": "約瑟芬·貝克",
+      "name_en": "Josephine Baker",
+      "birth_date": "1906-06-03",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: intelligence officer"
     },
     {
-      "id": "Q78473",
-      "name_zh": "恩斯特·卡爾滕布倫納",
-      "name_en": "Ernst Kaltenbrunner",
-      "birth_date": "1903-10-04",
-      "category": "战争与暴力",
-      "reason": "命中战争/恐怖/屠杀关键词: war criminal"
+      "id": "Q55585108",
+      "name_zh": "Paddy Bassett",
+      "name_en": "Paddy Bassett",
+      "birth_date": "1918-07-15",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: cult"
     },
     {
-      "id": "Q69166",
-      "name_zh": "沃尔夫冈·阿本德罗特",
-      "name_en": "Wolfgang Abendroth",
-      "birth_date": "1906-05-02",
-      "category": "战争与暴力",
-      "reason": "命中战争/恐怖/屠杀关键词: nazi"
-    },
-    {
-      "id": "Q315528",
-      "name_zh": "李登輝",
-      "name_en": "Lee Teng-hui",
-      "birth_date": "1923-01-15",
+      "id": "Q697911",
+      "name_zh": "史明",
+      "name_en": "Su Beng",
+      "birth_date": "1918-11-09",
       "category": "政治敏感",
       "reason": "分裂主义、反华制裁、叛逃或间谍相关人物"
     },
     {
-      "id": "Q66107",
-      "name_zh": "亨利·基辛格",
-      "name_en": "Henry Kissinger",
-      "birth_date": "1923-05-27",
-      "category": "战争与暴力",
-      "reason": "命中战争/恐怖/屠杀关键词: 战犯"
-    },
-    {
-      "id": "Q17293",
-      "name_zh": "第十四世達賴喇嘛",
-      "name_en": "Tenzin Gyatso",
-      "birth_date": "1935-07-06",
-      "category": "政治敏感",
-      "reason": "分裂主义、反华制裁、叛逃或间谍相关人物"
-    },
-    {
-      "id": "Q298133",
-      "name_zh": "热比娅·卡德尔",
-      "name_en": "Rebiya Kadeer",
-      "birth_date": "1947-01-21",
-      "category": "政治敏感",
-      "reason": "分裂主义、反华制裁、叛逃或间谍相关人物"
-    },
-    {
-      "id": "Q311669",
-      "name_zh": "麻原彰晃",
-      "name_en": "Shōkō Asahara",
-      "birth_date": "1955-03-02",
+      "id": "Q296734",
+      "name_zh": "文鲜明",
+      "name_en": "Sun Myung Moon",
+      "birth_date": "1920-01-06",
       "category": "邪教与极端",
       "reason": "邪教、极端宗教、军火或奴隶贸易相关人物"
     },
     {
-      "id": "Q27514522",
-      "name_zh": "崔顺实",
-      "name_en": "Choi Sun-sil",
-      "birth_date": "1956-06-23",
+      "id": "Q213416",
+      "name_zh": "阿米爾卡·卡布拉爾",
+      "name_en": "Amílcar Cabral",
+      "birth_date": "1924-09-12",
       "category": "邪教与极端",
-      "reason": "命中邪教/军火/奴隶贸易关键词: cult leader"
+      "reason": "命中邪教/军火/奴隶贸易关键词: cult"
     },
     {
-      "id": "Q233984",
-      "name_zh": "蔡英文",
-      "name_en": "Tsai Ing-wen",
-      "birth_date": "1956-08-31",
+      "id": "Q2096791",
+      "name_zh": "若列斯·梅德韦杰夫",
+      "name_en": "Zhores Medvedev",
+      "birth_date": "1925-11-14",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: dissident"
+    },
+    {
+      "id": "Q2920700",
+      "name_zh": "Refaat Al-Gammal",
+      "name_en": "Refaat Al-Gammal",
+      "birth_date": "1927-07-01",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: \\bspy\\b"
+    },
+    {
+      "id": "Q209641",
+      "name_zh": "約翰·勒卡雷",
+      "name_en": "John le Carré",
+      "birth_date": "1931-10-19",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: \\bspy\\b"
+    },
+    {
+      "id": "Q5547741",
+      "name_zh": "Miguel de La Quadra-Salcedo",
+      "name_en": "Miguel de La Quadra-Salcedo",
+      "birth_date": "1932-04-30",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: cult"
+    },
+    {
+      "id": "Q133040",
+      "name_zh": "阿爾貝托·藤森",
+      "name_en": "Alberto Fujimori",
+      "birth_date": "1938-07-28",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: cult"
+    },
+    {
+      "id": "Q692904",
+      "name_zh": "Arne Treholt",
+      "name_en": "Arne Treholt",
+      "birth_date": "1942-12-13",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: \\bspy\\b"
+    },
+    {
+      "id": "Q2643",
+      "name_zh": "乔治·哈里森",
+      "name_en": "George Harrison",
+      "birth_date": "1943-02-25",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: cult"
+    },
+    {
+      "id": "Q2866586",
+      "name_zh": "阿什拉夫·马尔万",
+      "name_en": "Ashraf Marwan",
+      "birth_date": "1944-02-02",
+      "category": "政治敏感",
+      "reason": "命中分裂/间谍/制裁关键词: \\bspy\\b"
+    },
+    {
+      "id": "Q5383",
+      "name_zh": "大卫·鲍伊",
+      "name_en": "David Bowie",
+      "birth_date": "1947-01-08",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: cult"
+    },
+    {
+      "id": "Q19216",
+      "name_zh": "馬英九",
+      "name_en": "Ma Ying-jeou",
+      "birth_date": "1950-07-13",
       "category": "政治敏感",
       "reason": "分裂主义、反华制裁、叛逃或间谍相关人物"
     },
     {
-      "id": "Q615836",
-      "name_zh": "葉真理",
-      "name_en": "Zhenli Ye Gon",
-      "birth_date": "1963-01-31",
-      "category": "犯罪类",
-      "reason": "命中严重犯罪关键词: drug lord"
-    },
-    {
-      "id": "Q44220",
-      "name_zh": "安德斯·贝林·布雷维克",
-      "name_en": "Anders Behring Breivik",
-      "birth_date": "1979-02-13",
-      "category": "战争与暴力",
-      "reason": "命中战争/恐怖/屠杀关键词: terrorist"
-    },
-    {
-      "id": "Q18437771",
-      "name_zh": "朴延美",
-      "name_en": "Park Yeon-mi",
-      "birth_date": "1993-10-04",
+      "id": "Q7747",
+      "name_zh": "弗拉基米尔·普京",
+      "name_en": "Vladimir Putin",
+      "birth_date": "1952-10-07",
       "category": "政治敏感",
-      "reason": "命中分裂/间谍/制裁关键词: defector"
+      "reason": "命中分裂/间谍/制裁关键词: \\bspy\\b"
     },
     {
-      "id": "Q9455382",
-      "name_zh": "黃之鋒",
-      "name_en": "Joshua Wong",
-      "birth_date": "1996-10-13",
+      "id": "Q41617",
+      "name_zh": "刘晓波",
+      "name_en": "Liu Xiaobo",
+      "birth_date": "1955-12-28",
+      "category": "政治敏感",
+      "reason": "分裂主义、反华制裁、叛逃或间谍相关人物"
+    },
+    {
+      "id": "Q6276882",
+      "name_zh": "乔丹·皮特森",
+      "name_en": "Jordan Peterson",
+      "birth_date": "1962-06-12",
+      "category": "邪教与极端",
+      "reason": "命中邪教/军火/奴隶贸易关键词: cult"
+    },
+    {
+      "id": "Q87015",
+      "name_zh": "亞歷山大·瓦爾杰洛維奇·利特維年科",
+      "name_en": "Alexander Litvinenko",
+      "birth_date": "1962-12-04",
+      "category": "政治敏感",
+      "reason": "分裂主义、反华制裁、叛逃或间谍相关人物"
+    },
+    {
+      "id": "Q610332",
+      "name_zh": "柴玲",
+      "name_en": "Chai Ling",
+      "birth_date": "1966-04-15",
+      "category": "政治敏感",
+      "reason": "分裂主义、反华制裁、叛逃或间谍相关人物"
+    },
+    {
+      "id": "Q232776",
+      "name_zh": "安娜·查普曼",
+      "name_en": "Anna Chapman",
+      "birth_date": "1982-02-23",
       "category": "政治敏感",
       "reason": "分裂主义、反华制裁、叛逃或间谍相关人物"
     }

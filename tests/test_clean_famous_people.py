@@ -24,7 +24,7 @@ def test_clean_people_removes_strict_blacklist_person():
     assert review == []
 
 
-def test_clean_people_marks_review_for_sensitive_activist_description():
+def test_clean_people_deletes_sensitive_activist_description():
     people = [
         {
             "id": "Q1",
@@ -37,9 +37,9 @@ def test_clean_people_marks_review_for_sensitive_activist_description():
 
     cleaned, deleted, review = MODULE.clean_people(people)
 
-    assert len(cleaned) == 1
-    assert deleted == []
-    assert review[0]["category"] == "政治敏感"
+    assert cleaned == []
+    assert deleted[0]["category"] == "政治敏感"
+    assert review == []
 
 
 def test_detect_early_death_deletes_under_30_accidental_death():

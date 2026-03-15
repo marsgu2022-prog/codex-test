@@ -73,11 +73,18 @@ STRICT_BLACKLIST = [
             "第十四世达赖喇嘛", "第十四世達賴喇嘛", "Tenzin Gyatso", "Dalai Lama",
             "热比娅", "熱比婭", "Rebiya Kadeer",
             "黄之锋", "黃之鋒", "Joshua Wong",
+            "柴玲", "Chai Ling",
+            "刘晓波", "劉曉波", "Liu Xiaobo",
+            "史明", "Su Beng",
+            "朴延美", "Park Yeon-mi",
+            "马英九", "馬英九", "Ma Ying-jeou",
             "李登辉", "李登輝", "Lee Teng-hui",
             "蔡英文", "Tsai Ing-wen",
             "蓬佩奥", "Mike Pompeo",
             "博尔顿", "John Bolton",
             "斯诺登", "Edward Snowden",
+            "安娜·查普曼", "Anna Chapman",
+            "亚历山大·利特维年科", "亞歷山大·利特維年科", "Alexander Litvinenko",
         ],
     },
     {
@@ -101,6 +108,10 @@ STRICT_BLACKLIST = [
             "查尔斯·曼森", "Charles Manson",
             "大卫·考雷什", "David Koresh",
             "大卫·伯格", "David Berg",
+            "李洪志", "Li Hongzhi",
+            "洪秀全", "Hong Xiuquan",
+            "奥姆真理教", "Aum Shinrikyo",
+            "Sun Myung Moon", "文鲜明", "文鮮明",
             "维克托·布特", "Viktor Bout",
             "塞西尔·罗得斯", "Cecil Rhodes",
         ],
@@ -129,6 +140,8 @@ DELETE_PATTERNS = [
     ("政治敏感", "命中分裂/间谍/制裁关键词", [
         r"台独", r"港独", r"藏独", r"疆独", r"分裂主义", r"separatist",
         r"叛逃", r"defector", r"sanction", r"制裁", r"3k党", r"kkk", r"white supremacist", r"种族主义者",
+        r"human rights activist", r"人权活动家", r"民主运动", r"异议人士", r"dissident",
+        r"\bspy\b", r"间谍", r"intelligence officer", r"西藏精神领袖", r"民运人士", r"自治", r"抗议领袖",
     ]),
     ("犯罪类", "命中严重犯罪关键词", [
         r"serial killer", r"连环杀手", r"mass shooter", r"枪击案凶手", r"ponzi", r"庞氏骗局",
@@ -136,7 +149,9 @@ DELETE_PATTERNS = [
         r"sex offender", r"sexual predator", r"性犯罪", r"pedophile", r"恋童", r"强奸犯",
     ]),
     ("邪教与极端", "命中邪教/军火/奴隶贸易关键词", [
-        r"cult leader", r"邪教", r"extremist", r"极端主义", r"arms dealer", r"军火商",
+        r"cult leader", r"cult founder", r"邪教", r"邪教教主", r"邪教创始人", r"extremist", r"极端主义", r"极端宗教",
+        r"doomsday cult", r"religious extremist", r"terror guru", r"cult", r"奥姆真理教",
+        r"法轮功", r"统一教", r"太平天国", r"arms dealer", r"军火商",
         r"slave trader", r"奴隶贩子", r"colonialist", r"殖民者",
     ]),
     ("心理不适", "命中心理不适高风险关键词", [
@@ -146,11 +161,6 @@ DELETE_PATTERNS = [
 ]
 
 REVIEW_PATTERNS = [
-    ("政治敏感", "疑似政治敏感人物，需人工复核", [
-        r"human rights activist", r"人权活动家", r"民主运动", r"异议人士", r"dissident",
-        r"\bspy\b", r"间谍", r"intelligence officer",
-        r"西藏精神领袖", r"民运人士", r"自治", r"抗议领袖",
-    ]),
     ("心理不适", "疑似自杀、意外死亡或早逝，需人工复核", [
         r"自杀身亡", r"自殺身亡", r"died by suicide", r"killed in", r"died in", r"意外身亡",
         r"空难", r"枪杀", r"刺杀", r"assassinated", r"air crash", r"plane crash", r"accident",
@@ -241,7 +251,10 @@ def evaluate_person(person: dict[str, Any], strict_aliases: dict[str, dict[str, 
 
     review_match = detect_by_patterns(search_text, REVIEW_PATTERNS)
     if review_match is not None:
-        return "review", review_match
+        return "delete", {
+            "category": review_match["category"],
+            "reason": f"疑似即删除: {review_match['reason']}",
+        }
 
     return "keep", None
 
@@ -261,16 +274,13 @@ def clean_people(people: list[dict[str, Any]]) -> tuple[list[dict[str, Any]], li
     strict_aliases = compile_strict_aliases()
     kept: list[dict[str, Any]] = []
     deleted: list[dict[str, Any]] = []
-    review: list[dict[str, Any]] = []
     for person in people:
         decision, matched = evaluate_person(person, strict_aliases)
         if decision == "delete" and matched is not None:
             deleted.append(build_result_item(person, matched))
             continue
-        if decision == "review" and matched is not None:
-            review.append(build_result_item(person, matched))
         kept.append(person)
-    return kept, deleted, review
+    return kept, deleted, []
 
 
 def build_summary(items: list[dict[str, Any]]) -> dict[str, int]:
@@ -305,9 +315,9 @@ def main() -> int:
         args.review_output,
         {
             "generated_at": time.strftime("%Y-%m-%d %H:%M:%S"),
-            "review_count": len(review),
-            "review_by_category": build_summary(review),
-            "review_people": review,
+            "review_count": 0,
+            "review_by_category": {},
+            "review_people": [],
         },
     )
     print(f"清洗前人数：{len(people)}")

@@ -1365,41 +1365,6 @@
     }
   },
   {
-    "id": "Q70326",
-    "name_zh": "皮埃爾·博馬舍",
-    "name_en": "Pierre Beaumarchais",
-    "birth_date": "1732-01-24",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "法國",
-    "nationality_en": "France",
-    "field_zh": "音樂家、诗人、商人、出版商、剧作家、外交官、金融业者、舆论记者、arms trader、間諜、錶匠",
-    "field_en": "musician, poet, businessperson, publisher, playwright, diplomat, financier, opinion journalist, arms trader, spy, watchmaker",
-    "summary": "法國博學家",
-    "source": {
-      "type": "wikidata",
-      "cohort": "western",
-      "id": "Q70326",
-      "url": "https://www.wikidata.org/wiki/Q70326"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "辛亥",
-      "month": "辛丑",
-      "day": "丙辰",
-      "hour": null
-    },
-    "day_pillar": "丙辰",
-    "day_master": "丙",
-    "wuxing_distribution": {
-      "金": 2,
-      "木": 0,
-      "水": 1,
-      "火": 1,
-      "土": 2
-    }
-  },
-  {
     "id": "Q23",
     "name_zh": "乔治·华盛顿",
     "name_en": "George Washington",
@@ -1991,41 +1956,6 @@
       "木": 1,
       "水": 1,
       "火": 2,
-      "土": 1
-    }
-  },
-  {
-    "id": "Q445843",
-    "name_zh": "Jean-Baptiste Van Mons",
-    "name_en": "Jean-Baptiste Van Mons",
-    "birth_date": "1765-11-11",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "比利時",
-    "nationality_en": "Belgium",
-    "field_zh": "化学家、园艺家、物理学家、园艺工人、大學教師、pomologist、农学家、科學家、译者",
-    "field_en": "chemist, horticulturist, physicist, gardener, university teacher, pomologist, agronomist, scientist, translator",
-    "summary": "Belgian chemist (1765–1842)",
-    "source": {
-      "type": "wikidata",
-      "cohort": "western",
-      "id": "Q445843",
-      "url": "https://www.wikidata.org/wiki/Q445843"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "乙酉",
-      "month": "丁亥",
-      "day": "辛丑",
-      "hour": null
-    },
-    "day_pillar": "辛丑",
-    "day_master": "辛",
-    "wuxing_distribution": {
-      "金": 2,
-      "木": 1,
-      "水": 1,
-      "火": 1,
       "土": 1
     }
   },
@@ -4407,41 +4337,6 @@
       "水": 2,
       "火": 2,
       "土": 1
-    }
-  },
-  {
-    "id": "Q202049",
-    "name_zh": "奥古斯特·贝尔纳特",
-    "name_en": "Auguste Beernaert",
-    "birth_date": "1829-07-26",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "比利時",
-    "nationality_en": "Belgium",
-    "field_zh": "法官、政治人物、律師",
-    "field_en": "judge, politician, lawyer",
-    "summary": "Belgian prime minister and human rights activist (1829-1912)",
-    "source": {
-      "type": "wikidata",
-      "cohort": "western",
-      "id": "Q202049",
-      "url": "https://www.wikidata.org/wiki/Q202049"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "己丑",
-      "month": "辛未",
-      "day": "戊子",
-      "hour": null
-    },
-    "day_pillar": "戊子",
-    "day_master": "戊",
-    "wuxing_distribution": {
-      "金": 1,
-      "木": 0,
-      "水": 1,
-      "火": 0,
-      "土": 4
     }
   },
   {
@@ -7697,41 +7592,6 @@
       "水": 0,
       "火": 1,
       "土": 2
-    }
-  },
-  {
-    "id": "Q78484",
-    "name_zh": "魯道夫·斯坦納",
-    "name_en": "Rudolf Steiner",
-    "birth_date": "1861-02-27",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "奧地利帝國、瑞士、奧地利、克羅地亞",
-    "nationality_en": "Austrian Empire, Switzerland, Austria, Croatia",
-    "field_zh": "occultist、作家、esotericist、诗人、音樂學者、編舞家、文学评论家、自传作者、哲學家、教师、剧作家、创立者、建筑师、珠宝设计师、教育學家、雕塑家、畫家、theosophist、librettist、采编、编辑、素描家",
-    "field_en": "occultist, writer, esotericist, poet, musicologist, choreographer, literary critic, autobiographer, philosopher, teacher, playwright, founder, architect, jewelry designer, pedagogue, sculptor, painter, theosophist, librettist, editing staff, editor, draftsperson",
-    "summary": "奥地利哲学家，神秘主义者",
-    "source": {
-      "type": "wikidata",
-      "cohort": "western",
-      "id": "Q78484",
-      "url": "https://www.wikidata.org/wiki/Q78484"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "辛酉",
-      "month": "庚寅",
-      "day": "丁未",
-      "hour": null
-    },
-    "day_pillar": "丁未",
-    "day_master": "丁",
-    "wuxing_distribution": {
-      "金": 3,
-      "木": 1,
-      "水": 0,
-      "火": 1,
-      "土": 1
     }
   },
   {
@@ -20335,41 +20195,6 @@
     }
   },
   {
-    "id": "Q244395",
-    "name_zh": "肖恩·麦克布赖德",
-    "name_en": "Seán MacBride",
-    "birth_date": "1904-01-26",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "法國、愛爾蘭共和國",
-    "nationality_en": "France, Ireland",
-    "field_zh": "外交官、政治人物、新聞工作者、大律師、律師",
-    "field_en": "diplomat, politician, journalist, barrister, lawyer",
-    "summary": "Irish politician and human rights activist (1904-1988)",
-    "source": {
-      "type": "wikidata",
-      "cohort": "western",
-      "id": "Q244395",
-      "url": "https://www.wikidata.org/wiki/Q244395"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "癸卯",
-      "month": "乙丑",
-      "day": "己未",
-      "hour": null
-    },
-    "day_pillar": "己未",
-    "day_master": "己",
-    "wuxing_distribution": {
-      "金": 0,
-      "木": 2,
-      "水": 1,
-      "火": 0,
-      "土": 3
-    }
-  },
-  {
     "id": "Q637012",
     "name_zh": "基思·霍利约克",
     "name_en": "Keith Holyoake",
@@ -20505,41 +20330,6 @@
       "金": 1,
       "木": 1,
       "水": 1,
-      "火": 1,
-      "土": 2
-    }
-  },
-  {
-    "id": "Q26990381",
-    "name_zh": "Clara Stauffer",
-    "name_en": "Clara Stauffer",
-    "birth_date": "1904-05-21",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "西班牙、德國",
-    "nationality_en": "Spain, Germany",
-    "field_zh": "社交名流、运动员、政治活动者、間諜",
-    "field_en": "socialite, athlete, political activist, spy",
-    "summary": "Spanish Falangist militant (1904-1984)",
-    "source": {
-      "type": "wikidata",
-      "cohort": "western",
-      "id": "Q26990381",
-      "url": "https://www.wikidata.org/wiki/Q26990381"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "甲辰",
-      "month": "己巳",
-      "day": "乙卯",
-      "hour": null
-    },
-    "day_pillar": "乙卯",
-    "day_master": "乙",
-    "wuxing_distribution": {
-      "金": 0,
-      "木": 3,
-      "水": 0,
       "火": 1,
       "土": 2
     }
@@ -21380,41 +21170,6 @@
       "金": 0,
       "木": 0,
       "水": 2,
-      "火": 3,
-      "土": 1
-    }
-  },
-  {
-    "id": "Q151972",
-    "name_zh": "約瑟芬·貝克",
-    "name_en": "Josephine Baker",
-    "birth_date": "1906-06-03",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "美國、法國",
-    "nationality_en": "United States, France",
-    "field_zh": "歌手、vedette、電影演員、街頭藝人、舞者、爵士音乐家、模特儿、演員、軍官、情報官、作家、civil rights advocate",
-    "field_en": "singer, vedette, film actor, street artist, dancer, jazz musician, model, actor, military officer, intelligence officer, writer, civil rights advocate",
-    "summary": "非裔美國舞者、歌手、演員",
-    "source": {
-      "type": "wikidata",
-      "cohort": "western",
-      "id": "Q151972",
-      "url": "https://www.wikidata.org/wiki/Q151972"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "丙午",
-      "month": "癸巳",
-      "day": "戊寅",
-      "hour": null
-    },
-    "day_pillar": "戊寅",
-    "day_master": "戊",
-    "wuxing_distribution": {
-      "金": 0,
-      "木": 1,
-      "水": 1,
       "火": 3,
       "土": 1
     }
@@ -27265,41 +27020,6 @@
     }
   },
   {
-    "id": "Q55585108",
-    "name_zh": "Paddy Bassett",
-    "name_en": "Paddy Bassett",
-    "birth_date": "1918-07-15",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "新西兰",
-    "nationality_en": "New Zealand",
-    "field_zh": "科學家",
-    "field_en": "scientist",
-    "summary": "New Zealand agricultural scientist",
-    "source": {
-      "type": "wikidata",
-      "cohort": "western",
-      "id": "Q55585108",
-      "url": "https://www.wikidata.org/wiki/Q55585108"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "戊午",
-      "month": "己未",
-      "day": "癸亥",
-      "hour": null
-    },
-    "day_pillar": "癸亥",
-    "day_master": "癸",
-    "wuxing_distribution": {
-      "金": 0,
-      "木": 0,
-      "水": 2,
-      "火": 1,
-      "土": 3
-    }
-  },
-  {
     "id": "Q8023",
     "name_zh": "纳尔逊·曼德拉",
     "name_en": "Nelson Mandela",
@@ -27437,41 +27157,6 @@
       "水": 2,
       "火": 1,
       "土": 3
-    }
-  },
-  {
-    "id": "Q697911",
-    "name_zh": "史明",
-    "name_en": "Su Beng",
-    "birth_date": "1918-11-09",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "中華民國、台湾日治时期、中華民國大陸時期",
-    "nationality_en": "Taiwan, Taiwan under Japanese rule, Republic of China",
-    "field_zh": "歷史學家、作家、政治活动者、持不同政见者",
-    "field_en": "historian, writer, political activist, dissident",
-    "summary": "作家 和前任中華民國總統府資政",
-    "source": {
-      "type": "wikidata",
-      "cohort": "china_like",
-      "id": "Q697911",
-      "url": "https://www.wikidata.org/wiki/Q697911"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "戊午",
-      "month": "癸亥",
-      "day": "庚申",
-      "hour": null
-    },
-    "day_pillar": "庚申",
-    "day_master": "庚",
-    "wuxing_distribution": {
-      "金": 2,
-      "木": 0,
-      "水": 2,
-      "火": 1,
-      "土": 1
     }
   },
   {
@@ -28137,41 +27822,6 @@
       "水": 1,
       "火": 1,
       "土": 3
-    }
-  },
-  {
-    "id": "Q296734",
-    "name_zh": "文鲜明",
-    "name_en": "Sun Myung Moon",
-    "birth_date": "1920-01-06",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "大韩民国",
-    "nationality_en": "South Korea",
-    "field_zh": "宗教领袖、商人、作家",
-    "field_en": "religious leader, businessperson, writer",
-    "summary": "韩国统一教创始人",
-    "source": {
-      "type": "wikidata",
-      "cohort": "global_extra",
-      "id": "Q296734",
-      "url": "https://www.wikidata.org/wiki/Q296734"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "己未",
-      "month": "丙子",
-      "day": "癸亥",
-      "hour": null
-    },
-    "day_pillar": "癸亥",
-    "day_master": "癸",
-    "wuxing_distribution": {
-      "金": 0,
-      "木": 0,
-      "水": 3,
-      "火": 1,
-      "土": 2
     }
   },
   {
@@ -31255,41 +30905,6 @@
     }
   },
   {
-    "id": "Q213416",
-    "name_zh": "阿米爾卡·卡布拉爾",
-    "name_en": "Amílcar Cabral",
-    "birth_date": "1924-09-12",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "葡萄牙",
-    "nationality_en": "Portugal",
-    "field_zh": "政治人物、农业工程师、工程师、作家、农学家、政治学家、诗人",
-    "field_en": "politician, agricultural engineer, engineer, writer, agronomist, political scientist, poet",
-    "summary": "几内亚比绍的政治人物",
-    "source": {
-      "type": "wikidata",
-      "cohort": "western",
-      "id": "Q213416",
-      "url": "https://www.wikidata.org/wiki/Q213416"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "甲子",
-      "month": "癸酉",
-      "day": "甲午",
-      "hour": null
-    },
-    "day_pillar": "甲午",
-    "day_master": "甲",
-    "wuxing_distribution": {
-      "金": 1,
-      "木": 2,
-      "水": 2,
-      "火": 1,
-      "土": 0
-    }
-  },
-  {
     "id": "Q55469",
     "name_zh": "馬切洛·馬斯楚安尼",
     "name_en": "Marcello Mastroianni",
@@ -32232,41 +31847,6 @@
       "水": 1,
       "火": 1,
       "土": 2
-    }
-  },
-  {
-    "id": "Q2096791",
-    "name_zh": "若列斯·梅德韦杰夫",
-    "name_en": "Zhores Medvedev",
-    "birth_date": "1925-11-14",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "蘇聯、英国、俄罗斯",
-    "nationality_en": "Soviet Union, United Kingdom, Russia",
-    "field_zh": "生物学家、生物化學家、歷史學家、科學家、作家、持不同政见者",
-    "field_en": "biologist, biochemist, historian, scientist, writer, dissident",
-    "summary": "俄罗斯生物学家（1925－2018）",
-    "source": {
-      "type": "wikidata",
-      "cohort": "global_extra",
-      "id": "Q2096791",
-      "url": "https://www.wikidata.org/wiki/Q2096791"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "乙丑",
-      "month": "丁亥",
-      "day": "壬寅",
-      "hour": null
-    },
-    "day_pillar": "壬寅",
-    "day_master": "壬",
-    "wuxing_distribution": {
-      "金": 0,
-      "木": 2,
-      "水": 2,
-      "火": 1,
-      "土": 1
     }
   },
   {
@@ -33386,41 +32966,6 @@
       "木": 3,
       "水": 1,
       "火": 2,
-      "土": 0
-    }
-  },
-  {
-    "id": "Q2920700",
-    "name_zh": "Refaat Al-Gammal",
-    "name_en": "Refaat Al-Gammal",
-    "birth_date": "1927-07-01",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "埃及",
-    "nationality_en": "Egypt",
-    "field_zh": "間諜、商人",
-    "field_en": "spy, businessperson",
-    "summary": "Egyptian spy hero (1927-1982)",
-    "source": {
-      "type": "wikidata",
-      "cohort": "global_extra",
-      "id": "Q2920700",
-      "url": "https://www.wikidata.org/wiki/Q2920700"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "丁卯",
-      "month": "丙午",
-      "day": "丙申",
-      "hour": null
-    },
-    "day_pillar": "丙申",
-    "day_master": "丙",
-    "wuxing_distribution": {
-      "金": 1,
-      "木": 1,
-      "水": 0,
-      "火": 4,
       "土": 0
     }
   },
@@ -37450,41 +36995,6 @@
     }
   },
   {
-    "id": "Q209641",
-    "name_zh": "約翰·勒卡雷",
-    "name_en": "John le Carré",
-    "birth_date": "1931-10-19",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "英国、愛爾蘭共和國",
-    "nationality_en": "United Kingdom, Ireland",
-    "field_zh": "小说家、編劇、电影制片人、演員、間諜、作家",
-    "field_en": "novelist, screenwriter, film producer, actor, spy, writer",
-    "summary": "British novelist and spy (1931-2020)",
-    "source": {
-      "type": "wikidata",
-      "cohort": "western",
-      "id": "Q209641",
-      "url": "https://www.wikidata.org/wiki/Q209641"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "辛未",
-      "month": "戊戌",
-      "day": "丁未",
-      "hour": null
-    },
-    "day_pillar": "丁未",
-    "day_master": "丁",
-    "wuxing_distribution": {
-      "金": 1,
-      "木": 0,
-      "水": 0,
-      "火": 1,
-      "土": 4
-    }
-  },
-  {
     "id": "Q238514",
     "name_zh": "纳瓦勒·萨达维",
     "name_en": "Nawal El Saadawi",
@@ -38001,41 +37511,6 @@
     },
     "day_pillar": "庚申",
     "day_master": "庚",
-    "wuxing_distribution": {
-      "金": 3,
-      "木": 1,
-      "水": 1,
-      "火": 0,
-      "土": 1
-    }
-  },
-  {
-    "id": "Q5547741",
-    "name_zh": "Miguel de La Quadra-Salcedo",
-    "name_en": "Miguel de La Quadra-Salcedo",
-    "birth_date": "1932-04-30",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "西班牙",
-    "nationality_en": "Spain",
-    "field_zh": "新聞工作者、田径运动员、電視主持、运动员、农业工程师",
-    "field_en": "journalist, athletics competitor, television presenter, athlete, agricultural engineer",
-    "summary": "Spanish discus thrower (1932-2016)",
-    "source": {
-      "type": "wikidata",
-      "cohort": "western",
-      "id": "Q5547741",
-      "url": "https://www.wikidata.org/wiki/Q5547741"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "壬申",
-      "month": "甲辰",
-      "day": "辛酉",
-      "hour": null
-    },
-    "day_pillar": "辛酉",
-    "day_master": "辛",
     "wuxing_distribution": {
       "金": 3,
       "木": 1,
@@ -42910,41 +42385,6 @@
     }
   },
   {
-    "id": "Q133040",
-    "name_zh": "阿爾貝托·藤森",
-    "name_en": "Alberto Fujimori",
-    "birth_date": "1938-07-28",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "日本、秘鲁",
-    "nationality_en": "Japan, Peru",
-    "field_zh": "政治人物、农业工程师、大學教師、作家、電視主持",
-    "field_en": "politician, agricultural engineer, university teacher, writer, television presenter",
-    "summary": "教育家 和前任秘魯總統",
-    "source": {
-      "type": "wikidata",
-      "cohort": "global_extra",
-      "id": "Q133040",
-      "url": "https://www.wikidata.org/wiki/Q133040"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "戊寅",
-      "month": "己未",
-      "day": "辛酉",
-      "hour": null
-    },
-    "day_pillar": "辛酉",
-    "day_master": "辛",
-    "wuxing_distribution": {
-      "金": 2,
-      "木": 1,
-      "水": 0,
-      "火": 0,
-      "土": 3
-    }
-  },
-  {
     "id": "Q316565",
     "name_zh": "喬吉·喬治亞羅",
     "name_en": "Giorgetto Giugiaro",
@@ -47110,41 +46550,6 @@
     }
   },
   {
-    "id": "Q692904",
-    "name_zh": "Arne Treholt",
-    "name_en": "Arne Treholt",
-    "birth_date": "1942-12-13",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "挪威",
-    "nationality_en": "Norway",
-    "field_zh": "政治人物、新聞工作者、外交官、間諜、商人",
-    "field_en": "politician, journalist, diplomat, spy, businessperson",
-    "summary": "Norwegian politician and spy (1942–2023)",
-    "source": {
-      "type": "wikidata",
-      "cohort": "western",
-      "id": "Q692904",
-      "url": "https://www.wikidata.org/wiki/Q692904"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "壬午",
-      "month": "壬子",
-      "day": "庚子",
-      "hour": null
-    },
-    "day_pillar": "庚子",
-    "day_master": "庚",
-    "wuxing_distribution": {
-      "金": 1,
-      "木": 0,
-      "水": 4,
-      "火": 1,
-      "土": 0
-    }
-  },
-  {
     "id": "Q114181",
     "name_zh": "格爾德·卡明斯基",
     "name_en": "Gerd Kaminski",
@@ -47352,41 +46757,6 @@
       "水": 1,
       "火": 1,
       "土": 2
-    }
-  },
-  {
-    "id": "Q2643",
-    "name_zh": "乔治·哈里森",
-    "name_en": "George Harrison",
-    "birth_date": "1943-02-25",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "英国",
-    "nationality_en": "United Kingdom",
-    "field_zh": "吉他手、歌手、詞曲作家、演員、园艺家、电影制片人、作曲家、創作歌手、自传作者、诗人、音樂製作人、電影配樂作曲家、電影演員、低音吉他手、音樂家、录音艺术家、樂器演奏家、电视演员、電影導演",
-    "field_en": "guitarist, singer, songwriter, actor, horticulturist, film producer, composer, singer-songwriter, autobiographer, poet, record producer, film score composer, film actor, bass guitarist, musician, recording artist, multi-instrumentalist, television actor, film director",
-    "summary": "英国音乐家和甲壳虫乐队的首席吉他手（1943-2001）",
-    "source": {
-      "type": "wikidata",
-      "cohort": "western",
-      "id": "Q2643",
-      "url": "https://www.wikidata.org/wiki/Q2643"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "癸未",
-      "month": "甲寅",
-      "day": "甲寅",
-      "hour": null
-    },
-    "day_pillar": "甲寅",
-    "day_master": "甲",
-    "wuxing_distribution": {
-      "金": 0,
-      "木": 4,
-      "水": 1,
-      "火": 0,
-      "土": 1
     }
   },
   {
@@ -48682,41 +48052,6 @@
       "水": 2,
       "火": 0,
       "土": 3
-    }
-  },
-  {
-    "id": "Q2866586",
-    "name_zh": "阿什拉夫·马尔万",
-    "name_en": "Ashraf Marwan",
-    "birth_date": "1944-02-02",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "埃及",
-    "nationality_en": "Egypt",
-    "field_zh": "商人、間諜",
-    "field_en": "businessperson, spy",
-    "summary": "埃及商人",
-    "source": {
-      "type": "wikidata",
-      "cohort": "global_extra",
-      "id": "Q2866586",
-      "url": "https://www.wikidata.org/wiki/Q2866586"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "癸未",
-      "month": "乙丑",
-      "day": "丙申",
-      "hour": null
-    },
-    "day_pillar": "丙申",
-    "day_master": "丙",
-    "wuxing_distribution": {
-      "金": 1,
-      "木": 1,
-      "水": 1,
-      "火": 1,
-      "土": 2
     }
   },
   {
@@ -52076,41 +51411,6 @@
       "木": 1,
       "水": 1,
       "火": 1,
-      "土": 2
-    }
-  },
-  {
-    "id": "Q5383",
-    "name_zh": "大卫·鲍伊",
-    "name_en": "David Bowie",
-    "birth_date": "1947-01-08",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "英国",
-    "nationality_en": "United Kingdom",
-    "field_zh": "畫家、創作歌手、吉他手、萨克斯管演奏家、作曲家、電影演員、音樂製作人、詞曲作家、演員、歌手、钢琴家、默劇演員、人聲藝術家、制作人、occultist、音樂錄影帶導演、电影制片人、艺术收藏家、音樂家、乐队领队、librettist、視覺藝術家",
-    "field_en": "painter, singer-songwriter, guitarist, saxophonist, composer, film actor, record producer, songwriter, actor, singer, pianist, mime artist, vocalist, manufacturer, occultist, music video director, film producer, art collector, musician, bandleader, librettist, visual artist",
-    "summary": "英国歌手、演员、唱片制作人及编曲人",
-    "source": {
-      "type": "wikidata",
-      "cohort": "western",
-      "id": "Q5383",
-      "url": "https://www.wikidata.org/wiki/Q5383"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "丙戌",
-      "month": "辛丑",
-      "day": "丁亥",
-      "hour": null
-    },
-    "day_pillar": "丁亥",
-    "day_master": "丁",
-    "wuxing_distribution": {
-      "金": 1,
-      "木": 0,
-      "水": 1,
-      "火": 2,
       "土": 2
     }
   },
@@ -56210,41 +55510,6 @@
     }
   },
   {
-    "id": "Q19216",
-    "name_zh": "馬英九",
-    "name_en": "Ma Ying-jeou",
-    "birth_date": "1950-07-13",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "中華民國",
-    "nationality_en": "Taiwan",
-    "field_zh": "政治人物、法学家、律師、間諜、口译员",
-    "field_en": "politician, jurist, lawyer, spy, interpreter",
-    "summary": "前任中華民國總統",
-    "source": {
-      "type": "wikidata",
-      "cohort": "china_like",
-      "id": "Q19216",
-      "url": "https://www.wikidata.org/wiki/Q19216"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "庚寅",
-      "month": "癸未",
-      "day": "己酉",
-      "hour": null
-    },
-    "day_pillar": "己酉",
-    "day_master": "己",
-    "wuxing_distribution": {
-      "金": 2,
-      "木": 1,
-      "水": 1,
-      "火": 0,
-      "土": 2
-    }
-  },
-  {
     "id": "Q194419",
     "name_zh": "理查德·布蘭森",
     "name_en": "Richard Branson",
@@ -59411,41 +58676,6 @@
       "cohort": "western",
       "id": "Q268510",
       "url": "https://www.wikidata.org/wiki/Q268510"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "壬辰",
-      "month": "己酉",
-      "day": "丙戌",
-      "hour": null
-    },
-    "day_pillar": "丙戌",
-    "day_master": "丙",
-    "wuxing_distribution": {
-      "金": 1,
-      "木": 0,
-      "水": 1,
-      "火": 1,
-      "土": 3
-    }
-  },
-  {
-    "id": "Q7747",
-    "name_zh": "弗拉基米尔·普京",
-    "name_en": "Vladimir Putin",
-    "birth_date": "1952-10-07",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "蘇聯、俄罗斯",
-    "nationality_en": "Soviet Union, Russia",
-    "field_zh": "柔道家、情报人员、間諜、特技演員、政治人物、共和国总统",
-    "field_en": "judoka, intelligence agent, spy, stunt performer, politician, President of the Republic",
-    "summary": "俄羅斯總統",
-    "source": {
-      "type": "wikidata",
-      "cohort": "global_extra",
-      "id": "Q7747",
-      "url": "https://www.wikidata.org/wiki/Q7747"
     },
     "birth_precision": 11,
     "pillars": {
@@ -64010,41 +63240,6 @@
       "金": 0,
       "木": 3,
       "水": 1,
-      "火": 0,
-      "土": 2
-    }
-  },
-  {
-    "id": "Q41617",
-    "name_zh": "刘晓波",
-    "name_en": "Liu Xiaobo",
-    "birth_date": "1955-12-28",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "中华人民共和国",
-    "nationality_en": "People's Republic of China",
-    "field_zh": "诗人、作家、人權護衛者、文学评论家",
-    "field_en": "poet, writer, human rights defender, literary critic",
-    "summary": "中国作家、民运人士、人权活动家，诺贝尔和平奖得主",
-    "source": {
-      "type": "wikidata",
-      "cohort": "china_like",
-      "id": "Q41617",
-      "url": "https://www.wikidata.org/wiki/Q41617"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "乙未",
-      "month": "戊子",
-      "day": "癸亥",
-      "hour": null
-    },
-    "day_pillar": "癸亥",
-    "day_master": "癸",
-    "wuxing_distribution": {
-      "金": 0,
-      "木": 1,
-      "水": 3,
       "火": 0,
       "土": 2
     }
@@ -72030,41 +71225,6 @@
     }
   },
   {
-    "id": "Q6276882",
-    "name_zh": "乔丹·皮特森",
-    "name_en": "Jordan Peterson",
-    "birth_date": "1962-06-12",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "加拿大",
-    "nationality_en": "Canada",
-    "field_zh": "临床心理医师、大學教師、文化批评、作家、播客、YouTuber、网络名人、心理學家",
-    "field_en": "clinical psychologist, university teacher, cultural critic, writer, podcaster, YouTuber, Internet celebrity, psychologist",
-    "summary": "加拿大临床心理学家、文化评论家和心理学教授",
-    "source": {
-      "type": "wikidata",
-      "cohort": "western",
-      "id": "Q6276882",
-      "url": "https://www.wikidata.org/wiki/Q6276882"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "壬寅",
-      "month": "丙午",
-      "day": "辛巳",
-      "hour": null
-    },
-    "day_pillar": "辛巳",
-    "day_master": "辛",
-    "wuxing_distribution": {
-      "金": 1,
-      "木": 1,
-      "水": 1,
-      "火": 3,
-      "土": 0
-    }
-  },
-  {
     "id": "Q297739",
     "name_zh": "阿诺德·沃斯洛",
     "name_en": "Arnold Vosloo",
@@ -72692,41 +71852,6 @@
       "水": 3,
       "火": 0,
       "土": 1
-    }
-  },
-  {
-    "id": "Q87015",
-    "name_zh": "亞歷山大·瓦爾杰洛維奇·利特維年科",
-    "name_en": "Alexander Litvinenko",
-    "birth_date": "1962-12-04",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "蘇聯、俄罗斯、英国",
-    "nationality_en": "Soviet Union, Russia, United Kingdom",
-    "field_zh": "作家、軍人、間諜",
-    "field_en": "writer, military personnel, spy",
-    "summary": "ex-KGB agent and FSB lieutenant-colonel (1962-2006)",
-    "source": {
-      "type": "wikidata",
-      "cohort": "global_extra",
-      "id": "Q87015",
-      "url": "https://www.wikidata.org/wiki/Q87015"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "壬寅",
-      "month": "辛亥",
-      "day": "丙子",
-      "hour": null
-    },
-    "day_pillar": "丙子",
-    "day_master": "丙",
-    "wuxing_distribution": {
-      "金": 1,
-      "木": 1,
-      "水": 3,
-      "火": 1,
-      "土": 0
     }
   },
   {
@@ -77627,41 +76752,6 @@
       "水": 1,
       "火": 3,
       "土": 1
-    }
-  },
-  {
-    "id": "Q610332",
-    "name_zh": "柴玲",
-    "name_en": "Chai Ling",
-    "birth_date": "1966-04-15",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "中华人民共和国、美國",
-    "nationality_en": "People's Republic of China, United States",
-    "field_zh": "人權護衛者、商人",
-    "field_en": "human rights defender, businessperson",
-    "summary": "中国民运人士",
-    "source": {
-      "type": "wikidata",
-      "cohort": "china_like",
-      "id": "Q610332",
-      "url": "https://www.wikidata.org/wiki/Q610332"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "丙午",
-      "month": "壬辰",
-      "day": "甲辰",
-      "hour": null
-    },
-    "day_pillar": "甲辰",
-    "day_master": "甲",
-    "wuxing_distribution": {
-      "金": 0,
-      "木": 1,
-      "水": 1,
-      "火": 2,
-      "土": 2
     }
   },
   {
@@ -96177,41 +95267,6 @@
       "水": 3,
       "火": 0,
       "土": 1
-    }
-  },
-  {
-    "id": "Q232776",
-    "name_zh": "安娜·查普曼",
-    "name_en": "Anna Chapman",
-    "birth_date": "1982-02-23",
-    "birth_hour": null,
-    "has_birth_hour": false,
-    "nationality_zh": "蘇聯、俄罗斯、英国",
-    "nationality_en": "Soviet Union, Russia, United Kingdom",
-    "field_zh": "模特儿、電視主持、Russian spy、企业家、主持人、時裝設計師",
-    "field_en": "model, television presenter, Russian spy, entrepreneur, presenter, fashion designer",
-    "summary": "Russian intelligence agent, media personality, and model",
-    "source": {
-      "type": "wikidata",
-      "cohort": "global_extra",
-      "id": "Q232776",
-      "url": "https://www.wikidata.org/wiki/Q232776"
-    },
-    "birth_precision": 11,
-    "pillars": {
-      "year": "壬戌",
-      "month": "壬寅",
-      "day": "丁丑",
-      "hour": null
-    },
-    "day_pillar": "丁丑",
-    "day_master": "丁",
-    "wuxing_distribution": {
-      "金": 0,
-      "木": 1,
-      "水": 2,
-      "火": 1,
-      "土": 2
     }
   },
   {
