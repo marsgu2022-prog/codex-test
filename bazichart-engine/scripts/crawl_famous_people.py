@@ -11,6 +11,7 @@ from typing import Any
 
 import requests
 from lunar_python import Solar
+from opencc import OpenCC
 from requests import RequestException
 
 
@@ -151,6 +152,16 @@ OCCUPATION_KEYWORDS = {
     "作家": ["writer", "author", "novelist", "poet", "essayist", "writer", "作家", "小说家", "诗人", "编剧"],
     "音乐家": ["singer", "musician", "composer", "rapper", "pianist", "violinist", "歌手", "音乐家", "作曲家", "演奏家"],
 }
+STANDARD_OCCUPATION_EN = {
+    "企业家": "Entrepreneur",
+    "政治家": "Politician",
+    "演员": "Actor",
+    "运动员": "Athlete",
+    "科学家": "Scientist",
+    "作家": "Writer",
+    "音乐家": "Musician",
+}
+TRADITIONAL_CONVERTER = OpenCC("s2t")
 SCIENTIST_OCCUPATIONS = [
     "scientist",
     "mathematician",
@@ -529,10 +540,14 @@ def build_detail_map(session: requests.Session, person_ids: list[str]) -> dict[s
         fields_zh = [label_value(related_entities.get(item, {}), "zh") or label_value(related_entities.get(item, {}), "en") for item in occupation_ids]
         fields_en = [label_value(related_entities.get(item, {}), "en") or label_value(related_entities.get(item, {}), "zh") for item in occupation_ids]
         occupations = classify_occupations(occupation_ids, fields_zh, fields_en)
+        summary_zh = description_value(entity, "zh") or ""
+        summary_en = description_value(entity, "en") or ""
         details[person_id] = {
             "name_zh": label_value(entity, "zh") or label_value(entity, "en") or person_id,
             "name_en": label_value(entity, "en") or label_value(entity, "zh") or person_id,
-            "summary": description_value(entity, "zh") or description_value(entity, "en") or "",
+            "summary": summary_zh or summary_en,
+            "summary_zh": summary_zh,
+            "summary_en": summary_en,
             "nationality_zh": "、".join(dict.fromkeys(item for item in countries_zh if item)),
             "nationality_en": ", ".join(dict.fromkeys(item for item in countries_en if item)),
             "field_zh": "、".join(dict.fromkeys(item for item in fields_zh if item)),
@@ -561,6 +576,32 @@ def classify_occupations(occupation_ids: list[str], fields_zh: list[str], fields
     return categories
 
 
+def to_traditional(text: str) -> str:
+    if not text:
+        return ""
+    return TRADITIONAL_CONVERTER.convert(text)
+
+
+def build_multilingual_fields(
+    name_zh: str,
+    name_en: str,
+    nationality_zh: str,
+    nationality_en: str,
+    occupation: list[str],
+    summary_zh: str,
+    summary_en: str,
+) -> dict[str, Any]:
+    return {
+        "name_zh_hant": to_traditional(name_zh),
+        "nationality_zh_hant": to_traditional(nationality_zh),
+        "occupation_en": [STANDARD_OCCUPATION_EN[item] for item in occupation if item in STANDARD_OCCUPATION_EN],
+        "occupation_zh_hant": [to_traditional(item) for item in occupation],
+        "bio_zh": summary_zh,
+        "bio_en": summary_en,
+        "bio_zh_hant": to_traditional(summary_zh),
+    }
+
+
 def enrich_person(row: dict[str, Any], cohort: str, details: dict[str, dict[str, Any]]) -> dict[str, Any] | None:
     birth = parse_birth_datetime(row["birthDate"]["value"], int(row["precision"]["value"]))
     if birth is None:
@@ -570,19 +611,26 @@ def enrich_person(row: dict[str, Any], cohort: str, details: dict[str, dict[str,
     qid = row["person"]["value"].rsplit("/", 1)[-1]
     day_master = pillars["day"][0]
     detail = details.get(qid, {})
+    name_zh = detail.get("name_zh") or qid
+    name_en = detail.get("name_en") or qid
+    nationality_zh = detail.get("nationality_zh", "")
+    nationality_en = detail.get("nationality_en", "")
+    occupation = detail.get("occupation", [])
+    summary_zh = detail.get("summary_zh") or detail.get("summary", "")
+    summary_en = detail.get("summary_en") or detail.get("summary", "")
     return {
         "id": qid,
-        "name_zh": detail.get("name_zh") or qid,
-        "name_en": detail.get("name_en") or qid,
+        "name_zh": name_zh,
+        "name_en": name_en,
         "birth_date": f"{birth['year']:04d}-{birth['month']:02d}-{birth['day']:02d}",
         "birth_hour": birth["hour"],
         "has_birth_hour": birth["hour"] is not None,
-        "nationality_zh": detail.get("nationality_zh", ""),
-        "nationality_en": detail.get("nationality_en", ""),
-        "occupation": detail.get("occupation", []),
+        "nationality_zh": nationality_zh,
+        "nationality_en": nationality_en,
+        "occupation": occupation,
         "field_zh": detail.get("field_zh", ""),
         "field_en": detail.get("field_en", ""),
-        "summary": detail.get("summary", ""),
+        "summary": summary_zh or summary_en,
         "source": {
             "type": "wikidata",
             "cohort": cohort,
@@ -594,6 +642,7 @@ def enrich_person(row: dict[str, Any], cohort: str, details: dict[str, dict[str,
         "day_pillar": pillars["day"],
         "day_master": day_master,
         "wuxing_distribution": build_wuxing_distribution(birth),
+        **build_multilingual_fields(name_zh, name_en, nationality_zh, nationality_en, occupation, summary_zh, summary_en),
     }
 
 
@@ -878,20 +927,27 @@ def build_people_from_entities(entities: dict[str, Any], cohort: str) -> list[di
         pillars = build_pillars(birth)
         qid = entity["id"]
         day_master = pillars["day"][0]
+        name_zh = label_value(entity, "zh") or label_value(entity, "en") or qid
+        name_en = label_value(entity, "en") or label_value(entity, "zh") or qid
+        nationality_zh = entity.get("_country_zh", "")
+        nationality_en = entity.get("_country_en", "")
+        occupation = entity.get("_occupation", [])
+        summary_zh = description_value(entity, "zh") or ""
+        summary_en = description_value(entity, "en") or ""
         people.append(
             {
                 "id": qid,
-                "name_zh": label_value(entity, "zh") or label_value(entity, "en") or qid,
-                "name_en": label_value(entity, "en") or label_value(entity, "zh") or qid,
+                "name_zh": name_zh,
+                "name_en": name_en,
                 "birth_date": f"{birth['year']:04d}-{birth['month']:02d}-{birth['day']:02d}",
                 "birth_hour": birth["hour"],
                 "has_birth_hour": birth["hour"] is not None,
-                "nationality_zh": entity.get("_country_zh", ""),
-                "nationality_en": entity.get("_country_en", ""),
-                "occupation": entity.get("_occupation", []),
+                "nationality_zh": nationality_zh,
+                "nationality_en": nationality_en,
+                "occupation": occupation,
                 "field_zh": entity.get("_field_zh", ""),
                 "field_en": entity.get("_field_en", ""),
-                "summary": description_value(entity, "zh") or description_value(entity, "en") or "",
+                "summary": summary_zh or summary_en,
                 "source": {
                     "type": "wikidata",
                     "cohort": cohort,
@@ -903,6 +959,7 @@ def build_people_from_entities(entities: dict[str, Any], cohort: str) -> list[di
                 "day_pillar": pillars["day"],
                 "day_master": day_master,
                 "wuxing_distribution": build_wuxing_distribution(birth),
+                **build_multilingual_fields(name_zh, name_en, nationality_zh, nationality_en, occupation, summary_zh, summary_en),
             }
         )
     return people

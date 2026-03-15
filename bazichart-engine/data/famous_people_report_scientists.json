@@ -16,5 +16,10 @@
     "candidate_pages": 905,
     "failed_jobs": 0,
     "ready_failed_jobs": 0
-  }
+  },
+  "schema_languages": [
+    "zh-Hans",
+    "zh-Hant",
+    "en"
+  ]
 }

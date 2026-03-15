@@ -81,6 +81,24 @@ def test_classify_occupations_uses_keyword_fallback():
     assert occupations == ["运动员", "音乐家"]
 
 
+def test_build_multilingual_fields_contains_english_and_traditional_chinese():
+    fields = MODULE.build_multilingual_fields(
+        "爱因斯坦",
+        "Albert Einstein",
+        "中国",
+        "China",
+        ["科学家", "作家"],
+        "量子理论先驱",
+        "Pioneer of quantum theory",
+    )
+    assert fields["name_zh_hant"] == "愛因斯坦"
+    assert fields["nationality_zh_hant"] == "中國"
+    assert fields["occupation_en"] == ["Scientist", "Writer"]
+    assert fields["occupation_zh_hant"] == ["科學家", "作家"]
+    assert fields["bio_zh_hant"] == "量子理論先驅"
+    assert fields["bio_en"] == "Pioneer of quantum theory"
+
+
 def test_validate_people_flags_missing_required_fields():
     people = [
         {

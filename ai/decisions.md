@@ -30,3 +30,9 @@
 - 抓取产物新增 `occupation` 字段，统一输出中文数组分类
 - 当前标准分类固定为：企业家、政治家、演员、运动员、科学家、作家、音乐家
 - 保留原始 `field_zh` 和 `field_en` 作为细职业原文，避免丢失可追溯信息
+
+## 名人库同步三语结构字段
+
+- 为支持英文站和繁体中文站，名人记录同步输出简中、繁中、英文结构字段
+- 当前已补充 `name_zh_hant`、`nationality_zh_hant`、`occupation_en`、`occupation_zh_hant`、`bio_zh`、`bio_zh_hant`、`bio_en`
+- 旧字段 `summary`、`field_zh`、`field_en` 继续保留，前台可以逐步迁移
