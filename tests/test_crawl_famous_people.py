@@ -91,10 +91,13 @@ def test_build_multilingual_fields_contains_english_and_traditional_chinese():
         "量子理论先驱",
         "Pioneer of quantum theory",
     )
+    assert fields["name_zh_hans"] == "爱因斯坦"
     assert fields["name_zh_hant"] == "愛因斯坦"
+    assert fields["name_en"] == "Albert Einstein"
     assert fields["nationality_zh_hant"] == "中國"
     assert fields["occupation_en"] == ["Scientist", "Writer"]
     assert fields["occupation_zh_hant"] == ["科學家", "作家"]
+    assert fields["bio_zh_hans"] == "量子理论先驱"
     assert fields["bio_zh_hant"] == "量子理論先驅"
     assert fields["bio_en"] == "Pioneer of quantum theory"
 

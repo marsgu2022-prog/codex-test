@@ -591,14 +591,22 @@ def build_multilingual_fields(
     summary_zh: str,
     summary_en: str,
 ) -> dict[str, Any]:
+    name_zh_hant = to_traditional(name_zh)
+    nationality_zh_hant = to_traditional(nationality_zh)
+    occupation_en = [STANDARD_OCCUPATION_EN[item] for item in occupation if item in STANDARD_OCCUPATION_EN]
+    occupation_zh_hant = [to_traditional(item) for item in occupation]
+    bio_zh_hant = to_traditional(summary_zh)
     return {
-        "name_zh_hant": to_traditional(name_zh),
-        "nationality_zh_hant": to_traditional(nationality_zh),
-        "occupation_en": [STANDARD_OCCUPATION_EN[item] for item in occupation if item in STANDARD_OCCUPATION_EN],
-        "occupation_zh_hant": [to_traditional(item) for item in occupation],
-        "bio_zh": summary_zh,
+        "name_zh_hans": name_zh,
+        "name_zh_hant": name_zh_hant,
+        "name_en": name_en,
+        "nationality_zh_hant": nationality_zh_hant,
+        "occupation_en": occupation_en,
+        "occupation_zh_hant": occupation_zh_hant,
+        "bio_zh_hans": summary_zh,
+        "bio_zh_hant": bio_zh_hant,
         "bio_en": summary_en,
-        "bio_zh_hant": to_traditional(summary_zh),
+        "bio_zh": summary_zh,
     }
 
 

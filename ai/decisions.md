@@ -36,3 +36,9 @@
 - 为支持英文站和繁体中文站，名人记录同步输出简中、繁中、英文结构字段
 - 当前已补充 `name_zh_hant`、`nationality_zh_hant`、`occupation_en`、`occupation_zh_hant`、`bio_zh`、`bio_zh_hant`、`bio_en`
 - 旧字段 `summary`、`field_zh`、`field_en` 继续保留，前台可以逐步迁移
+
+## 三语字段命名统一
+
+- 名称字段统一为 `name_zh_hans`、`name_zh_hant`、`name_en`
+- 简介字段统一为 `bio_zh_hans`、`bio_zh_hant`、`bio_en`
+- 旧字段保留兼容，后续前台和检索优先切到新命名

@@ -21,5 +21,15 @@
     "zh-Hans",
     "zh-Hant",
     "en"
+  ],
+  "schema_name_fields": [
+    "name_zh_hans",
+    "name_zh_hant",
+    "name_en"
+  ],
+  "schema_bio_fields": [
+    "bio_zh_hans",
+    "bio_zh_hant",
+    "bio_en"
   ]
 }
