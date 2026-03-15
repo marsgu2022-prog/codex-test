@@ -109,6 +109,7 @@ GLOBAL_EXTRA_COUNTRY_NAMES = [
 OCCUPATION_QIDS = {
     "politician": "Q82955",
     "scientist": "Q901",
+    "mathematician": "Q170790",
     "writer": "Q36180",
     "actor": "Q33999",
     "singer": "Q177220",
@@ -1078,31 +1079,45 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
         help="只补跑失败队列中的查询页，并复用现有候选池缓存生成结果",
     )
+    parser.add_argument(
+        "--focus",
+        choices=["all", "scientists"],
+        default="all",
+        help="all 为默认综合名人，scientists 只抓科学家与数学家",
+    )
     return parser.parse_args()
 
 
-def build_runtime_configs(mode: str) -> tuple[dict[str, dict[str, Any]], int, str]:
+def build_runtime_configs(mode: str, focus: str = "all") -> tuple[dict[str, dict[str, Any]], int, str]:
     configs = {name: dict(config) for name, config in COHORT_CONFIGS.items()}
+    output_suffix = ""
+    if focus == "scientists":
+        for config in configs.values():
+            config["occupations"] = ["scientist", "mathematician"]
+        output_suffix += "_scientists"
     if mode == "smoke":
         for config in configs.values():
             config["country_qids"] = config["country_qids"][:1]
-            config["occupations"] = config["occupations"][:2]
+            if focus == "all":
+                config["occupations"] = config["occupations"][:2]
             config["pages"] = 1
             config["per_query_limit"] = min(config["per_query_limit"], 5)
             if "extra_country_names" in config:
                 config["extra_country_names"] = []
-        return configs, SMOKE_MIN_TOTAL_PEOPLE, "_smoke"
-    return configs, MIN_TOTAL_PEOPLE, ""
+        output_suffix += "_smoke"
+        return configs, SMOKE_MIN_TOTAL_PEOPLE, output_suffix
+    return configs, MIN_TOTAL_PEOPLE, output_suffix
 
 
 def main() -> int:
     args = parse_args()
     session = requests.Session()
     session.headers.update({"User-Agent": USER_AGENT})
-    runtime_configs, min_total_people, output_suffix = build_runtime_configs(args.mode)
+    runtime_configs, min_total_people, output_suffix = build_runtime_configs(args.mode, args.focus)
     pipeline_state = load_pipeline_state(output_suffix)
 
     print(f"运行模式：{args.mode}", flush=True)
+    print(f"抓取焦点：{args.focus}", flush=True)
     if args.retry_failures:
         print("补跑模式：只处理失败队列", flush=True)
 
@@ -1162,6 +1177,7 @@ def main() -> int:
         {
             "generated_at": time.strftime("%Y-%m-%d %H:%M:%S"),
             "mode": args.mode,
+            "focus": args.focus,
             "min_total_people": min_total_people,
             "total_people": len(people),
             "chinese_people": len(chinese_people),

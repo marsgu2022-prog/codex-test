@@ -109,6 +109,22 @@ def test_build_runtime_configs_full_preserves_default_scope():
     assert configs["global_extra"]["pages"] == MODULE.COHORT_CONFIGS["global_extra"]["pages"]
 
 
+def test_build_runtime_configs_scientists_focus_limits_occupations():
+    configs, min_total_people, output_suffix = MODULE.build_runtime_configs("full", "scientists")
+    assert min_total_people == MODULE.MIN_TOTAL_PEOPLE
+    assert output_suffix == "_scientists"
+    assert configs["china_like"]["occupations"] == ["scientist", "mathematician"]
+    assert configs["western"]["occupations"] == ["scientist", "mathematician"]
+
+
+def test_build_runtime_configs_scientists_smoke_has_distinct_suffix():
+    configs, min_total_people, output_suffix = MODULE.build_runtime_configs("smoke", "scientists")
+    assert min_total_people == MODULE.SMOKE_MIN_TOTAL_PEOPLE
+    assert output_suffix == "_scientists_smoke"
+    assert configs["global_extra"]["occupations"] == ["scientist", "mathematician"]
+    assert configs["global_extra"]["country_qids"] == MODULE.GLOBAL_EXTRA_COUNTRY_QIDS[:1]
+
+
 def test_pipeline_state_records_cache_and_failure_queue(tmp_path):
     original_file = MODULE.__file__
     try:
