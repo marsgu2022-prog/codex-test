@@ -138,8 +138,8 @@ def test_clear_failed_job_and_pipeline_summary(tmp_path):
         MODULE.record_failed_job(state, job, "dns")
         MODULE.clear_failed_job(state, job)
 
-        summary = MODULE.build_pipeline_summary(state)
-        assert summary == {"candidate_pages": 1, "failed_jobs": 0}
+        summary = MODULE.build_pipeline_summary(state, now=0)
+        assert summary == {"candidate_pages": 1, "failed_jobs": 0, "ready_failed_jobs": 0}
     finally:
         MODULE.__file__ = original_file
 
@@ -176,10 +176,93 @@ def test_retry_failed_jobs_updates_cache_and_clears_queue(tmp_path, monkeypatch)
             "query_wikidata",
             lambda session, query: [{"person": {"value": "https://www.wikidata.org/entity/Q3"}}],
         )
+        state["failure_queue"]["jobs"][0]["next_retry_at"] = 0
 
         retried = MODULE.retry_failed_jobs(object(), state)
         assert retried == {"western": [{"person": {"value": "https://www.wikidata.org/entity/Q3"}}]}
         assert MODULE.get_cached_rows(state, job) == [{"person": {"value": "https://www.wikidata.org/entity/Q3"}}]
         assert state["failure_queue"]["jobs"] == []
+    finally:
+        MODULE.__file__ = original_file
+
+
+def test_record_failed_job_updates_attempts_and_cooldown(tmp_path, monkeypatch):
+    original_file = MODULE.__file__
+    try:
+        MODULE.__file__ = str(tmp_path / "scripts" / "crawl_famous_people.py")
+        monkeypatch.setattr(MODULE.time, "time", lambda: 1000)
+        state = MODULE.load_pipeline_state("_smoke")
+        job = MODULE.build_query_job("western", "en", "Q30", "politician", 5, 0)
+
+        MODULE.record_failed_job(state, job, "504 Gateway Timeout")
+        first = state["failure_queue"]["jobs"][0]
+        assert first["attempt_count"] == 1
+        assert first["next_retry_at"] == 1600
+
+        MODULE.record_failed_job(state, job, "504 Gateway Timeout")
+        second = state["failure_queue"]["jobs"][0]
+        assert second["attempt_count"] == 2
+        assert second["next_retry_at"] == 2200
+    finally:
+        MODULE.__file__ = original_file
+
+
+def test_get_retryable_failure_jobs_sorts_ready_items(tmp_path):
+    original_file = MODULE.__file__
+    try:
+        MODULE.__file__ = str(tmp_path / "scripts" / "crawl_famous_people.py")
+        state = MODULE.load_pipeline_state("_smoke")
+        state["failure_queue"]["jobs"] = [
+            {
+                "job": MODULE.build_query_job("western", "en", "Q30", "politician", 5, 0),
+                "attempt_count": 2,
+                "next_retry_at": 80,
+            },
+            {
+                "job": MODULE.build_query_job("china_like", "zh", "Q148", "writer", 5, 0),
+                "attempt_count": 1,
+                "next_retry_at": 70,
+            },
+            {
+                "job": MODULE.build_query_job("global_extra", "en", "Q17", "scientist", 5, 0),
+                "attempt_count": 1,
+                "next_retry_at": 120,
+            },
+        ]
+
+        jobs = MODULE.get_retryable_failure_jobs(state, now=100)
+        assert [item["job"]["cohort"] for item in jobs] == ["china_like", "western"]
+        summary = MODULE.build_pipeline_summary(state, now=100)
+        assert summary["ready_failed_jobs"] == 2
+    finally:
+        MODULE.__file__ = original_file
+
+
+def test_load_pipeline_state_migrates_legacy_failure_queue(tmp_path, monkeypatch):
+    original_file = MODULE.__file__
+    try:
+        script_path = tmp_path / "scripts" / "crawl_famous_people.py"
+        data_dir = tmp_path / "data"
+        data_dir.mkdir()
+        (data_dir / "famous_people_failure_queue_smoke.json").write_text(
+            json.dumps(
+                {
+                    "jobs": [
+                        {
+                            "job": MODULE.build_query_job("western", "en", "Q30", "politician", 5, 0),
+                            "error": "timeout",
+                        }
+                    ]
+                }
+            ),
+            encoding="utf-8",
+        )
+        MODULE.__file__ = str(script_path)
+        monkeypatch.setattr(MODULE.time, "time", lambda: 1000)
+
+        state = MODULE.load_pipeline_state("_smoke")
+        item = state["failure_queue"]["jobs"][0]
+        assert item["attempt_count"] == 1
+        assert item["next_retry_at"] == 1600
     finally:
         MODULE.__file__ = original_file

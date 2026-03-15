@@ -23,6 +23,8 @@ ENTITY_BATCH_SIZE = 25
 MIN_TOTAL_PEOPLE = 10000
 MAX_ACCEPTABLE_RETRY_AFTER = 30
 SMOKE_MIN_TOTAL_PEOPLE = 1
+FAILURE_RETRY_BASE_DELAY_SECONDS = 300
+FAILURE_RETRY_MAX_DELAY_SECONDS = 7200
 
 CHINA_LIKE_QIDS = ["Q148", "Q865", "Q8646", "Q14773", "Q1054923", "Q3916279"]
 WESTERN_COUNTRY_QIDS = [
@@ -633,12 +635,16 @@ def fetch_people_from_cached_rows(session: requests.Session, cohort: str, rows: 
 
 def retry_failed_jobs(session: requests.Session, pipeline_state: dict[str, Any]) -> dict[str, list[dict[str, Any]]]:
     retried_rows: dict[str, list[dict[str, Any]]] = defaultdict(list)
-    jobs = [item["job"] for item in pipeline_state["failure_queue"]["jobs"]]
-    if not jobs:
+    jobs = get_retryable_failure_jobs(pipeline_state)
+    if not pipeline_state["failure_queue"]["jobs"]:
         print("失败队列为空，直接复用缓存候选页", flush=True)
         return retried_rows
+    if not jobs:
+        print("失败队列存在，但当前没有到期可补跑的任务", flush=True)
+        return retried_rows
     print(f"开始补跑失败页：{len(jobs)}", flush=True)
-    for job in jobs:
+    for item in jobs:
+        job = item["job"]
         try:
             rows = run_query_job(session, pipeline_state, job, use_cache=False)
         except RequestException:
@@ -952,10 +958,26 @@ def build_query_job_key(job: dict[str, Any]) -> str:
 
 def load_pipeline_state(output_suffix: str) -> dict[str, Any]:
     paths = build_data_paths(output_suffix)
+    failure_queue = read_json(paths["failure_queue"], {"jobs": []})
+    normalized_jobs = []
+    for item in failure_queue.get("jobs", []):
+        attempt_count = int(item.get("attempt_count", 1))
+        error = item.get("error", "")
+        next_retry_at = int(item.get("next_retry_at", 0))
+        if next_retry_at <= 0:
+            next_retry_at = int(time.time()) + compute_failure_retry_delay(error, attempt_count)
+        normalized_jobs.append(
+            {
+                **item,
+                "attempt_count": attempt_count,
+                "next_retry_at": next_retry_at,
+            }
+        )
+    failure_queue["jobs"] = normalized_jobs
     return {
         "paths": paths,
         "candidate_cache": read_json(paths["candidate_cache"], {"pages": {}}),
-        "failure_queue": read_json(paths["failure_queue"], {"jobs": []}),
+        "failure_queue": failure_queue,
     }
 
 
@@ -983,11 +1005,16 @@ def cache_query_rows(state: dict[str, Any], job: dict[str, Any], rows: list[dict
 
 def record_failed_job(state: dict[str, Any], job: dict[str, Any], error: str) -> None:
     job_key = build_query_job_key(job)
+    existing = next((item for item in state["failure_queue"]["jobs"] if build_query_job_key(item["job"]) == job_key), None)
     jobs = [item for item in state["failure_queue"]["jobs"] if build_query_job_key(item["job"]) != job_key]
+    attempt_count = int(existing.get("attempt_count", 0)) + 1 if existing else 1
+    delay_seconds = compute_failure_retry_delay(error, attempt_count)
     jobs.append(
         {
             "job": job,
             "error": error,
+            "attempt_count": attempt_count,
+            "next_retry_at": int(time.time()) + delay_seconds,
             "updated_at": time.strftime("%Y-%m-%d %H:%M:%S"),
         }
     )
@@ -1003,11 +1030,39 @@ def clear_failed_job(state: dict[str, Any], job: dict[str, Any]) -> None:
         persist_pipeline_state(state)
 
 
-def build_pipeline_summary(state: dict[str, Any]) -> dict[str, int]:
+def build_pipeline_summary(state: dict[str, Any], now: int | None = None) -> dict[str, int]:
+    ready_failed_jobs = sum(1 for item in state["failure_queue"]["jobs"] if is_failure_job_ready(item, now=now))
     return {
         "candidate_pages": len(state["candidate_cache"]["pages"]),
         "failed_jobs": len(state["failure_queue"]["jobs"]),
+        "ready_failed_jobs": ready_failed_jobs,
     }
+
+
+def compute_failure_retry_delay(error: str, attempt_count: int) -> int:
+    delay = FAILURE_RETRY_BASE_DELAY_SECONDS * max(1, 2 ** max(0, attempt_count - 1))
+    lowered = error.lower()
+    if "504" in lowered or "timeout" in lowered:
+        delay *= 2
+    return min(delay, FAILURE_RETRY_MAX_DELAY_SECONDS)
+
+
+def is_failure_job_ready(item: dict[str, Any], now: int | None = None) -> bool:
+    now = int(time.time()) if now is None else now
+    return int(item.get("next_retry_at", 0)) <= now
+
+
+def get_retryable_failure_jobs(state: dict[str, Any], now: int | None = None) -> list[dict[str, Any]]:
+    now = int(time.time()) if now is None else now
+    retryable = [item for item in state["failure_queue"]["jobs"] if is_failure_job_ready(item, now=now)]
+    return sorted(
+        retryable,
+        key=lambda item: (
+            int(item.get("next_retry_at", 0)),
+            int(item.get("attempt_count", 1)),
+            build_query_job_key(item["job"]),
+        ),
+    )
 
 
 def parse_args() -> argparse.Namespace:
