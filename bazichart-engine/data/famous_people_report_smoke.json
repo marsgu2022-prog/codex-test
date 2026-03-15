@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-15 00:49:58",
+  "generated_at": "2026-03-15 10:18:52",
   "mode": "smoke",
   "min_total_people": 1,
   "total_people": 23,
@@ -10,5 +10,9 @@
     "total_people": 23,
     "invalid_count": 0,
     "invalid_ids": []
+  },
+  "pipeline": {
+    "candidate_pages": 5,
+    "failed_jobs": 1
   }
 }

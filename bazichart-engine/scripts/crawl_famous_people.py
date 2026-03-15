@@ -543,6 +543,7 @@ def query_wikidata(session: requests.Session, query: str) -> list[dict[str, Any]
 def fetch_cohort_from_countries(
     session: requests.Session,
     cohort: str,
+    pipeline_state: dict[str, Any],
     country_qids: list[str],
     language: str,
     occupations: list[str],
@@ -554,17 +555,31 @@ def fetch_cohort_from_countries(
         for occupation_name in occupations:
             occupation_qid = OCCUPATION_QIDS[occupation_name]
             for page in range(pages):
+                job = build_query_job(cohort, language, country_qid, occupation_name, per_query_limit, page)
                 offset = page * per_query_limit
                 query = build_sparql_query(language, [country_qid], occupation_qid, per_query_limit, offset)
                 print(
                     f"[{cohort}] SPARQL 国家 {country_qid} × {occupation_name}，第 {page + 1}/{pages} 页，限制 {per_query_limit}",
                     flush=True,
                 )
+                cached_rows = get_cached_rows(pipeline_state, job)
+                if cached_rows is not None:
+                    rows.extend(cached_rows)
+                    print(
+                        f"[{cohort}] 命中缓存 国家 {country_qid} × {occupation_name} 第 {page + 1} 页：{len(cached_rows)}，累计 {len(rows)}",
+                        flush=True,
+                    )
+                    if len(cached_rows) < per_query_limit:
+                        break
+                    continue
                 try:
                     result_rows = query_wikidata(session, query)
                 except RequestException as exc:
+                    record_failed_job(pipeline_state, job, str(exc))
                     print(f"[{cohort}] 跳过国家 {country_qid} × {occupation_name} 第 {page + 1} 页：{exc}", flush=True)
                     break
+                cache_query_rows(pipeline_state, job, result_rows)
+                clear_failed_job(pipeline_state, job)
                 rows.extend(result_rows)
                 print(
                     f"[{cohort}] 国家 {country_qid} × {occupation_name} 第 {page + 1} 页完成：{len(result_rows)}，累计 {len(rows)}",
@@ -837,6 +852,117 @@ def write_json(path: Path, payload: Any) -> None:
     path.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
+def read_json(path: Path, default: Any) -> Any:
+    if not path.exists():
+        return default
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
+def build_data_paths(output_suffix: str) -> dict[str, Path]:
+    data_dir = Path(__file__).resolve().parent.parent / "data"
+    return {
+        "data_dir": data_dir,
+        "famous_people": data_dir / f"famous_people{output_suffix}.json",
+        "day_pillar_index": data_dir / f"day_pillar_index{output_suffix}.json",
+        "report": data_dir / f"famous_people_report{output_suffix}.json",
+        "candidate_cache": data_dir / f"famous_people_candidate_cache{output_suffix}.json",
+        "failure_queue": data_dir / f"famous_people_failure_queue{output_suffix}.json",
+    }
+
+
+def build_query_job(
+    cohort: str,
+    language: str,
+    country_qid: str,
+    occupation_name: str,
+    per_query_limit: int,
+    page: int,
+) -> dict[str, Any]:
+    return {
+        "cohort": cohort,
+        "language": language,
+        "country_qid": country_qid,
+        "occupation": occupation_name,
+        "limit": per_query_limit,
+        "page": page + 1,
+        "offset": page * per_query_limit,
+    }
+
+
+def build_query_job_key(job: dict[str, Any]) -> str:
+    return "|".join(
+        [
+            job["cohort"],
+            job["language"],
+            job["country_qid"],
+            job["occupation"],
+            str(job["limit"]),
+            str(job["page"]),
+            str(job["offset"]),
+        ]
+    )
+
+
+def load_pipeline_state(output_suffix: str) -> dict[str, Any]:
+    paths = build_data_paths(output_suffix)
+    return {
+        "paths": paths,
+        "candidate_cache": read_json(paths["candidate_cache"], {"pages": {}}),
+        "failure_queue": read_json(paths["failure_queue"], {"jobs": []}),
+    }
+
+
+def persist_pipeline_state(state: dict[str, Any]) -> None:
+    write_json(state["paths"]["candidate_cache"], state["candidate_cache"])
+    write_json(state["paths"]["failure_queue"], state["failure_queue"])
+
+
+def get_cached_rows(state: dict[str, Any], job: dict[str, Any]) -> list[dict[str, Any]] | None:
+    cached = state["candidate_cache"]["pages"].get(build_query_job_key(job))
+    if cached is None:
+        return None
+    return cached.get("rows", [])
+
+
+def cache_query_rows(state: dict[str, Any], job: dict[str, Any], rows: list[dict[str, Any]]) -> None:
+    state["candidate_cache"]["pages"][build_query_job_key(job)] = {
+        "job": job,
+        "row_count": len(rows),
+        "updated_at": time.strftime("%Y-%m-%d %H:%M:%S"),
+        "rows": rows,
+    }
+    persist_pipeline_state(state)
+
+
+def record_failed_job(state: dict[str, Any], job: dict[str, Any], error: str) -> None:
+    job_key = build_query_job_key(job)
+    jobs = [item for item in state["failure_queue"]["jobs"] if build_query_job_key(item["job"]) != job_key]
+    jobs.append(
+        {
+            "job": job,
+            "error": error,
+            "updated_at": time.strftime("%Y-%m-%d %H:%M:%S"),
+        }
+    )
+    state["failure_queue"]["jobs"] = jobs
+    persist_pipeline_state(state)
+
+
+def clear_failed_job(state: dict[str, Any], job: dict[str, Any]) -> None:
+    job_key = build_query_job_key(job)
+    jobs = [item for item in state["failure_queue"]["jobs"] if build_query_job_key(item["job"]) != job_key]
+    if len(jobs) != len(state["failure_queue"]["jobs"]):
+        state["failure_queue"]["jobs"] = jobs
+        persist_pipeline_state(state)
+
+
+def build_pipeline_summary(state: dict[str, Any]) -> dict[str, int]:
+    return {
+        "candidate_pages": len(state["candidate_cache"]["pages"]),
+        "failed_jobs": len(state["failure_queue"]["jobs"]),
+    }
+
+
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="抓取名人数据并生成日柱索引")
     parser.add_argument(
@@ -867,12 +993,13 @@ def main() -> int:
     session = requests.Session()
     session.headers.update({"User-Agent": USER_AGENT})
     runtime_configs, min_total_people, output_suffix = build_runtime_configs(args.mode)
+    pipeline_state = load_pipeline_state(output_suffix)
 
     print(f"运行模式：{args.mode}", flush=True)
 
     print("抓取中文名人...", flush=True)
     chinese_config = dict(runtime_configs["china_like"])
-    chinese_people = fetch_cohort_from_countries(session, "china_like", **chinese_config)
+    chinese_people = fetch_cohort_from_countries(session, "china_like", pipeline_state=pipeline_state, **chinese_config)
     print(f"中文名人抓取完成：{len(chinese_people)}", flush=True)
 
     print("抓取西方名人...", flush=True)
@@ -882,7 +1009,7 @@ def main() -> int:
         western_config["country_qids"],
         western_config.pop("extra_country_names", []),
     )
-    western_people = fetch_cohort_from_countries(session, "western", **western_config)
+    western_people = fetch_cohort_from_countries(session, "western", pipeline_state=pipeline_state, **western_config)
     print(f"西方名人抓取完成：{len(western_people)}", flush=True)
 
     print("抓取全球补充名人...", flush=True)
@@ -892,7 +1019,7 @@ def main() -> int:
         global_extra_config["country_qids"],
         global_extra_config.pop("extra_country_names", []),
     )
-    global_extra_people = fetch_cohort_from_countries(session, "global_extra", **global_extra_config)
+    global_extra_people = fetch_cohort_from_countries(session, "global_extra", pipeline_state=pipeline_state, **global_extra_config)
     print(f"全球补充名人抓取完成：{len(global_extra_people)}", flush=True)
 
     people = dedupe_people(chinese_people + western_people + global_extra_people)
@@ -903,10 +1030,10 @@ def main() -> int:
     if validation["invalid_count"] != 0:
         raise RuntimeError(f"存在无效名人记录: {validation}")
 
-    data_dir = Path(__file__).resolve().parent.parent / "data"
-    famous_people_path = data_dir / f"famous_people{output_suffix}.json"
-    day_pillar_index_path = data_dir / f"day_pillar_index{output_suffix}.json"
-    report_path = data_dir / f"famous_people_report{output_suffix}.json"
+    paths = pipeline_state["paths"]
+    famous_people_path = paths["famous_people"]
+    day_pillar_index_path = paths["day_pillar_index"]
+    report_path = paths["report"]
 
     write_json(famous_people_path, people)
     write_json(day_pillar_index_path, build_day_pillar_index(people))
@@ -921,6 +1048,7 @@ def main() -> int:
             "western_people": len(western_people),
             "global_extra_people": len(global_extra_people),
             "validation": validation,
+            "pipeline": build_pipeline_summary(pipeline_state),
         },
     )
     print(f"输出完成：{famous_people_path}", flush=True)

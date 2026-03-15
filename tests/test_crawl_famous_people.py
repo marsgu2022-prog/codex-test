@@ -107,3 +107,38 @@ def test_build_runtime_configs_full_preserves_default_scope():
     assert output_suffix == ""
     assert configs["western"]["country_qids"] == MODULE.WESTERN_COUNTRY_QIDS
     assert configs["global_extra"]["pages"] == MODULE.COHORT_CONFIGS["global_extra"]["pages"]
+
+
+def test_pipeline_state_records_cache_and_failure_queue(tmp_path):
+    original_file = MODULE.__file__
+    try:
+        MODULE.__file__ = str(tmp_path / "scripts" / "crawl_famous_people.py")
+        state = MODULE.load_pipeline_state("_smoke")
+        job = MODULE.build_query_job("western", "en", "Q30", "scientist", 5, 0)
+
+        MODULE.cache_query_rows(state, job, [{"person": {"value": "https://www.wikidata.org/entity/Q1"}}])
+        MODULE.record_failed_job(state, job, "timeout")
+
+        reloaded = MODULE.load_pipeline_state("_smoke")
+        assert MODULE.get_cached_rows(reloaded, job) == [{"person": {"value": "https://www.wikidata.org/entity/Q1"}}]
+        assert len(reloaded["failure_queue"]["jobs"]) == 1
+        assert reloaded["failure_queue"]["jobs"][0]["error"] == "timeout"
+    finally:
+        MODULE.__file__ = original_file
+
+
+def test_clear_failed_job_and_pipeline_summary(tmp_path):
+    original_file = MODULE.__file__
+    try:
+        MODULE.__file__ = str(tmp_path / "scripts" / "crawl_famous_people.py")
+        state = MODULE.load_pipeline_state("_smoke")
+        job = MODULE.build_query_job("china_like", "zh", "Q148", "writer", 5, 0)
+
+        MODULE.cache_query_rows(state, job, [])
+        MODULE.record_failed_job(state, job, "dns")
+        MODULE.clear_failed_job(state, job)
+
+        summary = MODULE.build_pipeline_summary(state)
+        assert summary == {"candidate_pages": 1, "failed_jobs": 0}
+    finally:
+        MODULE.__file__ = original_file

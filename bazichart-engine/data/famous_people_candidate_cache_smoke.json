@@ -1,0 +1,604 @@
+{
+  "pages": {
+    "china_like|zh|Q148|politician|5|1|0": {
+      "job": {
+        "cohort": "china_like",
+        "language": "zh",
+        "country_qid": "Q148",
+        "occupation": "politician",
+        "limit": 5,
+        "page": 1,
+        "offset": 0
+      },
+      "row_count": 5,
+      "updated_at": "2026-03-15 10:15:27",
+      "rows": [
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q5816"
+          },
+          "birthDate": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1893-12-26T00:00:00Z"
+          },
+          "precision": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "11"
+          },
+          "sitelinks": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "227"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q15031"
+          },
+          "birthDate": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1953-06-15T00:00:00Z"
+          },
+          "precision": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "11"
+          },
+          "sitelinks": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "186"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q5208"
+          },
+          "birthDate": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1899-11-13T00:00:00Z"
+          },
+          "precision": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "11"
+          },
+          "sitelinks": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "172"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q17293"
+          },
+          "birthDate": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1935-07-06T00:00:00Z"
+          },
+          "precision": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "11"
+          },
+          "sitelinks": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "166"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q16977"
+          },
+          "birthDate": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1904-08-22T00:00:00Z"
+          },
+          "precision": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "11"
+          },
+          "sitelinks": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "133"
+          }
+        }
+      ]
+    },
+    "china_like|zh|Q148|writer|5|1|0": {
+      "job": {
+        "cohort": "china_like",
+        "language": "zh",
+        "country_qid": "Q148",
+        "occupation": "writer",
+        "limit": 5,
+        "page": 1,
+        "offset": 0
+      },
+      "row_count": 5,
+      "updated_at": "2026-03-15 10:15:29",
+      "rows": [
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q5816"
+          },
+          "birthDate": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1893-12-26T00:00:00Z"
+          },
+          "precision": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "11"
+          },
+          "sitelinks": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "227"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q41617"
+          },
+          "birthDate": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1955-12-28T00:00:00Z"
+          },
+          "precision": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "11"
+          },
+          "sitelinks": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "115"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q8998"
+          },
+          "birthDate": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1955-02-17T00:00:00Z"
+          },
+          "precision": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "11"
+          },
+          "sitelinks": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "109"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q18143"
+          },
+          "birthDate": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1940-01-04T00:00:00Z"
+          },
+          "precision": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "11"
+          },
+          "sitelinks": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "104"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q185152"
+          },
+          "birthDate": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1906-02-07T00:00:00Z"
+          },
+          "precision": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "11"
+          },
+          "sitelinks": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "85"
+          }
+        }
+      ]
+    },
+    "western|en|Q30|scientist|5|1|0": {
+      "job": {
+        "cohort": "western",
+        "language": "en",
+        "country_qid": "Q30",
+        "occupation": "scientist",
+        "limit": 5,
+        "page": 1,
+        "offset": 0
+      },
+      "row_count": 5,
+      "updated_at": "2026-03-15 10:16:51",
+      "rows": [
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q132537"
+          },
+          "birthDate": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1904-04-22T00:00:00Z"
+          },
+          "precision": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "11"
+          },
+          "sitelinks": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "129"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q83333"
+          },
+          "birthDate": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1928-04-06T00:00:00Z"
+          },
+          "precision": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "11"
+          },
+          "sitelinks": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "107"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q185007"
+          },
+          "birthDate": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1909-04-22T00:00:00Z"
+          },
+          "precision": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "11"
+          },
+          "sitelinks": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "104"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q57100"
+          },
+          "birthDate": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1906-06-28T00:00:00Z"
+          },
+          "precision": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "11"
+          },
+          "sitelinks": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "101"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q102289"
+          },
+          "birthDate": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1895-07-12T00:00:00Z"
+          },
+          "precision": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "11"
+          },
+          "sitelinks": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "86"
+          }
+        }
+      ]
+    },
+    "global_extra|en|Q17|politician|5|1|0": {
+      "job": {
+        "cohort": "global_extra",
+        "language": "en",
+        "country_qid": "Q17",
+        "occupation": "politician",
+        "limit": 5,
+        "page": 1,
+        "offset": 0
+      },
+      "row_count": 5,
+      "updated_at": "2026-03-15 10:17:03",
+      "rows": [
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q132345"
+          },
+          "birthDate": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1954-09-21T00:00:00Z"
+          },
+          "precision": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "11"
+          },
+          "sitelinks": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "163"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q122465"
+          },
+          "birthDate": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1948-12-06T00:00:00Z"
+          },
+          "precision": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "11"
+          },
+          "sitelinks": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "109"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q359480"
+          },
+          "birthDate": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1957-07-29T00:00:00Z"
+          },
+          "precision": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "11"
+          },
+          "sitelinks": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "96"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q47846"
+          },
+          "birthDate": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1946-10-10T00:00:00Z"
+          },
+          "precision": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "11"
+          },
+          "sitelinks": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "94"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q1705028"
+          },
+          "birthDate": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1961-03-07T00:00:00Z"
+          },
+          "precision": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "11"
+          },
+          "sitelinks": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "89"
+          }
+        }
+      ]
+    },
+    "global_extra|en|Q17|scientist|5|1|0": {
+      "job": {
+        "cohort": "global_extra",
+        "language": "en",
+        "country_qid": "Q17",
+        "occupation": "scientist",
+        "limit": 5,
+        "page": 1,
+        "offset": 0
+      },
+      "row_count": 5,
+      "updated_at": "2026-03-15 10:17:05",
+      "rows": [
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q108602"
+          },
+          "birthDate": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1939-09-06T00:00:00Z"
+          },
+          "precision": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "11"
+          },
+          "sitelinks": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "59"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q108602"
+          },
+          "birthDate": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1939-09-05T00:00:00Z"
+          },
+          "precision": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "11"
+          },
+          "sitelinks": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "59"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q20041459"
+          },
+          "birthDate": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1888-09-17T00:00:00Z"
+          },
+          "precision": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "11"
+          },
+          "sitelinks": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "20"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q1347561"
+          },
+          "birthDate": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1886-01-28T00:00:00Z"
+          },
+          "precision": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "11"
+          },
+          "sitelinks": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "18"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q382950"
+          },
+          "birthDate": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "type": "literal",
+            "value": "1963-10-23T00:00:00Z"
+          },
+          "precision": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "11"
+          },
+          "sitelinks": {
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "type": "literal",
+            "value": "12"
+          }
+        }
+      ]
+    }
+  }
+}
