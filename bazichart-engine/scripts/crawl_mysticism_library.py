@@ -27,6 +27,12 @@ REPORT_PATH = Path(__file__).resolve().parent.parent / "data" / "mysticism_libra
 USER_AGENT = "bazichart-engine/1.0 (mysticism library crawler)"
 MAX_RELATED_TITLES = 12
 LINK_FETCH_LIMIT = 20
+SOURCE_POLICY = {
+    "wikipedia": {"priority": 1, "quality_tier": "A"},
+    "wikibooks": {"priority": 2, "quality_tier": "B"},
+    "archive_org": {"priority": 3, "quality_tier": "B"},
+    "academic": {"priority": 4, "quality_tier": "A"},
+}
 
 TOPIC_SEEDS = [
     {
@@ -244,6 +250,9 @@ def build_library_record(
         "summary_en": en_summary or zh_summary,
         "category": seed["category"],
         "tags": list(seed["tags"]),
+        "source_type": "wikipedia",
+        "source_priority": SOURCE_POLICY["wikipedia"]["priority"],
+        "quality_tier": SOURCE_POLICY["wikipedia"]["quality_tier"],
         "source_url": source_url,
         "related_titles": related_titles,
     }
@@ -263,6 +272,8 @@ def build_case_record(seed: dict[str, Any]) -> dict[str, Any]:
         "summary_en": normalize_text(seed["summary_en"]),
         "source_url": seed["source_url"],
         "source_type": seed["source_type"],
+        "source_priority": SOURCE_POLICY["wikipedia"]["priority"],
+        "quality_tier": SOURCE_POLICY["wikipedia"]["quality_tier"],
         "evidence_level": seed["evidence_level"],
         "tags": list(seed["tags"]),
         "events": list(seed["events"]),

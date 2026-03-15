@@ -35,6 +35,9 @@ def test_build_library_record_contains_required_fields():
     assert record["summary_en"] == "A Chinese astrological system"
     assert record["category"] == "concept"
     assert record["tags"] == ["八字", "四柱"]
+    assert record["source_type"] == "wikipedia"
+    assert record["source_priority"] == 1
+    assert record["quality_tier"] == "A"
     assert record["source_url"] == "https://zh.wikipedia.org/wiki/八字"
     assert record["related_titles"] == ["干支", "十神", "命理学", "Sexagenary cycle", "Chinese astrology"]
 
@@ -99,6 +102,8 @@ def test_build_case_record_for_bazi_contains_required_fields():
     assert record["title_zh_hans"] == "八字案例占位样本"
     assert record["title_zh_hant"] == "八字案例佔位樣本"
     assert record["title_en"] == "Bazi sample case"
+    assert record["source_priority"] == 1
+    assert record["quality_tier"] == "A"
     assert "birth_date" in record
     assert "pillars" in record
     assert "major_structure" in record
