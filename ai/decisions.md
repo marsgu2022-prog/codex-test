@@ -48,3 +48,9 @@
 - 新增 `bazichart-engine/scripts/clean_famous_people.py`，对名人库做长期可复用的敏感人物过滤
 - 清洗规则分为三层：明确黑名单直接删除、关键词高风险删除、不确定人物进入 `review_list.json`
 - 清洗后会原地重写 `famous_people.json`，并重新生成 `day_pillar_index.json` 与 `deleted_report.json`
+
+## 玄学资料库与案例库并行建模
+
+- `crawl_mysticism_library.py` 采用单模块双载荷结构，同时输出 `topics` 和 `cases`
+- `topics` 面向术语、流派、经典与人物知识；`cases` 面向八字、紫微斗数、风水验证案例
+- 案例库先落最小 schema 和占位样本，后续再接真实可验证案例源
