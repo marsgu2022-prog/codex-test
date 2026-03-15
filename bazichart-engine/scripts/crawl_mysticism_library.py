@@ -4,6 +4,7 @@ from __future__ import annotations
 import argparse
 import json
 import sys
+import time
 from pathlib import Path
 from typing import Any
 from urllib.parse import quote
@@ -27,6 +28,8 @@ REPORT_PATH = Path(__file__).resolve().parent.parent / "data" / "mysticism_libra
 USER_AGENT = "bazichart-engine/1.0 (mysticism library crawler)"
 MAX_RELATED_TITLES = 12
 LINK_FETCH_LIMIT = 20
+CATEGORY_MEMBER_LIMIT = 50
+MAX_ACCEPTABLE_RETRY_AFTER = 30
 SOURCE_POLICY = {
     "wikipedia": {"priority": 1, "quality_tier": "A"},
     "wikibooks": {"priority": 2, "quality_tier": "B"},
@@ -77,6 +80,79 @@ TOPIC_SEEDS = [
         "category": "concept",
         "tags": ["阴阳五行", "五行", "阴阳", "哲学"],
     },
+    {
+        "key": "yuan_hai_zi_ping",
+        "title_zh_hans": "渊海子平",
+        "title_en": "Yuan Hai Zi Ping",
+        "category": "book",
+        "tags": ["八字", "子平", "经典", "书籍"],
+    },
+    {
+        "key": "san_ming_tong_hui",
+        "title_zh_hans": "三命通会",
+        "title_en": "San Ming Tong Hui",
+        "category": "book",
+        "tags": ["八字", "命理", "经典", "书籍"],
+    },
+    {
+        "key": "di_tian_sui",
+        "title_zh_hans": "滴天髓",
+        "title_en": "Di Tian Sui",
+        "category": "book",
+        "tags": ["八字", "命理", "经典", "书籍"],
+    },
+    {
+        "key": "zi_ping_zhen_quan",
+        "title_zh_hans": "子平真诠",
+        "title_en": "Zi Ping Zhen Quan",
+        "category": "book",
+        "tags": ["八字", "子平", "经典", "书籍"],
+    },
+    {
+        "key": "qiong_tong_bao_jian",
+        "title_zh_hans": "穷通宝鉴",
+        "title_en": "Qiong Tong Bao Jian",
+        "category": "book",
+        "tags": ["八字", "调候", "经典", "书籍"],
+    },
+    {
+        "key": "ziwei_doushu_quanshu",
+        "title_zh_hans": "紫微斗数全书",
+        "title_en": "Complete Book of Zi Wei Dou Shu",
+        "category": "book",
+        "tags": ["紫微斗数", "经典", "书籍", "星曜"],
+    },
+    {
+        "key": "ziwei_doushu_mingpan",
+        "title_zh_hans": "紫微斗数命盘",
+        "title_en": "Zi Wei Dou Shu Natal Chart",
+        "category": "work",
+        "tags": ["紫微斗数", "命盘", "宫位", "参考"],
+    },
+    {
+        "key": "ni_haixia_tianji",
+        "title_zh_hans": "倪海厦天纪",
+        "title_en": "Ni Haixia Tian Ji",
+        "category": "work",
+        "tags": ["倪海厦", "天纪", "命理", "公开资料"],
+    },
+    {
+        "key": "ni_haixia_renji",
+        "title_zh_hans": "倪海厦人纪",
+        "title_en": "Ni Haixia Ren Ji",
+        "category": "work",
+        "tags": ["倪海厦", "人纪", "中医", "公开资料"],
+    },
+]
+TOPIC_CATEGORIES = [
+    {"language": "zh", "category": "Category:風水"},
+    {"language": "zh", "category": "Category:命理學"},
+    {"language": "zh", "category": "Category:易經"},
+    {"language": "zh", "category": "Category:道教占卜"},
+    {"language": "en", "category": "Category:Feng shui"},
+    {"language": "en", "category": "Category:Chinese astrology"},
+    {"language": "en", "category": "Category:I Ching"},
+    {"language": "en", "category": "Category:Divination"},
 ]
 CASE_SEEDS = [
     {
@@ -179,9 +255,7 @@ def build_source_url(language: str, title: str) -> str:
 
 
 def fetch_page_summary(session: requests.Session, language: str, title: str) -> dict[str, Any]:
-    response = session.get(REST_SUMMARY_URLS[language].format(title=quote(title)), timeout=30)
-    response.raise_for_status()
-    payload = response.json()
+    payload = get_json_with_retry(session, REST_SUMMARY_URLS[language].format(title=quote(title)))
     return {
         "title": payload.get("title", title),
         "summary": normalize_text(payload.get("extract", "")),
@@ -191,7 +265,8 @@ def fetch_page_summary(session: requests.Session, language: str, title: str) -> 
 
 def fetch_page_links(session: requests.Session, language: str, title: str, limit: int = LINK_FETCH_LIMIT) -> list[str]:
     api_url = ZH_WIKIPEDIA_API_URL if language == "zh" else EN_WIKIPEDIA_API_URL
-    payload = session.get(
+    data = get_json_with_retry(
+        session,
         api_url,
         params={
             "action": "query",
@@ -200,16 +275,53 @@ def fetch_page_links(session: requests.Session, language: str, title: str, limit
             "titles": title,
             "pllimit": str(limit),
         },
-        timeout=30,
-    )
-    payload.raise_for_status()
-    data = payload.json().get("query", {}).get("pages", {})
+    ).get("query", {}).get("pages", {})
     links: list[str] = []
     for page in data.values():
         for item in page.get("links", []):
             if item.get("ns") == 0 and item.get("title"):
                 links.append(item["title"])
     return links
+
+
+def fetch_category_titles(session: requests.Session, language: str, category: str, limit: int = CATEGORY_MEMBER_LIMIT) -> list[str]:
+    api_url = ZH_WIKIPEDIA_API_URL if language == "zh" else EN_WIKIPEDIA_API_URL
+    items = get_json_with_retry(
+        session,
+        api_url,
+        params={
+            "action": "query",
+            "format": "json",
+            "list": "categorymembers",
+            "cmtitle": category,
+            "cmtype": "page",
+            "cmlimit": str(min(limit, 50)),
+        },
+    ).get("query", {}).get("categorymembers", [])
+    return [normalize_text(item.get("title", "")) for item in items if item.get("title")]
+
+
+def get_json_with_retry(session: requests.Session, url: str, params: dict[str, Any] | None = None, timeout: int = 30) -> dict[str, Any]:
+    params = params or {}
+    last_error: Exception | None = None
+    for attempt in range(5):
+        response = None
+        try:
+            response = session.get(url, params=params, timeout=timeout)
+            if response.status_code == 429:
+                retry_after = int(response.headers.get("Retry-After", "5"))
+                retry_after = min(retry_after, MAX_ACCEPTABLE_RETRY_AFTER)
+                time.sleep(retry_after + attempt)
+                continue
+            response.raise_for_status()
+            time.sleep(0.6)
+            return response.json()
+        except requests.RequestException as exc:
+            last_error = exc
+            time.sleep(2 + attempt)
+    if last_error is not None:
+        raise last_error
+    raise RuntimeError("请求失败但未捕获具体异常")
 
 
 def dedupe_titles(values: list[str], limit: int = MAX_RELATED_TITLES) -> list[str]:
@@ -256,6 +368,45 @@ def build_library_record(
         "source_url": source_url,
         "related_titles": related_titles,
     }
+
+
+def slugify_topic_key(language: str, title: str) -> str:
+    normalized = normalize_text(title).lower().replace(" ", "_")
+    ascii_only = "".join(char if char.isalnum() or char == "_" else "_" for char in normalized)
+    compact = "_".join(part for part in ascii_only.split("_") if part)
+    return f"{language}_{compact}" if compact else f"{language}_topic"
+
+
+def build_expanded_topic_seed(language: str, title: str) -> dict[str, Any]:
+    if language == "zh":
+        return {
+            "key": slugify_topic_key(language, title),
+            "title_zh_hans": title,
+            "title_en": title,
+            "category": "reference",
+            "tags": ["玄学", "扩展"],
+        }
+    return {
+        "key": slugify_topic_key(language, title),
+        "title_zh_hans": title,
+        "title_en": title,
+        "category": "reference",
+        "tags": ["mysticism", "reference"],
+    }
+
+
+def expand_topic_seeds_from_categories(session: requests.Session, limit_per_category: int = CATEGORY_MEMBER_LIMIT) -> list[dict[str, Any]]:
+    expanded: list[dict[str, Any]] = []
+    seen_keys = {seed["key"] for seed in TOPIC_SEEDS}
+    for item in TOPIC_CATEGORIES:
+        titles = fetch_category_titles(session, item["language"], item["category"], limit=limit_per_category)
+        for title in titles:
+            seed = build_expanded_topic_seed(item["language"], title)
+            if seed["key"] in seen_keys:
+                continue
+            seen_keys.add(seed["key"])
+            expanded.append(seed)
+    return expanded
 
 
 def build_case_record(seed: dict[str, Any]) -> dict[str, Any]:
@@ -309,10 +460,19 @@ def build_case_library(seeds: list[dict[str, Any]] | None = None) -> list[dict[s
     return [build_case_record(seed) for seed in seeds]
 
 
-def build_topic_library(session: requests.Session, seeds: list[dict[str, Any]] | None = None) -> list[dict[str, Any]]:
+def build_topic_library(
+    session: requests.Session,
+    seeds: list[dict[str, Any]] | None = None,
+    *,
+    include_categories: bool = False,
+    category_limit: int = CATEGORY_MEMBER_LIMIT,
+) -> list[dict[str, Any]]:
     seeds = TOPIC_SEEDS if seeds is None else seeds
+    expanded_seeds = list(seeds)
+    if include_categories:
+        expanded_seeds.extend(expand_topic_seeds_from_categories(session, limit_per_category=category_limit))
     records: list[dict[str, Any]] = []
-    for seed in seeds:
+    for seed in expanded_seeds:
         zh_page = fetch_page_summary(session, "zh", seed["title_zh_hans"])
         en_page = fetch_page_summary(session, "en", seed["title_en"])
         zh_links = fetch_page_links(session, "zh", zh_page["title"])
@@ -337,6 +497,7 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="抓取 Wikipedia 玄学主题资料库")
     parser.add_argument("--output", type=Path, default=OUTPUT_PATH, help="资料库输出文件")
     parser.add_argument("--report", type=Path, default=REPORT_PATH, help="抓取报告输出文件")
+    parser.add_argument("--include-categories", action="store_true", help="额外抓取 Wikipedia 分类页扩展主题")
     return parser.parse_args()
 
 
@@ -344,7 +505,7 @@ def main() -> int:
     args = parse_args()
     session = requests.Session()
     session.headers.update({"User-Agent": USER_AGENT})
-    records = build_topic_library(session)
+    records = build_topic_library(session, include_categories=args.include_categories)
     case_records = build_case_library()
     payload = {
         "topics": records,

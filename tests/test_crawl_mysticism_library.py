@@ -80,6 +80,81 @@ def test_build_topic_library_uses_seed_topics(monkeypatch):
     assert calls[1] == ("summary", "en", "Four Pillars of Destiny")
 
 
+def test_expand_topic_seeds_from_categories_builds_unique_reference_seeds(monkeypatch):
+    monkeypatch.setattr(
+        MODULE,
+        "fetch_category_titles",
+        lambda session, language, category, limit=MODULE.CATEGORY_MEMBER_LIMIT: ["八字", "风水新解"] if language == "zh" else ["Feng shui", "I Ching divination"],
+    )
+
+    expanded = MODULE.expand_topic_seeds_from_categories(object(), limit_per_category=3)
+
+    keys = [item["key"] for item in expanded]
+    assert "zh_风水新解" in keys
+    assert "en_i_ching_divination" in keys
+    assert all(item["category"] == "reference" for item in expanded)
+
+
+def test_build_topic_library_can_include_category_expansion(monkeypatch):
+    monkeypatch.setattr(MODULE, "expand_topic_seeds_from_categories", lambda session, limit_per_category=MODULE.CATEGORY_MEMBER_LIMIT: [
+        {"key": "zh_sample", "title_zh_hans": "堪舆注解", "title_en": "Kanyu notes", "category": "reference", "tags": ["玄学", "扩展"]}
+    ])
+    monkeypatch.setattr(
+        MODULE,
+        "fetch_page_summary",
+        lambda session, language, title: {"title": title, "summary": f"{language}:{title}", "source_url": f"https://{language}.example/{title}"},
+    )
+    monkeypatch.setattr(MODULE, "fetch_page_links", lambda session, language, title, limit=MODULE.LINK_FETCH_LIMIT: [])
+
+    records = MODULE.build_topic_library(object(), seeds=MODULE.TOPIC_SEEDS[:1], include_categories=True, category_limit=3)
+
+    assert [item["key"] for item in records] == ["bazi", "zh_sample"]
+
+
+def test_topic_seeds_include_high_value_books_and_works():
+    expected = {
+        "yuan_hai_zi_ping": ("book", "渊海子平"),
+        "san_ming_tong_hui": ("book", "三命通会"),
+        "di_tian_sui": ("book", "滴天髓"),
+        "zi_ping_zhen_quan": ("book", "子平真诠"),
+        "qiong_tong_bao_jian": ("book", "穷通宝鉴"),
+        "ziwei_doushu_quanshu": ("book", "紫微斗数全书"),
+        "ziwei_doushu_mingpan": ("work", "紫微斗数命盘"),
+        "ni_haixia_tianji": ("work", "倪海厦天纪"),
+        "ni_haixia_renji": ("work", "倪海厦人纪"),
+    }
+
+    indexed = {item["key"]: item for item in MODULE.TOPIC_SEEDS}
+
+    for key, (category, title) in expected.items():
+        assert key in indexed
+        assert indexed[key]["category"] == category
+        assert indexed[key]["title_zh_hans"] == title
+
+
+def test_build_topic_library_includes_book_and_work_topics(monkeypatch):
+    monkeypatch.setattr(
+        MODULE,
+        "fetch_page_summary",
+        lambda session, language, title: {"title": title, "summary": f"{language}:{title}", "source_url": f"https://{language}.example/{title}"},
+    )
+    monkeypatch.setattr(MODULE, "fetch_page_links", lambda session, language, title, limit=MODULE.LINK_FETCH_LIMIT: [])
+
+    selected = [
+        next(item for item in MODULE.TOPIC_SEEDS if item["key"] == "yuan_hai_zi_ping"),
+        next(item for item in MODULE.TOPIC_SEEDS if item["key"] == "ziwei_doushu_quanshu"),
+        next(item for item in MODULE.TOPIC_SEEDS if item["key"] == "ni_haixia_tianji"),
+    ]
+    records = MODULE.build_topic_library(object(), seeds=selected)
+
+    assert [item["key"] for item in records] == [
+        "yuan_hai_zi_ping",
+        "ziwei_doushu_quanshu",
+        "ni_haixia_tianji",
+    ]
+    assert [item["category"] for item in records] == ["book", "book", "work"]
+
+
 def test_build_report_counts_categories():
     report = MODULE.build_report(
         [
