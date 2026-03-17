@@ -6,15 +6,17 @@
     <title>Codex UI 能力检查</title>
     <style>
       :root {
-        --bg: #f6f6f7;
+        --bg: #f9fbff;
         --panel: #ffffff;
-        --border: rgba(27, 28, 30, 0.1);
-        --accent: #d72d1d;
-        --accent-soft: rgba(215, 45, 29, 0.12);
-        --text: #16171a;
-        --muted: #6c6f78;
-        --shadow: 0 30px 70px rgba(17, 19, 27, 0.15);
-        --glow: 0 20px 50px rgba(215, 45, 29, 0.35);
+        --panel-gradient: linear-gradient(180deg, #ffffff 0%, #f0ecff 100%);
+        --border: rgba(15, 23, 42, 0.08);
+        --accent: #5a64ff;
+        --accent-soft: rgba(90, 100, 255, 0.15);
+        --text: #0b1226;
+        --muted: #6f7382;
+        --shadow: 0 30px 60px rgba(9, 12, 32, 0.15);
+        --glow: 0 20px 50px rgba(90, 100, 255, 0.35);
+        --metric-highlight: #111f7f;
       }
 
       * {
@@ -25,7 +27,7 @@
         margin: 0;
         min-height: 100vh;
         font-family: "PingFang SC", "Source Han Sans", "Noto Sans SC", system-ui, sans-serif;
-        background: var(--bg);
+        background: linear-gradient(180deg, #f8fbff 0%, #f0ecff 55%, #e5e7ff 100%);
         color: var(--text);
       }
 
@@ -33,9 +35,9 @@
         content: "";
         position: fixed;
         inset: 0;
-        background: radial-gradient(circle at 15% 20%, rgba(215, 45, 29, 0.08), transparent 40%),
-          radial-gradient(circle at 80% 0%, rgba(27, 28, 30, 0.07), transparent 55%);
-        opacity: 0.8;
+        background: radial-gradient(circle at 25% 10%, rgba(90, 100, 255, 0.2), transparent 35%),
+          radial-gradient(circle at 80% 0%, rgba(11, 18, 38, 0.08), transparent 60%);
+        opacity: 0.6;
         pointer-events: none;
       }
 
@@ -43,7 +45,7 @@
         width: min(1200px, calc(100vw - 32px));
         margin: 32px auto;
         padding: clamp(24px, 3vw, 40px);
-        background: var(--panel);
+        background: var(--panel-gradient);
         border-radius: 34px;
         border: 1px solid var(--border);
         box-shadow: var(--shadow);
@@ -52,7 +54,7 @@
       }
 
       .card {
-        background: var(--panel);
+        background: var(--panel-gradient);
         border: 1px solid var(--border);
         border-radius: 20px;
         box-shadow: 0 18px 42px rgba(17, 21, 32, 0.08);
@@ -181,9 +183,11 @@
       }
 
       .metric-value strong {
-        font-size: clamp(36px, 4vw, 60px);
-        font-weight: 600;
+        font-size: clamp(38px, 4.8vw, 64px);
+        font-weight: 700;
         line-height: 1;
+        color: var(--metric-highlight);
+        text-shadow: 0 4px 10px rgba(9, 12, 32, 0.1);
       }
 
       .metric-value span {
@@ -207,7 +211,9 @@
         gap: 20px;
         padding: 28px;
         border-radius: 26px;
-        box-shadow: 0 25px 60px rgba(9, 12, 20, 0.25);
+        background: linear-gradient(180deg, rgba(255, 255, 255, 0.95), rgba(236, 230, 255, 0.95));
+        box-shadow: 0 30px 70px rgba(9, 12, 20, 0.25);
+        backdrop-filter: blur(18px);
       }
 
       .preview-head {
