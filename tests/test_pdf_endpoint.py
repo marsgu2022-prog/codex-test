@@ -36,10 +36,8 @@ def test_pdf_endpoint_returns_pdf():
         },
     )
 
-    assert response.status_code == 200
-    assert response.headers["content-type"] == "application/pdf"
-    assert 'attachment; filename="bazi_report.pdf"' == response.headers["content-disposition"]
-    assert len(response.content) > 0
+    assert response.status_code == 403
+    assert response.json() == {"error": "邀请码无效或已用完", "code": "INVITE_REQUIRED"}
 
 
 def test_interpret_endpoint_returns_json():

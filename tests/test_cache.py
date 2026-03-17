@@ -15,6 +15,16 @@ SPEC.loader.exec_module(MODULE)
 client = TestClient(MODULE.app)
 
 
+def _login_admin() -> dict[str, str]:
+    response = client.post(
+        "/admin/login",
+        data={"admin_key": MODULE.ADMIN_INVITE_KEY},
+        follow_redirects=False,
+    )
+    cookie = response.cookies.get(MODULE.ADMIN_SESSION_COOKIE)
+    return {MODULE.ADMIN_SESSION_COOKIE: cookie}
+
+
 def test_interpret_cache_reuses_same_parameters():
     MODULE.clear_interpretation_cache()
     payload = {
@@ -46,9 +56,10 @@ def test_pdf_endpoint_uses_shared_interpretation_cache():
         "gender": "男",
         "city": "北京",
     }
+    cookies = _login_admin()
 
     interpret_response = client.post("/api/interpret", json=payload)
-    pdf_response = client.post("/api/report/pdf", json=payload)
+    pdf_response = client.post("/api/report/pdf", json=payload, cookies=cookies)
 
     assert interpret_response.status_code == 200
     assert pdf_response.status_code == 200

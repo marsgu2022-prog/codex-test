@@ -17,18 +17,9 @@ client = TestClient(MODULE.app)
 
 def test_rate_limit_blocks_requests_after_thirty_per_minute():
     MODULE.clear_rate_limit_store()
-    payload = {
-        "year": 1990,
-        "month": 7,
-        "day": 15,
-        "hour": 9,
-        "minute": 0,
-        "gender": "女",
-        "city": "上海",
-    }
     headers = {"X-Forwarded-For": "203.0.113.10"}
 
-    responses = [client.post("/api/interpret", json=payload, headers=headers) for _ in range(35)]
+    responses = [client.get("/api/health", headers=headers) for _ in range(35)]
 
     assert all(response.status_code == 200 for response in responses[:30])
     assert all(response.status_code == 429 for response in responses[30:])
