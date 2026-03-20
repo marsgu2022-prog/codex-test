@@ -1,32 +1,52 @@
 [
   {
-    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=A-Trak",
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Aa,_Jan_Simon_van_der",
     "stage": "detail",
-    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=A-Trak&action=raw (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))"
-  },
-  {
-    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=A._D._G.",
-    "stage": "detail",
-    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=A._D._G. (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))"
-  },
-  {
-    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=ATL,_Scotty",
-    "stage": "detail",
-    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=ATL,_Scotty (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))"
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Aa,_Jan_Simon_van_der (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))"
   },
   {
     "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Aabel,_Andreas",
     "stage": "detail",
-    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Aabel,_Andreas&action=raw (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))"
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Aabel,_Andreas (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))"
   },
   {
-    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Aadland,_Florence",
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Aafjes,_Bertus",
     "stage": "detail",
-    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Aadland,_Florence (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))"
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Aafjes,_Bertus (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))"
   },
   {
-    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Aafjes,_Sijtje",
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Aaliyah",
     "stage": "detail",
-    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Aafjes,_Sijtje (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))"
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Aaliyah&action=raw (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Aarflot,_Franzisca",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Aarflot,_Franzisca&action=raw (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Aaron,_Didier",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Aaron,_Didier (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Aaron,_Harold_Robert",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Aaron,_Harold_Robert&action=raw (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Aarts,_Johannes_Josephus",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Aarts,_Johannes_Josephus&action=raw (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Aas,_Arne",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Aas,_Arne&action=raw (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Aas,_K%C3%A5re",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Aas,_K%C3%A5re (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))"
   }
 ]

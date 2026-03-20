@@ -42,25 +42,47 @@
     "rodden_rating": "AA"
   },
   {
-    "name_en": "Jan Simon van der Aa",
+    "name_en": "A. D. G.",
     "name_zh": null,
-    "birth_date": "1865-07-25",
-    "birth_time": "00:30",
+    "birth_date": "1947-12-19",
+    "birth_time": "20:00",
     "birth_time_source": "astrodatabank_AA",
     "birth_time_reliability": "high",
-    "birth_city": "Hornhuizen",
-    "birth_country": "Netherlands",
+    "birth_city": "Tours",
+    "birth_country": "France",
     "gender": "male",
     "occupation": [
-      "政治家"
+      "作家"
     ],
-    "bio": "Dutch jurist, professor, and senior civil servant at the Ministry of Justice.",
+    "bio": "French novelist and journalist, who wrote under the pseudonym, A.",
     "notable_events": [],
     "source_urls": [
-      "https://www.astro.com/wiki/astro-databank/index.php?title=Aa,_Jan_Simon_van_der"
+      "https://www.astro.com/wiki/astro-databank/index.php?title=A._D._G."
     ],
     "data_quality_score": 0.95,
     "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Scotty ATL",
+    "name_zh": null,
+    "birth_date": "1985-01-15",
+    "birth_time": "08:25",
+    "birth_time_source": "astrodatabank_A",
+    "birth_time_reliability": "high",
+    "birth_city": "Atlanta",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "作家"
+    ],
+    "bio": "American Atlanta-based rapper, CEO of Cool Club, entrepreneur, songwriter, recor",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=ATL,_Scotty"
+    ],
+    "data_quality_score": 0.88,
+    "rodden_rating": "A"
   },
   {
     "name_en": "Per Aabel",
@@ -95,8 +117,8 @@
     "gender": "female",
     "occupation": [
       "企业家",
-      "作家",
-      "演员"
+      "演员",
+      "作家"
     ],
     "bio": "American news figure as the 15-year-old mistress of 31-year-older Errol Flynn wh",
     "notable_events": [],
@@ -159,13 +181,253 @@
     "birth_country": "Norway",
     "gender": "female",
     "occupation": [
-      "作家",
-      "演员"
+      "演员",
+      "作家"
     ],
     "bio": "Norwegian actress and playwright who was a member of the left-oriented theatre p",
     "notable_events": [],
     "source_urls": [
       "https://www.astro.com/wiki/astro-databank/index.php?title=Aakvik,_Liv"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Willie Aames",
+    "name_zh": null,
+    "birth_date": "1960-07-15",
+    "birth_time": "21:05",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Newport Beach",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "演员",
+      "作家"
+    ],
+    "bio": "American screen actor, film and television director, television producer, and sc",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Aames,_Willie"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Finn Aamodt",
+    "name_zh": null,
+    "birth_date": "1952-01-07",
+    "birth_time": "22:10",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Oslo",
+    "birth_country": "Norway",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "演员",
+      "运动员"
+    ],
+    "bio": "Norwegian sports coach and TV sports commentator who has been with Olympiatoppen",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Aamodt,_Finn"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Rune Aanderaa",
+    "name_zh": null,
+    "birth_date": "1959-06-04",
+    "birth_time": "20:25",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Oslo",
+    "birth_country": "Norway",
+    "gender": "male",
+    "occupation": [
+      "科学家",
+      "作家"
+    ],
+    "bio": "Norwegian biologist with a major in wood-dwelling fungi.",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Aanderaa,_Rune"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Dave Aaron",
+    "name_zh": null,
+    "birth_date": "1942-10-13",
+    "birth_time": "00:01",
+    "birth_time_source": "astrodatabank_A",
+    "birth_time_reliability": "high",
+    "birth_city": "Mount Clemens",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "演员",
+      "科学家"
+    ],
+    "bio": "American UFO researcher, owner of the largest inventory in the world of UFO vide",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Aaron,_Dave"
+    ],
+    "data_quality_score": 0.88,
+    "rodden_rating": "A"
+  },
+  {
+    "name_en": "Hank Aaron",
+    "name_zh": null,
+    "birth_date": "1934-02-05",
+    "birth_time": "20:25",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Mobile",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "American baseball right fielder, nicknamed \"Hammer\" or \"Hammerin' Hank,\" he was ",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Aaron,_Hank"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Jean-Claude Aaron",
+    "name_zh": null,
+    "birth_date": "1916-08-02",
+    "birth_time": "03:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Marseille",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "企业家"
+    ],
+    "bio": "French businessman, a builder and developer who organized the financing of the M",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Aaron,_Jean-Claude"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Anne Lise Aas",
+    "name_zh": null,
+    "birth_date": "1925-04-01",
+    "birth_time": "05:50",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Oslo",
+    "birth_country": "Norway",
+    "gender": "female",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "Norwegian interior designer who was active in promoting Norway's folk art and it",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Aas,_Anne_Lise"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Kenny Aas",
+    "name_zh": null,
+    "birth_date": "1947-06-18",
+    "birth_time": "08:40",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Oslo",
+    "birth_country": "Norway",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "Norwegian musician, keyboardist, organist, pianist, bassist, and songwriter who ",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Aas,_Kenny"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Roald Aas",
+    "name_zh": null,
+    "birth_date": "1928-03-25",
+    "birth_time": "10:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Oslo",
+    "birth_country": "Norway",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "运动员"
+    ],
+    "bio": "Norwegian speed skater and cyclist who won gold in the 1500 m event in the 1960 ",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Aas,_Roald"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Ulf Aas",
+    "name_zh": null,
+    "birth_date": "1919-09-14",
+    "birth_time": "11:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Oslo",
+    "birth_country": "Norway",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "Norwegian illustrator.",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Aas,_Ulf"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Kristin Kloster Aasen",
+    "name_zh": null,
+    "birth_date": "1961-01-04",
+    "birth_time": "18:20",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Oslo",
+    "birth_country": "Norway",
+    "gender": "female",
+    "occupation": [
+      "企业家",
+      "运动员"
+    ],
+    "bio": "Norwegian jurist and equestrienne who was elected onto the International Olympic",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Aasen,_Kristin_Kloster"
     ],
     "data_quality_score": 0.95,
     "rodden_rating": "AA"
