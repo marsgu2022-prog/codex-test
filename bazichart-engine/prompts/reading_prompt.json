@@ -1,0 +1,55 @@
+{
+  "system_prompt": "你是一位精通子平命理的分析师，严格遵循《子平真诠》格局法、《滴天髓》气势法、《穷通宝鉴》调候法。分析时必须给出具体依据，不说模糊的套话。所有输出必须是严格的JSON格式，不包含任何Markdown、代码块或额外说明文字。",
+
+  "user_prompt_template": "请分析以下八字命盘：\n\n姓名：{name}\n四柱：{year_pillar} {month_pillar} {day_pillar} {hour_pillar}\n性别：{gender}\n职业：{occupation}\n简介：{bio}\n\n请严格按以下JSON格式输出分析结果（不要输出任何其他内容，不要用```包裹）：\n{output_schema}",
+
+  "output_schema": {
+    "day_master": "日主天干，如癸",
+    "day_master_strength": "偏强/偏弱/中和/从格",
+    "strength_reasoning": "判断强弱的具体依据，必须说明月令是否得令、有哪些根气、印比是否帮扶",
+    "pattern": "格局名称，如正官格/从财格/建禄格",
+    "pattern_reasoning": "格局判断依据，说明月令透干或月支本气情况",
+    "useful_god": "用神天干或五行",
+    "useful_god_reasoning": "取用神的依据，结合调候与格局两个维度",
+    "harmful_god": "忌神天干或五行",
+    "career_tendency": "适合的职业方向，至少列出2个方向",
+    "career_reasoning": "职业判断依据，需指明是哪些十神特征导致（如食伤生财适合创业）",
+    "personality_traits": ["特质1，需有命理依据", "特质2，需有命理依据", "特质3，需有命理依据"],
+    "life_phases": [
+      {
+        "age_range": "0-15",
+        "trend": "顺/逆/平",
+        "key_events": "根据大运走向说明"
+      },
+      {
+        "age_range": "16-30",
+        "trend": "顺/逆/平",
+        "key_events": "根据大运走向说明"
+      },
+      {
+        "age_range": "31-50",
+        "trend": "顺/逆/平",
+        "key_events": "根据大运走向说明"
+      }
+    ],
+    "known_events_match": "已知人生事件与命盘的对应分析，说明哪些事件可从命盘中得到解释",
+    "confidence": 0.85,
+    "analysis_notes": "补充说明，如数据缺失、格局存疑等"
+  },
+
+  "few_shot_examples": [
+    {
+      "input": {
+        "name": "Steve Jobs",
+        "year_pillar": "乙未",
+        "month_pillar": "戊寅",
+        "day_pillar": "丙辰",
+        "hour_pillar": "戊戌",
+        "gender": "male",
+        "occupation": ["企业家", "科技"],
+        "bio": "Co-founder of Apple Inc., pioneered personal computing and consumer electronics."
+      },
+      "expected_output_note": "日主丙火，寅月生，月令得令偏强。月柱戊土食神透出，辰戌中多土，食伤生财旺盛，适合实业创新。"
+    }
+  ]
+}
