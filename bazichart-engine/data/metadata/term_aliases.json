@@ -1,0 +1,572 @@
+[
+  {
+    "standard_term": "比肩",
+    "aliases": [
+      "比劫之阳",
+      "同类帮身",
+      "兄弟星"
+    ],
+    "english": "Companion Star",
+    "category": "十神"
+  },
+  {
+    "standard_term": "劫财",
+    "aliases": [
+      "比劫之阴",
+      "同党夺财",
+      "竞争星"
+    ],
+    "english": "Rob Wealth",
+    "category": "十神"
+  },
+  {
+    "standard_term": "食神",
+    "aliases": [
+      "福星",
+      "寿星",
+      "温和输出"
+    ],
+    "english": "Eating God",
+    "category": "十神"
+  },
+  {
+    "standard_term": "伤官",
+    "aliases": [
+      "秀气外放",
+      "反骨星",
+      "才华锋芒"
+    ],
+    "english": "Hurting Officer",
+    "category": "十神"
+  },
+  {
+    "standard_term": "偏财",
+    "aliases": [
+      "横财",
+      "众人之财",
+      "流动资源"
+    ],
+    "english": "Indirect Wealth",
+    "category": "十神"
+  },
+  {
+    "standard_term": "正财",
+    "aliases": [
+      "妻财",
+      "稳定之财",
+      "经营之财"
+    ],
+    "english": "Direct Wealth",
+    "category": "十神"
+  },
+  {
+    "standard_term": "七杀",
+    "aliases": [
+      "偏官",
+      "鬼星",
+      "压力星"
+    ],
+    "english": "Seven Killings",
+    "category": "十神"
+  },
+  {
+    "standard_term": "正官",
+    "aliases": [
+      "官星",
+      "夫星",
+      "规范之星"
+    ],
+    "english": "Direct Officer",
+    "category": "十神"
+  },
+  {
+    "standard_term": "偏印",
+    "aliases": [
+      "枭神",
+      "倒食",
+      "非常规资源"
+    ],
+    "english": "Indirect Resource",
+    "category": "十神"
+  },
+  {
+    "standard_term": "正印",
+    "aliases": [
+      "印绶",
+      "贵人星",
+      "护身之印"
+    ],
+    "english": "Direct Resource",
+    "category": "十神"
+  },
+  {
+    "standard_term": "甲",
+    "aliases": [
+      "阳木",
+      "参天木",
+      "栋梁木"
+    ],
+    "english": "Jia Wood",
+    "category": "天干"
+  },
+  {
+    "standard_term": "乙",
+    "aliases": [
+      "阴木",
+      "花草木",
+      "藤萝木"
+    ],
+    "english": "Yi Wood",
+    "category": "天干"
+  },
+  {
+    "standard_term": "丙",
+    "aliases": [
+      "阳火",
+      "太阳火",
+      "文明之火"
+    ],
+    "english": "Bing Fire",
+    "category": "天干"
+  },
+  {
+    "standard_term": "丁",
+    "aliases": [
+      "阴火",
+      "灯烛火",
+      "人间烟火"
+    ],
+    "english": "Ding Fire",
+    "category": "天干"
+  },
+  {
+    "standard_term": "戊",
+    "aliases": [
+      "阳土",
+      "高山土",
+      "城墙土"
+    ],
+    "english": "Wu Earth",
+    "category": "天干"
+  },
+  {
+    "standard_term": "己",
+    "aliases": [
+      "阴土",
+      "田园土",
+      "湿润之土"
+    ],
+    "english": "Ji Earth",
+    "category": "天干"
+  },
+  {
+    "standard_term": "庚",
+    "aliases": [
+      "阳金",
+      "矿石金",
+      "斧钺金"
+    ],
+    "english": "Geng Metal",
+    "category": "天干"
+  },
+  {
+    "standard_term": "辛",
+    "aliases": [
+      "阴金",
+      "珠玉金",
+      "首饰金"
+    ],
+    "english": "Xin Metal",
+    "category": "天干"
+  },
+  {
+    "standard_term": "壬",
+    "aliases": [
+      "阳水",
+      "江海水",
+      "大河之水"
+    ],
+    "english": "Ren Water",
+    "category": "天干"
+  },
+  {
+    "standard_term": "癸",
+    "aliases": [
+      "阴水",
+      "雨露水",
+      "雾露之水"
+    ],
+    "english": "Gui Water",
+    "category": "天干"
+  },
+  {
+    "standard_term": "子",
+    "aliases": [
+      "鼠支",
+      "阳水之支",
+      "仲冬之支"
+    ],
+    "english": "Zi Rat",
+    "category": "地支"
+  },
+  {
+    "standard_term": "丑",
+    "aliases": [
+      "牛支",
+      "湿土之支",
+      "季冬之支"
+    ],
+    "english": "Chou Ox",
+    "category": "地支"
+  },
+  {
+    "standard_term": "寅",
+    "aliases": [
+      "虎支",
+      "阳木之支",
+      "孟春之支"
+    ],
+    "english": "Yin Tiger",
+    "category": "地支"
+  },
+  {
+    "standard_term": "卯",
+    "aliases": [
+      "兔支",
+      "阴木之支",
+      "仲春之支"
+    ],
+    "english": "Mao Rabbit",
+    "category": "地支"
+  },
+  {
+    "standard_term": "辰",
+    "aliases": [
+      "龙支",
+      "湿土库",
+      "季春之支"
+    ],
+    "english": "Chen Dragon",
+    "category": "地支"
+  },
+  {
+    "standard_term": "巳",
+    "aliases": [
+      "蛇支",
+      "阴火之支",
+      "孟夏之支"
+    ],
+    "english": "Si Snake",
+    "category": "地支"
+  },
+  {
+    "standard_term": "午",
+    "aliases": [
+      "马支",
+      "阳火之支",
+      "仲夏之支"
+    ],
+    "english": "Wu Horse",
+    "category": "地支"
+  },
+  {
+    "standard_term": "未",
+    "aliases": [
+      "羊支",
+      "燥土之支",
+      "季夏之支"
+    ],
+    "english": "Wei Goat",
+    "category": "地支"
+  },
+  {
+    "standard_term": "申",
+    "aliases": [
+      "猴支",
+      "阳金之支",
+      "孟秋之支"
+    ],
+    "english": "Shen Monkey",
+    "category": "地支"
+  },
+  {
+    "standard_term": "酉",
+    "aliases": [
+      "鸡支",
+      "阴金之支",
+      "仲秋之支"
+    ],
+    "english": "You Rooster",
+    "category": "地支"
+  },
+  {
+    "standard_term": "戌",
+    "aliases": [
+      "狗支",
+      "燥土库",
+      "季秋之支"
+    ],
+    "english": "Xu Dog",
+    "category": "地支"
+  },
+  {
+    "standard_term": "亥",
+    "aliases": [
+      "猪支",
+      "阴水之支",
+      "孟冬之支"
+    ],
+    "english": "Hai Pig",
+    "category": "地支"
+  },
+  {
+    "standard_term": "木",
+    "aliases": [
+      "曲直",
+      "生发之气",
+      "仁"
+    ],
+    "english": "Wood",
+    "category": "五行"
+  },
+  {
+    "standard_term": "火",
+    "aliases": [
+      "炎上",
+      "文明之气",
+      "礼"
+    ],
+    "english": "Fire",
+    "category": "五行"
+  },
+  {
+    "standard_term": "土",
+    "aliases": [
+      "稼穑",
+      "承载之气",
+      "信"
+    ],
+    "english": "Earth",
+    "category": "五行"
+  },
+  {
+    "standard_term": "金",
+    "aliases": [
+      "从革",
+      "肃杀之气",
+      "义"
+    ],
+    "english": "Metal",
+    "category": "五行"
+  },
+  {
+    "standard_term": "水",
+    "aliases": [
+      "润下",
+      "流通之气",
+      "智"
+    ],
+    "english": "Water",
+    "category": "五行"
+  },
+  {
+    "standard_term": "正官格",
+    "aliases": [
+      "官格",
+      "官星格",
+      "官清格"
+    ],
+    "english": "Direct Officer Structure",
+    "category": "格局"
+  },
+  {
+    "standard_term": "七杀格",
+    "aliases": [
+      "偏官格",
+      "杀格",
+      "七煞格"
+    ],
+    "english": "Seven Killings Structure",
+    "category": "格局"
+  },
+  {
+    "standard_term": "正财格",
+    "aliases": [
+      "财格",
+      "财星格",
+      "正财局"
+    ],
+    "english": "Direct Wealth Structure",
+    "category": "格局"
+  },
+  {
+    "standard_term": "偏财格",
+    "aliases": [
+      "偏财局",
+      "横财格",
+      "众财格"
+    ],
+    "english": "Indirect Wealth Structure",
+    "category": "格局"
+  },
+  {
+    "standard_term": "食神格",
+    "aliases": [
+      "食神局",
+      "福神格",
+      "食神生财格"
+    ],
+    "english": "Eating God Structure",
+    "category": "格局"
+  },
+  {
+    "standard_term": "伤官格",
+    "aliases": [
+      "伤官局",
+      "秀气格",
+      "伤官生财格"
+    ],
+    "english": "Hurting Officer Structure",
+    "category": "格局"
+  },
+  {
+    "standard_term": "正印格",
+    "aliases": [
+      "印格",
+      "印绶格",
+      "印星格"
+    ],
+    "english": "Direct Resource Structure",
+    "category": "格局"
+  },
+  {
+    "standard_term": "偏印格",
+    "aliases": [
+      "枭印格",
+      "偏印局",
+      "枭神格"
+    ],
+    "english": "Indirect Resource Structure",
+    "category": "格局"
+  },
+  {
+    "standard_term": "建禄格",
+    "aliases": [
+      "禄格",
+      "临官格",
+      "建禄局"
+    ],
+    "english": "Jianlu Structure",
+    "category": "格局"
+  },
+  {
+    "standard_term": "月刃格",
+    "aliases": [
+      "羊刃格",
+      "刃格",
+      "月劫格"
+    ],
+    "english": "Yang Blade Structure",
+    "category": "格局"
+  },
+  {
+    "standard_term": "从强格",
+    "aliases": [
+      "从旺格",
+      "专旺格",
+      "顺旺格"
+    ],
+    "english": "Follow Strong Structure",
+    "category": "格局"
+  },
+  {
+    "standard_term": "从弱格",
+    "aliases": [
+      "从势格",
+      "弃命格",
+      "顺弱格"
+    ],
+    "english": "Follow Weak Structure",
+    "category": "格局"
+  },
+  {
+    "standard_term": "从财格",
+    "aliases": [
+      "弃命从财",
+      "从财局",
+      "财势格"
+    ],
+    "english": "Follow Wealth Structure",
+    "category": "格局"
+  },
+  {
+    "standard_term": "从杀格",
+    "aliases": [
+      "从官杀格",
+      "从煞格",
+      "弃命从杀"
+    ],
+    "english": "Follow Killing Structure",
+    "category": "格局"
+  },
+  {
+    "standard_term": "化气格",
+    "aliases": [
+      "化神格",
+      "五合化气格",
+      "化象格"
+    ],
+    "english": "Transformation Structure",
+    "category": "格局"
+  },
+  {
+    "standard_term": "杀印相生格",
+    "aliases": [
+      "官杀印格",
+      "杀印格",
+      "七杀配印"
+    ],
+    "english": "Killing and Resource Structure",
+    "category": "格局"
+  },
+  {
+    "standard_term": "食神制杀格",
+    "aliases": [
+      "食制杀格",
+      "食神驾杀",
+      "食神伏杀"
+    ],
+    "english": "Eating God Controls Killing Structure",
+    "category": "格局"
+  },
+  {
+    "standard_term": "伤官佩印格",
+    "aliases": [
+      "伤官配印",
+      "佩印格",
+      "伤官用印"
+    ],
+    "english": "Hurting Officer with Resource Structure",
+    "category": "格局"
+  },
+  {
+    "standard_term": "财官双美格",
+    "aliases": [
+      "财官格",
+      "财官两全",
+      "财官相生格"
+    ],
+    "english": "Wealth and Officer Structure",
+    "category": "格局"
+  },
+  {
+    "standard_term": "金水伤官格",
+    "aliases": [
+      "金白水清格",
+      "金水秀气格",
+      "金水伤官局"
+    ],
+    "english": "Metal-Water Hurting Officer Structure",
+    "category": "格局"
+  }
+]
