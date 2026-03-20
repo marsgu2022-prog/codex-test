@@ -1,0 +1,155 @@
+{
+  "framework_name": "千隆问屈解读框架",
+  "source": "江相派英耀篇/审敲打千隆卖六字诀",
+  "purpose": "提升八字解读的用户体验和可信度，不是欺骗而是优化表达方式",
+  "six_steps": [
+    {
+      "step": "审",
+      "chinese_name": "审",
+      "english_name": "observe",
+      "principle": "察颜观色，审时度势，根据八字特征推断用户可能的处境和性格",
+      "bazi_application": "根据日主强弱、十神分布、格局类型推断用户的性格特征和大概率人生经历",
+      "example_triggers": [
+        {
+          "condition": "日主偏弱+官杀重",
+          "inference": "长期承受压力，事业中常感力不从心"
+        },
+        {
+          "condition": "伤官旺+无财泄",
+          "inference": "才华横溢但不善变现，常被误解"
+        },
+        {
+          "condition": "比劫重+财弱",
+          "inference": "朋友多但财运波折，容易为他人付出"
+        },
+        {
+          "condition": "食神制杀成格",
+          "inference": "早年辛苦但有转化能力，大器晚成"
+        },
+        {
+          "condition": "印星太旺",
+          "inference": "想太多做太少，容易被保护过度"
+        }
+      ]
+    },
+    {
+      "step": "千",
+      "chinese_name": "千",
+      "english_name": "strike",
+      "principle": "击中要害，点出过去的困境或当前的卡点，建立权威感和信任",
+      "bazi_application": "用大运流年分析找到用户过去的低谷期，结合十神断事推断可能的具体事件",
+      "technique": "不说模糊的废话，要具体到时间段和事件类型",
+      "example_phrases": [
+        "你在{低运年份}前后是不是经历了一次比较大的{事件类型}？",
+        "你从{起运}到{大运结束}这几年，是不是感觉怎么努力都突破不了？",
+        "你身边是不是有一个关系很近的人，反而给你带来了不少困扰？"
+      ],
+      "psychology": "巴纳姆效应+确认偏误，人会主动匹配模糊描述到自己的经历"
+    },
+    {
+      "step": "隆",
+      "chinese_name": "隆",
+      "english_name": "uplift",
+      "principle": "千之后必须隆，抚慰对方，描绘未来转折，给予希望和力量",
+      "bazi_application": "用大运流年分析找到未来的高运期，结合用神方向给出积极预测",
+      "technique": "隆要具体不要空洞，给出时间节点和方向",
+      "example_phrases": [
+        "但从{高运起始}开始，你的运势会有一个明显的转折",
+        "你命盘里其实藏着一个很好的结构，只是还没到发力的时候",
+        "从五行来看，你往{用神方位}方向发展会特别顺"
+      ],
+      "psychology": "希望效应+自我实现预言，积极暗示会影响人的行为选择"
+    },
+    {
+      "step": "问",
+      "chinese_name": "问",
+      "english_name": "probe",
+      "principle": "通过提问获取更多信息，验证判断，加深互动",
+      "bazi_application": "在解读中穿插引导性问题，让用户自己补充细节",
+      "example_phrases": [
+        "你目前是在从事{推断行业}相关的工作吗？",
+        "家里排行是不是{推断排行}？",
+        "最近是不是在考虑一个比较大的决定？"
+      ]
+    },
+    {
+      "step": "屈",
+      "chinese_name": "屈",
+      "english_name": "anchor",
+      "principle": "用专业术语和确定性语气锚定权威感，让用户信服",
+      "bazi_application": "适当使用八字专业术语但立刻翻译成白话，显示专业度的同时保持亲和",
+      "example_phrases": [
+        "你的命盘是一个典型的{格局名}，这种格局的人...",
+        "从十神来看你的{十神}特别突出，这意味着...",
+        "你的用神是{用神}，简单说就是{白话解释}"
+      ]
+    },
+    {
+      "step": "卖",
+      "chinese_name": "卖",
+      "english_name": "deliver",
+      "principle": "给出具体可操作的建议，让用户带着希望和方向离开",
+      "bazi_application": "基于用神给出实际建议：方位、颜色、行业、关键时间点",
+      "example_output": [
+        "开运方位：{用神方位}，有条件的话办公桌朝这个方向",
+        "有利颜色：{用神颜色}，日常穿搭可以多用",
+        "关键年份：{流年}年要特别把握机会",
+        "适合行业：{五行对应行业}"
+      ]
+    }
+  ],
+  "psychological_principles": [
+    {
+      "name": "巴纳姆效应",
+      "english": "Barnum Effect",
+      "description": "人们倾向于认为笼统的人格描述精确地描述了自己",
+      "application": "用八字特征生成看似精确实则有一定普适性的描述"
+    },
+    {
+      "name": "确认偏误",
+      "english": "Confirmation Bias",
+      "description": "人们倾向于寻找和记住与自己信念一致的信息",
+      "application": "千的时候说多个可能性，用户会自动匹配中的那个并忽略不中的"
+    },
+    {
+      "name": "锚定效应",
+      "english": "Anchoring Effect",
+      "description": "先给出的信息会影响后续判断",
+      "application": "先千再隆，低谷作为锚点让后面的好运显得更有价值"
+    },
+    {
+      "name": "自我实现预言",
+      "english": "Self-fulfilling Prophecy",
+      "description": "积极的预期会引导人做出积极的行为",
+      "application": "隆给出的方向如果合理，用户会不自觉地朝那个方向努力"
+    },
+    {
+      "name": "冷读术",
+      "english": "Cold Reading",
+      "description": "通过观察和通用描述让对方以为你了解他",
+      "application": "八字特征天然适合冷读，十神组合对应性格几乎是内置的冷读模板"
+    },
+    {
+      "name": "热读术",
+      "english": "Hot Reading",
+      "description": "事先获取信息再假装现场推断",
+      "application": "用户填写的出生信息+职业+性别本身就是热读素材"
+    }
+  ],
+  "report_structure_template": {
+    "opening": "审——根据命盘特征描述用户性格，让用户觉得'他懂我'",
+    "pain_point": "千——点出过去或当前的困境，建立信任",
+    "transition": "转折句，从过去转向未来",
+    "hope": "隆——描绘未来转折和机遇",
+    "detail": "屈——用专业分析支撑结论",
+    "action": "卖——给出具体建议和方向",
+    "closing": "总结性的鼓励，留下回味"
+  },
+  "golden_rules": [
+    "无千不响，无隆不成——不点痛处就没有信任基础",
+    "先千后隆，无往不利——顺序不能反",
+    "千要准，隆要实——千不准就没权威，隆太虚就没价值",
+    "十千九响，十隆九成——掌握了就几乎百发百中",
+    "千隆比例3:7——痛点点到为止，大部分篇幅给希望"
+  ]
+}
