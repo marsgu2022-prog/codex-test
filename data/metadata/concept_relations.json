@@ -1,0 +1,870 @@
+[
+  {
+    "concept_a": "甲",
+    "relation": "属",
+    "concept_b": "木",
+    "context": "十天干五行归属",
+    "implication": "甲按木处理五行气势"
+  },
+  {
+    "concept_a": "甲",
+    "relation": "为",
+    "concept_b": "阳干",
+    "context": "十天干阴阳归属",
+    "implication": "甲带有阳性表达"
+  },
+  {
+    "concept_a": "乙",
+    "relation": "属",
+    "concept_b": "木",
+    "context": "十天干五行归属",
+    "implication": "乙按木处理五行气势"
+  },
+  {
+    "concept_a": "乙",
+    "relation": "为",
+    "concept_b": "阴干",
+    "context": "十天干阴阳归属",
+    "implication": "乙带有阴性表达"
+  },
+  {
+    "concept_a": "丙",
+    "relation": "属",
+    "concept_b": "火",
+    "context": "十天干五行归属",
+    "implication": "丙按火处理五行气势"
+  },
+  {
+    "concept_a": "丙",
+    "relation": "为",
+    "concept_b": "阳干",
+    "context": "十天干阴阳归属",
+    "implication": "丙带有阳性表达"
+  },
+  {
+    "concept_a": "丁",
+    "relation": "属",
+    "concept_b": "火",
+    "context": "十天干五行归属",
+    "implication": "丁按火处理五行气势"
+  },
+  {
+    "concept_a": "丁",
+    "relation": "为",
+    "concept_b": "阴干",
+    "context": "十天干阴阳归属",
+    "implication": "丁带有阴性表达"
+  },
+  {
+    "concept_a": "戊",
+    "relation": "属",
+    "concept_b": "土",
+    "context": "十天干五行归属",
+    "implication": "戊按土处理五行气势"
+  },
+  {
+    "concept_a": "戊",
+    "relation": "为",
+    "concept_b": "阳干",
+    "context": "十天干阴阳归属",
+    "implication": "戊带有阳性表达"
+  },
+  {
+    "concept_a": "己",
+    "relation": "属",
+    "concept_b": "土",
+    "context": "十天干五行归属",
+    "implication": "己按土处理五行气势"
+  },
+  {
+    "concept_a": "己",
+    "relation": "为",
+    "concept_b": "阴干",
+    "context": "十天干阴阳归属",
+    "implication": "己带有阴性表达"
+  },
+  {
+    "concept_a": "庚",
+    "relation": "属",
+    "concept_b": "金",
+    "context": "十天干五行归属",
+    "implication": "庚按金处理五行气势"
+  },
+  {
+    "concept_a": "庚",
+    "relation": "为",
+    "concept_b": "阳干",
+    "context": "十天干阴阳归属",
+    "implication": "庚带有阳性表达"
+  },
+  {
+    "concept_a": "辛",
+    "relation": "属",
+    "concept_b": "金",
+    "context": "十天干五行归属",
+    "implication": "辛按金处理五行气势"
+  },
+  {
+    "concept_a": "辛",
+    "relation": "为",
+    "concept_b": "阴干",
+    "context": "十天干阴阳归属",
+    "implication": "辛带有阴性表达"
+  },
+  {
+    "concept_a": "壬",
+    "relation": "属",
+    "concept_b": "水",
+    "context": "十天干五行归属",
+    "implication": "壬按水处理五行气势"
+  },
+  {
+    "concept_a": "壬",
+    "relation": "为",
+    "concept_b": "阳干",
+    "context": "十天干阴阳归属",
+    "implication": "壬带有阳性表达"
+  },
+  {
+    "concept_a": "癸",
+    "relation": "属",
+    "concept_b": "水",
+    "context": "十天干五行归属",
+    "implication": "癸按水处理五行气势"
+  },
+  {
+    "concept_a": "癸",
+    "relation": "为",
+    "concept_b": "阴干",
+    "context": "十天干阴阳归属",
+    "implication": "癸带有阴性表达"
+  },
+  {
+    "concept_a": "子",
+    "relation": "属",
+    "concept_b": "水",
+    "context": "十二地支五行归属",
+    "implication": "子按水看地支主气"
+  },
+  {
+    "concept_a": "子",
+    "relation": "藏",
+    "concept_b": "癸",
+    "context": "地支藏干",
+    "implication": "子内含癸之气"
+  },
+  {
+    "concept_a": "丑",
+    "relation": "属",
+    "concept_b": "土",
+    "context": "十二地支五行归属",
+    "implication": "丑按土看地支主气"
+  },
+  {
+    "concept_a": "丑",
+    "relation": "藏",
+    "concept_b": "己",
+    "context": "地支藏干",
+    "implication": "丑内含己之气"
+  },
+  {
+    "concept_a": "丑",
+    "relation": "藏",
+    "concept_b": "癸",
+    "context": "地支藏干",
+    "implication": "丑内含癸之气"
+  },
+  {
+    "concept_a": "丑",
+    "relation": "藏",
+    "concept_b": "辛",
+    "context": "地支藏干",
+    "implication": "丑内含辛之气"
+  },
+  {
+    "concept_a": "寅",
+    "relation": "属",
+    "concept_b": "木",
+    "context": "十二地支五行归属",
+    "implication": "寅按木看地支主气"
+  },
+  {
+    "concept_a": "寅",
+    "relation": "藏",
+    "concept_b": "甲",
+    "context": "地支藏干",
+    "implication": "寅内含甲之气"
+  },
+  {
+    "concept_a": "寅",
+    "relation": "藏",
+    "concept_b": "丙",
+    "context": "地支藏干",
+    "implication": "寅内含丙之气"
+  },
+  {
+    "concept_a": "寅",
+    "relation": "藏",
+    "concept_b": "戊",
+    "context": "地支藏干",
+    "implication": "寅内含戊之气"
+  },
+  {
+    "concept_a": "卯",
+    "relation": "属",
+    "concept_b": "木",
+    "context": "十二地支五行归属",
+    "implication": "卯按木看地支主气"
+  },
+  {
+    "concept_a": "卯",
+    "relation": "藏",
+    "concept_b": "乙",
+    "context": "地支藏干",
+    "implication": "卯内含乙之气"
+  },
+  {
+    "concept_a": "辰",
+    "relation": "属",
+    "concept_b": "土",
+    "context": "十二地支五行归属",
+    "implication": "辰按土看地支主气"
+  },
+  {
+    "concept_a": "辰",
+    "relation": "藏",
+    "concept_b": "戊",
+    "context": "地支藏干",
+    "implication": "辰内含戊之气"
+  },
+  {
+    "concept_a": "辰",
+    "relation": "藏",
+    "concept_b": "乙",
+    "context": "地支藏干",
+    "implication": "辰内含乙之气"
+  },
+  {
+    "concept_a": "辰",
+    "relation": "藏",
+    "concept_b": "癸",
+    "context": "地支藏干",
+    "implication": "辰内含癸之气"
+  },
+  {
+    "concept_a": "巳",
+    "relation": "属",
+    "concept_b": "火",
+    "context": "十二地支五行归属",
+    "implication": "巳按火看地支主气"
+  },
+  {
+    "concept_a": "巳",
+    "relation": "藏",
+    "concept_b": "丙",
+    "context": "地支藏干",
+    "implication": "巳内含丙之气"
+  },
+  {
+    "concept_a": "巳",
+    "relation": "藏",
+    "concept_b": "戊",
+    "context": "地支藏干",
+    "implication": "巳内含戊之气"
+  },
+  {
+    "concept_a": "巳",
+    "relation": "藏",
+    "concept_b": "庚",
+    "context": "地支藏干",
+    "implication": "巳内含庚之气"
+  },
+  {
+    "concept_a": "午",
+    "relation": "属",
+    "concept_b": "火",
+    "context": "十二地支五行归属",
+    "implication": "午按火看地支主气"
+  },
+  {
+    "concept_a": "午",
+    "relation": "藏",
+    "concept_b": "丁",
+    "context": "地支藏干",
+    "implication": "午内含丁之气"
+  },
+  {
+    "concept_a": "午",
+    "relation": "藏",
+    "concept_b": "己",
+    "context": "地支藏干",
+    "implication": "午内含己之气"
+  },
+  {
+    "concept_a": "未",
+    "relation": "属",
+    "concept_b": "土",
+    "context": "十二地支五行归属",
+    "implication": "未按土看地支主气"
+  },
+  {
+    "concept_a": "未",
+    "relation": "藏",
+    "concept_b": "己",
+    "context": "地支藏干",
+    "implication": "未内含己之气"
+  },
+  {
+    "concept_a": "未",
+    "relation": "藏",
+    "concept_b": "丁",
+    "context": "地支藏干",
+    "implication": "未内含丁之气"
+  },
+  {
+    "concept_a": "未",
+    "relation": "藏",
+    "concept_b": "乙",
+    "context": "地支藏干",
+    "implication": "未内含乙之气"
+  },
+  {
+    "concept_a": "申",
+    "relation": "属",
+    "concept_b": "金",
+    "context": "十二地支五行归属",
+    "implication": "申按金看地支主气"
+  },
+  {
+    "concept_a": "申",
+    "relation": "藏",
+    "concept_b": "庚",
+    "context": "地支藏干",
+    "implication": "申内含庚之气"
+  },
+  {
+    "concept_a": "申",
+    "relation": "藏",
+    "concept_b": "壬",
+    "context": "地支藏干",
+    "implication": "申内含壬之气"
+  },
+  {
+    "concept_a": "申",
+    "relation": "藏",
+    "concept_b": "戊",
+    "context": "地支藏干",
+    "implication": "申内含戊之气"
+  },
+  {
+    "concept_a": "酉",
+    "relation": "属",
+    "concept_b": "金",
+    "context": "十二地支五行归属",
+    "implication": "酉按金看地支主气"
+  },
+  {
+    "concept_a": "酉",
+    "relation": "藏",
+    "concept_b": "辛",
+    "context": "地支藏干",
+    "implication": "酉内含辛之气"
+  },
+  {
+    "concept_a": "戌",
+    "relation": "属",
+    "concept_b": "土",
+    "context": "十二地支五行归属",
+    "implication": "戌按土看地支主气"
+  },
+  {
+    "concept_a": "戌",
+    "relation": "藏",
+    "concept_b": "戊",
+    "context": "地支藏干",
+    "implication": "戌内含戊之气"
+  },
+  {
+    "concept_a": "戌",
+    "relation": "藏",
+    "concept_b": "辛",
+    "context": "地支藏干",
+    "implication": "戌内含辛之气"
+  },
+  {
+    "concept_a": "戌",
+    "relation": "藏",
+    "concept_b": "丁",
+    "context": "地支藏干",
+    "implication": "戌内含丁之气"
+  },
+  {
+    "concept_a": "亥",
+    "relation": "属",
+    "concept_b": "水",
+    "context": "十二地支五行归属",
+    "implication": "亥按水看地支主气"
+  },
+  {
+    "concept_a": "亥",
+    "relation": "藏",
+    "concept_b": "壬",
+    "context": "地支藏干",
+    "implication": "亥内含壬之气"
+  },
+  {
+    "concept_a": "亥",
+    "relation": "藏",
+    "concept_b": "甲",
+    "context": "地支藏干",
+    "implication": "亥内含甲之气"
+  },
+  {
+    "concept_a": "生我者",
+    "relation": "定义为",
+    "concept_b": "正印",
+    "context": "十神判定",
+    "implication": "生我者且为异性时取正印"
+  },
+  {
+    "concept_a": "生我者",
+    "relation": "定义为",
+    "concept_b": "偏印",
+    "context": "十神判定",
+    "implication": "生我者且为同性时取偏印"
+  },
+  {
+    "concept_a": "我生者",
+    "relation": "定义为",
+    "concept_b": "伤官",
+    "context": "十神判定",
+    "implication": "我生者且为异性时取伤官"
+  },
+  {
+    "concept_a": "我生者",
+    "relation": "定义为",
+    "concept_b": "食神",
+    "context": "十神判定",
+    "implication": "我生者且为同性时取食神"
+  },
+  {
+    "concept_a": "克我者",
+    "relation": "定义为",
+    "concept_b": "正官",
+    "context": "十神判定",
+    "implication": "克我者且为异性时取正官"
+  },
+  {
+    "concept_a": "克我者",
+    "relation": "定义为",
+    "concept_b": "七杀",
+    "context": "十神判定",
+    "implication": "克我者且为同性时取七杀"
+  },
+  {
+    "concept_a": "我克者",
+    "relation": "定义为",
+    "concept_b": "正财",
+    "context": "十神判定",
+    "implication": "我克者且为异性时取正财"
+  },
+  {
+    "concept_a": "我克者",
+    "relation": "定义为",
+    "concept_b": "偏财",
+    "context": "十神判定",
+    "implication": "我克者且为同性时取偏财"
+  },
+  {
+    "concept_a": "同我者",
+    "relation": "定义为",
+    "concept_b": "劫财",
+    "context": "十神判定",
+    "implication": "同我者且为异性时取劫财"
+  },
+  {
+    "concept_a": "同我者",
+    "relation": "定义为",
+    "concept_b": "比肩",
+    "context": "十神判定",
+    "implication": "同我者且为同性时取比肩"
+  },
+  {
+    "concept_a": "比肩",
+    "relation": "对应",
+    "concept_b": "独立、自尊、固执、竞争",
+    "context": "十神性格特征",
+    "implication": "比肩常引出独立、自尊、固执、竞争"
+  },
+  {
+    "concept_a": "劫财",
+    "relation": "对应",
+    "concept_b": "果断、冲动、好胜、交际广",
+    "context": "十神性格特征",
+    "implication": "劫财常引出果断、冲动、好胜、交际广"
+  },
+  {
+    "concept_a": "食神",
+    "relation": "对应",
+    "concept_b": "温和、懒散、有口福、艺术感",
+    "context": "十神性格特征",
+    "implication": "食神常引出温和、懒散、有口福、艺术感"
+  },
+  {
+    "concept_a": "伤官",
+    "relation": "对应",
+    "concept_b": "聪明、叛逆、口才好、不服管",
+    "context": "十神性格特征",
+    "implication": "伤官常引出聪明、叛逆、口才好、不服管"
+  },
+  {
+    "concept_a": "偏财",
+    "relation": "对应",
+    "concept_b": "慷慨、风流、投机、人缘好",
+    "context": "十神性格特征",
+    "implication": "偏财常引出慷慨、风流、投机、人缘好"
+  },
+  {
+    "concept_a": "正财",
+    "relation": "对应",
+    "concept_b": "务实、节俭、重承诺、保守",
+    "context": "十神性格特征",
+    "implication": "正财常引出务实、节俭、重承诺、保守"
+  },
+  {
+    "concept_a": "七杀",
+    "relation": "对应",
+    "concept_b": "魄力、压力、军警气质、刚烈",
+    "context": "十神性格特征",
+    "implication": "七杀常引出魄力、压力、军警气质、刚烈"
+  },
+  {
+    "concept_a": "正官",
+    "relation": "对应",
+    "concept_b": "守规矩、有责任感、谨慎、官运",
+    "context": "十神性格特征",
+    "implication": "正官常引出守规矩、有责任感、谨慎、官运"
+  },
+  {
+    "concept_a": "偏印",
+    "relation": "对应",
+    "concept_b": "孤僻、钻研、直觉强、不稳定",
+    "context": "十神性格特征",
+    "implication": "偏印常引出孤僻、钻研、直觉强、不稳定"
+  },
+  {
+    "concept_a": "正印",
+    "relation": "对应",
+    "concept_b": "善良、包容、学历好、依赖性",
+    "context": "十神性格特征",
+    "implication": "正印常引出善良、包容、学历好、依赖性"
+  },
+  {
+    "concept_a": "木",
+    "relation": "生",
+    "concept_b": "火",
+    "context": "木火通明",
+    "implication": "木气得火而发，利表达与名声"
+  },
+  {
+    "concept_a": "火",
+    "relation": "生",
+    "concept_b": "土",
+    "context": "火土相生",
+    "implication": "火势化土，利落地与承载"
+  },
+  {
+    "concept_a": "土",
+    "relation": "生",
+    "concept_b": "金",
+    "context": "土金相生",
+    "implication": "土厚能生金，利资源沉淀"
+  },
+  {
+    "concept_a": "金",
+    "relation": "生",
+    "concept_b": "水",
+    "context": "金白水清",
+    "implication": "金气肃清，利思维与流动"
+  },
+  {
+    "concept_a": "水",
+    "relation": "生",
+    "concept_b": "木",
+    "context": "水木相涵",
+    "implication": "水润木荣，利学习与生发"
+  },
+  {
+    "concept_a": "木",
+    "relation": "克",
+    "concept_b": "土",
+    "context": "木土相制",
+    "implication": "木旺时能疏土，化呆滞为生机"
+  },
+  {
+    "concept_a": "土",
+    "relation": "克",
+    "concept_b": "水",
+    "context": "土水相制",
+    "implication": "土旺可制水泛，利稳定"
+  },
+  {
+    "concept_a": "水",
+    "relation": "克",
+    "concept_b": "火",
+    "context": "水火既济",
+    "implication": "水盛能制火烈，也易形成冲突"
+  },
+  {
+    "concept_a": "火",
+    "relation": "克",
+    "concept_b": "金",
+    "context": "火炼真金",
+    "implication": "火克金时常见压力下成器"
+  },
+  {
+    "concept_a": "金",
+    "relation": "克",
+    "concept_b": "木",
+    "context": "金木交战",
+    "implication": "金旺克木，利修剪也易伤生机"
+  },
+  {
+    "concept_a": "甲",
+    "relation": "合",
+    "concept_b": "己",
+    "context": "天干五合",
+    "implication": "甲己合多主协调、合作与转化"
+  },
+  {
+    "concept_a": "乙",
+    "relation": "合",
+    "concept_b": "庚",
+    "context": "天干五合",
+    "implication": "乙庚合常见资源与规则结合"
+  },
+  {
+    "concept_a": "丙",
+    "relation": "合",
+    "concept_b": "辛",
+    "context": "天干五合",
+    "implication": "丙辛合多主表达与秩序相逢"
+  },
+  {
+    "concept_a": "丁",
+    "relation": "合",
+    "concept_b": "壬",
+    "context": "天干五合",
+    "implication": "丁壬合常见情感与思维互动"
+  },
+  {
+    "concept_a": "戊",
+    "relation": "合",
+    "concept_b": "癸",
+    "context": "天干五合",
+    "implication": "戊癸合多主现实与智慧相接"
+  },
+  {
+    "concept_a": "子",
+    "relation": "合",
+    "concept_b": "丑",
+    "context": "地支六合",
+    "implication": "子丑合多主关系缓和与资源聚拢"
+  },
+  {
+    "concept_a": "寅",
+    "relation": "合",
+    "concept_b": "亥",
+    "context": "地支六合",
+    "implication": "寅亥合利学习、成长与远行"
+  },
+  {
+    "concept_a": "卯",
+    "relation": "合",
+    "concept_b": "戌",
+    "context": "地支六合",
+    "implication": "卯戌合利名誉与合作"
+  },
+  {
+    "concept_a": "辰",
+    "relation": "合",
+    "concept_b": "酉",
+    "context": "地支六合",
+    "implication": "辰酉合多主事务整合"
+  },
+  {
+    "concept_a": "巳",
+    "relation": "合",
+    "concept_b": "申",
+    "context": "地支六合",
+    "implication": "巳申合多主变动与执行"
+  },
+  {
+    "concept_a": "午",
+    "relation": "合",
+    "concept_b": "未",
+    "context": "地支六合",
+    "implication": "午未合多主人情与缓冲"
+  },
+  {
+    "concept_a": "子",
+    "relation": "冲",
+    "concept_b": "午",
+    "context": "地支六冲",
+    "implication": "子午冲多主情绪、居所或节奏变动"
+  },
+  {
+    "concept_a": "丑",
+    "relation": "冲",
+    "concept_b": "未",
+    "context": "地支六冲",
+    "implication": "丑未冲多主家庭、地产或脾胃议题"
+  },
+  {
+    "concept_a": "寅",
+    "relation": "冲",
+    "concept_b": "申",
+    "context": "地支六冲",
+    "implication": "寅申冲多主事业、人际或迁移起伏"
+  },
+  {
+    "concept_a": "卯",
+    "relation": "冲",
+    "concept_b": "酉",
+    "context": "地支六冲",
+    "implication": "卯酉冲多主关系、审美或合作波动"
+  },
+  {
+    "concept_a": "辰",
+    "relation": "冲",
+    "concept_b": "戌",
+    "context": "地支六冲",
+    "implication": "辰戌冲多主结构重组与信念碰撞"
+  },
+  {
+    "concept_a": "巳",
+    "relation": "冲",
+    "concept_b": "亥",
+    "context": "地支六冲",
+    "implication": "巳亥冲多主出行、思维或健康波动"
+  },
+  {
+    "concept_a": "寅",
+    "relation": "刑",
+    "concept_b": "巳",
+    "context": "三刑",
+    "implication": "寅巳刑多主行动急、压力大"
+  },
+  {
+    "concept_a": "巳",
+    "relation": "刑",
+    "concept_b": "申",
+    "context": "三刑",
+    "implication": "巳申刑多主计划反复与执行摩擦"
+  },
+  {
+    "concept_a": "申",
+    "relation": "刑",
+    "concept_b": "寅",
+    "context": "三刑",
+    "implication": "申寅刑多主竞争与外部压力"
+  },
+  {
+    "concept_a": "丑",
+    "relation": "刑",
+    "concept_b": "戌",
+    "context": "持势之刑",
+    "implication": "丑戌刑多主责任、规则或地产压力"
+  },
+  {
+    "concept_a": "戌",
+    "relation": "刑",
+    "concept_b": "未",
+    "context": "持势之刑",
+    "implication": "戌未刑多主家庭与价值观磨合"
+  },
+  {
+    "concept_a": "未",
+    "relation": "刑",
+    "concept_b": "丑",
+    "context": "持势之刑",
+    "implication": "未丑刑多主内耗与现实牵扯"
+  },
+  {
+    "concept_a": "子",
+    "relation": "刑",
+    "concept_b": "卯",
+    "context": "无礼之刑",
+    "implication": "子卯刑多主关系失衡与表达冲突"
+  },
+  {
+    "concept_a": "辰",
+    "relation": "刑",
+    "concept_b": "辰",
+    "context": "自刑",
+    "implication": "辰辰自刑多主反复内耗"
+  },
+  {
+    "concept_a": "午",
+    "relation": "刑",
+    "concept_b": "午",
+    "context": "自刑",
+    "implication": "午午自刑多主情绪与心火偏旺"
+  },
+  {
+    "concept_a": "酉",
+    "relation": "刑",
+    "concept_b": "酉",
+    "context": "自刑",
+    "implication": "酉酉自刑多主完美主义与压抑"
+  },
+  {
+    "concept_a": "亥",
+    "relation": "刑",
+    "concept_b": "亥",
+    "context": "自刑",
+    "implication": "亥亥自刑多主思虑过重"
+  },
+  {
+    "concept_a": "伤官",
+    "relation": "生",
+    "concept_b": "财星",
+    "context": "伤官生财格",
+    "implication": "聪明才智可转化为财富"
+  },
+  {
+    "concept_a": "正官",
+    "relation": "喜",
+    "concept_b": "印绶",
+    "context": "官印相生",
+    "implication": "规范与资源相互扶持"
+  },
+  {
+    "concept_a": "七杀",
+    "relation": "喜",
+    "concept_b": "印星",
+    "context": "杀印相生",
+    "implication": "压力可转化为权力与执行力"
+  },
+  {
+    "concept_a": "食神",
+    "relation": "制",
+    "concept_b": "七杀",
+    "context": "食神制杀",
+    "implication": "缓冲压力并化攻击性为产出"
+  },
+  {
+    "concept_a": "财星",
+    "relation": "助",
+    "concept_b": "官星",
+    "context": "财生官",
+    "implication": "资源可推动名位与责任"
+  },
+  {
+    "concept_a": "比肩",
+    "relation": "争",
+    "concept_b": "财星",
+    "context": "比劫争财",
+    "implication": "同类竞争会分走资源"
+  }
+]
