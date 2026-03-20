@@ -1,0 +1,1173 @@
+[
+  {
+    "zh": "比肩",
+    "en": [
+      "Companion Star",
+      "Friend Star",
+      "Peer Star"
+    ],
+    "ja": [
+      "比肩"
+    ],
+    "ko": [
+      "비견"
+    ],
+    "definition": "与日主同五行同阴阳的十神。"
+  },
+  {
+    "zh": "劫财",
+    "en": [
+      "Rob Wealth",
+      "Competitive Peer",
+      "Robbery Star"
+    ],
+    "ja": [
+      "劫財"
+    ],
+    "ko": [
+      "겁재"
+    ],
+    "definition": "与日主同五行异阴阳的十神。"
+  },
+  {
+    "zh": "食神",
+    "en": [
+      "Eating God",
+      "Output Star"
+    ],
+    "ja": [
+      "食神"
+    ],
+    "ko": [
+      "식신"
+    ],
+    "definition": "日主所生且阴阳相同的十神，主输出与福气。"
+  },
+  {
+    "zh": "伤官",
+    "en": [
+      "Hurting Officer",
+      "Expression Star"
+    ],
+    "ja": [
+      "傷官"
+    ],
+    "ko": [
+      "상관"
+    ],
+    "definition": "日主所生且阴阳相异的十神，主表达、突破与反叛。"
+  },
+  {
+    "zh": "偏财",
+    "en": [
+      "Indirect Wealth",
+      "Unexpected Wealth"
+    ],
+    "ja": [
+      "偏財"
+    ],
+    "ko": [
+      "편재"
+    ],
+    "definition": "日主所克且阴阳相同的十神，主流动资源与机会财。"
+  },
+  {
+    "zh": "正财",
+    "en": [
+      "Direct Wealth",
+      "Proper Wealth"
+    ],
+    "ja": [
+      "正財"
+    ],
+    "ko": [
+      "정재"
+    ],
+    "definition": "日主所克且阴阳相异的十神，主稳定收入与经营之财。"
+  },
+  {
+    "zh": "七杀",
+    "en": [
+      "Seven Killings",
+      "Indirect Officer"
+    ],
+    "ja": [
+      "偏官",
+      "七殺"
+    ],
+    "ko": [
+      "편관",
+      "칠살"
+    ],
+    "definition": "克日主且阴阳相同的十神，主压力、竞争与执行。"
+  },
+  {
+    "zh": "正官",
+    "en": [
+      "Direct Officer",
+      "Officer Star"
+    ],
+    "ja": [
+      "正官"
+    ],
+    "ko": [
+      "정관"
+    ],
+    "definition": "克日主且阴阳相异的十神，主规则、职位与责任。"
+  },
+  {
+    "zh": "偏印",
+    "en": [
+      "Indirect Resource",
+      "Indirect Seal"
+    ],
+    "ja": [
+      "偏印"
+    ],
+    "ko": [
+      "편인"
+    ],
+    "definition": "生日主且阴阳相同的十神，主特殊资源与另类思维。"
+  },
+  {
+    "zh": "正印",
+    "en": [
+      "Direct Resource",
+      "Proper Seal"
+    ],
+    "ja": [
+      "印綬",
+      "正印"
+    ],
+    "ko": [
+      "정인"
+    ],
+    "definition": "生日主且阴阳相异的十神，主资质、贵人、学习与保护。"
+  },
+  {
+    "zh": "木",
+    "en": [
+      "Wood"
+    ],
+    "ja": [
+      "木"
+    ],
+    "ko": [
+      "목"
+    ],
+    "definition": "五行之一，主生发、条达、向上。"
+  },
+  {
+    "zh": "火",
+    "en": [
+      "Fire"
+    ],
+    "ja": [
+      "火"
+    ],
+    "ko": [
+      "화"
+    ],
+    "definition": "五行之一，主炎上、光明、表达。"
+  },
+  {
+    "zh": "土",
+    "en": [
+      "Earth"
+    ],
+    "ja": [
+      "土"
+    ],
+    "ko": [
+      "토"
+    ],
+    "definition": "五行之一，主承载、稳定、转化。"
+  },
+  {
+    "zh": "金",
+    "en": [
+      "Metal"
+    ],
+    "ja": [
+      "金"
+    ],
+    "ko": [
+      "금"
+    ],
+    "definition": "五行之一，主肃杀、规则、决断。"
+  },
+  {
+    "zh": "水",
+    "en": [
+      "Water"
+    ],
+    "ja": [
+      "水"
+    ],
+    "ko": [
+      "수"
+    ],
+    "definition": "五行之一，主流动、智慧、润下。"
+  },
+  {
+    "zh": "甲",
+    "en": [
+      "Jia Wood"
+    ],
+    "ja": [
+      "甲"
+    ],
+    "ko": [
+      "갑"
+    ],
+    "definition": "阳木天干，象参天大树与开创。"
+  },
+  {
+    "zh": "乙",
+    "en": [
+      "Yi Wood"
+    ],
+    "ja": [
+      "乙"
+    ],
+    "ko": [
+      "을"
+    ],
+    "definition": "阴木天干，象花草藤萝与柔韧。"
+  },
+  {
+    "zh": "丙",
+    "en": [
+      "Bing Fire"
+    ],
+    "ja": [
+      "丙"
+    ],
+    "ko": [
+      "병"
+    ],
+    "definition": "阳火天干，象太阳与外放光热。"
+  },
+  {
+    "zh": "丁",
+    "en": [
+      "Ding Fire"
+    ],
+    "ja": [
+      "丁"
+    ],
+    "ko": [
+      "정"
+    ],
+    "definition": "阴火天干，象灯火与内在光明。"
+  },
+  {
+    "zh": "戊",
+    "en": [
+      "Wu Earth"
+    ],
+    "ja": [
+      "戊"
+    ],
+    "ko": [
+      "무"
+    ],
+    "definition": "阳土天干，象山岳高墙与承压。"
+  },
+  {
+    "zh": "己",
+    "en": [
+      "Ji Earth"
+    ],
+    "ja": [
+      "己"
+    ],
+    "ko": [
+      "기"
+    ],
+    "definition": "阴土天干，象田园湿土与调和。"
+  },
+  {
+    "zh": "庚",
+    "en": [
+      "Geng Metal"
+    ],
+    "ja": [
+      "庚"
+    ],
+    "ko": [
+      "경"
+    ],
+    "definition": "阳金天干，象矿石、刀斧与决断。"
+  },
+  {
+    "zh": "辛",
+    "en": [
+      "Xin Metal"
+    ],
+    "ja": [
+      "辛"
+    ],
+    "ko": [
+      "신"
+    ],
+    "definition": "阴金天干，象珠玉与精致规则。"
+  },
+  {
+    "zh": "壬",
+    "en": [
+      "Ren Water"
+    ],
+    "ja": [
+      "壬"
+    ],
+    "ko": [
+      "임"
+    ],
+    "definition": "阳水天干，象江河大海与奔流。"
+  },
+  {
+    "zh": "癸",
+    "en": [
+      "Gui Water"
+    ],
+    "ja": [
+      "癸"
+    ],
+    "ko": [
+      "계"
+    ],
+    "definition": "阴水天干，象雨露雾气与渗透。"
+  },
+  {
+    "zh": "子",
+    "en": [
+      "Zi Rat"
+    ],
+    "ja": [
+      "子"
+    ],
+    "ko": [
+      "자"
+    ],
+    "definition": "十二地支之一，主冬水、子月与夜半。"
+  },
+  {
+    "zh": "丑",
+    "en": [
+      "Chou Ox"
+    ],
+    "ja": [
+      "丑"
+    ],
+    "ko": [
+      "축"
+    ],
+    "definition": "十二地支之一，主湿土、寒冬与蓄藏。"
+  },
+  {
+    "zh": "寅",
+    "en": [
+      "Yin Tiger"
+    ],
+    "ja": [
+      "寅"
+    ],
+    "ko": [
+      "인"
+    ],
+    "definition": "十二地支之一，主初春生机与木火。"
+  },
+  {
+    "zh": "卯",
+    "en": [
+      "Mao Rabbit"
+    ],
+    "ja": [
+      "卯"
+    ],
+    "ko": [
+      "묘"
+    ],
+    "definition": "十二地支之一，主仲春纯木之气。"
+  },
+  {
+    "zh": "辰",
+    "en": [
+      "Chen Dragon"
+    ],
+    "ja": [
+      "辰"
+    ],
+    "ko": [
+      "진"
+    ],
+    "definition": "十二地支之一，主湿土与水木余气。"
+  },
+  {
+    "zh": "巳",
+    "en": [
+      "Si Snake"
+    ],
+    "ja": [
+      "巳"
+    ],
+    "ko": [
+      "사"
+    ],
+    "definition": "十二地支之一，主初夏火旺之气。"
+  },
+  {
+    "zh": "午",
+    "en": [
+      "Wu Horse"
+    ],
+    "ja": [
+      "午"
+    ],
+    "ko": [
+      "오"
+    ],
+    "definition": "十二地支之一，主盛夏火极之气。"
+  },
+  {
+    "zh": "未",
+    "en": [
+      "Wei Goat"
+    ],
+    "ja": [
+      "未"
+    ],
+    "ko": [
+      "미"
+    ],
+    "definition": "十二地支之一，主季夏土燥与杂气。"
+  },
+  {
+    "zh": "申",
+    "en": [
+      "Shen Monkey"
+    ],
+    "ja": [
+      "申"
+    ],
+    "ko": [
+      "신"
+    ],
+    "definition": "十二地支之一，主初秋金旺与驿动。"
+  },
+  {
+    "zh": "酉",
+    "en": [
+      "You Rooster"
+    ],
+    "ja": [
+      "酉"
+    ],
+    "ko": [
+      "유"
+    ],
+    "definition": "十二地支之一，主仲秋纯金之气。"
+  },
+  {
+    "zh": "戌",
+    "en": [
+      "Xu Dog"
+    ],
+    "ja": [
+      "戌"
+    ],
+    "ko": [
+      "술"
+    ],
+    "definition": "十二地支之一，主燥土、火库与秋末。"
+  },
+  {
+    "zh": "亥",
+    "en": [
+      "Hai Pig"
+    ],
+    "ja": [
+      "亥"
+    ],
+    "ko": [
+      "해"
+    ],
+    "definition": "十二地支之一，主初冬水旺与收藏。"
+  },
+  {
+    "zh": "正官格",
+    "en": [
+      "Direct Officer Structure"
+    ],
+    "ja": [
+      "正官格"
+    ],
+    "ko": [
+      "정관격"
+    ],
+    "definition": "以正官为立格核心的格局。"
+  },
+  {
+    "zh": "七杀格",
+    "en": [
+      "Seven Killings Structure"
+    ],
+    "ja": [
+      "偏官格",
+      "七殺格"
+    ],
+    "ko": [
+      "편관격",
+      "칠살격"
+    ],
+    "definition": "以七杀为立格核心的格局。"
+  },
+  {
+    "zh": "正财格",
+    "en": [
+      "Direct Wealth Structure"
+    ],
+    "ja": [
+      "正財格"
+    ],
+    "ko": [
+      "정재격"
+    ],
+    "definition": "以正财为立格核心的格局。"
+  },
+  {
+    "zh": "偏财格",
+    "en": [
+      "Indirect Wealth Structure"
+    ],
+    "ja": [
+      "偏財格"
+    ],
+    "ko": [
+      "편재격"
+    ],
+    "definition": "以偏财为立格核心的格局。"
+  },
+  {
+    "zh": "食神格",
+    "en": [
+      "Eating God Structure"
+    ],
+    "ja": [
+      "食神格"
+    ],
+    "ko": [
+      "식신격"
+    ],
+    "definition": "以食神为立格核心的格局。"
+  },
+  {
+    "zh": "伤官格",
+    "en": [
+      "Hurting Officer Structure"
+    ],
+    "ja": [
+      "傷官格"
+    ],
+    "ko": [
+      "상관격"
+    ],
+    "definition": "以伤官为立格核心的格局。"
+  },
+  {
+    "zh": "正印格",
+    "en": [
+      "Direct Resource Structure"
+    ],
+    "ja": [
+      "印綬格",
+      "正印格"
+    ],
+    "ko": [
+      "정인격"
+    ],
+    "definition": "以正印为立格核心的格局。"
+  },
+  {
+    "zh": "偏印格",
+    "en": [
+      "Indirect Resource Structure"
+    ],
+    "ja": [
+      "偏印格"
+    ],
+    "ko": [
+      "편인격"
+    ],
+    "definition": "以偏印为立格核心的格局。"
+  },
+  {
+    "zh": "建禄格",
+    "en": [
+      "Jianlu Structure"
+    ],
+    "ja": [
+      "建禄格"
+    ],
+    "ko": [
+      "건록격"
+    ],
+    "definition": "以建禄、临官旺地为核心的格局。"
+  },
+  {
+    "zh": "月刃格",
+    "en": [
+      "Yang Blade Structure"
+    ],
+    "ja": [
+      "羊刃格"
+    ],
+    "ko": [
+      "양인격"
+    ],
+    "definition": "月令羊刃成势的格局。"
+  },
+  {
+    "zh": "从强格",
+    "en": [
+      "Follow Strong Structure"
+    ],
+    "ja": [
+      "従旺格",
+      "従強格"
+    ],
+    "ko": [
+      "종강격"
+    ],
+    "definition": "日主与比印成势，顺旺而取的从格。"
+  },
+  {
+    "zh": "从弱格",
+    "en": [
+      "Follow Weak Structure"
+    ],
+    "ja": [
+      "従弱格"
+    ],
+    "ko": [
+      "종약격"
+    ],
+    "definition": "日主极弱顺势，不再强扶的从格。"
+  },
+  {
+    "zh": "从财格",
+    "en": [
+      "Follow Wealth Structure"
+    ],
+    "ja": [
+      "従財格"
+    ],
+    "ko": [
+      "종재격"
+    ],
+    "definition": "财星成势、日主极弱而顺从财气的格局。"
+  },
+  {
+    "zh": "从杀格",
+    "en": [
+      "Follow Killing Structure"
+    ],
+    "ja": [
+      "従殺格"
+    ],
+    "ko": [
+      "종살격"
+    ],
+    "definition": "官杀成势、日主无力抗衡而从杀的格局。"
+  },
+  {
+    "zh": "化气格",
+    "en": [
+      "Transformation Structure"
+    ],
+    "ja": [
+      "化気格"
+    ],
+    "ko": [
+      "화기격"
+    ],
+    "definition": "天干五合并得地得令而化成某五行的特殊格局。"
+  },
+  {
+    "zh": "杀印相生格",
+    "en": [
+      "Killing and Resource Structure"
+    ],
+    "ja": [
+      "殺印相生格"
+    ],
+    "ko": [
+      "살인상생격"
+    ],
+    "definition": "七杀有印化，压力转成资历与权柄的格局。"
+  },
+  {
+    "zh": "食神制杀格",
+    "en": [
+      "Eating God Controls Killing Structure"
+    ],
+    "ja": [
+      "食神制殺格"
+    ],
+    "ko": [
+      "식신제살격"
+    ],
+    "definition": "食神有力制住七杀的格局。"
+  },
+  {
+    "zh": "伤官佩印格",
+    "en": [
+      "Hurting Officer with Resource Structure"
+    ],
+    "ja": [
+      "傷官佩印格"
+    ],
+    "ko": [
+      "상관패인격"
+    ],
+    "definition": "伤官外放但有印绶收束成名的格局。"
+  },
+  {
+    "zh": "财官双美格",
+    "en": [
+      "Wealth and Officer Structure"
+    ],
+    "ja": [
+      "財官双美格"
+    ],
+    "ko": [
+      "재관쌍미격"
+    ],
+    "definition": "财官相生且结构清纯的组合。"
+  },
+  {
+    "zh": "金水伤官格",
+    "en": [
+      "Metal-Water Hurting Officer Structure"
+    ],
+    "ja": [
+      "金水傷官格"
+    ],
+    "ko": [
+      "금수상관격"
+    ],
+    "definition": "金水顺流、伤官秀气明显的格局。"
+  },
+  {
+    "zh": "用神",
+    "en": [
+      "Useful God",
+      "Yong Shen"
+    ],
+    "ja": [
+      "用神"
+    ],
+    "ko": [
+      "용신"
+    ],
+    "definition": "命局中最需要的关键平衡点或功能之神。"
+  },
+  {
+    "zh": "喜神",
+    "en": [
+      "Favorable God",
+      "Helpful God"
+    ],
+    "ja": [
+      "喜神"
+    ],
+    "ko": [
+      "희신"
+    ],
+    "definition": "有助于命局发挥、扶助用神的五行或十神。"
+  },
+  {
+    "zh": "忌神",
+    "en": [
+      "Unfavorable God",
+      "Taboo God"
+    ],
+    "ja": [
+      "忌神"
+    ],
+    "ko": [
+      "기신"
+    ],
+    "definition": "会破坏命局平衡、放大短板的五行或十神。"
+  },
+  {
+    "zh": "仇神",
+    "en": [
+      "Hostile God"
+    ],
+    "ja": [
+      "仇神"
+    ],
+    "ko": [
+      "구신"
+    ],
+    "definition": "站在忌神一边、加重不利影响的力量。"
+  },
+  {
+    "zh": "闲神",
+    "en": [
+      "Idle God"
+    ],
+    "ja": [
+      "閑神"
+    ],
+    "ko": [
+      "한신"
+    ],
+    "definition": "存在但对命局主轴影响相对较弱的五行或十神。"
+  },
+  {
+    "zh": "格局",
+    "en": [
+      "Structure",
+      "Chart Structure"
+    ],
+    "ja": [
+      "格局"
+    ],
+    "ko": [
+      "격국"
+    ],
+    "definition": "命局主结构和高低层次的判断框架。"
+  },
+  {
+    "zh": "调候",
+    "en": [
+      "Seasonal Adjustment",
+      "Climate Tuning"
+    ],
+    "ja": [
+      "調候"
+    ],
+    "ko": [
+      "조후"
+    ],
+    "definition": "围绕寒暖燥湿进行平衡的取用思路。"
+  },
+  {
+    "zh": "日主",
+    "en": [
+      "Day Master",
+      "Day Stem"
+    ],
+    "ja": [
+      "日主",
+      "日干"
+    ],
+    "ko": [
+      "일주",
+      "일간"
+    ],
+    "definition": "八字中日柱天干，作为论命的核心参照点。"
+  },
+  {
+    "zh": "身强",
+    "en": [
+      "Strong Day Master",
+      "Strong Self"
+    ],
+    "ja": [
+      "身強"
+    ],
+    "ko": [
+      "신강"
+    ],
+    "definition": "日主力量偏强，能承财官食伤的状态。"
+  },
+  {
+    "zh": "身弱",
+    "en": [
+      "Weak Day Master",
+      "Weak Self"
+    ],
+    "ja": [
+      "身弱"
+    ],
+    "ko": [
+      "신약"
+    ],
+    "definition": "日主力量偏弱，需要印比扶助的状态。"
+  },
+  {
+    "zh": "从格",
+    "en": [
+      "Follow Structure",
+      "Cong Pattern"
+    ],
+    "ja": [
+      "従格"
+    ],
+    "ko": [
+      "종격"
+    ],
+    "definition": "日主不再抗衡而顺从某一边气势的特殊格局。"
+  },
+  {
+    "zh": "专旺格",
+    "en": [
+      "Special Prosperous Structure"
+    ],
+    "ja": [
+      "専旺格"
+    ],
+    "ko": [
+      "전왕격"
+    ],
+    "definition": "单一五行极旺且纯粹成势的特殊格。"
+  },
+  {
+    "zh": "大运",
+    "en": [
+      "Luck Pillar",
+      "Ten-Year Luck"
+    ],
+    "ja": [
+      "大運"
+    ],
+    "ko": [
+      "대운"
+    ],
+    "definition": "按十年划分的人生阶段运势。"
+  },
+  {
+    "zh": "流年",
+    "en": [
+      "Annual Luck",
+      "Current Year"
+    ],
+    "ja": [
+      "流年"
+    ],
+    "ko": [
+      "세운",
+      "유년"
+    ],
+    "definition": "以年份为单位对命局产生作用的时间层。"
+  },
+  {
+    "zh": "流月",
+    "en": [
+      "Monthly Luck"
+    ],
+    "ja": [
+      "流月"
+    ],
+    "ko": [
+      "월운"
+    ],
+    "definition": "以月份为单位的细分时间作用层。"
+  },
+  {
+    "zh": "流日",
+    "en": [
+      "Daily Luck"
+    ],
+    "ja": [
+      "流日"
+    ],
+    "ko": [
+      "일운"
+    ],
+    "definition": "以日期为单位的短时应期层。"
+  },
+  {
+    "zh": "真太阳时",
+    "en": [
+      "Solar Time",
+      "True Solar Time"
+    ],
+    "ja": [
+      "真太陽時"
+    ],
+    "ko": [
+      "진태양시"
+    ],
+    "definition": "根据出生地经度修正后的真实太阳时间。"
+  },
+  {
+    "zh": "藏干",
+    "en": [
+      "Hidden Stems"
+    ],
+    "ja": [
+      "蔵干"
+    ],
+    "ko": [
+      "지장간"
+    ],
+    "definition": "地支内部所藏的天干信息。"
+  },
+  {
+    "zh": "月令",
+    "en": [
+      "Month Command",
+      "Monthly Qi"
+    ],
+    "ja": [
+      "月令"
+    ],
+    "ko": [
+      "월령"
+    ],
+    "definition": "月支主气，是判断旺衰与格局的重要依据。"
+  },
+  {
+    "zh": "通根",
+    "en": [
+      "Rooted",
+      "Having Root"
+    ],
+    "ja": [
+      "通根"
+    ],
+    "ko": [
+      "통근"
+    ],
+    "definition": "天干在地支得到同类根气支持的状态。"
+  },
+  {
+    "zh": "透干",
+    "en": [
+      "Stem Appears",
+      "Revealed in Stem"
+    ],
+    "ja": [
+      "透干"
+    ],
+    "ko": [
+      "투간"
+    ],
+    "definition": "地支所藏之气透出到天干。"
+  },
+  {
+    "zh": "合化",
+    "en": [
+      "Combination and Transformation"
+    ],
+    "ja": [
+      "合化"
+    ],
+    "ko": [
+      "합화"
+    ],
+    "definition": "干支相合并进一步化成另一五行的过程。"
+  },
+  {
+    "zh": "冲",
+    "en": [
+      "Clash"
+    ],
+    "ja": [
+      "冲"
+    ],
+    "ko": [
+      "충"
+    ],
+    "definition": "地支或天干之间的直接对冲关系。"
+  },
+  {
+    "zh": "刑",
+    "en": [
+      "Punishment"
+    ],
+    "ja": [
+      "刑"
+    ],
+    "ko": [
+      "형"
+    ],
+    "definition": "地支之间造成压迫、内耗或扭曲的关系。"
+  },
+  {
+    "zh": "害",
+    "en": [
+      "Harm"
+    ],
+    "ja": [
+      "害"
+    ],
+    "ko": [
+      "해"
+    ],
+    "definition": "地支之间隐性损耗、误解或暗伤的关系。"
+  },
+  {
+    "zh": "空亡",
+    "en": [
+      "Void Emptiness",
+      "Empty Void"
+    ],
+    "ja": [
+      "空亡"
+    ],
+    "ko": [
+      "공망"
+    ],
+    "definition": "某柱在特定旬内落空，常表示延迟、减力或落空。"
+  },
+  {
+    "zh": "驿马",
+    "en": [
+      "Traveling Horse"
+    ],
+    "ja": [
+      "駅馬"
+    ],
+    "ko": [
+      "역마"
+    ],
+    "definition": "主移动、迁移、奔波与转换的神煞。"
+  },
+  {
+    "zh": "桃花",
+    "en": [
+      "Peach Blossom"
+    ],
+    "ja": [
+      "桃花"
+    ],
+    "ko": [
+      "도화"
+    ],
+    "definition": "主吸引力、情感、人缘与曝光的神煞。"
+  },
+  {
+    "zh": "神煞",
+    "en": [
+      "Auxiliary Stars",
+      "Shen Sha"
+    ],
+    "ja": [
+      "神殺"
+    ],
+    "ko": [
+      "신살"
+    ],
+    "definition": "用于细化事件和性格的辅助符号系统。"
+  },
+  {
+    "zh": "命式",
+    "en": [
+      "Natal Chart",
+      "BaZi Chart"
+    ],
+    "ja": [
+      "命式"
+    ],
+    "ko": [
+      "명식"
+    ],
+    "definition": "完整的四柱八字排盘结果。"
+  }
+]
