@@ -1,0 +1,579 @@
+[
+  {
+    "zh": "比肩",
+    "en": [
+      "Companion Star",
+      "Friend Star",
+      "Peer Star"
+    ],
+    "ja": [
+      "比肩"
+    ],
+    "ko": [
+      "비견"
+    ],
+    "definition": "与日主同五行同阴阳的天干"
+  },
+  {
+    "zh": "劫财",
+    "en": [
+      "Rob Wealth",
+      "Robber Star",
+      "Rival Star"
+    ],
+    "ja": [
+      "劫財"
+    ],
+    "ko": [
+      "겁재"
+    ],
+    "definition": "与日主同五行异阴阳的天干"
+  },
+  {
+    "zh": "食神",
+    "en": [
+      "Eating God",
+      "Output Star",
+      "Food God"
+    ],
+    "ja": [
+      "食神"
+    ],
+    "ko": [
+      "식신"
+    ],
+    "definition": "日主所生且同性之神"
+  },
+  {
+    "zh": "伤官",
+    "en": [
+      "Hurting Officer",
+      "Output Star",
+      "Expression Star"
+    ],
+    "ja": [
+      "傷官"
+    ],
+    "ko": [
+      "상관"
+    ],
+    "definition": "日主所生且异性之神"
+  },
+  {
+    "zh": "正财",
+    "en": [
+      "Direct Wealth",
+      "Proper Wealth"
+    ],
+    "ja": [
+      "正財"
+    ],
+    "ko": [
+      "정재"
+    ],
+    "definition": "日主所克且异性之神"
+  },
+  {
+    "zh": "偏财",
+    "en": [
+      "Indirect Wealth",
+      "Unexpected Wealth"
+    ],
+    "ja": [
+      "偏財"
+    ],
+    "ko": [
+      "편재"
+    ],
+    "definition": "日主所克且同性之神"
+  },
+  {
+    "zh": "正官",
+    "en": [
+      "Direct Officer",
+      "Proper Authority"
+    ],
+    "ja": [
+      "正官"
+    ],
+    "ko": [
+      "정관"
+    ],
+    "definition": "克日主且异性之神"
+  },
+  {
+    "zh": "七杀",
+    "en": [
+      "Seven Killings",
+      "Indirect Officer"
+    ],
+    "ja": [
+      "偏官",
+      "七殺"
+    ],
+    "ko": [
+      "칠살",
+      "편관"
+    ],
+    "definition": "克日主且同性之神"
+  },
+  {
+    "zh": "正印",
+    "en": [
+      "Direct Resource",
+      "Proper Seal"
+    ],
+    "ja": [
+      "印綬",
+      "正印"
+    ],
+    "ko": [
+      "정인"
+    ],
+    "definition": "生日主且异性之神"
+  },
+  {
+    "zh": "偏印",
+    "en": [
+      "Indirect Resource",
+      "Indirect Seal"
+    ],
+    "ja": [
+      "偏印",
+      "枭神"
+    ],
+    "ko": [
+      "편인"
+    ],
+    "definition": "生日主且同性之神"
+  },
+  {
+    "zh": "木",
+    "en": [
+      "Wood"
+    ],
+    "ja": [
+      "木"
+    ],
+    "ko": [
+      "목"
+    ],
+    "definition": "五行之一，主生发"
+  },
+  {
+    "zh": "火",
+    "en": [
+      "Fire"
+    ],
+    "ja": [
+      "火"
+    ],
+    "ko": [
+      "화"
+    ],
+    "definition": "五行之一，主炎上"
+  },
+  {
+    "zh": "土",
+    "en": [
+      "Earth"
+    ],
+    "ja": [
+      "土"
+    ],
+    "ko": [
+      "토"
+    ],
+    "definition": "五行之一，主承载"
+  },
+  {
+    "zh": "金",
+    "en": [
+      "Metal"
+    ],
+    "ja": [
+      "金"
+    ],
+    "ko": [
+      "금"
+    ],
+    "definition": "五行之一，主肃杀"
+  },
+  {
+    "zh": "水",
+    "en": [
+      "Water"
+    ],
+    "ja": [
+      "水"
+    ],
+    "ko": [
+      "수"
+    ],
+    "definition": "五行之一，主流动"
+  },
+  {
+    "zh": "正官格",
+    "en": [
+      "Direct Officer Structure"
+    ],
+    "ja": [
+      "正官格"
+    ],
+    "ko": [
+      "정관격"
+    ],
+    "definition": "以正官为核心立格的格局"
+  },
+  {
+    "zh": "七杀格",
+    "en": [
+      "Seven Killings Structure"
+    ],
+    "ja": [
+      "七殺格"
+    ],
+    "ko": [
+      "칠살격"
+    ],
+    "definition": "以七杀为核心立格的格局"
+  },
+  {
+    "zh": "食神格",
+    "en": [
+      "Eating God Structure"
+    ],
+    "ja": [
+      "食神格"
+    ],
+    "ko": [
+      "식신격"
+    ],
+    "definition": "以食神为核心立格的格局"
+  },
+  {
+    "zh": "伤官格",
+    "en": [
+      "Hurting Officer Structure"
+    ],
+    "ja": [
+      "傷官格"
+    ],
+    "ko": [
+      "상관격"
+    ],
+    "definition": "以伤官为核心立格的格局"
+  },
+  {
+    "zh": "正财格",
+    "en": [
+      "Direct Wealth Structure"
+    ],
+    "ja": [
+      "正財格"
+    ],
+    "ko": [
+      "정재격"
+    ],
+    "definition": "以正财为核心立格的格局"
+  },
+  {
+    "zh": "偏财格",
+    "en": [
+      "Indirect Wealth Structure"
+    ],
+    "ja": [
+      "偏財格"
+    ],
+    "ko": [
+      "편재격"
+    ],
+    "definition": "以偏财为核心立格的格局"
+  },
+  {
+    "zh": "甲",
+    "en": [
+      "甲 Heavenly Stem"
+    ],
+    "ja": [
+      "甲"
+    ],
+    "ko": [
+      "甲"
+    ],
+    "definition": "十天干之一：甲"
+  },
+  {
+    "zh": "乙",
+    "en": [
+      "乙 Heavenly Stem"
+    ],
+    "ja": [
+      "乙"
+    ],
+    "ko": [
+      "乙"
+    ],
+    "definition": "十天干之一：乙"
+  },
+  {
+    "zh": "丙",
+    "en": [
+      "丙 Heavenly Stem"
+    ],
+    "ja": [
+      "丙"
+    ],
+    "ko": [
+      "丙"
+    ],
+    "definition": "十天干之一：丙"
+  },
+  {
+    "zh": "丁",
+    "en": [
+      "丁 Heavenly Stem"
+    ],
+    "ja": [
+      "丁"
+    ],
+    "ko": [
+      "丁"
+    ],
+    "definition": "十天干之一：丁"
+  },
+  {
+    "zh": "戊",
+    "en": [
+      "戊 Heavenly Stem"
+    ],
+    "ja": [
+      "戊"
+    ],
+    "ko": [
+      "戊"
+    ],
+    "definition": "十天干之一：戊"
+  },
+  {
+    "zh": "己",
+    "en": [
+      "己 Heavenly Stem"
+    ],
+    "ja": [
+      "己"
+    ],
+    "ko": [
+      "己"
+    ],
+    "definition": "十天干之一：己"
+  },
+  {
+    "zh": "庚",
+    "en": [
+      "庚 Heavenly Stem"
+    ],
+    "ja": [
+      "庚"
+    ],
+    "ko": [
+      "庚"
+    ],
+    "definition": "十天干之一：庚"
+  },
+  {
+    "zh": "辛",
+    "en": [
+      "辛 Heavenly Stem"
+    ],
+    "ja": [
+      "辛"
+    ],
+    "ko": [
+      "辛"
+    ],
+    "definition": "十天干之一：辛"
+  },
+  {
+    "zh": "壬",
+    "en": [
+      "壬 Heavenly Stem"
+    ],
+    "ja": [
+      "壬"
+    ],
+    "ko": [
+      "壬"
+    ],
+    "definition": "十天干之一：壬"
+  },
+  {
+    "zh": "癸",
+    "en": [
+      "癸 Heavenly Stem"
+    ],
+    "ja": [
+      "癸"
+    ],
+    "ko": [
+      "癸"
+    ],
+    "definition": "十天干之一：癸"
+  },
+  {
+    "zh": "子",
+    "en": [
+      "子 Earthly Branch"
+    ],
+    "ja": [
+      "子"
+    ],
+    "ko": [
+      "子"
+    ],
+    "definition": "十二地支之一：子"
+  },
+  {
+    "zh": "丑",
+    "en": [
+      "丑 Earthly Branch"
+    ],
+    "ja": [
+      "丑"
+    ],
+    "ko": [
+      "丑"
+    ],
+    "definition": "十二地支之一：丑"
+  },
+  {
+    "zh": "寅",
+    "en": [
+      "寅 Earthly Branch"
+    ],
+    "ja": [
+      "寅"
+    ],
+    "ko": [
+      "寅"
+    ],
+    "definition": "十二地支之一：寅"
+  },
+  {
+    "zh": "卯",
+    "en": [
+      "卯 Earthly Branch"
+    ],
+    "ja": [
+      "卯"
+    ],
+    "ko": [
+      "卯"
+    ],
+    "definition": "十二地支之一：卯"
+  },
+  {
+    "zh": "辰",
+    "en": [
+      "辰 Earthly Branch"
+    ],
+    "ja": [
+      "辰"
+    ],
+    "ko": [
+      "辰"
+    ],
+    "definition": "十二地支之一：辰"
+  },
+  {
+    "zh": "巳",
+    "en": [
+      "巳 Earthly Branch"
+    ],
+    "ja": [
+      "巳"
+    ],
+    "ko": [
+      "巳"
+    ],
+    "definition": "十二地支之一：巳"
+  },
+  {
+    "zh": "午",
+    "en": [
+      "午 Earthly Branch"
+    ],
+    "ja": [
+      "午"
+    ],
+    "ko": [
+      "午"
+    ],
+    "definition": "十二地支之一：午"
+  },
+  {
+    "zh": "未",
+    "en": [
+      "未 Earthly Branch"
+    ],
+    "ja": [
+      "未"
+    ],
+    "ko": [
+      "未"
+    ],
+    "definition": "十二地支之一：未"
+  },
+  {
+    "zh": "申",
+    "en": [
+      "申 Earthly Branch"
+    ],
+    "ja": [
+      "申"
+    ],
+    "ko": [
+      "申"
+    ],
+    "definition": "十二地支之一：申"
+  },
+  {
+    "zh": "酉",
+    "en": [
+      "酉 Earthly Branch"
+    ],
+    "ja": [
+      "酉"
+    ],
+    "ko": [
+      "酉"
+    ],
+    "definition": "十二地支之一：酉"
+  },
+  {
+    "zh": "戌",
+    "en": [
+      "戌 Earthly Branch"
+    ],
+    "ja": [
+      "戌"
+    ],
+    "ko": [
+      "戌"
+    ],
+    "definition": "十二地支之一：戌"
+  },
+  {
+    "zh": "亥",
+    "en": [
+      "亥 Earthly Branch"
+    ],
+    "ja": [
+      "亥"
+    ],
+    "ko": [
+      "亥"
+    ],
+    "definition": "十二地支之一：亥"
+  }
+]
