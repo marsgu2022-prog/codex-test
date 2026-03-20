@@ -1,0 +1,287 @@
+[
+  {
+    "source_lang": "ko",
+    "source_type": "article",
+    "source_url": "https://sajumate.com/blog/10-gods-beginning",
+    "topic": "십성 입문",
+    "content_summary": "文章把 십성 解释为以日干为中心的人际与事件关系编码，是韩文入门内容的核心。",
+    "rules_extracted": [
+      "십성以日干为中心命名十种关系",
+      "韩文入门资料普遍先教 십성 再谈格局"
+    ],
+    "terms_mapping": {
+      "십성": "十神",
+      "일간": "日干"
+    },
+    "school_perspective": "韩国入门派",
+    "quality_score": 0.82
+  },
+  {
+    "source_lang": "ko",
+    "source_type": "post",
+    "source_url": "https://sajuworks.postype.com/post/15959954",
+    "topic": "손석구 사주分析",
+    "content_summary": "用名人 손석구 的 사주 解读事业与个性，体现韩文内容偏好以 유명인 사례 讲结构。",
+    "rules_extracted": [
+      "韩文命理传播常用名人命盘做案例",
+      "名人案例常同时讨论性格与职业表现"
+    ],
+    "terms_mapping": {
+      "사주": "八字/四柱",
+      "유명인": "名人"
+    },
+    "school_perspective": "韩国名人案例派",
+    "quality_score": 0.78
+  },
+  {
+    "source_lang": "ko",
+    "source_type": "blog",
+    "source_url": "https://caomeiyun3.tistory.com/700",
+    "topic": "비견总论",
+    "content_summary": "文章专门解释 비견 的性格、竞争与自我主张，是 십성 单项讲解的典型写法。",
+    "rules_extracted": [
+      "비견常被解释为自主、竞争、同辈意识",
+      "韩文资料喜欢逐个 십성 单独拆解"
+    ],
+    "terms_mapping": {
+      "비견": "比肩"
+    },
+    "school_perspective": "韩国十神性格派",
+    "quality_score": 0.76
+  },
+  {
+    "source_lang": "ko",
+    "source_type": "article",
+    "source_url": "https://contents.premium.naver.com/gongbeob/gjsaju/contents/241217104836234do",
+    "topic": "공과생의 사주 해석",
+    "content_summary": "Naver Premium 用“工科生的命盘”解释学习结构、职业取向与性格特征，偏职业应用。",
+    "rules_extracted": [
+      "职业与专业倾向可用命盘结构解释",
+      "韩文现代内容偏重职业适配与现实选择"
+    ],
+    "terms_mapping": {
+      "사주 해석": "命盘解读",
+      "직업": "职业"
+    },
+    "school_perspective": "韩国职业应用派",
+    "quality_score": 0.74
+  },
+  {
+    "source_lang": "ko",
+    "source_type": "post",
+    "source_url": "https://sajuworks.postype.com/post/15598911",
+    "topic": "십성 단식",
+    "content_summary": "文章以“재미로 보는 십성 단식”为题，总结十神的快速识别法与一句话特征。",
+    "rules_extracted": [
+      "韩文传播常用一句话口诀理解十神",
+      "십성 单式判断适合速记，不适合替代全盘分析"
+    ],
+    "terms_mapping": {
+      "단식": "简断/口诀式判断"
+    },
+    "school_perspective": "韩国速记派",
+    "quality_score": 0.71
+  },
+  {
+    "source_lang": "ko",
+    "source_type": "blog",
+    "source_url": "https://sajunewworld.tistory.com/76",
+    "topic": "비견格入局条件",
+    "content_summary": "文章讨论四柱中何种情况下构成 비견 格，说明韩文资料仍保留格局思维。",
+    "rules_extracted": [
+      "韩文资料中仍保留格局入格条件讨论",
+      "比肩格判断不能只看一个字，要看四柱整体"
+    ],
+    "terms_mapping": {
+      "격국": "格局",
+      "비견격": "比肩格"
+    },
+    "school_perspective": "韩国格局派",
+    "quality_score": 0.79
+  },
+  {
+    "source_lang": "ko",
+    "source_type": "pdf",
+    "source_url": "https://www.wdu.ac.kr/nsp/courseinfo/0f005669.pdf",
+    "topic": "육신과 십성教学讲义",
+    "content_summary": "讲义系统列出 육신、비견、겁재、식신、정관 等与日干的生克关系。",
+    "rules_extracted": [
+      "육신/십성 以生克与阴阳差异为基础",
+      "学术化讲义更强调定义完整性与体系性"
+    ],
+    "terms_mapping": {
+      "육신": "六神/十神系统",
+      "겁재": "劫财",
+      "정관": "正官"
+    },
+    "school_perspective": "韩国学术讲义派",
+    "quality_score": 0.87
+  },
+  {
+    "source_lang": "ko",
+    "source_type": "post",
+    "source_url": "https://sajuworks.postype.com/post/15590175",
+    "topic": "사주로 보는 여자 연예인 사례",
+    "content_summary": "以女艺人案例说明 사주분석 如何连接魅力、职业表现与关系风格。",
+    "rules_extracted": [
+      "韩文案例常把命理结构和公众形象对读",
+      "名人 사례 常用于验证十神与职业气质"
+    ],
+    "terms_mapping": {
+      "연예인": "艺人/明星"
+    },
+    "school_perspective": "韩国名人案例派",
+    "quality_score": 0.75
+  },
+  {
+    "source_lang": "ko",
+    "source_type": "post",
+    "source_url": "https://sajuworks.postype.com/post/17454772",
+    "topic": "점선사주与商业化解读",
+    "content_summary": "页面展示 사주 内容产品化与订阅化趋势，反映韩国线上命理消费场景。",
+    "rules_extracted": [
+      "韩国命理内容有明显订阅化与产品化倾向",
+      "实务内容常被包装成系列专栏与案例集"
+    ],
+    "terms_mapping": {
+      "점선사주": "命理专栏/栏目化解读"
+    },
+    "school_perspective": "韩国内容产品派",
+    "quality_score": 0.58
+  },
+  {
+    "source_lang": "ko",
+    "source_type": "article",
+    "source_url": "https://contents.premium.naver.com/gaewoon/gaewoonjaseol/contents/230213225820328in",
+    "topic": "비견 개운법",
+    "content_summary": "文章把 비견 解释与 개운법 结合，强调如何顺着十神特性调整行为。",
+    "rules_extracted": [
+      "韩文内容常把十神性格解释延伸到开运建议",
+      "比肩类问题会被转化成行为调整方案"
+    ],
+    "terms_mapping": {
+      "개운법": "开运法",
+      "비견 편": "比肩篇"
+    },
+    "school_perspective": "韩国开运应用派",
+    "quality_score": 0.73
+  },
+  {
+    "source_lang": "ko",
+    "source_type": "article",
+    "source_url": "https://contents.premium.naver.com/gaewoon/gaewoonjaseol/contents/230129211121113fp",
+    "topic": "십성별 开运内容",
+    "content_summary": "Naver Premium 系列把 십성 分篇书写，显示韩国用户对十神个性化建议有稳定需求。",
+    "rules_extracted": [
+      "十神可分别对应不同开运建议",
+      "内容消费型命理会强化十神人格化表达"
+    ],
+    "terms_mapping": {
+      "십성별": "按十神分类"
+    },
+    "school_perspective": "韩国开运应用派",
+    "quality_score": 0.69
+  },
+  {
+    "source_lang": "ko",
+    "source_type": "site",
+    "source_url": "https://kjfortune.com/240",
+    "topic": "사주와 타고난 운势",
+    "content_summary": "网站将 사주 定位为出生时刻所带来的先天气数系统，偏传统宿命表达。",
+    "rules_extracted": [
+      "韩文传统表达仍强调先天 운势",
+      "命盘被视为与出生时刻绑定的气数编码"
+    ],
+    "terms_mapping": {
+      "운세": "运势",
+      "타고난": "先天的"
+    },
+    "school_perspective": "韩国传统宿命派",
+    "quality_score": 0.67
+  },
+  {
+    "source_lang": "ko",
+    "source_type": "site",
+    "source_url": "https://aifortunedoctor.com/ko/%EC%82%AC%EC%A3%BC/",
+    "topic": "AI 사주 설명框架",
+    "content_summary": "AI Fortune Doctor 把 사주 解释成出生年月日时形成的分析框架，并通过 AI 降低理解门槛。",
+    "rules_extracted": [
+      "AI 化表达会把命理重新转写成结构化说明",
+      "大众产品更强调出生数据到结论的清晰路径"
+    ],
+    "terms_mapping": {
+      "AI 사주": "AI 八字解读"
+    },
+    "school_perspective": "韩国AI应用派",
+    "quality_score": 0.6
+  },
+  {
+    "source_lang": "ko",
+    "source_type": "academic",
+    "source_url": "https://folklore.or.kr/homepage/boardMedia/131343",
+    "topic": "육신·십성的学术整理",
+    "content_summary": "学会 발표집 明确给出 육신 与 십성 的阴阳、生克定义，属于相对规范的术语整理资料。",
+    "rules_extracted": [
+      "韩国学术资料会并列 육신 与 십성 术语系统",
+      "比견、정관 等定义依然基于阴阳与生克关系"
+    ],
+    "terms_mapping": {
+      "육신": "六神",
+      "비겁": "比劫",
+      "관성": "官星"
+    },
+    "school_perspective": "韩国学术术语派",
+    "quality_score": 0.9
+  },
+  {
+    "source_lang": "ko",
+    "source_type": "blog",
+    "source_url": "https://giunsa.com/blog/service-usage-faq",
+    "topic": "自动化 사주 服务体验",
+    "content_summary": "FAQ 强调用户能快速拿到 리포트，反映韩国线上命理服务追求即刻反馈。",
+    "rules_extracted": [
+      "韩国线上命理服务重视即时报告交付",
+      "产品体验与传统解盘正在结合"
+    ],
+    "terms_mapping": {
+      "리포트": "报告",
+      "즉시 확인 가능": "可即时查看"
+    },
+    "school_perspective": "韩国服务产品派",
+    "quality_score": 0.5
+  },
+  {
+    "source_lang": "ko",
+    "source_type": "article",
+    "source_url": "https://youram.me/blog/%EC%82%AC%EC%A3%BC-%EB%8C%80%EC%9A%B4-%ED%9D%90%EB%A6%84",
+    "topic": "대운 흐름解释",
+    "content_summary": "文章把 대운 视为人生长期背景节奏，强调看流年之前先看十年运势。",
+    "rules_extracted": [
+      "判断流年之前先看大运背景",
+      "대운 更适合解释长期趋势而非单点事件"
+    ],
+    "terms_mapping": {
+      "대운": "大运",
+      "흐름": "走势/流向"
+    },
+    "school_perspective": "韩国运势实务派",
+    "quality_score": 0.77
+  },
+  {
+    "source_lang": "ko",
+    "source_type": "article",
+    "source_url": "https://youram.me/blog/%EC%82%AC%EC%A3%BC-%EC%9C%A0%EB%AA%85%EC%9D%B8-%EB%AA%85%EC%8B%9D",
+    "topic": "유명인 명식 사례",
+    "content_summary": "文章用 유명인 명식 展示命理结构与公众形象、职业路径之间的对应。",
+    "rules_extracted": [
+      "名人命式是韩文传播里高频示范方式",
+      "职业气质往往通过公众形象反证命理结构"
+    ],
+    "terms_mapping": {
+      "명식": "命式",
+      "유명인 명식": "名人命式"
+    },
+    "school_perspective": "韩国名人案例派",
+    "quality_score": 0.76
+  }
+]
