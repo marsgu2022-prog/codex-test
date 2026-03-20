@@ -1,0 +1,1082 @@
+[
+  {
+    "day_master": "甲",
+    "month_branch": "子",
+    "season": "winter",
+    "primary_yongshen": "丁火（调候暖木）",
+    "secondary_yongshen": "庚金（甲木成材需庚劈）",
+    "notes": "冬木寒冷，先丁后庚",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "甲",
+    "month_branch": "丑",
+    "season": "winter",
+    "primary_yongshen": "丙火（解冻暖木）",
+    "secondary_yongshen": "庚金（斫木成材）",
+    "notes": "寒土藏湿，先火后金",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "甲",
+    "month_branch": "寅",
+    "season": "spring",
+    "primary_yongshen": "庚金（劈甲成材）",
+    "secondary_yongshen": "丙火（引发木荣）",
+    "notes": "初春木嫩，庚丙并用",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "甲",
+    "month_branch": "卯",
+    "season": "spring",
+    "primary_yongshen": "庚金（修枝定形）",
+    "secondary_yongshen": "癸水（滋根养木）",
+    "notes": "仲春木盛，宜裁宜润",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "甲",
+    "month_branch": "辰",
+    "season": "spring",
+    "primary_yongshen": "庚金（疏土理木）",
+    "secondary_yongshen": "癸水（养根通津）",
+    "notes": "湿土培木，防木郁滞",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "甲",
+    "month_branch": "巳",
+    "season": "summer",
+    "primary_yongshen": "癸水（润燥养木）",
+    "secondary_yongshen": "庚金（劈甲成器）",
+    "notes": "初夏木燥，先润后裁",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "甲",
+    "month_branch": "午",
+    "season": "summer",
+    "primary_yongshen": "壬水（济燥救木）",
+    "secondary_yongshen": "庚金（修木取材）",
+    "notes": "盛夏木焦，急需水济",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "甲",
+    "month_branch": "未",
+    "season": "summer",
+    "primary_yongshen": "癸水（润土生木）",
+    "secondary_yongshen": "庚金（整木成材）",
+    "notes": "季夏木枯，润后可裁",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "甲",
+    "month_branch": "申",
+    "season": "autumn",
+    "primary_yongshen": "丁火（制金暖木）",
+    "secondary_yongshen": "癸水（养木存根）",
+    "notes": "秋金肃杀，火水并调",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "甲",
+    "month_branch": "酉",
+    "season": "autumn",
+    "primary_yongshen": "丁火（炼金护木）",
+    "secondary_yongshen": "甲木（帮身扶根）",
+    "notes": "酉金太锐，须火制金",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "甲",
+    "month_branch": "戌",
+    "season": "autumn",
+    "primary_yongshen": "甲木（培根扶体）",
+    "secondary_yongshen": "癸水（润燥救枯）",
+    "notes": "燥土伤木，先润后扶",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "甲",
+    "month_branch": "亥",
+    "season": "winter",
+    "primary_yongshen": "丁火（暖木驱寒）",
+    "secondary_yongshen": "庚金（修木成材）",
+    "notes": "孟冬木寒，先火后金",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "乙",
+    "month_branch": "子",
+    "season": "winter",
+    "primary_yongshen": "丙火（暖藤解寒）",
+    "secondary_yongshen": "癸水（滋根养苗）",
+    "notes": "寒藤先暖，后谈滋养",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "乙",
+    "month_branch": "丑",
+    "season": "winter",
+    "primary_yongshen": "丙火（解冻扶苗）",
+    "secondary_yongshen": "癸水（润土养根）",
+    "notes": "寒湿重，先火后水",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "乙",
+    "month_branch": "寅",
+    "season": "spring",
+    "primary_yongshen": "癸水（润木舒条）",
+    "secondary_yongshen": "丙火（发荣扬秀）",
+    "notes": "初春乙木，喜润喜阳",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "乙",
+    "month_branch": "卯",
+    "season": "spring",
+    "primary_yongshen": "丙火（泄秀成文）",
+    "secondary_yongshen": "癸水（养根留津）",
+    "notes": "仲春藤萝，宜火水相济",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "乙",
+    "month_branch": "辰",
+    "season": "spring",
+    "primary_yongshen": "癸水（培根生机）",
+    "secondary_yongshen": "丙火（除湿发荣）",
+    "notes": "湿土藏木，先润后暄",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "乙",
+    "month_branch": "巳",
+    "season": "summer",
+    "primary_yongshen": "壬水（润燥保鲜）",
+    "secondary_yongshen": "癸水（护根养条）",
+    "notes": "初夏乙木，急需水润",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "乙",
+    "month_branch": "午",
+    "season": "summer",
+    "primary_yongshen": "壬水（解炎护木）",
+    "secondary_yongshen": "癸水（续津保根）",
+    "notes": "盛夏柔木，水为第一",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "乙",
+    "month_branch": "未",
+    "season": "summer",
+    "primary_yongshen": "癸水（润枯回生）",
+    "secondary_yongshen": "甲木（帮扶立骨）",
+    "notes": "未月木疲，润扶并行",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "乙",
+    "month_branch": "申",
+    "season": "autumn",
+    "primary_yongshen": "丙火（制金护藤）",
+    "secondary_yongshen": "癸水（护根留润）",
+    "notes": "金旺伤木，宜火水兼调",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "乙",
+    "month_branch": "酉",
+    "season": "autumn",
+    "primary_yongshen": "丙火（暖金护木）",
+    "secondary_yongshen": "癸水（滋根保柔）",
+    "notes": "秋金锐利，先火后水",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "乙",
+    "month_branch": "戌",
+    "season": "autumn",
+    "primary_yongshen": "癸水（润燥护苗）",
+    "secondary_yongshen": "丙火（和气发荣）",
+    "notes": "燥土伤藤，先润后暖",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "乙",
+    "month_branch": "亥",
+    "season": "winter",
+    "primary_yongshen": "丙火（暖局扶木）",
+    "secondary_yongshen": "癸水（滋根养条）",
+    "notes": "冬藤畏寒，火水并需",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "丙",
+    "month_branch": "子",
+    "season": "winter",
+    "primary_yongshen": "甲木（引火通明）",
+    "secondary_yongshen": "戊土（制水护焰）",
+    "notes": "寒水压火，先木后土",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "丙",
+    "month_branch": "丑",
+    "season": "winter",
+    "primary_yongshen": "甲木（助焰生辉）",
+    "secondary_yongshen": "丙火（扶阳暖局）",
+    "notes": "湿寒未解，木火并扶",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "丙",
+    "month_branch": "寅",
+    "season": "spring",
+    "primary_yongshen": "壬水（调候映阳）",
+    "secondary_yongshen": "甲木（生火扬光）",
+    "notes": "春丙阳和，壬甲并妙",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "丙",
+    "month_branch": "卯",
+    "season": "spring",
+    "primary_yongshen": "壬水（辅映清辉）",
+    "secondary_yongshen": "庚金（发水之源）",
+    "notes": "木旺火相，宜水济之",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "丙",
+    "month_branch": "辰",
+    "season": "spring",
+    "primary_yongshen": "壬水（调燥清气）",
+    "secondary_yongshen": "甲木（生火立体）",
+    "notes": "湿土晦火，水木并看",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "丙",
+    "month_branch": "巳",
+    "season": "summer",
+    "primary_yongshen": "壬水（济炎保明）",
+    "secondary_yongshen": "庚金（发源佐水）",
+    "notes": "巳火当令，先水后金",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "丙",
+    "month_branch": "午",
+    "season": "summer",
+    "primary_yongshen": "壬水（调候降炎）",
+    "secondary_yongshen": "癸水（辅济存光）",
+    "notes": "午火极旺，专要壬癸",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "丙",
+    "month_branch": "未",
+    "season": "summer",
+    "primary_yongshen": "壬水（退炎润燥）",
+    "secondary_yongshen": "甲木（续焰成名）",
+    "notes": "燥土晦火，水木同参",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "丙",
+    "month_branch": "申",
+    "season": "autumn",
+    "primary_yongshen": "甲木（生火抗金）",
+    "secondary_yongshen": "丙火（扶阳暖局）",
+    "notes": "申金伤火，先木后火",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "丙",
+    "month_branch": "酉",
+    "season": "autumn",
+    "primary_yongshen": "甲木（制金生火）",
+    "secondary_yongshen": "丙火（炼金扬光）",
+    "notes": "酉金太冷，木火并用",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "丙",
+    "month_branch": "戌",
+    "season": "autumn",
+    "primary_yongshen": "甲木（培火根源）",
+    "secondary_yongshen": "壬水（润燥清气）",
+    "notes": "燥土藏火，宜木水互济",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "丙",
+    "month_branch": "亥",
+    "season": "winter",
+    "primary_yongshen": "甲木（引火制寒）",
+    "secondary_yongshen": "戊土（御水护焰）",
+    "notes": "亥水旺寒，先木后土",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "丁",
+    "month_branch": "子",
+    "season": "winter",
+    "primary_yongshen": "甲木（引丁续焰）",
+    "secondary_yongshen": "丙火（扶灯增辉）",
+    "notes": "寒水灭灯，先木后火",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "丁",
+    "month_branch": "丑",
+    "season": "winter",
+    "primary_yongshen": "甲木（助丁暖局）",
+    "secondary_yongshen": "丙火（扶阳解寒）",
+    "notes": "湿寒重，须木火并举",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "丁",
+    "month_branch": "寅",
+    "season": "spring",
+    "primary_yongshen": "甲木（生丁立灯）",
+    "secondary_yongshen": "庚金（劈甲取明）",
+    "notes": "春丁喜甲，庚可佐成",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "丁",
+    "month_branch": "卯",
+    "season": "spring",
+    "primary_yongshen": "甲木（扶灯吐秀）",
+    "secondary_yongshen": "癸水（滋木续源）",
+    "notes": "卯月丁火，木为命脉",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "丁",
+    "month_branch": "辰",
+    "season": "spring",
+    "primary_yongshen": "甲木（疏土生焰）",
+    "secondary_yongshen": "庚金（取材引火）",
+    "notes": "辰土藏湿，木金并参",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "丁",
+    "month_branch": "巳",
+    "season": "summer",
+    "primary_yongshen": "壬水（济炎护灯）",
+    "secondary_yongshen": "甲木（持灯续火）",
+    "notes": "火旺灯焦，急需壬水",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "丁",
+    "month_branch": "午",
+    "season": "summer",
+    "primary_yongshen": "壬水（制烈存辉）",
+    "secondary_yongshen": "甲木（续焰护体）",
+    "notes": "午月丁火，先水后木",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "丁",
+    "month_branch": "未",
+    "season": "summer",
+    "primary_yongshen": "甲木（续火生机）",
+    "secondary_yongshen": "壬水（润燥清气）",
+    "notes": "季夏灯火，木水并取",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "丁",
+    "month_branch": "申",
+    "season": "autumn",
+    "primary_yongshen": "甲木（抗金生丁）",
+    "secondary_yongshen": "丙火（帮身增辉）",
+    "notes": "金旺火弱，先甲后丙",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "丁",
+    "month_branch": "酉",
+    "season": "autumn",
+    "primary_yongshen": "甲木（敌金护火）",
+    "secondary_yongshen": "丙火（暖局扶光）",
+    "notes": "酉金伤丁，木火同求",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "丁",
+    "month_branch": "戌",
+    "season": "autumn",
+    "primary_yongshen": "甲木（生丁引焰）",
+    "secondary_yongshen": "壬水（润燥保明）",
+    "notes": "燥土晦火，木水兼顾",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "丁",
+    "month_branch": "亥",
+    "season": "winter",
+    "primary_yongshen": "甲木（引丁驱寒）",
+    "secondary_yongshen": "丙火（帮暖护灯）",
+    "notes": "冬灯畏水，木火为急",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "戊",
+    "month_branch": "子",
+    "season": "winter",
+    "primary_yongshen": "丙火（暖土除寒）",
+    "secondary_yongshen": "甲木（疏土通气）",
+    "notes": "寒湿之土，先火后木",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "戊",
+    "month_branch": "丑",
+    "season": "winter",
+    "primary_yongshen": "丙火（温土化冻）",
+    "secondary_yongshen": "甲木（疏通厚土）",
+    "notes": "丑土湿冷，火木并先",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "戊",
+    "month_branch": "寅",
+    "season": "spring",
+    "primary_yongshen": "丙火（暖湿扶土）",
+    "secondary_yongshen": "甲木（疏土生机）",
+    "notes": "春土湿滞，先暖后疏",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "戊",
+    "month_branch": "卯",
+    "season": "spring",
+    "primary_yongshen": "丙火（晒土祛湿）",
+    "secondary_yongshen": "甲木（疏松田园）",
+    "notes": "卯木克土，须火木调和",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "戊",
+    "month_branch": "辰",
+    "season": "spring",
+    "primary_yongshen": "甲木（疏土开库）",
+    "secondary_yongshen": "丙火（暖湿振土）",
+    "notes": "辰为湿土，最喜甲丙",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "戊",
+    "month_branch": "巳",
+    "season": "summer",
+    "primary_yongshen": "壬水（润燥救土）",
+    "secondary_yongshen": "甲木（疏土通达）",
+    "notes": "初夏土燥，先水后木",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "戊",
+    "month_branch": "午",
+    "season": "summer",
+    "primary_yongshen": "壬水（济燥退炎）",
+    "secondary_yongshen": "甲木（通关疏土）",
+    "notes": "盛夏焦土，壬水为先",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "戊",
+    "month_branch": "未",
+    "season": "summer",
+    "primary_yongshen": "壬水（润土回生）",
+    "secondary_yongshen": "甲木（开库疏土）",
+    "notes": "未月燥厚，润后方疏",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "戊",
+    "month_branch": "申",
+    "season": "autumn",
+    "primary_yongshen": "丙火（暖土生机）",
+    "secondary_yongshen": "癸水（润金土气）",
+    "notes": "秋土偏凉，火水并调",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "戊",
+    "month_branch": "酉",
+    "season": "autumn",
+    "primary_yongshen": "丙火（暖金土局）",
+    "secondary_yongshen": "甲木（疏土活气）",
+    "notes": "酉金泄土，宜火木相扶",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "戊",
+    "month_branch": "戌",
+    "season": "autumn",
+    "primary_yongshen": "甲木（疏燥厚土）",
+    "secondary_yongshen": "壬水（润燥救枯）",
+    "notes": "戌土燥烈，先润后疏",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "戊",
+    "month_branch": "亥",
+    "season": "winter",
+    "primary_yongshen": "丙火（暖湿成土）",
+    "secondary_yongshen": "甲木（疏土立体）",
+    "notes": "亥水冲土，须火木并见",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "己",
+    "month_branch": "子",
+    "season": "winter",
+    "primary_yongshen": "丙火（暖田去寒）",
+    "secondary_yongshen": "甲木（疏土种植）",
+    "notes": "寒田不生，先火后木",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "己",
+    "month_branch": "丑",
+    "season": "winter",
+    "primary_yongshen": "丙火（培暖和泥）",
+    "secondary_yongshen": "甲木（疏通田畴）",
+    "notes": "湿泥难用，火木并举",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "己",
+    "month_branch": "寅",
+    "season": "spring",
+    "primary_yongshen": "丙火（暖土养苗）",
+    "secondary_yongshen": "甲木（疏土成田）",
+    "notes": "春泥偏湿，宜暖宜疏",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "己",
+    "month_branch": "卯",
+    "season": "spring",
+    "primary_yongshen": "丙火（暖田扶土）",
+    "secondary_yongshen": "癸水（润苗留津）",
+    "notes": "卯木旺克，火水并调",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "己",
+    "month_branch": "辰",
+    "season": "spring",
+    "primary_yongshen": "甲木（疏土去滞）",
+    "secondary_yongshen": "丙火（除湿暖田）",
+    "notes": "辰土多湿，甲丙最宜",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "己",
+    "month_branch": "巳",
+    "season": "summer",
+    "primary_yongshen": "癸水（润田解燥）",
+    "secondary_yongshen": "甲木（通根活土）",
+    "notes": "初夏己土，先润后疏",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "己",
+    "month_branch": "午",
+    "season": "summer",
+    "primary_yongshen": "癸水（解燥保田）",
+    "secondary_yongshen": "甲木（通关生机）",
+    "notes": "午火灼土，癸水为急",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "己",
+    "month_branch": "未",
+    "season": "summer",
+    "primary_yongshen": "癸水（润土培植）",
+    "secondary_yongshen": "甲木（疏土立苗）",
+    "notes": "未土干厚，润木并行",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "己",
+    "month_branch": "申",
+    "season": "autumn",
+    "primary_yongshen": "丙火（暖土成器）",
+    "secondary_yongshen": "癸水（调润金土）",
+    "notes": "秋田偏凉，火水俱要",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "己",
+    "month_branch": "酉",
+    "season": "autumn",
+    "primary_yongshen": "丙火（和气暖田）",
+    "secondary_yongshen": "甲木（疏土通脉）",
+    "notes": "酉金凉薄，火木扶之",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "己",
+    "month_branch": "戌",
+    "season": "autumn",
+    "primary_yongshen": "癸水（润燥和泥）",
+    "secondary_yongshen": "甲木（疏土开田）",
+    "notes": "戌土太燥，先润后木",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "己",
+    "month_branch": "亥",
+    "season": "winter",
+    "primary_yongshen": "丙火（暖泥成田）",
+    "secondary_yongshen": "甲木（通关疏土）",
+    "notes": "冬泥湿冷，火木同求",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "庚",
+    "month_branch": "子",
+    "season": "winter",
+    "primary_yongshen": "丙火（炼金出矿）",
+    "secondary_yongshen": "戊土（培根护体）",
+    "notes": "寒金沉水，先火后土",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "庚",
+    "month_branch": "丑",
+    "season": "winter",
+    "primary_yongshen": "丁火（锻金成器）",
+    "secondary_yongshen": "甲木（引火发用）",
+    "notes": "湿土埋金，丁甲并用",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "庚",
+    "month_branch": "寅",
+    "season": "spring",
+    "primary_yongshen": "丁火（炼金驱寒）",
+    "secondary_yongshen": "甲木（疏土引丁）",
+    "notes": "春金未实，先火后木",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "庚",
+    "month_branch": "卯",
+    "season": "spring",
+    "primary_yongshen": "丁火（炼金成锋）",
+    "secondary_yongshen": "甲木（引丁制木）",
+    "notes": "卯木旺盛，丁甲相配",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "庚",
+    "month_branch": "辰",
+    "season": "spring",
+    "primary_yongshen": "丁火（炼金除湿）",
+    "secondary_yongshen": "壬水（淘洗出矿）",
+    "notes": "辰湿埋金，火水并用",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "庚",
+    "month_branch": "巳",
+    "season": "summer",
+    "primary_yongshen": "壬水（济火凉金）",
+    "secondary_yongshen": "戊土（护金培根）",
+    "notes": "巳火炼庚，壬土为助",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "庚",
+    "month_branch": "午",
+    "season": "summer",
+    "primary_yongshen": "壬水（凉金退炎）",
+    "secondary_yongshen": "戊土（培根存体）",
+    "notes": "午火太烈，专取壬戊",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "庚",
+    "month_branch": "未",
+    "season": "summer",
+    "primary_yongshen": "壬水（润燥护金）",
+    "secondary_yongshen": "戊土（养金蓄气）",
+    "notes": "未土焦燥，水土并调",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "庚",
+    "month_branch": "申",
+    "season": "autumn",
+    "primary_yongshen": "丁火（锻金成器）",
+    "secondary_yongshen": "甲木（引火发用）",
+    "notes": "金旺需炼，丁甲为先",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "庚",
+    "month_branch": "酉",
+    "season": "autumn",
+    "primary_yongshen": "丁火（炼金显锋）",
+    "secondary_yongshen": "壬水（淘洗去垢）",
+    "notes": "酉金太寒，火水兼需",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "庚",
+    "month_branch": "戌",
+    "season": "autumn",
+    "primary_yongshen": "甲木（引火炼金）",
+    "secondary_yongshen": "壬水（润燥清金）",
+    "notes": "燥土埋金，木水同参",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "庚",
+    "month_branch": "亥",
+    "season": "winter",
+    "primary_yongshen": "丁火（温金去寒）",
+    "secondary_yongshen": "戊土（培元护金）",
+    "notes": "亥水寒金，丁戊为先",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "辛",
+    "month_branch": "子",
+    "season": "winter",
+    "primary_yongshen": "丙火（温珠发辉）",
+    "secondary_yongshen": "戊土（培源定体）",
+    "notes": "寒水埋辛，先火后土",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "辛",
+    "month_branch": "丑",
+    "season": "winter",
+    "primary_yongshen": "丙火（暖金解寒）",
+    "secondary_yongshen": "壬水（淘洗去浊）",
+    "notes": "丑湿藏辛，火水并用",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "辛",
+    "month_branch": "寅",
+    "season": "spring",
+    "primary_yongshen": "壬水（润金养秀）",
+    "secondary_yongshen": "丙火（映珠生辉）",
+    "notes": "春辛喜润，火为外彩",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "辛",
+    "month_branch": "卯",
+    "season": "spring",
+    "primary_yongshen": "壬水（洗辛留清）",
+    "secondary_yongshen": "丙火（发辉成名）",
+    "notes": "卯木耗辛，火水并济",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "辛",
+    "month_branch": "辰",
+    "season": "spring",
+    "primary_yongshen": "壬水（淘洗明珠）",
+    "secondary_yongshen": "丙火（映光除湿）",
+    "notes": "辰湿晦金，水火同取",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "辛",
+    "month_branch": "巳",
+    "season": "summer",
+    "primary_yongshen": "壬水（济烈凉金）",
+    "secondary_yongshen": "戊土（藏金护体）",
+    "notes": "巳火克辛，壬戊为急",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "辛",
+    "month_branch": "午",
+    "season": "summer",
+    "primary_yongshen": "壬水（凉金止烈）",
+    "secondary_yongshen": "戊土（培根定器）",
+    "notes": "午火熔辛，专重壬戊",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "辛",
+    "month_branch": "未",
+    "season": "summer",
+    "primary_yongshen": "壬水（润燥养金）",
+    "secondary_yongshen": "戊土（养金培本）",
+    "notes": "未月燥土，水土两宜",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "辛",
+    "month_branch": "申",
+    "season": "autumn",
+    "primary_yongshen": "丙火（炼辛出彩）",
+    "secondary_yongshen": "壬水（淘洗增明）",
+    "notes": "申金旺地，需火水成器",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "辛",
+    "month_branch": "酉",
+    "season": "autumn",
+    "primary_yongshen": "丙火（显辉成名）",
+    "secondary_yongshen": "壬水（清洗去垢）",
+    "notes": "酉辛当旺，火水并美",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "辛",
+    "month_branch": "戌",
+    "season": "autumn",
+    "primary_yongshen": "壬水（润燥护辛）",
+    "secondary_yongshen": "丙火（映辉暖局）",
+    "notes": "燥土埋珠，先润后映",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "辛",
+    "month_branch": "亥",
+    "season": "winter",
+    "primary_yongshen": "丙火（温辛驱寒）",
+    "secondary_yongshen": "戊土（培源护珠）",
+    "notes": "亥寒损辉，火土为先",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "壬",
+    "month_branch": "子",
+    "season": "winter",
+    "primary_yongshen": "戊土（制泛安流）",
+    "secondary_yongshen": "丙火（暖局除寒）",
+    "notes": "旺水泛滥，先土后火",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "壬",
+    "month_branch": "丑",
+    "season": "winter",
+    "primary_yongshen": "丙火（暖水解寒）",
+    "secondary_yongshen": "戊土（堤防定势）",
+    "notes": "寒湿重，火土并先",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "壬",
+    "month_branch": "寅",
+    "season": "spring",
+    "primary_yongshen": "戊土（制泄护源）",
+    "secondary_yongshen": "庚金（生水续源）",
+    "notes": "木旺泄水，土金并用",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "壬",
+    "month_branch": "卯",
+    "season": "spring",
+    "primary_yongshen": "庚金（生水护源）",
+    "secondary_yongshen": "戊土（堤防节流）",
+    "notes": "卯木泄壬，庚戊为宜",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "壬",
+    "month_branch": "辰",
+    "season": "spring",
+    "primary_yongshen": "庚金（发源开库）",
+    "secondary_yongshen": "戊土（防泛成形）",
+    "notes": "辰湿纳水，金土同参",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "壬",
+    "month_branch": "巳",
+    "season": "summer",
+    "primary_yongshen": "庚金（生水救源）",
+    "secondary_yongshen": "壬水（帮身续流）",
+    "notes": "火旺耗水，先金后比",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "壬",
+    "month_branch": "午",
+    "season": "summer",
+    "primary_yongshen": "庚金（发源制火）",
+    "secondary_yongshen": "壬水（帮扶水势）",
+    "notes": "午火蒸干，专取庚壬",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "壬",
+    "month_branch": "未",
+    "season": "summer",
+    "primary_yongshen": "庚金（生水润土）",
+    "secondary_yongshen": "戊土（培堤安流）",
+    "notes": "燥土耗水，金土兼顾",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "壬",
+    "month_branch": "申",
+    "season": "autumn",
+    "primary_yongshen": "戊土（堤防制泛）",
+    "secondary_yongshen": "丙火（暖局成用）",
+    "notes": "申金生水，须土火调平",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "壬",
+    "month_branch": "酉",
+    "season": "autumn",
+    "primary_yongshen": "戊土（制泛收势）",
+    "secondary_yongshen": "丙火（调候暖流）",
+    "notes": "酉金助寒，宜土火制衡",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "壬",
+    "month_branch": "戌",
+    "season": "autumn",
+    "primary_yongshen": "庚金（生水续源）",
+    "secondary_yongshen": "戊土（堤防定形）",
+    "notes": "燥土耗水，金土并看",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "壬",
+    "month_branch": "亥",
+    "season": "winter",
+    "primary_yongshen": "戊土（制泛护堤）",
+    "secondary_yongshen": "丙火（暖水驱寒）",
+    "notes": "亥水当旺，先土后火",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "癸",
+    "month_branch": "子",
+    "season": "winter",
+    "primary_yongshen": "丙火（暖水除寒）",
+    "secondary_yongshen": "戊土（制寒定流）",
+    "notes": "癸水阴寒，火土为急",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "癸",
+    "month_branch": "丑",
+    "season": "winter",
+    "primary_yongshen": "丙火（解冻暖水）",
+    "secondary_yongshen": "庚金（生源助流）",
+    "notes": "丑湿寒重，先火后金",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "癸",
+    "month_branch": "寅",
+    "season": "spring",
+    "primary_yongshen": "庚金（发水生源）",
+    "secondary_yongshen": "戊土（节流定势）",
+    "notes": "寅木泄癸，金土并用",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "癸",
+    "month_branch": "卯",
+    "season": "spring",
+    "primary_yongshen": "庚金（生水续源）",
+    "secondary_yongshen": "辛金（助源提纯）",
+    "notes": "卯木泄水，双金护源",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "癸",
+    "month_branch": "辰",
+    "season": "spring",
+    "primary_yongshen": "庚金（发源开库）",
+    "secondary_yongshen": "丙火（除湿暖局）",
+    "notes": "辰湿困水，金火并参",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "癸",
+    "month_branch": "巳",
+    "season": "summer",
+    "primary_yongshen": "辛金（生水护源）",
+    "secondary_yongshen": "癸水（帮身续津）",
+    "notes": "巳火耗水，先金后比",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "癸",
+    "month_branch": "午",
+    "season": "summer",
+    "primary_yongshen": "辛金（生源解炎）",
+    "secondary_yongshen": "壬水（帮身抗蒸）",
+    "notes": "午火最烈，辛壬并要",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "癸",
+    "month_branch": "未",
+    "season": "summer",
+    "primary_yongshen": "辛金（生水润土）",
+    "secondary_yongshen": "庚金（助源通脉）",
+    "notes": "未土燥厚，双金发源",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "癸",
+    "month_branch": "申",
+    "season": "autumn",
+    "primary_yongshen": "丙火（暖局去寒）",
+    "secondary_yongshen": "辛金（生源增清）",
+    "notes": "申金助寒，火金调平",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "癸",
+    "month_branch": "酉",
+    "season": "autumn",
+    "primary_yongshen": "丙火（调候增温）",
+    "secondary_yongshen": "辛金（淘洗助源）",
+    "notes": "酉金阴寒，先火后金",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "癸",
+    "month_branch": "戌",
+    "season": "autumn",
+    "primary_yongshen": "庚金（发源润燥）",
+    "secondary_yongshen": "丙火（暖局通阳）",
+    "notes": "戌土燥涩，金火并行",
+    "source": "穷通宝鉴"
+  },
+  {
+    "day_master": "癸",
+    "month_branch": "亥",
+    "season": "winter",
+    "primary_yongshen": "丙火（暖水驱寒）",
+    "secondary_yongshen": "戊土（制寒安流）",
+    "notes": "亥水寒盛，先火后土",
+    "source": "穷通宝鉴"
+  }
+]
