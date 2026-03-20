@@ -1,0 +1,44 @@
+{
+  "strict": [
+    "serial killer",
+    "terrorist",
+    "mass murderer",
+    "cult leader",
+    "war criminal",
+    "pornographic actor",
+    "adult film actor",
+    "adult entertainer",
+    "连环杀手",
+    "恐怖分子",
+    "邪教",
+    "邪教头目",
+    "战犯",
+    "色情演员",
+    "成人视频",
+    "擦边网红"
+  ],
+  "categories": {
+    "violence": [
+      "serial killer",
+      "terrorist",
+      "mass murderer",
+      "war criminal",
+      "连环杀手",
+      "恐怖分子",
+      "战犯"
+    ],
+    "cult": [
+      "cult leader",
+      "邪教",
+      "邪教头目"
+    ],
+    "adult": [
+      "pornographic actor",
+      "adult film actor",
+      "adult entertainer",
+      "色情演员",
+      "成人视频",
+      "擦边网红"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "total_count": 14042,
+  "with_birth_time": {
+    "count": 0,
+    "ratio": 0.0
+  },
+  "with_birth_city": {
+    "count": 0,
+    "ratio": 0.0
+  },
+  "with_occupation": {
+    "count": 14042,
+    "ratio": 1.0
+  },
+  "with_notable_events": {
+    "count": 0,
+    "ratio": 0.0
+  },
+  "occupation_distribution": {
+    "作家": 4587,
+    "政治家": 4274,
+    "演员": 3782,
+    "企业家": 3273,
+    "音乐家": 3236,
+    "科学家": 1400,
+    "运动员": 1236
+  }
+}

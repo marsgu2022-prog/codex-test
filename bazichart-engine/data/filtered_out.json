@@ -1,0 +1,635 @@
+{
+  "total_input": 14042,
+  "filtered_count": 49,
+  "kept_count": 13993,
+  "reason_breakdown": {
+    "adult": 33,
+    "cult": 2,
+    "violence": 14
+  },
+  "filtered_records": [
+    {
+      "id": "Q63888",
+      "name_zh": "弗里德里希·弗利克",
+      "name_en": "Friedrich Flick",
+      "birth_date": "1883-07-10",
+      "matched_category": "violence",
+      "matched_keyword": "war criminal",
+      "occupation": [
+        "企业家"
+      ],
+      "summary": "German businessperson, convicted of WWII war crimes (1883-1972)"
+    },
+    {
+      "id": "Q623326",
+      "name_zh": "Aquilino Ribeiro",
+      "name_en": "Aquilino Ribeiro",
+      "birth_date": "1885-09-13",
+      "matched_category": "violence",
+      "matched_keyword": "terrorist",
+      "occupation": [
+        "作家"
+      ],
+      "summary": "Portuguese writer and diplomat (1885–1963)"
+    },
+    {
+      "id": "Q47906",
+      "name_zh": "赫尔曼·戈林",
+      "name_en": "Hermann Göring",
+      "birth_date": "1893-01-12",
+      "matched_category": "violence",
+      "matched_keyword": "war criminal",
+      "occupation": [
+        "政治家"
+      ],
+      "summary": "纳粹德国帝国元帅"
+    },
+    {
+      "id": "Q481344",
+      "name_zh": "彼得·门滕",
+      "name_en": "Pieter Menten",
+      "birth_date": "1899-05-26",
+      "matched_category": "violence",
+      "matched_keyword": "war criminal",
+      "occupation": [
+        "企业家"
+      ],
+      "summary": "Dutch war criminal, art collector and businessman (1899–1987)"
+    },
+    {
+      "id": "Q78473",
+      "name_zh": "恩斯特·卡爾滕布倫納",
+      "name_en": "Ernst Kaltenbrunner",
+      "birth_date": "1903-10-04",
+      "matched_category": "violence",
+      "matched_keyword": "war criminal",
+      "occupation": [
+        "政治家"
+      ],
+      "summary": "Austrian SS official, a major perpetrator of the Holocaust and convicted war criminal (1903-1946)"
+    },
+    {
+      "id": "Q4021170",
+      "name_zh": "Władysław Mazurkiewicz",
+      "name_en": "Władysław Mazurkiewicz",
+      "birth_date": "1911-01-31",
+      "matched_category": "violence",
+      "matched_keyword": "serial killer",
+      "occupation": [
+        "企业家"
+      ],
+      "summary": "Polish serial killer (1911-1957)"
+    },
+    {
+      "id": "Q16262161",
+      "name_zh": "崔太敏",
+      "name_en": "Choi Tae-min",
+      "birth_date": "1912-08-25",
+      "matched_category": "cult",
+      "matched_keyword": "cult leader",
+      "occupation": [
+        "企业家"
+      ],
+      "summary": "韩国牧师"
+    },
+    {
+      "id": "Q66329",
+      "name_zh": "Josef Scheungraber",
+      "name_en": "Josef Scheungraber",
+      "birth_date": "1918-09-08",
+      "matched_category": "violence",
+      "matched_keyword": "war criminal",
+      "occupation": [
+        "企业家"
+      ],
+      "summary": "German war criminal (1918–2015)"
+    },
+    {
+      "id": "Q66107",
+      "name_zh": "亨利·基辛格",
+      "name_en": "Henry Kissinger",
+      "birth_date": "1923-05-27",
+      "matched_category": "violence",
+      "matched_keyword": "war criminal",
+      "occupation": [
+        "政治家",
+        "作家",
+        "企业家",
+        "科学家"
+      ],
+      "summary": "美國政治人物、外交官"
+    },
+    {
+      "id": "Q321322",
+      "name_zh": "阿维马埃尔·古斯曼",
+      "name_en": "Abimael Guzmán",
+      "birth_date": "1934-12-03",
+      "matched_category": "violence",
+      "matched_keyword": "terrorist",
+      "occupation": [
+        "政治家"
+      ],
+      "summary": "秘鲁左翼活动家"
+    },
+    {
+      "id": "Q711477",
+      "name_zh": "Frans van Anraat",
+      "name_en": "Frans van Anraat",
+      "birth_date": "1942-08-09",
+      "matched_category": "violence",
+      "matched_keyword": "war criminal",
+      "occupation": [
+        "科学家",
+        "企业家"
+      ],
+      "summary": "War criminal"
+    },
+    {
+      "id": "Q4311299",
+      "name_zh": "阿卜杜爾·誇德·莫拉",
+      "name_en": "Abdul Quader Molla",
+      "birth_date": "1948-08-14",
+      "matched_category": "violence",
+      "matched_keyword": "war criminal",
+      "occupation": [
+        "政治家"
+      ],
+      "summary": "convicted war criminal and Islamist politician from Bangladesh"
+    },
+    {
+      "id": "Q49941",
+      "name_zh": "伊蘿娜·史特拉",
+      "name_en": "Ilona Staller",
+      "birth_date": "1951-11-26",
+      "matched_category": "adult",
+      "matched_keyword": "pornographic actor",
+      "occupation": [
+        "政治家",
+        "音乐家",
+        "演员"
+      ],
+      "summary": "Hungarian-born Italian pornographic actress, singer and politician"
+    },
+    {
+      "id": "Q311669",
+      "name_zh": "麻原彰晃",
+      "name_en": "Shōkō Asahara",
+      "birth_date": "1955-03-02",
+      "matched_category": "violence",
+      "matched_keyword": "serial killer",
+      "occupation": [
+        "作家",
+        "音乐家"
+      ],
+      "summary": "日本宗教人物・前任真理黨黨魁、真理國最高領導人"
+    },
+    {
+      "id": "Q27514522",
+      "name_zh": "崔顺实",
+      "name_en": "Choi Sun-sil",
+      "birth_date": "1956-06-23",
+      "matched_category": "cult",
+      "matched_keyword": "cult leader",
+      "occupation": [
+        "企业家"
+      ],
+      "summary": "朴槿惠密友"
+    },
+    {
+      "id": "Q16202958",
+      "name_zh": "丘伊·布拉沃",
+      "name_en": "Chuy Bravo",
+      "birth_date": "1956-12-07",
+      "matched_category": "adult",
+      "matched_keyword": "pornographic actor",
+      "occupation": [
+        "演员"
+      ],
+      "summary": "美国演员"
+    },
+    {
+      "id": "Q6434867",
+      "name_zh": "Kovi",
+      "name_en": "Kovi",
+      "birth_date": "1957-01-24",
+      "matched_category": "adult",
+      "matched_keyword": "pornographic actor",
+      "occupation": [
+        "企业家",
+        "演员"
+      ],
+      "summary": "Hungarian pornographic film director"
+    },
+    {
+      "id": "Q1317",
+      "name_zh": "奥萨马·本·拉登",
+      "name_en": "Osama bin Laden",
+      "birth_date": "1957-03-10",
+      "matched_category": "violence",
+      "matched_keyword": "terrorist",
+      "occupation": [
+        "企业家",
+        "科学家"
+      ],
+      "summary": "基地组织的创始人"
+    },
+    {
+      "id": "Q443573",
+      "name_zh": "Helen Duval",
+      "name_en": "Helen Duval",
+      "birth_date": "1965-09-19",
+      "matched_category": "adult",
+      "matched_keyword": "pornographic actor",
+      "occupation": [
+        "企业家",
+        "演员"
+      ],
+      "summary": "Dutch pornographic actress, director, producer and entrepreneur"
+    },
+    {
+      "id": "Q178527",
+      "name_zh": "Arpad Miklos",
+      "name_en": "Arpad Miklos",
+      "birth_date": "1967-09-11",
+      "matched_category": "adult",
+      "matched_keyword": "pornographic actor",
+      "occupation": [
+        "演员",
+        "科学家"
+      ],
+      "summary": "Hungarian pornographic actor"
+    },
+    {
+      "id": "Q77589",
+      "name_zh": "Dolly Buster",
+      "name_en": "Dolly Buster",
+      "birth_date": "1969-10-23",
+      "matched_category": "adult",
+      "matched_keyword": "pornographic actor",
+      "occupation": [
+        "政治家",
+        "演员"
+      ],
+      "summary": "Czech-German pornographic actress, film producer and director"
+    },
+    {
+      "id": "Q256032",
+      "name_zh": "Kobe Tai",
+      "name_en": "Kobe Tai",
+      "birth_date": "1972-01-15",
+      "matched_category": "adult",
+      "matched_keyword": "pornographic actor",
+      "occupation": [
+        "演员"
+      ],
+      "summary": "American pornographic actress"
+    },
+    {
+      "id": "Q260770",
+      "name_zh": "郭盈恩",
+      "name_en": "Annabel Chong",
+      "birth_date": "1972-05-22",
+      "matched_category": "adult",
+      "matched_keyword": "pornographic actor",
+      "occupation": [
+        "演员",
+        "科学家"
+      ],
+      "summary": "Singaporean-American pornographic actress"
+    },
+    {
+      "id": "Q1035295",
+      "name_zh": "伊娃·亨格",
+      "name_en": "Éva Henger",
+      "birth_date": "1972-11-02",
+      "matched_category": "adult",
+      "matched_keyword": "pornographic actor",
+      "occupation": [
+        "演员",
+        "音乐家",
+        "作家"
+      ],
+      "summary": "Italian mainstream and pornographic actress with Hungarian roots"
+    },
+    {
+      "id": "Q269938",
+      "name_zh": "維多莉亞·澤德",
+      "name_en": "Victoria Zdrok",
+      "birth_date": "1973-03-03",
+      "matched_category": "adult",
+      "matched_keyword": "pornographic actor",
+      "occupation": [
+        "作家",
+        "演员"
+      ],
+      "summary": "Ukrainian-American pornographic actress"
+    },
+    {
+      "id": "Q701141",
+      "name_zh": "陳寶蓮",
+      "name_en": "Pauline Chan",
+      "birth_date": "1973-05-23",
+      "matched_category": "adult",
+      "matched_keyword": "pornographic actor",
+      "occupation": [
+        "音乐家",
+        "演员"
+      ],
+      "summary": "香港女演員"
+    },
+    {
+      "id": "Q468784",
+      "name_zh": "Tanya Hansen",
+      "name_en": "Tanya Hansen",
+      "birth_date": "1973-09-11",
+      "matched_category": "adult",
+      "matched_keyword": "pornographic actor",
+      "occupation": [
+        "企业家",
+        "演员"
+      ],
+      "summary": "Norwegian pornographic actress"
+    },
+    {
+      "id": "Q725783",
+      "name_zh": "Lukas Ridgeston",
+      "name_en": "Lukas Ridgeston",
+      "birth_date": "1974-04-05",
+      "matched_category": "adult",
+      "matched_keyword": "pornographic actor",
+      "occupation": [
+        "演员"
+      ],
+      "summary": "Slovak model and pornographic actor"
+    },
+    {
+      "id": "Q453630",
+      "name_zh": "Laura Angel",
+      "name_en": "Laura Angel",
+      "birth_date": "1974-10-16",
+      "matched_category": "adult",
+      "matched_keyword": "pornographic actor",
+      "occupation": [
+        "音乐家",
+        "演员"
+      ],
+      "summary": "Czech pornographic actress & director"
+    },
+    {
+      "id": "Q923680",
+      "name_zh": "约翰·保利克",
+      "name_en": "Johan Paulik",
+      "birth_date": "1975-03-14",
+      "matched_category": "adult",
+      "matched_keyword": "pornographic actor",
+      "occupation": [
+        "演员"
+      ],
+      "summary": "Slovak pornographic actor"
+    },
+    {
+      "id": "Q2437203",
+      "name_zh": "Titus Steel",
+      "name_en": "Titus Steel",
+      "birth_date": "1975-03-31",
+      "matched_category": "adult",
+      "matched_keyword": "pornographic actor",
+      "occupation": [
+        "企业家",
+        "演员",
+        "作家"
+      ],
+      "summary": "Adult industry entrepreneur, Producer, director, video editor"
+    },
+    {
+      "id": "Q242227",
+      "name_zh": "Diana Doll",
+      "name_en": "Diana Doll",
+      "birth_date": "1976-07-22",
+      "matched_category": "adult",
+      "matched_keyword": "pornographic actor",
+      "occupation": [
+        "演员"
+      ],
+      "summary": "Slovak pornographic actress"
+    },
+    {
+      "id": "Q1453258",
+      "name_zh": "Fredrik Eklund",
+      "name_en": "Fredrik Eklund",
+      "birth_date": "1977-04-26",
+      "matched_category": "adult",
+      "matched_keyword": "pornographic actor",
+      "occupation": [
+        "企业家",
+        "演员",
+        "作家"
+      ],
+      "summary": "Swedish businessman and pornographic actor"
+    },
+    {
+      "id": "Q168930",
+      "name_zh": "茲丹卡·波德卡波娃",
+      "name_en": "Zdeňka Podkapová",
+      "birth_date": "1977-08-06",
+      "matched_category": "adult",
+      "matched_keyword": "pornographic actor",
+      "occupation": [
+        "演员",
+        "运动员"
+      ],
+      "summary": "Czech model"
+    },
+    {
+      "id": "Q5411491",
+      "name_zh": "Felicia Tang",
+      "name_en": "Felicia Tang",
+      "birth_date": "1977-10-22",
+      "matched_category": "adult",
+      "matched_keyword": "pornographic actor",
+      "occupation": [
+        "演员"
+      ],
+      "summary": "American actress and model (1977-2009)"
+    },
+    {
+      "id": "Q242969",
+      "name_zh": "亞莉克希絲·阿莫爾",
+      "name_en": "Alexis Amore",
+      "birth_date": "1978-12-29",
+      "matched_category": "adult",
+      "matched_keyword": "pornographic actor",
+      "occupation": [
+        "演员"
+      ],
+      "summary": "pornographic performer (b. 1978)"
+    },
+    {
+      "id": "Q44220",
+      "name_zh": "安德斯·贝林·布雷维克",
+      "name_en": "Anders Behring Breivik",
+      "birth_date": "1979-02-13",
+      "matched_category": "violence",
+      "matched_keyword": "terrorist",
+      "occupation": [
+        "企业家"
+      ],
+      "summary": "挪威狂歡殺手"
+    },
+    {
+      "id": "Q540631",
+      "name_zh": "卡楚米",
+      "name_en": "Céline Tran",
+      "birth_date": "1979-04-09",
+      "matched_category": "adult",
+      "matched_keyword": "pornographic actor",
+      "occupation": [
+        "演员",
+        "企业家",
+        "作家"
+      ],
+      "summary": "French pornographic actress"
+    },
+    {
+      "id": "Q294393",
+      "name_zh": "Katalin Vad",
+      "name_en": "Katalin Vad",
+      "birth_date": "1980-01-16",
+      "matched_category": "adult",
+      "matched_keyword": "pornographic actor",
+      "occupation": [
+        "演员"
+      ],
+      "summary": "Hungarian former pornographic actress"
+    },
+    {
+      "id": "Q63682",
+      "name_zh": "西贝尔·凯基莉",
+      "name_en": "Sibel Kekilli",
+      "birth_date": "1980-06-16",
+      "matched_category": "adult",
+      "matched_keyword": "pornographic actor",
+      "occupation": [
+        "演员"
+      ],
+      "summary": "德国女演员"
+    },
+    {
+      "id": "Q260764",
+      "name_zh": "凱拉妮·蕾",
+      "name_en": "Kaylani Lei",
+      "birth_date": "1980-08-05",
+      "matched_category": "adult",
+      "matched_keyword": "pornographic actor",
+      "occupation": [
+        "演员"
+      ],
+      "summary": "American pornographic actress"
+    },
+    {
+      "id": "Q260794",
+      "name_zh": "珊妮·粱妮",
+      "name_en": "Sunny Leone",
+      "birth_date": "1981-05-13",
+      "matched_category": "adult",
+      "matched_keyword": "pornographic actor",
+      "occupation": [
+        "企业家",
+        "演员"
+      ],
+      "summary": "美國加拿大女演員，女商人，模特和前色情女演員"
+    },
+    {
+      "id": "Q233295",
+      "name_zh": "提拉·特基拉",
+      "name_en": "Tila Tequila",
+      "birth_date": "1981-10-24",
+      "matched_category": "adult",
+      "matched_keyword": "pornographic actor",
+      "occupation": [
+        "演员",
+        "音乐家",
+        "企业家",
+        "作家"
+      ],
+      "summary": "美國歌手、模特兒。新納粹分子"
+    },
+    {
+      "id": "Q60832563",
+      "name_zh": "Q60832563",
+      "name_en": "Q60832563",
+      "birth_date": "1983-04-03",
+      "matched_category": "adult",
+      "matched_keyword": "pornographic actor",
+      "occupation": [
+        "运动员",
+        "演员"
+      ],
+      "summary": "American pornographic actor"
+    },
+    {
+      "id": "Q36429",
+      "name_zh": "Aylar Lie",
+      "name_en": "Aylar Lie",
+      "birth_date": "1984-02-12",
+      "matched_category": "adult",
+      "matched_keyword": "pornographic actor",
+      "occupation": [
+        "演员",
+        "音乐家",
+        "运动员"
+      ],
+      "summary": "Iranian-Norwegian singer, model, actress and poker player"
+    },
+    {
+      "id": "Q3394365",
+      "name_zh": "Julia Alexandratou",
+      "name_en": "Julia Alexandratou",
+      "birth_date": "1985-11-24",
+      "matched_category": "adult",
+      "matched_keyword": "pornographic actor",
+      "occupation": [
+        "演员",
+        "音乐家"
+      ],
+      "summary": "Greek model, singer and actress"
+    },
+    {
+      "id": "Q233354",
+      "name_zh": "小澤瑪麗亞",
+      "name_en": "Maria Ozawa",
+      "birth_date": "1986-01-08",
+      "matched_category": "adult",
+      "matched_keyword": "pornographic actor",
+      "occupation": [
+        "演员"
+      ],
+      "summary": "日本前AV女優"
+    },
+    {
+      "id": "Q168543",
+      "name_zh": "盧佩·芳德斯",
+      "name_en": "Lupe Fuentes",
+      "birth_date": "1987-01-27",
+      "matched_category": "adult",
+      "matched_keyword": "pornographic actor",
+      "occupation": [
+        "演员"
+      ],
+      "summary": "Colombian house music producer, DJ, and former pornographic actress"
+    },
+    {
+      "id": "Q16593845",
+      "name_zh": "Veronica Rodriguez",
+      "name_en": "Veronica Rodriguez",
+      "birth_date": "1991-08-01",
+      "matched_category": "adult",
+      "matched_keyword": "pornographic actor",
+      "occupation": [
+        "音乐家",
+        "演员"
+      ],
+      "summary": "Venezuelan pornographic actress and singer"
+    }
+  ]
+}
