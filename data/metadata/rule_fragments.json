@@ -1,0 +1,1099 @@
+[
+  {
+    "rule_id": "RF001",
+    "source": "韩立知识库",
+    "category": "十神",
+    "condition": "命局出现天干甲",
+    "conclusion": "甲属阳干，五行为木",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF002",
+    "source": "滴天髓",
+    "category": "十神",
+    "condition": "日主为甲",
+    "conclusion": "先按木性与阳属性观察日主气势与流通",
+    "exceptions": [],
+    "confidence": "medium",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF003",
+    "source": "韩立知识库",
+    "category": "十神",
+    "condition": "命局出现天干乙",
+    "conclusion": "乙属阴干，五行为木",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF004",
+    "source": "滴天髓",
+    "category": "十神",
+    "condition": "日主为乙",
+    "conclusion": "先按木性与阴属性观察日主气势与流通",
+    "exceptions": [],
+    "confidence": "medium",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF005",
+    "source": "韩立知识库",
+    "category": "十神",
+    "condition": "命局出现天干丙",
+    "conclusion": "丙属阳干，五行为火",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF006",
+    "source": "滴天髓",
+    "category": "十神",
+    "condition": "日主为丙",
+    "conclusion": "先按火性与阳属性观察日主气势与流通",
+    "exceptions": [],
+    "confidence": "medium",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF007",
+    "source": "韩立知识库",
+    "category": "十神",
+    "condition": "命局出现天干丁",
+    "conclusion": "丁属阴干，五行为火",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF008",
+    "source": "滴天髓",
+    "category": "十神",
+    "condition": "日主为丁",
+    "conclusion": "先按火性与阴属性观察日主气势与流通",
+    "exceptions": [],
+    "confidence": "medium",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF009",
+    "source": "韩立知识库",
+    "category": "十神",
+    "condition": "命局出现天干戊",
+    "conclusion": "戊属阳干，五行为土",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF010",
+    "source": "滴天髓",
+    "category": "十神",
+    "condition": "日主为戊",
+    "conclusion": "先按土性与阳属性观察日主气势与流通",
+    "exceptions": [],
+    "confidence": "medium",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF011",
+    "source": "韩立知识库",
+    "category": "十神",
+    "condition": "命局出现天干己",
+    "conclusion": "己属阴干，五行为土",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF012",
+    "source": "滴天髓",
+    "category": "十神",
+    "condition": "日主为己",
+    "conclusion": "先按土性与阴属性观察日主气势与流通",
+    "exceptions": [],
+    "confidence": "medium",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF013",
+    "source": "韩立知识库",
+    "category": "十神",
+    "condition": "命局出现天干庚",
+    "conclusion": "庚属阳干，五行为金",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF014",
+    "source": "滴天髓",
+    "category": "十神",
+    "condition": "日主为庚",
+    "conclusion": "先按金性与阳属性观察日主气势与流通",
+    "exceptions": [],
+    "confidence": "medium",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF015",
+    "source": "韩立知识库",
+    "category": "十神",
+    "condition": "命局出现天干辛",
+    "conclusion": "辛属阴干，五行为金",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF016",
+    "source": "滴天髓",
+    "category": "十神",
+    "condition": "日主为辛",
+    "conclusion": "先按金性与阴属性观察日主气势与流通",
+    "exceptions": [],
+    "confidence": "medium",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF017",
+    "source": "韩立知识库",
+    "category": "十神",
+    "condition": "命局出现天干壬",
+    "conclusion": "壬属阳干，五行为水",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF018",
+    "source": "滴天髓",
+    "category": "十神",
+    "condition": "日主为壬",
+    "conclusion": "先按水性与阳属性观察日主气势与流通",
+    "exceptions": [],
+    "confidence": "medium",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF019",
+    "source": "韩立知识库",
+    "category": "十神",
+    "condition": "命局出现天干癸",
+    "conclusion": "癸属阴干，五行为水",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF020",
+    "source": "滴天髓",
+    "category": "十神",
+    "condition": "日主为癸",
+    "conclusion": "先按水性与阴属性观察日主气势与流通",
+    "exceptions": [],
+    "confidence": "medium",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF021",
+    "source": "韩立知识库",
+    "category": "格局",
+    "condition": "命局出现地支子",
+    "conclusion": "子主五行为水",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF022",
+    "source": "韩立知识库",
+    "category": "格局",
+    "condition": "分析地支子",
+    "conclusion": "子藏干为癸",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF023",
+    "source": "韩立知识库",
+    "category": "格局",
+    "condition": "命局出现地支丑",
+    "conclusion": "丑主五行为土",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF024",
+    "source": "韩立知识库",
+    "category": "格局",
+    "condition": "分析地支丑",
+    "conclusion": "丑藏干为己、癸、辛",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF025",
+    "source": "韩立知识库",
+    "category": "格局",
+    "condition": "命局出现地支寅",
+    "conclusion": "寅主五行为木",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF026",
+    "source": "韩立知识库",
+    "category": "格局",
+    "condition": "分析地支寅",
+    "conclusion": "寅藏干为甲、丙、戊",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF027",
+    "source": "韩立知识库",
+    "category": "格局",
+    "condition": "命局出现地支卯",
+    "conclusion": "卯主五行为木",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF028",
+    "source": "韩立知识库",
+    "category": "格局",
+    "condition": "分析地支卯",
+    "conclusion": "卯藏干为乙",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF029",
+    "source": "韩立知识库",
+    "category": "格局",
+    "condition": "命局出现地支辰",
+    "conclusion": "辰主五行为土",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF030",
+    "source": "韩立知识库",
+    "category": "格局",
+    "condition": "分析地支辰",
+    "conclusion": "辰藏干为戊、乙、癸",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF031",
+    "source": "韩立知识库",
+    "category": "格局",
+    "condition": "命局出现地支巳",
+    "conclusion": "巳主五行为火",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF032",
+    "source": "韩立知识库",
+    "category": "格局",
+    "condition": "分析地支巳",
+    "conclusion": "巳藏干为丙、戊、庚",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF033",
+    "source": "韩立知识库",
+    "category": "格局",
+    "condition": "命局出现地支午",
+    "conclusion": "午主五行为火",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF034",
+    "source": "韩立知识库",
+    "category": "格局",
+    "condition": "分析地支午",
+    "conclusion": "午藏干为丁、己",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF035",
+    "source": "韩立知识库",
+    "category": "格局",
+    "condition": "命局出现地支未",
+    "conclusion": "未主五行为土",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF036",
+    "source": "韩立知识库",
+    "category": "格局",
+    "condition": "分析地支未",
+    "conclusion": "未藏干为己、丁、乙",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF037",
+    "source": "韩立知识库",
+    "category": "格局",
+    "condition": "命局出现地支申",
+    "conclusion": "申主五行为金",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF038",
+    "source": "韩立知识库",
+    "category": "格局",
+    "condition": "分析地支申",
+    "conclusion": "申藏干为庚、壬、戊",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF039",
+    "source": "韩立知识库",
+    "category": "格局",
+    "condition": "命局出现地支酉",
+    "conclusion": "酉主五行为金",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF040",
+    "source": "韩立知识库",
+    "category": "格局",
+    "condition": "分析地支酉",
+    "conclusion": "酉藏干为辛",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF041",
+    "source": "韩立知识库",
+    "category": "格局",
+    "condition": "命局出现地支戌",
+    "conclusion": "戌主五行为土",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF042",
+    "source": "韩立知识库",
+    "category": "格局",
+    "condition": "分析地支戌",
+    "conclusion": "戌藏干为戊、辛、丁",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF043",
+    "source": "韩立知识库",
+    "category": "格局",
+    "condition": "命局出现地支亥",
+    "conclusion": "亥主五行为水",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF044",
+    "source": "韩立知识库",
+    "category": "格局",
+    "condition": "分析地支亥",
+    "conclusion": "亥藏干为壬、甲",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF045",
+    "source": "韩立知识库",
+    "category": "十神",
+    "condition": "以日主为中心，生我者且为异性",
+    "conclusion": "十神取正印",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF046",
+    "source": "韩立知识库",
+    "category": "十神",
+    "condition": "以日主为中心，生我者且为同性",
+    "conclusion": "十神取偏印",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF047",
+    "source": "韩立知识库",
+    "category": "十神",
+    "condition": "以日主为中心，我生者且为异性",
+    "conclusion": "十神取伤官",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF048",
+    "source": "韩立知识库",
+    "category": "十神",
+    "condition": "以日主为中心，我生者且为同性",
+    "conclusion": "十神取食神",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF049",
+    "source": "韩立知识库",
+    "category": "十神",
+    "condition": "以日主为中心，克我者且为异性",
+    "conclusion": "十神取正官",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF050",
+    "source": "韩立知识库",
+    "category": "十神",
+    "condition": "以日主为中心，克我者且为同性",
+    "conclusion": "十神取七杀",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF051",
+    "source": "韩立知识库",
+    "category": "十神",
+    "condition": "以日主为中心，我克者且为异性",
+    "conclusion": "十神取正财",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF052",
+    "source": "韩立知识库",
+    "category": "十神",
+    "condition": "以日主为中心，我克者且为同性",
+    "conclusion": "十神取偏财",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF053",
+    "source": "韩立知识库",
+    "category": "十神",
+    "condition": "以日主为中心，同我者且为异性",
+    "conclusion": "十神取劫财",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF054",
+    "source": "韩立知识库",
+    "category": "十神",
+    "condition": "以日主为中心，同我者且为同性",
+    "conclusion": "十神取比肩",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF055",
+    "source": "盲派",
+    "category": "十神",
+    "condition": "命局比肩明显",
+    "conclusion": "多见独立、自尊、固执、竞争",
+    "exceptions": [
+      "需结合旺衰与组合，不能只凭性格词直断"
+    ],
+    "confidence": "medium",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF056",
+    "source": "盲派",
+    "category": "十神",
+    "condition": "命局劫财明显",
+    "conclusion": "多见果断、冲动、好胜、交际广",
+    "exceptions": [
+      "需结合旺衰与组合，不能只凭性格词直断"
+    ],
+    "confidence": "medium",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF057",
+    "source": "盲派",
+    "category": "十神",
+    "condition": "命局食神明显",
+    "conclusion": "多见温和、懒散、有口福、艺术感",
+    "exceptions": [
+      "需结合旺衰与组合，不能只凭性格词直断"
+    ],
+    "confidence": "medium",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF058",
+    "source": "盲派",
+    "category": "十神",
+    "condition": "命局伤官明显",
+    "conclusion": "多见聪明、叛逆、口才好、不服管",
+    "exceptions": [
+      "需结合旺衰与组合，不能只凭性格词直断"
+    ],
+    "confidence": "medium",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF059",
+    "source": "盲派",
+    "category": "十神",
+    "condition": "命局偏财明显",
+    "conclusion": "多见慷慨、风流、投机、人缘好",
+    "exceptions": [
+      "需结合旺衰与组合，不能只凭性格词直断"
+    ],
+    "confidence": "medium",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF060",
+    "source": "盲派",
+    "category": "十神",
+    "condition": "命局正财明显",
+    "conclusion": "多见务实、节俭、重承诺、保守",
+    "exceptions": [
+      "需结合旺衰与组合，不能只凭性格词直断"
+    ],
+    "confidence": "medium",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF061",
+    "source": "盲派",
+    "category": "十神",
+    "condition": "命局七杀明显",
+    "conclusion": "多见魄力、压力、军警气质、刚烈",
+    "exceptions": [
+      "需结合旺衰与组合，不能只凭性格词直断"
+    ],
+    "confidence": "medium",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF062",
+    "source": "盲派",
+    "category": "十神",
+    "condition": "命局正官明显",
+    "conclusion": "多见守规矩、有责任感、谨慎、官运",
+    "exceptions": [
+      "需结合旺衰与组合，不能只凭性格词直断"
+    ],
+    "confidence": "medium",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF063",
+    "source": "盲派",
+    "category": "十神",
+    "condition": "命局偏印明显",
+    "conclusion": "多见孤僻、钻研、直觉强、不稳定",
+    "exceptions": [
+      "需结合旺衰与组合，不能只凭性格词直断"
+    ],
+    "confidence": "medium",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF064",
+    "source": "盲派",
+    "category": "十神",
+    "condition": "命局正印明显",
+    "conclusion": "多见善良、包容、学历好、依赖性",
+    "exceptions": [
+      "需结合旺衰与组合，不能只凭性格词直断"
+    ],
+    "confidence": "medium",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF065",
+    "source": "子平真诠",
+    "category": "格局",
+    "condition": "判格时先看月令",
+    "conclusion": "月支藏干透出天干者可作为格局判断重点",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": [
+      "RF074",
+      "RF075",
+      "RF076",
+      "RF077",
+      "RF078",
+      "RF079"
+    ]
+  },
+  {
+    "rule_id": "RF066",
+    "source": "子平真诠",
+    "category": "格局",
+    "condition": "月令透出符合正官格条件",
+    "conclusion": "可按正官格立格",
+    "exceptions": [],
+    "confidence": "medium",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF067",
+    "source": "子平真诠",
+    "category": "格局",
+    "condition": "月令透出符合七杀格条件",
+    "conclusion": "可按七杀格立格",
+    "exceptions": [],
+    "confidence": "medium",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF068",
+    "source": "子平真诠",
+    "category": "格局",
+    "condition": "月令透出符合正印格条件",
+    "conclusion": "可按正印格立格",
+    "exceptions": [],
+    "confidence": "medium",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF069",
+    "source": "子平真诠",
+    "category": "格局",
+    "condition": "月令透出符合偏印格条件",
+    "conclusion": "可按偏印格立格",
+    "exceptions": [],
+    "confidence": "medium",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF070",
+    "source": "子平真诠",
+    "category": "格局",
+    "condition": "月令透出符合食神格条件",
+    "conclusion": "可按食神格立格",
+    "exceptions": [],
+    "confidence": "medium",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF071",
+    "source": "子平真诠",
+    "category": "格局",
+    "condition": "月令透出符合伤官格条件",
+    "conclusion": "可按伤官格立格",
+    "exceptions": [],
+    "confidence": "medium",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF072",
+    "source": "子平真诠",
+    "category": "格局",
+    "condition": "月令透出符合正财格条件",
+    "conclusion": "可按正财格立格",
+    "exceptions": [],
+    "confidence": "medium",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF073",
+    "source": "子平真诠",
+    "category": "格局",
+    "condition": "月令透出符合偏财格条件",
+    "conclusion": "可按偏财格立格",
+    "exceptions": [],
+    "confidence": "medium",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF074",
+    "source": "子平真诠",
+    "category": "格局",
+    "condition": "命局整体趋向从强",
+    "conclusion": "按特殊格局从强处理，不再完全沿普通扶抑法",
+    "exceptions": [
+      "若日主仍有有力根气或逆势之神透出，则可能不能真从"
+    ],
+    "confidence": "medium",
+    "contradicts": [
+      "RF065",
+      "RF080",
+      "RF081"
+    ]
+  },
+  {
+    "rule_id": "RF075",
+    "source": "子平真诠",
+    "category": "格局",
+    "condition": "命局整体趋向从弱",
+    "conclusion": "按特殊格局从弱处理，不再完全沿普通扶抑法",
+    "exceptions": [
+      "若日主仍有有力根气或逆势之神透出，则可能不能真从"
+    ],
+    "confidence": "medium",
+    "contradicts": [
+      "RF065",
+      "RF080",
+      "RF081"
+    ]
+  },
+  {
+    "rule_id": "RF076",
+    "source": "子平真诠",
+    "category": "格局",
+    "condition": "命局整体趋向从儿",
+    "conclusion": "按特殊格局从儿处理，不再完全沿普通扶抑法",
+    "exceptions": [
+      "若日主仍有有力根气或逆势之神透出，则可能不能真从"
+    ],
+    "confidence": "medium",
+    "contradicts": [
+      "RF065",
+      "RF080",
+      "RF081"
+    ]
+  },
+  {
+    "rule_id": "RF077",
+    "source": "子平真诠",
+    "category": "格局",
+    "condition": "命局整体趋向从财",
+    "conclusion": "按特殊格局从财处理，不再完全沿普通扶抑法",
+    "exceptions": [
+      "若日主仍有有力根气或逆势之神透出，则可能不能真从"
+    ],
+    "confidence": "medium",
+    "contradicts": [
+      "RF065",
+      "RF080",
+      "RF081"
+    ]
+  },
+  {
+    "rule_id": "RF078",
+    "source": "子平真诠",
+    "category": "格局",
+    "condition": "命局整体趋向从杀",
+    "conclusion": "按特殊格局从杀处理，不再完全沿普通扶抑法",
+    "exceptions": [
+      "若日主仍有有力根气或逆势之神透出，则可能不能真从"
+    ],
+    "confidence": "medium",
+    "contradicts": [
+      "RF065",
+      "RF080",
+      "RF081"
+    ]
+  },
+  {
+    "rule_id": "RF079",
+    "source": "子平真诠",
+    "category": "格局",
+    "condition": "命局整体趋向化气格",
+    "conclusion": "按特殊格局化气格处理，不再完全沿普通扶抑法",
+    "exceptions": [
+      "若日主仍有有力根气或逆势之神透出，则可能不能真从"
+    ],
+    "confidence": "medium",
+    "contradicts": [
+      "RF065",
+      "RF080",
+      "RF081"
+    ]
+  },
+  {
+    "rule_id": "RF080",
+    "source": "滴天髓",
+    "category": "用神",
+    "condition": "日主偏强",
+    "conclusion": "宜取泄、耗、克之神以平衡命局",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": [
+      "RF074"
+    ]
+  },
+  {
+    "rule_id": "RF081",
+    "source": "滴天髓",
+    "category": "用神",
+    "condition": "日主偏弱",
+    "conclusion": "宜取生、扶、助之神以扶身",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": [
+      "RF075"
+    ]
+  },
+  {
+    "rule_id": "RF082",
+    "source": "滴天髓",
+    "category": "用神",
+    "condition": "两种五行相战不下",
+    "conclusion": "宜取通关之神化解冲突",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF083",
+    "source": "穷通宝鉴",
+    "category": "调候",
+    "condition": "冬季寒局明显",
+    "conclusion": "宜用火调候，先解寒湿再谈成格",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF084",
+    "source": "穷通宝鉴",
+    "category": "调候",
+    "condition": "夏季热局明显",
+    "conclusion": "宜用水调候，先解炎燥再谈扶抑",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF085",
+    "source": "韩立知识库",
+    "category": "断事",
+    "condition": "大运每十年一变",
+    "conclusion": "可据此划分人生阶段主旋律",
+    "exceptions": [],
+    "confidence": "medium",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF086",
+    "source": "盲派",
+    "category": "断事",
+    "condition": "流年与命局形成刑冲合害",
+    "conclusion": "常为事件应期",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF087",
+    "source": "盲派",
+    "category": "断事",
+    "condition": "大运流年与命局形成三合三会",
+    "conclusion": "多主大事发生",
+    "exceptions": [],
+    "confidence": "medium",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF088",
+    "source": "韩立知识库",
+    "category": "六亲",
+    "condition": "男命见正财",
+    "conclusion": "多取妻星",
+    "exceptions": [
+      "需结合宫位、旺衰和组合同参"
+    ],
+    "confidence": "medium",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF089",
+    "source": "韩立知识库",
+    "category": "六亲",
+    "condition": "男命见偏财",
+    "conclusion": "多取父星",
+    "exceptions": [
+      "需结合宫位、旺衰和组合同参"
+    ],
+    "confidence": "medium",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF090",
+    "source": "韩立知识库",
+    "category": "六亲",
+    "condition": "男命见正印",
+    "conclusion": "多取母星",
+    "exceptions": [
+      "需结合宫位、旺衰和组合同参"
+    ],
+    "confidence": "medium",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF091",
+    "source": "韩立知识库",
+    "category": "六亲",
+    "condition": "男命见正官",
+    "conclusion": "多取女星",
+    "exceptions": [
+      "需结合宫位、旺衰和组合同参"
+    ],
+    "confidence": "medium",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF092",
+    "source": "韩立知识库",
+    "category": "六亲",
+    "condition": "男命见七杀",
+    "conclusion": "多取子星",
+    "exceptions": [
+      "需结合宫位、旺衰和组合同参"
+    ],
+    "confidence": "medium",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF093",
+    "source": "韩立知识库",
+    "category": "六亲",
+    "condition": "女命见正官",
+    "conclusion": "多取夫星",
+    "exceptions": [
+      "需结合宫位、旺衰和组合同参"
+    ],
+    "confidence": "medium",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF094",
+    "source": "韩立知识库",
+    "category": "六亲",
+    "condition": "女命见七杀",
+    "conclusion": "多取情缘压力位",
+    "exceptions": [
+      "需结合宫位、旺衰和组合同参"
+    ],
+    "confidence": "medium",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF095",
+    "source": "韩立知识库",
+    "category": "六亲",
+    "condition": "女命见食神",
+    "conclusion": "多取女星",
+    "exceptions": [
+      "需结合宫位、旺衰和组合同参"
+    ],
+    "confidence": "medium",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF096",
+    "source": "韩立知识库",
+    "category": "六亲",
+    "condition": "女命见伤官",
+    "conclusion": "多取子星",
+    "exceptions": [
+      "需结合宫位、旺衰和组合同参"
+    ],
+    "confidence": "medium",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF097",
+    "source": "韩立知识库",
+    "category": "六亲",
+    "condition": "女命见偏财",
+    "conclusion": "多取父星",
+    "exceptions": [
+      "需结合宫位、旺衰和组合同参"
+    ],
+    "confidence": "medium",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF098",
+    "source": "韩立知识库",
+    "category": "断事",
+    "condition": "看婚姻",
+    "conclusion": "男看财星，女看官星，并结合日支夫妻宫",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF099",
+    "source": "韩立知识库",
+    "category": "断事",
+    "condition": "看财运",
+    "conclusion": "看财星旺衰及大运流年是否走财运",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF100",
+    "source": "韩立知识库",
+    "category": "断事",
+    "condition": "看事业",
+    "conclusion": "看官杀与印星，并结合月柱事业宫",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  },
+  {
+    "rule_id": "RF101",
+    "source": "韩立知识库",
+    "category": "断事",
+    "condition": "看健康",
+    "conclusion": "看五行偏枯及受克五行所主器官",
+    "exceptions": [],
+    "confidence": "high",
+    "contradicts": []
+  }
+]
