@@ -1,0 +1,1167 @@
+[
+  {
+    "combo_id": "SG001",
+    "combination": [
+      "伤官",
+      "正财"
+    ],
+    "pattern_name": "伤官生财",
+    "interpretation": "才华、表达和项目能力容易转成稳定收入，适合靠创意或输出赚钱。",
+    "favorable_conditions": [
+      "日主有根",
+      "财星不被劫"
+    ],
+    "unfavorable_conditions": [
+      "枭神夺食",
+      "比劫争财"
+    ],
+    "typical_occupations": [
+      "内容创业者",
+      "营销策划",
+      "设计师"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG002",
+    "combination": [
+      "食神",
+      "正财"
+    ],
+    "pattern_name": "食神生财",
+    "interpretation": "温和持续输出带来收益，适合长期主义经营。",
+    "favorable_conditions": [
+      "食神有根",
+      "财星得地"
+    ],
+    "unfavorable_conditions": [
+      "偏印夺食",
+      "财星落空"
+    ],
+    "typical_occupations": [
+      "餐饮品牌主理人",
+      "讲师",
+      "产品经理"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG003",
+    "combination": [
+      "七杀",
+      "正印"
+    ],
+    "pattern_name": "杀印相生",
+    "interpretation": "压力经资质和学习转化成地位，适合高压体系内上升。",
+    "favorable_conditions": [
+      "印星得令",
+      "日主不弱"
+    ],
+    "unfavorable_conditions": [
+      "财破印",
+      "杀重无制"
+    ],
+    "typical_occupations": [
+      "公务员",
+      "律师",
+      "医生"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG004",
+    "combination": [
+      "食神",
+      "七杀"
+    ],
+    "pattern_name": "食神制杀",
+    "interpretation": "凭专业技能和口碑化解外部压力，能在竞争环境中胜出。",
+    "favorable_conditions": [
+      "食神旺",
+      "七杀不过重"
+    ],
+    "unfavorable_conditions": [
+      "枭神夺食",
+      "杀星无制过旺"
+    ],
+    "typical_occupations": [
+      "工程师",
+      "顾问",
+      "职业经理人"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG005",
+    "combination": [
+      "伤官",
+      "正印"
+    ],
+    "pattern_name": "伤官佩印",
+    "interpretation": "聪明锋芒经过体系包装后容易形成名气和资历。",
+    "favorable_conditions": [
+      "印星清纯",
+      "官星有气"
+    ],
+    "unfavorable_conditions": [
+      "财星坏印",
+      "伤官过旺"
+    ],
+    "typical_occupations": [
+      "学者",
+      "培训师",
+      "作家"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG006",
+    "combination": [
+      "正官",
+      "正印"
+    ],
+    "pattern_name": "官印相生",
+    "interpretation": "规范、资历、平台三者同向，适合走制度化晋升路径。",
+    "favorable_conditions": [
+      "官清印纯",
+      "身官两停"
+    ],
+    "unfavorable_conditions": [
+      "伤官见官",
+      "财星破印"
+    ],
+    "typical_occupations": [
+      "公职人员",
+      "学校管理者",
+      "企业高管"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG007",
+    "combination": [
+      "比肩",
+      "正财"
+    ],
+    "pattern_name": "比财并见",
+    "interpretation": "重视赚钱但也容易出现同辈竞争与利润分流。",
+    "favorable_conditions": [
+      "官星制比",
+      "财星有库"
+    ],
+    "unfavorable_conditions": [
+      "比肩成群",
+      "合伙不清"
+    ],
+    "typical_occupations": [
+      "销售合伙人",
+      "实体经营者",
+      "贸易商"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG008",
+    "combination": [
+      "劫财",
+      "偏财"
+    ],
+    "pattern_name": "劫财夺偏财",
+    "interpretation": "机会多、流动资源多，但也最怕合伙失利和现金外流。",
+    "favorable_conditions": [
+      "官杀制劫",
+      "偏财有根"
+    ],
+    "unfavorable_conditions": [
+      "比劫成势",
+      "流年冲财"
+    ],
+    "typical_occupations": [
+      "投资人",
+      "中介",
+      "渠道商"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG009",
+    "combination": [
+      "偏印",
+      "食神"
+    ],
+    "pattern_name": "枭神夺食",
+    "interpretation": "灵感多但落地差，容易计划大于执行。",
+    "favorable_conditions": [
+      "财星制枭",
+      "食神得根"
+    ],
+    "unfavorable_conditions": [
+      "偏印贴身",
+      "食神孤弱"
+    ],
+    "typical_occupations": [
+      "研究人员",
+      "独立创作者",
+      "顾问"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG010",
+    "combination": [
+      "伤官",
+      "正官"
+    ],
+    "pattern_name": "伤官见官",
+    "interpretation": "表达欲和规则冲突明显，常见职场摩擦、官非或与权威不合。",
+    "favorable_conditions": [
+      "印星通关",
+      "官星不重"
+    ],
+    "unfavorable_conditions": [
+      "官星贴身",
+      "伤官旺而无制"
+    ],
+    "typical_occupations": [
+      "媒体人",
+      "创业者",
+      "改革型管理者"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG011",
+    "combination": [
+      "偏财",
+      "七杀"
+    ],
+    "pattern_name": "财滋七杀",
+    "interpretation": "资源与压力同来，适合高风险高回报环境，也易被责任追着跑。",
+    "favorable_conditions": [
+      "印星化杀",
+      "日主有根"
+    ],
+    "unfavorable_conditions": [
+      "身弱财杀旺",
+      "印星被破"
+    ],
+    "typical_occupations": [
+      "金融从业者",
+      "项目承包人",
+      "风控主管"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG012",
+    "combination": [
+      "正财",
+      "正官"
+    ],
+    "pattern_name": "财官相生",
+    "interpretation": "资源导向职位，职位再带来更稳定的财富。",
+    "favorable_conditions": [
+      "日主能任",
+      "财官清纯"
+    ],
+    "unfavorable_conditions": [
+      "比劫夺财",
+      "伤官坏官"
+    ],
+    "typical_occupations": [
+      "企业管理者",
+      "银行从业者",
+      "行政主管"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG013",
+    "combination": [
+      "偏财",
+      "食神"
+    ],
+    "pattern_name": "食神生偏财",
+    "interpretation": "善于把技能、流量和副业机会转成现金流。",
+    "favorable_conditions": [
+      "食神有根",
+      "偏财通门户"
+    ],
+    "unfavorable_conditions": [
+      "偏印夺食",
+      "比劫截财"
+    ],
+    "typical_occupations": [
+      "自媒体",
+      "电商主理人",
+      "培训创业者"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG014",
+    "combination": [
+      "比肩",
+      "七杀"
+    ],
+    "pattern_name": "比肩扛杀",
+    "interpretation": "个人意志强，敢扛压力，适合竞争性强的岗位。",
+    "favorable_conditions": [
+      "印星护身",
+      "七杀有制"
+    ],
+    "unfavorable_conditions": [
+      "比杀两旺",
+      "财星受损"
+    ],
+    "typical_occupations": [
+      "军警人员",
+      "体育从业者",
+      "销售主管"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG015",
+    "combination": [
+      "劫财",
+      "正官"
+    ],
+    "pattern_name": "劫官相战",
+    "interpretation": "个人主张与组织规则冲突，常见岗位争权或制度摩擦。",
+    "favorable_conditions": [
+      "印星调和",
+      "官星得根"
+    ],
+    "unfavorable_conditions": [
+      "劫财透干",
+      "伤官再来"
+    ],
+    "typical_occupations": [
+      "创业合伙人",
+      "部门负责人",
+      "业务拓展"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG016",
+    "combination": [
+      "正印",
+      "偏财"
+    ],
+    "pattern_name": "财破正印",
+    "interpretation": "现实利益冲击学习体系或稳定支持，容易边学边赚或为财舍稳。",
+    "favorable_conditions": [
+      "官星居中",
+      "印星坐根"
+    ],
+    "unfavorable_conditions": [
+      "财旺无制",
+      "印星浮弱"
+    ],
+    "typical_occupations": [
+      "商业顾问",
+      "转型教师",
+      "家族企业成员"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG017",
+    "combination": [
+      "偏印",
+      "偏财"
+    ],
+    "pattern_name": "偏财制枭",
+    "interpretation": "非常规思维被市场化，适合把冷门技能卖出去。",
+    "favorable_conditions": [
+      "偏财得力",
+      "枭印不过旺"
+    ],
+    "unfavorable_conditions": [
+      "比劫夺财",
+      "偏印成群"
+    ],
+    "typical_occupations": [
+      "命理师",
+      "研究顾问",
+      "收藏交易者"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG018",
+    "combination": [
+      "正印",
+      "食神"
+    ],
+    "pattern_name": "印食相随",
+    "interpretation": "知识储备能稳定输出，适合教学、内容和咨询。",
+    "favorable_conditions": [
+      "印星不混杂",
+      "食神有源"
+    ],
+    "unfavorable_conditions": [
+      "偏印夺食",
+      "财星破印"
+    ],
+    "typical_occupations": [
+      "教师",
+      "咨询师",
+      "知识博主"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG019",
+    "combination": [
+      "正官",
+      "伤官",
+      "正印"
+    ],
+    "pattern_name": "官伤印并见",
+    "interpretation": "有想法也要守规矩，常在制度创新或内部变革中成名。",
+    "favorable_conditions": [
+      "印星有力",
+      "官星清透"
+    ],
+    "unfavorable_conditions": [
+      "财星破印",
+      "伤官太旺"
+    ],
+    "typical_occupations": [
+      "政策研究员",
+      "品牌负责人",
+      "组织顾问"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG020",
+    "combination": [
+      "正财",
+      "正印"
+    ],
+    "pattern_name": "财印相见",
+    "interpretation": "稳定资源与稳定支持并存，适合守成经营或长期积累。",
+    "favorable_conditions": [
+      "官星调和",
+      "印财不战"
+    ],
+    "unfavorable_conditions": [
+      "财印紧贴相克",
+      "比劫夺财"
+    ],
+    "typical_occupations": [
+      "会计",
+      "后勤管理",
+      "教育运营"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG021",
+    "combination": [
+      "食神",
+      "正官"
+    ],
+    "pattern_name": "食官两显",
+    "interpretation": "表达能力和规则意识并存，适合对外发声又需要资质的平台。",
+    "favorable_conditions": [
+      "官星清纯",
+      "食神温和"
+    ],
+    "unfavorable_conditions": [
+      "伤官混入",
+      "枭神夺食"
+    ],
+    "typical_occupations": [
+      "主持人",
+      "培训总监",
+      "品牌公关"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG022",
+    "combination": [
+      "七杀",
+      "伤官"
+    ],
+    "pattern_name": "伤官驾杀",
+    "interpretation": "敢冲敢拼，适合高压行业中的突破型角色，但风险也高。",
+    "favorable_conditions": [
+      "印星托底",
+      "日主不弱"
+    ],
+    "unfavorable_conditions": [
+      "杀旺伤轻",
+      "官杀混杂"
+    ],
+    "typical_occupations": [
+      "创业者",
+      "项目攻坚负责人",
+      "职业操盘手"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG023",
+    "combination": [
+      "偏财",
+      "正官",
+      "正印"
+    ],
+    "pattern_name": "财官印顺生",
+    "interpretation": "资源、职位、资历三者相连，利组织型跃升。",
+    "favorable_conditions": [
+      "链路顺畅",
+      "四柱清纯"
+    ],
+    "unfavorable_conditions": [
+      "伤官破官",
+      "财多压身"
+    ],
+    "typical_occupations": [
+      "上市公司高管",
+      "公务体系干部",
+      "院校管理层"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG024",
+    "combination": [
+      "比肩",
+      "食神"
+    ],
+    "pattern_name": "比食同路",
+    "interpretation": "自我驱动强，擅长自主产出，适合个人品牌。",
+    "favorable_conditions": [
+      "财星承接",
+      "比肩不过旺"
+    ],
+    "unfavorable_conditions": [
+      "比肩争财",
+      "食神被夺"
+    ],
+    "typical_occupations": [
+      "独立开发者",
+      "手艺人",
+      "博主"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG025",
+    "combination": [
+      "劫财",
+      "食神"
+    ],
+    "pattern_name": "劫食求生",
+    "interpretation": "靠主动争取机会输出变现，冲劲足但波动大。",
+    "favorable_conditions": [
+      "官星约束",
+      "财星不弱"
+    ],
+    "unfavorable_conditions": [
+      "比劫成群",
+      "财星受伤"
+    ],
+    "typical_occupations": [
+      "直播销售",
+      "地推团队长",
+      "自由职业者"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG026",
+    "combination": [
+      "七杀",
+      "偏印"
+    ],
+    "pattern_name": "杀枭并见",
+    "interpretation": "敏感、警觉、学习快，适合高信息密度和不确定环境。",
+    "favorable_conditions": [
+      "日主有根",
+      "财星不过分破印"
+    ],
+    "unfavorable_conditions": [
+      "杀枭皆旺",
+      "身弱无依"
+    ],
+    "typical_occupations": [
+      "调查员",
+      "情报分析师",
+      "急诊医生"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG027",
+    "combination": [
+      "正官",
+      "偏印"
+    ],
+    "pattern_name": "官枭同柱",
+    "interpretation": "守规矩但思路特殊，适合规则内的专业偏门。",
+    "favorable_conditions": [
+      "官星清",
+      "偏印不夺食"
+    ],
+    "unfavorable_conditions": [
+      "伤官冲官",
+      "偏印过旺"
+    ],
+    "typical_occupations": [
+      "审计师",
+      "法务顾问",
+      "专利代理人"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG028",
+    "combination": [
+      "偏财",
+      "伤官"
+    ],
+    "pattern_name": "伤官驾财",
+    "interpretation": "反应快、会包装，适合商业化强的内容与交易场景。",
+    "favorable_conditions": [
+      "财星通门户",
+      "日主中和"
+    ],
+    "unfavorable_conditions": [
+      "伤官见官",
+      "比劫争财"
+    ],
+    "typical_occupations": [
+      "主播",
+      "广告人",
+      "商业顾问"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG029",
+    "combination": [
+      "正财",
+      "七杀"
+    ],
+    "pattern_name": "财官杀压身",
+    "interpretation": "责任、指标和压力一起上来，易在业绩导向岗位爆发。",
+    "favorable_conditions": [
+      "印星护身",
+      "身有根气"
+    ],
+    "unfavorable_conditions": [
+      "身弱无印",
+      "财杀过旺"
+    ],
+    "typical_occupations": [
+      "销售总监",
+      "区域经理",
+      "投行从业者"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG030",
+    "combination": [
+      "正官",
+      "比肩"
+    ],
+    "pattern_name": "比官同见",
+    "interpretation": "既想守规矩又想保自主，适合团队管理岗位。",
+    "favorable_conditions": [
+      "印星协调",
+      "财星生官"
+    ],
+    "unfavorable_conditions": [
+      "比肩太旺",
+      "官星太轻"
+    ],
+    "typical_occupations": [
+      "团队负责人",
+      "行政经理",
+      "项目主管"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG031",
+    "combination": [
+      "食神",
+      "偏印",
+      "偏财"
+    ],
+    "pattern_name": "食枭财并见",
+    "interpretation": "灵感、表达和变现能力并存，常有副业或复合型收入。",
+    "favorable_conditions": [
+      "偏财制枭",
+      "食神有根"
+    ],
+    "unfavorable_conditions": [
+      "枭印过旺",
+      "财星不稳"
+    ],
+    "typical_occupations": [
+      "策划顾问",
+      "跨界创作者",
+      "自由讲师"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG032",
+    "combination": [
+      "正印",
+      "七杀",
+      "偏财"
+    ],
+    "pattern_name": "财杀印循环",
+    "interpretation": "现实资源带来压力，压力推动学习，适合以证照吃饭。",
+    "favorable_conditions": [
+      "印星得令",
+      "杀不混官"
+    ],
+    "unfavorable_conditions": [
+      "财旺破印",
+      "身弱不任"
+    ],
+    "typical_occupations": [
+      "医生",
+      "律师",
+      "金融风控"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG033",
+    "combination": [
+      "食神",
+      "偏财",
+      "七杀"
+    ],
+    "pattern_name": "食财杀链路",
+    "interpretation": "能把技术输出转成市场与项目资源，再进入高压赛道。",
+    "favorable_conditions": [
+      "食神清纯",
+      "日主有根"
+    ],
+    "unfavorable_conditions": [
+      "枭神夺食",
+      "杀重失控"
+    ],
+    "typical_occupations": [
+      "技术创业者",
+      "咨询公司合伙人",
+      "产品负责人"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG034",
+    "combination": [
+      "伤官",
+      "偏印"
+    ],
+    "pattern_name": "伤官枭印",
+    "interpretation": "脑子快、批判强、风格怪，适合研究和创新，但情绪起伏也大。",
+    "favorable_conditions": [
+      "财星制印",
+      "官星不贴身"
+    ],
+    "unfavorable_conditions": [
+      "伤官太露",
+      "偏印过旺"
+    ],
+    "typical_occupations": [
+      "研究员",
+      "艺术家",
+      "创意总监"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG035",
+    "combination": [
+      "劫财",
+      "伤官"
+    ],
+    "pattern_name": "劫伤同驱",
+    "interpretation": "行动力和表达力都强，适合野路子拓客，但容易得罪人。",
+    "favorable_conditions": [
+      "财星承接",
+      "官星约束"
+    ],
+    "unfavorable_conditions": [
+      "官星受冲",
+      "团队失衡"
+    ],
+    "typical_occupations": [
+      "渠道拓展",
+      "创业业务员",
+      "MCN操盘手"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG036",
+    "combination": [
+      "比肩",
+      "正印"
+    ],
+    "pattern_name": "比印守成",
+    "interpretation": "重稳定、安全感和自主性，守成能力强，扩张意愿较低。",
+    "favorable_conditions": [
+      "财星适度破印",
+      "官星引导"
+    ],
+    "unfavorable_conditions": [
+      "印比过旺",
+      "食伤闭塞"
+    ],
+    "typical_occupations": [
+      "行政后勤",
+      "研究助理",
+      "公务支持岗"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG037",
+    "combination": [
+      "正官",
+      "正财",
+      "正印"
+    ],
+    "pattern_name": "三奇顺生",
+    "interpretation": "价值观稳、履历好、收入路径清晰，适合规范平台。",
+    "favorable_conditions": [
+      "三者清纯",
+      "日主中和"
+    ],
+    "unfavorable_conditions": [
+      "伤官混局",
+      "比劫破财"
+    ],
+    "typical_occupations": [
+      "国企管理者",
+      "财务负责人",
+      "学校行政"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG038",
+    "combination": [
+      "偏财",
+      "比肩",
+      "食神"
+    ],
+    "pattern_name": "比食偏财",
+    "interpretation": "适合做个人品牌生意，自己带货、自己成交。",
+    "favorable_conditions": [
+      "官星制比",
+      "偏财有气"
+    ],
+    "unfavorable_conditions": [
+      "比劫成团",
+      "偏财被夺"
+    ],
+    "typical_occupations": [
+      "主播店主",
+      "顾问式销售",
+      "个体经营者"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG039",
+    "combination": [
+      "七杀",
+      "正官"
+    ],
+    "pattern_name": "官杀混杂",
+    "interpretation": "规则来源复杂，容易多头管理或身份切换频繁。",
+    "favorable_conditions": [
+      "食神制杀留官",
+      "印绶化杀"
+    ],
+    "unfavorable_conditions": [
+      "官杀并透无制",
+      "身弱受压"
+    ],
+    "typical_occupations": [
+      "集团中层",
+      "体制边缘岗位",
+      "项目协调人"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG040",
+    "combination": [
+      "偏印",
+      "正印"
+    ],
+    "pattern_name": "双印叠见",
+    "interpretation": "学习力和保护层强，但过多时也会犹豫保守。",
+    "favorable_conditions": [
+      "食伤可泄",
+      "财星适度"
+    ],
+    "unfavorable_conditions": [
+      "财路被堵",
+      "行动不足"
+    ],
+    "typical_occupations": [
+      "研究岗",
+      "档案管理",
+      "学术人员"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG041",
+    "combination": [
+      "食神",
+      "正印",
+      "正财"
+    ],
+    "pattern_name": "印食财三连",
+    "interpretation": "知识输出可以稳定变现，适合课程、咨询和长期内容产品。",
+    "favorable_conditions": [
+      "印不夺食",
+      "财星稳固"
+    ],
+    "unfavorable_conditions": [
+      "偏印混入",
+      "比劫争财"
+    ],
+    "typical_occupations": [
+      "知识付费讲师",
+      "咨询师",
+      "作者"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG042",
+    "combination": [
+      "伤官",
+      "偏财",
+      "七杀"
+    ],
+    "pattern_name": "伤财杀并进",
+    "interpretation": "胆大、反应快、会搞资源，适合竞争激烈的商业赛道。",
+    "favorable_conditions": [
+      "印星护身",
+      "杀有节制"
+    ],
+    "unfavorable_conditions": [
+      "身弱不任",
+      "官非风险高"
+    ],
+    "typical_occupations": [
+      "创业CEO",
+      "并购从业者",
+      "市场操盘手"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG043",
+    "combination": [
+      "正财",
+      "食神",
+      "正官"
+    ],
+    "pattern_name": "食财官顺推",
+    "interpretation": "专业能力带来收入，收入又支撑职位提升，路径很稳。",
+    "favorable_conditions": [
+      "日主不弱",
+      "链路连贯"
+    ],
+    "unfavorable_conditions": [
+      "伤官破官",
+      "偏印夺食"
+    ],
+    "typical_occupations": [
+      "产品经理",
+      "咨询顾问",
+      "企业培训师"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG044",
+    "combination": [
+      "劫财",
+      "七杀",
+      "正印"
+    ],
+    "pattern_name": "劫杀印",
+    "interpretation": "适合在高压环境抢机会，但必须有学习和规则兜底。",
+    "favorable_conditions": [
+      "印星得力",
+      "杀不混官"
+    ],
+    "unfavorable_conditions": [
+      "劫杀太重",
+      "财务失控"
+    ],
+    "typical_occupations": [
+      "创业合伙人",
+      "安保负责人",
+      "项目救火队"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG045",
+    "combination": [
+      "比肩",
+      "偏财"
+    ],
+    "pattern_name": "比肩争偏财",
+    "interpretation": "善抓机会但竞争者多，适合高流动市场，不适合无边界合伙。",
+    "favorable_conditions": [
+      "官杀制比",
+      "偏财坐库"
+    ],
+    "unfavorable_conditions": [
+      "比肩透多",
+      "流年冲财"
+    ],
+    "typical_occupations": [
+      "贸易商",
+      "二级市场交易者",
+      "渠道经纪"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG046",
+    "combination": [
+      "正官",
+      "偏财"
+    ],
+    "pattern_name": "财官外拓",
+    "interpretation": "资源整合能力好，适合在组织内做外部开拓。",
+    "favorable_conditions": [
+      "官星有根",
+      "偏财通门"
+    ],
+    "unfavorable_conditions": [
+      "比劫夺财",
+      "伤官见官"
+    ],
+    "typical_occupations": [
+      "BD负责人",
+      "招商主管",
+      "公共关系经理"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG047",
+    "combination": [
+      "正印",
+      "七杀",
+      "食神"
+    ],
+    "pattern_name": "印食制杀",
+    "interpretation": "能学习、能输出，也能化解压力，适合专业管理型人才。",
+    "favorable_conditions": [
+      "食神不被夺",
+      "印星得令"
+    ],
+    "unfavorable_conditions": [
+      "财破印",
+      "杀过重"
+    ],
+    "typical_occupations": [
+      "主治医生",
+      "法务总监",
+      "技术总监"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG048",
+    "combination": [
+      "偏印",
+      "伤官",
+      "偏财"
+    ],
+    "pattern_name": "枭伤偏财",
+    "interpretation": "思维另类又懂市场，适合非标服务和小众商业。",
+    "favorable_conditions": [
+      "偏财稳",
+      "官星不来压制"
+    ],
+    "unfavorable_conditions": [
+      "伤官惹官",
+      "枭印过重"
+    ],
+    "typical_occupations": [
+      "品牌顾问",
+      "命理咨询师",
+      "艺术经纪人"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG049",
+    "combination": [
+      "正财",
+      "正官",
+      "比肩"
+    ],
+    "pattern_name": "财官比并见",
+    "interpretation": "事业心强，既想守平台也想争位置，适合带团队创收。",
+    "favorable_conditions": [
+      "官星有力",
+      "比肩不过旺"
+    ],
+    "unfavorable_conditions": [
+      "比劫抢财",
+      "伤官坏官"
+    ],
+    "typical_occupations": [
+      "分公司负责人",
+      "门店经理",
+      "项目总监"
+    ],
+    "famous_examples": []
+  },
+  {
+    "combo_id": "SG050",
+    "combination": [
+      "食神",
+      "伤官",
+      "偏财"
+    ],
+    "pattern_name": "食伤生财群",
+    "interpretation": "典型输出变现结构，靠内容、技术、创意或话术挣钱。",
+    "favorable_conditions": [
+      "财星有根",
+      "官星不来压制"
+    ],
+    "unfavorable_conditions": [
+      "偏印夺食",
+      "比劫争财"
+    ],
+    "typical_occupations": [
+      "编剧",
+      "主播",
+      "独立开发者"
+    ],
+    "famous_examples": []
+  }
+]
