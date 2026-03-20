@@ -1,0 +1,105 @@
+[
+  {
+    "source_lang": "ja",
+    "source_type": "article",
+    "source_url": "https://sup.andyou.jp/hoshi/shichusuimei-juniunsei/",
+    "topic": "四柱推命与十二運星",
+    "content_summary": "日文资料常把四柱推命拆解为命式、通変星、十二運等层次，强调读盘步骤的教学清晰度。",
+    "rules_extracted": [
+      "日文入门资料重视按步骤读取命式。",
+      "十神通常以通変星体系来讲解。"
+    ],
+    "terms_mapping": {
+      "通変星": "十神",
+      "命式": "命局"
+    },
+    "school_perspective": "日本教学派",
+    "quality_score": 0.79
+  },
+  {
+    "source_lang": "ja",
+    "source_type": "article",
+    "source_url": "https://www.5pm-j.com/articles/7458",
+    "topic": "四柱推命名人案例",
+    "content_summary": "用日本名人命式做讲解，偏重把性格、职业与大运事件连起来说明。",
+    "rules_extracted": [
+      "日文案例文喜欢用名人命例做十神与职业对应。",
+      "断语通常比中文古籍口径更生活化。"
+    ],
+    "terms_mapping": {
+      "有名人": "名人",
+      "実例": "案例"
+    },
+    "school_perspective": "日本实务派",
+    "quality_score": 0.72
+  },
+  {
+    "source_lang": "ja",
+    "source_type": "article",
+    "source_url": "https://8761234.jp/uranai/shichusuimei/",
+    "topic": "四柱推命基础概念",
+    "content_summary": "网站以大众传播口吻解释日干、五行、通変星和运势周期，适合术语映射。",
+    "rules_extracted": [
+      "日文大众资料常把日主称为日干。",
+      "运势解读会同时讲年运与大运。"
+    ],
+    "terms_mapping": {
+      "日干": "日主",
+      "五行": "五行"
+    },
+    "school_perspective": "日本大众派",
+    "quality_score": 0.7
+  },
+  {
+    "source_lang": "ja",
+    "source_type": "article",
+    "source_url": "https://spicomi.net/media/articles/2111",
+    "topic": "通変星解释",
+    "content_summary": "集中讲通変星性格与职业象，对比肩、劫财、食神、傷官等词的日文对应较稳定。",
+    "rules_extracted": [
+      "日文语境中十神多按性格与职业双重维度讲述。",
+      "比肩、劫財、食神、傷官等译名基本固定。"
+    ],
+    "terms_mapping": {
+      "比肩": "比肩",
+      "劫財": "劫财",
+      "傷官": "伤官"
+    },
+    "school_perspective": "日本教学派",
+    "quality_score": 0.76
+  },
+  {
+    "source_lang": "ja",
+    "source_type": "article",
+    "source_url": "https://woman.mynavi.jp/article/230214-4/",
+    "topic": "四柱推命性格与关系",
+    "content_summary": "面向大众用户，重点解释恋爱、婚姻、工作倾向，反映日本内容市场的使用场景。",
+    "rules_extracted": [
+      "日文市场中四柱推命常与恋爱和适职结合。",
+      "关系解读比中文古籍更强调心理体验。"
+    ],
+    "terms_mapping": {
+      "恋愛": "感情",
+      "適職": "适职"
+    },
+    "school_perspective": "日本大众派",
+    "quality_score": 0.64
+  },
+  {
+    "source_lang": "ja",
+    "source_type": "article",
+    "source_url": "https://note.com/mikoto_shichu/n/n9b7fe50b8c56",
+    "topic": "四柱推命实例如名人分析",
+    "content_summary": "独立作者用名人命式做推演，强调事件应期与命式结构的对应。",
+    "rules_extracted": [
+      "日文独立作者常用名人实例如事件验证。",
+      "大运与年运的触发时点是案例文重点。"
+    ],
+    "terms_mapping": {
+      "大運": "大运",
+      "年運": "流年"
+    },
+    "school_perspective": "日本实务派",
+    "quality_score": 0.6
+  }
+]

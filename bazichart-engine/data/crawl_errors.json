@@ -1,0 +1,32 @@
+[
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=A-Trak",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=A-Trak&action=raw (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=A._D._G.",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=A._D._G. (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=ATL,_Scotty",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=ATL,_Scotty (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Aabel,_Andreas",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Aabel,_Andreas&action=raw (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Aadland,_Florence",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Aadland,_Florence (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Aafjes,_Sijtje",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Aafjes,_Sijtje (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))"
+  }
+]
