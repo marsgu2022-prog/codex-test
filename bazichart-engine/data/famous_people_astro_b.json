@@ -14,9 +14,151 @@
       "作家"
     ],
     "bio": "American singer-songwriter, musician, and pianist, who owns and operates his own",
-    "notable_events": [],
+    "notable_events": [
+      {
+        "year": 1973,
+        "event": "His father died on 20 September 1973 in a plane crash.",
+        "event_type": "death"
+      }
+    ],
     "source_urls": [
       "https://www.astro.com/wiki/astro-databank/index.php?title=A._J._Croce"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Khwaja Ahmad Abbas",
+    "name_zh": null,
+    "birth_date": "1914-06-07",
+    "birth_time": "23:59",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Hariana",
+    "birth_country": "India",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "演员",
+      "作家"
+    ],
+    "bio": "Indian film director, novelist, screenwriter, and a journalist in the Urdu, Hind",
+    "notable_events": [
+      {
+        "year": 1969,
+        "event": "He was the maker of important Hindi films such as Saat Hindustani (1969) and Do Boond Pani (1972), both of which won the",
+        "event_type": "award"
+      },
+      {
+        "year": 1972,
+        "event": "He was the maker of important Hindi films such as Saat Hindustani (1969) and Do Boond Pani (1972), both of which won the",
+        "event_type": "award"
+      },
+      {
+        "year": 1957,
+        "event": "He was the maker of important Hindi films such as Saat Hindustani (1969) and Do Boond Pani (1972), both of which won the",
+        "event_type": "award"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Abbas,_Khwaja_Ahmad"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Sophia Abraham",
+    "name_zh": null,
+    "birth_date": "2009-02-23",
+    "birth_time": "10:25",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Los Angeles",
+    "birth_country": "United States",
+    "gender": "female",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "American reality television baby who was born to Farrah Abraham during the filmi",
+    "notable_events": [
+      {
+        "year": 2009,
+        "event": "American reality television baby who was born to Farrah Abraham during the filming of the TV series 16 and Pregnant ; So",
+        "event_type": "other"
+      },
+      {
+        "year": 2008,
+        "event": "In 2008, her mother, then 17, was selected to appear on the MTV show, 16 and Pregnant , a reality series that aimed to d",
+        "event_type": "career_peak"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Abraham,_Sophia"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Kathy Acker",
+    "name_zh": null,
+    "birth_date": "1947-04-18",
+    "birth_time": "07:05",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Manhattan",
+    "birth_country": "United States",
+    "gender": "female",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "American experimental novelist, playwright, essayist, and postmodernist writer, ",
+    "notable_events": [
+      {
+        "year": 1984,
+        "event": "Published in 1984, it is one of her most extreme explorations of sexuality and violence.",
+        "event_type": "career_peak"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Acker,_Kathy"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Prince of Bavaria (1886) Adalbert",
+    "name_zh": null,
+    "birth_date": "1886-06-03",
+    "birth_time": "02:45",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Munich",
+    "birth_country": "Germany",
+    "gender": "male",
+    "occupation": [
+      "政治家",
+      "作家"
+    ],
+    "bio": "German historian, author and a German Ambassador to Spain.",
+    "notable_events": [
+      {
+        "year": 1899,
+        "event": "He married Countess Augusta von Seefried auf Buttenheim (1899-1978); two sons.",
+        "event_type": "marriage"
+      },
+      {
+        "year": 1978,
+        "event": "He married Countess Augusta von Seefried auf Buttenheim (1899-1978); two sons.",
+        "event_type": "marriage"
+      },
+      {
+        "year": 1970,
+        "event": "Prince Adalbert of Bavaria died on 29 December 1970 at Munich.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Adalbert,_Prince_of_Bavaria_(1886)"
     ],
     "data_quality_score": 0.72,
     "rodden_rating": "B"
