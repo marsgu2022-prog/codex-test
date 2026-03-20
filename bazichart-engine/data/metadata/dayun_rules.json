@@ -1,0 +1,932 @@
+[
+  {
+    "rule_id": "DY001",
+    "trigger": "流年天干冲克日主",
+    "effect": "压力年，事业、情绪或身体状态容易出现明显波动",
+    "severity": "high",
+    "mitigating_factors": [
+      "有印星通关",
+      "大运帮身"
+    ],
+    "typical_events": [
+      "换工作",
+      "健康检查",
+      "官非压力"
+    ]
+  },
+  {
+    "rule_id": "DY002",
+    "trigger": "流年天干生扶日主且为喜神",
+    "effect": "得到支持与资源，适合启动新计划",
+    "severity": "medium",
+    "mitigating_factors": [
+      "原局有承载力",
+      "忌神不来破局"
+    ],
+    "typical_events": [
+      "升职",
+      "扩张业务",
+      "获得贵人"
+    ]
+  },
+  {
+    "rule_id": "DY003",
+    "trigger": "流年地支冲日支夫妻宫",
+    "effect": "关系与合作层面进入剧烈变化期",
+    "severity": "high",
+    "mitigating_factors": [
+      "夫妻星为喜且有合解",
+      "大运稳定"
+    ],
+    "typical_events": [
+      "结婚",
+      "分手",
+      "搬家"
+    ]
+  },
+  {
+    "rule_id": "DY004",
+    "trigger": "流年地支合日支夫妻宫",
+    "effect": "关系被绑定或重新定义",
+    "severity": "medium",
+    "mitigating_factors": [
+      "配偶星为喜",
+      "合而不化忌"
+    ],
+    "typical_events": [
+      "确定关系",
+      "签合作",
+      "复合"
+    ]
+  },
+  {
+    "rule_id": "DY005",
+    "trigger": "流年冲月令用神",
+    "effect": "事业根基和工作节奏受扰动",
+    "severity": "high",
+    "mitigating_factors": [
+      "原局另有备用用神",
+      "大运助用神"
+    ],
+    "typical_events": [
+      "岗位调整",
+      "部门变动",
+      "收入起伏"
+    ]
+  },
+  {
+    "rule_id": "DY006",
+    "trigger": "流年合月令用神",
+    "effect": "外部资源与命局主轴发生绑定",
+    "severity": "medium",
+    "mitigating_factors": [
+      "合成喜神",
+      "原局不混乱"
+    ],
+    "typical_events": [
+      "合作签约",
+      "资源注入",
+      "职位转向"
+    ]
+  },
+  {
+    "rule_id": "DY007",
+    "trigger": "大运补足原局第一用神",
+    "effect": "十年趋势整体向上，潜能更容易兑现",
+    "severity": "high",
+    "mitigating_factors": [
+      "流年不连续冲破",
+      "现实准备充分"
+    ],
+    "typical_events": [
+      "事业起势",
+      "财富积累",
+      "身份提升"
+    ]
+  },
+  {
+    "rule_id": "DY008",
+    "trigger": "大运引动原局忌神成势",
+    "effect": "原局短板被放大，长期压力上升",
+    "severity": "high",
+    "mitigating_factors": [
+      "流年有制忌机会",
+      "现实中及时收缩"
+    ],
+    "typical_events": [
+      "破财",
+      "焦虑",
+      "频繁受阻"
+    ]
+  },
+  {
+    "rule_id": "DY009",
+    "trigger": "岁运并临且同为喜神",
+    "effect": "吉事集中出现，推进效率明显提高",
+    "severity": "high",
+    "mitigating_factors": [
+      "原局承载足",
+      "忌神不夹击"
+    ],
+    "typical_events": [
+      "升职加薪",
+      "置业",
+      "结婚生子"
+    ]
+  },
+  {
+    "rule_id": "DY010",
+    "trigger": "岁运并临且同为忌神",
+    "effect": "风险集中显化，需要保守应对",
+    "severity": "high",
+    "mitigating_factors": [
+      "有贵人解围",
+      "结构中有通关神"
+    ],
+    "typical_events": [
+      "疾病",
+      "失业",
+      "官非"
+    ]
+  },
+  {
+    "rule_id": "DY011",
+    "trigger": "流年三合成喜神局",
+    "effect": "阶段性能量聚拢，资源整合效果好",
+    "severity": "medium",
+    "mitigating_factors": [
+      "合局成真",
+      "化神有根"
+    ],
+    "typical_events": [
+      "团队扩张",
+      "项目落地",
+      "圈层跃升"
+    ]
+  },
+  {
+    "rule_id": "DY012",
+    "trigger": "流年三合成忌神局",
+    "effect": "单一气势过旺，容易失衡",
+    "severity": "high",
+    "mitigating_factors": [
+      "原局有通关",
+      "及时止损"
+    ],
+    "typical_events": [
+      "投资失误",
+      "情绪极端",
+      "关系紧张"
+    ]
+  },
+  {
+    "rule_id": "DY013",
+    "trigger": "流年三会成喜神局",
+    "effect": "环境趋势与个人主线一致，外部机会明显增多",
+    "severity": "medium",
+    "mitigating_factors": [
+      "大运不反向冲破",
+      "原局能承载"
+    ],
+    "typical_events": [
+      "搬迁发展",
+      "行业红利",
+      "快速成长"
+    ]
+  },
+  {
+    "rule_id": "DY014",
+    "trigger": "流年三会成忌神局",
+    "effect": "环境压力裹挟个体，容易被大势推着走",
+    "severity": "high",
+    "mitigating_factors": [
+      "用神仍有根",
+      "减少冒进"
+    ],
+    "typical_events": [
+      "裁员波及",
+      "行业压力",
+      "家庭失衡"
+    ]
+  },
+  {
+    "rule_id": "DY015",
+    "trigger": "流年刑日支",
+    "effect": "关系、居住、身体局部容易出现不舒适与暗耗",
+    "severity": "medium",
+    "mitigating_factors": [
+      "有合解",
+      "刑为喜用引动"
+    ],
+    "typical_events": [
+      "冷战",
+      "搬家修缮",
+      "旧病复发"
+    ]
+  },
+  {
+    "rule_id": "DY016",
+    "trigger": "流年害日支",
+    "effect": "表面平静但暗中消耗增加",
+    "severity": "medium",
+    "mitigating_factors": [
+      "命局本身稳定",
+      "有贵人扶持"
+    ],
+    "typical_events": [
+      "误会",
+      "合作反复",
+      "隐性损失"
+    ]
+  },
+  {
+    "rule_id": "DY017",
+    "trigger": "流年冲时支",
+    "effect": "子女、项目尾部、晚间节奏或长期计划易变化",
+    "severity": "medium",
+    "mitigating_factors": [
+      "时柱为忌被冲",
+      "有合解"
+    ],
+    "typical_events": [
+      "子女事务",
+      "项目延期",
+      "作息改变"
+    ]
+  },
+  {
+    "rule_id": "DY018",
+    "trigger": "流年合时支",
+    "effect": "长期计划被重新绑定，成果兑现路径改变",
+    "severity": "low",
+    "mitigating_factors": [
+      "合成喜神",
+      "时柱为用"
+    ],
+    "typical_events": [
+      "副业启动",
+      "子女消息",
+      "远期合作"
+    ]
+  },
+  {
+    "rule_id": "DY019",
+    "trigger": "流年冲年支",
+    "effect": "外部环境、长辈关系、居住背景发生变化",
+    "severity": "medium",
+    "mitigating_factors": [
+      "年柱为忌被冲",
+      "有吉神解救"
+    ],
+    "typical_events": [
+      "家族事务",
+      "迁居",
+      "长辈健康关注"
+    ]
+  },
+  {
+    "rule_id": "DY020",
+    "trigger": "流年引动驿马",
+    "effect": "移动性提升，适合异地行动",
+    "severity": "medium",
+    "mitigating_factors": [
+      "驿马为喜",
+      "财官同步到位"
+    ],
+    "typical_events": [
+      "出差",
+      "留学",
+      "异地发展"
+    ]
+  },
+  {
+    "rule_id": "DY021",
+    "trigger": "流年引动桃花且为喜",
+    "effect": "人际、曝光、情感机会增加",
+    "severity": "medium",
+    "mitigating_factors": [
+      "财官配合",
+      "夫妻宫稳定"
+    ],
+    "typical_events": [
+      "恋爱",
+      "流量增长",
+      "社交活跃"
+    ]
+  },
+  {
+    "rule_id": "DY022",
+    "trigger": "流年引动桃花且为忌",
+    "effect": "情感或社交带来干扰和成本",
+    "severity": "medium",
+    "mitigating_factors": [
+      "官印护身",
+      "日支稳定"
+    ],
+    "typical_events": [
+      "绯闻",
+      "分心",
+      "关系纠缠"
+    ]
+  },
+  {
+    "rule_id": "DY023",
+    "trigger": "流年财星为用而透出",
+    "effect": "财务机会明显，适合经营和收款",
+    "severity": "medium",
+    "mitigating_factors": [
+      "比劫不夺财",
+      "财有根"
+    ],
+    "typical_events": [
+      "加薪",
+      "订单增长",
+      "投资回收"
+    ]
+  },
+  {
+    "rule_id": "DY024",
+    "trigger": "流年财星为忌而透出",
+    "effect": "金钱诱惑增多，风险也同步放大",
+    "severity": "high",
+    "mitigating_factors": [
+      "官星制比",
+      "控制杠杆"
+    ],
+    "typical_events": [
+      "破财",
+      "借贷压力",
+      "合伙纠纷"
+    ]
+  },
+  {
+    "rule_id": "DY025",
+    "trigger": "流年官星为用而透出",
+    "effect": "职位、规则、资质层面的机会增加",
+    "severity": "medium",
+    "mitigating_factors": [
+      "伤官不坏官",
+      "印星护官"
+    ],
+    "typical_events": [
+      "升职",
+      "考试通过",
+      "签正式合同"
+    ]
+  },
+  {
+    "rule_id": "DY026",
+    "trigger": "流年官星为忌而透出",
+    "effect": "制度压力和责任加重，容易被审查",
+    "severity": "high",
+    "mitigating_factors": [
+      "印星通关",
+      "食神缓冲"
+    ],
+    "typical_events": [
+      "被考核",
+      "被投诉",
+      "行政压力"
+    ]
+  },
+  {
+    "rule_id": "DY027",
+    "trigger": "流年七杀为用被引动",
+    "effect": "敢冲敢拼，适合拿下硬项目",
+    "severity": "medium",
+    "mitigating_factors": [
+      "印星化杀",
+      "食神制杀"
+    ],
+    "typical_events": [
+      "竞标成功",
+      "承担重任",
+      "战胜竞争"
+    ]
+  },
+  {
+    "rule_id": "DY028",
+    "trigger": "流年七杀为忌被引动",
+    "effect": "压迫感上升，容易招惹强势对手",
+    "severity": "high",
+    "mitigating_factors": [
+      "印星保护",
+      "避免正面硬碰"
+    ],
+    "typical_events": [
+      "官非",
+      "上级施压",
+      "受伤"
+    ]
+  },
+  {
+    "rule_id": "DY029",
+    "trigger": "流年印星为用而透",
+    "effect": "学习、证照、贵人和恢复力增强",
+    "severity": "medium",
+    "mitigating_factors": [
+      "财不坏印",
+      "印有根"
+    ],
+    "typical_events": [
+      "考证",
+      "复学",
+      "得到扶持"
+    ]
+  },
+  {
+    "rule_id": "DY030",
+    "trigger": "流年印星为忌而透",
+    "effect": "依赖感增强，行动变慢，资源也可能变成束缚",
+    "severity": "medium",
+    "mitigating_factors": [
+      "食伤泄印",
+      "财星制印"
+    ],
+    "typical_events": [
+      "拖延",
+      "保守",
+      "家庭牵制"
+    ]
+  },
+  {
+    "rule_id": "DY031",
+    "trigger": "流年食神为用被引动",
+    "effect": "表达、产出和作品效率提升",
+    "severity": "medium",
+    "mitigating_factors": [
+      "偏印不夺食",
+      "财星承接"
+    ],
+    "typical_events": [
+      "发布作品",
+      "开课",
+      "产品上线"
+    ]
+  },
+  {
+    "rule_id": "DY032",
+    "trigger": "流年食神为忌被引动",
+    "effect": "享乐和松散上升，执行力下降",
+    "severity": "low",
+    "mitigating_factors": [
+      "官星约束",
+      "目标清晰"
+    ],
+    "typical_events": [
+      "拖延",
+      "变胖",
+      "收益下滑"
+    ]
+  },
+  {
+    "rule_id": "DY033",
+    "trigger": "流年伤官为用被引动",
+    "effect": "创新、突破、营销表达能力增强",
+    "severity": "medium",
+    "mitigating_factors": [
+      "印星兜底",
+      "财星承接"
+    ],
+    "typical_events": [
+      "爆款传播",
+      "业务突破",
+      "创业尝试"
+    ]
+  },
+  {
+    "rule_id": "DY034",
+    "trigger": "流年伤官为忌被引动",
+    "effect": "口舌是非、规则冲突和情绪对抗增加",
+    "severity": "high",
+    "mitigating_factors": [
+      "印星通关",
+      "避免挑战权威"
+    ],
+    "typical_events": [
+      "投诉",
+      "争执",
+      "合同风险"
+    ]
+  },
+  {
+    "rule_id": "DY035",
+    "trigger": "流年比肩为用被引动",
+    "effect": "自驱和执行提升，适合独立推进项目",
+    "severity": "medium",
+    "mitigating_factors": [
+      "财星有保障",
+      "官星不受冲"
+    ],
+    "typical_events": [
+      "单干",
+      "建立个人品牌",
+      "拿项目"
+    ]
+  },
+  {
+    "rule_id": "DY036",
+    "trigger": "流年比肩为忌被引动",
+    "effect": "竞争者增多，利润被摊薄",
+    "severity": "medium",
+    "mitigating_factors": [
+      "官杀制比",
+      "减少合伙"
+    ],
+    "typical_events": [
+      "抢单",
+      "合作破裂",
+      "收入下滑"
+    ]
+  },
+  {
+    "rule_id": "DY037",
+    "trigger": "流年劫财为用被引动",
+    "effect": "果断争取资源，适合抢时机",
+    "severity": "medium",
+    "mitigating_factors": [
+      "官杀约束",
+      "财星可守"
+    ],
+    "typical_events": [
+      "抢市场",
+      "换赛道",
+      "短期爆发"
+    ]
+  },
+  {
+    "rule_id": "DY038",
+    "trigger": "流年劫财为忌被引动",
+    "effect": "容易因朋友、同辈、合伙而失财",
+    "severity": "high",
+    "mitigating_factors": [
+      "官星制劫",
+      "谨慎借贷"
+    ],
+    "typical_events": [
+      "借钱不还",
+      "合伙失衡",
+      "现金流吃紧"
+    ]
+  },
+  {
+    "rule_id": "DY039",
+    "trigger": "流年偏财为用被引动",
+    "effect": "偏门资源、流量与副业机会提升",
+    "severity": "medium",
+    "mitigating_factors": [
+      "日主能任",
+      "比劫不强"
+    ],
+    "typical_events": [
+      "副业赚钱",
+      "渠道拓展",
+      "客户增长"
+    ]
+  },
+  {
+    "rule_id": "DY040",
+    "trigger": "流年偏财为忌被引动",
+    "effect": "机会多但不稳，易追高和冲动投资",
+    "severity": "high",
+    "mitigating_factors": [
+      "印星保守",
+      "控制风险敞口"
+    ],
+    "typical_events": [
+      "炒作失利",
+      "被骗",
+      "资金回撤"
+    ]
+  },
+  {
+    "rule_id": "DY041",
+    "trigger": "流年正财为用被引动",
+    "effect": "稳定收入与现金流改善",
+    "severity": "medium",
+    "mitigating_factors": [
+      "岗位稳定",
+      "比劫不夺"
+    ],
+    "typical_events": [
+      "涨薪",
+      "回款顺利",
+      "购置资产"
+    ]
+  },
+  {
+    "rule_id": "DY042",
+    "trigger": "流年正财为忌被引动",
+    "effect": "现实财务压力变大，责任感和开支同步增加",
+    "severity": "medium",
+    "mitigating_factors": [
+      "官星生财为喜",
+      "有储备"
+    ],
+    "typical_events": [
+      "房贷压力",
+      "家庭支出",
+      "预算紧张"
+    ]
+  },
+  {
+    "rule_id": "DY043",
+    "trigger": "流年正官合日主",
+    "effect": "被制度、职位或责任绑定",
+    "severity": "medium",
+    "mitigating_factors": [
+      "官为喜神",
+      "印星护官"
+    ],
+    "typical_events": [
+      "入职体制",
+      "领证结婚",
+      "接任管理岗"
+    ]
+  },
+  {
+    "rule_id": "DY044",
+    "trigger": "流年七杀合日主",
+    "effect": "被高压任务、强势关系或挑战牵引",
+    "severity": "medium",
+    "mitigating_factors": [
+      "印星可化杀",
+      "日主有根"
+    ],
+    "typical_events": [
+      "突击项目",
+      "强势合作",
+      "应急任务"
+    ]
+  },
+  {
+    "rule_id": "DY045",
+    "trigger": "流年财星合印",
+    "effect": "现实利益与学习资质发生博弈",
+    "severity": "medium",
+    "mitigating_factors": [
+      "官星调和",
+      "印为忌反成好事"
+    ],
+    "typical_events": [
+      "转行",
+      "停学创业",
+      "资格变现"
+    ]
+  },
+  {
+    "rule_id": "DY046",
+    "trigger": "流年伤官合官",
+    "effect": "制度与表达发生绑定，既可能改革也可能翻车",
+    "severity": "medium",
+    "mitigating_factors": [
+      "印星通关",
+      "官星为喜"
+    ],
+    "typical_events": [
+      "制度调整",
+      "岗位变更",
+      "处罚争议"
+    ]
+  },
+  {
+    "rule_id": "DY047",
+    "trigger": "流年冲用神根气",
+    "effect": "即便表面顺利，基础也容易松动",
+    "severity": "high",
+    "mitigating_factors": [
+      "大运稳固",
+      "备用用神可接力"
+    ],
+    "typical_events": [
+      "病灾",
+      "合作散伙",
+      "职位下滑"
+    ]
+  },
+  {
+    "rule_id": "DY048",
+    "trigger": "流年扶起忌神根气",
+    "effect": "隐藏问题被激活，旧账回头",
+    "severity": "high",
+    "mitigating_factors": [
+      "提前处理风险",
+      "用神同步到位"
+    ],
+    "typical_events": [
+      "旧疾复发",
+      "旧案重提",
+      "旧关系反噬"
+    ]
+  },
+  {
+    "rule_id": "DY049",
+    "trigger": "大运天干与原局形成五合并化喜神",
+    "effect": "十年主线明显改善，关系和资源的绑定带来红利",
+    "severity": "medium",
+    "mitigating_factors": [
+      "化神得令",
+      "地支不反冲"
+    ],
+    "typical_events": [
+      "结盟",
+      "并购",
+      "职业身份升级"
+    ]
+  },
+  {
+    "rule_id": "DY050",
+    "trigger": "大运天干与原局形成五合并化忌神",
+    "effect": "长期被某种关系或资源捆住，选择空间变小",
+    "severity": "high",
+    "mitigating_factors": [
+      "保留独立现金流",
+      "用神仍在支撑"
+    ],
+    "typical_events": [
+      "长期消耗",
+      "被绑定项目",
+      "难以脱身"
+    ]
+  },
+  {
+    "rule_id": "DY051",
+    "trigger": "大运冲命局喜用神宫位",
+    "effect": "十年内反复经历同一主题的波动",
+    "severity": "high",
+    "mitigating_factors": [
+      "流年阶段性补救",
+      "现实上主动调整"
+    ],
+    "typical_events": [
+      "多次换工作",
+      "多次搬家",
+      "关系反复"
+    ]
+  },
+  {
+    "rule_id": "DY052",
+    "trigger": "大运合命局喜用神宫位",
+    "effect": "十年内某个主题被持续强化和绑定",
+    "severity": "medium",
+    "mitigating_factors": [
+      "合成喜神",
+      "不被忌神穿破"
+    ],
+    "typical_events": [
+      "长期合作",
+      "稳定婚姻",
+      "持续经营"
+    ]
+  },
+  {
+    "rule_id": "DY053",
+    "trigger": "大运走比劫，原局财为用",
+    "effect": "财富管理难度上升，宜守不宜攻",
+    "severity": "high",
+    "mitigating_factors": [
+      "官杀得力",
+      "财星坐库"
+    ],
+    "typical_events": [
+      "利润下降",
+      "合伙争执",
+      "现金分流"
+    ]
+  },
+  {
+    "rule_id": "DY054",
+    "trigger": "大运走财星，原局官为用",
+    "effect": "职位与资源联动增强，利组织晋升",
+    "severity": "medium",
+    "mitigating_factors": [
+      "日主能任财官",
+      "印星不被破"
+    ],
+    "typical_events": [
+      "晋升",
+      "管理权限扩大",
+      "收入提升"
+    ]
+  },
+  {
+    "rule_id": "DY055",
+    "trigger": "大运走印星，原局身弱",
+    "effect": "恢复力增强，适合读书转型与补基础",
+    "severity": "medium",
+    "mitigating_factors": [
+      "财星不过分破印",
+      "印有根"
+    ],
+    "typical_events": [
+      "考证",
+      "读研",
+      "休整后再出发"
+    ]
+  },
+  {
+    "rule_id": "DY056",
+    "trigger": "大运走食伤，原局财星为用",
+    "effect": "表达、产品、销售一起发力，适合扩张",
+    "severity": "medium",
+    "mitigating_factors": [
+      "财星稳",
+      "官星不受伤"
+    ],
+    "typical_events": [
+      "创业",
+      "项目放量",
+      "品牌曝光"
+    ]
+  },
+  {
+    "rule_id": "DY057",
+    "trigger": "大运走官杀，原局身弱无印",
+    "effect": "长期压强过大，需防职业和健康透支",
+    "severity": "high",
+    "mitigating_factors": [
+      "比印辅助",
+      "主动减压"
+    ],
+    "typical_events": [
+      "焦虑",
+      "高压工作",
+      "身体报警"
+    ]
+  },
+  {
+    "rule_id": "DY058",
+    "trigger": "流年用神到位但忌神同来",
+    "effect": "有机会也有代价，成事往往伴随消耗",
+    "severity": "medium",
+    "mitigating_factors": [
+      "大运同助用神",
+      "资源准备充足"
+    ],
+    "typical_events": [
+      "带伤晋升",
+      "忙碌赚钱",
+      "边成事边透支"
+    ]
+  },
+  {
+    "rule_id": "DY059",
+    "trigger": "流年忌神到位但用神暗助",
+    "effect": "表面困难但可守住底线，不至于失控",
+    "severity": "medium",
+    "mitigating_factors": [
+      "有贵人扶持",
+      "核心资源未失"
+    ],
+    "typical_events": [
+      "惊险过关",
+      "问题延后",
+      "损失可控"
+    ]
+  },
+  {
+    "rule_id": "DY060",
+    "trigger": "流月连续冲击同一宫位且流年同意",
+    "effect": "事件大概率在该主题集中爆发",
+    "severity": "high",
+    "mitigating_factors": [
+      "大运不再加码",
+      "提前预案"
+    ],
+    "typical_events": [
+      "集中处理家庭事",
+      "连续面试",
+      "密集治疗"
+    ]
+  },
+  {
+    "rule_id": "DY061",
+    "trigger": "原局与岁运形成伏吟",
+    "effect": "情绪、事件或人物关系容易重复上演",
+    "severity": "medium",
+    "mitigating_factors": [
+      "有反向合解",
+      "主动打破惯性"
+    ],
+    "typical_events": [
+      "旧人旧事重来",
+      "原地打转",
+      "压力循环"
+    ]
+  },
+  {
+    "rule_id": "DY062",
+    "trigger": "原局与岁运形成反吟",
+    "effect": "外部变化明显，常伴突发、反复和不适应",
+    "severity": "high",
+    "mitigating_factors": [
+      "命局本身稳定",
+      "及时调整节奏"
+    ],
+    "typical_events": [
+      "环境突变",
+      "迁移",
+      "合作终止"
+    ]
+  }
+]
