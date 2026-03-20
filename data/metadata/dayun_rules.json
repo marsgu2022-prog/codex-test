@@ -1,0 +1,932 @@
+[
+  {
+    "rule_id": "DY001",
+    "trigger": "流年天干冲克日主",
+    "effect": "压力年，事业或健康有波动",
+    "severity": "high",
+    "mitigating_factors": [
+      "有印星通关",
+      "大运帮身"
+    ],
+    "typical_events": [
+      "换工作",
+      "健康检查",
+      "官非"
+    ]
+  },
+  {
+    "rule_id": "DY002",
+    "trigger": "流年天干生日主",
+    "effect": "支援增加，学习和贵人机会变多",
+    "severity": "medium",
+    "mitigating_factors": [
+      "原局不过寒湿",
+      "印星不过旺"
+    ],
+    "typical_events": [
+      "考证",
+      "入职",
+      "得到帮助"
+    ]
+  },
+  {
+    "rule_id": "DY003",
+    "trigger": "流年天干泄日主",
+    "effect": "输出增加，适合曝光与创造，但体能消耗大",
+    "severity": "medium",
+    "mitigating_factors": [
+      "有印星回补",
+      "财星能承接"
+    ],
+    "typical_events": [
+      "发布作品",
+      "频繁出差",
+      "项目交付"
+    ]
+  },
+  {
+    "rule_id": "DY004",
+    "trigger": "流年天干合日主",
+    "effect": "关系与合作议题上升，容易出现绑定关系",
+    "severity": "medium",
+    "mitigating_factors": [
+      "合化成喜神",
+      "官印协调"
+    ],
+    "typical_events": [
+      "签约",
+      "合作",
+      "感情推进"
+    ]
+  },
+  {
+    "rule_id": "DY005",
+    "trigger": "大运天干克日主",
+    "effect": "十年主旋律偏压制，需稳结构再谈扩张",
+    "severity": "high",
+    "mitigating_factors": [
+      "地支有根",
+      "流年帮身"
+    ],
+    "typical_events": [
+      "岗位压力",
+      "家庭责任",
+      "慢性疲劳"
+    ]
+  },
+  {
+    "rule_id": "DY006",
+    "trigger": "大运天干生日主",
+    "effect": "十年整体恢复和积累能力增强",
+    "severity": "medium",
+    "mitigating_factors": [
+      "原局需要扶助",
+      "财官不过旺"
+    ],
+    "typical_events": [
+      "学习深造",
+      "积累资源",
+      "回归稳定"
+    ]
+  },
+  {
+    "rule_id": "DY007",
+    "trigger": "流年地支子冲命局午",
+    "effect": "子午冲多主情绪、居所或节奏变动，应事速度快。",
+    "severity": "high",
+    "mitigating_factors": [
+      "天干有合化缓冲",
+      "大运同党护盘"
+    ],
+    "typical_events": [
+      "搬家",
+      "跳槽",
+      "关系变化"
+    ]
+  },
+  {
+    "rule_id": "DY008",
+    "trigger": "大运地支子冲命局午",
+    "effect": "子午冲多主情绪、居所或节奏变动，十年主旋律会明显重组。",
+    "severity": "high",
+    "mitigating_factors": [
+      "原局有三合局化解",
+      "喜神被引动"
+    ],
+    "typical_events": [
+      "迁居",
+      "行业切换",
+      "家庭结构变化"
+    ]
+  },
+  {
+    "rule_id": "DY009",
+    "trigger": "流年地支丑冲命局未",
+    "effect": "丑未冲多主家庭、地产或脾胃议题，应事速度快。",
+    "severity": "high",
+    "mitigating_factors": [
+      "天干有合化缓冲",
+      "大运同党护盘"
+    ],
+    "typical_events": [
+      "搬家",
+      "跳槽",
+      "关系变化"
+    ]
+  },
+  {
+    "rule_id": "DY010",
+    "trigger": "大运地支丑冲命局未",
+    "effect": "丑未冲多主家庭、地产或脾胃议题，十年主旋律会明显重组。",
+    "severity": "high",
+    "mitigating_factors": [
+      "原局有三合局化解",
+      "喜神被引动"
+    ],
+    "typical_events": [
+      "迁居",
+      "行业切换",
+      "家庭结构变化"
+    ]
+  },
+  {
+    "rule_id": "DY011",
+    "trigger": "流年地支寅冲命局申",
+    "effect": "寅申冲多主事业、人际或迁移起伏，应事速度快。",
+    "severity": "high",
+    "mitigating_factors": [
+      "天干有合化缓冲",
+      "大运同党护盘"
+    ],
+    "typical_events": [
+      "搬家",
+      "跳槽",
+      "关系变化"
+    ]
+  },
+  {
+    "rule_id": "DY012",
+    "trigger": "大运地支寅冲命局申",
+    "effect": "寅申冲多主事业、人际或迁移起伏，十年主旋律会明显重组。",
+    "severity": "high",
+    "mitigating_factors": [
+      "原局有三合局化解",
+      "喜神被引动"
+    ],
+    "typical_events": [
+      "迁居",
+      "行业切换",
+      "家庭结构变化"
+    ]
+  },
+  {
+    "rule_id": "DY013",
+    "trigger": "流年地支卯冲命局酉",
+    "effect": "卯酉冲多主关系、审美或合作波动，应事速度快。",
+    "severity": "high",
+    "mitigating_factors": [
+      "天干有合化缓冲",
+      "大运同党护盘"
+    ],
+    "typical_events": [
+      "搬家",
+      "跳槽",
+      "关系变化"
+    ]
+  },
+  {
+    "rule_id": "DY014",
+    "trigger": "大运地支卯冲命局酉",
+    "effect": "卯酉冲多主关系、审美或合作波动，十年主旋律会明显重组。",
+    "severity": "high",
+    "mitigating_factors": [
+      "原局有三合局化解",
+      "喜神被引动"
+    ],
+    "typical_events": [
+      "迁居",
+      "行业切换",
+      "家庭结构变化"
+    ]
+  },
+  {
+    "rule_id": "DY015",
+    "trigger": "流年地支辰冲命局戌",
+    "effect": "辰戌冲多主结构重组与信念碰撞，应事速度快。",
+    "severity": "high",
+    "mitigating_factors": [
+      "天干有合化缓冲",
+      "大运同党护盘"
+    ],
+    "typical_events": [
+      "搬家",
+      "跳槽",
+      "关系变化"
+    ]
+  },
+  {
+    "rule_id": "DY016",
+    "trigger": "大运地支辰冲命局戌",
+    "effect": "辰戌冲多主结构重组与信念碰撞，十年主旋律会明显重组。",
+    "severity": "high",
+    "mitigating_factors": [
+      "原局有三合局化解",
+      "喜神被引动"
+    ],
+    "typical_events": [
+      "迁居",
+      "行业切换",
+      "家庭结构变化"
+    ]
+  },
+  {
+    "rule_id": "DY017",
+    "trigger": "流年地支巳冲命局亥",
+    "effect": "巳亥冲多主出行、思维或健康波动，应事速度快。",
+    "severity": "high",
+    "mitigating_factors": [
+      "天干有合化缓冲",
+      "大运同党护盘"
+    ],
+    "typical_events": [
+      "搬家",
+      "跳槽",
+      "关系变化"
+    ]
+  },
+  {
+    "rule_id": "DY018",
+    "trigger": "大运地支巳冲命局亥",
+    "effect": "巳亥冲多主出行、思维或健康波动，十年主旋律会明显重组。",
+    "severity": "high",
+    "mitigating_factors": [
+      "原局有三合局化解",
+      "喜神被引动"
+    ],
+    "typical_events": [
+      "迁居",
+      "行业切换",
+      "家庭结构变化"
+    ]
+  },
+  {
+    "rule_id": "DY019",
+    "trigger": "流年地支甲合命局己",
+    "effect": "甲己合多主协调、合作与转化，资源和关系容易聚拢。",
+    "severity": "medium",
+    "mitigating_factors": [
+      "合而不化也可取缓和之象",
+      "忌神不被引动"
+    ],
+    "typical_events": [
+      "合作",
+      "恋爱",
+      "签约"
+    ]
+  },
+  {
+    "rule_id": "DY020",
+    "trigger": "大运地支甲合命局己",
+    "effect": "甲己合多主协调、合作与转化，长期进入绑定、合作或稳态阶段。",
+    "severity": "medium",
+    "mitigating_factors": [
+      "合神为喜",
+      "原局不逢冲破"
+    ],
+    "typical_events": [
+      "结婚",
+      "长期合伙",
+      "定居"
+    ]
+  },
+  {
+    "rule_id": "DY021",
+    "trigger": "流年地支乙合命局庚",
+    "effect": "乙庚合常见资源与规则结合，资源和关系容易聚拢。",
+    "severity": "medium",
+    "mitigating_factors": [
+      "合而不化也可取缓和之象",
+      "忌神不被引动"
+    ],
+    "typical_events": [
+      "合作",
+      "恋爱",
+      "签约"
+    ]
+  },
+  {
+    "rule_id": "DY022",
+    "trigger": "大运地支乙合命局庚",
+    "effect": "乙庚合常见资源与规则结合，长期进入绑定、合作或稳态阶段。",
+    "severity": "medium",
+    "mitigating_factors": [
+      "合神为喜",
+      "原局不逢冲破"
+    ],
+    "typical_events": [
+      "结婚",
+      "长期合伙",
+      "定居"
+    ]
+  },
+  {
+    "rule_id": "DY023",
+    "trigger": "流年地支丙合命局辛",
+    "effect": "丙辛合多主表达与秩序相逢，资源和关系容易聚拢。",
+    "severity": "medium",
+    "mitigating_factors": [
+      "合而不化也可取缓和之象",
+      "忌神不被引动"
+    ],
+    "typical_events": [
+      "合作",
+      "恋爱",
+      "签约"
+    ]
+  },
+  {
+    "rule_id": "DY024",
+    "trigger": "大运地支丙合命局辛",
+    "effect": "丙辛合多主表达与秩序相逢，长期进入绑定、合作或稳态阶段。",
+    "severity": "medium",
+    "mitigating_factors": [
+      "合神为喜",
+      "原局不逢冲破"
+    ],
+    "typical_events": [
+      "结婚",
+      "长期合伙",
+      "定居"
+    ]
+  },
+  {
+    "rule_id": "DY025",
+    "trigger": "流年地支丁合命局壬",
+    "effect": "丁壬合常见情感与思维互动，资源和关系容易聚拢。",
+    "severity": "medium",
+    "mitigating_factors": [
+      "合而不化也可取缓和之象",
+      "忌神不被引动"
+    ],
+    "typical_events": [
+      "合作",
+      "恋爱",
+      "签约"
+    ]
+  },
+  {
+    "rule_id": "DY026",
+    "trigger": "大运地支丁合命局壬",
+    "effect": "丁壬合常见情感与思维互动，长期进入绑定、合作或稳态阶段。",
+    "severity": "medium",
+    "mitigating_factors": [
+      "合神为喜",
+      "原局不逢冲破"
+    ],
+    "typical_events": [
+      "结婚",
+      "长期合伙",
+      "定居"
+    ]
+  },
+  {
+    "rule_id": "DY027",
+    "trigger": "流年地支戊合命局癸",
+    "effect": "戊癸合多主现实与智慧相接，资源和关系容易聚拢。",
+    "severity": "medium",
+    "mitigating_factors": [
+      "合而不化也可取缓和之象",
+      "忌神不被引动"
+    ],
+    "typical_events": [
+      "合作",
+      "恋爱",
+      "签约"
+    ]
+  },
+  {
+    "rule_id": "DY028",
+    "trigger": "大运地支戊合命局癸",
+    "effect": "戊癸合多主现实与智慧相接，长期进入绑定、合作或稳态阶段。",
+    "severity": "medium",
+    "mitigating_factors": [
+      "合神为喜",
+      "原局不逢冲破"
+    ],
+    "typical_events": [
+      "结婚",
+      "长期合伙",
+      "定居"
+    ]
+  },
+  {
+    "rule_id": "DY029",
+    "trigger": "流年地支子合命局丑",
+    "effect": "子丑合多主关系缓和与资源聚拢，资源和关系容易聚拢。",
+    "severity": "medium",
+    "mitigating_factors": [
+      "合而不化也可取缓和之象",
+      "忌神不被引动"
+    ],
+    "typical_events": [
+      "合作",
+      "恋爱",
+      "签约"
+    ]
+  },
+  {
+    "rule_id": "DY030",
+    "trigger": "大运地支子合命局丑",
+    "effect": "子丑合多主关系缓和与资源聚拢，长期进入绑定、合作或稳态阶段。",
+    "severity": "medium",
+    "mitigating_factors": [
+      "合神为喜",
+      "原局不逢冲破"
+    ],
+    "typical_events": [
+      "结婚",
+      "长期合伙",
+      "定居"
+    ]
+  },
+  {
+    "rule_id": "DY031",
+    "trigger": "流年地支寅刑命局巳",
+    "effect": "寅巳刑多主行动急、压力大，更偏内耗、纠结或制度摩擦。",
+    "severity": "medium",
+    "mitigating_factors": [
+      "有合可缓",
+      "印星能稳心神"
+    ],
+    "typical_events": [
+      "合同纠纷",
+      "关系僵持",
+      "反复决策"
+    ]
+  },
+  {
+    "rule_id": "DY032",
+    "trigger": "大运地支寅刑命局巳",
+    "effect": "寅巳刑多主行动急、压力大，容易形成长期心理或责任压力。",
+    "severity": "medium",
+    "mitigating_factors": [
+      "食伤有出口",
+      "喜神到位"
+    ],
+    "typical_events": [
+      "慢性压力",
+      "家庭摩擦",
+      "组织博弈"
+    ]
+  },
+  {
+    "rule_id": "DY033",
+    "trigger": "流年地支巳刑命局申",
+    "effect": "巳申刑多主计划反复与执行摩擦，更偏内耗、纠结或制度摩擦。",
+    "severity": "medium",
+    "mitigating_factors": [
+      "有合可缓",
+      "印星能稳心神"
+    ],
+    "typical_events": [
+      "合同纠纷",
+      "关系僵持",
+      "反复决策"
+    ]
+  },
+  {
+    "rule_id": "DY034",
+    "trigger": "大运地支巳刑命局申",
+    "effect": "巳申刑多主计划反复与执行摩擦，容易形成长期心理或责任压力。",
+    "severity": "medium",
+    "mitigating_factors": [
+      "食伤有出口",
+      "喜神到位"
+    ],
+    "typical_events": [
+      "慢性压力",
+      "家庭摩擦",
+      "组织博弈"
+    ]
+  },
+  {
+    "rule_id": "DY035",
+    "trigger": "流年地支申刑命局寅",
+    "effect": "申寅刑多主竞争与外部压力，更偏内耗、纠结或制度摩擦。",
+    "severity": "medium",
+    "mitigating_factors": [
+      "有合可缓",
+      "印星能稳心神"
+    ],
+    "typical_events": [
+      "合同纠纷",
+      "关系僵持",
+      "反复决策"
+    ]
+  },
+  {
+    "rule_id": "DY036",
+    "trigger": "大运地支申刑命局寅",
+    "effect": "申寅刑多主竞争与外部压力，容易形成长期心理或责任压力。",
+    "severity": "medium",
+    "mitigating_factors": [
+      "食伤有出口",
+      "喜神到位"
+    ],
+    "typical_events": [
+      "慢性压力",
+      "家庭摩擦",
+      "组织博弈"
+    ]
+  },
+  {
+    "rule_id": "DY037",
+    "trigger": "流年地支丑刑命局戌",
+    "effect": "丑戌刑多主责任、规则或地产压力，更偏内耗、纠结或制度摩擦。",
+    "severity": "medium",
+    "mitigating_factors": [
+      "有合可缓",
+      "印星能稳心神"
+    ],
+    "typical_events": [
+      "合同纠纷",
+      "关系僵持",
+      "反复决策"
+    ]
+  },
+  {
+    "rule_id": "DY038",
+    "trigger": "大运地支丑刑命局戌",
+    "effect": "丑戌刑多主责任、规则或地产压力，容易形成长期心理或责任压力。",
+    "severity": "medium",
+    "mitigating_factors": [
+      "食伤有出口",
+      "喜神到位"
+    ],
+    "typical_events": [
+      "慢性压力",
+      "家庭摩擦",
+      "组织博弈"
+    ]
+  },
+  {
+    "rule_id": "DY039",
+    "trigger": "流年地支戌刑命局未",
+    "effect": "戌未刑多主家庭与价值观磨合，更偏内耗、纠结或制度摩擦。",
+    "severity": "medium",
+    "mitigating_factors": [
+      "有合可缓",
+      "印星能稳心神"
+    ],
+    "typical_events": [
+      "合同纠纷",
+      "关系僵持",
+      "反复决策"
+    ]
+  },
+  {
+    "rule_id": "DY040",
+    "trigger": "大运地支戌刑命局未",
+    "effect": "戌未刑多主家庭与价值观磨合，容易形成长期心理或责任压力。",
+    "severity": "medium",
+    "mitigating_factors": [
+      "食伤有出口",
+      "喜神到位"
+    ],
+    "typical_events": [
+      "慢性压力",
+      "家庭摩擦",
+      "组织博弈"
+    ]
+  },
+  {
+    "rule_id": "DY041",
+    "trigger": "流年地支未刑命局丑",
+    "effect": "未丑刑多主内耗与现实牵扯，更偏内耗、纠结或制度摩擦。",
+    "severity": "medium",
+    "mitigating_factors": [
+      "有合可缓",
+      "印星能稳心神"
+    ],
+    "typical_events": [
+      "合同纠纷",
+      "关系僵持",
+      "反复决策"
+    ]
+  },
+  {
+    "rule_id": "DY042",
+    "trigger": "大运地支未刑命局丑",
+    "effect": "未丑刑多主内耗与现实牵扯，容易形成长期心理或责任压力。",
+    "severity": "medium",
+    "mitigating_factors": [
+      "食伤有出口",
+      "喜神到位"
+    ],
+    "typical_events": [
+      "慢性压力",
+      "家庭摩擦",
+      "组织博弈"
+    ]
+  },
+  {
+    "rule_id": "DY043",
+    "trigger": "流年引动正财",
+    "effect": "收入、现金流和伴侣议题上升",
+    "severity": "medium",
+    "mitigating_factors": [
+      "比劫不重",
+      "官星护财"
+    ],
+    "typical_events": [
+      "加薪",
+      "恋爱",
+      "购置资产"
+    ]
+  },
+  {
+    "rule_id": "DY044",
+    "trigger": "流年引动偏财",
+    "effect": "机会财与人脉财增强，但波动也更大",
+    "severity": "medium",
+    "mitigating_factors": [
+      "身强能任",
+      "官杀制比"
+    ],
+    "typical_events": [
+      "副业",
+      "投资",
+      "商务机会"
+    ]
+  },
+  {
+    "rule_id": "DY045",
+    "trigger": "流年引动正官",
+    "effect": "规则、职位、责任感变强",
+    "severity": "medium",
+    "mitigating_factors": [
+      "伤官不见官",
+      "印星协同"
+    ],
+    "typical_events": [
+      "升职",
+      "考试",
+      "被监管"
+    ]
+  },
+  {
+    "rule_id": "DY046",
+    "trigger": "流年引动七杀",
+    "effect": "压力、竞争、行动力同时上升",
+    "severity": "high",
+    "mitigating_factors": [
+      "有印化杀",
+      "食神制杀"
+    ],
+    "typical_events": [
+      "竞聘",
+      "冲刺项目",
+      "外部冲突"
+    ]
+  },
+  {
+    "rule_id": "DY047",
+    "trigger": "流年引动正印",
+    "effect": "学习、证照、贵人、恢复力增强",
+    "severity": "low",
+    "mitigating_factors": [
+      "财星不过旺",
+      "印不闭塞"
+    ],
+    "typical_events": [
+      "进修",
+      "遇导师",
+      "身体恢复"
+    ]
+  },
+  {
+    "rule_id": "DY048",
+    "trigger": "流年引动偏印",
+    "effect": "灵感增强但节奏不稳，易转向冷门方向",
+    "severity": "medium",
+    "mitigating_factors": [
+      "食神有出口",
+      "财星可疏印"
+    ],
+    "typical_events": [
+      "研究",
+      "转岗",
+      "突然改变兴趣"
+    ]
+  },
+  {
+    "rule_id": "DY049",
+    "trigger": "流年引动食神",
+    "effect": "表达、输出、产品化能力增强",
+    "severity": "low",
+    "mitigating_factors": [
+      "财星承接",
+      "偏印不夺食"
+    ],
+    "typical_events": [
+      "创作",
+      "演讲",
+      "生意增长"
+    ]
+  },
+  {
+    "rule_id": "DY050",
+    "trigger": "流年引动伤官",
+    "effect": "锋芒外放，适合突破但易顶撞规则",
+    "severity": "medium",
+    "mitigating_factors": [
+      "印星约束",
+      "财星通关"
+    ],
+    "typical_events": [
+      "换赛道",
+      "爆红",
+      "争执"
+    ]
+  },
+  {
+    "rule_id": "DY051",
+    "trigger": "流年引动比肩",
+    "effect": "自我意识和独立行动增强",
+    "severity": "medium",
+    "mitigating_factors": [
+      "官星制比",
+      "财星有库"
+    ],
+    "typical_events": [
+      "创业",
+      "单干",
+      "团队分工变化"
+    ]
+  },
+  {
+    "rule_id": "DY052",
+    "trigger": "流年引动劫财",
+    "effect": "竞争者增加，钱财与关系都易波动",
+    "severity": "high",
+    "mitigating_factors": [
+      "官杀制劫",
+      "财星根深"
+    ],
+    "typical_events": [
+      "分利",
+      "抢项目",
+      "合作拆分"
+    ]
+  },
+  {
+    "rule_id": "DY053",
+    "trigger": "岁运并临",
+    "effect": "同一干支重复引动，事件集中且幅度放大",
+    "severity": "high",
+    "mitigating_factors": [
+      "原局喜用被引动",
+      "有合化缓冲"
+    ],
+    "typical_events": [
+      "大事决断",
+      "搬迁",
+      "婚育"
+    ]
+  },
+  {
+    "rule_id": "DY054",
+    "trigger": "大运与流年同来帮身",
+    "effect": "阶段性底盘变稳，适合扩张和积累",
+    "severity": "medium",
+    "mitigating_factors": [
+      "原局确实偏弱",
+      "财官不过重"
+    ],
+    "typical_events": [
+      "创业起步",
+      "升学",
+      "复苏"
+    ]
+  },
+  {
+    "rule_id": "DY055",
+    "trigger": "大运与流年同来克身",
+    "effect": "压力叠加，需保守行事",
+    "severity": "high",
+    "mitigating_factors": [
+      "印比到位",
+      "宫位未被冲坏"
+    ],
+    "typical_events": [
+      "裁员",
+      "病痛",
+      "现金流紧张"
+    ]
+  },
+  {
+    "rule_id": "DY056",
+    "trigger": "流年冲夫妻宫",
+    "effect": "婚恋和合作关系明显波动",
+    "severity": "high",
+    "mitigating_factors": [
+      "合星同至",
+      "财官为喜"
+    ],
+    "typical_events": [
+      "分手",
+      "结婚",
+      "伴侣换工作"
+    ]
+  },
+  {
+    "rule_id": "DY057",
+    "trigger": "流年冲财库",
+    "effect": "资产、储蓄、地产议题被打开",
+    "severity": "medium",
+    "mitigating_factors": [
+      "财星为喜",
+      "有官星护财"
+    ],
+    "typical_events": [
+      "购房",
+      "还债",
+      "资金周转"
+    ]
+  },
+  {
+    "rule_id": "DY058",
+    "trigger": "流年冲官禄位",
+    "effect": "职业方向调整，岗位职责变化",
+    "severity": "medium",
+    "mitigating_factors": [
+      "印星稳定",
+      "命局不见多冲"
+    ],
+    "typical_events": [
+      "转岗",
+      "被调动",
+      "升降职"
+    ]
+  },
+  {
+    "rule_id": "DY059",
+    "trigger": "流年与命局成三合局",
+    "effect": "某一五行之事被集中放大",
+    "severity": "medium",
+    "mitigating_factors": [
+      "合局成喜神",
+      "不过度偏枯"
+    ],
+    "typical_events": [
+      "结盟",
+      "资源整合",
+      "迁居"
+    ]
+  },
+  {
+    "rule_id": "DY060",
+    "trigger": "流年与命局成三会局",
+    "effect": "环境整体换气，阶段感强",
+    "severity": "high",
+    "mitigating_factors": [
+      "会局为喜",
+      "原局有承载"
+    ],
+    "typical_events": [
+      "换城市",
+      "行业转场",
+      "团队重组"
+    ]
+  },
+  {
+    "rule_id": "DY061",
+    "trigger": "忌神在大运得令",
+    "effect": "问题不一定立刻爆发，但十年主题会围绕其展开",
+    "severity": "high",
+    "mitigating_factors": [
+      "流年有喜神抵消",
+      "原局本身稳定"
+    ],
+    "typical_events": [
+      "慢性消耗",
+      "长期责任",
+      "隐性压力"
+    ]
+  },
+  {
+    "rule_id": "DY062",
+    "trigger": "喜神在大运得令",
+    "effect": "十年主旋律顺势，容易获得放大器",
+    "severity": "medium",
+    "mitigating_factors": [
+      "原局不失衡",
+      "流年不过度冲破"
+    ],
+    "typical_events": [
+      "发展机会",
+      "名气提升",
+      "家庭改善"
+    ]
+  }
+]
