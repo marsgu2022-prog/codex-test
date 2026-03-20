@@ -1,0 +1,547 @@
+[
+  {
+    "source_lang": "en",
+    "source_type": "pdf",
+    "source_url": "https://sinaemo.cloud001.yogh.com.br/_pdfs/Resources/duylby/JoeyYapBaziAnalysis.pdf",
+    "topic": "十神画像与命盘分析",
+    "content_summary": "Joey Yap 的入门材料把十神当作人格与处事模式的剖面工具，用于解释命盘中的行为风格。",
+    "rules_extracted": [
+      "十神可以作为人格与行为风格的剖面工具",
+      "看十神时不能脱离整张命盘结构"
+    ],
+    "terms_mapping": {
+      "Ten Gods": "十神",
+      "Profile": "命盘画像"
+    },
+    "school_perspective": "马来西亚派",
+    "quality_score": 0.86
+  },
+  {
+    "source_lang": "en",
+    "source_type": "pdf",
+    "source_url": "https://www.joeyyap.com/dl/grb/The_Grow_Rich_BluePrint.pdf",
+    "topic": "财富与事业路径",
+    "content_summary": "《The Grow Rich Blueprint》强调通过日主、格局与时机配合来做财富与事业选择。",
+    "rules_extracted": [
+      "事业选择要结合日主与格局",
+      "财富判断不能只看财星，还要看时机与承载能力"
+    ],
+    "terms_mapping": {
+      "Day Master": "日主",
+      "Structure": "格局",
+      "Wealth": "财富"
+    },
+    "school_perspective": "马来西亚派",
+    "quality_score": 0.88
+  },
+  {
+    "source_lang": "en",
+    "source_type": "pdf",
+    "source_url": "https://www.joeyyap.com/dl/grbr/The_Grow_Rich_BluePrint.pdf",
+    "topic": "职业定位与结构",
+    "content_summary": "另一版 Joey Yap 资料把 Career Options 与 Structure、Profile 并列，强调职业路径要服从命盘定位。",
+    "rules_extracted": [
+      "职业路径要跟命盘结构一致",
+      "先看结构再看行业平台"
+    ],
+    "terms_mapping": {
+      "Career Options": "职业路径",
+      "Profile": "个人画像"
+    },
+    "school_perspective": "马来西亚派",
+    "quality_score": 0.84
+  },
+  {
+    "source_lang": "en",
+    "source_type": "course",
+    "source_url": "https://event.joeyyap.com/lifepotential",
+    "topic": "天赋与潜能开发",
+    "content_summary": "Life Potential Reading 把 BaZi 定义为识别隐藏天赋、优势与真正志向的工具。",
+    "rules_extracted": [
+      "命盘可用于识别天赋与自然优势",
+      "用命理做职业选择时要优先考虑可现金化技能"
+    ],
+    "terms_mapping": {
+      "Life Potential": "人生潜能",
+      "Hidden Talents": "隐藏天赋",
+      "Cashable Skills": "可变现技能"
+    },
+    "school_perspective": "马来西亚派",
+    "quality_score": 0.8
+  },
+  {
+    "source_lang": "en",
+    "source_type": "course",
+    "source_url": "https://academy.joeyyap.com/program-details/product/10godmasterclass",
+    "topic": "十神课程体系",
+    "content_summary": "Joey Yap 专门开设 10 God Masterclass，说明十神是其教学体系中的核心模块。",
+    "rules_extracted": [
+      "十神可作为职业、性格、关系的统一解释框架",
+      "十神需要放进完整命局中而不是孤立看待"
+    ],
+    "terms_mapping": {
+      "10 God Masterclass": "十神大师课",
+      "10 Gods": "十神"
+    },
+    "school_perspective": "马来西亚派",
+    "quality_score": 0.78
+  },
+  {
+    "source_lang": "en",
+    "source_type": "course",
+    "source_url": "https://event.joeyyap.com/grwb",
+    "topic": "财富、职业与 timing",
+    "content_summary": "Grow Rich With BaZi 明确把 money、career、timing 绑定在一起，延续商业化、应用导向的 BaZi 框架。",
+    "rules_extracted": [
+      "论财要把财富、职业与 timing 放在同一框架内",
+      "命盘分析可直接服务于现实策略选择"
+    ],
+    "terms_mapping": {
+      "Timing": "时机",
+      "Money": "财富",
+      "Career": "事业"
+    },
+    "school_perspective": "马来西亚派",
+    "quality_score": 0.79
+  },
+  {
+    "source_lang": "en",
+    "source_type": "institution",
+    "source_url": "https://event.joeyyap.com/qimen-manifesting",
+    "topic": "命理教育的去神秘化",
+    "content_summary": "Joey Yap Academy 页面强调 demystify Chinese metaphysics，表明其倾向把命理包装成可教学、可执行的现代工具。",
+    "rules_extracted": [
+      "现代传播强调把命理转译成可执行语言",
+      "BaZi 可被包装为自我管理工具而非纯神秘预测"
+    ],
+    "terms_mapping": {
+      "Chinese Metaphysics": "中国命理术数",
+      "Demystify": "去神秘化"
+    },
+    "school_perspective": "马来西亚派",
+    "quality_score": 0.72
+  },
+  {
+    "source_lang": "en",
+    "source_type": "course",
+    "source_url": "https://academy.masterseanchan.com/bazi-bootcamp-beginner-intermediate",
+    "topic": "Useful God 与平衡",
+    "content_summary": "Master Sean Chan 的 Bootcamp 将 Useful God 视为 every reading 的 cornerstone，并把 balance 与 chart strength 放进标准流程。",
+    "rules_extracted": [
+      "每次解盘都要先找用神",
+      "中和与命局强弱是基础分析步骤"
+    ],
+    "terms_mapping": {
+      "Useful God": "用神",
+      "Balance": "中和",
+      "Chart Strength": "命局强弱"
+    },
+    "school_perspective": "现代传统派",
+    "quality_score": 0.9
+  },
+  {
+    "source_lang": "en",
+    "source_type": "tool",
+    "source_url": "https://www.masterseanchan.com/bazi-calculator/",
+    "topic": "真太阳时与排盘精度",
+    "content_summary": "该排盘工具强调 solar time adjustment，并同时展示十神、藏干、神煞和大运。",
+    "rules_extracted": [
+      "出生地与真太阳时会影响排盘精度",
+      "排盘展示应同时包含十神、藏干和大运"
+    ],
+    "terms_mapping": {
+      "Solar Time": "真太阳时",
+      "Hidden Stems": "藏干",
+      "Luck Pillars": "大运"
+    },
+    "school_perspective": "现代传统派",
+    "quality_score": 0.89
+  },
+  {
+    "source_lang": "en",
+    "source_type": "article",
+    "source_url": "https://www.masterseanchan.com/blog/broken-structures-in-bazi/",
+    "topic": "破格与用神改义",
+    "content_summary": "Broken Structures 一文指出用神不同会改变十神与五行的整体含义，突出破格与格局受损的概念。",
+    "rules_extracted": [
+      "用神不同会改写十神吉凶含义",
+      "格局一旦破损，原先的贵格判断需要重估"
+    ],
+    "terms_mapping": {
+      "Broken Structures": "破格",
+      "Useful God": "用神"
+    },
+    "school_perspective": "现代传统派",
+    "quality_score": 0.88
+  },
+  {
+    "source_lang": "en",
+    "source_type": "article",
+    "source_url": "https://www.masterseanchan.com/blog/ten-gods-bazi-profile-how-its-done/",
+    "topic": "十神画像的边界",
+    "content_summary": "文章提醒十神雷达图只能做 profiling，不足以取代完整命理判断。",
+    "rules_extracted": [
+      "十神比例图只能做初步画像",
+      "不能把十神雷达图当成完整断命结论"
+    ],
+    "terms_mapping": {
+      "Profiling": "画像分析",
+      "Radar Chart": "雷达图"
+    },
+    "school_perspective": "现代传统派",
+    "quality_score": 0.87
+  },
+  {
+    "source_lang": "en",
+    "source_type": "pdf",
+    "source_url": "https://www.skillon.com/resources/Module%204%20-%20Useful%20Gods%20-%20syllabus.pdf",
+    "topic": "用神判法",
+    "content_summary": "SkillOn 的 Useful Gods 讲义直接列出“定格为先”“用神为要”等原则，明显偏传统子平。",
+    "rules_extracted": [
+      "定格优先于细部断语",
+      "用神是全局判断的关键枢纽"
+    ],
+    "terms_mapping": {
+      "Useful Gods": "用神",
+      "Determine the structure": "先定格局"
+    },
+    "school_perspective": "传统派",
+    "quality_score": 0.91
+  },
+  {
+    "source_lang": "en",
+    "source_type": "pdf",
+    "source_url": "https://www.skillon.com/resources/Module%203%20-%20Success%20and%20Failure%20-%20syllabus.pdf",
+    "topic": "成败与择业",
+    "content_summary": "Success and Failure 模块把十神择业法、创业者成功例子与用神分析放在同一教学体系中。",
+    "rules_extracted": [
+      "十神可用于职业筛选",
+      "创业成败需要结合用神与结构判断"
+    ],
+    "terms_mapping": {
+      "Success and Failure": "成败模块",
+      "Career Selection by Ten Gods": "十神择业法"
+    },
+    "school_perspective": "传统派",
+    "quality_score": 0.88
+  },
+  {
+    "source_lang": "en",
+    "source_type": "tool",
+    "source_url": "https://www.skillon.com/bazi-calculator.cfm/Celebrity/3748/Gabriel-Bestard",
+    "topic": "强弱、专旺、从格标签化展示",
+    "content_summary": "SkillOn 高级排盘结果会直接给出 Strong、Weak、Zhuan、Cong 和 Useful Gods 等高级标签。",
+    "rules_extracted": [
+      "现代排盘工具常直接输出强弱和从格标签",
+      "自动标签只能作为辅助，仍需人工复核"
+    ],
+    "terms_mapping": {
+      "Strong": "身强",
+      "Weak": "身弱",
+      "Zhuan": "专旺",
+      "Cong": "从格"
+    },
+    "school_perspective": "传统派",
+    "quality_score": 0.82
+  },
+  {
+    "source_lang": "en",
+    "source_type": "course",
+    "source_url": "https://www.skillon.com/course1.cfm",
+    "topic": "模块化命理教学",
+    "content_summary": "SkillOn 将理论、用神、格局、成败等拆成课程模块，体现英文圈对系统化学习的需求。",
+    "rules_extracted": [
+      "英文命理学习多采用模块化路径",
+      "用神、格局、成败判断通常被拆成独立训练模块"
+    ],
+    "terms_mapping": {
+      "Theory": "理论",
+      "Structures": "格局",
+      "Useful Gods": "用神"
+    },
+    "school_perspective": "传统派",
+    "quality_score": 0.76
+  },
+  {
+    "source_lang": "en",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/Divination/comments/tkovia",
+    "topic": "英文 BaZi 入门资料与 Jerry King",
+    "content_summary": "讨论串把 Jerry King 的书列为英文入门书之一，也提到中文资料更系统、英文资源偏基础。",
+    "rules_extracted": [
+      "英文 BaZi 资料普遍比中文资料更基础",
+      "Jerry King 常被视为英文入门作者之一"
+    ],
+    "terms_mapping": {
+      "Jerry King": "Jerry King",
+      "Four Pillars": "四柱"
+    },
+    "school_perspective": "英文入门派",
+    "quality_score": 0.63
+  },
+  {
+    "source_lang": "en",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/taoism/comments/1kz4saw/let_me_tell_you_what_bazi_really_is_from_a_native/",
+    "topic": "本土文化视角解释 BaZi",
+    "content_summary": "发帖者强调 BaZi 不是西方行星占星，而是建立在阴阳五行与自然节律上的结构系统。",
+    "rules_extracted": [
+      "BaZi 的底层是阴阳五行而非行星象征",
+      "BaZi 更像人生结构地图而非随机算命"
+    ],
+    "terms_mapping": {
+      "Eight Characters": "八字",
+      "Five Elements": "五行"
+    },
+    "school_perspective": "民间文化视角",
+    "quality_score": 0.7
+  },
+  {
+    "source_lang": "en",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/China/comments/1riv5qv/what_is_bazi_four_pillars_of_destiny_a_practical/",
+    "topic": "实践导向的 Four Pillars 介绍",
+    "content_summary": "帖子把 BaZi 定位为 personality、career、relationship 和 10-year luck pillars 的结构化分析工具。",
+    "rules_extracted": [
+      "BaZi 可用于人格、事业与关系分析",
+      "大运是时间轴判断的重要组成部分"
+    ],
+    "terms_mapping": {
+      "Four Pillars of Destiny": "四柱命理",
+      "10-year luck pillars": "十年大运"
+    },
+    "school_perspective": "英文科普派",
+    "quality_score": 0.68
+  },
+  {
+    "source_lang": "en",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/ChineseZodiac/comments/1omif8x/bazi_for_selfdiscovery_join_us_to_test/",
+    "topic": "BaZi 与自我探索",
+    "content_summary": "帖子把 BaZi 用于 self-discovery、life direction、career 与 self-image，强调反思型而非纯预测型使用。",
+    "rules_extracted": [
+      "BaZi 可以作为自我探索工具",
+      "现代用户更接受反思式命理解读"
+    ],
+    "terms_mapping": {
+      "Self-discovery": "自我探索",
+      "Life Direction": "人生方向"
+    },
+    "school_perspective": "现代心理化应用",
+    "quality_score": 0.64
+  },
+  {
+    "source_lang": "en",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/u_Creative_Tooth_6928/comments/1pgpti4/bazi_reading_astrology_combined_with_ai/",
+    "topic": "AI 与 BaZi 结合",
+    "content_summary": "体验帖认为 AI 版 BaZi 适合帮助用户理解职业转换中的 stress vs opportunity。",
+    "rules_extracted": [
+      "BaZi 结果可被转写成风险与机会权衡语言",
+      "AI 化表达更容易被现代用户接受"
+    ],
+    "terms_mapping": {
+      "Stress vs. Opportunity": "压力与机会权衡",
+      "AI reading": "AI 解读"
+    },
+    "school_perspective": "AI 应用派",
+    "quality_score": 0.52
+  },
+  {
+    "source_lang": "en",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/Divination/comments/rm7hzg/has_anyone_had_their_bazi_read/",
+    "topic": "婚姻与日支冲的民间讨论",
+    "content_summary": "讨论中直接提到“日支被冲”会带来恋爱婚姻不稳定，是英文社区常见的简化断法。",
+    "rules_extracted": [
+      "日支受冲常被用来指向婚恋变化",
+      "BaZi 更适合给出趋势而非宿命绝对论"
+    ],
+    "terms_mapping": {
+      "Day Branch": "日支",
+      "Clash": "冲"
+    },
+    "school_perspective": "论坛实战派",
+    "quality_score": 0.66
+  },
+  {
+    "source_lang": "en",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/FengShui/comments/1f2hwbb/what_does_my_bazi_mean/",
+    "topic": "健康、事业、关系三类问题集中",
+    "content_summary": "求解帖把 health、career 和 relationships 放在同一框架里，反映英文用户的高频咨询主题。",
+    "rules_extracted": [
+      "英文用户最常把事业、健康、关系放在一起问",
+      "BaZi 在大众语境里常被当作综合人生咨询工具"
+    ],
+    "terms_mapping": {
+      "Health": "健康",
+      "Relationships": "关系"
+    },
+    "school_perspective": "论坛实战派",
+    "quality_score": 0.55
+  },
+  {
+    "source_lang": "en",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/ChineseZodiac/comments/1i1q5x1",
+    "topic": "职业取向咨询",
+    "content_summary": "用户把排盘结果直接转化为“适合什么职业”的问题，体现英文圈对职业建议的强需求。",
+    "rules_extracted": [
+      "英文圈常把八字直接转化为职业建议问题",
+      "职业判断通常需要结合十神和格局而非生肖"
+    ],
+    "terms_mapping": {
+      "Career": "职业",
+      "BaZi calculator": "八字排盘工具"
+    },
+    "school_perspective": "论坛咨询派",
+    "quality_score": 0.53
+  },
+  {
+    "source_lang": "en",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/FengShui/comments/1rfsz4u/can_someone_explain_my_bazi/",
+    "topic": "庚金巳月七杀结构解读",
+    "content_summary": "帖子把 Geng Metal in Si month with Seven Killings 概括成 Steel Warrior / Maverick Leader，属于人格化叙述。",
+    "rules_extracted": [
+      "庚金生巳月见七杀常被人格化为强硬领袖型",
+      "英文内容偏好把结构翻译成职业和气质标签"
+    ],
+    "terms_mapping": {
+      "Geng Metal": "庚金",
+      "Seven Killings": "七杀"
+    },
+    "school_perspective": "论坛人格派",
+    "quality_score": 0.6
+  },
+  {
+    "source_lang": "en",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/astrology/comments/kt558z/anyone_into_chinese_astrology_bazi/",
+    "topic": "英文社区资源稀缺",
+    "content_summary": "帖子反映 Reddit 上 BaZi 社群长期较小，资源与交流明显少于西方占星。",
+    "rules_extracted": [
+      "英文 BaZi 社群体量偏小",
+      "高质量英文讨论资源相对稀缺"
+    ],
+    "terms_mapping": {
+      "Chinese Astrology": "中国命理/中式占星"
+    },
+    "school_perspective": "社区观察",
+    "quality_score": 0.49
+  },
+  {
+    "source_lang": "en",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/PsychicServices/comments/1jol6ol",
+    "topic": "短时阅读服务的议题范围",
+    "content_summary": "服务帖把 career、relationships 和 life path 当作典型询问主题，说明用户需求仍偏结果导向。",
+    "rules_extracted": [
+      "大众咨询以事业、关系、人生方向为主",
+      "商业化 BaZi 服务通常以快速问题回答呈现"
+    ],
+    "terms_mapping": {
+      "Life Path": "人生路径"
+    },
+    "school_perspective": "商业服务派",
+    "quality_score": 0.45
+  },
+  {
+    "source_lang": "en",
+    "source_type": "news-discussion",
+    "source_url": "https://www.reddit.com/r/technews/comments/1j2jtzf",
+    "topic": "AI 断命与时间运势表达",
+    "content_summary": "转帖中提到 2025-2027 是 fire period 并看好 career，体现 AI 生成内容爱用元素周期语言。",
+    "rules_extracted": [
+      "AI 断命常把时间段翻译成五行周期",
+      "职业结论常与元素旺衰时间窗绑定"
+    ],
+    "terms_mapping": {
+      "Fire Period": "火运阶段"
+    },
+    "school_perspective": "AI 传播观察",
+    "quality_score": 0.5
+  },
+  {
+    "source_lang": "en",
+    "source_type": "tool",
+    "source_url": "https://www.joeyyap.com/bzchart",
+    "topic": "免费排盘作为传播入口",
+    "content_summary": "Joey Yap 体系把 Plot my Personalized BaZi Chart 作为大众入口，先免费排盘再延伸到课程和解读。",
+    "rules_extracted": [
+      "现代命理传播常以免费排盘吸引用户",
+      "排盘入口之后再导入课程和深度解读"
+    ],
+    "terms_mapping": {
+      "BaZi Chart": "八字命盘"
+    },
+    "school_perspective": "马来西亚派",
+    "quality_score": 0.71
+  },
+  {
+    "source_lang": "en",
+    "source_type": "course",
+    "source_url": "https://academy.masterseanchan.com/bazi-bootcamp-beginner-intermediate",
+    "topic": "神煞与辅助星的地位",
+    "content_summary": "Master Sean Chan 课程单列 Auxiliary Stars，认为神煞能在主体结构之外增加细节。",
+    "rules_extracted": [
+      "神煞属于辅助层，不应盖过主体结构",
+      "辅助星适合做细部补充而非主判断"
+    ],
+    "terms_mapping": {
+      "Auxiliary Stars": "辅助星/神煞"
+    },
+    "school_perspective": "现代传统派",
+    "quality_score": 0.83
+  },
+  {
+    "source_lang": "en",
+    "source_type": "course",
+    "source_url": "https://academy.masterseanchan.com/bazi-bootcamp-beginner-intermediate",
+    "topic": "空亡与十二长生的应用",
+    "content_summary": "课程进阶模块把 Void Emptiness 和 12 Qi Phases 纳入高阶理论，说明英文圈也在吸收传统细部法。",
+    "rules_extracted": [
+      "空亡属于进阶辅助判断工具",
+      "十二长生可用于细化气势与阶段判断"
+    ],
+    "terms_mapping": {
+      "Void Emptiness": "空亡",
+      "12 Qi Phases": "十二长生"
+    },
+    "school_perspective": "现代传统派",
+    "quality_score": 0.82
+  },
+  {
+    "source_lang": "en",
+    "source_type": "pdf",
+    "source_url": "https://www.skillon.com/resources/Module%204%20-%20Useful%20Gods%20-%20syllabus.pdf",
+    "topic": "四种用神",
+    "content_summary": "讲义列出 Four type of useful gods，显示英文教学也尝试保留传统用神分类法。",
+    "rules_extracted": [
+      "用神不止一种层次，需要分类型处理",
+      "子平取用神仍强调先辨格局再谈喜忌"
+    ],
+    "terms_mapping": {
+      "Four type of useful gods": "四种用神"
+    },
+    "school_perspective": "传统派",
+    "quality_score": 0.85
+  },
+  {
+    "source_lang": "en",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/China/comments/1j2jtkz",
+    "topic": "创业决策中的元素周期验证",
+    "content_summary": "讨论引用案例把 fire period 作为创业期利好，说明大众容易把时间运势直接映射到事业决策。",
+    "rules_extracted": [
+      "大众应用常把五行周期直接用于创业时机判断",
+      "时间窗口解释比抽象格局更容易被普通用户接受"
+    ],
+    "terms_mapping": {
+      "Career Timing": "事业时机"
+    },
+    "school_perspective": "大众应用派",
+    "quality_score": 0.51
+  }
+]
