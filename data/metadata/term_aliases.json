@@ -1,0 +1,353 @@
+[
+  {
+    "standard_term": "比肩",
+    "aliases": [
+      "比劫之阳",
+      "同类帮身",
+      "兄弟星"
+    ],
+    "english": "Companion Star"
+  },
+  {
+    "standard_term": "劫财",
+    "aliases": [
+      "比劫之阴",
+      "争财星",
+      "同类夺财"
+    ],
+    "english": "Rob Wealth"
+  },
+  {
+    "standard_term": "食神",
+    "aliases": [
+      "福星",
+      "寿星",
+      "我生之吉神"
+    ],
+    "english": "Eating God"
+  },
+  {
+    "standard_term": "伤官",
+    "aliases": [
+      "秀气之神",
+      "才华外泄",
+      "我生之偏神"
+    ],
+    "english": "Hurting Officer"
+  },
+  {
+    "standard_term": "正财",
+    "aliases": [
+      "妻财",
+      "正妻星",
+      "稳定之财"
+    ],
+    "english": "Direct Wealth"
+  },
+  {
+    "standard_term": "偏财",
+    "aliases": [
+      "横财",
+      "外财",
+      "流动之财"
+    ],
+    "english": "Indirect Wealth"
+  },
+  {
+    "standard_term": "正官",
+    "aliases": [
+      "官星",
+      "贵气之神",
+      "约束之星"
+    ],
+    "english": "Direct Officer"
+  },
+  {
+    "standard_term": "七杀",
+    "aliases": [
+      "偏官",
+      "将星",
+      "压力之神"
+    ],
+    "english": "Seven Killings"
+  },
+  {
+    "standard_term": "正印",
+    "aliases": [
+      "印绶",
+      "护身之印",
+      "文书星"
+    ],
+    "english": "Direct Resource"
+  },
+  {
+    "standard_term": "偏印",
+    "aliases": [
+      "枭神",
+      "倒食",
+      "异路之印"
+    ],
+    "english": "Indirect Resource"
+  },
+  {
+    "standard_term": "日主",
+    "aliases": [
+      "日元",
+      "命主",
+      "身主"
+    ],
+    "english": "Day Master"
+  },
+  {
+    "standard_term": "用神",
+    "aliases": [
+      "喜用",
+      "主用之神",
+      "命局平衡点"
+    ],
+    "english": "Useful God"
+  },
+  {
+    "standard_term": "忌神",
+    "aliases": [
+      "所忌之神",
+      "失衡之源",
+      "不喜之神"
+    ],
+    "english": "Unfavorable God"
+  },
+  {
+    "standard_term": "相神",
+    "aliases": [
+      "辅神",
+      "辅助用神",
+      "成格之佐"
+    ],
+    "english": "Assistant God"
+  },
+  {
+    "standard_term": "调候",
+    "aliases": [
+      "寒暖燥湿调整",
+      "气候平衡",
+      "四时调剂"
+    ],
+    "english": "Climate Adjustment"
+  },
+  {
+    "standard_term": "扶抑",
+    "aliases": [
+      "抑强扶弱",
+      "平衡取用",
+      "强弱取法"
+    ],
+    "english": "Balance Method"
+  },
+  {
+    "standard_term": "通关",
+    "aliases": [
+      "桥梁之神",
+      "解战之法",
+      "转化之神"
+    ],
+    "english": "Mediator Method"
+  },
+  {
+    "standard_term": "格局",
+    "aliases": [
+      "命格",
+      "成格",
+      "立格"
+    ],
+    "english": "Structure"
+  },
+  {
+    "standard_term": "从强",
+    "aliases": [
+      "从旺",
+      "顺势从强",
+      "专旺从势"
+    ],
+    "english": "Follow Strong"
+  },
+  {
+    "standard_term": "从弱",
+    "aliases": [
+      "从势",
+      "弃命从弱",
+      "顺弱之局"
+    ],
+    "english": "Follow Weak"
+  },
+  {
+    "standard_term": "从财",
+    "aliases": [
+      "弃命从财",
+      "财旺从势",
+      "从财格"
+    ],
+    "english": "Follow Wealth"
+  },
+  {
+    "standard_term": "从杀",
+    "aliases": [
+      "弃命从官杀",
+      "从官杀",
+      "从杀格"
+    ],
+    "english": "Follow Killing"
+  },
+  {
+    "standard_term": "化气格",
+    "aliases": [
+      "化神格",
+      "五合化气",
+      "化气成格"
+    ],
+    "english": "Transformative Structure"
+  },
+  {
+    "standard_term": "正官格",
+    "aliases": [
+      "官格",
+      "官星立格",
+      "正官成格"
+    ],
+    "english": "Direct Officer Structure"
+  },
+  {
+    "standard_term": "七杀格",
+    "aliases": [
+      "杀格",
+      "偏官格",
+      "七杀成格"
+    ],
+    "english": "Seven Killings Structure"
+  },
+  {
+    "standard_term": "食神格",
+    "aliases": [
+      "食神成格",
+      "福神格",
+      "食神立格"
+    ],
+    "english": "Eating God Structure"
+  },
+  {
+    "standard_term": "伤官格",
+    "aliases": [
+      "伤官成格",
+      "秀气格",
+      "伤官立格"
+    ],
+    "english": "Hurting Officer Structure"
+  },
+  {
+    "standard_term": "正财格",
+    "aliases": [
+      "财格",
+      "正财成格",
+      "妻财格"
+    ],
+    "english": "Direct Wealth Structure"
+  },
+  {
+    "standard_term": "偏财格",
+    "aliases": [
+      "偏财成格",
+      "外财格",
+      "活财格"
+    ],
+    "english": "Indirect Wealth Structure"
+  },
+  {
+    "standard_term": "六亲",
+    "aliases": [
+      "亲属象",
+      "亲缘关系",
+      "家属定位"
+    ],
+    "english": "Six Relations"
+  },
+  {
+    "standard_term": "夫妻宫",
+    "aliases": [
+      "日支",
+      "婚姻宫",
+      "配偶宫"
+    ],
+    "english": "Spouse Palace"
+  },
+  {
+    "standard_term": "月令",
+    "aliases": [
+      "月支司令",
+      "当令之气",
+      "司权之支"
+    ],
+    "english": "Monthly Command"
+  },
+  {
+    "standard_term": "天干",
+    "aliases": [
+      "十干",
+      "十天干",
+      "干"
+    ],
+    "english": "Heavenly Stem"
+  },
+  {
+    "standard_term": "地支",
+    "aliases": [
+      "十二支",
+      "十二地支",
+      "支"
+    ],
+    "english": "Earthly Branch"
+  },
+  {
+    "standard_term": "藏干",
+    "aliases": [
+      "支中人元",
+      "地支藏气",
+      "支内天干"
+    ],
+    "english": "Hidden Stems"
+  },
+  {
+    "standard_term": "财星",
+    "aliases": [
+      "财富之星",
+      "我克之神",
+      "资源输出对象"
+    ],
+    "english": "Wealth Star"
+  },
+  {
+    "standard_term": "官星",
+    "aliases": [
+      "权力之星",
+      "克我之神",
+      "名位之星"
+    ],
+    "english": "Officer Star"
+  },
+  {
+    "standard_term": "印星",
+    "aliases": [
+      "资源之星",
+      "生我之神",
+      "靠山之星"
+    ],
+    "english": "Resource Star"
+  },
+  {
+    "standard_term": "比劫",
+    "aliases": [
+      "比肩劫财",
+      "同党",
+      "同类之神"
+    ],
+    "english": "Peers"
+  }
+]
