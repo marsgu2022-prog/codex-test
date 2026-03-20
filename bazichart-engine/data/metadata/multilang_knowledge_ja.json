@@ -1,0 +1,305 @@
+[
+  {
+    "source_lang": "ja",
+    "source_type": "blog",
+    "source_url": "https://ameblo.jp/hikarinomoto-888/entry-12499087404.html",
+    "topic": "通変星基础与吉凶",
+    "content_summary": "文章系统介绍比肩、劫财、食神、伤官、偏财、正财、偏官、正官、偏印、正印十种通变星的定义。",
+    "rules_extracted": [
+      "通变星是以日干为中心按生克与阴阳关系命名",
+      "十神基础定义在日本四柱推命传播中仍是核心入口"
+    ],
+    "terms_mapping": {
+      "通変星": "十神/通变星",
+      "偏官": "七杀"
+    },
+    "school_perspective": "日本通变星基础派",
+    "quality_score": 0.83
+  },
+  {
+    "source_lang": "ja",
+    "source_type": "blog",
+    "source_url": "https://ameblo.jp/maison-xx/entry-12875396994.html",
+    "topic": "蔵干通変星与显意识/潜意识",
+    "content_summary": "文中区分通变星与蔵干通变星，认为前者偏向可见行为，后者更像内在本质。",
+    "rules_extracted": [
+      "通变星可理解为外显行为模式",
+      "蔵干通变星可用来描述更深层的内在倾向"
+    ],
+    "terms_mapping": {
+      "蔵干通変星": "藏干十神",
+      "顕在意識": "显意识"
+    },
+    "school_perspective": "日本现代心理派",
+    "quality_score": 0.8
+  },
+  {
+    "source_lang": "ja",
+    "source_type": "blog",
+    "source_url": "https://ameblo.jp/ancoro0129/entry-12939507878.html",
+    "topic": "正官、比肩、偏官的性格棱角",
+    "content_summary": "文章把正官、比肩、偏官列为“看起来强硬”的星，偏重性格与人际感受的解释。",
+    "rules_extracted": [
+      "正官常被解释为责任感与规则感过强",
+      "比肩常被解释为独立与不易妥协"
+    ],
+    "terms_mapping": {
+      "正官": "正官",
+      "比肩": "比肩",
+      "偏官": "七杀"
+    },
+    "school_perspective": "日本性格解读派",
+    "quality_score": 0.69
+  },
+  {
+    "source_lang": "ja",
+    "source_type": "blog",
+    "source_url": "https://ameblo.jp/porchyamegu55/entry-12948529872.html",
+    "topic": "正官星与官局",
+    "content_summary": "文中指出正官代表责任、诚实、执行力，并提到正官与偏官合计过多可形成官局。",
+    "rules_extracted": [
+      "正官常被视为责任与正统路线之星",
+      "正官偏官过多时可强化官杀主题"
+    ],
+    "terms_mapping": {
+      "官局": "官杀结构/官局"
+    },
+    "school_perspective": "日本传统实务派",
+    "quality_score": 0.77
+  },
+  {
+    "source_lang": "ja",
+    "source_type": "blog",
+    "source_url": "https://ameblo.jp/kokochiyoiima/entry-12801538735.html",
+    "topic": "正官与规则感",
+    "content_summary": "文章用“そのルールでしあわせ？”切入，强调正官与常识、秩序、道德感之间的联系。",
+    "rules_extracted": [
+      "正官常被解释为规则、秩序与社会规范",
+      "十神解释在日本内容里常与情绪幸福感相连接"
+    ],
+    "terms_mapping": {
+      "ルール": "规则",
+      "しあわせ": "幸福感"
+    },
+    "school_perspective": "日本生活应用派",
+    "quality_score": 0.66
+  },
+  {
+    "source_lang": "ja",
+    "source_type": "blog",
+    "source_url": "https://ameblo.jp/mineaki4/entry-12899857063.html",
+    "topic": "偏官与压力驱动型行动力",
+    "content_summary": "文章认为偏官是“在压力下发光”的星，突出行动力、紧张感和被逼出来的执行。",
+    "rules_extracted": [
+      "偏官常被解释为压力驱动型行动力",
+      "七杀类主题在日文传播里常做积极化翻译"
+    ],
+    "terms_mapping": {
+      "偏官": "七杀",
+      "行動力": "行动力"
+    },
+    "school_perspective": "日本性格应用派",
+    "quality_score": 0.74
+  },
+  {
+    "source_lang": "ja",
+    "source_type": "blog",
+    "source_url": "https://ameblo.jp/nagareboshi-2025/entry-12916688112.html",
+    "topic": "命式图中的通変星标注",
+    "content_summary": "命式图制作教学展示了如何在命式上标出偏官、正财、伤官等通变星。",
+    "rules_extracted": [
+      "日本入门教学常把命式可视化作为第一步",
+      "通变星教学与命式图制作是并行的"
+    ],
+    "terms_mapping": {
+      "命式図": "命式图",
+      "生剋名": "生克名/十神名"
+    },
+    "school_perspective": "日本入门教学派",
+    "quality_score": 0.7
+  },
+  {
+    "source_lang": "ja",
+    "source_type": "blog",
+    "source_url": "https://ameblo.jp/noble-style/entry-12710759541.html",
+    "topic": "月柱、中年期与社会表现",
+    "content_summary": "文章把月柱解释为走向社会后的活跃阶段，并配合通变星做人格说明。",
+    "rules_extracted": [
+      "月柱常被用于解释社会化阶段与中年运势",
+      "四柱分限在日本普及内容中仍被广泛使用"
+    ],
+    "terms_mapping": {
+      "月柱": "月柱",
+      "中年期": "中年期"
+    },
+    "school_perspective": "日本普及派",
+    "quality_score": 0.72
+  },
+  {
+    "source_lang": "ja",
+    "source_type": "blog",
+    "source_url": "https://ameblo.jp/mochicakerice/entry-12570436629.html",
+    "topic": "偏印的才能与偏屈感",
+    "content_summary": "文中提到偏印有才能与独特性，但在夏生丙火身旺又缺水时可能变得内向偏屈。",
+    "rules_extracted": [
+      "偏印可表现为特殊才能与独特思维",
+      "命局气候失衡时偏印的优点可能转成偏执"
+    ],
+    "terms_mapping": {
+      "偏印": "偏印",
+      "身旺": "身旺"
+    },
+    "school_perspective": "日本经验派",
+    "quality_score": 0.73
+  },
+  {
+    "source_lang": "ja",
+    "source_type": "blog",
+    "source_url": "https://ameblo.jp/floral-serenity/entry-12902186035.html",
+    "topic": "庚×偏印的人格比喻",
+    "content_summary": "文章以花的比喻解释“庚×偏印”的静かなカリスマ性，偏向人格叙事。",
+    "rules_extracted": [
+      "日干与十神组合常被日本作者人格化解释",
+      "庚金配偏印常被描写为冷静而另类的魅力"
+    ],
+    "terms_mapping": {
+      "庚×偏印": "庚金见偏印",
+      "静かなカリスマ性": "安静的魅力/静默领导感"
+    },
+    "school_perspective": "日本人格比喻派",
+    "quality_score": 0.62
+  },
+  {
+    "source_lang": "ja",
+    "source_type": "article",
+    "source_url": "https://note.com/lunoru/n/n2dc0263aece7",
+    "topic": "年运、月运、日运与大运的区别",
+    "content_summary": "文章专门讲运气层级的区别与应用方式，是日文资料中较清晰的运势分层说明。",
+    "rules_extracted": [
+      "年运、月运、日运、大运需要分层使用",
+      "运势判断要先看大运背景再看流年流月"
+    ],
+    "terms_mapping": {
+      "年運": "流年",
+      "月運": "流月",
+      "大運": "大运"
+    },
+    "school_perspective": "日本实用运势派",
+    "quality_score": 0.84
+  },
+  {
+    "source_lang": "ja",
+    "source_type": "blog",
+    "source_url": "https://ameblo.jp/ozyarupi/entry-12676992587.html",
+    "topic": "通変星记忆顺序",
+    "content_summary": "文章通过顺序记忆法帮助学习者背诵劫财、伤官、正财、正官、印绶等通变星链条。",
+    "rules_extracted": [
+      "十神学习在日本内容里常用顺序记忆法降低门槛",
+      "记忆法材料反映十神仍是教学核心"
+    ],
+    "terms_mapping": {
+      "印綬": "正印",
+      "覚え方": "记忆法"
+    },
+    "school_perspective": "日本入门记忆派",
+    "quality_score": 0.65
+  },
+  {
+    "source_lang": "ja",
+    "source_type": "app-page",
+    "source_url": "https://www.artman21.com/yinyang/",
+    "topic": "命式、年运、相性与有名人数据库",
+    "content_summary": "应用页面宣称可输出命式、生命类型、年运、相性，并可对照约14000人的生日数据库找相似名人。",
+    "rules_extracted": [
+      "日本产品化内容常把命式、相性、有名人样本打包呈现",
+      "名人数据库常被用作降低理解门槛的入口"
+    ],
+    "terms_mapping": {
+      "相性": "合盘/相性",
+      "生命タイプ": "生命类型"
+    },
+    "school_perspective": "日本产品应用派",
+    "quality_score": 0.61
+  },
+  {
+    "source_lang": "ja",
+    "source_type": "blog",
+    "source_url": "https://www.sudechi.com/entry/sugo",
+    "topic": "成功者的“すごい命式”",
+    "content_summary": "文章把社会地位、名声、金钱三项作为“厉害命式”的观察指标，明显偏成就导向。",
+    "rules_extracted": [
+      "日文实务内容常用社会地位、名声、金钱来评价命式层次",
+      "成功命式分析倾向结合现实成就验证结构"
+    ],
+    "terms_mapping": {
+      "すごい命式": "高层次命式",
+      "成功者": "成功者"
+    },
+    "school_perspective": "日本成就验证派",
+    "quality_score": 0.7
+  },
+  {
+    "source_lang": "ja",
+    "source_type": "blog",
+    "source_url": "https://akimasa-fushimi.sakura.ne.jp/wp/2025/10/07/%EF%BC%92%EF%BC%90%EF%BC%92%EF%BC%95%E8%87%AA%E6%B0%91%E5%85%9A%E7%B7%8F%E8%A3%81%E9%81%B8%E2%91%A5%E5%9B%9B%E6%9F%B1%E6%8E%A8%E5%91%BD%EF%BC%9B%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E3%81%A8%E3%81%9D/",
+    "topic": "政治人物命式与并临",
+    "content_summary": "文章用政治人物案例解释大运与日柱同柱的“併臨”会引发隐事曝光等主题。",
+    "rules_extracted": [
+      "大运与日柱同柱的并临常被视为强应期信号",
+      "日本案例分析喜欢把命理结构与现实新闻并读"
+    ],
+    "terms_mapping": {
+      "併臨": "并临"
+    },
+    "school_perspective": "日本时事案例派",
+    "quality_score": 0.74
+  },
+  {
+    "source_lang": "ja",
+    "source_type": "note",
+    "source_url": "https://note.com/nonoko55/n/nb7e35df0c828",
+    "topic": "久米宏命式与语言才能",
+    "content_summary": "作者通过久米宏案例，把“自分の感覚で言葉を紡ぐ”与命式中的表达型结构联系起来。",
+    "rules_extracted": [
+      "名人命式在日本常被用来说明语言、表演与职业天赋",
+      "表达型十神结构常被对应到主持、写作、创作才能"
+    ],
+    "terms_mapping": {
+      "言葉の才能": "语言才能"
+    },
+    "school_perspective": "日本名人案例派",
+    "quality_score": 0.79
+  },
+  {
+    "source_lang": "ja",
+    "source_type": "blog",
+    "source_url": "https://ameblo.jp/shichusuimei-etc/entry-12921975968.html",
+    "topic": "癸日名人命式集",
+    "content_summary": "作者汇总癸日出生的名人命式，强调知性、感受性、行动力与社会舞台表现。",
+    "rules_extracted": [
+      "同一日主的名人对照法有助于观察共性",
+      "癸日常被关联到感受性与知性表达"
+    ],
+    "terms_mapping": {
+      "癸日": "癸日主"
+    },
+    "school_perspective": "日本名人归纳派",
+    "quality_score": 0.81
+  },
+  {
+    "source_lang": "ja",
+    "source_type": "note",
+    "source_url": "https://note.com/honkowa4fate/n/n575fcfe2e59c",
+    "topic": "搞笑艺人命式与生存策略",
+    "content_summary": "文章以 M-1 优胜者案例说明“笑わせることで、生き延びてきた”这种职业表达也可用命式解读。",
+    "rules_extracted": [
+      "职业风格与生存策略常被放进命式里解释",
+      "日本案例写法强调命理与人生叙事的结合"
+    ],
+    "terms_mapping": {
+      "命式考察": "命式分析"
+    },
+    "school_perspective": "日本叙事案例派",
+    "quality_score": 0.73
+  }
+]
