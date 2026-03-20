@@ -1,0 +1,1231 @@
+{
+  "ziwei": {
+    "2": {
+      "1": {
+        "index": 2,
+        "branch": "丑"
+      },
+      "2": {
+        "index": 3,
+        "branch": "寅"
+      },
+      "3": {
+        "index": 3,
+        "branch": "寅"
+      },
+      "4": {
+        "index": 4,
+        "branch": "卯"
+      },
+      "5": {
+        "index": 4,
+        "branch": "卯"
+      },
+      "6": {
+        "index": 5,
+        "branch": "辰"
+      },
+      "7": {
+        "index": 5,
+        "branch": "辰"
+      },
+      "8": {
+        "index": 6,
+        "branch": "巳"
+      },
+      "9": {
+        "index": 6,
+        "branch": "巳"
+      },
+      "10": {
+        "index": 7,
+        "branch": "午"
+      },
+      "11": {
+        "index": 7,
+        "branch": "午"
+      },
+      "12": {
+        "index": 8,
+        "branch": "未"
+      },
+      "13": {
+        "index": 8,
+        "branch": "未"
+      },
+      "14": {
+        "index": 9,
+        "branch": "申"
+      },
+      "15": {
+        "index": 9,
+        "branch": "申"
+      },
+      "16": {
+        "index": 10,
+        "branch": "酉"
+      },
+      "17": {
+        "index": 10,
+        "branch": "酉"
+      },
+      "18": {
+        "index": 11,
+        "branch": "戌"
+      },
+      "19": {
+        "index": 11,
+        "branch": "戌"
+      },
+      "20": {
+        "index": 12,
+        "branch": "亥"
+      },
+      "21": {
+        "index": 12,
+        "branch": "亥"
+      },
+      "22": {
+        "index": 1,
+        "branch": "子"
+      },
+      "23": {
+        "index": 1,
+        "branch": "子"
+      },
+      "24": {
+        "index": 2,
+        "branch": "丑"
+      },
+      "25": {
+        "index": 2,
+        "branch": "丑"
+      },
+      "26": {
+        "index": 3,
+        "branch": "寅"
+      },
+      "27": {
+        "index": 3,
+        "branch": "寅"
+      },
+      "28": {
+        "index": 4,
+        "branch": "卯"
+      },
+      "29": {
+        "index": 4,
+        "branch": "卯"
+      },
+      "30": {
+        "index": 5,
+        "branch": "辰"
+      }
+    },
+    "3": {
+      "1": {
+        "index": 5,
+        "branch": "辰"
+      },
+      "2": {
+        "index": 2,
+        "branch": "丑"
+      },
+      "3": {
+        "index": 3,
+        "branch": "寅"
+      },
+      "4": {
+        "index": 6,
+        "branch": "巳"
+      },
+      "5": {
+        "index": 3,
+        "branch": "寅"
+      },
+      "6": {
+        "index": 4,
+        "branch": "卯"
+      },
+      "7": {
+        "index": 7,
+        "branch": "午"
+      },
+      "8": {
+        "index": 4,
+        "branch": "卯"
+      },
+      "9": {
+        "index": 5,
+        "branch": "辰"
+      },
+      "10": {
+        "index": 8,
+        "branch": "未"
+      },
+      "11": {
+        "index": 5,
+        "branch": "辰"
+      },
+      "12": {
+        "index": 6,
+        "branch": "巳"
+      },
+      "13": {
+        "index": 9,
+        "branch": "申"
+      },
+      "14": {
+        "index": 6,
+        "branch": "巳"
+      },
+      "15": {
+        "index": 7,
+        "branch": "午"
+      },
+      "16": {
+        "index": 10,
+        "branch": "酉"
+      },
+      "17": {
+        "index": 7,
+        "branch": "午"
+      },
+      "18": {
+        "index": 8,
+        "branch": "未"
+      },
+      "19": {
+        "index": 11,
+        "branch": "戌"
+      },
+      "20": {
+        "index": 8,
+        "branch": "未"
+      },
+      "21": {
+        "index": 9,
+        "branch": "申"
+      },
+      "22": {
+        "index": 12,
+        "branch": "亥"
+      },
+      "23": {
+        "index": 9,
+        "branch": "申"
+      },
+      "24": {
+        "index": 10,
+        "branch": "酉"
+      },
+      "25": {
+        "index": 1,
+        "branch": "子"
+      },
+      "26": {
+        "index": 10,
+        "branch": "酉"
+      },
+      "27": {
+        "index": 11,
+        "branch": "戌"
+      },
+      "28": {
+        "index": 2,
+        "branch": "丑"
+      },
+      "29": {
+        "index": 11,
+        "branch": "戌"
+      },
+      "30": {
+        "index": 12,
+        "branch": "亥"
+      }
+    },
+    "4": {
+      "1": {
+        "index": 12,
+        "branch": "亥"
+      },
+      "2": {
+        "index": 5,
+        "branch": "辰"
+      },
+      "3": {
+        "index": 2,
+        "branch": "丑"
+      },
+      "4": {
+        "index": 3,
+        "branch": "寅"
+      },
+      "5": {
+        "index": 1,
+        "branch": "子"
+      },
+      "6": {
+        "index": 6,
+        "branch": "巳"
+      },
+      "7": {
+        "index": 3,
+        "branch": "寅"
+      },
+      "8": {
+        "index": 4,
+        "branch": "卯"
+      },
+      "9": {
+        "index": 2,
+        "branch": "丑"
+      },
+      "10": {
+        "index": 7,
+        "branch": "午"
+      },
+      "11": {
+        "index": 4,
+        "branch": "卯"
+      },
+      "12": {
+        "index": 5,
+        "branch": "辰"
+      },
+      "13": {
+        "index": 3,
+        "branch": "寅"
+      },
+      "14": {
+        "index": 8,
+        "branch": "未"
+      },
+      "15": {
+        "index": 5,
+        "branch": "辰"
+      },
+      "16": {
+        "index": 6,
+        "branch": "巳"
+      },
+      "17": {
+        "index": 4,
+        "branch": "卯"
+      },
+      "18": {
+        "index": 9,
+        "branch": "申"
+      },
+      "19": {
+        "index": 6,
+        "branch": "巳"
+      },
+      "20": {
+        "index": 7,
+        "branch": "午"
+      },
+      "21": {
+        "index": 5,
+        "branch": "辰"
+      },
+      "22": {
+        "index": 10,
+        "branch": "酉"
+      },
+      "23": {
+        "index": 7,
+        "branch": "午"
+      },
+      "24": {
+        "index": 8,
+        "branch": "未"
+      },
+      "25": {
+        "index": 6,
+        "branch": "巳"
+      },
+      "26": {
+        "index": 11,
+        "branch": "戌"
+      },
+      "27": {
+        "index": 8,
+        "branch": "未"
+      },
+      "28": {
+        "index": 9,
+        "branch": "申"
+      },
+      "29": {
+        "index": 7,
+        "branch": "午"
+      },
+      "30": {
+        "index": 12,
+        "branch": "亥"
+      }
+    },
+    "5": {
+      "1": {
+        "index": 7,
+        "branch": "午"
+      },
+      "2": {
+        "index": 12,
+        "branch": "亥"
+      },
+      "3": {
+        "index": 5,
+        "branch": "辰"
+      },
+      "4": {
+        "index": 2,
+        "branch": "丑"
+      },
+      "5": {
+        "index": 3,
+        "branch": "寅"
+      },
+      "6": {
+        "index": 8,
+        "branch": "未"
+      },
+      "7": {
+        "index": 1,
+        "branch": "子"
+      },
+      "8": {
+        "index": 6,
+        "branch": "巳"
+      },
+      "9": {
+        "index": 3,
+        "branch": "寅"
+      },
+      "10": {
+        "index": 4,
+        "branch": "卯"
+      },
+      "11": {
+        "index": 9,
+        "branch": "申"
+      },
+      "12": {
+        "index": 2,
+        "branch": "丑"
+      },
+      "13": {
+        "index": 7,
+        "branch": "午"
+      },
+      "14": {
+        "index": 4,
+        "branch": "卯"
+      },
+      "15": {
+        "index": 5,
+        "branch": "辰"
+      },
+      "16": {
+        "index": 10,
+        "branch": "酉"
+      },
+      "17": {
+        "index": 3,
+        "branch": "寅"
+      },
+      "18": {
+        "index": 8,
+        "branch": "未"
+      },
+      "19": {
+        "index": 5,
+        "branch": "辰"
+      },
+      "20": {
+        "index": 6,
+        "branch": "巳"
+      },
+      "21": {
+        "index": 11,
+        "branch": "戌"
+      },
+      "22": {
+        "index": 4,
+        "branch": "卯"
+      },
+      "23": {
+        "index": 9,
+        "branch": "申"
+      },
+      "24": {
+        "index": 6,
+        "branch": "巳"
+      },
+      "25": {
+        "index": 7,
+        "branch": "午"
+      },
+      "26": {
+        "index": 12,
+        "branch": "亥"
+      },
+      "27": {
+        "index": 5,
+        "branch": "辰"
+      },
+      "28": {
+        "index": 10,
+        "branch": "酉"
+      },
+      "29": {
+        "index": 7,
+        "branch": "午"
+      },
+      "30": {
+        "index": 8,
+        "branch": "未"
+      }
+    },
+    "6": {
+      "1": {
+        "index": 10,
+        "branch": "酉"
+      },
+      "2": {
+        "index": 7,
+        "branch": "午"
+      },
+      "3": {
+        "index": 12,
+        "branch": "亥"
+      },
+      "4": {
+        "index": 5,
+        "branch": "辰"
+      },
+      "5": {
+        "index": 2,
+        "branch": "丑"
+      },
+      "6": {
+        "index": 3,
+        "branch": "寅"
+      },
+      "7": {
+        "index": 11,
+        "branch": "戌"
+      },
+      "8": {
+        "index": 8,
+        "branch": "未"
+      },
+      "9": {
+        "index": 1,
+        "branch": "子"
+      },
+      "10": {
+        "index": 6,
+        "branch": "巳"
+      },
+      "11": {
+        "index": 3,
+        "branch": "寅"
+      },
+      "12": {
+        "index": 4,
+        "branch": "卯"
+      },
+      "13": {
+        "index": 12,
+        "branch": "亥"
+      },
+      "14": {
+        "index": 9,
+        "branch": "申"
+      },
+      "15": {
+        "index": 2,
+        "branch": "丑"
+      },
+      "16": {
+        "index": 7,
+        "branch": "午"
+      },
+      "17": {
+        "index": 4,
+        "branch": "卯"
+      },
+      "18": {
+        "index": 5,
+        "branch": "辰"
+      },
+      "19": {
+        "index": 1,
+        "branch": "子"
+      },
+      "20": {
+        "index": 10,
+        "branch": "酉"
+      },
+      "21": {
+        "index": 3,
+        "branch": "寅"
+      },
+      "22": {
+        "index": 8,
+        "branch": "未"
+      },
+      "23": {
+        "index": 5,
+        "branch": "辰"
+      },
+      "24": {
+        "index": 6,
+        "branch": "巳"
+      },
+      "25": {
+        "index": 2,
+        "branch": "丑"
+      },
+      "26": {
+        "index": 11,
+        "branch": "戌"
+      },
+      "27": {
+        "index": 4,
+        "branch": "卯"
+      },
+      "28": {
+        "index": 9,
+        "branch": "申"
+      },
+      "29": {
+        "index": 6,
+        "branch": "巳"
+      },
+      "30": {
+        "index": 7,
+        "branch": "午"
+      }
+    }
+  },
+  "tianfu": {
+    "2": {
+      "1": {
+        "index": 4,
+        "branch": "卯"
+      },
+      "2": {
+        "index": 3,
+        "branch": "寅"
+      },
+      "3": {
+        "index": 3,
+        "branch": "寅"
+      },
+      "4": {
+        "index": 2,
+        "branch": "丑"
+      },
+      "5": {
+        "index": 2,
+        "branch": "丑"
+      },
+      "6": {
+        "index": 1,
+        "branch": "子"
+      },
+      "7": {
+        "index": 1,
+        "branch": "子"
+      },
+      "8": {
+        "index": 12,
+        "branch": "亥"
+      },
+      "9": {
+        "index": 12,
+        "branch": "亥"
+      },
+      "10": {
+        "index": 11,
+        "branch": "戌"
+      },
+      "11": {
+        "index": 11,
+        "branch": "戌"
+      },
+      "12": {
+        "index": 10,
+        "branch": "酉"
+      },
+      "13": {
+        "index": 10,
+        "branch": "酉"
+      },
+      "14": {
+        "index": 9,
+        "branch": "申"
+      },
+      "15": {
+        "index": 9,
+        "branch": "申"
+      },
+      "16": {
+        "index": 8,
+        "branch": "未"
+      },
+      "17": {
+        "index": 8,
+        "branch": "未"
+      },
+      "18": {
+        "index": 7,
+        "branch": "午"
+      },
+      "19": {
+        "index": 7,
+        "branch": "午"
+      },
+      "20": {
+        "index": 6,
+        "branch": "巳"
+      },
+      "21": {
+        "index": 6,
+        "branch": "巳"
+      },
+      "22": {
+        "index": 5,
+        "branch": "辰"
+      },
+      "23": {
+        "index": 5,
+        "branch": "辰"
+      },
+      "24": {
+        "index": 4,
+        "branch": "卯"
+      },
+      "25": {
+        "index": 4,
+        "branch": "卯"
+      },
+      "26": {
+        "index": 3,
+        "branch": "寅"
+      },
+      "27": {
+        "index": 3,
+        "branch": "寅"
+      },
+      "28": {
+        "index": 2,
+        "branch": "丑"
+      },
+      "29": {
+        "index": 2,
+        "branch": "丑"
+      },
+      "30": {
+        "index": 1,
+        "branch": "子"
+      }
+    },
+    "3": {
+      "1": {
+        "index": 1,
+        "branch": "子"
+      },
+      "2": {
+        "index": 4,
+        "branch": "卯"
+      },
+      "3": {
+        "index": 3,
+        "branch": "寅"
+      },
+      "4": {
+        "index": 12,
+        "branch": "亥"
+      },
+      "5": {
+        "index": 3,
+        "branch": "寅"
+      },
+      "6": {
+        "index": 2,
+        "branch": "丑"
+      },
+      "7": {
+        "index": 11,
+        "branch": "戌"
+      },
+      "8": {
+        "index": 2,
+        "branch": "丑"
+      },
+      "9": {
+        "index": 1,
+        "branch": "子"
+      },
+      "10": {
+        "index": 10,
+        "branch": "酉"
+      },
+      "11": {
+        "index": 1,
+        "branch": "子"
+      },
+      "12": {
+        "index": 12,
+        "branch": "亥"
+      },
+      "13": {
+        "index": 9,
+        "branch": "申"
+      },
+      "14": {
+        "index": 12,
+        "branch": "亥"
+      },
+      "15": {
+        "index": 11,
+        "branch": "戌"
+      },
+      "16": {
+        "index": 8,
+        "branch": "未"
+      },
+      "17": {
+        "index": 11,
+        "branch": "戌"
+      },
+      "18": {
+        "index": 10,
+        "branch": "酉"
+      },
+      "19": {
+        "index": 7,
+        "branch": "午"
+      },
+      "20": {
+        "index": 10,
+        "branch": "酉"
+      },
+      "21": {
+        "index": 9,
+        "branch": "申"
+      },
+      "22": {
+        "index": 6,
+        "branch": "巳"
+      },
+      "23": {
+        "index": 9,
+        "branch": "申"
+      },
+      "24": {
+        "index": 8,
+        "branch": "未"
+      },
+      "25": {
+        "index": 5,
+        "branch": "辰"
+      },
+      "26": {
+        "index": 8,
+        "branch": "未"
+      },
+      "27": {
+        "index": 7,
+        "branch": "午"
+      },
+      "28": {
+        "index": 4,
+        "branch": "卯"
+      },
+      "29": {
+        "index": 7,
+        "branch": "午"
+      },
+      "30": {
+        "index": 6,
+        "branch": "巳"
+      }
+    },
+    "4": {
+      "1": {
+        "index": 6,
+        "branch": "巳"
+      },
+      "2": {
+        "index": 1,
+        "branch": "子"
+      },
+      "3": {
+        "index": 4,
+        "branch": "卯"
+      },
+      "4": {
+        "index": 3,
+        "branch": "寅"
+      },
+      "5": {
+        "index": 5,
+        "branch": "辰"
+      },
+      "6": {
+        "index": 12,
+        "branch": "亥"
+      },
+      "7": {
+        "index": 3,
+        "branch": "寅"
+      },
+      "8": {
+        "index": 2,
+        "branch": "丑"
+      },
+      "9": {
+        "index": 4,
+        "branch": "卯"
+      },
+      "10": {
+        "index": 11,
+        "branch": "戌"
+      },
+      "11": {
+        "index": 2,
+        "branch": "丑"
+      },
+      "12": {
+        "index": 1,
+        "branch": "子"
+      },
+      "13": {
+        "index": 3,
+        "branch": "寅"
+      },
+      "14": {
+        "index": 10,
+        "branch": "酉"
+      },
+      "15": {
+        "index": 1,
+        "branch": "子"
+      },
+      "16": {
+        "index": 12,
+        "branch": "亥"
+      },
+      "17": {
+        "index": 2,
+        "branch": "丑"
+      },
+      "18": {
+        "index": 9,
+        "branch": "申"
+      },
+      "19": {
+        "index": 12,
+        "branch": "亥"
+      },
+      "20": {
+        "index": 11,
+        "branch": "戌"
+      },
+      "21": {
+        "index": 1,
+        "branch": "子"
+      },
+      "22": {
+        "index": 8,
+        "branch": "未"
+      },
+      "23": {
+        "index": 11,
+        "branch": "戌"
+      },
+      "24": {
+        "index": 10,
+        "branch": "酉"
+      },
+      "25": {
+        "index": 12,
+        "branch": "亥"
+      },
+      "26": {
+        "index": 7,
+        "branch": "午"
+      },
+      "27": {
+        "index": 10,
+        "branch": "酉"
+      },
+      "28": {
+        "index": 9,
+        "branch": "申"
+      },
+      "29": {
+        "index": 11,
+        "branch": "戌"
+      },
+      "30": {
+        "index": 6,
+        "branch": "巳"
+      }
+    },
+    "5": {
+      "1": {
+        "index": 11,
+        "branch": "戌"
+      },
+      "2": {
+        "index": 6,
+        "branch": "巳"
+      },
+      "3": {
+        "index": 1,
+        "branch": "子"
+      },
+      "4": {
+        "index": 4,
+        "branch": "卯"
+      },
+      "5": {
+        "index": 3,
+        "branch": "寅"
+      },
+      "6": {
+        "index": 10,
+        "branch": "酉"
+      },
+      "7": {
+        "index": 5,
+        "branch": "辰"
+      },
+      "8": {
+        "index": 12,
+        "branch": "亥"
+      },
+      "9": {
+        "index": 3,
+        "branch": "寅"
+      },
+      "10": {
+        "index": 2,
+        "branch": "丑"
+      },
+      "11": {
+        "index": 9,
+        "branch": "申"
+      },
+      "12": {
+        "index": 4,
+        "branch": "卯"
+      },
+      "13": {
+        "index": 11,
+        "branch": "戌"
+      },
+      "14": {
+        "index": 2,
+        "branch": "丑"
+      },
+      "15": {
+        "index": 1,
+        "branch": "子"
+      },
+      "16": {
+        "index": 8,
+        "branch": "未"
+      },
+      "17": {
+        "index": 3,
+        "branch": "寅"
+      },
+      "18": {
+        "index": 10,
+        "branch": "酉"
+      },
+      "19": {
+        "index": 1,
+        "branch": "子"
+      },
+      "20": {
+        "index": 12,
+        "branch": "亥"
+      },
+      "21": {
+        "index": 7,
+        "branch": "午"
+      },
+      "22": {
+        "index": 2,
+        "branch": "丑"
+      },
+      "23": {
+        "index": 9,
+        "branch": "申"
+      },
+      "24": {
+        "index": 12,
+        "branch": "亥"
+      },
+      "25": {
+        "index": 11,
+        "branch": "戌"
+      },
+      "26": {
+        "index": 6,
+        "branch": "巳"
+      },
+      "27": {
+        "index": 1,
+        "branch": "子"
+      },
+      "28": {
+        "index": 8,
+        "branch": "未"
+      },
+      "29": {
+        "index": 11,
+        "branch": "戌"
+      },
+      "30": {
+        "index": 10,
+        "branch": "酉"
+      }
+    },
+    "6": {
+      "1": {
+        "index": 8,
+        "branch": "未"
+      },
+      "2": {
+        "index": 11,
+        "branch": "戌"
+      },
+      "3": {
+        "index": 6,
+        "branch": "巳"
+      },
+      "4": {
+        "index": 1,
+        "branch": "子"
+      },
+      "5": {
+        "index": 4,
+        "branch": "卯"
+      },
+      "6": {
+        "index": 3,
+        "branch": "寅"
+      },
+      "7": {
+        "index": 7,
+        "branch": "午"
+      },
+      "8": {
+        "index": 10,
+        "branch": "酉"
+      },
+      "9": {
+        "index": 5,
+        "branch": "辰"
+      },
+      "10": {
+        "index": 12,
+        "branch": "亥"
+      },
+      "11": {
+        "index": 3,
+        "branch": "寅"
+      },
+      "12": {
+        "index": 2,
+        "branch": "丑"
+      },
+      "13": {
+        "index": 6,
+        "branch": "巳"
+      },
+      "14": {
+        "index": 9,
+        "branch": "申"
+      },
+      "15": {
+        "index": 4,
+        "branch": "卯"
+      },
+      "16": {
+        "index": 11,
+        "branch": "戌"
+      },
+      "17": {
+        "index": 2,
+        "branch": "丑"
+      },
+      "18": {
+        "index": 1,
+        "branch": "子"
+      },
+      "19": {
+        "index": 5,
+        "branch": "辰"
+      },
+      "20": {
+        "index": 8,
+        "branch": "未"
+      },
+      "21": {
+        "index": 3,
+        "branch": "寅"
+      },
+      "22": {
+        "index": 10,
+        "branch": "酉"
+      },
+      "23": {
+        "index": 1,
+        "branch": "子"
+      },
+      "24": {
+        "index": 12,
+        "branch": "亥"
+      },
+      "25": {
+        "index": 4,
+        "branch": "卯"
+      },
+      "26": {
+        "index": 7,
+        "branch": "午"
+      },
+      "27": {
+        "index": 2,
+        "branch": "丑"
+      },
+      "28": {
+        "index": 9,
+        "branch": "申"
+      },
+      "29": {
+        "index": 12,
+        "branch": "亥"
+      },
+      "30": {
+        "index": 11,
+        "branch": "戌"
+      }
+    }
+  },
+  "meta": {
+    "description": "紫微斗数主星位置查表 5局×30日",
+    "index": "1=子 2=丑 3=寅 4=卯 5=辰 6=巳 7=午 8=未 9=申 10=酉 11=戌 12=亥",
+    "algorithm": "紫微: q=ceil(LD/Ju), r=q*Ju-LD, base=2+q; r==0→base; r偶→base+r; r奇→base-r; 天府: normalize(6-紫微)"
+  }
+}
