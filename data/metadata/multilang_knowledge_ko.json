@@ -1,0 +1,105 @@
+[
+  {
+    "source_lang": "ko",
+    "source_type": "article",
+    "source_url": "https://namu.wiki/w/%EC%82%AC%EC%A3%BC",
+    "topic": "사주 基础概念",
+    "content_summary": "韩文资料通常把 사주、십성、용신、대운等术语直接纳入解释框架，重视基础概念定义。",
+    "rules_extracted": [
+      "韩文资料中 사주 常直接对应四柱命盘整体。",
+      "용신 与 십성 是读盘核心术语。"
+    ],
+    "terms_mapping": {
+      "사주": "四柱八字",
+      "용신": "用神",
+      "십성": "十神"
+    },
+    "school_perspective": "韩国教学派",
+    "quality_score": 0.73
+  },
+  {
+    "source_lang": "ko",
+    "source_type": "article",
+    "source_url": "https://www.joongang.co.kr/article/25152719",
+    "topic": "사주 与 유명인 사례",
+    "content_summary": "韩文媒体会用 유명인 命盘做趋势与性格分析，偏实务应用。",
+    "rules_extracted": [
+      "韩文案例常把名人职业转折与大运绑定。",
+      "解释风格偏结论型、节奏快。"
+    ],
+    "terms_mapping": {
+      "유명인": "名人",
+      "사주분석": "命盘分析"
+    },
+    "school_perspective": "韩国实务派",
+    "quality_score": 0.67
+  },
+  {
+    "source_lang": "ko",
+    "source_type": "article",
+    "source_url": "https://m.blog.naver.com/PostView.naver?blogId=barunmyungri&logNo=223242215081",
+    "topic": "십성 讲解",
+    "content_summary": "Naver 博客类资料常系统整理 십성 的性格、职业与人际象意。",
+    "rules_extracted": [
+      "韩文十神资料非常重视性格与人际映射。",
+      "比肩、劫财会按同辈竞争关系来解释。"
+    ],
+    "terms_mapping": {
+      "비견": "比肩",
+      "겁재": "劫财"
+    },
+    "school_perspective": "韩国教学派",
+    "quality_score": 0.69
+  },
+  {
+    "source_lang": "ko",
+    "source_type": "article",
+    "source_url": "https://m.blog.naver.com/PostView.naver?blogId=barunmyungri&logNo=223215948001",
+    "topic": "용신 与 조후",
+    "content_summary": "韩文命理写作会把 용신 和 조후 分开讲，说明结构用神与气候调节并非同义。",
+    "rules_extracted": [
+      "韩文资料常明确区分 용신 与 조후용신。",
+      "调候在寒热偏极的命式中会被优先讨论。"
+    ],
+    "terms_mapping": {
+      "조후": "调候",
+      "조후용신": "调候用神"
+    },
+    "school_perspective": "韩国实务派",
+    "quality_score": 0.71
+  },
+  {
+    "source_lang": "ko",
+    "source_type": "article",
+    "source_url": "https://brunch.co.kr/@sajuclass/25",
+    "topic": "대운 与 年度事件",
+    "content_summary": "韩文文章常以大运、岁运并临、冲合刑害去解释工作和感情节点。",
+    "rules_extracted": [
+      "韩文案例重视大运与流年的同向叠加。",
+      "冲合刑害常被直接关联到现实事件。"
+    ],
+    "terms_mapping": {
+      "대운": "大运",
+      "세운": "流年"
+    },
+    "school_perspective": "韩国案例派",
+    "quality_score": 0.68
+  },
+  {
+    "source_lang": "ko",
+    "source_type": "article",
+    "source_url": "https://contents.premium.naver.com/sajuclass/saju/contents/230915103012860dp",
+    "topic": "유명인 사주분석",
+    "content_summary": "以 유명인 命式做事例分析，结合职业节点和舆论事件验证命理结构。",
+    "rules_extracted": [
+      "韩文命理内容偏好真实公众人物案例。",
+      "事业、名气、感情是最常见三类验证点。"
+    ],
+    "terms_mapping": {
+      "사주팔자": "生辰八字",
+      "유명인": "名人"
+    },
+    "school_perspective": "韩国案例派",
+    "quality_score": 0.63
+  }
+]
