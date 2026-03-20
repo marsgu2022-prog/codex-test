@@ -1,0 +1,138 @@
+[
+  {
+    "source_lang": "en",
+    "source_type": "article",
+    "source_url": "https://www.joeyyap.com/dl/Introduction/Introduction_Note.pdf",
+    "topic": "Day Master 入门",
+    "content_summary": "Joey Yap 将日主作为解读命盘的核心入口，强调先看日主属性、再看十神与运势如何作用。",
+    "rules_extracted": [
+      "分析英文 BaZi 教材时可先以 Day Master 对应日主作为第一索引。",
+      "十神关系需要围绕日主展开，而不是孤立看单个元素。"
+    ],
+    "terms_mapping": {
+      "Day Master": "日主",
+      "Ten Gods": "十神"
+    },
+    "school_perspective": "马来西亚派",
+    "quality_score": 0.86
+  },
+  {
+    "source_lang": "en",
+    "source_type": "book",
+    "source_url": "https://www.iuniverse.com/en/bookstore/bookdetails/114369-four-pillars-of-destiny",
+    "topic": "Jerry King 的四柱观",
+    "content_summary": "Jerry King 将四柱视为可操作的人生导航系统，强调命盘、人生数字与易经结构之间的对应关系。",
+    "rules_extracted": [
+      "英文新派教材常把四柱视为趋势导航，而非绝对宿命。",
+      "实际解读时会把命盘结构与决策建议直接绑定。"
+    ],
+    "terms_mapping": {
+      "Four Pillars of Destiny": "四柱八字"
+    },
+    "school_perspective": "新派",
+    "quality_score": 0.7
+  },
+  {
+    "source_lang": "en",
+    "source_type": "article",
+    "source_url": "https://www.fengshuitoday.com/filestore/pdf/FST_Aug15_BaZi.pdf",
+    "topic": "Jerry King 的英文教学框架",
+    "content_summary": "资料把命盘解释与风水、时机判断结合，强调可执行建议与生活场景映射。",
+    "rules_extracted": [
+      "英文普及材料偏重把命理结论转换为生活策略。",
+      "职业、关系、财富常被拆成独立模块讲解。"
+    ],
+    "terms_mapping": {
+      "Luck Pillar": "大运",
+      "Wealth": "财"
+    },
+    "school_perspective": "新派",
+    "quality_score": 0.66
+  },
+  {
+    "source_lang": "en",
+    "source_type": "book",
+    "source_url": "https://obnb.uk/p13033536-the-complete-guide-to-chinese-astrology-the-most-comprehensive-study-of-the-subject-ever-published-in-the-english-language",
+    "topic": "Derek Walters 的中国占星综述",
+    "content_summary": "Derek Walters 从更大的中国占星框架来讲四柱，重视天干地支、五行和传统象意的整体性。",
+    "rules_extracted": [
+      "英文传统派常把 BaZi 放在中国历法和五行系统的总框架下理解。",
+      "术语翻译更偏传统，如 Heavenly Stems、Earthly Branches、Five Elements。"
+    ],
+    "terms_mapping": {
+      "Heavenly Stems": "天干",
+      "Earthly Branches": "地支",
+      "Five Elements": "五行"
+    },
+    "school_perspective": "传统派",
+    "quality_score": 0.74
+  },
+  {
+    "source_lang": "en",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/taoism/comments/1kxj75f",
+    "topic": "Useful God 与命运可塑性",
+    "content_summary": "帖子强调 Useful God 不只是判断好坏，而是帮助人顺势而为，认为 BaZi 展示的是潜能结构而非绝对命定。",
+    "rules_extracted": [
+      "英文社区常把 Useful God 解释为策略性平衡点。",
+      "Luck Pillars 与 Annual Pillars 被视为动态互动层，不是宿命宣判。"
+    ],
+    "terms_mapping": {
+      "Useful God": "用神",
+      "Luck Pillars": "大运",
+      "Annual Pillars": "流年"
+    },
+    "school_perspective": "现代解释派",
+    "quality_score": 0.62
+  },
+  {
+    "source_lang": "en",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/ChineseZodiac/comments/1ke69lz",
+    "topic": "Solar Time 校正",
+    "content_summary": "用户反馈中反复强调真太阳时对排盘准确度的重要性，认为不校时的排盘会影响十神与用神判断。",
+    "rules_extracted": [
+      "英文用户对 Solar Time 的敏感度较高。",
+      "涉及边界时辰时，应优先校正真太阳时再论十神。"
+    ],
+    "terms_mapping": {
+      "Solar Time": "真太阳时"
+    },
+    "school_perspective": "现代技术派",
+    "quality_score": 0.65
+  },
+  {
+    "source_lang": "en",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/ChineseZodiac/comments/1m4r27a",
+    "topic": "Sidereal BaZi 讨论",
+    "content_summary": "帖子主张四柱应回到天象基础，虽然观点争议大，但反映英文社区对历法基准与算法差异的持续讨论。",
+    "rules_extracted": [
+      "英文社区存在对算法基准的分歧。",
+      "遇到英文资料时需标记其是否采用 sidereal 口径。"
+    ],
+    "terms_mapping": {
+      "Sidereal BaZi": "恒星历八字"
+    },
+    "school_perspective": "争议性新派",
+    "quality_score": 0.4
+  },
+  {
+    "source_lang": "en",
+    "source_type": "article",
+    "source_url": "https://event.joeyyap.com/grwb",
+    "topic": "BaZi 与财富、事业、关系应用",
+    "content_summary": "Joey Yap 的课程页强调 BaZi 可直接用于财富、事业、关系策略，属于强应用导向的英文传播路径。",
+    "rules_extracted": [
+      "英文商业化教学常按财富、事业、关系分场景输出。",
+      "应用导向资料更关注可执行建议而非古籍原句。"
+    ],
+    "terms_mapping": {
+      "Wealth": "财运",
+      "Career": "事业",
+      "Relationship": "关系"
+    },
+    "school_perspective": "马来西亚派",
+    "quality_score": 0.68
+  }
+]
