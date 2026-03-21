@@ -62,10 +62,14 @@ def _import_script(name: str) -> Any | None:
 
 
 # 懒加载模块缓存
-_ziwei_mod    = None
-_huangji_mod  = None
-_ziwei_tried  = False
-_huangji_tried = False
+_ziwei_mod       = None
+_huangji_mod     = None
+_bazi_mod        = None
+_cross_mod       = None
+_ziwei_tried     = False
+_huangji_tried   = False
+_bazi_tried      = False
+_cross_tried     = False
 
 
 def _get_ziwei():
@@ -82,6 +86,22 @@ def _get_huangji():
         _huangji_mod   = _import_script("huangji_calculator")
         _huangji_tried = True
     return _huangji_mod
+
+
+def _get_bazi():
+    global _bazi_mod, _bazi_tried
+    if not _bazi_tried:
+        _bazi_mod   = _import_script("bazi_calculator")
+        _bazi_tried = True
+    return _bazi_mod
+
+
+def _get_cross():
+    global _cross_mod, _cross_tried
+    if not _cross_tried:
+        _cross_mod   = _import_script("cross_validator")
+        _cross_tried = True
+    return _cross_mod
 
 
 # ════════════════════════════════════════════════════════════════
@@ -300,10 +320,11 @@ def _build_system_prompt(knowledge_ctx: str) -> str:
 
 
 def _build_user_prompt(chart_data: dict, ziwei_ctx: str, era_ctx: str,
-                       user_question: str, user_background: str) -> str:
+                       user_question: str, user_background: str,
+                       cross_ctx: str = "") -> str:
     """
     用排盘数据填充千隆 user_prompt_template，
-    并在末尾追加紫微补充和时代背景。
+    并在末尾追加紫微补充、时代背景、交叉验证结论。
     """
     qianlong = _load_qianlong_prompt()
     template = qianlong.get("user_prompt_template", "")
@@ -403,6 +424,13 @@ def _build_user_prompt(chart_data: dict, ziwei_ctx: str, era_ctx: str,
             + era_ctx
         )
 
+    # 追加交叉验证结论
+    if cross_ctx:
+        user_txt += (
+            "\n\n交叉验证结论（供参考，不要在解读中提及「交叉验证」这个词）：\n"
+            + cross_ctx
+        )
+
     return user_txt
 
 
@@ -480,14 +508,15 @@ def generate_qianlong_reading(
     gender      = inp.get("gender", "男")
 
     # ── Step 2: 紫微排盘 ──
-    ziwei_ctx  = ""
-    ziwei_used = False
+    ziwei_chart = None
+    ziwei_ctx   = ""
+    ziwei_used  = False
+    sex = "男" if str(gender).upper() in {"男", "M", "MALE"} else "女"
     if birth_hour is not None and birth_year and birth_month and birth_day:
         ziwei_mod = _get_ziwei()
         if ziwei_mod and hasattr(ziwei_mod, "build_ziwei_chart"):
             try:
-                hour_float = float(birth_hour)
-                sex = "男" if str(gender).upper() in {"男", "M", "MALE"} else "女"
+                hour_float  = float(birth_hour)
                 ziwei_chart = ziwei_mod.build_ziwei_chart(
                     int(birth_year), int(birth_month), int(birth_day),
                     hour_float, sex,
@@ -496,6 +525,34 @@ def generate_qianlong_reading(
                 ziwei_used = bool(ziwei_ctx)
             except Exception as exc:
                 logger.warning("紫微排盘失败: %s", exc)
+
+    # ── Step 2b: 交叉验证（八字 × 紫微）──
+    cross_ctx  = ""
+    cross_used = False
+    if ziwei_chart and birth_year and birth_month and birth_day:
+        cross_mod = _get_cross()
+        bazi_mod  = _get_bazi()
+        if cross_mod and bazi_mod and hasattr(cross_mod, "cross_validate"):
+            try:
+                birth_date_str = f"{int(birth_year):04d}-{int(birth_month):02d}-{int(birth_day):02d}"
+                birth_time_str = None
+                if birth_hour is not None:
+                    h = int(float(birth_hour))
+                    m = round((float(birth_hour) - h) * 60)
+                    birth_time_str = f"{h:02d}:{m:02d}"
+                raw_bazi = bazi_mod.calculate_bazi(birth_date_str, birth_time_str)
+                raw_bazi["sex"] = sex  # 注入性别供感情维度使用
+                cross_report = cross_mod.cross_validate(raw_bazi, ziwei_chart)
+                cross_ctx  = cross_report.get("prompt_injection", "")
+                cross_used = bool(cross_ctx)
+                logger.debug(
+                    "交叉验证完成: overall_confidence=%.3f high=%d contradictions=%d",
+                    cross_report.get("overall_confidence") or 0,
+                    len(cross_report.get("high_confidence_traits", [])),
+                    len(cross_report.get("contradictions", [])),
+                )
+            except Exception as exc:
+                logger.warning("交叉验证失败: %s", exc)
 
     # ── Step 3: 皇极时代背景 ──
     era_ctx  = ""
@@ -513,7 +570,8 @@ def generate_qianlong_reading(
     # ── Step 5+6: 拼接 prompt → DeepSeek ──
     system_prompt = _build_system_prompt(knowledge_ctx)
     user_prompt   = _build_user_prompt(
-        chart_data, ziwei_ctx, era_ctx, user_question, user_background
+        chart_data, ziwei_ctx, era_ctx, user_question, user_background,
+        cross_ctx=cross_ctx,
     )
 
     try:
@@ -536,12 +594,14 @@ def generate_qianlong_reading(
         "reading":       reading_text,
         "ziwei_used":    ziwei_used,
         "era_used":      era_used,
+        "cross_used":    cross_used,
         "knowledge_len": len(knowledge_ctx),
         "_meta": {
             "model":      DEEPSEEK_MODEL,
             "elapsed_ms": round(elapsed * 1000),
             "ziwei_ctx_len":    len(ziwei_ctx),
             "era_ctx_len":      len(era_ctx),
+            "cross_ctx_len":    len(cross_ctx),
             "system_prompt_len": len(system_prompt),
             "user_prompt_len":   len(user_prompt),
         },
