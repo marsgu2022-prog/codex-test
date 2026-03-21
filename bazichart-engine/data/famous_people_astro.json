@@ -55702,5 +55702,6184 @@
     ],
     "data_quality_score": 0.95,
     "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Fernande Barrey",
+    "name_zh": null,
+    "birth_date": "1893-01-09",
+    "birth_time": "23:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Paris Arrondissement 10",
+    "birth_country": "France",
+    "gender": "female",
+    "occupation": [
+      "企业家"
+    ],
+    "bio": "French artist model and painter who exhibited the paintings Josiane and Les Pêch",
+    "notable_events": [
+      {
+        "year": 1929,
+        "event": "French artist model and painter who exhibited the paintings Josiane and Les Pêches at the Salon d'Automne in 1929.",
+        "event_type": "other"
+      },
+      {
+        "year": 1908,
+        "event": "Fernande Barrey left Picardy in about 1908 and moved to Paris, where she survived as a child prostitute.",
+        "event_type": "other"
+      },
+      {
+        "year": 1917,
+        "event": "In March 1917, she met the Japanese artist Tsuguharu Foujita at the Café de la Rotonde in Montparnasse, who fell madly i",
+        "event_type": "marriage"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barrey,_Fernande"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Eduardo Barrichello",
+    "name_zh": null,
+    "birth_date": "2001-09-23",
+    "birth_time": "03:00",
+    "birth_time_source": "astrodatabank_A",
+    "birth_time_reliability": "high",
+    "birth_city": "São Paulo",
+    "birth_country": "Brazil",
+    "gender": "male",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "Brazilian racing driver, nicknamed \"Dudu,\" who made his kart racing debut in 201",
+    "notable_events": [
+      {
+        "year": 2013,
+        "event": "Brazilian racing driver, nicknamed \"Dudu,\" who made his kart racing debut in 2013 at the age of 11.",
+        "event_type": "career_start"
+      },
+      {
+        "year": 2018,
+        "event": "In 2018, he started a career in professional motorsport competing in the Formula 4 United States Championship.",
+        "event_type": "career_start"
+      },
+      {
+        "year": 2020,
+        "event": "F2000 National Championship in the 2020 season.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barrichello,_Eduardo"
+    ],
+    "data_quality_score": 0.88,
+    "rodden_rating": "A"
+  },
+  {
+    "name_en": "Rubens Barrichello",
+    "name_zh": null,
+    "birth_date": "1972-05-23",
+    "birth_time": "12:50",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "São Paulo",
+    "birth_country": "Brazil",
+    "gender": "male",
+    "occupation": [
+      "演员",
+      "运动员",
+      "作家"
+    ],
+    "bio": "Brazilian racing driver who competed in Formula One between 1993 and 2011.",
+    "notable_events": [
+      {
+        "year": 1993,
+        "event": "Brazilian racing driver who competed in Formula One between 1993 and 2011.",
+        "event_type": "other"
+      },
+      {
+        "year": 2011,
+        "event": "Brazilian racing driver who competed in Formula One between 1993 and 2011.",
+        "event_type": "other"
+      },
+      {
+        "year": 2000,
+        "event": "Following stints with the Jordan and Stewart teams, Barrichello drove for Ferrari from 2000 to 2005 as Michael Schumache",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barrichello,_Rubens"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Barbara Barrie",
+    "name_zh": null,
+    "birth_date": "1931-05-23",
+    "birth_time": "14:49",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Chicago",
+    "birth_country": "United States",
+    "gender": "female",
+    "occupation": [
+      "政治家",
+      "演员",
+      "作家"
+    ],
+    "bio": "American actress of film, stage and television, also known as an author.",
+    "notable_events": [
+      {
+        "year": 1964,
+        "event": "Her film breakthrough came in 1964 with her performance as Julie in the landmark film Potato, Two Potato , for which she",
+        "event_type": "award"
+      },
+      {
+        "year": 1979,
+        "event": "She is best known for her role as Evelyn Stoller in Breaking Away , which brought her an Academy Award nomination for Be",
+        "event_type": "award"
+      },
+      {
+        "year": 1981,
+        "event": "She is best known for her role as Evelyn Stoller in Breaking Away , which brought her an Academy Award nomination for Be",
+        "event_type": "award"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barrie,_Barbara"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "J. M. Barrie",
+    "name_zh": null,
+    "birth_date": "1860-05-09",
+    "birth_time": "06:30",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Kirriemuir",
+    "birth_country": "Scotland",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "Scottish writer, novelist and playwright who worked as a journalist before his s",
+    "notable_events": [
+      {
+        "year": 1904,
+        "event": "He is famous for his \"Peter Pan,\" which was first presented on stage in 1904.",
+        "event_type": "other"
+      },
+      {
+        "year": 1885,
+        "event": "The son of a weaver, he studied at Edinburgh University and settled in London as a free-lance writer in 1885.",
+        "event_type": "death"
+      },
+      {
+        "year": 1889,
+        "event": "His collection of Scottish sketches caught public attention in 1889 and his first novel, \"The Little Minister,\" was rele",
+        "event_type": "career_peak"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barrie,_J._M."
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Wendy Barrie",
+    "name_zh": null,
+    "birth_date": "1912-04-18",
+    "birth_time": "15:15",
+    "birth_time_source": "astrodatabank_A",
+    "birth_time_reliability": "high",
+    "birth_city": "London",
+    "birth_country": "England",
+    "gender": "female",
+    "occupation": [
+      "企业家",
+      "演员"
+    ],
+    "bio": "British-American actress, a vivacious minor star who was on-screen from 1935 in ",
+    "notable_events": [
+      {
+        "year": 1935,
+        "event": "British-American actress, a vivacious minor star who was on-screen from 1935 in Hollywood.",
+        "event_type": "other"
+      },
+      {
+        "year": 1930,
+        "event": "She made her London stage debut in 1930, with the following year entering British film.",
+        "event_type": "career_start"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barrie,_Wendy"
+    ],
+    "data_quality_score": 0.88,
+    "rodden_rating": "A"
+  },
+  {
+    "name_en": "Violeta Barrientos",
+    "name_zh": null,
+    "birth_date": "1963-10-02",
+    "birth_time": "21:30",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Miraflores",
+    "birth_country": "Peru",
+    "gender": "female",
+    "occupation": [
+      "政治家",
+      "作家"
+    ],
+    "bio": "Peruvian lesbian feminist poet and essayist, teacher and activist for LGTBI and ",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barrientos,_Violeta"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Anthony Barrier",
+    "name_zh": null,
+    "birth_date": "1986-03-05",
+    "birth_time": "23:10",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Angers",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "French race horse jockey.",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barrier,_Anthony"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Ricet Barrier",
+    "name_zh": null,
+    "birth_date": "1932-08-25",
+    "birth_time": "16:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Romilly sur Seine",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "French singer, actor and entertainer.",
+    "notable_events": [
+      {
+        "year": 2011,
+        "event": "He died on 20 May 2011, aged 78, in Sainte-Christine.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barrier,_Ricet"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Delia Barriga",
+    "name_zh": null,
+    "birth_date": "1960-12-08",
+    "birth_time": "01:15",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Bellavista",
+    "birth_country": "Peru",
+    "gender": "female",
+    "occupation": [
+      "企业家",
+      "科技",
+      "政治家",
+      "演员",
+      "科学家",
+      "作家"
+    ],
+    "bio": "Peruvian award-winning science and technology broadcaster, entrepreneur and acti",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barriga,_Delia"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Barrigue",
+    "name_zh": null,
+    "birth_date": "1950-07-07",
+    "birth_time": "02:30",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Neuilly sur Seine",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "French cartoonist.",
+    "notable_events": [
+      {
+        "year": 1972,
+        "event": "A cartoon journalist since 1972, he spent seven years working for a dozen magazines, including Rock&folk, L'Unité, Télér",
+        "event_type": "other"
+      },
+      {
+        "year": 1975,
+        "event": "In 1975, he founded the Paris press agency APEI.",
+        "event_type": "career_start"
+      },
+      {
+        "year": 1979,
+        "event": "Settling in the canton of Vaud in 1979, he became famous for his caricatures in the daily Le Matin and also worked with ",
+        "event_type": "career_peak"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barrigue"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Paul Barril",
+    "name_zh": null,
+    "birth_date": "1946-04-13",
+    "birth_time": "11:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Vinay",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "政治家",
+      "作家"
+    ],
+    "bio": "French military man who had service in France's special services unit.",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barril,_Paul"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Rocío Barrios",
+    "name_zh": null,
+    "birth_date": "1974-06-30",
+    "birth_time": "23:30",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "La Victoria",
+    "birth_country": "Peru",
+    "gender": "female",
+    "occupation": [
+      "企业家",
+      "政治家"
+    ],
+    "bio": "Peruvian lawyer and politician who served as Minister of Production and Minister",
+    "notable_events": [
+      {
+        "year": 2019,
+        "event": "Peruvian lawyer and politician who served as Minister of Production and Minister of Foreign Trade and Tourism during the",
+        "event_type": "other"
+      },
+      {
+        "year": 2020,
+        "event": "Peruvian lawyer and politician who served as Minister of Production and Minister of Foreign Trade and Tourism during the",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barrios,_Roc%C3%ADo"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Víctor Manuel Barrios Mata",
+    "name_zh": null,
+    "birth_date": "1935-01-25",
+    "birth_time": "08:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Tampico",
+    "birth_country": "Mexico",
+    "gender": "male",
+    "occupation": [
+      "企业家"
+    ],
+    "bio": "Mexican broadcaster, a radio producer who introduced innovative concepts for rad",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barrios_Mata,_V%C3%ADctor_Manuel"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Chuck Barris",
+    "name_zh": null,
+    "birth_date": "1929-06-03",
+    "birth_time": "16:00",
+    "birth_time_source": "astrodatabank_A",
+    "birth_time_reliability": "high",
+    "birth_city": "Philadelphia",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "演员",
+      "作家"
+    ],
+    "bio": "American TV personality, entertainment executive, actor and writer, he is perhap",
+    "notable_events": [
+      {
+        "year": 1962,
+        "event": "In 1962, he wrote a song, \"Palisades Park\" which became a hit when recorded by Freddie Cannon.",
+        "event_type": "career_peak"
+      },
+      {
+        "year": 1963,
+        "event": "The following year, 1963, ABC sent him to Los Angeles as a director of daytime programming, but he quit a few months lat",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barris,_Chuck"
+    ],
+    "data_quality_score": 0.88,
+    "rodden_rating": "A"
+  },
+  {
+    "name_en": "Alain Barrière",
+    "name_zh": null,
+    "birth_date": "1935-11-18",
+    "birth_time": "10:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "La Trinite sur Mer",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "French singer, active since the 1950s, and known for participating in the 1963 E",
+    "notable_events": [
+      {
+        "year": 1963,
+        "event": "French singer, active since the 1950s, and known for participating in the 1963 Eurovision Song Contest.",
+        "event_type": "other"
+      },
+      {
+        "year": 2006,
+        "event": "He published an autobiography in 2006 and continued to release both retrospective and newly recorded albums.",
+        "event_type": "career_peak"
+      },
+      {
+        "year": 2019,
+        "event": "Barrière died in Carnac of cardiac arrest on 18 December 2019 at the age of 84.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barri%C3%A8re,_Alain"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Lucien Barrière",
+    "name_zh": null,
+    "birth_date": "1923-01-14",
+    "birth_time": "13:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Rosières (Ardèche)",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "企业家"
+    ],
+    "bio": "French entrepreneur, owner of the casino group carrying his name.",
+    "notable_events": [
+      {
+        "year": 1990,
+        "event": "He died in 1990 from a heart attack, at age 67.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barri%C3%A8re,_Lucien"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Charles Barrois",
+    "name_zh": null,
+    "birth_date": "1851-04-21",
+    "birth_time": "07:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Lille",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "科学家"
+    ],
+    "bio": "French geologist and palaeontologist whose first comprehensive work was Recherch",
+    "notable_events": [
+      {
+        "year": 1876,
+        "event": "French geologist and palaeontologist whose first comprehensive work was Recherches sur le terrain crétacé supérieur de l",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barrois,_Charles"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Alejandra Barros",
+    "name_zh": null,
+    "birth_date": "1971-08-11",
+    "birth_time": "08:00",
+    "birth_time_source": "astrodatabank_A",
+    "birth_time_reliability": "high",
+    "birth_city": "Mexico City",
+    "birth_country": "Mexico",
+    "gender": "female",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "Mexican actress, best known for her starring role in Televisa's telenovela Maria",
+    "notable_events": [
+      {
+        "year": 2003,
+        "event": "Mexican actress, best known for her starring role in Televisa's telenovela Mariana de la Noche (2003), where she played ",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barros,_Alejandra"
+    ],
+    "data_quality_score": 0.88,
+    "rodden_rating": "A"
+  },
+  {
+    "name_en": "Alex Barros",
+    "name_zh": null,
+    "birth_date": "1970-10-18",
+    "birth_time": "20:55",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Cerqueira César (São Paulo)",
+    "birth_country": "Brazil",
+    "gender": "male",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "Brazilian motorcycle road racer who is a 7-time 500cc/MotoGP race winner and als",
+    "notable_events": [
+      {
+        "year": 2006,
+        "event": "After a long Grand Prix career, in 2006 he moved to the Superbike World Championship.",
+        "event_type": "other"
+      },
+      {
+        "year": 2007,
+        "event": "He returned to MotoGP for 2007, but retired by the end of the season.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barros,_Alex"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Dana Barros",
+    "name_zh": null,
+    "birth_date": "1967-04-13",
+    "birth_time": "08:47",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Boston",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "American basketball player, a guard for the Boston Celtics.",
+    "notable_events": [
+      {
+        "year": 1994,
+        "event": "One of the shining moments of his career came during the 1994-1995 season when he was playing with the Philadelphia 76'e",
+        "event_type": "other"
+      },
+      {
+        "year": 1995,
+        "event": "One of the shining moments of his career came during the 1994-1995 season when he was playing with the Philadelphia 76'e",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barros,_Dana"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Domitila Barros",
+    "name_zh": null,
+    "birth_date": "1984-06-27",
+    "birth_time": "14:20",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Recife (Pernambuco)",
+    "birth_country": "Brazil",
+    "gender": "female",
+    "occupation": [
+      "企业家",
+      "政治家",
+      "演员",
+      "作家"
+    ],
+    "bio": "Brazilian fashion model, social activist, singer-songwriter, television actress,",
+    "notable_events": [
+      {
+        "year": 2022,
+        "event": "Brazilian fashion model, social activist, singer-songwriter, television actress, reality TV contestant and beauty pagean",
+        "event_type": "other"
+      },
+      {
+        "year": 2006,
+        "event": "At age 21 she earned a scholarship to do a master's degree in social and political sciences at the Free University of Be",
+        "event_type": "other"
+      },
+      {
+        "year": 2021,
+        "event": "Brazilian fashion model, social activist, singer-songwriter, television actress, reality TV contestant and beauty pagean",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barros,_Domitila"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Juninho Barros",
+    "name_zh": null,
+    "birth_date": "1996-03-21",
+    "birth_time": "07:17",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Recife (Pernambuco)",
+    "birth_country": "Brazil",
+    "gender": "male",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "Brazilian soccer midfielder who has played for Brazilian teams Vera Cruz (2015),",
+    "notable_events": [
+      {
+        "year": 2015,
+        "event": "Brazilian soccer midfielder who has played for Brazilian teams Vera Cruz (2015), Fortaleza (2016), Marília (2017) and Af",
+        "event_type": "other"
+      },
+      {
+        "year": 2016,
+        "event": "Brazilian soccer midfielder who has played for Brazilian teams Vera Cruz (2015), Fortaleza (2016), Marília (2017) and Af",
+        "event_type": "other"
+      },
+      {
+        "year": 2017,
+        "event": "Brazilian soccer midfielder who has played for Brazilian teams Vera Cruz (2015), Fortaleza (2016), Marília (2017) and Af",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barros,_Juninho"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Ademar de Barros Filho",
+    "name_zh": null,
+    "birth_date": "1929-06-18",
+    "birth_time": "12:00",
+    "birth_time_source": "astrodatabank_A",
+    "birth_time_reliability": "high",
+    "birth_city": "São Paulo",
+    "birth_country": "Brazil",
+    "gender": "male",
+    "occupation": [
+      "企业家"
+    ],
+    "bio": "Brazilian entrepreneur, the founder of Lacta (the Brazilian equivalent to Hershe",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barros_Filho,_Ademar_de"
+    ],
+    "data_quality_score": 0.88,
+    "rodden_rating": "A"
+  },
+  {
+    "name_en": "Alvaro Barros Orrego",
+    "name_zh": null,
+    "birth_date": "1885-07-22",
+    "birth_time": "07:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Santiago",
+    "birth_country": "Chile",
+    "gender": "male",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "Chilean politician, and deputy engineer who work among other works in the constr",
+    "notable_events": [
+      {
+        "year": 1940,
+        "event": "Chilean politician, and deputy engineer who work among other works in the construction of sewage Santiago. He died 3 Mar",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barros_Orrego,_Alvaro"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Jacques Barrot",
+    "name_zh": null,
+    "birth_date": "1937-02-03",
+    "birth_time": "03:30",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Yssingeaux",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "French politician (Union for French Democracy), former Minister of Labour.",
+    "notable_events": [
+      {
+        "year": 2008,
+        "event": "He served as European Comissioner of Justice (2008-10).",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barrot,_Jacques"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Jean-Noël Barrot",
+    "name_zh": null,
+    "birth_date": "1983-05-13",
+    "birth_time": "16:15",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Paris",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "French-Swiss politician of the Democratic Movement (MoDem).",
+    "notable_events": [
+      {
+        "year": 2024,
+        "event": "He has been serving as Minister for Europe and Foreign Affairs in the successive governments of Prime Ministers Michel B",
+        "event_type": "other"
+      },
+      {
+        "year": 2022,
+        "event": "He previously served as Minister Delegate for Digital Transition and Telecommunications in the government of Élisabeth B",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barrot,_Jean-No%C3%ABl"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Olivier Barrot",
+    "name_zh": null,
+    "birth_date": "1948-05-19",
+    "birth_time": "09:50",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Boulogne Billancourt",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "演员",
+      "作家"
+    ],
+    "bio": "French journalist, writer, producer and television host.",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barrot,_Olivier"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Dan Barrow",
+    "name_zh": null,
+    "birth_date": "1909-07-22",
+    "birth_time": "18:40",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Lansdowne",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "American rower who competed in the 1936 Summer Olympics where he won the bronze ",
+    "notable_events": [
+      {
+        "year": 1936,
+        "event": "American rower who competed in the 1936 Summer Olympics where he won the bronze medal in the single sculls competition.",
+        "event_type": "award"
+      },
+      {
+        "year": 1993,
+        "event": "Barrow died on 4 November 1993 aged 84.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barrow,_Dan"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "John Barrowman",
+    "name_zh": null,
+    "birth_date": "1967-03-11",
+    "birth_time": "17:25",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Glasgow",
+    "birth_country": "Scotland",
+    "gender": "male",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "Scottish-American versatile actor of stage, West End musicals, TV children's sho",
+    "notable_events": [
+      {
+        "year": 1989,
+        "event": "Barrowman has had success in each medium he has tackled, as a presenter on Saturday morning TV while appearing in some s",
+        "event_type": "other"
+      },
+      {
+        "year": 1995,
+        "event": "He appeared alongside Betty Buckley in the London production of \"Sunset Boulevard\" and a year later, from September 1995",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barrowman,_John"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Sydney Biddle Barrows",
+    "name_zh": null,
+    "birth_date": "1952-01-14",
+    "birth_time": "02:05",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Long Branch",
+    "birth_country": "United States",
+    "gender": "female",
+    "occupation": [
+      "企业家",
+      "政治家",
+      "作家"
+    ],
+    "bio": "American noted family, the ancestor of one of the oldest family names in America",
+    "notable_events": [
+      {
+        "year": 1984,
+        "event": "In 1984, she was arrested and fined $5,000 for her operation.",
+        "event_type": "other"
+      },
+      {
+        "year": 1986,
+        "event": "With William Novak, she wrote \"Mayflower Madam\" in 1986, which sold in the form of a lucrative best-seller and a TV movi",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barrows,_Sydney_Biddle"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Émilie Barrucand",
+    "name_zh": null,
+    "birth_date": "1979-10-26",
+    "birth_time": "07:20",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Montmorency",
+    "birth_country": "France",
+    "gender": "female",
+    "occupation": [
+      "演员",
+      "科学家",
+      "作家"
+    ],
+    "bio": "French anthropologist, author, and director of the Wayanga association (French: ",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barrucand,_%C3%89milie"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Luc Barruet",
+    "name_zh": null,
+    "birth_date": "1967-01-04",
+    "birth_time": "01:45",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Versailles",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "French gay anti-AIDS activist.",
+    "notable_events": [
+      {
+        "year": 1992,
+        "event": "In 1992, he started the organisation Solidarité Sida (AIDS Solidarity) with the purpose to increase the awareness of Aid",
+        "event_type": "career_start"
+      },
+      {
+        "year": 1999,
+        "event": "Since 1999, his group organizes the annual music festival Solidays in Paris, which attracts up to 170'000 people during ",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barruet,_Luc"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Heather Barry",
+    "name_zh": null,
+    "birth_date": "1980-06-22",
+    "birth_time": "07:05",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Pittsfield",
+    "birth_country": "United States",
+    "gender": "female",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "A Bentley College student, Barry made her debut on 26 March 2003 in the first se",
+    "notable_events": [
+      {
+        "year": 2003,
+        "event": "A Bentley College student, Barry made her debut on 26 March 2003 in the first series of ABC's \"The Bachelor,\" in which s",
+        "event_type": "career_start"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barry,_Heather"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Marion Christopher Barry",
+    "name_zh": null,
+    "birth_date": "1980-06-17",
+    "birth_time": "17:44",
+    "birth_time_source": "astrodatabank_A",
+    "birth_time_reliability": "high",
+    "birth_city": "Washington",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "政治家"
+    ],
+    "bio": "American politician and businessman, the only son of former Washington D.C.",
+    "notable_events": [
+      {
+        "year": 2015,
+        "event": "He was a candidate for Council member for Ward 8 in 2015.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barry,_Marion_Christopher"
+    ],
+    "data_quality_score": 0.88,
+    "rodden_rating": "A"
+  },
+  {
+    "name_en": "Mark Barry",
+    "name_zh": null,
+    "birth_date": "1978-10-26",
+    "birth_time": "06:50",
+    "birth_time_source": "astrodatabank_A",
+    "birth_time_reliability": "high",
+    "birth_city": "Manchester",
+    "birth_country": "England",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "English singer and songwriter, best known for his work with BBMak.",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barry,_Mark"
+    ],
+    "data_quality_score": 0.88,
+    "rodden_rating": "A"
+  },
+  {
+    "name_en": "Patricia Barry",
+    "name_zh": null,
+    "birth_date": "1922-11-16",
+    "birth_time": "22:58",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Davenport",
+    "birth_country": "United States",
+    "gender": "female",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "American stage, film, and television actress, the majority of whose work was in ",
+    "notable_events": [
+      {
+        "year": 1950,
+        "event": "American stage, film, and television actress, the majority of whose work was in TV between 1950 and 2005, when she appea",
+        "event_type": "other"
+      },
+      {
+        "year": 2005,
+        "event": "American stage, film, and television actress, the majority of whose work was in TV between 1950 and 2005, when she appea",
+        "event_type": "other"
+      },
+      {
+        "year": 1971,
+        "event": "Barry performed in a dozen made-for-television movies and became a recurring character on several major daily daytime dr",
+        "event_type": "career_peak"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barry,_Patricia"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Paul Barry",
+    "name_zh": null,
+    "birth_date": "1926-08-07",
+    "birth_time": "21:50",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "El Paso",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "American football running back in the National Football League for the Los Angel",
+    "notable_events": [
+      {
+        "year": 1950,
+        "event": "American football running back in the National Football League for the Los Angeles Rams (1950, 1952), Washington Redskin",
+        "event_type": "other"
+      },
+      {
+        "year": 1952,
+        "event": "American football running back in the National Football League for the Los Angeles Rams (1950, 1952), Washington Redskin",
+        "event_type": "other"
+      },
+      {
+        "year": 1953,
+        "event": "American football running back in the National Football League for the Los Angeles Rams (1950, 1952), Washington Redskin",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barry,_Paul"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Rick Barry",
+    "name_zh": null,
+    "birth_date": "1944-03-28",
+    "birth_time": "14:32",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Elizabethport",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "American basketball player, a one-time forward with the Golden State Warriors, H",
+    "notable_events": [
+      {
+        "year": 1966,
+        "event": "In 1966, Barry was named NBA Rookie of the Year.",
+        "event_type": "other"
+      },
+      {
+        "year": 1987,
+        "event": "One of the best players ever, Barry is a member of the Basketball Hall of Fame (inducted in 1987), was part of the NBA's",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barry,_Rick"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Drew Barrymore",
+    "name_zh": null,
+    "birth_date": "1975-02-22",
+    "birth_time": "11:51",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Culver City",
+    "birth_country": "United States",
+    "gender": "female",
+    "occupation": [
+      "企业家",
+      "演员",
+      "作家"
+    ],
+    "bio": "American actress and noted family, the daughter of John Drew Barrymore and Idelk",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barrymore,_Drew"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "John Drew Barrymore",
+    "name_zh": null,
+    "birth_date": "1932-06-04",
+    "birth_time": "15:52",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Los Angeles",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "American actor from a noted theatrical family who debuted in films as a teen-age",
+    "notable_events": [
+      {
+        "year": 1950,
+        "event": "His credits included the films \"The Sundowners,\" 1950, \"While the City Sleeps,\" 1956, \"Nights of Rasputin,\" 1961 and \"Wa",
+        "event_type": "other"
+      },
+      {
+        "year": 1956,
+        "event": "His credits included the films \"The Sundowners,\" 1950, \"While the City Sleeps,\" 1956, \"Nights of Rasputin,\" 1961 and \"Wa",
+        "event_type": "other"
+      },
+      {
+        "year": 1961,
+        "event": "His credits included the films \"The Sundowners,\" 1950, \"While the City Sleeps,\" 1956, \"Nights of Rasputin,\" 1961 and \"Wa",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barrymore,_John_Drew"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "John Perkins Barrymore",
+    "name_zh": null,
+    "birth_date": "1926-02-12",
+    "birth_time": "10:00",
+    "birth_time_source": "astrodatabank_A",
+    "birth_time_reliability": "high",
+    "birth_city": "Los Angeles",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "American minor actor who claimed to be the illegitimate son of John Barrymore (h",
+    "notable_events": [
+      {
+        "year": 1986,
+        "event": "Died on 24 December 1986 (age 60) in Los Angeles.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barrymore,_John_Perkins"
+    ],
+    "data_quality_score": 0.88,
+    "rodden_rating": "A"
+  },
+  {
+    "name_en": "Michael Barrymore",
+    "name_zh": null,
+    "birth_date": "1952-05-04",
+    "birth_time": "08:00",
+    "birth_time_source": "astrodatabank_A",
+    "birth_time_reliability": "high",
+    "birth_city": "London, England",
+    "birth_country": "England",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "演员"
+    ],
+    "bio": "British TV host and highest paid actor in British show business.",
+    "notable_events": [
+      {
+        "year": 1986,
+        "event": "His popular game show, \"Strike It Lucky,\" that started in 1986 and later became \"Strike It Rich,\" continues high ratings",
+        "event_type": "career_start"
+      },
+      {
+        "year": 1976,
+        "event": "He married on 10 June 1976 and his fiercely protective wife-manager has steered his career ever since.",
+        "event_type": "marriage"
+      },
+      {
+        "year": 1990,
+        "event": "British TV host and highest paid actor in British show business. His popular game show, \"Strike It Lucky,\" that started ",
+        "event_type": "career_start"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barrymore,_Michael"
+    ],
+    "data_quality_score": 0.88,
+    "rodden_rating": "A"
+  },
+  {
+    "name_en": "Igor Barrère",
+    "name_zh": null,
+    "birth_date": "1931-12-17",
+    "birth_time": "09:20",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Paris",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "演员",
+      "作家"
+    ],
+    "bio": "French medical doctor, journalist and television personality.",
+    "notable_events": [
+      {
+        "year": 2001,
+        "event": "He died June 24, 2001.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barr%C3%A8re,_Igor"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Maurice Barrès",
+    "name_zh": null,
+    "birth_date": "1862-08-19",
+    "birth_time": "13:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Neuilly sur Seine",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "政治家",
+      "作家"
+    ],
+    "bio": "French journalist and novelist who became known as the \"prince of youth\" due to ",
+    "notable_events": [
+      {
+        "year": 1889,
+        "event": "A founding member of the anti-Semitic league in 1889, he began a political career in 1906 when he was elected to the Fre",
+        "event_type": "career_start"
+      },
+      {
+        "year": 1906,
+        "event": "A founding member of the anti-Semitic league in 1889, he began a political career in 1906 when he was elected to the Fre",
+        "event_type": "career_start"
+      },
+      {
+        "year": 1900,
+        "event": "His books include \"A Free Man,\" 1889 and \"The Call to the Soldier,\" 1900.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barr%C3%A8s,_Maurice"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Françoise Barré-Sinoussi",
+    "name_zh": null,
+    "birth_date": "1947-07-30",
+    "birth_time": "03:25",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Paris",
+    "birth_country": "France",
+    "gender": "female",
+    "occupation": [
+      "科学家"
+    ],
+    "bio": "French virologist who was a corecipient, with Luc Montagnier and Harald zur Haus",
+    "notable_events": [
+      {
+        "year": 2008,
+        "event": "French virologist who was a corecipient, with Luc Montagnier and Harald zur Hausen, of the 2008 Nobel Prize for Physiolo",
+        "event_type": "award"
+      },
+      {
+        "year": 1982,
+        "event": "When Montagnier led efforts at the Pasteur Institute in 1982 to determine a cause for AIDS, Barré-Sinoussi was a member ",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barr%C3%A9-Sinoussi,_Fran%C3%A7oise"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Joseph Barsalou",
+    "name_zh": null,
+    "birth_date": "1903-11-16",
+    "birth_time": "10:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Carcassonne",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "French journalist and editor of La Depeche du Midi, a regional daily newspaper p",
+    "notable_events": [
+      {
+        "year": 1992,
+        "event": "He died on 19 December 1992 in Cachan, France.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barsalou,_Joseph"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Mikhail Barshchevsky",
+    "name_zh": null,
+    "birth_date": "1955-12-27",
+    "birth_time": "17:30",
+    "birth_time_source": "astrodatabank_A",
+    "birth_time_reliability": "high",
+    "birth_city": "Moscow",
+    "birth_country": "Russia",
+    "gender": "male",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "Russian lawyer and former advocate who serves as the plenipotentiary representat",
+    "notable_events": [
+      {
+        "year": 2007,
+        "event": "He was the chairman of the High Council for the Civilian Power party in 2007–2008.",
+        "event_type": "other"
+      },
+      {
+        "year": 2008,
+        "event": "He was the chairman of the High Council for the Civilian Power party in 2007–2008.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barshchevsky,_Mikhail"
+    ],
+    "data_quality_score": 0.88,
+    "rodden_rating": "A"
+  },
+  {
+    "name_en": "Mike Barson",
+    "name_zh": null,
+    "birth_date": "1958-04-21",
+    "birth_time": "07:30",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "London, England",
+    "birth_country": "Scotland",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "Scottish founding member, songwriter and keyboard player of the musical group, \"",
+    "notable_events": [
+      {
+        "year": 1979,
+        "event": "Scottish founding member, songwriter and keyboard player of the musical group, \"Madness,\" with first public performances",
+        "event_type": "other"
+      },
+      {
+        "year": 1980,
+        "event": "The group made European tours, top-ten singles from 1980 and the award of Best Pop Song from the Ivor Novello Awards in ",
+        "event_type": "award"
+      },
+      {
+        "year": 1983,
+        "event": "The group made European tours, top-ten singles from 1980 and the award of Best Pop Song from the Ivor Novello Awards in ",
+        "event_type": "award"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barson,_Mike"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Jean de Barsy",
+    "name_zh": null,
+    "birth_date": "1937-01-10",
+    "birth_time": "16:20",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Etterbeek",
+    "birth_country": "Belgium",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "政治家",
+      "演员"
+    ],
+    "bio": "Belgian businessman sued for forged paperwork, issuance of bad cheques and fraud",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barsy,_Jean_de"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Elzbieta Barszczewska",
+    "name_zh": null,
+    "birth_date": "1913-11-29",
+    "birth_time": "15:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Warszawa",
+    "birth_country": "Poland",
+    "gender": "female",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "Polish stage and film actress.",
+    "notable_events": [
+      {
+        "year": 1934,
+        "event": "After graduating Państwowy Instytut Sztuki Teatralnej, she debuted in Polish Theatre in Warsaw in 1934.",
+        "event_type": "career_start"
+      },
+      {
+        "year": 1987,
+        "event": "She died 14 October 1987.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barszczewska,_Elzbieta"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Bartabas",
+    "name_zh": null,
+    "birth_date": "1957-06-02",
+    "birth_time": "09:40",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Boulogne Billancourt",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "French horse trainer, he founded the equestrian performing show Zingaro (meaning",
+    "notable_events": [
+      {
+        "year": 1998,
+        "event": "French horse trainer, he founded the equestrian performing show Zingaro (meaning \"gypsy\") in 1998.",
+        "event_type": "career_start"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bartabas"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Gino Bartali",
+    "name_zh": null,
+    "birth_date": "1914-07-18",
+    "birth_time": "11:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Bagno a Ripoli",
+    "birth_country": "Italy",
+    "gender": "male",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "Italian cyclist, nicknamed \"Gino the Pious\" because of his strong religious fait",
+    "notable_events": [
+      {
+        "year": 1938,
+        "event": "Gino won the Giro d’Italia a record seven times as well as five Grand Tour titles (1938 and 1948), two Tour de France ra",
+        "event_type": "award"
+      },
+      {
+        "year": 1948,
+        "event": "Gino won the Giro d’Italia a record seven times as well as five Grand Tour titles (1938 and 1948), two Tour de France ra",
+        "event_type": "award"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bartali,_Gino"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Mark Bartchak",
+    "name_zh": null,
+    "birth_date": "1955-01-01",
+    "birth_time": "13:16",
+    "birth_time_source": "astrodatabank_A",
+    "birth_time_reliability": "high",
+    "birth_city": "Cleveland",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "American Catholic prelate who has served as Bishop of Altoona-Johnstown since 20",
+    "notable_events": [
+      {
+        "year": 2011,
+        "event": "American Catholic prelate who has served as Bishop of Altoona-Johnstown since 2011.",
+        "event_type": "other"
+      },
+      {
+        "year": 2021,
+        "event": "Bartchak has also served on the Supreme Tribunal of the Apostolic Signatura, the highest court of the Vatican, since 202",
+        "event_type": "other"
+      },
+      {
+        "year": 2018,
+        "event": "In December 2018, Bartchak said that the diocese had paid $21.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bartchak,_Mark"
+    ],
+    "data_quality_score": 0.88,
+    "rodden_rating": "A"
+  },
+  {
+    "name_en": "Jean Bartel",
+    "name_zh": null,
+    "birth_date": "1923-10-26",
+    "birth_time": "19:45",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Los Angeles",
+    "birth_country": "United States",
+    "gender": "female",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "American model and actress whose career started when she won the Miss California",
+    "notable_events": [
+      {
+        "year": 1943,
+        "event": "American model and actress whose career started when she won the Miss California and Miss America beauty pageants in 194",
+        "event_type": "award"
+      },
+      {
+        "year": 1952,
+        "event": "Notably she appeared as the female lead in the Broadway production of George Gershwin's Of Thee I Sing in 1952.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bartel,_Jean"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Erich Bartels",
+    "name_zh": null,
+    "birth_date": "1889-02-07",
+    "birth_time": "12:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Stettin",
+    "birth_country": "Germany",
+    "gender": "male",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "German actor who began his career as a theatre actor, often cast in comedic role",
+    "notable_events": [
+      {
+        "year": 1915,
+        "event": "Bartels debuted in film in late 1915, appearing alongside Henny Porten in Der Schirm mit dem Schwan .",
+        "event_type": "career_start"
+      },
+      {
+        "year": 1920,
+        "event": "In 1920 Bartels married operetta singer Kate Mann.",
+        "event_type": "marriage"
+      },
+      {
+        "year": 1961,
+        "event": "He died on 1 September 1961 in Braunschweig, aged 72.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bartels,_Erich"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Bill Barth",
+    "name_zh": null,
+    "birth_date": "1942-12-13",
+    "birth_time": "08:45",
+    "birth_time_source": "astrodatabank_A",
+    "birth_time_reliability": "high",
+    "birth_city": "New York",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "企业家"
+    ],
+    "bio": "American musician, a guitar player known for Memphis country blues.",
+    "notable_events": [
+      {
+        "year": 1994,
+        "event": "before becoming an expatriate, moving to Amsterdam in 1994.",
+        "event_type": "other"
+      },
+      {
+        "year": 2000,
+        "event": "He died on 15 July 2000 of a heart attack in his sleep, at home in Amsterdam.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barth,_Bill"
+    ],
+    "data_quality_score": 0.88,
+    "rodden_rating": "A"
+  },
+  {
+    "name_en": "John Barth",
+    "name_zh": null,
+    "birth_date": "1930-05-27",
+    "birth_time": "19:50",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Cambridge",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "演员",
+      "作家"
+    ],
+    "bio": "American writer best known for his postmodern and metafictional fiction.",
+    "notable_events": [
+      {
+        "year": 1960,
+        "event": "His most highly regarded and influential works were published in the 1960s, and include The Sot-Weed Factor (1960), a wh",
+        "event_type": "career_peak"
+      },
+      {
+        "year": 1966,
+        "event": "His most highly regarded and influential works were published in the 1960s, and include The Sot-Weed Factor (1960), a wh",
+        "event_type": "career_peak"
+      },
+      {
+        "year": 1968,
+        "event": "His most highly regarded and influential works were published in the 1960s, and include The Sot-Weed Factor (1960), a wh",
+        "event_type": "career_peak"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barth,_John"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Karl Barth",
+    "name_zh": null,
+    "birth_date": "1886-05-10",
+    "birth_time": "05:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Basel",
+    "birth_country": "Switzerland",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "Swiss theologian, the assistant pastor in Geneva in 1909.",
+    "notable_events": [
+      {
+        "year": 1909,
+        "event": "Swiss theologian, the assistant pastor in Geneva in 1909.",
+        "event_type": "other"
+      },
+      {
+        "year": 1911,
+        "event": "From 1911-1921, he was the pastor of the Swiss village of Safenwil.",
+        "event_type": "other"
+      },
+      {
+        "year": 1921,
+        "event": "From 1911-1921, he was the pastor of the Swiss village of Safenwil.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barth,_Karl"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Louis Barthas",
+    "name_zh": null,
+    "birth_date": "1879-07-14",
+    "birth_time": "02:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Homps",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "French soldier in World War I, who served with the 280th Infantry Regiment of Na",
+    "notable_events": [
+      {
+        "year": 1914,
+        "event": "He wrote of his wartime experiences in the book \"Les carnets de guerre de Louis Barthas, tonnelier, 1914-1918\" (Paris: É",
+        "event_type": "other"
+      },
+      {
+        "year": 1918,
+        "event": "He wrote of his wartime experiences in the book \"Les carnets de guerre de Louis Barthas, tonnelier, 1914-1918\" (Paris: É",
+        "event_type": "other"
+      },
+      {
+        "year": 1977,
+        "event": "He wrote of his wartime experiences in the book \"Les carnets de guerre de Louis Barthas, tonnelier, 1914-1918\" (Paris: É",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barthas,_Louis"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Jean Paul Barthe",
+    "name_zh": null,
+    "birth_date": "1932-07-22",
+    "birth_time": "05:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Lourdes",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "French rugby player, an all-time great, one of the best French prop (forward).",
+    "notable_events": [
+      {
+        "year": 1954,
+        "event": "He was selected 26 times in international events from 1954 to 1959.",
+        "event_type": "career_peak"
+      },
+      {
+        "year": 1959,
+        "event": "He was selected 26 times in international events from 1954 to 1959.",
+        "event_type": "career_peak"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barthe,_Jean_Paul"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Ernst Barthel",
+    "name_zh": null,
+    "birth_date": "1890-10-17",
+    "birth_time": "16:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Schiltigheim",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "科学家",
+      "作家"
+    ],
+    "bio": "Alsatian philosopher, mathematician and inventor.",
+    "notable_events": [
+      {
+        "year": 1924,
+        "event": "From 1924 on Barthel edited the magazine Antäus.",
+        "event_type": "other"
+      },
+      {
+        "year": 1953,
+        "event": "He died on 16 February 1953 in Oberkirch, Baden.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barthel,_Ernst"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Roland Gérard Barthes",
+    "name_zh": null,
+    "birth_date": "1915-11-12",
+    "birth_time": "09:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Cherbourg",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "French writer and linguist, he wrote essays and literary criticism.",
+    "notable_events": [
+      {
+        "year": 1957,
+        "event": "One of France's intelligentsia, his 1957 book, \"Mythologies\" in which he attacked French society.",
+        "event_type": "other"
+      },
+      {
+        "year": 1980,
+        "event": "He died March 26, 1980.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barthes,_Roland_G%C3%A9rard"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Fabien Barthez",
+    "name_zh": null,
+    "birth_date": "1971-06-28",
+    "birth_time": "10:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Lavelanet",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "French football (soccer) player, who won honours as a goalkeeper with Marseille,",
+    "notable_events": [
+      {
+        "year": 1998,
+        "event": "French football (soccer) player, who won honours as a goalkeeper with Marseille, Manchester United and the French nation",
+        "event_type": "award"
+      },
+      {
+        "year": 2000,
+        "event": "French football (soccer) player, who won honours as a goalkeeper with Marseille, Manchester United and the French nation",
+        "event_type": "award"
+      },
+      {
+        "year": 2006,
+        "event": "French football (soccer) player, who won honours as a goalkeeper with Marseille, Manchester United and the French nation",
+        "event_type": "award"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barthez,_Fabien"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "John George Bartholomew",
+    "name_zh": null,
+    "birth_date": "1860-03-22",
+    "birth_time": "13:30",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Edinburgh",
+    "birth_country": "Scotland",
+    "gender": "male",
+    "occupation": [
+      "科学家"
+    ],
+    "bio": "Scottish scientist, a geographer and cartographer who introduced layer contour c",
+    "notable_events": [
+      {
+        "year": 1920,
+        "event": "He died in Cintra, Portugal on 14 April 1920 at age 60.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bartholomew,_John_George"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Summer Bartholomew",
+    "name_zh": null,
+    "birth_date": "1951-11-20",
+    "birth_time": "19:45",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Hollywood, CA",
+    "birth_country": "United States",
+    "gender": "female",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "American Beauty Queen voted \"Miss U.S.",
+    "notable_events": [
+      {
+        "year": 1975,
+        "event": "Universe\" in May 1975 and \"Miss California Universe\" on 13 February 1977 at 10:00 PM PST in Hollywood, California.",
+        "event_type": "other"
+      },
+      {
+        "year": 1977,
+        "event": "Universe\" in May 1975 and \"Miss California Universe\" on 13 February 1977 at 10:00 PM PST in Hollywood, California.",
+        "event_type": "other"
+      },
+      {
+        "year": 1984,
+        "event": "She became the hostess of Sale of the Century in late 1984 after a brief period as hostess/letter turner on Wheel of For",
+        "event_type": "career_peak"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bartholomew,_Summer"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Ernst Bartholomé",
+    "name_zh": null,
+    "birth_date": "1908-11-26",
+    "birth_time": "03:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Mönchen-Gladbach",
+    "birth_country": "Germany",
+    "gender": "male",
+    "occupation": [
+      "科学家"
+    ],
+    "bio": "German chemist and co-developer of the Sachsse-Bartholomé procedure.",
+    "notable_events": [
+      {
+        "year": 1933,
+        "event": "Bartholomé studied natural sciences in Freiburg and Berlin, and in 1933, at the Eucken Institute for Physical Chemistry ",
+        "event_type": "death"
+      },
+      {
+        "year": 1937,
+        "event": "In 1937 he moved to Ludwigshafen, where he worked on methane combustion during the Second World War with Matthias Pier.",
+        "event_type": "other"
+      },
+      {
+        "year": 1949,
+        "event": "After his new degree in Heidelberg in 1949, he lectured on chemical process engineering.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bartholom%C3%A9,_Ernst"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Louis Barthou",
+    "name_zh": null,
+    "birth_date": "1862-08-25",
+    "birth_time": "01:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Marseille",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "French politician, a foreign minister and lawyer, he served as Prime Minister of",
+    "notable_events": [
+      {
+        "year": 1913,
+        "event": "French politician, a foreign minister and lawyer, he served as Prime Minister of the Third Republic in 1913.",
+        "event_type": "other"
+      },
+      {
+        "year": 1934,
+        "event": "He was assassinated along with King Alexander of Yugoslavia on 9 October 1934 in Marseille, France.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barthou,_Louis"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Pierre Barthès",
+    "name_zh": null,
+    "birth_date": "1941-09-13",
+    "birth_time": "14:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Béziers",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "French tour tennis player, who was one of the Handsome Eight, a group of players",
+    "notable_events": [
+      {
+        "year": 1968,
+        "event": "French tour tennis player, who was one of the Handsome Eight, a group of players signed by Lamar Hunt in 1968 for the ne",
+        "event_type": "other"
+      },
+      {
+        "year": 1974,
+        "event": "He reached a career-high ATP singles ranking in 1974 of World No.",
+        "event_type": "other"
+      },
+      {
+        "year": 1971,
+        "event": "54, though this is not a true indication, as he was one of the Top 20 players in 1971 before the creation of the ATP ran",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barth%C3%A8s,_Pierre"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Yann Barthès",
+    "name_zh": null,
+    "birth_date": "1974-10-09",
+    "birth_time": "11:40",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Chambéry",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "演员",
+      "作家"
+    ],
+    "bio": "French journalist and TV host of Spanish descent, he has been presenting \"le Pet",
+    "notable_events": [
+      {
+        "year": 2004,
+        "event": "French journalist and TV host of Spanish descent, he has been presenting \"le Petit Journal\" on Canal Plus channel since ",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barth%C3%A8s,_Yann"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Maurice Barthélemy",
+    "name_zh": null,
+    "birth_date": "1969-05-23",
+    "birth_time": "14:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "La Paz",
+    "birth_country": "Bolivia",
+    "gender": "male",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "French actor and film director, born to an anthropologist.",
+    "notable_events": [
+      {
+        "year": 1998,
+        "event": "He joined the theatre troup \"The Royal Imperial Speed Rabbit Company\" and began as an actor in the movie \"Serial lover\" ",
+        "event_type": "career_start"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barth%C3%A9lemy,_Maurice"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "René Barthélemy",
+    "name_zh": null,
+    "birth_date": "1889-03-10",
+    "birth_time": "06:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Nangis",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "科学家"
+    ],
+    "bio": "French physicist and physician, a member of the Academie des Sciences.",
+    "notable_events": [
+      {
+        "year": 1931,
+        "event": "A scientist, an electronic inventor and TV researcher, he invented the isoscope, giving his first demonstration of TV in",
+        "event_type": "other"
+      },
+      {
+        "year": 1954,
+        "event": "René Barthélemy died on 12 February 1954 at age 64 in Antibes, France.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barth%C3%A9lemy,_Ren%C3%A9"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Matt Bartle",
+    "name_zh": null,
+    "birth_date": "1965-02-20",
+    "birth_time": "17:27",
+    "birth_time_source": "astrodatabank_A",
+    "birth_time_reliability": "high",
+    "birth_city": "Columbia",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "American attorney and politician, a Republican who was first elected to the Miss",
+    "notable_events": [
+      {
+        "year": 1998,
+        "event": "American attorney and politician, a Republican who was first elected to the Missouri House of Representatives in 1998, a",
+        "event_type": "career_peak"
+      },
+      {
+        "year": 2002,
+        "event": "American attorney and politician, a Republican who was first elected to the Missouri House of Representatives in 1998, a",
+        "event_type": "career_peak"
+      },
+      {
+        "year": 2007,
+        "event": "In January 2007, Sen.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bartle,_Matt"
+    ],
+    "data_quality_score": 0.88,
+    "rodden_rating": "A"
+  },
+  {
+    "name_en": "Albert Allen Bartlett",
+    "name_zh": null,
+    "birth_date": "1923-03-21",
+    "birth_time": "22:30",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Shanghai",
+    "birth_country": "China",
+    "gender": "male",
+    "occupation": [
+      "科学家",
+      "作家"
+    ],
+    "bio": "American academic, a physicist who regarded human overpopulation as \"The Greates",
+    "notable_events": [
+      {
+        "year": 2001,
+        "event": "As of July 2001 Professor Bartlett had lectured over 1,742 times since September 1969 on Arithmetic, Population, and Ene",
+        "event_type": "other"
+      },
+      {
+        "year": 1969,
+        "event": "As of July 2001 Professor Bartlett had lectured over 1,742 times since September 1969 on Arithmetic, Population, and Ene",
+        "event_type": "other"
+      },
+      {
+        "year": 2013,
+        "event": "American academic, a physicist who regarded human overpopulation as \"The Greatest Challenge\" facing humanity. He was an ",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bartlett,_Albert_Allen"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Dewey Follett Bartlett",
+    "name_zh": null,
+    "birth_date": "1919-03-28",
+    "birth_time": "13:15",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Marietta",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "政治家",
+      "科学家"
+    ],
+    "bio": "American politiican and businessman, he was a U.S.",
+    "notable_events": [
+      {
+        "year": 1945,
+        "event": "On April 2, 1945 he married Ann Smith with whom he moved after the war to Tulsa where he joined an oil and gas company.",
+        "event_type": "marriage"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bartlett,_Dewey_Follett"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Erinn Bartlett",
+    "name_zh": null,
+    "birth_date": "1973-02-26",
+    "birth_time": "14:34",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Longmeadow",
+    "birth_country": "United States",
+    "gender": "female",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "American actress who also competed in the Miss Teen USA pageant.",
+    "notable_events": [
+      {
+        "year": 2004,
+        "event": "She became engaged to actor Oliver Hudson, son of Goldie Hawn, on February 21, 2004 and the two married on 9 June 2006.",
+        "event_type": "marriage"
+      },
+      {
+        "year": 2006,
+        "event": "She became engaged to actor Oliver Hudson, son of Goldie Hawn, on February 21, 2004 and the two married on 9 June 2006.",
+        "event_type": "marriage"
+      },
+      {
+        "year": 2007,
+        "event": "In March 2007 it was announced that the couple were expecting their first child.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bartlett,_Erinn"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Man Bartlett",
+    "name_zh": null,
+    "birth_date": "1981-01-05",
+    "birth_time": "01:52",
+    "birth_time_source": "astrodatabank_A",
+    "birth_time_reliability": "high",
+    "birth_city": "Philadelphia",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "American multidisciplinary artist who lives and works in New York City.",
+    "notable_events": [
+      {
+        "year": 2010,
+        "event": "Man Bartlett participated in #class , a month-long series of events at Winkleman Gallery in New York that took place fro",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bartlett,_Man"
+    ],
+    "data_quality_score": 0.88,
+    "rodden_rating": "A"
+  },
+  {
+    "name_en": "Sam Bartlett",
+    "name_zh": null,
+    "birth_date": "1961-11-08",
+    "birth_time": "22:40",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Burlington",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "演员",
+      "作家"
+    ],
+    "bio": "American folk artist, public art instigator, cartoonist, performer, musician, an",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bartlett,_Sam"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Tommy Bartlett",
+    "name_zh": null,
+    "birth_date": "1914-07-11",
+    "birth_time": "19:11",
+    "birth_time_source": "astrodatabank_A",
+    "birth_time_reliability": "high",
+    "birth_city": "Milwaukee",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "企业家"
+    ],
+    "bio": "American owner of Water Ski Shows International, a touring entertainment extrava",
+    "notable_events": [
+      {
+        "year": 1998,
+        "event": "Bartlett died on September 6, 1998 of kidney failure in Wisconsin Dells, WI at age 84.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bartlett,_Tommy"
+    ],
+    "data_quality_score": 0.88,
+    "rodden_rating": "A"
+  },
+  {
+    "name_en": "Ashley Bartley",
+    "name_zh": null,
+    "birth_date": "1993-09-23",
+    "birth_time": "19:09",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Burlington",
+    "birth_country": "United States",
+    "gender": "female",
+    "occupation": [
+      "企业家",
+      "政治家",
+      "演员"
+    ],
+    "bio": "American politician who has served as a Republican member of the Vermont House o",
+    "notable_events": [
+      {
+        "year": 2023,
+        "event": "American politician who has served as a Republican member of the Vermont House of Representatives for the Franklin 1 Dis",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bartley,_Ashley"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Otto Bartning",
+    "name_zh": null,
+    "birth_date": "1883-04-12",
+    "birth_time": "23:45",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Karlsruhe",
+    "birth_country": "Germany",
+    "gender": "male",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "German Modernist architect, architectural theorist and teacher.",
+    "notable_events": [
+      {
+        "year": 1951,
+        "event": "In 1951 he was elected president of the Federation of German Architects.",
+        "event_type": "career_peak"
+      },
+      {
+        "year": 1905,
+        "event": "From 1905 he began to establish a practice as an architect in Berlin.",
+        "event_type": "career_start"
+      },
+      {
+        "year": 1926,
+        "event": "He began his career as an Expressionist, and later directed the Hochschule für Handwerk und Baukunst (High School for Cr",
+        "event_type": "career_start"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bartning,_Otto"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Sam Bartolet",
+    "name_zh": null,
+    "birth_date": "1888-08-21",
+    "birth_time": "05:20",
+    "birth_time_source": "astrodatabank_A",
+    "birth_time_reliability": "high",
+    "birth_city": "Williamsport",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "American astrologer, writer and lecturer.",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bartolet,_Sam"
+    ],
+    "data_quality_score": 0.88,
+    "rodden_rating": "A"
+  },
+  {
+    "name_en": "Marino Bartoletti",
+    "name_zh": null,
+    "birth_date": "1949-01-30",
+    "birth_time": "22:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Forlì",
+    "birth_country": "Italy",
+    "gender": "male",
+    "occupation": [
+      "演员",
+      "作家"
+    ],
+    "bio": "Italian journalist and television host. Link to Wikipedia biography (Italian)",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bartoletti,_Marino"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Marion Bartoli",
+    "name_zh": null,
+    "birth_date": "1984-10-02",
+    "birth_time": "21:15",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Wimbledon",
+    "birth_country": "France",
+    "gender": "female",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "French tennis player, she lost the 2007 Wimbledon final won by Venus Williams(af",
+    "notable_events": [
+      {
+        "year": 2007,
+        "event": "French tennis player, she lost the 2007 Wimbledon final won by Venus Williams(after defeating Hénin in the semi-final).",
+        "event_type": "award"
+      },
+      {
+        "year": 2011,
+        "event": "She began the professional circuit in 2007; by 2011 she was earning over $1 million per year in prize money.",
+        "event_type": "award"
+      },
+      {
+        "year": 2013,
+        "event": "On 6 July 2013, she won the Wimbledon grand slam competition, defeating Sabine Lisicki.",
+        "event_type": "award"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bartoli,_Marion"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Luigi Bartolini",
+    "name_zh": null,
+    "birth_date": "1892-02-08",
+    "birth_time": "08:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Cupramontana",
+    "birth_country": "Italy",
+    "gender": "male",
+    "occupation": [
+      "演员",
+      "作家"
+    ],
+    "bio": "Italian painter, writer, and poet.",
+    "notable_events": [
+      {
+        "year": 1963,
+        "event": "He died 16 May 1963.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bartolini,_Luigi"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Yvon Bartolini",
+    "name_zh": null,
+    "birth_date": "1946-02-15",
+    "birth_time": "12:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Bastia, France",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "运动员"
+    ],
+    "bio": "French member of the Corsica soccer league.",
+    "notable_events": [
+      {
+        "year": 1995,
+        "event": "He was charged with forgery and use of a forged instrument at the trial, that opened on 4 January 1995 at 2:30 PM in Bas",
+        "event_type": "other"
+      },
+      {
+        "year": 1992,
+        "event": "French member of the Corsica soccer league. Along with Galeazzi and Lorenzi he participated in the making of the false s",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bartolini,_Yvon"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Claude Bartolone",
+    "name_zh": null,
+    "birth_date": "1951-07-29",
+    "birth_time": "04:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Tunis",
+    "birth_country": "Tunisia",
+    "gender": "male",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "French politician who has served as President of the National Assembly of France",
+    "notable_events": [
+      {
+        "year": 2012,
+        "event": "French politician who has served as President of the National Assembly of France since June 2012.",
+        "event_type": "other"
+      },
+      {
+        "year": 1981,
+        "event": "A member of the Socialist Party, he has been elected to the National Assembly, representing the Seine-Saint-Denis depart",
+        "event_type": "career_peak"
+      },
+      {
+        "year": 1998,
+        "event": "He served in the government as Minister for the City from 1998 to 2002, and he has been President of the General Council",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bartolone,_Claude"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Bob Barton",
+    "name_zh": null,
+    "birth_date": "1941-07-30",
+    "birth_time": "16:45",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Norwood (Hamilton County)",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "American pro athlete, a baseball player with the San Francisco Giants and the Sa",
+    "notable_events": [
+      {
+        "year": 1965,
+        "event": "His initial big league game was played on September 17, 1965 and played for 10 seasons, ending his pro baseball career o",
+        "event_type": "other"
+      },
+      {
+        "year": 1974,
+        "event": "His initial big league game was played on September 17, 1965 and played for 10 seasons, ending his pro baseball career o",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barton,_Bob"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Daric Barton",
+    "name_zh": null,
+    "birth_date": "1985-08-16",
+    "birth_time": "08:26",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Springfield",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "American first baseman in Major League Baseball (MLB) who played for the Oakland",
+    "notable_events": [
+      {
+        "year": 2007,
+        "event": "American first baseman in Major League Baseball (MLB) who played for the Oakland Athletics (2007-2014).",
+        "event_type": "other"
+      },
+      {
+        "year": 2014,
+        "event": "American first baseman in Major League Baseball (MLB) who played for the Oakland Athletics (2007-2014).",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barton,_Daric"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Murry Bartow",
+    "name_zh": null,
+    "birth_date": "1961-08-18",
+    "birth_time": "01:34",
+    "birth_time_source": "astrodatabank_A",
+    "birth_time_reliability": "high",
+    "birth_city": "Warrensburg",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "运动员"
+    ],
+    "bio": "American college basketball coach who most recently was the interim head coach f",
+    "notable_events": [
+      {
+        "year": 2004,
+        "event": "As the head coach of the East Tennessee State Buccaneers, he was twice named the conference coach of the year, first in ",
+        "event_type": "other"
+      },
+      {
+        "year": 2007,
+        "event": "As the head coach of the East Tennessee State Buccaneers, he was twice named the conference coach of the year, first in ",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bartow,_Murry"
+    ],
+    "data_quality_score": 0.88,
+    "rodden_rating": "A"
+  },
+  {
+    "name_en": "Roger Bartra",
+    "name_zh": null,
+    "birth_date": "1942-11-07",
+    "birth_time": "23:00",
+    "birth_time_source": "astrodatabank_A",
+    "birth_time_reliability": "high",
+    "birth_city": "Mexico City",
+    "birth_country": "Mexico",
+    "gender": "male",
+    "occupation": [
+      "政治家",
+      "科学家",
+      "作家"
+    ],
+    "bio": "Mexican sociologist and anthropologist, the son of the exiled Catalan writers Ag",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bartra,_Roger"
+    ],
+    "data_quality_score": 0.88,
+    "rodden_rating": "A"
+  },
+  {
+    "name_en": "Rosa Bartra",
+    "name_zh": null,
+    "birth_date": "1973-12-20",
+    "birth_time": "08:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Huamachuco",
+    "birth_country": "Peru",
+    "gender": "female",
+    "occupation": [
+      "政治家",
+      "科学家"
+    ],
+    "bio": "Peruvian lawyer, politician and pharmaceutical chemist who served as a congressw",
+    "notable_events": [
+      {
+        "year": 2016,
+        "event": "Peruvian lawyer, politician and pharmaceutical chemist who served as a congresswoman for La Libertad from 2016 to 2020.",
+        "event_type": "other"
+      },
+      {
+        "year": 2020,
+        "event": "Peruvian lawyer, politician and pharmaceutical chemist who served as a congresswoman for La Libertad from 2016 to 2020.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bartra,_Rosa"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Michael Bartrum",
+    "name_zh": null,
+    "birth_date": "1970-06-23",
+    "birth_time": "06:33",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Gallipolis",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "American football player, a tight-end first signed by the Kansas City Chiefs as ",
+    "notable_events": [
+      {
+        "year": 1993,
+        "event": "American football player, a tight-end first signed by the Kansas City Chiefs as a non-drafted free agent on 5 May 1993.",
+        "event_type": "other"
+      },
+      {
+        "year": 1995,
+        "event": "Bartrum later was signed by the Green Bay Packers on 20 January 1995.",
+        "event_type": "other"
+      },
+      {
+        "year": 1996,
+        "event": "His career with the Packers was a brief year-and-a-half; Bartrum was traded to the Patriots on 25 August 1996.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bartrum,_Michael"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Jochen Joachim Bartsch",
+    "name_zh": null,
+    "birth_date": "1903-09-13",
+    "birth_time": "06:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Strasburg",
+    "birth_country": "Germany",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "演员",
+      "作家"
+    ],
+    "bio": "German actor, director, playwright and author of screenplays.",
+    "notable_events": [
+      {
+        "year": 1922,
+        "event": "He studied mechanical and electrical angineering, 1922-1926, and served as managing director of a small film production ",
+        "event_type": "death"
+      },
+      {
+        "year": 1926,
+        "event": "He studied mechanical and electrical angineering, 1922-1926, and served as managing director of a small film production ",
+        "event_type": "death"
+      },
+      {
+        "year": 1927,
+        "event": "He studied mechanical and electrical angineering, 1922-1926, and served as managing director of a small film production ",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bartsch,_Jochen_Joachim"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Bernard Bartzen",
+    "name_zh": null,
+    "birth_date": "1927-11-25",
+    "birth_time": "07:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Austin",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "运动员"
+    ],
+    "bio": "American tennis player in the mid-20th century, who later became a winning colle",
+    "notable_events": [
+      {
+        "year": 1953,
+        "event": "Bartzen went on the American tennis circuit and was ranked in the top 10 nine straight years (1953–1961), two of them at",
+        "event_type": "other"
+      },
+      {
+        "year": 1961,
+        "event": "Bartzen went on the American tennis circuit and was ranked in the top 10 nine straight years (1953–1961), two of them at",
+        "event_type": "other"
+      },
+      {
+        "year": 1959,
+        "event": "2 (1959 and 1960).",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bartzen,_Bernard"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Piero Barucci",
+    "name_zh": null,
+    "birth_date": "1933-06-29",
+    "birth_time": "12:30",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Florence",
+    "birth_country": "Italy",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "政治家",
+      "运动员"
+    ],
+    "bio": "Italian academic, economist and politician, who was treasury minister of Italy.",
+    "notable_events": [
+      {
+        "year": 1992,
+        "event": "He served as the minister of treasury and civil service in the first Amato cabinet from June 1992 to April 1993.",
+        "event_type": "other"
+      },
+      {
+        "year": 1993,
+        "event": "He served as the minister of treasury and civil service in the first Amato cabinet from June 1992 to April 1993.",
+        "event_type": "other"
+      },
+      {
+        "year": 1994,
+        "event": "Then Barucci was appointed minister of treasury to the Ciampi cabinet and was in office from April 1993 to April 1994.",
+        "event_type": "career_peak"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barucci,_Piero"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Wladyslaw Barwicki",
+    "name_zh": null,
+    "birth_date": "1865-06-11",
+    "birth_time": "18:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Pulawy",
+    "birth_country": "Poland",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "Polish painter, sculptor and poet.",
+    "notable_events": [
+      {
+        "year": 1933,
+        "event": "He died 12 February 1933.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barwicki,_Wladyslaw"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "August de Bary",
+    "name_zh": null,
+    "birth_date": "1874-02-17",
+    "birth_time": "18:45",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Frankfurt am Main",
+    "birth_country": "Germany",
+    "gender": "male",
+    "occupation": [
+      "政治家",
+      "演员"
+    ],
+    "bio": "German physician and politician in Frankurt.",
+    "notable_events": [
+      {
+        "year": 1912,
+        "event": "He served as Chief Physician at the Clementine Children's Hospital in Hospital from 1912 to 1928, and was chairman of th",
+        "event_type": "other"
+      },
+      {
+        "year": 1928,
+        "event": "He served as Chief Physician at the Clementine Children's Hospital in Hospital from 1912 to 1928, and was chairman of th",
+        "event_type": "other"
+      },
+      {
+        "year": 1933,
+        "event": "He served as Chief Physician at the Clementine Children's Hospital in Hospital from 1912 to 1928, and was chairman of th",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bary,_August_de"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Léon Bary",
+    "name_zh": null,
+    "birth_date": "1880-06-06",
+    "birth_time": "18:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Paris",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "French actor who appeared in 52 films between 1916 and 1955.",
+    "notable_events": [
+      {
+        "year": 1916,
+        "event": "French actor who appeared in 52 films between 1916 and 1955.",
+        "event_type": "other"
+      },
+      {
+        "year": 1955,
+        "event": "French actor who appeared in 52 films between 1916 and 1955.",
+        "event_type": "other"
+      },
+      {
+        "year": 1954,
+        "event": "He died in Paris on 7 January 1954.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bary,_L%C3%A9on"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Benedetta Barzini",
+    "name_zh": null,
+    "birth_date": "1943-09-22",
+    "birth_time": "05:45",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Porto Santo Stefano",
+    "birth_country": "Italy",
+    "gender": "female",
+    "occupation": [
+      "政治家",
+      "演员",
+      "作家"
+    ],
+    "bio": "Italian actress and model, daughter of Italian journalist and author Luigi Barzi",
+    "notable_events": [
+      {
+        "year": 1963,
+        "event": "Discovered on the streets by Consuelo Crespi in 1963, Diana Vreeland soon spotted her potential as a model and arranged ",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barzini,_Benedetta"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Luigi Barzini",
+    "name_zh": null,
+    "birth_date": "1908-12-21",
+    "birth_time": "14:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Rome",
+    "birth_country": "Italy",
+    "gender": "male",
+    "occupation": [
+      "政治家",
+      "作家"
+    ],
+    "bio": "Italian politician and writer, a columnist and journalist, he wrote for many mag",
+    "notable_events": [
+      {
+        "year": 1964,
+        "event": "Italian politician and writer, a columnist and journalist, he wrote for many magazines and produced several noteworthy b",
+        "event_type": "other"
+      },
+      {
+        "year": 1958,
+        "event": "From 1958-1972 he served in the Italian Chamber of Deputies.",
+        "event_type": "other"
+      },
+      {
+        "year": 1972,
+        "event": "From 1958-1972 he served in the Italian Chamber of Deputies.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barzini,_Luigi"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Isa Barzizza",
+    "name_zh": null,
+    "birth_date": "1929-11-22",
+    "birth_time": "09:45",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "San Remo",
+    "birth_country": "Italy",
+    "gender": "female",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "Italian actress and cabaret singer who appeared in 46 films since 1947.",
+    "notable_events": [
+      {
+        "year": 1947,
+        "event": "Italian actress and cabaret singer who appeared in 46 films since 1947.",
+        "event_type": "other"
+      },
+      {
+        "year": 1953,
+        "event": "On 7 June 1953 she married Carlo Alberto Chiesa.",
+        "event_type": "marriage"
+      },
+      {
+        "year": 1960,
+        "event": "She was widowed on 2 June 1960 when he was killed in a car accident.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barzizza,_Isa"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Enrique Barzola",
+    "name_zh": null,
+    "birth_date": "1989-04-28",
+    "birth_time": "23:05",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Lima",
+    "birth_country": "Peru",
+    "gender": "male",
+    "occupation": [
+      "演员",
+      "运动员"
+    ],
+    "bio": "Peruvian mixed martial artist, nicknamed El Fuerte , who was the lightweight win",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barzola,_Enrique"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Jacques Barzun",
+    "name_zh": null,
+    "birth_date": "1907-11-30",
+    "birth_time": "07:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Créteil",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "French-American educator, the Provost of Columbia University for many years and ",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barzun,_Jacques"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Renan Barão",
+    "name_zh": null,
+    "birth_date": "1987-01-31",
+    "birth_time": "19:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Natal (Rio Grande do Norte)",
+    "birth_country": "Brazil",
+    "gender": "male",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "Brazilian mixed martial artist, a UFC Bantamweight Champion, who held one of the",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bar%C3%A3o,_Renan"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Noël Bas",
+    "name_zh": null,
+    "birth_date": "1877-12-25",
+    "birth_time": "05:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Strenquels",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "French gymnast who competed in the early 20th century.",
+    "notable_events": [
+      {
+        "year": 1900,
+        "event": "He participated in Gymnastics at the 1900 Summer Olympics in Paris and won the silver medal in the only gymnastic event ",
+        "event_type": "award"
+      },
+      {
+        "year": 1960,
+        "event": "Noël Bas died on 3 July 1960 at age 82 in Brive-la-Gaillarde.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bas,_No%C3%ABl"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Philippe Bas",
+    "name_zh": null,
+    "birth_date": "1958-07-20",
+    "birth_time": "19:30",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Paris",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "French politician and member of the Union for a Popular Movement (French: Union ",
+    "notable_events": [
+      {
+        "year": 2005,
+        "event": "He was Secretary General of the Elysee under Jacques Chirac and Minister for Social Security, the Elderly, the Disabled ",
+        "event_type": "other"
+      },
+      {
+        "year": 2007,
+        "event": "He was Secretary General of the Elysee under Jacques Chirac and Minister for Social Security, the Elderly, the Disabled ",
+        "event_type": "other"
+      },
+      {
+        "year": 2008,
+        "event": "He has been vice-president of La Manche (a French department in Lower Normandy) since March 2008 and Senator of La Manch",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bas,_Philippe"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Jorge Basadre",
+    "name_zh": null,
+    "birth_date": "1903-02-12",
+    "birth_time": "06:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Tacna",
+    "birth_country": "Peru",
+    "gender": "male",
+    "occupation": [
+      "政治家",
+      "演员",
+      "作家"
+    ],
+    "bio": "Peruvian historian known for his extensive publications about the independent hi",
+    "notable_events": [
+      {
+        "year": 1980,
+        "event": "He died on 29 June 1980 in the city of Lima at the age of 77.",
+        "event_type": "death"
+      },
+      {
+        "year": 1991,
+        "event": "Since 1991, when the nuevo sol became the official currency of Peru, his portrait has appeared on the S/.",
+        "event_type": "career_peak"
+      },
+      {
+        "year": 2008,
+        "event": "Peruvian historian known for his extensive publications about the independent history of his country. He served during t",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Basadre,_Jorge"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Earl W. Bascom",
+    "name_zh": null,
+    "birth_date": "1906-06-19",
+    "birth_time": "09:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Vernal",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "American painter, printmaker, rodeo performer and sculptor, raised in Canada, wh",
+    "notable_events": [
+      {
+        "year": 1912,
+        "event": "After their mother’s death in 1912, the family moved to Raymond, Alberta, Canada, where their father had been hired as a",
+        "event_type": "death"
+      },
+      {
+        "year": 1933,
+        "event": "Around 1933, Earl W.",
+        "event_type": "other"
+      },
+      {
+        "year": 1940,
+        "event": "Bascom entered Brigham Young University, majoring in fine arts and graduating about 1940.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bascom,_Earl_W."
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Ruth Bascom",
+    "name_zh": null,
+    "birth_date": "1926-02-04",
+    "birth_time": "17:45",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Ames",
+    "birth_country": "United States",
+    "gender": "female",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "American politician who served as the first female mayor of Eugene, Oregon, from",
+    "notable_events": [
+      {
+        "year": 1993,
+        "event": "American politician who served as the first female mayor of Eugene, Oregon, from 1993 until 1996.",
+        "event_type": "other"
+      },
+      {
+        "year": 1996,
+        "event": "American politician who served as the first female mayor of Eugene, Oregon, from 1993 until 1996.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bascom,_Ruth"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Dimitri Bascou",
+    "name_zh": null,
+    "birth_date": "1987-07-20",
+    "birth_time": "10:37",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Schoelcher",
+    "birth_country": "Martinique",
+    "gender": "male",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "French Martiniquan hurdler, he got the European title in July 2016 and a bronze ",
+    "notable_events": [
+      {
+        "year": 2016,
+        "event": "French Martiniquan hurdler, he got the European title in July 2016 and a bronze medal at the 2016 Rio Olympics (110m hur",
+        "event_type": "award"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bascou,_Dimitri"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Giulio Base",
+    "name_zh": null,
+    "birth_date": "1964-12-06",
+    "birth_time": "15:50",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Turin",
+    "birth_country": "Italy",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "演员"
+    ],
+    "bio": "Italian actor and director, who had his biggest directorial success with \"Europe",
+    "notable_events": [
+      {
+        "year": 1999,
+        "event": "Italian actor and director, who had his biggest directorial success with \"Europe is La Bomba - Once Upon A Time In Littl",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Base,_Giulio"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "René Basecq",
+    "name_zh": null,
+    "birth_date": "1925-05-13",
+    "birth_time": "19:30",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Chastre",
+    "birth_country": "Belgium",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "政治家"
+    ],
+    "bio": "Belgian politician, a member of the Socialist Party, he was temporary editor at ",
+    "notable_events": [
+      {
+        "year": 1945,
+        "event": "Belgian politician, a member of the Socialist Party, he was temporary editor at the Ministry of Communications (1945), w",
+        "event_type": "other"
+      },
+      {
+        "year": 1966,
+        "event": "Belgian politician, a member of the Socialist Party, he was temporary editor at the Ministry of Communications (1945), w",
+        "event_type": "other"
+      },
+      {
+        "year": 1971,
+        "event": "Belgian politician, a member of the Socialist Party, he was temporary editor at the Ministry of Communications (1945), w",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Basecq,_Ren%C3%A9"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Cesco Baseggio",
+    "name_zh": null,
+    "birth_date": "1897-04-13",
+    "birth_time": "22:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Treviso",
+    "birth_country": "Italy",
+    "gender": "male",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "Italian stage, film and television actor.",
+    "notable_events": [
+      {
+        "year": 1941,
+        "event": "He appeared in a mixture of serious, dramatic films, as well as comedies such as \"The Brambilla Family Go on Holiday\" (1",
+        "event_type": "other"
+      },
+      {
+        "year": 1971,
+        "event": "He died on 22 January 1971 in Catania, Sicily.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Baseggio,_Cesco"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Richard Basehart",
+    "name_zh": null,
+    "birth_date": "1914-08-31",
+    "birth_time": "05:30",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Los Angeles",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "American stage actor in the '30s who made his Broadway debut in 1938.",
+    "notable_events": [
+      {
+        "year": 1938,
+        "event": "American stage actor in the '30s who made his Broadway debut in 1938.",
+        "event_type": "career_start"
+      },
+      {
+        "year": 1956,
+        "event": "Some of those 30 films included \"Moby Dick,\" 1956 and \"The Brothers Karamazov,\" 1958.",
+        "event_type": "other"
+      },
+      {
+        "year": 1958,
+        "event": "Some of those 30 films included \"Moby Dick,\" 1956 and \"The Brothers Karamazov,\" 1958.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Basehart,_Richard"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Eddie Jr. Basha",
+    "name_zh": null,
+    "birth_date": "1937-08-24",
+    "birth_time": "17:45",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Mesa",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "政治家"
+    ],
+    "bio": "American businessman of Lebanese descent, the Chairman & CEO of Bashas', Inc., a",
+    "notable_events": [
+      {
+        "year": 1968,
+        "event": "Beginning in 1968, Basha expanded the small company to a nationwide chain of 160 stores.",
+        "event_type": "other"
+      },
+      {
+        "year": 1994,
+        "event": "Basha ran an unsuccessful campaign as the Democratic nominee against incumbent Arizona Governor Fife Symington in 1994.",
+        "event_type": "other"
+      },
+      {
+        "year": 2013,
+        "event": "He died on 26 March 2013, survived by his wife and five sons.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Basha,_Eddie_Jr."
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Yigal Bashan",
+    "name_zh": null,
+    "birth_date": "1950-09-11",
+    "birth_time": "11:30",
+    "birth_time_source": "astrodatabank_A",
+    "birth_time_reliability": "high",
+    "birth_city": "Rishon leZiyyon",
+    "birth_country": "Israel",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "Israeli Singer-Songwriter.",
+    "notable_events": [
+      {
+        "year": 2018,
+        "event": "He commited suicide on 9 December 2018, Tel Aviv.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bashan,_Yigal"
+    ],
+    "data_quality_score": 0.88,
+    "rodden_rating": "A"
+  },
+  {
+    "name_en": "Alain Bashung",
+    "name_zh": null,
+    "birth_date": "1947-12-01",
+    "birth_time": "09:55",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Paris",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "演员",
+      "作家"
+    ],
+    "bio": "French singer, songwriter and actor, born to an Algerian kabyle father and to a ",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bashung,_Alain"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Guido Vittoriano Basile",
+    "name_zh": null,
+    "birth_date": "1893-08-16",
+    "birth_time": "07:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Palermo",
+    "birth_country": "Italy",
+    "gender": "male",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "Italian lawyer who openly expressed his solidarity with Jews and his opposition ",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Basile,_Guido_Vittoriano"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Carmen Basilio",
+    "name_zh": null,
+    "birth_date": "1927-04-02",
+    "birth_time": "23:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Canastota",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "Italian-American Welterweight Boxing Champion from 1955-57.",
+    "notable_events": [
+      {
+        "year": 1955,
+        "event": "Italian-American Welterweight Boxing Champion from 1955-57.",
+        "event_type": "other"
+      },
+      {
+        "year": 1957,
+        "event": "In 1957, he won the Middleweight title by defeating the great Ray Robinson in a 15-round split decision.",
+        "event_type": "award"
+      },
+      {
+        "year": 1958,
+        "event": "Six months later, in early 1958, Sugar Ray took back his crown, beating Basilio in another grueling split decision.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Basilio,_Carmen"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Michael Basinski",
+    "name_zh": null,
+    "birth_date": "1950-11-19",
+    "birth_time": "22:00",
+    "birth_time_source": "astrodatabank_A",
+    "birth_time_reliability": "high",
+    "birth_city": "Buffalo",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "American poet who has published around three dozen collections of his work since",
+    "notable_events": [
+      {
+        "year": 1982,
+        "event": "American poet who has published around three dozen collections of his work since his debut book B (text broadside) was r",
+        "event_type": "career_start"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Basinski,_Michael"
+    ],
+    "data_quality_score": 0.88,
+    "rodden_rating": "A"
+  },
+  {
+    "name_en": "Steve Baskerville",
+    "name_zh": null,
+    "birth_date": "1950-05-12",
+    "birth_time": "18:00",
+    "birth_time_source": "astrodatabank_A",
+    "birth_time_reliability": "high",
+    "birth_city": "Philadelphia",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "演员",
+      "作家"
+    ],
+    "bio": "American broadcaster, a former Channel 3 weatherman from 1978-1984, and CBS Morn",
+    "notable_events": [
+      {
+        "year": 1978,
+        "event": "American broadcaster, a former Channel 3 weatherman from 1978-1984, and CBS Morning News Anchor from 1984-1986.",
+        "event_type": "other"
+      },
+      {
+        "year": 1984,
+        "event": "American broadcaster, a former Channel 3 weatherman from 1978-1984, and CBS Morning News Anchor from 1984-1986.",
+        "event_type": "other"
+      },
+      {
+        "year": 1986,
+        "event": "American broadcaster, a former Channel 3 weatherman from 1978-1984, and CBS Morning News Anchor from 1984-1986.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Baskerville,_Steve"
+    ],
+    "data_quality_score": 0.88,
+    "rodden_rating": "A"
+  },
+  {
+    "name_en": "Alijah Baskett",
+    "name_zh": null,
+    "birth_date": "2014-05-16",
+    "birth_time": "08:02",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Los Angeles Cedars Sinai Hospital",
+    "birth_country": "United States",
+    "gender": "female",
+    "occupation": [
+      "演员",
+      "运动员"
+    ],
+    "bio": "American noted family, the second child and first daughter of American football ",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Baskett,_Alijah"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Hank IV Baskett",
+    "name_zh": null,
+    "birth_date": "2009-12-11",
+    "birth_time": "00:37",
+    "birth_time_source": "astrodatabank_A",
+    "birth_time_reliability": "high",
+    "birth_city": "Indianapolis",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "American child of noted parents, his father Hank Baskett is a professional footb",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Baskett,_Hank_IV"
+    ],
+    "data_quality_score": 0.88,
+    "rodden_rating": "A"
+  },
+  {
+    "name_en": "Carole Baskin",
+    "name_zh": null,
+    "birth_date": "1961-06-06",
+    "birth_time": "19:22",
+    "birth_time_source": "astrodatabank_A",
+    "birth_time_reliability": "high",
+    "birth_city": "San Antonio",
+    "birth_country": "United States",
+    "gender": "female",
+    "occupation": [
+      "企业家",
+      "政治家",
+      "演员"
+    ],
+    "bio": "American animal rights activist and CEO of Big Cat Rescue, a non-profit animal s",
+    "notable_events": [
+      {
+        "year": 2020,
+        "event": "Baskin drew public attention when she was featured in the 2020 Netflix true crime documentary series Tiger King , which ",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Baskin,_Carole"
+    ],
+    "data_quality_score": 0.88,
+    "rodden_rating": "A"
+  },
+  {
+    "name_en": "Pat M. Baskin",
+    "name_zh": null,
+    "birth_date": "1926-11-29",
+    "birth_time": "16:30",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Cameron",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "American municipal and state court judge, city council member, and civic figure ",
+    "notable_events": [
+      {
+        "year": 2005,
+        "event": "Baskin died on 27 May 2005 of a brief illness in Midland, aged 78.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Baskin,_Pat_M."
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Marianne Basler",
+    "name_zh": null,
+    "birth_date": "1961-03-09",
+    "birth_time": "13:04",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Uccle",
+    "birth_country": "Belgium",
+    "gender": "female",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "French/Belgian actress of Swiss origin.",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Basler,_Marianne"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Robert Basmann",
+    "name_zh": null,
+    "birth_date": "1926-01-15",
+    "birth_time": "21:10",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Davenport",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "科学家"
+    ],
+    "bio": "American econometrician (one who applies statistical methods to economic data in",
+    "notable_events": [
+      {
+        "year": 1963,
+        "event": "In 1963 Basmann took a position at Purdue University where he helped build a new graduate program in economics.",
+        "event_type": "other"
+      },
+      {
+        "year": 2024,
+        "event": "Robert Basmann died at his home in Vestal, New York on 18 April 2024 at the age of 98.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Basmann,_Robert"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Carlos Basombrío Iglesias",
+    "name_zh": null,
+    "birth_date": "1957-08-31",
+    "birth_time": "14:25",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Miraflores",
+    "birth_country": "Peru",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "政治家",
+      "科学家",
+      "作家"
+    ],
+    "bio": "Peruvian sociologist, journalist and political scientist, he served as Minister ",
+    "notable_events": [
+      {
+        "year": 2016,
+        "event": "Peruvian sociologist, journalist and political scientist, he served as Minister of the Interior in the Pedro Pablo Kuczy",
+        "event_type": "other"
+      },
+      {
+        "year": 2017,
+        "event": "Peruvian sociologist, journalist and political scientist, he served as Minister of the Interior in the Pedro Pablo Kuczy",
+        "event_type": "other"
+      },
+      {
+        "year": 1994,
+        "event": "He has been involved with the Woodrow Wilson Center in Washington, DC, as a resident fellow from 1994 to 1995, and as co",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Basombr%C3%ADo_Iglesias,_Carlos"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Edmond Basquet",
+    "name_zh": null,
+    "birth_date": "1921-07-13",
+    "birth_time": "21:30",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Houeillès",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "French rugby player, selected 33 times in international events between 1945 and ",
+    "notable_events": [
+      {
+        "year": 1945,
+        "event": "French rugby player, selected 33 times in international events between 1945 and 1952 to play as wing forward and selecte",
+        "event_type": "career_peak"
+      },
+      {
+        "year": 1952,
+        "event": "French rugby player, selected 33 times in international events between 1945 and 1952 to play as wing forward and selecte",
+        "event_type": "career_peak"
+      },
+      {
+        "year": 1960,
+        "event": "Selector for France’s team in 1960.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Basquet,_Edmond"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Dinesh Basra",
+    "name_zh": null,
+    "birth_date": "1976-04-03",
+    "birth_time": "15:30",
+    "birth_time_source": "astrodatabank_A",
+    "birth_time_reliability": "high",
+    "birth_city": "Faizabad",
+    "birth_country": "India",
+    "gender": "male",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "Indian comedian, a semi finalist on Laugh India Laugh , a.k.a.",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Basra,_Dinesh"
+    ],
+    "data_quality_score": 0.88,
+    "rodden_rating": "A"
+  },
+  {
+    "name_en": "Anne Hendricks Bass",
+    "name_zh": null,
+    "birth_date": "1941-10-19",
+    "birth_time": "14:20",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Indianapolis",
+    "birth_country": "United States",
+    "gender": "female",
+    "occupation": [
+      "企业家",
+      "演员",
+      "作家"
+    ],
+    "bio": "American investor, documentary filmmaker, philanthropist and art collector also ",
+    "notable_events": [
+      {
+        "year": 2010,
+        "event": "She directed the 2010 documentary film Dancing Across Borders .",
+        "event_type": "other"
+      },
+      {
+        "year": 2020,
+        "event": "Anne Hendricks Bass died in New York City on 1 April 2020 at the age of 78 from ovarian cancer.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bass,_Anne_Hendricks"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Bob Bass",
+    "name_zh": null,
+    "birth_date": "1929-01-28",
+    "birth_time": "02:30",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Big Spring",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "运动员"
+    ],
+    "bio": "American basketball coach and executive who worked in college basketball, the Am",
+    "notable_events": [
+      {
+        "year": 2018,
+        "event": "Bass died in his San Antonio home on 17 August 2018, aged 89.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bass,_Bob"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Karen Bass",
+    "name_zh": null,
+    "birth_date": "1953-10-03",
+    "birth_time": "02:27",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Los Angeles",
+    "birth_country": "United States",
+    "gender": "female",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "American politician, social worker and former physician assistant who has been s",
+    "notable_events": [
+      {
+        "year": 2022,
+        "event": "American politician, social worker and former physician assistant who has been serving as the 43rd mayor of Los Angeles ",
+        "event_type": "other"
+      },
+      {
+        "year": 2011,
+        "event": "House of Representatives from 2011 to 2022, representing California's 33rd congressional district from 2011 to 2013 and ",
+        "event_type": "other"
+      },
+      {
+        "year": 2013,
+        "event": "House of Representatives from 2011 to 2022, representing California's 33rd congressional district from 2011 to 2013 and ",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bass,_Karen"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Randy Bass",
+    "name_zh": null,
+    "birth_date": "1954-03-13",
+    "birth_time": "22:00",
+    "birth_time_source": "astrodatabank_A",
+    "birth_time_reliability": "high",
+    "birth_city": "Lawton",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "政治家",
+      "运动员"
+    ],
+    "bio": "American politician and former baseball first baseman who played six seasons in ",
+    "notable_events": [
+      {
+        "year": 2005,
+        "event": "From 2005 to 2019, Bass served as a Democratic State Senator from Oklahoma, representing District 32.",
+        "event_type": "other"
+      },
+      {
+        "year": 2019,
+        "event": "From 2005 to 2019, Bass served as a Democratic State Senator from Oklahoma, representing District 32.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bass,_Randy"
+    ],
+    "data_quality_score": 0.88,
+    "rodden_rating": "A"
+  },
+  {
+    "name_en": "Roy Bass",
+    "name_zh": null,
+    "birth_date": "1918-10-31",
+    "birth_time": "22:20",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Waco",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "American attorney with the firm Bass and Hobbs who served from 1974 until 1978 a",
+    "notable_events": [
+      {
+        "year": 1974,
+        "event": "American attorney with the firm Bass and Hobbs who served from 1974 until 1978 as the mayor of Lubbock, Texas.",
+        "event_type": "other"
+      },
+      {
+        "year": 1978,
+        "event": "American attorney with the firm Bass and Hobbs who served from 1974 until 1978 as the mayor of Lubbock, Texas.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bass,_Roy"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "T. J. Bass",
+    "name_zh": null,
+    "birth_date": "1932-07-07",
+    "birth_time": "06:40",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Clinton",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "American science fiction author and physician, having graduated from the Univers",
+    "notable_events": [
+      {
+        "year": 1959,
+        "event": "American science fiction author and physician, having graduated from the University of Iowa in 1959.",
+        "event_type": "other"
+      },
+      {
+        "year": 1971,
+        "event": "Two of Bass' novels, Half Past Human (1971) and The Godwhale (1974), were nominated for the Nebula Award.",
+        "event_type": "award"
+      },
+      {
+        "year": 1974,
+        "event": "Two of Bass' novels, Half Past Human (1971) and The Godwhale (1974), were nominated for the Nebula Award.",
+        "event_type": "award"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bass,_T._J."
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Jaime Bassa",
+    "name_zh": null,
+    "birth_date": "1977-03-31",
+    "birth_time": "12:40",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Las Condes (Santiago de Chile)",
+    "birth_country": "Chile",
+    "gender": "male",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "Chilean politician and attorney, he has served as the Vice President of the Cons",
+    "notable_events": [
+      {
+        "year": 2021,
+        "event": "Chilean politician and attorney, he has served as the Vice President of the Constitutional Convention of Chile since 202",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bassa,_Jaime"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Giorgio Bassani",
+    "name_zh": null,
+    "birth_date": "1916-03-04",
+    "birth_time": "16:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Bologna",
+    "birth_country": "Italy",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "Italian writer, a novelist, poet and essayist best known for his psychological n",
+    "notable_events": [
+      {
+        "year": 2000,
+        "event": "\" He died on 13 April 2000 at age 84 in a hospital in Rome from complications of Parkinson's Disease and Alzheimer's.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bassani,_Giorgio"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Albert Bassermann",
+    "name_zh": null,
+    "birth_date": "1867-09-07",
+    "birth_time": "22:30",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Mannheim",
+    "birth_country": "Germany",
+    "gender": "male",
+    "occupation": [
+      "演员",
+      "科学家"
+    ],
+    "bio": "German-American actor who first studied chemistry, but was drawn to the stage.",
+    "notable_events": [
+      {
+        "year": 1909,
+        "event": "He worked with the Max Reinhardt theater from 1909-1915 and made his film debut in the German picture, \"Der Andere,\" in ",
+        "event_type": "career_start"
+      },
+      {
+        "year": 1915,
+        "event": "He worked with the Max Reinhardt theater from 1909-1915 and made his film debut in the German picture, \"Der Andere,\" in ",
+        "event_type": "career_start"
+      },
+      {
+        "year": 1913,
+        "event": "He worked with the Max Reinhardt theater from 1909-1915 and made his film debut in the German picture, \"Der Andere,\" in ",
+        "event_type": "career_start"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bassermann,_Albert"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Gaby Basset",
+    "name_zh": null,
+    "birth_date": "1902-03-29",
+    "birth_time": "22:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Varennes St.Sauveur",
+    "birth_country": "France",
+    "gender": "female",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "French actress.",
+    "notable_events": [
+      {
+        "year": 1925,
+        "event": "She was married to Jean Gabin 1925-1929.",
+        "event_type": "marriage"
+      },
+      {
+        "year": 1929,
+        "event": "She was married to Jean Gabin 1925-1929.",
+        "event_type": "marriage"
+      },
+      {
+        "year": 2001,
+        "event": "She died on 7 October 2001 in Neuilly-sur-Seine, Hauts-de Seine, France.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Basset,_Gaby"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Joshua Bassett",
+    "name_zh": null,
+    "birth_date": "2000-12-22",
+    "birth_time": "04:00",
+    "birth_time_source": "astrodatabank_A",
+    "birth_time_reliability": "high",
+    "birth_city": "Oceanside",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "American actor and singer best known for starring as Ricky Bowen in the TV serie",
+    "notable_events": [
+      {
+        "year": 2019,
+        "event": "American actor and singer best known for starring as Ricky Bowen in the TV series High School Musical: The Musical: The ",
+        "event_type": "other"
+      },
+      {
+        "year": 2021,
+        "event": "On 10 May 2021 he came out as a member of the LGBTQ+ community during an interview.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bassett,_Joshua"
+    ],
+    "data_quality_score": 0.88,
+    "rodden_rating": "A"
+  },
+  {
+    "name_en": "Steve Bassett",
+    "name_zh": null,
+    "birth_date": "1952-06-25",
+    "birth_time": "00:10",
+    "birth_time_source": "astrodatabank_A",
+    "birth_time_reliability": "high",
+    "birth_city": "Escondido",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "American television actor known for his appearances in various series including ",
+    "notable_events": [
+      {
+        "year": 1986,
+        "event": "American television actor known for his appearances in various series including As the World Turns as Seth Snyder (1986-",
+        "event_type": "other"
+      },
+      {
+        "year": 2009,
+        "event": "American television actor known for his appearances in various series including As the World Turns as Seth Snyder (1986-",
+        "event_type": "other"
+      },
+      {
+        "year": 2011,
+        "event": "American television actor known for his appearances in various series including As the World Turns as Seth Snyder (1986-",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bassett,_Steve"
+    ],
+    "data_quality_score": 0.88,
+    "rodden_rating": "A"
+  },
+  {
+    "name_en": "Adriano Bassetto",
+    "name_zh": null,
+    "birth_date": "1925-09-08",
+    "birth_time": "03:30",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Vicenza",
+    "birth_country": "Italy",
+    "gender": "male",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "Italian soccer player, active on Italian teams from 1946-1957.",
+    "notable_events": [
+      {
+        "year": 1946,
+        "event": "Italian soccer player, active on Italian teams from 1946-1957.",
+        "event_type": "other"
+      },
+      {
+        "year": 1957,
+        "event": "Italian soccer player, active on Italian teams from 1946-1957.",
+        "event_type": "other"
+      },
+      {
+        "year": 1999,
+        "event": "He died October 11, 1999.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bassetto,_Adriano"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Louis-Claude Basseuil",
+    "name_zh": null,
+    "birth_date": "1887-07-10",
+    "birth_time": "11:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Paris Arrondissement 7",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "French silent film actor, known for Lost at Sea (1913), Within the Limit of the ",
+    "notable_events": [
+      {
+        "year": 1913,
+        "event": "French silent film actor, known for Lost at Sea (1913), Within the Limit of the Law (1913) and For the Family Honor; or,",
+        "event_type": "other"
+      },
+      {
+        "year": 1933,
+        "event": "He died on 11 March 1933 in Paris at age 45.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Basseuil,_Louis-Claude"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Ettore Bassi",
+    "name_zh": null,
+    "birth_date": "1970-04-16",
+    "birth_time": "19:20",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Bari",
+    "birth_country": "Italy",
+    "gender": "male",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "Italian actor and television host.",
+    "notable_events": [
+      {
+        "year": 2010,
+        "event": "In 2010 it was announced that he is the successor of Kaspar Capparoni in the German-Austrian-Italian thriller series \"In",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bassi,_Ettore"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Sofía Bassi",
+    "name_zh": null,
+    "birth_date": "1913-07-28",
+    "birth_time": "06:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Ciudad Mendoza",
+    "birth_country": "Mexico",
+    "gender": "female",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "Mexican painter and writer noted for her surrealist work as well as her personal",
+    "notable_events": [
+      {
+        "year": 1998,
+        "event": "Bassi died of heart failure on 11 September 1998 at age 85.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bassi,_Sof%C3%ADa"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Federico Basso",
+    "name_zh": null,
+    "birth_date": "1975-01-01",
+    "birth_time": "23:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Turin",
+    "birth_country": "Italy",
+    "gender": "male",
+    "occupation": [
+      "演员",
+      "作家"
+    ],
+    "bio": "Italian comic and television writer. Link to Wikipedia biography (Italian)",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Basso,_Federico"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Grégory Basso",
+    "name_zh": null,
+    "birth_date": "1974-04-20",
+    "birth_time": "20:15",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Manosque",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "演员",
+      "作家"
+    ],
+    "bio": "French television personality, actor, singer and disc jockey.",
+    "notable_events": [
+      {
+        "year": 2003,
+        "event": "He played a fake millionaire courted by several contenders on the reality TV show 'Greg le millionnaire' (English: 'Greg",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Basso,_Gr%C3%A9gory"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Ivan Basso",
+    "name_zh": null,
+    "birth_date": "1977-11-26",
+    "birth_time": "10:20",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Varese",
+    "birth_country": "Italy",
+    "gender": "male",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "Italian cyclist racer, he finished 2nd at the 2005 Tour de France, behind Lance ",
+    "notable_events": [
+      {
+        "year": 2005,
+        "event": "Italian cyclist racer, he finished 2nd at the 2005 Tour de France, behind Lance Armstrong.",
+        "event_type": "other"
+      },
+      {
+        "year": 1995,
+        "event": "Like his American opponent in 1995, he announced he was suffering of a testicular cancer, during the 2015 Tour de France",
+        "event_type": "other"
+      },
+      {
+        "year": 2015,
+        "event": "Like his American opponent in 1995, he announced he was suffering of a testicular cancer, during the 2015 Tour de France",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Basso,_Ivan"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Marino Basso",
+    "name_zh": null,
+    "birth_date": "1945-06-01",
+    "birth_time": "14:10",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Codogno",
+    "birth_country": "Italy",
+    "gender": "male",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "Italian cyclist who won the World Cycling Championship in 1972.",
+    "notable_events": [
+      {
+        "year": 1972,
+        "event": "Italian cyclist who won the World Cycling Championship in 1972.",
+        "event_type": "award"
+      },
+      {
+        "year": 1978,
+        "event": "He retired from professional racing in 1978.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Basso,_Marino"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Christophe Bassons",
+    "name_zh": null,
+    "birth_date": "1974-06-10",
+    "birth_time": "20:30",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Mazamet",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "运动员",
+      "作家"
+    ],
+    "bio": "French road racing cyclist whose career ended when he spoke out about doping in ",
+    "notable_events": [
+      {
+        "year": 2000,
+        "event": "In 2000 he published his autobiography \"Positif\" and in 2001 he qualified as a sports teacher and began teaching.",
+        "event_type": "career_start"
+      },
+      {
+        "year": 2001,
+        "event": "In 2000 he published his autobiography \"Positif\" and in 2001 he qualified as a sports teacher and began teaching.",
+        "event_type": "career_start"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bassons,_Christophe"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Adolf Bastian",
+    "name_zh": null,
+    "birth_date": "1826-06-26",
+    "birth_time": "00:30",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Bremen",
+    "birth_country": "Germany",
+    "gender": "male",
+    "occupation": [
+      "科学家"
+    ],
+    "bio": "German polymath best remembered for his contributions to the development of ethn",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bastian,_Adolf"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Ange Bastiani",
+    "name_zh": null,
+    "birth_date": "1918-12-02",
+    "birth_time": "01:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Brest",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "French writer, an author of numerous thrillers, who wrote under the pseudonyms R",
+    "notable_events": [
+      {
+        "year": 1977,
+        "event": "He died on 9 November 1977 in Paris.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bastiani,_Ange"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Harald Bastiansen",
+    "name_zh": null,
+    "birth_date": "1962-03-07",
+    "birth_time": "17:55",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Oslo",
+    "birth_country": "Norway",
+    "gender": "male",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "Norwegian ice hockey player who represented Furuset Ishockey and was on loan to ",
+    "notable_events": [
+      {
+        "year": 1986,
+        "event": "Norwegian ice hockey player who represented Furuset Ishockey and was on loan to Storhamar in the summer of 1986 where he",
+        "event_type": "other"
+      },
+      {
+        "year": 1995,
+        "event": "Bastiansen died in a diving accident on 6 May 1995 in Tjøme aged 33.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bastiansen,_Harald"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Jean Pierre Bastiat",
+    "name_zh": null,
+    "birth_date": "1949-04-11",
+    "birth_time": "07:30",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Aydie",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "政治家",
+      "运动员"
+    ],
+    "bio": "French rugby player (1969-78) as back row (N°8) for US Dax who had numerous sele",
+    "notable_events": [
+      {
+        "year": 1969,
+        "event": "French rugby player (1969-78) as back row (N°8) for US Dax who had numerous selections (32) in the national French team ",
+        "event_type": "award"
+      },
+      {
+        "year": 1977,
+        "event": "French rugby player (1969-78) as back row (N°8) for US Dax who had numerous selections (32) in the national French team ",
+        "event_type": "award"
+      },
+      {
+        "year": 1970,
+        "event": "It was discovered in 1970, the year of his first 5 nations victory, that nature had provided him with 3 kidneys.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bastiat,_Jean_Pierre"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Jean-Pierre Bastid",
+    "name_zh": null,
+    "birth_date": "1937-02-04",
+    "birth_time": "09:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Montreuil",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "演员",
+      "作家"
+    ],
+    "bio": "French writer, director and screenwriter. Link to Wikipedia biography (French)",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bastid,_Jean-Pierre"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Keana Bastidas",
+    "name_zh": null,
+    "birth_date": "1998-03-18",
+    "birth_time": "16:55",
+    "birth_time_source": "astrodatabank_A",
+    "birth_time_reliability": "high",
+    "birth_city": "Toronto",
+    "birth_country": "Ontario (CAN)",
+    "gender": "female",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "Canadian screen actress most noted for her performances as Suzi in 2011 comedy T",
+    "notable_events": [
+      {
+        "year": 2011,
+        "event": "Canadian screen actress most noted for her performances as Suzi in 2011 comedy TV series The Yard and as Callie Shaw in ",
+        "event_type": "other"
+      },
+      {
+        "year": 2020,
+        "event": "Canadian screen actress most noted for her performances as Suzi in 2011 comedy TV series The Yard and as Callie Shaw in ",
+        "event_type": "other"
+      },
+      {
+        "year": 2023,
+        "event": "Canadian screen actress most noted for her performances as Suzi in 2011 comedy TV series The Yard and as Callie Shaw in ",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bastidas,_Keana"
+    ],
+    "data_quality_score": 0.88,
+    "rodden_rating": "A"
+  },
+  {
+    "name_en": "Denise Bastide",
+    "name_zh": null,
+    "birth_date": "1916-12-23",
+    "birth_time": "08:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Paris",
+    "birth_country": "France",
+    "gender": "female",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "French politician, she was a member of the French National Assembly.",
+    "notable_events": [
+      {
+        "year": 1943,
+        "event": "During WWII, she was arrested on April 13, 1943 in Montluçon for her resistance efforts and sentenced to six years in pr",
+        "event_type": "other"
+      },
+      {
+        "year": 1945,
+        "event": "Freed in 1945, she was elected to the National Assembly in October that year and won re-election in subsequent years.",
+        "event_type": "award"
+      },
+      {
+        "year": 1946,
+        "event": "She and her husband had one daughter; they divorced in 1946.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bastide,_Denise"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "François Régis Bastide",
+    "name_zh": null,
+    "birth_date": "1926-07-01",
+    "birth_time": "03:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Biarritz",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "French writer, diplomat, radio host and astrologer. Link to Wikipedia (French)",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bastide,_Fran%C3%A7ois_R%C3%A9gis"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Roger Bastide",
+    "name_zh": null,
+    "birth_date": "1917-06-02",
+    "birth_time": "02:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Marseille",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "French sports journalist. He died on 29 August 1999.",
+    "notable_events": [
+      {
+        "year": 1999,
+        "event": "He died on 29 August 1999.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bastide,_Roger"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Jean Bastien",
+    "name_zh": null,
+    "birth_date": "1915-06-21",
+    "birth_time": "10:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Oran",
+    "birth_country": "Algeria",
+    "gender": "male",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "French soccer player. He died in 1969. Link to Wikipedia biography",
+    "notable_events": [
+      {
+        "year": 1969,
+        "event": "He died in 1969.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bastien,_Jean"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Louis Bastien",
+    "name_zh": null,
+    "birth_date": "1881-10-26",
+    "birth_time": "16:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Paris Arrondissement 3",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "French racing cyclist and fencer who competed in the late 19th century and early",
+    "notable_events": [
+      {
+        "year": 1900,
+        "event": "He participated in Cycling at the 1900 Summer Olympics in Paris and won the gold medal in the men's 25 km race.",
+        "event_type": "award"
+      },
+      {
+        "year": 1963,
+        "event": "Louis Bastien died on 13 August 1963 at age 81 in Châteauroux.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bastien,_Louis"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Desire Bastin",
+    "name_zh": null,
+    "birth_date": "1900-03-04",
+    "birth_time": "16:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Antwerp",
+    "birth_country": "Belgium",
+    "gender": "male",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "Belgian association soccer player who competed in the 1920 Summer Olympics.",
+    "notable_events": [
+      {
+        "year": 1920,
+        "event": "Belgian association soccer player who competed in the 1920 Summer Olympics.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bastin,_Desire"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Maria João Bastos",
+    "name_zh": null,
+    "birth_date": "1975-06-18",
+    "birth_time": "13:45",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Vila Franca de Xira",
+    "birth_country": "Portugal",
+    "gender": "female",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "Portuguese expatriate actress mostly in television series and films, and also a ",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bastos,_Maria_Jo%C3%A3o"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Rachele Bastreghi",
+    "name_zh": null,
+    "birth_date": "1977-07-15",
+    "birth_time": "04:35",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Siena",
+    "birth_country": "Italy",
+    "gender": "female",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "Italian singer-songwriter and musician, a member of the Tuscan group Baustelle.",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bastreghi,_Rachele"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Oceana Basílio",
+    "name_zh": null,
+    "birth_date": "1979-01-19",
+    "birth_time": "19:55",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Faro",
+    "birth_country": "Portugal",
+    "gender": "female",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "Portuguese fashion model and actress in television series, films and stage plays",
+    "notable_events": [
+      {
+        "year": 2007,
+        "event": "Later, she was married to actor and singer Pedro Laginha from 2007 to 2010.",
+        "event_type": "marriage"
+      },
+      {
+        "year": 2010,
+        "event": "Later, she was married to actor and singer Pedro Laginha from 2007 to 2010.",
+        "event_type": "marriage"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bas%C3%ADlio,_Oceana"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Georges Bataille",
+    "name_zh": null,
+    "birth_date": "1897-09-10",
+    "birth_time": "18:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Paris",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "政治家",
+      "作家"
+    ],
+    "bio": "French writer, essayist, philosopher, socialist and mystic, he was interested in",
+    "notable_events": [
+      {
+        "year": 1916,
+        "event": "He converted to Catholicism before World War I and served in the Army from 1916-17.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bataille,_Georges"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Henri Bataille",
+    "name_zh": null,
+    "birth_date": "1872-04-04",
+    "birth_time": "05:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Nîmes",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "French poet, dramatist and painter.",
+    "notable_events": [
+      {
+        "year": 1890,
+        "event": "He was attracted to painting as a youth and entered the Ecole des Beaux Arts in 1890, but, essentially a romantic, he so",
+        "event_type": "other"
+      },
+      {
+        "year": 1894,
+        "event": "His first play, produced in 1894, lacked mature style.",
+        "event_type": "other"
+      },
+      {
+        "year": 1895,
+        "event": "However, the first verse that he published, in 1895, established his name, and his second play was an acknowledged succe",
+        "event_type": "career_peak"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bataille,_Henri"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Jacques Bataille",
+    "name_zh": null,
+    "birth_date": "1929-09-20",
+    "birth_time": "19:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Rosendaël",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "French featherweight boxer. Link to Wikipedia biography",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bataille,_Jacques"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Lucien Bataille",
+    "name_zh": null,
+    "birth_date": "1877-04-25",
+    "birth_time": "03:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Lumbres",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "French film actor known for playing the characters Zigoto and Casimir, under the",
+    "notable_events": [
+      {
+        "year": 1953,
+        "event": "He died on 28 June 1953 in Paris, aged 76.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bataille,_Lucien"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Michel Bataille",
+    "name_zh": null,
+    "birth_date": "1926-03-25",
+    "birth_time": "06:10",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Paris",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "演员",
+      "作家"
+    ],
+    "bio": "French writer, an award-winning novelist.",
+    "notable_events": [
+      {
+        "year": 1947,
+        "event": "In 1947, he won the Stendhal Prize for his first novel, 'Patrick.",
+        "event_type": "award"
+      },
+      {
+        "year": 1967,
+        "event": "' His 1967 novel, 'L'arbre de Noël' (English: 'The Christmas Tree) was adapted into a 1969 film of the same name directe",
+        "event_type": "other"
+      },
+      {
+        "year": 1969,
+        "event": "' His 1967 novel, 'L'arbre de Noël' (English: 'The Christmas Tree) was adapted into a 1969 film of the same name directe",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bataille,_Michel"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Nicolas Bataille",
+    "name_zh": null,
+    "birth_date": "1926-03-14",
+    "birth_time": "08:15",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Paris",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "演员"
+    ],
+    "bio": "French comedian and director.",
+    "notable_events": [
+      {
+        "year": 2008,
+        "event": "He died on 28 October 2008.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bataille,_Nicolas"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Pascal Bataille",
+    "name_zh": null,
+    "birth_date": "1960-01-25",
+    "birth_time": "16:45",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Bordeaux",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "演员"
+    ],
+    "bio": "French producer and television host.",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bataille,_Pascal"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Sylvia Bataille",
+    "name_zh": null,
+    "birth_date": "1908-11-01",
+    "birth_time": "11:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Paris",
+    "birth_country": "France",
+    "gender": "female",
+    "occupation": [
+      "演员",
+      "作家"
+    ],
+    "bio": "French actress, of Romanian-Jewish descent.",
+    "notable_events": [
+      {
+        "year": 1930,
+        "event": "When she was twenty, she married the writer Georges Bataille with whom she had a daughter, the psychoanalyst Laurence Ba",
+        "event_type": "marriage"
+      },
+      {
+        "year": 1986,
+        "event": "When she was twenty, she married the writer Georges Bataille with whom she had a daughter, the psychoanalyst Laurence Ba",
+        "event_type": "marriage"
+      },
+      {
+        "year": 1934,
+        "event": "When she was twenty, she married the writer Georges Bataille with whom she had a daughter, the psychoanalyst Laurence Ba",
+        "event_type": "marriage"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bataille,_Sylvia"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Marc Batard",
+    "name_zh": null,
+    "birth_date": "1951-11-22",
+    "birth_time": "04:30",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Villeneuve sur Lot",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "French mountaineer, painter and photographer.",
+    "notable_events": [
+      {
+        "year": 2002,
+        "event": "In 2002, he climbed again the Everest at the age of 70.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Batard,_Marc"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Baron Batch",
+    "name_zh": null,
+    "birth_date": "1987-12-21",
+    "birth_time": "07:01",
+    "birth_time_source": "astrodatabank_A",
+    "birth_time_reliability": "high",
+    "birth_city": "Odessa",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "演员",
+      "运动员"
+    ],
+    "bio": "American entrepreneur based in Pittsburgh and former American football running b",
+    "notable_events": [
+      {
+        "year": 2013,
+        "event": "American entrepreneur based in Pittsburgh and former American football running back who retired from the NFL in 2013.",
+        "event_type": "other"
+      },
+      {
+        "year": 2011,
+        "event": "He played for the Pittsburgh Steelers (2011−2013).",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Batch,_Baron"
+    ],
+    "data_quality_score": 0.88,
+    "rodden_rating": "A"
+  },
+  {
+    "name_en": "Ahmad Batebi",
+    "name_zh": null,
+    "birth_date": "1977-05-24",
+    "birth_time": "18:06",
+    "birth_time_source": "astrodatabank_A",
+    "birth_time_reliability": "high",
+    "birth_city": "Shiraz",
+    "birth_country": "Iran",
+    "gender": "male",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "Iranian political activist who was designated a prisoner of conscience by Amnest",
+    "notable_events": [
+      {
+        "year": 1999,
+        "event": "During his studies at the University of Tehran he gained international fame for his appearance on the 17 July 1999 cover",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Batebi,_Ahmad"
+    ],
+    "data_quality_score": 0.88,
+    "rodden_rating": "A"
+  },
+  {
+    "name_en": "Bill Bateman",
+    "name_zh": null,
+    "birth_date": "1951-12-16",
+    "birth_time": "04:45",
+    "birth_time_source": "astrodatabank_A",
+    "birth_time_reliability": "high",
+    "birth_city": "Orange",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "American drummer best known for his long service in the Blasters.",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bateman,_Bill"
+    ],
+    "data_quality_score": 0.88,
+    "rodden_rating": "A"
+  },
+  {
+    "name_en": "Jason Bateman",
+    "name_zh": null,
+    "birth_date": "1969-01-14",
+    "birth_time": "17:39",
+    "birth_time_source": "astrodatabank_A",
+    "birth_time_reliability": "high",
+    "birth_city": "Rye",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "演员"
+    ],
+    "bio": "American actor in four TV series, including \"Silver Spoons\" and \"It's Your Move,",
+    "notable_events": [
+      {
+        "year": 1984,
+        "event": "American actor in four TV series, including \"Silver Spoons\" and \"It's Your Move,\" 1984.",
+        "event_type": "other"
+      },
+      {
+        "year": 1987,
+        "event": "He made his first movie in 1987 at the age of 18, \"Teenwolf Too.",
+        "event_type": "other"
+      },
+      {
+        "year": 1966,
+        "event": "\" His sister, Justine (born on 19 February 1966), was also a child actress; both kids continued in the business as young",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bateman,_Jason"
+    ],
+    "data_quality_score": 0.88,
+    "rodden_rating": "A"
+  },
+  {
+    "name_en": "Nick Bateman",
+    "name_zh": null,
+    "birth_date": "1967-11-03",
+    "birth_time": "14:08",
+    "birth_time_source": "astrodatabank_A",
+    "birth_time_reliability": "high",
+    "birth_city": "Canterbury",
+    "birth_country": "England",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "演员",
+      "运动员",
+      "作家"
+    ],
+    "bio": "British game show contestant on live-programming of a \"Big Brother\" house.",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bateman,_Nick"
+    ],
+    "data_quality_score": 0.88,
+    "rodden_rating": "A"
+  },
+  {
+    "name_en": "Robert Bateman",
+    "name_zh": null,
+    "birth_date": "1930-05-24",
+    "birth_time": "01:00",
+    "birth_time_source": "astrodatabank_A",
+    "birth_time_reliability": "high",
+    "birth_city": "Toronto",
+    "birth_country": "Ontario (CAN)",
+    "gender": "male",
+    "occupation": [
+      "科学家",
+      "作家"
+    ],
+    "bio": "Canadian artist and ecologist.",
+    "notable_events": [
+      {
+        "year": 2005,
+        "event": "His works are primarily of wildlife and natural scenes; his 2005 book \"Thinking Like a Mountain\" is a work of reflective",
+        "event_type": "other"
+      },
+      {
+        "year": 1961,
+        "event": "Bateman married Suzanne Bowerman in June 1961 and they had three children.",
+        "event_type": "marriage"
+      },
+      {
+        "year": 1975,
+        "event": "In 1975, he married Birgit Freybe, with whom he had two more children.",
+        "event_type": "marriage"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bateman,_Robert"
+    ],
+    "data_quality_score": 0.88,
+    "rodden_rating": "A"
+  },
+  {
+    "name_en": "Albert Bates",
+    "name_zh": null,
+    "birth_date": "1947-01-01",
+    "birth_time": "12:00",
+    "birth_time_source": "astrodatabank_A",
+    "birth_time_reliability": "high",
+    "birth_city": "Honolulu",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "政治家",
+      "演员",
+      "作家"
+    ],
+    "bio": "American environmental activist noted as a leading member of the intentional com",
+    "notable_events": [
+      {
+        "year": 1984,
+        "event": "A lawyer, author and teacher, he has been director of the Global Village Institute for Appropriate Technology since 1984",
+        "event_type": "other"
+      },
+      {
+        "year": 1994,
+        "event": "A lawyer, author and teacher, he has been director of the Global Village Institute for Appropriate Technology since 1984",
+        "event_type": "other"
+      },
+      {
+        "year": 1972,
+        "event": "Bates has been a resident of The Farm since 1972.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bates,_Albert"
+    ],
+    "data_quality_score": 0.88,
+    "rodden_rating": "A"
+  },
+  {
+    "name_en": "Dick Bates",
+    "name_zh": null,
+    "birth_date": "1945-10-07",
+    "birth_time": "05:30",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "McArthur",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "American baseball player, a pitcher, he played one game with the Seattle Pilots ",
+    "notable_events": [
+      {
+        "year": 1969,
+        "event": "American baseball player, a pitcher, he played one game with the Seattle Pilots in April 1969.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bates,_Dick"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Elizabeth Fetzer Bates",
+    "name_zh": null,
+    "birth_date": "1909-03-30",
+    "birth_time": "08:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Salt Lake City",
+    "birth_country": "United States",
+    "gender": "female",
+    "occupation": [
+      "企业家",
+      "作家"
+    ],
+    "bio": "American Latter-day Saint musician, most noted for being the author of the child",
+    "notable_events": [
+      {
+        "year": 1934,
+        "event": "In 1934 Elizabeth married Lucian Bates in the Salt Lake Temple.",
+        "event_type": "marriage"
+      },
+      {
+        "year": 1951,
+        "event": "Although Elizabeth Bates lost her sight in 1951, she was still an active member of her community and her church.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bates,_Elizabeth_Fetzer"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Jim Bates",
+    "name_zh": null,
+    "birth_date": "1941-07-21",
+    "birth_time": "07:54",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Denver",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "American politician, a Washington Congressman accused of sexual harassment by tw",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bates,_Jim"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Kathy Bates",
+    "name_zh": null,
+    "birth_date": "1948-06-28",
+    "birth_time": "11:12",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Memphis",
+    "birth_country": "United States",
+    "gender": "female",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "American actress, a sympathetic star of stage and screen.",
+    "notable_events": [
+      {
+        "year": 1970,
+        "event": "The daughter of a foundry engineer and a housewife, she moved to New York to begin acting early in 1970.",
+        "event_type": "other"
+      },
+      {
+        "year": 1976,
+        "event": "\" In 1976, she made an off-Broadway debut in \"Vanities.",
+        "event_type": "career_start"
+      },
+      {
+        "year": 1983,
+        "event": "\" By 1983 she had received serious notice, she also had been nominated for a Tony for her performance in \"Night, Mother.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bates,_Kathy"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Michael Bates",
+    "name_zh": null,
+    "birth_date": "1969-12-19",
+    "birth_time": "01:10",
+    "birth_time_source": "astrodatabank_A",
+    "birth_time_reliability": "high",
+    "birth_city": "Victoria (Victoria County)",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "American former two-sport athlete who gained fame as a sprinter who won an Olymp",
+    "notable_events": [
+      {
+        "year": 1992,
+        "event": "American former two-sport athlete who gained fame as a sprinter who won an Olympic bronze medal in the 200m dash in 1992",
+        "event_type": "award"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bates,_Michael"
+    ],
+    "data_quality_score": 0.88,
+    "rodden_rating": "A"
+  },
+  {
+    "name_en": "Robert Bates",
+    "name_zh": null,
+    "birth_date": "1911-01-14",
+    "birth_time": "04:27",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Philadelphia",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "American mountaineer, author and teacher, best remembered for his parts in the f",
+    "notable_events": [
+      {
+        "year": 1938,
+        "event": "American mountaineer, author and teacher, best remembered for his parts in the first ascent of Mount Lucania and the Ame",
+        "event_type": "other"
+      },
+      {
+        "year": 1953,
+        "event": "American mountaineer, author and teacher, best remembered for his parts in the first ascent of Mount Lucania and the Ame",
+        "event_type": "other"
+      },
+      {
+        "year": 1929,
+        "event": "He attended Harvard University from 1929 to 1935.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bates,_Robert"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Jim Bathey",
+    "name_zh": null,
+    "birth_date": "1965-01-11",
+    "birth_time": "10:26",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Milwaukee",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "运动员"
+    ],
+    "bio": "American manager in the front office of the Milwaukee Brewers, he is in charge o",
+    "notable_events": [
+      {
+        "year": 2010,
+        "event": "In November 2010 he was promoted to Vice President of Consumer Marketing for the team.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bathey,_Jim"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Andy Bathgate",
+    "name_zh": null,
+    "birth_date": "1932-08-28",
+    "birth_time": "05:09",
+    "birth_time_source": "astrodatabank_A",
+    "birth_time_reliability": "high",
+    "birth_city": "Toronto",
+    "birth_country": "Manitoba (CAN)",
+    "gender": "male",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "Canadian professional ice hockey centre who played 17 seasons in the National Ho",
+    "notable_events": [
+      {
+        "year": 1952,
+        "event": "In 1952 he had surgery to implant a steel plate at his knee.",
+        "event_type": "other"
+      },
+      {
+        "year": 1975,
+        "event": "His hockey career continued after the surgery until his retirement from the game in 1975.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bathgate,_Andy"
+    ],
+    "data_quality_score": 0.88,
+    "rodden_rating": "A"
+  },
+  {
+    "name_en": "Delphine Batho",
+    "name_zh": null,
+    "birth_date": "1973-03-23",
+    "birth_time": "20:20",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Paris Arrondissement 12",
+    "birth_country": "France",
+    "gender": "female",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "French Socialist Party politician.",
+    "notable_events": [
+      {
+        "year": 2012,
+        "event": "She was France's minister of ecology, sustainable development, and energy between 21 June 2012 and 2 July 2013.",
+        "event_type": "other"
+      },
+      {
+        "year": 2013,
+        "event": "She was France's minister of ecology, sustainable development, and energy between 21 June 2012 and 2 July 2013.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Batho,_Delphine"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "J. P. Batista",
+    "name_zh": null,
+    "birth_date": "1981-10-29",
+    "birth_time": "07:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Recife (Pernambuco)",
+    "birth_country": "Brazil",
+    "gender": "male",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "Brazilian basketball player who currently plays for Mogi das Cruzes of the Novo ",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Batista,_J._P."
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Nilo Batista",
+    "name_zh": null,
+    "birth_date": "1944-04-17",
+    "birth_time": "07:45",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Natal (Rio Grande do Norte)",
+    "birth_country": "Brazil",
+    "gender": "male",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "Brazilian lawyer and professor of criminal law who served as governor of the Sta",
+    "notable_events": [
+      {
+        "year": 1994,
+        "event": "Brazilian lawyer and professor of criminal law who served as governor of the State of Rio de Janeiro from 1 April 1994 u",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Batista,_Nilo"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Gabriel Batistuta",
+    "name_zh": null,
+    "birth_date": "1969-02-01",
+    "birth_time": "16:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Reconquista (Santa Fé)",
+    "birth_country": "Argentina",
+    "gender": "male",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "Argentine footballer who is regarded as one of the best strikers of all time; he",
+    "notable_events": [
+      {
+        "year": 2004,
+        "event": "Argentine footballer who is regarded as one of the best strikers of all time; he was named by Pelé in the FIFA 100 list ",
+        "event_type": "other"
+      },
+      {
+        "year": 2016,
+        "event": "At international level, Batistuta was Argentina's all-time leading goalscorer with 56 goals in 78 official matches, a re",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Batistuta,_Gabriel"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Andreas R. Batlogg",
+    "name_zh": null,
+    "birth_date": "1962-10-04",
+    "birth_time": "07:45",
+    "birth_time_source": "astrodatabank_A",
+    "birth_time_reliability": "high",
+    "birth_city": "Bregenz",
+    "birth_country": "Austria",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "Austrian theologian, Jesuit and former editor-in-chief of Stimmen der Zeit (\"Voi",
+    "notable_events": [
+      {
+        "year": 1865,
+        "event": "Austrian theologian, Jesuit and former editor-in-chief of Stimmen der Zeit (\"Voices of the times\"), a monthly German mag",
+        "event_type": "career_peak"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Batlogg,_Andreas_R."
+    ],
+    "data_quality_score": 0.88,
+    "rodden_rating": "A"
+  },
+  {
+    "name_en": "Guillaume Bats",
+    "name_zh": null,
+    "birth_date": "1987-04-14",
+    "birth_time": "03:25",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Reims",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "French humorist and actor, suffering from Glass Bones Disease (see: Petrucciani)",
+    "notable_events": [
+      {
+        "year": 2023,
+        "event": "He died peacefully, sleeping in his bed on 1st June 2023, at the age of 36.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bats,_Guillaume"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Joël Bats",
+    "name_zh": null,
+    "birth_date": "1957-01-04",
+    "birth_time": "01:30",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Mont de Marsan",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "运动员",
+      "作家"
+    ],
+    "bio": "French international football/soccer player, a goalkeeper.",
+    "notable_events": [
+      {
+        "year": 1982,
+        "event": "Bats was stricken with testicular cancer in 1982, but made a full recovery after surgery.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bats,_Jo%C3%ABl"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
+  },
+  {
+    "name_en": "Kaci Battaglia",
+    "name_zh": null,
+    "birth_date": "1987-10-03",
+    "birth_time": "00:49",
+    "birth_time_source": "astrodatabank_A",
+    "birth_time_reliability": "high",
+    "birth_city": "Clearwater",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "政治家",
+      "演员",
+      "作家"
+    ],
+    "bio": "American pop singer, songwriter, dancer and actress, also known mononymously as ",
+    "notable_events": [
+      {
+        "year": 2001,
+        "event": "American pop singer, songwriter, dancer and actress, also known mononymously as 'Kaci,' who gained fame in her early tee",
+        "event_type": "other"
+      },
+      {
+        "year": 1982,
+        "event": "Her debut single \"Paradise\", a cover of the theme song originally sung by Phoebe Cates in the 1982 film Paradise , was r",
+        "event_type": "career_start"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Battaglia,_Kaci"
+    ],
+    "data_quality_score": 0.88,
+    "rodden_rating": "A"
+  },
+  {
+    "name_en": "Giovanni Battaglin",
+    "name_zh": null,
+    "birth_date": "1951-07-22",
+    "birth_time": "07:00",
+    "birth_time_source": "astrodatabank_AA",
+    "birth_time_reliability": "high",
+    "birth_city": "Marostica",
+    "birth_country": "Italy",
+    "gender": "male",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "Italian cyclist. Link to Wikipedia biography",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Battaglin,_Giovanni"
+    ],
+    "data_quality_score": 0.95,
+    "rodden_rating": "AA"
   }
 ]
