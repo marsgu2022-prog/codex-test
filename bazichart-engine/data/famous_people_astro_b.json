@@ -1736,5 +1736,170 @@
     ],
     "data_quality_score": 0.72,
     "rodden_rating": "B"
+  },
+  {
+    "name_en": "Lauren Bacall",
+    "name_zh": null,
+    "birth_date": "1924-09-16",
+    "birth_time": "02:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "New York",
+    "birth_country": "United States",
+    "gender": "female",
+    "occupation": [
+      "企业家",
+      "演员",
+      "科学家",
+      "作家"
+    ],
+    "bio": "American actress, a star for over a half century.",
+    "notable_events": [
+      {
+        "year": 1944,
+        "event": "A former model, she was onscreen since 1944 when she played with Humphrey Bogart in \"To Have and Have Not.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bacall,_Lauren"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Giorgio Baglivi",
+    "name_zh": null,
+    "birth_date": "1688-09-08",
+    "birth_time": "05:40",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Ragusa",
+    "birth_country": "Italy",
+    "gender": "male",
+    "occupation": [
+      "科学家"
+    ],
+    "bio": "Italian physician and scientist.",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Baglivi,_Giorgio"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Baháʼu'lláh",
+    "name_zh": null,
+    "birth_date": "1817-11-12",
+    "birth_time": "06:40",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Tehran",
+    "birth_country": "Iran",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "Persian founder of the Baháʼí Faith, a development of Babism.",
+    "notable_events": [
+      {
+        "year": 1844,
+        "event": "The son of a government minister, he had early religious interests and became a Babi convert in 1844.",
+        "event_type": "career_peak"
+      },
+      {
+        "year": 1892,
+        "event": "Baháʼu'lláh died on 29 May 1892 at age 74 under house arrest in the Mansion of Bahjí, just outside ‘Akká, Ottoman Empire",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bah%C3%A1%CA%BCu%27ll%C3%A1h"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Sharon Bailey",
+    "name_zh": null,
+    "birth_date": "1948-11-22",
+    "birth_time": "22:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Ottawa",
+    "birth_country": "Ontario (CAN)",
+    "gender": "female",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "Canadian writer who won an International Poetry Award in 1988.",
+    "notable_events": [
+      {
+        "year": 1988,
+        "event": "Canadian writer who won an International Poetry Award in 1988.",
+        "event_type": "award"
+      },
+      {
+        "year": 2016,
+        "event": "Her 2016 memoir Given Up tells her life story across six decades, including her adoption at six weeks of age and how she",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bailey,_Sharon"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Danny Baker",
+    "name_zh": null,
+    "birth_date": "1957-06-22",
+    "birth_time": "09:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Deptford",
+    "birth_country": "England",
+    "gender": "male",
+    "occupation": [
+      "演员",
+      "作家"
+    ],
+    "bio": "English comedy writer, journalist, radio DJ and screenwriter.",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Baker,_Danny"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Douglas M. Baker",
+    "name_zh": null,
+    "birth_date": "1922-12-31",
+    "birth_time": "23:55",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "London",
+    "birth_country": "England",
+    "gender": "male",
+    "occupation": [
+      "科学家",
+      "作家"
+    ],
+    "bio": "British astrologer and occultist, a prolific writer of books based on the Alice ",
+    "notable_events": [
+      {
+        "year": 1964,
+        "event": "Raised in South Africa, he graduated in the arts before returning to the UK to study medicine at Sheffield University, g",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Baker,_Douglas_M."
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
   }
 ]
