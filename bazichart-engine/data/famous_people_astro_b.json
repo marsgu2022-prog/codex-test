@@ -3092,5 +3092,56 @@
     ],
     "data_quality_score": 0.72,
     "rodden_rating": "B"
+  },
+  {
+    "name_en": "Senta Berger",
+    "name_zh": null,
+    "birth_date": "1941-05-13",
+    "birth_time": "07:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Vienna",
+    "birth_country": "Austria",
+    "gender": "female",
+    "occupation": [
+      "演员",
+      "作家"
+    ],
+    "bio": "Austrian film, stage and television actress, producer and author living in Germa",
+    "notable_events": [
+      {
+        "year": 2006,
+        "event": "In the spring of 2006, Berger's autobiography was published in Germany, Ich habe ja gewußt, daß ich fliegen kann (\"I Kne",
+        "event_type": "career_peak"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Berger,_Senta"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Ingmar Bergman",
+    "name_zh": null,
+    "birth_date": "1918-07-14",
+    "birth_time": "00:15",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Uppsala",
+    "birth_country": "Sweden",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "演员",
+      "作家"
+    ],
+    "bio": "Swedish film director, a prestigiously productive and creative artist whose lens",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bergman,_Ingmar"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
   }
 ]

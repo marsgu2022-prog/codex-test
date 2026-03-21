@@ -453,5 +453,25 @@
     "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Belmondo,_Paul",
     "stage": "detail",
     "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Belmondo,_Paul&action=raw (Caused by NewConnectionError(\"HTTPSConnection(host='www.astro.com', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Special:AllPages&from=Benzi%2C+Roberto",
+    "stage": "index",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Special:AllPages&from=Benzi%2C+Roberto (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [Errno 1] Operation not permitted\")))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Special:AllPages&from=Benzi%2C+Roberto",
+    "stage": "index",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Special:AllPages&from=Benzi%2C+Roberto (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.astro.com', port=443) at 0x104f59450>, 'Connection to www.astro.com timed out. (connect timeout=30)'))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Special:AllPages&from=Benzi%2C+Roberto",
+    "stage": "index",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Special:AllPages&from=Benzi%2C+Roberto (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.astro.com', port=443) at 0x10461d6d0>, 'Connection to www.astro.com timed out. (connect timeout=10)'))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Special:AllPages&from=Benzi%2C+Roberto",
+    "stage": "index",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Special:AllPages&from=Benzi%2C+Roberto (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=12334): Failed to establish a new connection: [Errno 1] Operation not permitted\")))"
   }
 ]
