@@ -26,7 +26,9 @@ BASE_URL = "https://www.astro.com"
 ALL_PAGES_URL = f"{BASE_URL}/wiki/astro-databank/index.php?title=Special:AllPages&from=A"
 USER_AGENT = "bazichart-engine/1.0 (astro databank crawler)"
 REQUEST_INTERVAL_SECONDS = 1.05
-REQUEST_MAX_RETRIES = 3
+REQUEST_MAX_RETRIES = 5
+REQUEST_CONNECT_TIMEOUT_SECONDS = 10
+REQUEST_READ_TIMEOUT_SECONDS = 30
 BACKOFF_SECONDS = 300
 
 ALLOWED_RATINGS = {"AA", "A", "B"}
@@ -77,7 +79,11 @@ def load_country_map(path: Path) -> dict[str, str]:
 
 def make_session() -> requests.Session:
     session = requests.Session()
-    session.headers.update({"User-Agent": USER_AGENT, "Accept-Language": "en-US,en;q=0.9"})
+    session.headers.update({
+        "User-Agent": USER_AGENT,
+        "Accept-Language": "en-US,en;q=0.9",
+        "Connection": "close",
+    })
     return session
 
 
@@ -85,14 +91,17 @@ def fetch_text(session: requests.Session, url: str, request_interval: float) -> 
     last_error: Exception | None = None
     for attempt in range(1, REQUEST_MAX_RETRIES + 1):
         try:
-            response = session.get(url, timeout=30)
+            response = session.get(
+                url,
+                timeout=(REQUEST_CONNECT_TIMEOUT_SECONDS, REQUEST_READ_TIMEOUT_SECONDS),
+            )
             response.raise_for_status()
             time.sleep(request_interval)
             return response.text
         except Exception as exc:
             last_error = exc
             if attempt < REQUEST_MAX_RETRIES:
-                time.sleep(min(attempt * 2, 6))
+                time.sleep(min(attempt * 3, 12))
     assert last_error is not None
     raise last_error
 

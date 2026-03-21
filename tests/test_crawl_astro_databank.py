@@ -1,6 +1,9 @@
 from importlib.util import module_from_spec, spec_from_file_location
 from pathlib import Path
 import sys
+from unittest.mock import Mock
+
+import requests
 
 
 MODULE_PATH = Path(__file__).resolve().parents[1] / "bazichart-engine" / "scripts" / "crawl_astro_databank.py"
@@ -84,3 +87,25 @@ def test_parse_person_builds_expected_record():
 def test_is_target_page_filters_accident_pages():
     assert MODULE.is_target_page({"title": "2023 Plane crash Nepal", "href": "x"}) is False
     assert MODULE.is_target_page({"title": "Jobs, Steve", "href": "x"}) is True
+
+
+def test_fetch_text_retries_until_success():
+    response = Mock()
+    response.raise_for_status.return_value = None
+    response.text = "ok"
+
+    session = Mock()
+    session.get.side_effect = [
+        requests.exceptions.ConnectTimeout("timeout"),
+        response,
+    ]
+
+    original_sleep = MODULE.time.sleep
+    MODULE.time.sleep = lambda *_args, **_kwargs: None
+    try:
+        text = MODULE.fetch_text(session, "https://example.com", 0)
+    finally:
+        MODULE.time.sleep = original_sleep
+
+    assert text == "ok"
+    assert session.get.call_count == 2
