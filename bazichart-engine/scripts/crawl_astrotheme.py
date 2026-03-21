@@ -17,6 +17,7 @@ SCRIPT_DIR = Path(__file__).resolve().parent
 DATA_DIR = SCRIPT_DIR.parent / "data"
 DEFAULT_OUTPUT = DATA_DIR / "famous_people_astrotheme.json"
 DEFAULT_ERRORS = DATA_DIR / "crawl_errors_astrotheme.json"
+DEFAULT_STATE = DATA_DIR / "astrotheme_crawl_state.json"
 
 BASE_URL = "https://www.astrotheme.com"
 SEARCH_URL = f"{BASE_URL}/celestar/horoscope_celebrity_search_by_filters.php"
@@ -40,6 +41,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--request-interval", type=float, default=REQUEST_INTERVAL_SECONDS)
     parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT)
     parser.add_argument("--errors-output", type=Path, default=DEFAULT_ERRORS)
+    parser.add_argument("--state-output", type=Path, default=DEFAULT_STATE)
     return parser.parse_args()
 
 
@@ -278,18 +280,49 @@ def write_json(path: Path, payload: Any) -> None:
         handle.write("\n")
 
 
-def crawl(session: requests.Session, max_pages_per_category: int, max_records: int, request_interval: float) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
+def load_state(path: Path) -> dict[str, Any]:
+    if not path.exists():
+        return {"category_index": 0, "next_url": None}
+    with path.open("r", encoding="utf-8") as handle:
+        payload = json.load(handle)
+    if not isinstance(payload, dict):
+        return {"category_index": 0, "next_url": None}
+    return {
+        "category_index": int(payload.get("category_index", 0) or 0),
+        "next_url": payload.get("next_url"),
+        "updated_at": payload.get("updated_at"),
+    }
+
+
+def write_state(path: Path, state: dict[str, Any]) -> None:
+    write_json(path, state)
+
+
+def crawl(
+    session: requests.Session,
+    max_pages_per_category: int,
+    max_records: int,
+    request_interval: float,
+    state: dict[str, Any] | None = None,
+) -> tuple[list[dict[str, Any]], list[dict[str, Any]], dict[str, Any]]:
     people: list[dict[str, Any]] = []
     errors: list[dict[str, Any]] = []
     seen_urls: set[str] = set()
+    categories = list(CATEGORY_PAYLOADS.items())
+    runtime_state = state or {"category_index": 0, "next_url": None}
+    start_index = max(0, min(int(runtime_state.get("category_index", 0) or 0), len(categories)))
 
-    for category_key, category_payload in CATEGORY_PAYLOADS.items():
+    for category_index in range(start_index, len(categories)):
         if len(people) >= max_records:
             break
+        category_key, category_payload = categories[category_index]
         current_html = None
-        next_url = None
+        next_url = runtime_state.get("next_url") if category_index == start_index else None
         try:
-            current_html = fetch(session, SEARCH_URL, data=build_search_payload(category_payload), request_interval=request_interval)
+            if next_url:
+                current_html = fetch(session, next_url, request_interval=request_interval)
+            else:
+                current_html = fetch(session, SEARCH_URL, data=build_search_payload(category_payload), request_interval=request_interval)
         except Exception as exc:
             errors.append({"source": "astrotheme", "stage": "search", "category": category_key, "url": SEARCH_URL, "error": str(exc)})
             continue
@@ -313,6 +346,10 @@ def crawl(session: requests.Session, max_pages_per_category: int, max_records: i
                 except Exception as exc:
                     errors.append({"source": "astrotheme", "stage": "detail", "category": category_key, "url": detail_url, "error": str(exc)})
 
+            runtime_state = {
+                "category_index": category_index,
+                "next_url": next_url,
+            }
             if not next_url or page_no >= max_pages_per_category:
                 break
             try:
@@ -321,7 +358,14 @@ def crawl(session: requests.Session, max_pages_per_category: int, max_records: i
                 errors.append({"source": "astrotheme", "stage": "page", "category": category_key, "url": next_url, "error": str(exc)})
                 break
 
-    return people, errors
+        if not next_url:
+            runtime_state = {
+                "category_index": category_index + 1,
+                "next_url": None,
+            }
+
+    runtime_state["updated_at"] = time.strftime("%Y-%m-%dT%H:%M:%S")
+    return people, errors, runtime_state
 
 
 def main() -> None:
@@ -329,13 +373,23 @@ def main() -> None:
     session = make_session()
     existing = load_json_list(args.output)
     existing_errors = load_json_list(args.errors_output)
-    people, errors = crawl(session, args.max_pages_per_category, args.max_records, args.request_interval)
+    state = load_state(args.state_output)
+    people, errors, runtime_state = crawl(
+        session,
+        args.max_pages_per_category,
+        args.max_records,
+        args.request_interval,
+        state=state,
+    )
     merged = merge_people(existing, people)
     write_json(args.output, merged)
     write_json(args.errors_output, existing_errors + errors)
+    write_state(args.state_output, runtime_state)
     print(f"astrotheme_total={len(merged)}")
     print(f"astrotheme_added={len(people)}")
     print(f"errors_added={len(errors)}")
+    print(f"next_category_index={runtime_state.get('category_index')}")
+    print(f"next_url={runtime_state.get('next_url')}")
 
 
 if __name__ == "__main__":

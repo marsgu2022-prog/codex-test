@@ -45,3 +45,32 @@ def test_parse_person_extracts_core_fields():
     assert person["birth_country"] == "United States"
     assert person["occupation"] == ["演员", "企业家"]
     assert person["notable_events"][0]["year"] == 2020
+
+
+def test_crawl_can_resume_from_saved_state(monkeypatch):
+    responses = {
+        "https://resume.example/page2": """
+<a href="https://www.astrotheme.com/astrology/Resume_Person">Resume Person Display his detailed birth chart</a>
+<a href="https://www.astrotheme.com/celestar/horoscope_celebrity_search_by_filters.php?page=3">Next</a>
+""",
+        "https://www.astrotheme.com/astrology/Resume_Person": SAMPLE_DETAIL.replace("Brad Pitt", "Resume Person"),
+    }
+
+    def fake_fetch(session, url, *, data=None, request_interval):
+        if data is not None:
+            raise AssertionError("续抓时不应重新发起分类搜索")
+        return responses[url]
+
+    monkeypatch.setattr(MODULE, "fetch", fake_fetch)
+    people, errors, runtime_state = MODULE.crawl(
+        session=None,
+        max_pages_per_category=1,
+        max_records=1,
+        request_interval=0,
+        state={"category_index": 0, "next_url": "https://resume.example/page2"},
+    )
+
+    assert not errors
+    assert [item["name_en"] for item in people] == ["Resume Person"]
+    assert runtime_state["category_index"] == 0
+    assert runtime_state["next_url"].endswith("page=3")
