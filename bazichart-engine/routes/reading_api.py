@@ -42,13 +42,19 @@ async def free_reading(payload: FreeReadingRequest, request: Request):
             sys.path.insert(0, str(BASE_DIR / "src"))
 
         # 城市经纬度查询
-        from city_lookup import lookup_location
+        try:
+            from city_lookup import lookup_location
+        except ImportError:
+            raise HTTPException(status_code=503, detail="SERVICE_UNAVAILABLE")
         location = lookup_location(payload.province, payload.city, payload.county)
         latitude = location["lat"] if location else 39.9
         longitude = location["lng"] if location else 116.4
 
         # 真太阳时校正
-        from solar_time_enhanced import calculate_true_solar_time, hour_float_to_dizhi
+        try:
+            from solar_time_enhanced import calculate_true_solar_time, hour_float_to_dizhi
+        except ImportError:
+            raise HTTPException(status_code=503, detail="SERVICE_UNAVAILABLE")
         true_solar_info = None
         actual_hour = payload.hour
         if payload.hour is not None:
@@ -62,7 +68,10 @@ async def free_reading(payload: FreeReadingRequest, request: Request):
             actual_hour = int(h) + int(m) / 60 + int(s) / 3600
 
         # 调用现有解读引擎
-        from ai_interpreter import get_full_reading
+        try:
+            from ai_interpreter import get_full_reading
+        except ImportError:
+            raise HTTPException(status_code=503, detail="SERVICE_UNAVAILABLE")
         reading_result = get_full_reading(
             year=payload.year,
             month=payload.month,
@@ -113,11 +122,14 @@ async def get_provinces(country: str):
     """获取省份列表"""
     if country != "CN":
         return []
+    import sys
+    if str(BASE_DIR / "src") not in sys.path:
+        sys.path.insert(0, str(BASE_DIR / "src"))
     try:
-        import sys
-        if str(BASE_DIR / "src") not in sys.path:
-            sys.path.insert(0, str(BASE_DIR / "src"))
         from city_lookup import get_provinces
+    except ImportError:
+        raise HTTPException(status_code=503, detail="SERVICE_UNAVAILABLE")
+    try:
         return get_provinces()
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
@@ -126,11 +138,14 @@ async def get_provinces(country: str):
 @router.get("/cities/{country}/{province}")
 async def get_cities(country: str, province: str):
     """获取城市列表"""
+    import sys
+    if str(BASE_DIR / "src") not in sys.path:
+        sys.path.insert(0, str(BASE_DIR / "src"))
     try:
-        import sys
-        if str(BASE_DIR / "src") not in sys.path:
-            sys.path.insert(0, str(BASE_DIR / "src"))
         from city_lookup import get_cities
+    except ImportError:
+        raise HTTPException(status_code=503, detail="SERVICE_UNAVAILABLE")
+    try:
         return get_cities(province)
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
@@ -139,11 +154,14 @@ async def get_cities(country: str, province: str):
 @router.get("/cities/{country}/{province}/{city}")
 async def get_counties(country: str, province: str, city: str):
     """获取区县列表并返回经纬度"""
+    import sys
+    if str(BASE_DIR / "src") not in sys.path:
+        sys.path.insert(0, str(BASE_DIR / "src"))
     try:
-        import sys
-        if str(BASE_DIR / "src") not in sys.path:
-            sys.path.insert(0, str(BASE_DIR / "src"))
         from city_lookup import get_counties, lookup_location
+    except ImportError:
+        raise HTTPException(status_code=503, detail="SERVICE_UNAVAILABLE")
+    try:
         counties = get_counties(province, city)
         location = lookup_location(province, city)
         return {
