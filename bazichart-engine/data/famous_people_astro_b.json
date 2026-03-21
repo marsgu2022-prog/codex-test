@@ -2217,5 +2217,225 @@
     ],
     "data_quality_score": 0.72,
     "rodden_rating": "B"
+  },
+  {
+    "name_en": "Rui Barbosa",
+    "name_zh": null,
+    "birth_date": "1849-11-05",
+    "birth_time": "12:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Salvador (Bahia)",
+    "birth_country": "Brazil",
+    "gender": "male",
+    "occupation": [
+      "政治家",
+      "作家"
+    ],
+    "bio": "Brazilian writer, jurist, and politician.",
+    "notable_events": [
+      {
+        "year": 1910,
+        "event": "He ran unsuccessfully for the Presidency of Brazil in 1910 and again in 1919.",
+        "event_type": "other"
+      },
+      {
+        "year": 1919,
+        "event": "He ran unsuccessfully for the Presidency of Brazil in 1910 and again in 1919.",
+        "event_type": "other"
+      },
+      {
+        "year": 1923,
+        "event": "Barbosa died in Petrópolis, near Rio de Janeiro on March 1, 1923.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barbosa,_Rui"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Alben Barkly",
+    "name_zh": null,
+    "birth_date": "1877-11-24",
+    "birth_time": "03:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Wheel",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "政治家",
+      "作家"
+    ],
+    "bio": "American public servant for 47 years who went from being a country attorney in 1",
+    "notable_events": [
+      {
+        "year": 1905,
+        "event": "American public servant for 47 years who went from being a country attorney in 1905 to national politics in seven years.",
+        "event_type": "other"
+      },
+      {
+        "year": 1912,
+        "event": "House in 1912 and served for 14 years.",
+        "event_type": "other"
+      },
+      {
+        "year": 1926,
+        "event": "In 1926, he was elected to the Senate, where he became the Majority Leader.",
+        "event_type": "career_peak"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barkly,_Alben"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Domingo Barnes Salinas",
+    "name_zh": null,
+    "birth_date": "1879-03-09",
+    "birth_time": "19:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Sevilla",
+    "birth_country": "Spain",
+    "gender": "male",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "Spanish politician and educator, he was minister of education and fine arts duri",
+    "notable_events": [
+      {
+        "year": 1940,
+        "event": "Spanish politician and educator, he was minister of education and fine arts during the second Spanish Republic. He died ",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barnes_Salinas,_Domingo"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Natalie Clifford Barney",
+    "name_zh": null,
+    "birth_date": "1876-10-31",
+    "birth_time": "09:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Dayton",
+    "birth_country": "United States",
+    "gender": "female",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "American playwright, poet and novelist who lived as an expatriate in Paris.",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barney,_Natalie_Clifford"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Steven Barnham",
+    "name_zh": null,
+    "birth_date": "1549-07-21",
+    "birth_time": "22:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "London",
+    "birth_country": "England",
+    "gender": "male",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "English subject of one of the earliest family portraits of English origins.",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barnham,_Steven"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Barbara Barondess",
+    "name_zh": null,
+    "birth_date": "1907-07-04",
+    "birth_time": "00:10",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Brooklyn (Kings County)",
+    "birth_country": "United States",
+    "gender": "female",
+    "occupation": [
+      "演员",
+      "作家"
+    ],
+    "bio": "American actress, interior designer and costume designer known for her acting wo",
+    "notable_events": [
+      {
+        "year": 1933,
+        "event": "American actress, interior designer and costume designer known for her acting work in Hold Your Man (1933), Unknown Blon",
+        "event_type": "other"
+      },
+      {
+        "year": 1934,
+        "event": "American actress, interior designer and costume designer known for her acting work in Hold Your Man (1933), Unknown Blon",
+        "event_type": "other"
+      },
+      {
+        "year": 2000,
+        "event": "She died on 31 May 2000.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barondess,_Barbara"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Amelia Barr",
+    "name_zh": null,
+    "birth_date": "1831-03-29",
+    "birth_time": "02:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Ulverston",
+    "birth_country": "England",
+    "gender": "female",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "British-American writer, she authored 30 novels in addition to her autobiography",
+    "notable_events": [
+      {
+        "year": 1913,
+        "event": "British-American writer, she authored 30 novels in addition to her autobiography in 1913.",
+        "event_type": "other"
+      },
+      {
+        "year": 1850,
+        "event": "She married Robert Barr on July 11, 1850 and together they emigrated to the US a few years later, settling in Texas.",
+        "event_type": "marriage"
+      },
+      {
+        "year": 1867,
+        "event": "The couple had nine children but only six were alive in 1867 when yellow fever struck her family.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Barr,_Amelia"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
   }
 ]
