@@ -1,0 +1,234 @@
+{
+  "generated_at": "2026-03-15 18:15:09",
+  "total_records": 22,
+  "categories": {
+    "concept": 3,
+    "practice": 2,
+    "classic": 1,
+    "book": 4,
+    "reference": 12
+  },
+  "requested_seed_count": 15,
+  "succeeded_topics": 22,
+  "skipped_topics": 5,
+  "include_categories": true,
+  "category_limit": 3,
+  "failed_requests": 29,
+  "failure_summary": {
+    "by_stage": {
+      "summary": 24,
+      "record": 5
+    },
+    "by_language": {
+      "en": 8,
+      "zh": 16,
+      "multi": 5
+    }
+  },
+  "failures": [
+    {
+      "stage": "summary",
+      "language": "en",
+      "target": "San Ming Tong Hui",
+      "message": "404 Client Error: Not Found for url: https://en.wikipedia.org/api/rest_v1/page/summary/San%20Ming%20Tong%20Hui"
+    },
+    {
+      "stage": "summary",
+      "language": "zh",
+      "target": "滴天髓",
+      "message": "404 Client Error: Not Found for url: https://zh.wikipedia.org/api/rest_v1/page/summary/%E6%BB%B4%E5%A4%A9%E9%AB%93"
+    },
+    {
+      "stage": "summary",
+      "language": "en",
+      "target": "Di Tian Sui",
+      "message": "404 Client Error: Not Found for url: https://en.wikipedia.org/api/rest_v1/page/summary/Di%20Tian%20Sui"
+    },
+    {
+      "stage": "record",
+      "language": "multi",
+      "target": "di_tian_sui",
+      "message": "zh/en 页面均抓取失败，已跳过该主题。"
+    },
+    {
+      "stage": "summary",
+      "language": "en",
+      "target": "Zi Ping Zhen Quan",
+      "message": "404 Client Error: Not Found for url: https://en.wikipedia.org/api/rest_v1/page/summary/Zi%20Ping%20Zhen%20Quan"
+    },
+    {
+      "stage": "summary",
+      "language": "en",
+      "target": "Qiong Tong Bao Jian",
+      "message": "404 Client Error: Not Found for url: https://en.wikipedia.org/api/rest_v1/page/summary/Qiong%20Tong%20Bao%20Jian"
+    },
+    {
+      "stage": "summary",
+      "language": "zh",
+      "target": "紫微斗数全书",
+      "message": "500 Server Error: Internal Server Error for url: https://zh.wikipedia.org/api/rest_v1/page/summary/%E7%B4%AB%E5%BE%AE%E6%96%97%E6%95%B0%E5%85%A8%E4%B9%A6"
+    },
+    {
+      "stage": "summary",
+      "language": "en",
+      "target": "Complete Book of Zi Wei Dou Shu",
+      "message": "404 Client Error: Not Found for url: https://en.wikipedia.org/api/rest_v1/page/summary/Complete%20Book%20of%20Zi%20Wei%20Dou%20Shu"
+    },
+    {
+      "stage": "record",
+      "language": "multi",
+      "target": "ziwei_doushu_quanshu",
+      "message": "zh/en 页面均抓取失败，已跳过该主题。"
+    },
+    {
+      "stage": "summary",
+      "language": "zh",
+      "target": "紫微斗数命盘",
+      "message": "404 Client Error: Not Found for url: https://zh.wikipedia.org/api/rest_v1/page/summary/%E7%B4%AB%E5%BE%AE%E6%96%97%E6%95%B0%E5%91%BD%E7%9B%98"
+    },
+    {
+      "stage": "summary",
+      "language": "en",
+      "target": "Zi Wei Dou Shu Natal Chart",
+      "message": "404 Client Error: Not Found for url: https://en.wikipedia.org/api/rest_v1/page/summary/Zi%20Wei%20Dou%20Shu%20Natal%20Chart"
+    },
+    {
+      "stage": "record",
+      "language": "multi",
+      "target": "ziwei_doushu_mingpan",
+      "message": "zh/en 页面均抓取失败，已跳过该主题。"
+    },
+    {
+      "stage": "summary",
+      "language": "zh",
+      "target": "倪海厦天纪",
+      "message": "404 Client Error: Not Found for url: https://zh.wikipedia.org/api/rest_v1/page/summary/%E5%80%AA%E6%B5%B7%E5%8E%A6%E5%A4%A9%E7%BA%AA"
+    },
+    {
+      "stage": "summary",
+      "language": "en",
+      "target": "Ni Haixia Tian Ji",
+      "message": "404 Client Error: Not Found for url: https://en.wikipedia.org/api/rest_v1/page/summary/Ni%20Haixia%20Tian%20Ji"
+    },
+    {
+      "stage": "record",
+      "language": "multi",
+      "target": "ni_haixia_tianji",
+      "message": "zh/en 页面均抓取失败，已跳过该主题。"
+    },
+    {
+      "stage": "summary",
+      "language": "zh",
+      "target": "倪海厦人纪",
+      "message": "404 Client Error: Not Found for url: https://zh.wikipedia.org/api/rest_v1/page/summary/%E5%80%AA%E6%B5%B7%E5%8E%A6%E4%BA%BA%E7%BA%AA"
+    },
+    {
+      "stage": "summary",
+      "language": "en",
+      "target": "Ni Haixia Ren Ji",
+      "message": "404 Client Error: Not Found for url: https://en.wikipedia.org/api/rest_v1/page/summary/Ni%20Haixia%20Ren%20Ji"
+    },
+    {
+      "stage": "record",
+      "language": "multi",
+      "target": "ni_haixia_renji",
+      "message": "zh/en 页面均抓取失败，已跳过该主题。"
+    },
+    {
+      "stage": "summary",
+      "language": "zh",
+      "target": "Feng shui",
+      "message": "404 Client Error: Not Found for url: https://zh.wikipedia.org/api/rest_v1/page/summary/Feng%20shui"
+    },
+    {
+      "stage": "summary",
+      "language": "zh",
+      "target": "Book of Burial",
+      "message": "404 Client Error: Not Found for url: https://zh.wikipedia.org/api/rest_v1/page/summary/Book%20of%20Burial"
+    },
+    {
+      "stage": "summary",
+      "language": "zh",
+      "target": "Cash coins in feng shui",
+      "message": "404 Client Error: Not Found for url: https://zh.wikipedia.org/api/rest_v1/page/summary/Cash%20coins%20in%20feng%20shui"
+    },
+    {
+      "stage": "summary",
+      "language": "zh",
+      "target": "Chinese astrology",
+      "message": "404 Client Error: Not Found for url: https://zh.wikipedia.org/api/rest_v1/page/summary/Chinese%20astrology"
+    },
+    {
+      "stage": "summary",
+      "language": "zh",
+      "target": "Bugang",
+      "message": "404 Client Error: Not Found for url: https://zh.wikipedia.org/api/rest_v1/page/summary/Bugang"
+    },
+    {
+      "stage": "summary",
+      "language": "zh",
+      "target": "Chinese zodiac",
+      "message": "404 Client Error: Not Found for url: https://zh.wikipedia.org/api/rest_v1/page/summary/Chinese%20zodiac"
+    },
+    {
+      "stage": "summary",
+      "language": "zh",
+      "target": "I Ching",
+      "message": "404 Client Error: Not Found for url: https://zh.wikipedia.org/api/rest_v1/page/summary/I%20Ching"
+    },
+    {
+      "stage": "summary",
+      "language": "zh",
+      "target": "Bagua",
+      "message": "404 Client Error: Not Found for url: https://zh.wikipedia.org/api/rest_v1/page/summary/Bagua"
+    },
+    {
+      "stage": "summary",
+      "language": "zh",
+      "target": "Divination",
+      "message": "404 Client Error: Not Found for url: https://zh.wikipedia.org/api/rest_v1/page/summary/Divination"
+    },
+    {
+      "stage": "summary",
+      "language": "zh",
+      "target": "Methods of divination",
+      "message": "404 Client Error: Not Found for url: https://zh.wikipedia.org/api/rest_v1/page/summary/Methods%20of%20divination"
+    },
+    {
+      "stage": "summary",
+      "language": "zh",
+      "target": "Abacomancy",
+      "message": "404 Client Error: Not Found for url: https://zh.wikipedia.org/api/rest_v1/page/summary/Abacomancy"
+    }
+  ],
+  "seed_keys": [
+    "bazi",
+    "feng_shui",
+    "ziwei_doushu",
+    "kanyu",
+    "yijing",
+    "yinyang_wuxing",
+    "yuan_hai_zi_ping",
+    "san_ming_tong_hui",
+    "zi_ping_zhen_quan",
+    "qiong_tong_bao_jian",
+    "en_feng_shui",
+    "en_book_of_burial",
+    "en_cash_coins_in_feng_shui",
+    "en_chinese_astrology",
+    "en_bugang",
+    "en_chinese_zodiac",
+    "en_i_ching",
+    "en_bagua",
+    "en_joachim_bouvet",
+    "en_divination",
+    "en_methods_of_divination",
+    "en_abacomancy"
+  ],
+  "case_count": 3,
+  "case_types": {
+    "bazi": 1,
+    "ziwei": 1,
+    "fengshui": 1
+  }
+}

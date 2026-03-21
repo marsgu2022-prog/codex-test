@@ -1,0 +1,90 @@
+{
+  "topics": [],
+  "cases": [
+    {
+      "case_id": "bazi-sample-001",
+      "case_type": "bazi",
+      "title_zh_hans": "八字案例占位样本",
+      "title_zh_hant": "八字案例佔位樣本",
+      "title_en": "Bazi sample case",
+      "summary_zh_hans": "用于后续接入真实八字验证案例的占位记录。",
+      "summary_zh_hant": "用於後續接入真實八字驗證案例的佔位記錄。",
+      "summary_en": "Placeholder record for future verified bazi cases.",
+      "source_url": "https://zh.wikipedia.org/wiki/八字",
+      "source_type": "wikipedia_seed",
+      "source_priority": 1,
+      "quality_tier": "A",
+      "evidence_level": "C",
+      "tags": [
+        "八字",
+        "案例",
+        "命理"
+      ],
+      "events": [],
+      "verification_notes": "TODO: 接入真实可验证出生与事件时间线。",
+      "birth_date": null,
+      "birth_time": null,
+      "birth_city": null,
+      "gender": null,
+      "pillars": {},
+      "day_master": null,
+      "major_structure": null
+    },
+    {
+      "case_id": "ziwei-sample-001",
+      "case_type": "ziwei",
+      "title_zh_hans": "紫微斗数案例占位样本",
+      "title_zh_hant": "紫微斗數案例佔位樣本",
+      "title_en": "Ziwei sample case",
+      "summary_zh_hans": "用于后续接入真实紫微斗数命例的占位记录。",
+      "summary_zh_hant": "用於後續接入真實紫微斗數命例的佔位記錄。",
+      "summary_en": "Placeholder record for future verified ziwei cases.",
+      "source_url": "https://zh.wikipedia.org/wiki/紫微斗数",
+      "source_type": "wikipedia_seed",
+      "source_priority": 1,
+      "quality_tier": "A",
+      "evidence_level": "C",
+      "tags": [
+        "紫微斗数",
+        "案例",
+        "命盘"
+      ],
+      "events": [],
+      "verification_notes": "TODO: 接入宫位、星曜与人生事件对应案例。",
+      "birth_date": null,
+      "birth_time": null,
+      "birth_city": null,
+      "gender": null,
+      "pillars": {},
+      "day_master": null,
+      "major_structure": null
+    },
+    {
+      "case_id": "fengshui-sample-001",
+      "case_type": "fengshui",
+      "title_zh_hans": "风水案例占位样本",
+      "title_zh_hant": "風水案例佔位樣本",
+      "title_en": "Feng shui sample case",
+      "summary_zh_hans": "用于后续接入真实风水调整前后反馈案例的占位记录。",
+      "summary_zh_hant": "用於後續接入真實風水調整前後反饋案例的佔位記錄。",
+      "summary_en": "Placeholder record for future verified feng shui cases.",
+      "source_url": "https://zh.wikipedia.org/wiki/风水",
+      "source_type": "wikipedia_seed",
+      "source_priority": 1,
+      "quality_tier": "A",
+      "evidence_level": "C",
+      "tags": [
+        "风水",
+        "案例",
+        "堪舆"
+      ],
+      "events": [],
+      "verification_notes": "TODO: 接入户型、调整动作与结果反馈。",
+      "property_type": null,
+      "layout_features": [],
+      "issue": null,
+      "adjustment": null,
+      "outcome": null
+    }
+  ]
+}

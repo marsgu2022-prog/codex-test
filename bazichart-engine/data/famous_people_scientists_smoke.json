@@ -1,0 +1,3537 @@
+[
+  {
+    "id": "Q1150151",
+    "name_zh": "安倍晴明",
+    "name_en": "Abe no Seimei",
+    "birth_date": "0921-03-03",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "日本",
+    "nationality_en": "Japan",
+    "field_zh": "占星家、天文学家、陰陽師",
+    "field_en": "astrologer, astronomer, onmyōji",
+    "summary": "Japanese onmyōji",
+    "source": {
+      "type": "wikidata",
+      "cohort": "global_extra",
+      "id": "Q1150151",
+      "url": "https://www.wikidata.org/wiki/Q1150151"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "辛巳",
+      "month": "辛卯",
+      "day": "戊申",
+      "hour": null
+    },
+    "day_pillar": "戊申",
+    "day_master": "戊",
+    "wuxing_distribution": {
+      "金": 3,
+      "木": 1,
+      "水": 0,
+      "火": 1,
+      "土": 1
+    }
+  },
+  {
+    "id": "Q714369",
+    "name_zh": "戴震",
+    "name_en": "Dai Zhen",
+    "birth_date": "1724-01-19",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "清朝、中华人民共和国",
+    "nationality_en": "Qing dynasty, People's Republic of China",
+    "field_zh": "哲學家、數學家",
+    "field_en": "philosopher, mathematician",
+    "summary": "清代语言学家、思想家",
+    "source": {
+      "type": "wikidata",
+      "cohort": "china_like",
+      "id": "Q714369",
+      "url": "https://www.wikidata.org/wiki/Q714369"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "癸卯",
+      "month": "乙丑",
+      "day": "己巳",
+      "hour": null
+    },
+    "day_pillar": "己巳",
+    "day_master": "己",
+    "wuxing_distribution": {
+      "金": 0,
+      "木": 2,
+      "水": 1,
+      "火": 1,
+      "土": 2
+    }
+  },
+  {
+    "id": "Q11812",
+    "name_zh": "托马斯·杰斐逊",
+    "name_en": "Thomas Jefferson",
+    "birth_date": "1743-04-13",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "美國",
+    "nationality_en": "United States",
+    "field_zh": "教师、密碼學家、建筑师、律師、作家、外交官、政治人物、哲學家、发明家、种植园主、政治家、考古学家、法学家、古生物學家",
+    "field_en": "teacher, cryptographer, architect, lawyer, writer, diplomat, politician, philosopher, inventor, planter class, statesperson, archaeologist, jurist, paleontologist",
+    "summary": "美國第3任總統",
+    "source": {
+      "type": "wikidata",
+      "cohort": "western",
+      "id": "Q11812",
+      "url": "https://www.wikidata.org/wiki/Q11812"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "癸亥",
+      "month": "丙辰",
+      "day": "癸酉",
+      "hour": null
+    },
+    "day_pillar": "癸酉",
+    "day_master": "癸",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 0,
+      "水": 3,
+      "火": 1,
+      "土": 1
+    }
+  },
+  {
+    "id": "Q8743",
+    "name_zh": "托马斯·爱迪生",
+    "name_en": "Thomas Edison",
+    "birth_date": "1847-02-11",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "美國",
+    "nationality_en": "United States",
+    "field_zh": "工程师、发明家、企业家、商人、物理学家、數學家、編劇、電影導演、电影制片人",
+    "field_en": "engineer, inventor, entrepreneur, businessperson, physicist, mathematician, screenwriter, film director, film producer",
+    "summary": "美國科學家、企業家、發明家、工程師（Thomas Edison，1847—1931）",
+    "source": {
+      "type": "wikidata",
+      "cohort": "western",
+      "id": "Q8743",
+      "url": "https://www.wikidata.org/wiki/Q8743"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "丁未",
+      "month": "壬寅",
+      "day": "丁丑",
+      "hour": null
+    },
+    "day_pillar": "丁丑",
+    "day_master": "丁",
+    "wuxing_distribution": {
+      "金": 0,
+      "木": 1,
+      "水": 1,
+      "火": 2,
+      "土": 2
+    }
+  },
+  {
+    "id": "Q34286",
+    "name_zh": "亚历山大·格雷厄姆·贝尔",
+    "name_en": "Alexander Graham Bell",
+    "birth_date": "1847-03-03",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "美國、大不列颠及爱尔兰联合王国",
+    "nationality_en": "United States, United Kingdom of Great Britain and Ireland",
+    "field_zh": "物理学家、电气工程师、工程师、商人、发明家、教授",
+    "field_en": "physicist, electrical engineer, engineer, businessperson, inventor, professor",
+    "summary": "以關於電話的工作而聞名的科學家和發明家",
+    "source": {
+      "type": "wikidata",
+      "cohort": "western",
+      "id": "Q34286",
+      "url": "https://www.wikidata.org/wiki/Q34286"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "丁未",
+      "month": "壬寅",
+      "day": "丁酉",
+      "hour": null
+    },
+    "day_pillar": "丁酉",
+    "day_master": "丁",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 1,
+      "水": 1,
+      "火": 2,
+      "土": 1
+    }
+  },
+  {
+    "id": "Q442225",
+    "name_zh": "北里柴三郎",
+    "name_en": "Kitasato Shibasaburō",
+    "birth_date": "1853-01-29",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "日本",
+    "nationality_en": "Japan",
+    "field_zh": "生物学家、教授、医生、细菌学家、政治人物、免疫学家",
+    "field_en": "biologist, professor, physician, bacteriologist, politician, immunologist",
+    "summary": "日本醫生",
+    "source": {
+      "type": "wikidata",
+      "cohort": "global_extra",
+      "id": "Q442225",
+      "url": "https://www.wikidata.org/wiki/Q442225"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "壬子",
+      "month": "癸丑",
+      "day": "丙申",
+      "hour": null
+    },
+    "day_pillar": "丙申",
+    "day_master": "丙",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 0,
+      "水": 3,
+      "火": 1,
+      "土": 1
+    }
+  },
+  {
+    "id": "Q9036",
+    "name_zh": "尼古拉·特斯拉",
+    "name_en": "Nikola Tesla",
+    "birth_date": "1856-07-10",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "奧地利帝國、聖史蒂芬王冠領、美國、克羅地亞",
+    "nationality_en": "Austrian Empire, Lands of the Crown of Saint Stephen, United States, Croatia",
+    "field_zh": "发明家、电气工程师、物理学家、電工、机械工程师、未来学家",
+    "field_en": "inventor, electrical engineer, physicist, electrician, mechanical engineer, futurist",
+    "summary": "美籍塞尔维亚族发明家、机械工程师、电机工程师、未来学家、实验物理学家",
+    "source": {
+      "type": "wikidata",
+      "cohort": "western",
+      "id": "Q9036",
+      "url": "https://www.wikidata.org/wiki/Q9036"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "丙辰",
+      "month": "乙未",
+      "day": "甲午",
+      "hour": null
+    },
+    "day_pillar": "甲午",
+    "day_master": "甲",
+    "wuxing_distribution": {
+      "金": 0,
+      "木": 2,
+      "水": 0,
+      "火": 2,
+      "土": 2
+    }
+  },
+  {
+    "id": "Q137727",
+    "name_zh": "豊田佐吉",
+    "name_en": "Sakichi Toyoda",
+    "birth_date": "1867-03-19",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "日本",
+    "nationality_en": "Japan",
+    "field_zh": "发明家、企业家、工程师、经济学家",
+    "field_en": "inventor, entrepreneur, engineer, economist",
+    "summary": "Japanese inventor and industrialist (1867–1930)",
+    "source": {
+      "type": "wikidata",
+      "cohort": "global_extra",
+      "id": "Q137727",
+      "url": "https://www.wikidata.org/wiki/Q137727"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "丁卯",
+      "month": "癸卯",
+      "day": "戊戌",
+      "hour": null
+    },
+    "day_pillar": "戊戌",
+    "day_master": "戊",
+    "wuxing_distribution": {
+      "金": 0,
+      "木": 2,
+      "水": 1,
+      "火": 1,
+      "土": 2
+    }
+  },
+  {
+    "id": "Q84405",
+    "name_zh": "卡尔·兰德施泰纳",
+    "name_en": "Karl Landsteiner",
+    "birth_date": "1868-06-14",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "奧匈帝國、美國",
+    "nationality_en": "Austria–Hungary, United States",
+    "field_zh": "生理学家、免疫学家、医生、血液学家、病理学家、生物学家、研究者、大學教師",
+    "field_en": "physiologist, immunologist, physician, hematologist, pathologist, biologist, researcher, university teacher",
+    "summary": "研究者",
+    "source": {
+      "type": "wikidata",
+      "cohort": "western",
+      "id": "Q84405",
+      "url": "https://www.wikidata.org/wiki/Q84405"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "戊辰",
+      "month": "戊午",
+      "day": "辛未",
+      "hour": null
+    },
+    "day_pillar": "辛未",
+    "day_master": "辛",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 0,
+      "水": 0,
+      "火": 1,
+      "土": 4
+    }
+  },
+  {
+    "id": "Q11900",
+    "name_zh": "平山清次",
+    "name_en": "Kiyotsugu Hirayama",
+    "birth_date": "1874-10-13",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "日本",
+    "nationality_en": "Japan",
+    "field_zh": "天文学家",
+    "field_en": "astronomer",
+    "summary": "Japanese astronomer (1874-1943)",
+    "source": {
+      "type": "wikidata",
+      "cohort": "global_extra",
+      "id": "Q11900",
+      "url": "https://www.wikidata.org/wiki/Q11900"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "甲戌",
+      "month": "甲戌",
+      "day": "癸卯",
+      "hour": null
+    },
+    "day_pillar": "癸卯",
+    "day_master": "癸",
+    "wuxing_distribution": {
+      "金": 0,
+      "木": 3,
+      "水": 1,
+      "火": 0,
+      "土": 2
+    }
+  },
+  {
+    "id": "Q937",
+    "name_zh": "阿尔伯特·爱因斯坦",
+    "name_en": "Albert Einstein",
+    "birth_date": "1879-03-14",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "符腾堡王国、無國籍、瑞士、內萊塔尼亞、魏瑪共和国、德國、美國",
+    "nationality_en": "Kingdom of Württemberg, statelessness, Switzerland, Cisleithania, Weimar Republic, Germany, United States",
+    "field_zh": "理论物理学家、科学哲学家、发明家、科普作家、教育學家、大學教師、物理学家、哲學家、作家、科學家、數學家、patent examiner、教授、和平主義者",
+    "field_en": "theoretical physicist, philosopher of science, inventor, science writer, pedagogue, university teacher, physicist, philosopher, writer, scientist, mathematician, patent examiner, professor, pacifist",
+    "summary": "猶太裔美國物理學家，相對論創立者",
+    "source": {
+      "type": "wikidata",
+      "cohort": "western",
+      "id": "Q937",
+      "url": "https://www.wikidata.org/wiki/Q937"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "己卯",
+      "month": "丁卯",
+      "day": "丙申",
+      "hour": null
+    },
+    "day_pillar": "丙申",
+    "day_master": "丙",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 2,
+      "水": 0,
+      "火": 2,
+      "土": 1
+    }
+  },
+  {
+    "id": "Q57066",
+    "name_zh": "詹姆斯·弗兰克",
+    "name_en": "James Franck",
+    "birth_date": "1882-08-26",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "汉堡、美國、魏瑪共和国",
+    "nationality_en": "Hamburg, United States, Weimar Republic",
+    "field_zh": "物理学家、大學教師、化学家",
+    "field_en": "physicist, university teacher, chemist",
+    "summary": "研究者",
+    "source": {
+      "type": "wikidata",
+      "cohort": "western",
+      "id": "Q57066",
+      "url": "https://www.wikidata.org/wiki/Q57066"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "壬午",
+      "month": "戊申",
+      "day": "丁酉",
+      "hour": null
+    },
+    "day_pillar": "丁酉",
+    "day_master": "丁",
+    "wuxing_distribution": {
+      "金": 2,
+      "木": 0,
+      "水": 1,
+      "火": 2,
+      "土": 1
+    }
+  },
+  {
+    "id": "Q1347561",
+    "name_zh": "八木秀次",
+    "name_en": "Hidetsugu Yagi",
+    "birth_date": "1886-01-28",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "日本、大日本帝國",
+    "nationality_en": "Japan, Empire of Japan",
+    "field_zh": "物理学家、大學教師、商人、政治人物、发明家、电气工程师、科學家、院長",
+    "field_en": "physicist, university teacher, businessperson, politician, inventor, electrical engineer, scientist, dean",
+    "summary": "Japanese electrical engineer (1886–1976)",
+    "source": {
+      "type": "wikidata",
+      "cohort": "global_extra",
+      "id": "Q1347561",
+      "url": "https://www.wikidata.org/wiki/Q1347561"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "乙酉",
+      "month": "己丑",
+      "day": "戊子",
+      "hour": null
+    },
+    "day_pillar": "戊子",
+    "day_master": "戊",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 1,
+      "水": 1,
+      "火": 0,
+      "土": 3
+    }
+  },
+  {
+    "id": "Q57072",
+    "name_zh": "奥托·施特恩",
+    "name_en": "Otto Stern",
+    "birth_date": "1888-02-17",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "德國、美國",
+    "nationality_en": "Germany, United States",
+    "field_zh": "物理学家、化学家、大學教師",
+    "field_en": "physicist, chemist, university teacher",
+    "summary": "German-American physicist (1888–1969)",
+    "source": {
+      "type": "wikidata",
+      "cohort": "western",
+      "id": "Q57072",
+      "url": "https://www.wikidata.org/wiki/Q57072"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "戊子",
+      "month": "甲寅",
+      "day": "戊午",
+      "hour": null
+    },
+    "day_pillar": "戊午",
+    "day_master": "戊",
+    "wuxing_distribution": {
+      "金": 0,
+      "木": 2,
+      "水": 1,
+      "火": 1,
+      "土": 2
+    }
+  },
+  {
+    "id": "Q20041459",
+    "name_zh": "辻村美千代",
+    "name_en": "Michiyo Tsujimura",
+    "birth_date": "1888-09-17",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "日本、大日本帝國",
+    "nationality_en": "Japan, Empire of Japan",
+    "field_zh": "农学家、生物化學家、科學家",
+    "field_en": "agronomist, biochemist, scientist",
+    "summary": "日本農業科學家",
+    "source": {
+      "type": "wikidata",
+      "cohort": "global_extra",
+      "id": "Q20041459",
+      "url": "https://www.wikidata.org/wiki/Q20041459"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "戊子",
+      "month": "辛酉",
+      "day": "辛卯",
+      "hour": null
+    },
+    "day_pillar": "辛卯",
+    "day_master": "辛",
+    "wuxing_distribution": {
+      "金": 3,
+      "木": 1,
+      "水": 1,
+      "火": 0,
+      "土": 1
+    }
+  },
+  {
+    "id": "Q43027",
+    "name_zh": "愛德文·哈勃",
+    "name_en": "Edwin Hubble",
+    "birth_date": "1889-11-20",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "美國",
+    "nationality_en": "United States",
+    "field_zh": "天文学家、天体物理学家、宇宙学家",
+    "field_en": "astronomer, astrophysicist, cosmologist",
+    "summary": "20世紀美國天文學家",
+    "source": {
+      "type": "wikidata",
+      "cohort": "western",
+      "id": "Q43027",
+      "url": "https://www.wikidata.org/wiki/Q43027"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "己丑",
+      "month": "乙亥",
+      "day": "庚子",
+      "hour": null
+    },
+    "day_pillar": "庚子",
+    "day_master": "庚",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 1,
+      "水": 2,
+      "火": 0,
+      "土": 2
+    }
+  },
+  {
+    "id": "Q510757",
+    "name_zh": "胡先骕",
+    "name_en": "Hu Xiansu",
+    "birth_date": "1894-05-24",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "清朝、中華民國大陸時期、中华人民共和国",
+    "nationality_en": "Qing dynasty, Republic of China, People's Republic of China",
+    "field_zh": "生物学家、植物學家、學者",
+    "field_en": "biologist, botanist, academic",
+    "summary": "中国植物学家",
+    "source": {
+      "type": "wikidata",
+      "cohort": "china_like",
+      "id": "Q510757",
+      "url": "https://www.wikidata.org/wiki/Q510757"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "甲午",
+      "month": "己巳",
+      "day": "丙寅",
+      "hour": null
+    },
+    "day_pillar": "丙寅",
+    "day_master": "丙",
+    "wuxing_distribution": {
+      "金": 0,
+      "木": 2,
+      "水": 0,
+      "火": 3,
+      "土": 1
+    }
+  },
+  {
+    "id": "Q252785",
+    "name_zh": "松下幸之助",
+    "name_en": "Kōnosuke Matsushita",
+    "birth_date": "1894-11-27",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "日本、大日本帝國",
+    "nationality_en": "Japan, Empire of Japan",
+    "field_zh": "企业家、商人、发明家、政治人物、工業家",
+    "field_en": "entrepreneur, businessperson, inventor, politician, industrialist",
+    "summary": "日本企業家, 松下創始人（1894－1989）",
+    "source": {
+      "type": "wikidata",
+      "cohort": "global_extra",
+      "id": "Q252785",
+      "url": "https://www.wikidata.org/wiki/Q252785"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "甲午",
+      "month": "乙亥",
+      "day": "癸酉",
+      "hour": null
+    },
+    "day_pillar": "癸酉",
+    "day_master": "癸",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 2,
+      "水": 2,
+      "火": 1,
+      "土": 0
+    }
+  },
+  {
+    "id": "Q102289",
+    "name_zh": "巴克敏斯特·富勒",
+    "name_en": "Buckminster Fuller",
+    "birth_date": "1895-07-12",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "美國",
+    "nationality_en": "United States",
+    "field_zh": "建筑师、发明家、作家、日记作者、大學教師、科學家、诗人、艺术家、視覺藝術家、工程师、哲學家、設計師、數學家",
+    "field_en": "architect, inventor, writer, diarist, university teacher, scientist, poet, artist, visual artist, engineer, philosopher, designer, mathematician",
+    "summary": "美國建築師，系統理論家，作家，設計師，發明家和未來學家",
+    "source": {
+      "type": "wikidata",
+      "cohort": "western",
+      "id": "Q102289",
+      "url": "https://www.wikidata.org/wiki/Q102289"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "乙未",
+      "month": "癸未",
+      "day": "庚申",
+      "hour": null
+    },
+    "day_pillar": "庚申",
+    "day_master": "庚",
+    "wuxing_distribution": {
+      "金": 2,
+      "木": 1,
+      "水": 1,
+      "火": 0,
+      "土": 2
+    }
+  },
+  {
+    "id": "Q204733",
+    "name_zh": "格蒂·科里",
+    "name_en": "Gerty Cori",
+    "birth_date": "1896-08-15",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "內萊塔尼亞、捷克斯洛伐克、美國",
+    "nationality_en": "Cisleithania, Czechoslovakia, United States",
+    "field_zh": "生物化學家、心理學家、医生、化学家、生理学家、研究者",
+    "field_en": "biochemist, psychologist, physician, chemist, physiologist, researcher",
+    "summary": "生物化学家（1896－1957）",
+    "source": {
+      "type": "wikidata",
+      "cohort": "western",
+      "id": "Q204733",
+      "url": "https://www.wikidata.org/wiki/Q204733"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "丙申",
+      "month": "丙申",
+      "day": "庚子",
+      "hour": null
+    },
+    "day_pillar": "庚子",
+    "day_master": "庚",
+    "wuxing_distribution": {
+      "金": 3,
+      "木": 0,
+      "水": 1,
+      "火": 2,
+      "土": 0
+    }
+  },
+  {
+    "id": "Q197618",
+    "name_zh": "郑集",
+    "name_en": "Zheng Ji",
+    "birth_date": "1900-05-06",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "中國、中华人民共和国",
+    "nationality_en": "China, People's Republic of China",
+    "field_zh": "化学家、生物学家、营养学家、生物化學家、大學教師",
+    "field_en": "chemist, biologist, nutritionist, biochemist, university teacher",
+    "summary": "nutritionist and biochemist",
+    "source": {
+      "type": "wikidata",
+      "cohort": "china_like",
+      "id": "Q197618",
+      "url": "https://www.wikidata.org/wiki/Q197618"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "庚子",
+      "month": "辛巳",
+      "day": "己卯",
+      "hour": null
+    },
+    "day_pillar": "己卯",
+    "day_master": "己",
+    "wuxing_distribution": {
+      "金": 2,
+      "木": 1,
+      "水": 1,
+      "火": 1,
+      "土": 1
+    }
+  },
+  {
+    "id": "Q48983",
+    "name_zh": "萊納斯·鮑林",
+    "name_en": "Linus Pauling",
+    "birth_date": "1901-02-28",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "美國",
+    "nationality_en": "United States",
+    "field_zh": "化学家、物理学家、世界语者、大學教師、生物化學家、反戰人士、晶体学家、生物物理學家、股东积极主义",
+    "field_en": "chemist, physicist, Esperantist, university teacher, biochemist, peace activist, crystallographer, biophysicist, activist shareholder",
+    "summary": "研究者",
+    "source": {
+      "type": "wikidata",
+      "cohort": "western",
+      "id": "Q48983",
+      "url": "https://www.wikidata.org/wiki/Q48983"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "辛丑",
+      "month": "庚寅",
+      "day": "丁丑",
+      "hour": null
+    },
+    "day_pillar": "丁丑",
+    "day_master": "丁",
+    "wuxing_distribution": {
+      "金": 2,
+      "木": 1,
+      "水": 0,
+      "火": 1,
+      "土": 2
+    }
+  },
+  {
+    "id": "Q8753",
+    "name_zh": "恩里科·费米",
+    "name_en": "Enrico Fermi",
+    "birth_date": "1901-09-29",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "意大利王國、意大利、美國",
+    "nationality_en": "Kingdom of Italy, Italy, United States",
+    "field_zh": "物理学家、理论物理学家、核物理学家、大學教師、发明家",
+    "field_en": "physicist, theoretical physicist, nuclear physicist, university teacher, inventor",
+    "summary": "美籍意大利裔物理學家",
+    "source": {
+      "type": "wikidata",
+      "cohort": "western",
+      "id": "Q8753",
+      "url": "https://www.wikidata.org/wiki/Q8753"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "辛丑",
+      "month": "丁酉",
+      "day": "庚戌",
+      "hour": null
+    },
+    "day_pillar": "庚戌",
+    "day_master": "庚",
+    "wuxing_distribution": {
+      "金": 3,
+      "木": 0,
+      "水": 0,
+      "火": 1,
+      "土": 2
+    }
+  },
+  {
+    "id": "Q716977",
+    "name_zh": "张钰哲",
+    "name_en": "Zhang Yuzhe",
+    "birth_date": "1902-02-16",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "中华人民共和国",
+    "nationality_en": "People's Republic of China",
+    "field_zh": "天文学家",
+    "field_en": "astronomer",
+    "summary": "中国天文学家（1902—1986）",
+    "source": {
+      "type": "wikidata",
+      "cohort": "china_like",
+      "id": "Q716977",
+      "url": "https://www.wikidata.org/wiki/Q716977"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "壬寅",
+      "month": "壬寅",
+      "day": "庚午",
+      "hour": null
+    },
+    "day_pillar": "庚午",
+    "day_master": "庚",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 2,
+      "水": 2,
+      "火": 1,
+      "土": 0
+    }
+  },
+  {
+    "id": "Q17455",
+    "name_zh": "约翰·冯·诺伊曼",
+    "name_en": "John von Neumann",
+    "birth_date": "1903-12-28",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "匈牙利、美國",
+    "nationality_en": "Hungary, United States",
+    "field_zh": "數學家、電腦科學家、物理学家、经济学家、大學教師、非虛構文學作家、顧問、曼哈頓計劃",
+    "field_en": "mathematician, computer scientist, physicist, economist, university teacher, non-fiction writer, consultant, Manhattan Project",
+    "summary": "美籍匈牙利数学家（1903－1957）",
+    "source": {
+      "type": "wikidata",
+      "cohort": "western",
+      "id": "Q17455",
+      "url": "https://www.wikidata.org/wiki/Q17455"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "癸卯",
+      "month": "甲子",
+      "day": "庚寅",
+      "hour": null
+    },
+    "day_pillar": "庚寅",
+    "day_master": "庚",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 3,
+      "水": 2,
+      "火": 0,
+      "土": 0
+    }
+  },
+  {
+    "id": "Q132537",
+    "name_zh": "罗伯特·奥本海默",
+    "name_en": "Robert Oppenheimer",
+    "birth_date": "1904-04-22",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "美國",
+    "nationality_en": "United States",
+    "field_zh": "理论物理学家、工程师、核物理学家、艺术收藏家、大學教師、science administrator、物理学家、科學家",
+    "field_en": "theoretical physicist, engineer, nuclear physicist, art collector, university teacher, science administrator, physicist, scientist",
+    "summary": "美國理論物理學家",
+    "source": {
+      "type": "wikidata",
+      "cohort": "western",
+      "id": "Q132537",
+      "url": "https://www.wikidata.org/wiki/Q132537"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "甲辰",
+      "month": "戊辰",
+      "day": "丙戌",
+      "hour": null
+    },
+    "day_pillar": "丙戌",
+    "day_master": "丙",
+    "wuxing_distribution": {
+      "金": 0,
+      "木": 1,
+      "水": 0,
+      "火": 1,
+      "土": 4
+    }
+  },
+  {
+    "id": "Q184563",
+    "name_zh": "朝永振一郎",
+    "name_en": "Shin'ichirō Tomonaga",
+    "birth_date": "1906-03-31",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "日本、大日本帝國",
+    "nationality_en": "Japan, Empire of Japan",
+    "field_zh": "理论物理学家、教授、物理学家、研究者",
+    "field_en": "theoretical physicist, professor, physicist, researcher",
+    "summary": "研究者",
+    "source": {
+      "type": "wikidata",
+      "cohort": "global_extra",
+      "id": "Q184563",
+      "url": "https://www.wikidata.org/wiki/Q184563"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "丙午",
+      "month": "辛卯",
+      "day": "甲戌",
+      "hour": null
+    },
+    "day_pillar": "甲戌",
+    "day_master": "甲",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 2,
+      "水": 0,
+      "火": 2,
+      "土": 1
+    }
+  },
+  {
+    "id": "Q41390",
+    "name_zh": "庫爾特·弗雷德里希·哥德爾",
+    "name_en": "Kurt Gödel",
+    "birth_date": "1906-04-28",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "美國、奧地利、內萊塔尼亞、捷克斯洛伐克",
+    "nationality_en": "United States, Austria, Cisleithania, Czechoslovakia",
+    "field_zh": "數學家、哲學家、大學教師、電腦科學家、物理学家",
+    "field_en": "mathematician, philosopher, university teacher, computer scientist, physicist",
+    "summary": "奧地利裔美國邏輯學家，數學家和數學哲學家（1906－1978）",
+    "source": {
+      "type": "wikidata",
+      "cohort": "western",
+      "id": "Q41390",
+      "url": "https://www.wikidata.org/wiki/Q41390"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "丙午",
+      "month": "壬辰",
+      "day": "壬寅",
+      "hour": null
+    },
+    "day_pillar": "壬寅",
+    "day_master": "壬",
+    "wuxing_distribution": {
+      "金": 0,
+      "木": 1,
+      "水": 2,
+      "火": 2,
+      "土": 1
+    }
+  },
+  {
+    "id": "Q57100",
+    "name_zh": "玛丽亚·格佩特-梅耶",
+    "name_en": "Maria Goeppert Mayer",
+    "birth_date": "1906-06-28",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "德國、美國",
+    "nationality_en": "Germany, United States",
+    "field_zh": "物理学家、核物理学家、大學教師、科學家",
+    "field_en": "physicist, nuclear physicist, university teacher, scientist",
+    "summary": "美籍德裔物理学家（1906–1972）",
+    "source": {
+      "type": "wikidata",
+      "cohort": "western",
+      "id": "Q57100",
+      "url": "https://www.wikidata.org/wiki/Q57100"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "丙午",
+      "month": "甲午",
+      "day": "癸卯",
+      "hour": null
+    },
+    "day_pillar": "癸卯",
+    "day_master": "癸",
+    "wuxing_distribution": {
+      "金": 0,
+      "木": 2,
+      "水": 1,
+      "火": 3,
+      "土": 0
+    }
+  },
+  {
+    "id": "Q155777",
+    "name_zh": "汤川秀树",
+    "name_en": "Hideki Yukawa",
+    "birth_date": "1907-01-23",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "日本、大日本帝國",
+    "nationality_en": "Japan, Empire of Japan",
+    "field_zh": "物理学家、理论物理学家、核物理学家、大學教師",
+    "field_en": "physicist, theoretical physicist, nuclear physicist, university teacher",
+    "summary": "Japanese theoretical physicist (1907-1981)",
+    "source": {
+      "type": "wikidata",
+      "cohort": "global_extra",
+      "id": "Q155777",
+      "url": "https://www.wikidata.org/wiki/Q155777"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "丙午",
+      "month": "辛丑",
+      "day": "壬申",
+      "hour": null
+    },
+    "day_pillar": "壬申",
+    "day_master": "壬",
+    "wuxing_distribution": {
+      "金": 2,
+      "木": 0,
+      "水": 1,
+      "火": 2,
+      "土": 1
+    }
+  },
+  {
+    "id": "Q444591",
+    "name_zh": "邵逸夫",
+    "name_en": "Run Run Shaw",
+    "birth_date": "1907-11-19",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "中华人民共和国、英屬香港、清朝、中華民國大陸時期",
+    "nationality_en": "People's Republic of China, British Hong Kong, Qing dynasty, Republic of China",
+    "field_zh": "企业家、电影制片人、電影導演、发明家、演員、電視製作人、慈善家",
+    "field_en": "entrepreneur, film producer, film director, inventor, actor, television producer, philanthropist",
+    "summary": "香港電影及電視製作人、娛樂業大亨、慈善家 (1907-2014)",
+    "source": {
+      "type": "wikidata",
+      "cohort": "china_like",
+      "id": "Q444591",
+      "url": "https://www.wikidata.org/wiki/Q444591"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "丁未",
+      "month": "辛亥",
+      "day": "壬申",
+      "hour": null
+    },
+    "day_pillar": "壬申",
+    "day_master": "壬",
+    "wuxing_distribution": {
+      "金": 2,
+      "木": 0,
+      "水": 2,
+      "火": 1,
+      "土": 1
+    }
+  },
+  {
+    "id": "Q185007",
+    "name_zh": "丽塔·列维-蒙塔尔奇尼",
+    "name_en": "Rita Levi-Montalcini",
+    "birth_date": "1909-04-22",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "美國、意大利王國、意大利",
+    "nationality_en": "United States, Kingdom of Italy, Italy",
+    "field_zh": "neurologist、神經學家、生物化學家、政治人物、医生、科學家",
+    "field_en": "neurologist, neuroscientist, biochemist, politician, physician, scientist",
+    "summary": "Italian neurologist (1909–2012)",
+    "source": {
+      "type": "wikidata",
+      "cohort": "western",
+      "id": "Q185007",
+      "url": "https://www.wikidata.org/wiki/Q185007"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "己酉",
+      "month": "戊辰",
+      "day": "壬子",
+      "hour": null
+    },
+    "day_pillar": "壬子",
+    "day_master": "壬",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 0,
+      "水": 2,
+      "火": 0,
+      "土": 3
+    }
+  },
+  {
+    "id": "Q317858",
+    "name_zh": "安藤百福",
+    "name_en": "Momofuku Ando",
+    "birth_date": "1910-03-05",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "日本、中華民國、大日本帝國",
+    "nationality_en": "Japan, Taiwan, Empire of Japan",
+    "field_zh": "商人、商家、企业家、发明家",
+    "field_en": "businessperson, merchant, entrepreneur, inventor",
+    "summary": "台裔日本企業家、日清泡麵創辦人",
+    "source": {
+      "type": "wikidata",
+      "cohort": "global_extra",
+      "id": "Q317858",
+      "url": "https://www.wikidata.org/wiki/Q317858"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "庚戌",
+      "month": "戊寅",
+      "day": "己巳",
+      "hour": null
+    },
+    "day_pillar": "己巳",
+    "day_master": "己",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 1,
+      "水": 0,
+      "火": 1,
+      "土": 3
+    }
+  },
+  {
+    "id": "Q148109",
+    "name_zh": "蘇布拉馬尼揚·錢德拉塞卡",
+    "name_en": "Subrahmanyan Chandrasekhar",
+    "birth_date": "1910-10-19",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "美國、印度、英属印度",
+    "nationality_en": "United States, India, British Raj",
+    "field_zh": "數學家、物理学家、天文学家、天体物理学家、大學教師",
+    "field_en": "mathematician, physicist, astronomer, astrophysicist, university teacher",
+    "summary": "印度裔美国物理学家（1910－1995）",
+    "source": {
+      "type": "wikidata",
+      "cohort": "western",
+      "id": "Q148109",
+      "url": "https://www.wikidata.org/wiki/Q148109"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "庚戌",
+      "month": "丙戌",
+      "day": "丁巳",
+      "hour": null
+    },
+    "day_pillar": "丁巳",
+    "day_master": "丁",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 0,
+      "水": 0,
+      "火": 3,
+      "土": 2
+    }
+  },
+  {
+    "id": "Q328131",
+    "name_zh": "陈省身",
+    "name_en": "Shiing-Shen Chern",
+    "birth_date": "1911-10-26",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "中华人民共和国、美國",
+    "nationality_en": "People's Republic of China, United States",
+    "field_zh": "數學家、大學教師",
+    "field_en": "mathematician, university teacher",
+    "summary": "數學家（1911年至2004年）",
+    "source": {
+      "type": "wikidata",
+      "cohort": "china_like",
+      "id": "Q328131",
+      "url": "https://www.wikidata.org/wiki/Q328131"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "辛亥",
+      "month": "戊戌",
+      "day": "己巳",
+      "hour": null
+    },
+    "day_pillar": "己巳",
+    "day_master": "己",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 0,
+      "水": 1,
+      "火": 1,
+      "土": 3
+    }
+  },
+  {
+    "id": "Q11085173",
+    "name_zh": "施平",
+    "name_en": "Shi Ping",
+    "birth_date": "1911-11-01",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "中华人民共和国、中華帝國",
+    "nationality_en": "People's Republic of China, Empire of China",
+    "field_zh": "科學家、政治人物",
+    "field_en": "scientist, politician",
+    "summary": "中華人民共和國政治人物（1911年-2024年）",
+    "source": {
+      "type": "wikidata",
+      "cohort": "china_like",
+      "id": "Q11085173",
+      "url": "https://www.wikidata.org/wiki/Q11085173"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "辛亥",
+      "month": "戊戌",
+      "day": "乙亥",
+      "hour": null
+    },
+    "day_pillar": "乙亥",
+    "day_master": "乙",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 1,
+      "水": 2,
+      "火": 0,
+      "土": 2
+    }
+  },
+  {
+    "id": "Q1592204",
+    "name_zh": "何泽慧",
+    "name_en": "He Zehui",
+    "birth_date": "1914-03-05",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "中國、中华人民共和国",
+    "nationality_en": "China, People's Republic of China",
+    "field_zh": "物理学家、核物理学家",
+    "field_en": "physicist, nuclear physicist",
+    "summary": "中国原子物理学家",
+    "source": {
+      "type": "wikidata",
+      "cohort": "china_like",
+      "id": "Q1592204",
+      "url": "https://www.wikidata.org/wiki/Q1592204"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "甲寅",
+      "month": "丙寅",
+      "day": "庚寅",
+      "hour": null
+    },
+    "day_pillar": "庚寅",
+    "day_master": "庚",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 4,
+      "水": 0,
+      "火": 1,
+      "土": 0
+    }
+  },
+  {
+    "id": "Q200101",
+    "name_zh": "乔纳斯·索尔克",
+    "name_en": "Jonas Salk",
+    "birth_date": "1914-10-28",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "美國",
+    "nationality_en": "United States",
+    "field_zh": "医生、生物学家、流行病學家、发明家、病毒学家、免疫学家",
+    "field_en": "physician, biologist, epidemiologist, inventor, virologist, immunologist",
+    "summary": "Jewish-American inventor of polio vaccine (1914–1995)",
+    "source": {
+      "type": "wikidata",
+      "cohort": "western",
+      "id": "Q200101",
+      "url": "https://www.wikidata.org/wiki/Q200101"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "甲寅",
+      "month": "甲戌",
+      "day": "丁亥",
+      "hour": null
+    },
+    "day_pillar": "丁亥",
+    "day_master": "丁",
+    "wuxing_distribution": {
+      "金": 0,
+      "木": 3,
+      "水": 1,
+      "火": 1,
+      "土": 1
+    }
+  },
+  {
+    "id": "Q333918",
+    "name_zh": "小平邦彥",
+    "name_en": "Kunihiko Kodaira",
+    "birth_date": "1915-03-16",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "日本、大日本帝國",
+    "nationality_en": "Japan, Empire of Japan",
+    "field_zh": "數學家、大學教師",
+    "field_en": "mathematician, university teacher",
+    "summary": "日本数学家",
+    "source": {
+      "type": "wikidata",
+      "cohort": "global_extra",
+      "id": "Q333918",
+      "url": "https://www.wikidata.org/wiki/Q333918"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "乙卯",
+      "month": "己卯",
+      "day": "丙午",
+      "hour": null
+    },
+    "day_pillar": "丙午",
+    "day_master": "丙",
+    "wuxing_distribution": {
+      "金": 0,
+      "木": 3,
+      "水": 0,
+      "火": 2,
+      "土": 1
+    }
+  },
+  {
+    "id": "Q455616",
+    "name_zh": "伊藤清",
+    "name_en": "Kiyoshi Itō",
+    "birth_date": "1915-09-07",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "日本、大日本帝國",
+    "nationality_en": "Japan, Empire of Japan",
+    "field_zh": "官僚、數學家、大學教師",
+    "field_en": "bureaucrat, mathematician, university teacher",
+    "summary": "Japanese mathematician who pioneered stochastic calculus (1915–2008)",
+    "source": {
+      "type": "wikidata",
+      "cohort": "global_extra",
+      "id": "Q455616",
+      "url": "https://www.wikidata.org/wiki/Q455616"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "乙卯",
+      "month": "甲申",
+      "day": "辛丑",
+      "hour": null
+    },
+    "day_pillar": "辛丑",
+    "day_master": "辛",
+    "wuxing_distribution": {
+      "金": 2,
+      "木": 3,
+      "水": 0,
+      "火": 0,
+      "土": 1
+    }
+  },
+  {
+    "id": "Q17579",
+    "name_zh": "山口彊",
+    "name_en": "Tsutomu Yamaguchi",
+    "birth_date": "1916-03-16",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "日本、大日本帝國",
+    "nationality_en": "Japan, Empire of Japan",
+    "field_zh": "電腦科學家、工程师",
+    "field_en": "computer scientist, engineer",
+    "summary": "Japanese marine engineer (1916–2010)",
+    "source": {
+      "type": "wikidata",
+      "cohort": "global_extra",
+      "id": "Q17579",
+      "url": "https://www.wikidata.org/wiki/Q17579"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "丙辰",
+      "month": "辛卯",
+      "day": "壬子",
+      "hour": null
+    },
+    "day_pillar": "壬子",
+    "day_master": "壬",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 1,
+      "水": 2,
+      "火": 1,
+      "土": 1
+    }
+  },
+  {
+    "id": "Q217734",
+    "name_zh": "福井谦一",
+    "name_en": "Kenichi Fukui",
+    "birth_date": "1918-10-04",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "日本、大日本帝國",
+    "nationality_en": "Japan, Empire of Japan",
+    "field_zh": "化学家、研究者、大學教師",
+    "field_en": "chemist, researcher, university teacher",
+    "summary": "研究者",
+    "source": {
+      "type": "wikidata",
+      "cohort": "global_extra",
+      "id": "Q217734",
+      "url": "https://www.wikidata.org/wiki/Q217734"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "戊午",
+      "month": "辛酉",
+      "day": "甲申",
+      "hour": null
+    },
+    "day_pillar": "甲申",
+    "day_master": "甲",
+    "wuxing_distribution": {
+      "金": 3,
+      "木": 1,
+      "水": 0,
+      "火": 1,
+      "土": 1
+    }
+  },
+  {
+    "id": "Q511395",
+    "name_zh": "林忠四郎",
+    "name_en": "Chushiro Hayashi",
+    "birth_date": "1920-07-25",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "日本、大日本帝國",
+    "nationality_en": "Japan, Empire of Japan",
+    "field_zh": "天文学家、天体物理学家、物理学家、大學教師",
+    "field_en": "astronomer, astrophysicist, physicist, university teacher",
+    "summary": "Japanese astrophysicist (1920–2010)",
+    "source": {
+      "type": "wikidata",
+      "cohort": "global_extra",
+      "id": "Q511395",
+      "url": "https://www.wikidata.org/wiki/Q511395"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "庚申",
+      "month": "癸未",
+      "day": "甲申",
+      "hour": null
+    },
+    "day_pillar": "甲申",
+    "day_master": "甲",
+    "wuxing_distribution": {
+      "金": 3,
+      "木": 1,
+      "水": 1,
+      "火": 0,
+      "土": 1
+    }
+  },
+  {
+    "id": "Q188120",
+    "name_zh": "南部阳一郎",
+    "name_en": "Yoichiro Nambu",
+    "birth_date": "1921-01-18",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "美國、日本",
+    "nationality_en": "United States, Japan",
+    "field_zh": "理论物理学家、教授、物理学家、研究者",
+    "field_en": "theoretical physicist, professor, physicist, researcher",
+    "summary": "日本物理學家",
+    "source": {
+      "type": "wikidata",
+      "cohort": "global_extra",
+      "id": "Q188120",
+      "url": "https://www.wikidata.org/wiki/Q188120"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "庚申",
+      "month": "己丑",
+      "day": "辛巳",
+      "hour": null
+    },
+    "day_pillar": "辛巳",
+    "day_master": "辛",
+    "wuxing_distribution": {
+      "金": 3,
+      "木": 0,
+      "水": 0,
+      "火": 1,
+      "土": 2
+    }
+  },
+  {
+    "id": "Q8049053",
+    "name_zh": "姚桐斌",
+    "name_en": "Yao Tongbin",
+    "birth_date": "1922-09-03",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "中华人民共和国",
+    "nationality_en": "People's Republic of China",
+    "field_zh": "科學家、航空工程师",
+    "field_en": "scientist, military flight engineer",
+    "summary": "中国科学家",
+    "source": {
+      "type": "wikidata",
+      "cohort": "china_like",
+      "id": "Q8049053",
+      "url": "https://www.wikidata.org/wiki/Q8049053"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "壬戌",
+      "month": "戊申",
+      "day": "甲戌",
+      "hour": null
+    },
+    "day_pillar": "甲戌",
+    "day_master": "甲",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 1,
+      "水": 1,
+      "火": 0,
+      "土": 3
+    }
+  },
+  {
+    "id": "Q181369",
+    "name_zh": "楊振寧",
+    "name_en": "Chen-ning Yang",
+    "birth_date": "1922-10-01",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "中华人民共和国、美國、中華民國大陸時期、中華民國",
+    "nationality_en": "People's Republic of China, United States, Republic of China, Taiwan",
+    "field_zh": "物理学家、大學教師、理论物理学家",
+    "field_en": "physicist, university teacher, theoretical physicist",
+    "summary": "中國物理学家（1922年-2025年）",
+    "source": {
+      "type": "wikidata",
+      "cohort": "china_like",
+      "id": "Q181369",
+      "url": "https://www.wikidata.org/wiki/Q181369"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "壬戌",
+      "month": "己酉",
+      "day": "壬寅",
+      "hour": null
+    },
+    "day_pillar": "壬寅",
+    "day_master": "壬",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 1,
+      "水": 2,
+      "火": 0,
+      "土": 2
+    }
+  },
+  {
+    "id": "Q471816",
+    "name_zh": "木村資生",
+    "name_en": "Motoo Kimura",
+    "birth_date": "1924-11-13",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "大日本帝國、日本",
+    "nationality_en": "Empire of Japan, Japan",
+    "field_zh": "生物学家、數學家、遗传学家",
+    "field_en": "biologist, mathematician, geneticist",
+    "summary": "Japanese scientist (1924–1994)",
+    "source": {
+      "type": "wikidata",
+      "cohort": "global_extra",
+      "id": "Q471816",
+      "url": "https://www.wikidata.org/wiki/Q471816"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "甲子",
+      "month": "乙亥",
+      "day": "丙申",
+      "hour": null
+    },
+    "day_pillar": "丙申",
+    "day_master": "丙",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 2,
+      "水": 2,
+      "火": 1,
+      "土": 0
+    }
+  },
+  {
+    "id": "Q179852",
+    "name_zh": "江崎玲於奈",
+    "name_en": "Leo Esaki",
+    "birth_date": "1925-03-12",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "日本",
+    "nationality_en": "Japan",
+    "field_zh": "物理学家",
+    "field_en": "physicist",
+    "summary": "日本物理學家",
+    "source": {
+      "type": "wikidata",
+      "cohort": "global_extra",
+      "id": "Q179852",
+      "url": "https://www.wikidata.org/wiki/Q179852"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "乙丑",
+      "month": "己卯",
+      "day": "乙未",
+      "hour": null
+    },
+    "day_pillar": "乙未",
+    "day_master": "乙",
+    "wuxing_distribution": {
+      "金": 0,
+      "木": 3,
+      "水": 0,
+      "火": 0,
+      "土": 3
+    }
+  },
+  {
+    "id": "Q155773",
+    "name_zh": "小柴昌俊",
+    "name_en": "Masatoshi Koshiba",
+    "birth_date": "1926-09-19",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "日本、大日本帝國",
+    "nationality_en": "Japan, Empire of Japan",
+    "field_zh": "物理学家、教授、研究者",
+    "field_en": "physicist, professor, researcher",
+    "summary": "日本物理学家（1926—2020）",
+    "source": {
+      "type": "wikidata",
+      "cohort": "global_extra",
+      "id": "Q155773",
+      "url": "https://www.wikidata.org/wiki/Q155773"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "丙寅",
+      "month": "丁酉",
+      "day": "辛亥",
+      "hour": null
+    },
+    "day_pillar": "辛亥",
+    "day_master": "辛",
+    "wuxing_distribution": {
+      "金": 2,
+      "木": 1,
+      "水": 1,
+      "火": 2,
+      "土": 0
+    }
+  },
+  {
+    "id": "Q15613453",
+    "name_zh": "高莽",
+    "name_en": "Gao Mang",
+    "birth_date": "1926-10-01",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "中华人民共和国",
+    "nationality_en": "People's Republic of China",
+    "field_zh": "畫家、译者、科學家、作家",
+    "field_en": "painter, translator, scientist, writer",
+    "summary": "Chinese translator",
+    "source": {
+      "type": "wikidata",
+      "cohort": "china_like",
+      "id": "Q15613453",
+      "url": "https://www.wikidata.org/wiki/Q15613453"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "丙寅",
+      "month": "丁酉",
+      "day": "癸亥",
+      "hour": null
+    },
+    "day_pillar": "癸亥",
+    "day_master": "癸",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 1,
+      "水": 2,
+      "火": 2,
+      "土": 0
+    }
+  },
+  {
+    "id": "Q2357108",
+    "name_zh": "席澤宗",
+    "name_en": "Xi Zezong",
+    "birth_date": "1927-06-06",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "中华人民共和国",
+    "nationality_en": "People's Republic of China",
+    "field_zh": "天文学家、译者、歷史學家、新聞工作者",
+    "field_en": "astronomer, translator, historian, journalist",
+    "summary": "astronomer (1927–2008)",
+    "source": {
+      "type": "wikidata",
+      "cohort": "china_like",
+      "id": "Q2357108",
+      "url": "https://www.wikidata.org/wiki/Q2357108"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "丁卯",
+      "month": "乙巳",
+      "day": "辛未",
+      "hour": null
+    },
+    "day_pillar": "辛未",
+    "day_master": "辛",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 2,
+      "水": 0,
+      "火": 2,
+      "土": 1
+    }
+  },
+  {
+    "id": "Q83333",
+    "name_zh": "詹姆斯·杜威·沃森",
+    "name_en": "James Watson",
+    "birth_date": "1928-04-06",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "美國",
+    "nationality_en": "United States",
+    "field_zh": "生物学家、遗传学家、動物學家、生物化學家、分子生物學家、學者、大學教師、化学家、物理学家、作家、生物物理學家、科學家",
+    "field_en": "biologist, geneticist, zoologist, biochemist, molecular biologist, academic, university teacher, chemist, physicist, writer, biophysicist, scientist",
+    "summary": "美国分子生物学家、遗传学家和动物学家（1928—2025）",
+    "source": {
+      "type": "wikidata",
+      "cohort": "western",
+      "id": "Q83333",
+      "url": "https://www.wikidata.org/wiki/Q83333"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "戊辰",
+      "month": "丙辰",
+      "day": "丙子",
+      "hour": null
+    },
+    "day_pillar": "丙子",
+    "day_master": "丙",
+    "wuxing_distribution": {
+      "金": 0,
+      "木": 0,
+      "水": 1,
+      "火": 2,
+      "土": 3
+    }
+  },
+  {
+    "id": "Q128736",
+    "name_zh": "约翰·福布斯·纳什",
+    "name_en": "John Forbes Nash",
+    "birth_date": "1928-06-13",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "美國",
+    "nationality_en": "United States",
+    "field_zh": "數學家、经济学家、大學教師",
+    "field_en": "mathematician, economist, university teacher",
+    "summary": "美國數學家（1928—2015）",
+    "source": {
+      "type": "wikidata",
+      "cohort": "western",
+      "id": "Q128736",
+      "url": "https://www.wikidata.org/wiki/Q128736"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "戊辰",
+      "month": "戊午",
+      "day": "甲申",
+      "hour": null
+    },
+    "day_pillar": "甲申",
+    "day_master": "甲",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 1,
+      "水": 0,
+      "火": 1,
+      "土": 3
+    }
+  },
+  {
+    "id": "Q205345",
+    "name_zh": "下村脩",
+    "name_en": "Osamu Shimomura",
+    "birth_date": "1928-08-27",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "日本、大日本帝國",
+    "nationality_en": "Japan, Empire of Japan",
+    "field_zh": "化学家、生物化學家、有机化学家、海洋生物学家、大學教師",
+    "field_en": "chemist, biochemist, organic chemist, marine biologist, university teacher",
+    "summary": "日本化学家（1928—2018）",
+    "source": {
+      "type": "wikidata",
+      "cohort": "global_extra",
+      "id": "Q205345",
+      "url": "https://www.wikidata.org/wiki/Q205345"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "戊辰",
+      "month": "庚申",
+      "day": "己亥",
+      "hour": null
+    },
+    "day_pillar": "己亥",
+    "day_master": "己",
+    "wuxing_distribution": {
+      "金": 2,
+      "木": 0,
+      "水": 1,
+      "火": 0,
+      "土": 3
+    }
+  },
+  {
+    "id": "Q9049",
+    "name_zh": "诺姆·乔姆斯基",
+    "name_en": "Noam Chomsky",
+    "birth_date": "1928-12-07",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "美國",
+    "nationality_en": "United States",
+    "field_zh": "哲學家、語言學家、政治作家、大學教師、心理學家、人类学家、人權護衛者、教育家、media critic、作家、舆论记者、電腦科學家、歷史學家、语文学家/文献学家",
+    "field_en": "philosopher, linguist, political writer, university teacher, psychologist, anthropologist, human rights defender, educator, media critic, writer, opinion journalist, computer scientist, historian, philologist",
+    "summary": "美国语言学家、哲学家、活动家",
+    "source": {
+      "type": "wikidata",
+      "cohort": "western",
+      "id": "Q9049",
+      "url": "https://www.wikidata.org/wiki/Q9049"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "戊辰",
+      "month": "癸亥",
+      "day": "辛巳",
+      "hour": null
+    },
+    "day_pillar": "辛巳",
+    "day_master": "辛",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 0,
+      "水": 2,
+      "火": 1,
+      "土": 2
+    }
+  },
+  {
+    "id": "Q353411",
+    "name_zh": "志村五郎",
+    "name_en": "Gorō Shimura",
+    "birth_date": "1930-02-23",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "日本、美國",
+    "nationality_en": "Japan, United States",
+    "field_zh": "數學家、大學教師",
+    "field_en": "mathematician, university teacher",
+    "summary": "Japanese mathematician (1930-2019)",
+    "source": {
+      "type": "wikidata",
+      "cohort": "global_extra",
+      "id": "Q353411",
+      "url": "https://www.wikidata.org/wiki/Q353411"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "庚午",
+      "month": "戊寅",
+      "day": "甲辰",
+      "hour": null
+    },
+    "day_pillar": "甲辰",
+    "day_master": "甲",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 2,
+      "水": 0,
+      "火": 1,
+      "土": 2
+    }
+  },
+  {
+    "id": "Q3141326",
+    "name_zh": "袁隆平",
+    "name_en": "Yuan Longping",
+    "birth_date": "1930-09-07",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "中華民國大陸時期、中华人民共和国",
+    "nationality_en": "Republic of China, People's Republic of China",
+    "field_zh": "生物学家、发明家、植物學家、农学家",
+    "field_en": "biologist, inventor, botanist, agronomist",
+    "summary": "中國工程院院士、雜交水稻專家，曾任政協湖南省委副主席、全國政協常務委員（1930-2021）",
+    "source": {
+      "type": "wikidata",
+      "cohort": "china_like",
+      "id": "Q3141326",
+      "url": "https://www.wikidata.org/wiki/Q3141326"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "庚午",
+      "month": "甲申",
+      "day": "庚申",
+      "hour": null
+    },
+    "day_pillar": "庚申",
+    "day_master": "庚",
+    "wuxing_distribution": {
+      "金": 4,
+      "木": 1,
+      "水": 0,
+      "火": 1,
+      "土": 0
+    }
+  },
+  {
+    "id": "Q105949",
+    "name_zh": "铃木章",
+    "name_en": "Akira Suzuki",
+    "birth_date": "1930-09-12",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "日本",
+    "nationality_en": "Japan",
+    "field_zh": "化学家、教授",
+    "field_en": "chemist, professor",
+    "summary": "Japanese chemist (1930 - )",
+    "source": {
+      "type": "wikidata",
+      "cohort": "global_extra",
+      "id": "Q105949",
+      "url": "https://www.wikidata.org/wiki/Q105949"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "庚午",
+      "month": "乙酉",
+      "day": "乙丑",
+      "hour": null
+    },
+    "day_pillar": "乙丑",
+    "day_master": "乙",
+    "wuxing_distribution": {
+      "金": 2,
+      "木": 2,
+      "水": 0,
+      "火": 1,
+      "土": 1
+    }
+  },
+  {
+    "id": "Q462843",
+    "name_zh": "屠呦呦",
+    "name_en": "Tu Youyou",
+    "birth_date": "1930-12-30",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "中华人民共和国、中華民國大陸時期",
+    "nationality_en": "People's Republic of China, Republic of China",
+    "field_zh": "化学家、药理学家、发明家、大學教師、藥劑師、疟疾学家",
+    "field_en": "chemist, pharmacologist, inventor, university teacher, pharmacist, malariologist",
+    "summary": "中国药学家",
+    "source": {
+      "type": "wikidata",
+      "cohort": "china_like",
+      "id": "Q462843",
+      "url": "https://www.wikidata.org/wiki/Q462843"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "庚午",
+      "month": "戊子",
+      "day": "甲寅",
+      "hour": null
+    },
+    "day_pillar": "甲寅",
+    "day_master": "甲",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 2,
+      "水": 1,
+      "火": 1,
+      "土": 1
+    }
+  },
+  {
+    "id": "Q183373",
+    "name_zh": "廣中平祐",
+    "name_en": "Heisuke Hironaka",
+    "birth_date": "1931-04-09",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "日本",
+    "nationality_en": "Japan",
+    "field_zh": "數學家、大學教師",
+    "field_en": "mathematician, university teacher",
+    "summary": "Japanese mathematician",
+    "source": {
+      "type": "wikidata",
+      "cohort": "global_extra",
+      "id": "Q183373",
+      "url": "https://www.wikidata.org/wiki/Q183373"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "辛未",
+      "month": "壬辰",
+      "day": "甲午",
+      "hour": null
+    },
+    "day_pillar": "甲午",
+    "day_master": "甲",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 1,
+      "水": 1,
+      "火": 1,
+      "土": 2
+    }
+  },
+  {
+    "id": "Q7494110",
+    "name_zh": "沈君山",
+    "name_en": "Shen Chun-shan",
+    "birth_date": "1932-08-29",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "中华人民共和国、中華民國大陸時期、中華民國",
+    "nationality_en": "People's Republic of China, Republic of China, Taiwan",
+    "field_zh": "物理学家、天文学家、圍棋棋手、bridge player",
+    "field_en": "physicist, astronomer, Go player, bridge player",
+    "summary": "臺灣物理學家",
+    "source": {
+      "type": "wikidata",
+      "cohort": "china_like",
+      "id": "Q7494110",
+      "url": "https://www.wikidata.org/wiki/Q7494110"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "壬申",
+      "month": "戊申",
+      "day": "壬戌",
+      "hour": null
+    },
+    "day_pillar": "壬戌",
+    "day_master": "壬",
+    "wuxing_distribution": {
+      "金": 2,
+      "木": 0,
+      "水": 2,
+      "火": 0,
+      "土": 2
+    }
+  },
+  {
+    "id": "Q4793029",
+    "name_zh": "张家祥",
+    "name_en": "Zhang Jiaxiang",
+    "birth_date": "1932-10-30",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "中华人民共和国",
+    "nationality_en": "People's Republic of China",
+    "field_zh": "天文学家",
+    "field_en": "astronomer",
+    "summary": "中国天文学家",
+    "source": {
+      "type": "wikidata",
+      "cohort": "china_like",
+      "id": "Q4793029",
+      "url": "https://www.wikidata.org/wiki/Q4793029"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "壬申",
+      "month": "庚戌",
+      "day": "甲子",
+      "hour": null
+    },
+    "day_pillar": "甲子",
+    "day_master": "甲",
+    "wuxing_distribution": {
+      "金": 2,
+      "木": 1,
+      "水": 2,
+      "火": 0,
+      "土": 1
+    }
+  },
+  {
+    "id": "Q519743",
+    "name_zh": "香西洋樹",
+    "name_en": "Hiroki Kosai",
+    "birth_date": "1933-02-08",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "日本",
+    "nationality_en": "Japan",
+    "field_zh": "天文学家",
+    "field_en": "astronomer",
+    "summary": "Japanese astronomer",
+    "source": {
+      "type": "wikidata",
+      "cohort": "global_extra",
+      "id": "Q519743",
+      "url": "https://www.wikidata.org/wiki/Q519743"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "癸酉",
+      "month": "甲寅",
+      "day": "乙巳",
+      "hour": null
+    },
+    "day_pillar": "乙巳",
+    "day_master": "乙",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 3,
+      "水": 1,
+      "火": 1,
+      "土": 0
+    }
+  },
+  {
+    "id": "Q172877",
+    "name_zh": "阿诺·彭齐亚斯",
+    "name_en": "Arno Allan Penzias",
+    "birth_date": "1933-04-26",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "德國、無國籍、美國",
+    "nationality_en": "Germany, statelessness, United States",
+    "field_zh": "天文学家、物理学家",
+    "field_en": "astronomer, physicist",
+    "summary": "射电天文学家（1933—2024）",
+    "source": {
+      "type": "wikidata",
+      "cohort": "western",
+      "id": "Q172877",
+      "url": "https://www.wikidata.org/wiki/Q172877"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "癸酉",
+      "month": "丙辰",
+      "day": "壬戌",
+      "hour": null
+    },
+    "day_pillar": "壬戌",
+    "day_master": "壬",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 0,
+      "水": 2,
+      "火": 1,
+      "土": 2
+    }
+  },
+  {
+    "id": "Q715284",
+    "name_zh": "陈景润",
+    "name_en": "Chen Jingrun",
+    "birth_date": "1933-05-22",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "中华人民共和国",
+    "nationality_en": "People's Republic of China",
+    "field_zh": "數學家、政治人物",
+    "field_en": "mathematician, politician",
+    "summary": "中国数学家（1933年-1996年）",
+    "source": {
+      "type": "wikidata",
+      "cohort": "china_like",
+      "id": "Q715284",
+      "url": "https://www.wikidata.org/wiki/Q715284"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "癸酉",
+      "month": "丁巳",
+      "day": "戊子",
+      "hour": null
+    },
+    "day_pillar": "戊子",
+    "day_master": "戊",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 0,
+      "水": 2,
+      "火": 2,
+      "土": 1
+    }
+  },
+  {
+    "id": "Q410",
+    "name_zh": "卡尔·萨根",
+    "name_en": "Carl Sagan",
+    "birth_date": "1934-11-09",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "美國",
+    "nationality_en": "United States",
+    "field_zh": "宇宙学家、天体物理学家、小说家、planetary scientist、空间科学家、科学传播者、科幻作家、科普作家、天文学家、大學教師、作家、非虛構文學作家、物理学家、編劇、自然科学家、電視主持",
+    "field_en": "cosmologist, astrophysicist, novelist, planetary scientist, space scientist, science communicator, science fiction writer, science writer, astronomer, university teacher, writer, non-fiction writer, physicist, screenwriter, naturalist, television presenter",
+    "summary": "美国天体物理学家、宇宙学家和科普作家",
+    "source": {
+      "type": "wikidata",
+      "cohort": "western",
+      "id": "Q410",
+      "url": "https://www.wikidata.org/wiki/Q410"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "甲戌",
+      "month": "乙亥",
+      "day": "甲申",
+      "hour": null
+    },
+    "day_pillar": "甲申",
+    "day_master": "甲",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 3,
+      "水": 1,
+      "火": 0,
+      "土": 1
+    }
+  },
+  {
+    "id": "Q105927",
+    "name_zh": "根岸英一",
+    "name_en": "Ei-ichi Negishi",
+    "birth_date": "1935-07-14",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "美國、日本",
+    "nationality_en": "United States, Japan",
+    "field_zh": "化学家、教授、研究者",
+    "field_en": "chemist, professor, researcher",
+    "summary": "研究者",
+    "source": {
+      "type": "wikidata",
+      "cohort": "global_extra",
+      "id": "Q105927",
+      "url": "https://www.wikidata.org/wiki/Q105927"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "乙亥",
+      "month": "癸未",
+      "day": "辛卯",
+      "hour": null
+    },
+    "day_pillar": "辛卯",
+    "day_master": "辛",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 2,
+      "水": 2,
+      "火": 0,
+      "土": 1
+    }
+  },
+  {
+    "id": "Q16075710",
+    "name_zh": "范维唐",
+    "name_en": "Fan Weitang",
+    "birth_date": "1935-07-18",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "中华人民共和国",
+    "nationality_en": "People's Republic of China",
+    "field_zh": "科學家",
+    "field_en": "scientist",
+    "summary": "Chinese engineer and politician",
+    "source": {
+      "type": "wikidata",
+      "cohort": "china_like",
+      "id": "Q16075710",
+      "url": "https://www.wikidata.org/wiki/Q16075710"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "乙亥",
+      "month": "癸未",
+      "day": "乙未",
+      "hour": null
+    },
+    "day_pillar": "乙未",
+    "day_master": "乙",
+    "wuxing_distribution": {
+      "金": 0,
+      "木": 2,
+      "水": 2,
+      "火": 0,
+      "土": 2
+    }
+  },
+  {
+    "id": "Q171034",
+    "name_zh": "罗伯特·威尔逊",
+    "name_en": "Robert Wilson",
+    "birth_date": "1936-01-10",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "美國",
+    "nationality_en": "United States",
+    "field_zh": "天文学家、物理学家、研究者",
+    "field_en": "astronomer, physicist, researcher",
+    "summary": "美国射电天文学家（1936—）",
+    "source": {
+      "type": "wikidata",
+      "cohort": "western",
+      "id": "Q171034",
+      "url": "https://www.wikidata.org/wiki/Q171034"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "乙亥",
+      "month": "己丑",
+      "day": "辛卯",
+      "hour": null
+    },
+    "day_pillar": "辛卯",
+    "day_master": "辛",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 2,
+      "水": 1,
+      "火": 0,
+      "土": 2
+    }
+  },
+  {
+    "id": "Q445635",
+    "name_zh": "方励之",
+    "name_en": "Fang Lizhi",
+    "birth_date": "1936-02-12",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "中华人民共和国",
+    "nationality_en": "People's Republic of China",
+    "field_zh": "物理学家、人權護衛者、大學教師、天体物理学家",
+    "field_en": "physicist, human rights defender, university teacher, astrophysicist",
+    "summary": "中国物理学家，知识分子，异议人士",
+    "source": {
+      "type": "wikidata",
+      "cohort": "china_like",
+      "id": "Q445635",
+      "url": "https://www.wikidata.org/wiki/Q445635"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "丙子",
+      "month": "庚寅",
+      "day": "甲子",
+      "hour": null
+    },
+    "day_pillar": "甲子",
+    "day_master": "甲",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 2,
+      "水": 2,
+      "火": 1,
+      "土": 0
+    }
+  },
+  {
+    "id": "Q157210",
+    "name_zh": "野依良治",
+    "name_en": "Ryōji Noyori",
+    "birth_date": "1938-09-03",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "日本",
+    "nationality_en": "Japan",
+    "field_zh": "化学家、教授",
+    "field_en": "chemist, professor",
+    "summary": "Japanese chemist (1938 - )",
+    "source": {
+      "type": "wikidata",
+      "cohort": "global_extra",
+      "id": "Q157210",
+      "url": "https://www.wikidata.org/wiki/Q157210"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "戊寅",
+      "month": "庚申",
+      "day": "戊戌",
+      "hour": null
+    },
+    "day_pillar": "戊戌",
+    "day_master": "戊",
+    "wuxing_distribution": {
+      "金": 2,
+      "木": 1,
+      "水": 0,
+      "火": 0,
+      "土": 3
+    }
+  },
+  {
+    "id": "Q108602",
+    "name_zh": "利根川進",
+    "name_en": "Susumu Tonegawa",
+    "birth_date": "1939-09-05",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "日本",
+    "nationality_en": "Japan",
+    "field_zh": "分子生物學家、免疫学家、神經學家、教授、科學家、医生、化学家、遗传学家",
+    "field_en": "molecular biologist, immunologist, neuroscientist, professor, scientist, physician, chemist, geneticist",
+    "summary": "日本生物学家",
+    "source": {
+      "type": "wikidata",
+      "cohort": "global_extra",
+      "id": "Q108602",
+      "url": "https://www.wikidata.org/wiki/Q108602"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "己卯",
+      "month": "壬申",
+      "day": "乙巳",
+      "hour": null
+    },
+    "day_pillar": "乙巳",
+    "day_master": "乙",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 2,
+      "水": 1,
+      "火": 1,
+      "土": 1
+    }
+  },
+  {
+    "id": "Q8056214",
+    "name_zh": "大隅良典",
+    "name_en": "Yoshinori Ohsumi",
+    "birth_date": "1945-02-09",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "日本",
+    "nationality_en": "Japan",
+    "field_zh": "生物学家",
+    "field_en": "biologist",
+    "summary": "日本分子细胞生物学家（1945—）",
+    "source": {
+      "type": "wikidata",
+      "cohort": "global_extra",
+      "id": "Q8056214",
+      "url": "https://www.wikidata.org/wiki/Q8056214"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "乙酉",
+      "month": "戊寅",
+      "day": "己酉",
+      "hour": null
+    },
+    "day_pillar": "己酉",
+    "day_master": "己",
+    "wuxing_distribution": {
+      "金": 2,
+      "木": 2,
+      "水": 0,
+      "火": 0,
+      "土": 2
+    }
+  },
+  {
+    "id": "Q455700",
+    "name_zh": "刘延东",
+    "name_en": "Liu Yandong",
+    "birth_date": "1945-11-22",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "中华人民共和国",
+    "nationality_en": "People's Republic of China",
+    "field_zh": "政治人物、化学家",
+    "field_en": "politician, chemist",
+    "summary": "Chinese politician",
+    "source": {
+      "type": "wikidata",
+      "cohort": "china_like",
+      "id": "Q455700",
+      "url": "https://www.wikidata.org/wiki/Q455700"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "乙酉",
+      "month": "丁亥",
+      "day": "乙未",
+      "hour": null
+    },
+    "day_pillar": "乙未",
+    "day_master": "乙",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 2,
+      "水": 1,
+      "火": 1,
+      "土": 1
+    }
+  },
+  {
+    "id": "Q62888",
+    "name_zh": "姚期智",
+    "name_en": "Andrew Yao",
+    "birth_date": "1946-12-24",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "中华人民共和国、美國、中華民國",
+    "nationality_en": "People's Republic of China, United States, Taiwan",
+    "field_zh": "電腦科學家、大學教師",
+    "field_en": "computer scientist, university teacher",
+    "summary": "中国计算机科学家",
+    "source": {
+      "type": "wikidata",
+      "cohort": "china_like",
+      "id": "Q62888",
+      "url": "https://www.wikidata.org/wiki/Q62888"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "丙戌",
+      "month": "庚子",
+      "day": "壬申",
+      "hour": null
+    },
+    "day_pillar": "壬申",
+    "day_master": "壬",
+    "wuxing_distribution": {
+      "金": 2,
+      "木": 0,
+      "水": 2,
+      "火": 1,
+      "土": 1
+    }
+  },
+  {
+    "id": "Q200136",
+    "name_zh": "琳达·巴克",
+    "name_en": "Linda B. Buck",
+    "birth_date": "1947-01-29",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "美國",
+    "nationality_en": "United States",
+    "field_zh": "生物学家、神經學家、大學教師、医生",
+    "field_en": "biologist, neuroscientist, university teacher, physician",
+    "summary": "American biologist",
+    "source": {
+      "type": "wikidata",
+      "cohort": "western",
+      "id": "Q200136",
+      "url": "https://www.wikidata.org/wiki/Q200136"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "丙戌",
+      "month": "辛丑",
+      "day": "戊申",
+      "hour": null
+    },
+    "day_pillar": "戊申",
+    "day_master": "戊",
+    "wuxing_distribution": {
+      "金": 2,
+      "木": 0,
+      "水": 0,
+      "火": 1,
+      "土": 3
+    }
+  },
+  {
+    "id": "Q4701206",
+    "name_zh": "吉野彰",
+    "name_en": "Akira Yoshino",
+    "birth_date": "1948-01-30",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "日本",
+    "nationality_en": "Japan",
+    "field_zh": "化学家、工程师、发明家、研究者",
+    "field_en": "chemist, engineer, inventor, researcher",
+    "summary": "研究者",
+    "source": {
+      "type": "wikidata",
+      "cohort": "global_extra",
+      "id": "Q4701206",
+      "url": "https://www.wikidata.org/wiki/Q4701206"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "丁亥",
+      "month": "癸丑",
+      "day": "甲寅",
+      "hour": null
+    },
+    "day_pillar": "甲寅",
+    "day_master": "甲",
+    "wuxing_distribution": {
+      "金": 0,
+      "木": 2,
+      "水": 2,
+      "火": 1,
+      "土": 1
+    }
+  },
+  {
+    "id": "Q542628",
+    "name_zh": "百武裕司",
+    "name_en": "Yuji Hyakutake",
+    "birth_date": "1950-07-07",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "日本",
+    "nationality_en": "Japan",
+    "field_zh": "天文学家",
+    "field_en": "astronomer",
+    "summary": "Amateur astronomer, discovered comet Hyakutake (1950–2002)",
+    "source": {
+      "type": "wikidata",
+      "cohort": "global_extra",
+      "id": "Q542628",
+      "url": "https://www.wikidata.org/wiki/Q542628"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "庚寅",
+      "month": "壬午",
+      "day": "癸卯",
+      "hour": null
+    },
+    "day_pillar": "癸卯",
+    "day_master": "癸",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 2,
+      "水": 2,
+      "火": 1,
+      "土": 0
+    }
+  },
+  {
+    "id": "Q708802",
+    "name_zh": "李源潮",
+    "name_en": "Li Yuanchao",
+    "birth_date": "1950-11-20",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "中华人民共和国",
+    "nationality_en": "People's Republic of China",
+    "field_zh": "政治人物、數學家",
+    "field_en": "politician, mathematician",
+    "summary": "中华人民共和国政治人物",
+    "source": {
+      "type": "wikidata",
+      "cohort": "china_like",
+      "id": "Q708802",
+      "url": "https://www.wikidata.org/wiki/Q708802"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "庚寅",
+      "month": "丁亥",
+      "day": "己未",
+      "hour": null
+    },
+    "day_pillar": "己未",
+    "day_master": "己",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 1,
+      "水": 1,
+      "火": 1,
+      "土": 2
+    }
+  },
+  {
+    "id": "Q17502433",
+    "name_zh": "坂口志文",
+    "name_en": "Shimon Sakaguchi",
+    "birth_date": "1951-01-19",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "日本",
+    "nationality_en": "Japan",
+    "field_zh": "医生、大學教師、免疫学家、生物学家",
+    "field_en": "physician, university teacher, immunologist, biologist",
+    "summary": "日本免疫学家，诺贝尔生理学或医学奖获得者",
+    "source": {
+      "type": "wikidata",
+      "cohort": "global_extra",
+      "id": "Q17502433",
+      "url": "https://www.wikidata.org/wiki/Q17502433"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "庚寅",
+      "month": "己丑",
+      "day": "己未",
+      "hour": null
+    },
+    "day_pillar": "己未",
+    "day_master": "己",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 1,
+      "水": 0,
+      "火": 0,
+      "土": 4
+    }
+  },
+  {
+    "id": "Q206215",
+    "name_zh": "森重文",
+    "name_en": "Shigefumi Mori",
+    "birth_date": "1951-02-23",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "日本",
+    "nationality_en": "Japan",
+    "field_zh": "數學家、教授",
+    "field_en": "mathematician, professor",
+    "summary": "Japanese mathematician",
+    "source": {
+      "type": "wikidata",
+      "cohort": "global_extra",
+      "id": "Q206215",
+      "url": "https://www.wikidata.org/wiki/Q206215"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "辛卯",
+      "month": "庚寅",
+      "day": "甲午",
+      "hour": null
+    },
+    "day_pillar": "甲午",
+    "day_master": "甲",
+    "wuxing_distribution": {
+      "金": 2,
+      "木": 3,
+      "水": 0,
+      "火": 1,
+      "土": 0
+    }
+  },
+  {
+    "id": "Q12382",
+    "name_zh": "宮本茂",
+    "name_en": "Shigeru Miyamoto",
+    "birth_date": "1952-11-16",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "日本",
+    "nationality_en": "Japan",
+    "field_zh": "設計師、游戏程序师、電子遊戲製作人、編劇、電腦科學家、電子遊戲開發者、電視製作人、视频艺术家、電子遊戲設計師、遊戲設計師、电影制片人",
+    "field_en": "designer, game programmer, video game producer, screenwriter, computer scientist, video game developer, television producer, video artist, video game designer, game designer, film producer",
+    "summary": "日本遊戲設計師",
+    "source": {
+      "type": "wikidata",
+      "cohort": "global_extra",
+      "id": "Q12382",
+      "url": "https://www.wikidata.org/wiki/Q12382"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "壬辰",
+      "month": "辛亥",
+      "day": "丙寅",
+      "hour": null
+    },
+    "day_pillar": "丙寅",
+    "day_master": "丙",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 1,
+      "水": 2,
+      "火": 1,
+      "土": 1
+    }
+  },
+  {
+    "id": "Q730065",
+    "name_zh": "中村修二",
+    "name_en": "Shuji Nakamura",
+    "birth_date": "1954-05-22",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "日本、美國",
+    "nationality_en": "Japan, United States",
+    "field_zh": "物理学家、工程师、发明家、教授",
+    "field_en": "physicist, engineer, inventor, professor",
+    "summary": "Japanese doctor of Engineering (1954-), inventor of the blue LED, 2014 Nobel laureate in Physics",
+    "source": {
+      "type": "wikidata",
+      "cohort": "global_extra",
+      "id": "Q730065",
+      "url": "https://www.wikidata.org/wiki/Q730065"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "甲午",
+      "month": "己巳",
+      "day": "戊寅",
+      "hour": null
+    },
+    "day_pillar": "戊寅",
+    "day_master": "戊",
+    "wuxing_distribution": {
+      "金": 0,
+      "木": 2,
+      "水": 0,
+      "火": 2,
+      "土": 2
+    }
+  },
+  {
+    "id": "Q19837",
+    "name_zh": "史提夫·喬布斯",
+    "name_en": "Steve Jobs",
+    "birth_date": "1955-02-24",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "美國",
+    "nationality_en": "United States",
+    "field_zh": "企业家、发明家、設計師、電腦科學家、執行製作人、电影制片人、金融业者、technology entrepreneur",
+    "field_en": "entrepreneur, inventor, designer, computer scientist, executive producer, film producer, financier, technology entrepreneur",
+    "summary": "美國企業家・蘋果公司創辦人",
+    "source": {
+      "type": "wikidata",
+      "cohort": "western",
+      "id": "Q19837",
+      "url": "https://www.wikidata.org/wiki/Q19837"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "乙未",
+      "month": "戊寅",
+      "day": "丙辰",
+      "hour": null
+    },
+    "day_pillar": "丙辰",
+    "day_master": "丙",
+    "wuxing_distribution": {
+      "金": 0,
+      "木": 2,
+      "水": 0,
+      "火": 1,
+      "土": 3
+    }
+  },
+  {
+    "id": "Q6109517",
+    "name_zh": "良十四世",
+    "name_en": "Leo XIV",
+    "birth_date": "1955-09-14",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "美國、秘鲁、梵蒂岡城國",
+    "nationality_en": "United States, Peru, Vatican City",
+    "field_zh": "Catholic priest、天主教会主教、修士、總主教、regular priest、prefect、Catholic missionary、數學家",
+    "field_en": "Catholic priest, Catholic bishop, friar, archbishop, regular priest, prefect, Catholic missionary, mathematician",
+    "summary": "天主教會第267任教宗（2025年-）",
+    "source": {
+      "type": "wikidata",
+      "cohort": "western",
+      "id": "Q6109517",
+      "url": "https://www.wikidata.org/wiki/Q6109517"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "乙未",
+      "month": "乙酉",
+      "day": "戊寅",
+      "hour": null
+    },
+    "day_pillar": "戊寅",
+    "day_master": "戊",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 3,
+      "水": 0,
+      "火": 0,
+      "土": 2
+    }
+  },
+  {
+    "id": "Q5284",
+    "name_zh": "比尔·盖茨",
+    "name_en": "Bill Gates",
+    "birth_date": "1955-10-28",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "美國",
+    "nationality_en": "United States",
+    "field_zh": "企业家、程序员、電腦科學家、bridge player、投資者、慈善家、作家、大亨、technology entrepreneur",
+    "field_en": "entrepreneur, programmer, computer scientist, bridge player, investor, philanthropist, writer, business magnate, technology entrepreneur",
+    "summary": "美國企業家",
+    "source": {
+      "type": "wikidata",
+      "cohort": "western",
+      "id": "Q5284",
+      "url": "https://www.wikidata.org/wiki/Q5284"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "乙未",
+      "month": "丙戌",
+      "day": "壬戌",
+      "hour": null
+    },
+    "day_pillar": "壬戌",
+    "day_master": "壬",
+    "wuxing_distribution": {
+      "金": 0,
+      "木": 1,
+      "水": 1,
+      "火": 1,
+      "土": 3
+    }
+  },
+  {
+    "id": "Q316013",
+    "name_zh": "岩田聪",
+    "name_en": "Satoru Iwata",
+    "birth_date": "1959-12-06",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "日本",
+    "nationality_en": "Japan",
+    "field_zh": "企业家、游戏程序师、電子遊戲製作人、工程师、電腦科學家、執行製作人",
+    "field_en": "entrepreneur, game programmer, video game producer, engineer, computer scientist, executive producer",
+    "summary": "任天堂公司前社長",
+    "source": {
+      "type": "wikidata",
+      "cohort": "global_extra",
+      "id": "Q316013",
+      "url": "https://www.wikidata.org/wiki/Q316013"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "己亥",
+      "month": "乙亥",
+      "day": "壬戌",
+      "hour": null
+    },
+    "day_pillar": "壬戌",
+    "day_master": "壬",
+    "wuxing_distribution": {
+      "金": 0,
+      "木": 1,
+      "水": 3,
+      "火": 0,
+      "土": 2
+    }
+  },
+  {
+    "id": "Q7245609",
+    "name_zh": "梁美芬",
+    "name_en": "Priscilla Leung",
+    "birth_date": "1960-11-18",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "英屬香港、中华人民共和国",
+    "nationality_en": "British Hong Kong, People's Republic of China",
+    "field_zh": "律師、政治人物、大學教師、科學家、法学家、新聞工作者",
+    "field_en": "lawyer, politician, university teacher, scientist, jurist, journalist",
+    "summary": "香港政治人物",
+    "source": {
+      "type": "wikidata",
+      "cohort": "china_like",
+      "id": "Q7245609",
+      "url": "https://www.wikidata.org/wiki/Q7245609"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "庚子",
+      "month": "丁亥",
+      "day": "庚戌",
+      "hour": null
+    },
+    "day_pillar": "庚戌",
+    "day_master": "庚",
+    "wuxing_distribution": {
+      "金": 2,
+      "木": 0,
+      "水": 2,
+      "火": 1,
+      "土": 1
+    }
+  },
+  {
+    "id": "Q8460832",
+    "name_zh": "劉剛 (民運人士)",
+    "name_en": "Liu Gang",
+    "birth_date": "1961-01-30",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "中华人民共和国、美國",
+    "nationality_en": "People's Republic of China, United States",
+    "field_zh": "政治人物、數學家、金融业者、人權護衛者、物理学家、電腦科學家、理论物理学家",
+    "field_en": "politician, mathematician, financier, human rights defender, physicist, computer scientist, theoretical physicist",
+    "summary": "Chinese scientist and revolutionary (born 1961)",
+    "source": {
+      "type": "wikidata",
+      "cohort": "china_like",
+      "id": "Q8460832",
+      "url": "https://www.wikidata.org/wiki/Q8460832"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "庚子",
+      "month": "己丑",
+      "day": "癸亥",
+      "hour": null
+    },
+    "day_pillar": "癸亥",
+    "day_master": "癸",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 0,
+      "水": 3,
+      "火": 0,
+      "土": 2
+    }
+  },
+  {
+    "id": "Q318750",
+    "name_zh": "斯蒂芬希伦堡",
+    "name_en": "Stephen Hillenburg",
+    "birth_date": "1961-08-21",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "美國",
+    "nationality_en": "United States",
+    "field_zh": "电影制片人、電影導演、編劇、動畫師、大學教師、演員、配音員、畫家、漫畫家、生物学家、電視製作人、作家、漫画家",
+    "field_en": "film producer, film director, screenwriter, animator, university teacher, actor, voice actor, painter, comics artist, biologist, television producer, writer, cartoonist",
+    "summary": "美国漫画家",
+    "source": {
+      "type": "wikidata",
+      "cohort": "western",
+      "id": "Q318750",
+      "url": "https://www.wikidata.org/wiki/Q318750"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "辛丑",
+      "month": "丙申",
+      "day": "丙戌",
+      "hour": null
+    },
+    "day_pillar": "丙戌",
+    "day_master": "丙",
+    "wuxing_distribution": {
+      "金": 2,
+      "木": 0,
+      "水": 0,
+      "火": 2,
+      "土": 2
+    }
+  },
+  {
+    "id": "Q80917",
+    "name_zh": "山中伸彌",
+    "name_en": "Shinya Yamanaka",
+    "birth_date": "1962-09-04",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "日本",
+    "nationality_en": "Japan",
+    "field_zh": "生物学家、医生、外科医生、物理学家、遗传学家、研究者、大學教師",
+    "field_en": "biologist, physician, surgeon, physicist, geneticist, researcher, university teacher",
+    "summary": "日本医学家、细胞生物学家",
+    "source": {
+      "type": "wikidata",
+      "cohort": "global_extra",
+      "id": "Q80917",
+      "url": "https://www.wikidata.org/wiki/Q80917"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "壬寅",
+      "month": "戊申",
+      "day": "乙巳",
+      "hour": null
+    },
+    "day_pillar": "乙巳",
+    "day_master": "乙",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 2,
+      "水": 1,
+      "火": 1,
+      "土": 1
+    }
+  },
+  {
+    "id": "Q10884754",
+    "name_zh": "任詠華",
+    "name_en": "Vivian Wing-Wah Yam",
+    "birth_date": "1963-02-10",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "中华人民共和国",
+    "nationality_en": "People's Republic of China",
+    "field_zh": "化学家、电子技术员、大學教師",
+    "field_en": "chemist, electrotechnician, university teacher",
+    "summary": "Hong Kong chemist",
+    "source": {
+      "type": "wikidata",
+      "cohort": "china_like",
+      "id": "Q10884754",
+      "url": "https://www.wikidata.org/wiki/Q10884754"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "癸卯",
+      "month": "甲寅",
+      "day": "甲申",
+      "hour": null
+    },
+    "day_pillar": "甲申",
+    "day_master": "甲",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 4,
+      "水": 1,
+      "火": 0,
+      "土": 0
+    }
+  },
+  {
+    "id": "Q315577",
+    "name_zh": "小島秀夫",
+    "name_en": "Hideo Kojima",
+    "birth_date": "1963-08-24",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "日本",
+    "nationality_en": "Japan",
+    "field_zh": "電子遊戲設計師、電腦科學家、電子遊戲製作人、編劇、作家、遊戲設計師、廣播節目主持人",
+    "field_en": "video game designer, computer scientist, video game producer, screenwriter, writer, game designer, radio personality",
+    "summary": "日本遊戲製作人",
+    "source": {
+      "type": "wikidata",
+      "cohort": "global_extra",
+      "id": "Q315577",
+      "url": "https://www.wikidata.org/wiki/Q315577"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "癸卯",
+      "month": "庚申",
+      "day": "己亥",
+      "hour": null
+    },
+    "day_pillar": "己亥",
+    "day_master": "己",
+    "wuxing_distribution": {
+      "金": 2,
+      "木": 1,
+      "水": 2,
+      "火": 0,
+      "土": 1
+    }
+  },
+  {
+    "id": "Q382950",
+    "name_zh": "石黑浩",
+    "name_en": "Hiroshi Ishiguro",
+    "birth_date": "1963-10-23",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "日本",
+    "nationality_en": "Japan",
+    "field_zh": "科學家、机器人专家、大學教師",
+    "field_en": "scientist, roboticist, university teacher",
+    "summary": "日本机械人工程师",
+    "source": {
+      "type": "wikidata",
+      "cohort": "global_extra",
+      "id": "Q382950",
+      "url": "https://www.wikidata.org/wiki/Q382950"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "癸卯",
+      "month": "壬戌",
+      "day": "己亥",
+      "hour": null
+    },
+    "day_pillar": "己亥",
+    "day_master": "己",
+    "wuxing_distribution": {
+      "金": 0,
+      "木": 1,
+      "水": 3,
+      "火": 0,
+      "土": 2
+    }
+  },
+  {
+    "id": "Q295218",
+    "name_zh": "田尻智",
+    "name_en": "Satoshi Tajiri",
+    "birth_date": "1965-08-28",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "日本",
+    "nationality_en": "Japan",
+    "field_zh": "電腦科學家、企业家、編劇、电子游戏总监",
+    "field_en": "computer scientist, entrepreneur, screenwriter, video game director",
+    "summary": "Japanese video game designer",
+    "source": {
+      "type": "wikidata",
+      "cohort": "global_extra",
+      "id": "Q295218",
+      "url": "https://www.wikidata.org/wiki/Q295218"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "乙巳",
+      "month": "甲申",
+      "day": "甲寅",
+      "hour": null
+    },
+    "day_pillar": "甲寅",
+    "day_master": "甲",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 4,
+      "水": 0,
+      "火": 1,
+      "土": 0
+    }
+  },
+  {
+    "id": "Q716030",
+    "name_zh": "王傳福",
+    "name_en": "Wang Chuanfu",
+    "birth_date": "1966-04-08",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "中华人民共和国",
+    "nationality_en": "People's Republic of China",
+    "field_zh": "化学家、企业家、商人",
+    "field_en": "chemist, entrepreneur, businessperson",
+    "summary": "中國企業家",
+    "source": {
+      "type": "wikidata",
+      "cohort": "china_like",
+      "id": "Q716030",
+      "url": "https://www.wikidata.org/wiki/Q716030"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "丙午",
+      "month": "壬辰",
+      "day": "丁酉",
+      "hour": null
+    },
+    "day_pillar": "丁酉",
+    "day_master": "丁",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 0,
+      "水": 1,
+      "火": 3,
+      "土": 1
+    }
+  },
+  {
+    "id": "Q181",
+    "name_zh": "吉米·威爾斯",
+    "name_en": "Jimmy Wales",
+    "birth_date": "1966-08-08",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "美國、英国",
+    "nationality_en": "United States, United Kingdom",
+    "field_zh": "商人、企业家、维基人、電腦科學家、研究者、演说家、商家",
+    "field_en": "businessperson, entrepreneur, Wikimedian, computer scientist, researcher, orator, merchant",
+    "summary": "維基百科的共同創辦人與美國網際網路企業家",
+    "source": {
+      "type": "wikidata",
+      "cohort": "western",
+      "id": "Q181",
+      "url": "https://www.wikidata.org/wiki/Q181"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "丙午",
+      "month": "丙申",
+      "day": "己亥",
+      "hour": null
+    },
+    "day_pillar": "己亥",
+    "day_master": "己",
+    "wuxing_distribution": {
+      "金": 1,
+      "木": 0,
+      "水": 1,
+      "火": 3,
+      "土": 1
+    }
+  },
+  {
+    "id": "Q92985",
+    "name_zh": "李彦宏",
+    "name_en": "Robin Li",
+    "birth_date": "1968-11-17",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "中华人民共和国",
+    "nationality_en": "People's Republic of China",
+    "field_zh": "企业家、发明家、商人、電腦科學家、软件工程师",
+    "field_en": "entrepreneur, inventor, businessperson, computer scientist, software engineer",
+    "summary": "中国商人、百度公司创始人",
+    "source": {
+      "type": "wikidata",
+      "cohort": "china_like",
+      "id": "Q92985",
+      "url": "https://www.wikidata.org/wiki/Q92985"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "戊申",
+      "month": "癸亥",
+      "day": "辛卯",
+      "hour": null
+    },
+    "day_pillar": "辛卯",
+    "day_master": "辛",
+    "wuxing_distribution": {
+      "金": 2,
+      "木": 1,
+      "水": 2,
+      "火": 0,
+      "土": 1
+    }
+  },
+  {
+    "id": "Q197173",
+    "name_zh": "张大庆",
+    "name_en": "Zhang Daqing",
+    "birth_date": "1969-10-23",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "中华人民共和国",
+    "nationality_en": "People's Republic of China",
+    "field_zh": "天文学家",
+    "field_en": "astronomer",
+    "summary": "天文爱好者",
+    "source": {
+      "type": "wikidata",
+      "cohort": "china_like",
+      "id": "Q197173",
+      "url": "https://www.wikidata.org/wiki/Q197173"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "己酉",
+      "month": "甲戌",
+      "day": "辛未",
+      "hour": null
+    },
+    "day_pillar": "辛未",
+    "day_master": "辛",
+    "wuxing_distribution": {
+      "金": 2,
+      "木": 1,
+      "水": 0,
+      "火": 0,
+      "土": 3
+    }
+  },
+  {
+    "id": "Q313294",
+    "name_zh": "胡佳",
+    "name_en": "Hu Jia",
+    "birth_date": "1973-07-25",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "中华人民共和国",
+    "nationality_en": "People's Republic of China",
+    "field_zh": "人權護衛者、環保人士、電腦科學家、公眾人物",
+    "field_en": "human rights defender, environmentalist, computer scientist, public figure",
+    "summary": "中國社會活動家",
+    "source": {
+      "type": "wikidata",
+      "cohort": "china_like",
+      "id": "Q313294",
+      "url": "https://www.wikidata.org/wiki/Q313294"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "癸丑",
+      "month": "己未",
+      "day": "壬戌",
+      "hour": null
+    },
+    "day_pillar": "壬戌",
+    "day_master": "壬",
+    "wuxing_distribution": {
+      "金": 0,
+      "木": 0,
+      "水": 2,
+      "火": 0,
+      "土": 4
+    }
+  },
+  {
+    "id": "Q16229874",
+    "name_zh": "利·刘易斯",
+    "name_en": "Leah Lewis",
+    "birth_date": "1996-12-09",
+    "birth_hour": null,
+    "has_birth_hour": false,
+    "nationality_zh": "美國、中华人民共和国",
+    "nationality_en": "United States, People's Republic of China",
+    "field_zh": "演員、电视演员、大學教師、電腦科學家",
+    "field_en": "actor, television actor, university teacher, computer scientist",
+    "summary": "American actress (born 1996)",
+    "source": {
+      "type": "wikidata",
+      "cohort": "china_like",
+      "id": "Q16229874",
+      "url": "https://www.wikidata.org/wiki/Q16229874"
+    },
+    "birth_precision": 11,
+    "pillars": {
+      "year": "丙子",
+      "month": "庚子",
+      "day": "庚辰",
+      "hour": null
+    },
+    "day_pillar": "庚辰",
+    "day_master": "庚",
+    "wuxing_distribution": {
+      "金": 2,
+      "木": 0,
+      "水": 2,
+      "火": 1,
+      "土": 1
+    }
+  }
+]

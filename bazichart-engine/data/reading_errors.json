@@ -1,0 +1,164 @@
+[
+  {
+    "id": "b166766e-6039-41a5-9928-5e802ef6b8e6",
+    "name_en": "Raoul Reheme Abdul",
+    "error": "URLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)",
+    "fail_at": "2026-03-20T15:13:45.314404Z"
+  },
+  {
+    "id": "5b41af41-b3d2-4115-81b7-3f4aeb7ad64c",
+    "name_en": "Tariq Abdul-Wahad",
+    "error": "URLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)",
+    "fail_at": "2026-03-20T15:13:57.319465Z"
+  },
+  {
+    "id": "ce87d7c2-6272-47a0-b8dc-c712c3ec8b60",
+    "name_en": "Patrice Abeille",
+    "error": "URLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)",
+    "fail_at": "2026-03-20T15:14:09.328222Z"
+  },
+  {
+    "id": "ca400d42-c427-4317-b82a-60662fab823c",
+    "name_en": "Alan Abel",
+    "error": "URLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)",
+    "fail_at": "2026-03-20T15:14:21.336919Z"
+  },
+  {
+    "id": "77a27dbb-e3fa-4efb-8999-05aaa61ebfe8",
+    "name_en": "Ilse Abel",
+    "error": "URLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)",
+    "fail_at": "2026-03-20T15:14:33.345697Z"
+  },
+  {
+    "id": "549498c7-3492-437f-9053-c5f34624c6f6",
+    "name_en": "Robert J. Abel",
+    "error": "URLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)",
+    "fail_at": "2026-03-20T15:14:45.354109Z"
+  },
+  {
+    "id": "5c3fc8c8-8b66-4bfc-9c1b-1f14e1cb39ca",
+    "name_en": "Pierre Abelin",
+    "error": "URLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)",
+    "fail_at": "2026-03-20T15:14:57.361595Z"
+  },
+  {
+    "id": "83192682-7784-44e2-b30e-dde1231c1b00",
+    "name_en": "Bess Abell",
+    "error": "URLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)",
+    "fail_at": "2026-03-20T15:15:09.371577Z"
+  },
+  {
+    "id": "0ecbaf95-0133-4fc3-8460-9478651ca707",
+    "name_en": "George Abell",
+    "error": "URLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)",
+    "fail_at": "2026-03-20T15:15:21.379851Z"
+  },
+  {
+    "id": "4406d006-0db4-43fc-9f3f-cd903916d111",
+    "name_en": "Ralph Abernathy",
+    "error": "URLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)",
+    "fail_at": "2026-03-20T15:17:57.644000Z"
+  },
+  {
+    "id": "6f95f969-eaa9-4da7-aa5f-f7d7a6f2368b",
+    "name_en": "Colette Béatrice Aboulker-Muscat",
+    "error": "TimeoutError: The read operation timed out",
+    "fail_at": "2026-03-20T15:25:59.694188Z"
+  },
+  {
+    "id": "50f7b290-bc5b-4c9b-8e0c-f6b9338c71f2",
+    "name_en": "Miguel M. Abrahão",
+    "error": "TimeoutError: The read operation timed out",
+    "fail_at": "2026-03-20T15:28:34.784966Z"
+  },
+  {
+    "id": "e1e0c347-21d1-46f6-b9f7-dd22ef3d3217",
+    "name_en": "Barbara Abramo",
+    "error": "JSON parse error: Expecting ',' delimiter: line 28 column 3 (char 1064) | raw: {\n  \"day_master\": \"丙\",\n  \"day_master_strength\": \"偏弱\",\n  \"strength_reasoning\": \"日主丙火生于丑月，丑为湿土，月令失令；地支无根（巳火被丑土泄气，且子水克巳火，根气微弱），天干无印比帮扶（仅有年干癸水克身，月干乙木印星被丑土耗泄，时干己土泄身），故日主偏弱。\",\n  \"pattern\": \"伤官格\",\n  \"pattern",
+    "fail_at": "2026-03-20T15:29:44.056821Z"
+  },
+  {
+    "id": "1b924ed6-2c34-4c14-b27c-c63808f9a0f2",
+    "name_en": "Gerrit Achterberg",
+    "error": "URLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)",
+    "fail_at": "2026-03-20T15:42:25.717681Z"
+  },
+  {
+    "id": "cde25d17-7cc7-4eb1-b10b-59824f99520d",
+    "name_en": "Alexis Acker",
+    "error": "URLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)",
+    "fail_at": "2026-03-20T15:42:37.739048Z"
+  },
+  {
+    "id": "0ee5fb56-85fe-4fe3-9677-3a7ddb024edd",
+    "name_en": "Barry Ackerley",
+    "error": "URLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)",
+    "fail_at": "2026-03-20T15:42:49.773245Z"
+  },
+  {
+    "id": "e5ff5e1d-c784-4aeb-8e62-d3a9b8c09419",
+    "name_en": "Forrest Ackerman",
+    "error": "URLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)",
+    "fail_at": "2026-03-20T15:43:01.790110Z"
+  },
+  {
+    "id": "0897ac46-743e-426b-9bd8-5d4a7712be56",
+    "name_en": "Shelley Ackerman",
+    "error": "URLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)",
+    "fail_at": "2026-03-20T15:43:13.802988Z"
+  },
+  {
+    "id": "18f3ba61-9e2f-4e04-bd9e-4a991562d659",
+    "name_en": "Nels Ackerson",
+    "error": "URLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)",
+    "fail_at": "2026-03-20T15:43:25.809835Z"
+  },
+  {
+    "id": "7699c644-ef25-4c62-919b-0586378f686c",
+    "name_en": "Gardner Ackley",
+    "error": "URLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)",
+    "fail_at": "2026-03-20T15:43:37.822034Z"
+  },
+  {
+    "id": "1dff8ede-03f6-4ed9-95eb-bd322e584bb0",
+    "name_en": "Germaine Acogny",
+    "error": "URLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)",
+    "fail_at": "2026-03-20T15:43:49.831388Z"
+  },
+  {
+    "id": "8e168f20-3bdb-4b40-9daa-a74a3013a7bb",
+    "name_en": "Oscar Zeta Acosta",
+    "error": "URLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)",
+    "fail_at": "2026-03-20T15:44:01.842653Z"
+  },
+  {
+    "id": "5374fdef-7d03-4abf-a09e-27fe4d7b6d30",
+    "name_en": "Rodolfo Acosta",
+    "error": "URLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)",
+    "fail_at": "2026-03-20T15:44:13.849499Z"
+  },
+  {
+    "id": "23112802-20f9-4ed0-84c0-61eebd9b2781",
+    "name_en": "Romana Acosta Banuelos",
+    "error": "URLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)",
+    "fail_at": "2026-03-20T15:44:25.859913Z"
+  },
+  {
+    "id": "14815dd3-0837-47b2-bf36-0d41233e27e2",
+    "name_en": "Brazil Acosta Pena",
+    "error": "URLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)",
+    "fail_at": "2026-03-20T15:44:37.871725Z"
+  },
+  {
+    "id": "84333160-0467-4153-9015-d16fa3a582df",
+    "name_en": "Rocio Colette Acuña Calzada",
+    "error": "JSON parse error: Expecting ',' delimiter: line 28 column 5 (char 1126) | raw: {\n  \"day_master\": \"丁\",\n  \"day_master_strength\": \"偏强\",\n  \"strength_reasoning\": \"日主丁火生于巳月，得月令旺气；日支巳火为强根，时支寅木为印星生扶，年支戌土为火库藏根；天干乙木印星透出，乙木生丁火，印比帮扶有力。虽有壬水官星透干克身，但壬水坐戌土受克，且巳月火旺水弱，故日主偏强。\",\n  \"pattern\": \"建禄格\",",
+    "fail_at": "2026-03-20T15:46:52.949824Z"
+  },
+  {
+    "id": "0b8c9c55-292f-41d4-9271-6465e2532207",
+    "name_en": "Olivier Adam",
+    "error": "JSON parse error: Expecting ',' delimiter: line 28 column 5 (char 1059) | raw: {\n  \"day_master\": \"甲\",\n  \"day_master_strength\": \"偏强\",\n  \"strength_reasoning\": \"日主甲木生于未月，未为木库，但未月土旺木衰，不得月令；日主甲木坐寅木为禄根，年柱甲寅也为禄根，根气强旺；时柱己巳，巳中藏丙火、戊土、庚金，无印比帮扶，但年、日柱甲寅比劫帮扶有力。综合判断，日主甲木虽不得月令，但根气深厚，比劫帮扶多，故为偏强。",
+    "fail_at": "2026-03-20T15:49:48.851493Z"
+  }
+]

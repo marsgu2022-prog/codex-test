@@ -1,0 +1,19 @@
+{
+  "jobs": [
+    {
+      "job": {
+        "cohort": "western",
+        "language": "en",
+        "country_qid": "Q30",
+        "occupation": "politician",
+        "limit": 15,
+        "page": 1,
+        "offset": 0
+      },
+      "error": "504 Server Error: Gateway Timeout for url: https://query.wikidata.org/sparql?query=SELECT%0A++%3Fperson%0A++%3FbirthDate%0A++%3Fprecision%0A++%3Fsitelinks%0AWHERE+%7B%0A++%3Fperson+wdt%3AP31+wd%3AQ5+%3B%0A++++++++++wdt%3AP106+wd%3AQ82955+%3B%0A++++++++++wdt%3AP27+%3Fcountry+%3B%0A++++++++++wikibase%3Asitelinks+%3Fsitelinks+.%0A++%3Fperson+p%3AP569%2Fpsv%3AP569+%3FbirthNode+.%0A++%3FbirthNode+wikibase%3AtimeValue+%3FbirthDate+%3B%0A+++++++++++++wikibase%3AtimePrecision+%3Fprecision+.%0A++FILTER%28%3Fprecision+%3E%3D+11%29%0A++FILTER%28%3Fsitelinks+%3E%3D+5%29%0A++VALUES+%3Fcountry+%7B+wd%3AQ30+%7D%0A%7D%0AORDER+BY+DESC%28%3Fsitelinks%29%0ALIMIT+15%0AOFFSET+0&format=json",
+      "attempt_count": 3,
+      "next_retry_at": 1773560760,
+      "updated_at": "2026-03-15 15:06:00"
+    }
+  ]
+}

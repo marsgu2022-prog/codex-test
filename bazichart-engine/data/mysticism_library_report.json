@@ -1,0 +1,315 @@
+{
+  "generated_at": "2026-03-15 18:10:01",
+  "total_records": 0,
+  "categories": {},
+  "failed_requests": 53,
+  "failures": [
+    {
+      "stage": "category",
+      "language": "zh",
+      "target": "Category:風水",
+      "message": "HTTPSConnectionPool(host='zh.wikipedia.org', port=443): Max retries exceeded with url: /w/api.php?action=query&format=json&list=categorymembers&cmtitle=Category%3A%E9%A2%A8%E6%B0%B4&cmtype=page&cmlimit=50 (Caused by NameResolutionError(\"HTTPSConnection(host='zh.wikipedia.org', port=443): Failed to resolve 'zh.wikipedia.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    },
+    {
+      "stage": "category",
+      "language": "zh",
+      "target": "Category:命理學",
+      "message": "HTTPSConnectionPool(host='zh.wikipedia.org', port=443): Max retries exceeded with url: /w/api.php?action=query&format=json&list=categorymembers&cmtitle=Category%3A%E5%91%BD%E7%90%86%E5%AD%B8&cmtype=page&cmlimit=50 (Caused by NameResolutionError(\"HTTPSConnection(host='zh.wikipedia.org', port=443): Failed to resolve 'zh.wikipedia.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    },
+    {
+      "stage": "category",
+      "language": "zh",
+      "target": "Category:易經",
+      "message": "HTTPSConnectionPool(host='zh.wikipedia.org', port=443): Max retries exceeded with url: /w/api.php?action=query&format=json&list=categorymembers&cmtitle=Category%3A%E6%98%93%E7%B6%93&cmtype=page&cmlimit=50 (Caused by NameResolutionError(\"HTTPSConnection(host='zh.wikipedia.org', port=443): Failed to resolve 'zh.wikipedia.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    },
+    {
+      "stage": "category",
+      "language": "zh",
+      "target": "Category:道教占卜",
+      "message": "HTTPSConnectionPool(host='zh.wikipedia.org', port=443): Max retries exceeded with url: /w/api.php?action=query&format=json&list=categorymembers&cmtitle=Category%3A%E9%81%93%E6%95%99%E5%8D%A0%E5%8D%9C&cmtype=page&cmlimit=50 (Caused by NameResolutionError(\"HTTPSConnection(host='zh.wikipedia.org', port=443): Failed to resolve 'zh.wikipedia.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    },
+    {
+      "stage": "category",
+      "language": "en",
+      "target": "Category:Feng shui",
+      "message": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /w/api.php?action=query&format=json&list=categorymembers&cmtitle=Category%3AFeng+shui&cmtype=page&cmlimit=50 (Caused by NameResolutionError(\"HTTPSConnection(host='en.wikipedia.org', port=443): Failed to resolve 'en.wikipedia.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    },
+    {
+      "stage": "category",
+      "language": "en",
+      "target": "Category:Chinese astrology",
+      "message": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /w/api.php?action=query&format=json&list=categorymembers&cmtitle=Category%3AChinese+astrology&cmtype=page&cmlimit=50 (Caused by NameResolutionError(\"HTTPSConnection(host='en.wikipedia.org', port=443): Failed to resolve 'en.wikipedia.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    },
+    {
+      "stage": "category",
+      "language": "en",
+      "target": "Category:I Ching",
+      "message": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /w/api.php?action=query&format=json&list=categorymembers&cmtitle=Category%3AI+Ching&cmtype=page&cmlimit=50 (Caused by NameResolutionError(\"HTTPSConnection(host='en.wikipedia.org', port=443): Failed to resolve 'en.wikipedia.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    },
+    {
+      "stage": "category",
+      "language": "en",
+      "target": "Category:Divination",
+      "message": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /w/api.php?action=query&format=json&list=categorymembers&cmtitle=Category%3ADivination&cmtype=page&cmlimit=50 (Caused by NameResolutionError(\"HTTPSConnection(host='en.wikipedia.org', port=443): Failed to resolve 'en.wikipedia.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    },
+    {
+      "stage": "summary",
+      "language": "zh",
+      "target": "八字",
+      "message": "HTTPSConnectionPool(host='zh.wikipedia.org', port=443): Max retries exceeded with url: /api/rest_v1/page/summary/%E5%85%AB%E5%AD%97 (Caused by NameResolutionError(\"HTTPSConnection(host='zh.wikipedia.org', port=443): Failed to resolve 'zh.wikipedia.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    },
+    {
+      "stage": "summary",
+      "language": "en",
+      "target": "Four Pillars of Destiny",
+      "message": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /api/rest_v1/page/summary/Four%20Pillars%20of%20Destiny (Caused by NameResolutionError(\"HTTPSConnection(host='en.wikipedia.org', port=443): Failed to resolve 'en.wikipedia.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    },
+    {
+      "stage": "record",
+      "language": "multi",
+      "target": "bazi",
+      "message": "zh/en 页面均抓取失败，已跳过该主题。"
+    },
+    {
+      "stage": "summary",
+      "language": "zh",
+      "target": "风水",
+      "message": "HTTPSConnectionPool(host='zh.wikipedia.org', port=443): Max retries exceeded with url: /api/rest_v1/page/summary/%E9%A3%8E%E6%B0%B4 (Caused by NameResolutionError(\"HTTPSConnection(host='zh.wikipedia.org', port=443): Failed to resolve 'zh.wikipedia.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    },
+    {
+      "stage": "summary",
+      "language": "en",
+      "target": "Feng shui",
+      "message": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /api/rest_v1/page/summary/Feng%20shui (Caused by NameResolutionError(\"HTTPSConnection(host='en.wikipedia.org', port=443): Failed to resolve 'en.wikipedia.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    },
+    {
+      "stage": "record",
+      "language": "multi",
+      "target": "feng_shui",
+      "message": "zh/en 页面均抓取失败，已跳过该主题。"
+    },
+    {
+      "stage": "summary",
+      "language": "zh",
+      "target": "紫微斗数",
+      "message": "HTTPSConnectionPool(host='zh.wikipedia.org', port=443): Max retries exceeded with url: /api/rest_v1/page/summary/%E7%B4%AB%E5%BE%AE%E6%96%97%E6%95%B0 (Caused by NameResolutionError(\"HTTPSConnection(host='zh.wikipedia.org', port=443): Failed to resolve 'zh.wikipedia.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    },
+    {
+      "stage": "summary",
+      "language": "en",
+      "target": "Zi Wei Dou Shu",
+      "message": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /api/rest_v1/page/summary/Zi%20Wei%20Dou%20Shu (Caused by NameResolutionError(\"HTTPSConnection(host='en.wikipedia.org', port=443): Failed to resolve 'en.wikipedia.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    },
+    {
+      "stage": "record",
+      "language": "multi",
+      "target": "ziwei_doushu",
+      "message": "zh/en 页面均抓取失败，已跳过该主题。"
+    },
+    {
+      "stage": "summary",
+      "language": "zh",
+      "target": "堪舆",
+      "message": "HTTPSConnectionPool(host='zh.wikipedia.org', port=443): Max retries exceeded with url: /api/rest_v1/page/summary/%E5%A0%AA%E8%88%86 (Caused by NameResolutionError(\"HTTPSConnection(host='zh.wikipedia.org', port=443): Failed to resolve 'zh.wikipedia.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    },
+    {
+      "stage": "summary",
+      "language": "en",
+      "target": "Kanyu",
+      "message": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /api/rest_v1/page/summary/Kanyu (Caused by NameResolutionError(\"HTTPSConnection(host='en.wikipedia.org', port=443): Failed to resolve 'en.wikipedia.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    },
+    {
+      "stage": "record",
+      "language": "multi",
+      "target": "kanyu",
+      "message": "zh/en 页面均抓取失败，已跳过该主题。"
+    },
+    {
+      "stage": "summary",
+      "language": "zh",
+      "target": "易经",
+      "message": "HTTPSConnectionPool(host='zh.wikipedia.org', port=443): Max retries exceeded with url: /api/rest_v1/page/summary/%E6%98%93%E7%BB%8F (Caused by NameResolutionError(\"HTTPSConnection(host='zh.wikipedia.org', port=443): Failed to resolve 'zh.wikipedia.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    },
+    {
+      "stage": "summary",
+      "language": "en",
+      "target": "I Ching",
+      "message": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /api/rest_v1/page/summary/I%20Ching (Caused by NameResolutionError(\"HTTPSConnection(host='en.wikipedia.org', port=443): Failed to resolve 'en.wikipedia.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    },
+    {
+      "stage": "record",
+      "language": "multi",
+      "target": "yijing",
+      "message": "zh/en 页面均抓取失败，已跳过该主题。"
+    },
+    {
+      "stage": "summary",
+      "language": "zh",
+      "target": "阴阳五行",
+      "message": "HTTPSConnectionPool(host='zh.wikipedia.org', port=443): Max retries exceeded with url: /api/rest_v1/page/summary/%E9%98%B4%E9%98%B3%E4%BA%94%E8%A1%8C (Caused by NameResolutionError(\"HTTPSConnection(host='zh.wikipedia.org', port=443): Failed to resolve 'zh.wikipedia.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    },
+    {
+      "stage": "summary",
+      "language": "en",
+      "target": "Wuxing (Chinese philosophy)",
+      "message": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /api/rest_v1/page/summary/Wuxing%20%28Chinese%20philosophy%29 (Caused by NameResolutionError(\"HTTPSConnection(host='en.wikipedia.org', port=443): Failed to resolve 'en.wikipedia.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    },
+    {
+      "stage": "record",
+      "language": "multi",
+      "target": "yinyang_wuxing",
+      "message": "zh/en 页面均抓取失败，已跳过该主题。"
+    },
+    {
+      "stage": "summary",
+      "language": "zh",
+      "target": "渊海子平",
+      "message": "HTTPSConnectionPool(host='zh.wikipedia.org', port=443): Max retries exceeded with url: /api/rest_v1/page/summary/%E6%B8%8A%E6%B5%B7%E5%AD%90%E5%B9%B3 (Caused by NameResolutionError(\"HTTPSConnection(host='zh.wikipedia.org', port=443): Failed to resolve 'zh.wikipedia.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    },
+    {
+      "stage": "summary",
+      "language": "en",
+      "target": "Yuan Hai Zi Ping",
+      "message": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /api/rest_v1/page/summary/Yuan%20Hai%20Zi%20Ping (Caused by NameResolutionError(\"HTTPSConnection(host='en.wikipedia.org', port=443): Failed to resolve 'en.wikipedia.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    },
+    {
+      "stage": "record",
+      "language": "multi",
+      "target": "yuan_hai_zi_ping",
+      "message": "zh/en 页面均抓取失败，已跳过该主题。"
+    },
+    {
+      "stage": "summary",
+      "language": "zh",
+      "target": "三命通会",
+      "message": "HTTPSConnectionPool(host='zh.wikipedia.org', port=443): Max retries exceeded with url: /api/rest_v1/page/summary/%E4%B8%89%E5%91%BD%E9%80%9A%E4%BC%9A (Caused by NameResolutionError(\"HTTPSConnection(host='zh.wikipedia.org', port=443): Failed to resolve 'zh.wikipedia.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    },
+    {
+      "stage": "summary",
+      "language": "en",
+      "target": "San Ming Tong Hui",
+      "message": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /api/rest_v1/page/summary/San%20Ming%20Tong%20Hui (Caused by NameResolutionError(\"HTTPSConnection(host='en.wikipedia.org', port=443): Failed to resolve 'en.wikipedia.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    },
+    {
+      "stage": "record",
+      "language": "multi",
+      "target": "san_ming_tong_hui",
+      "message": "zh/en 页面均抓取失败，已跳过该主题。"
+    },
+    {
+      "stage": "summary",
+      "language": "zh",
+      "target": "滴天髓",
+      "message": "HTTPSConnectionPool(host='zh.wikipedia.org', port=443): Max retries exceeded with url: /api/rest_v1/page/summary/%E6%BB%B4%E5%A4%A9%E9%AB%93 (Caused by NameResolutionError(\"HTTPSConnection(host='zh.wikipedia.org', port=443): Failed to resolve 'zh.wikipedia.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    },
+    {
+      "stage": "summary",
+      "language": "en",
+      "target": "Di Tian Sui",
+      "message": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /api/rest_v1/page/summary/Di%20Tian%20Sui (Caused by NameResolutionError(\"HTTPSConnection(host='en.wikipedia.org', port=443): Failed to resolve 'en.wikipedia.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    },
+    {
+      "stage": "record",
+      "language": "multi",
+      "target": "di_tian_sui",
+      "message": "zh/en 页面均抓取失败，已跳过该主题。"
+    },
+    {
+      "stage": "summary",
+      "language": "zh",
+      "target": "子平真诠",
+      "message": "HTTPSConnectionPool(host='zh.wikipedia.org', port=443): Max retries exceeded with url: /api/rest_v1/page/summary/%E5%AD%90%E5%B9%B3%E7%9C%9F%E8%AF%A0 (Caused by NameResolutionError(\"HTTPSConnection(host='zh.wikipedia.org', port=443): Failed to resolve 'zh.wikipedia.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    },
+    {
+      "stage": "summary",
+      "language": "en",
+      "target": "Zi Ping Zhen Quan",
+      "message": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /api/rest_v1/page/summary/Zi%20Ping%20Zhen%20Quan (Caused by NameResolutionError(\"HTTPSConnection(host='en.wikipedia.org', port=443): Failed to resolve 'en.wikipedia.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    },
+    {
+      "stage": "record",
+      "language": "multi",
+      "target": "zi_ping_zhen_quan",
+      "message": "zh/en 页面均抓取失败，已跳过该主题。"
+    },
+    {
+      "stage": "summary",
+      "language": "zh",
+      "target": "穷通宝鉴",
+      "message": "HTTPSConnectionPool(host='zh.wikipedia.org', port=443): Max retries exceeded with url: /api/rest_v1/page/summary/%E7%A9%B7%E9%80%9A%E5%AE%9D%E9%89%B4 (Caused by NameResolutionError(\"HTTPSConnection(host='zh.wikipedia.org', port=443): Failed to resolve 'zh.wikipedia.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    },
+    {
+      "stage": "summary",
+      "language": "en",
+      "target": "Qiong Tong Bao Jian",
+      "message": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /api/rest_v1/page/summary/Qiong%20Tong%20Bao%20Jian (Caused by NameResolutionError(\"HTTPSConnection(host='en.wikipedia.org', port=443): Failed to resolve 'en.wikipedia.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    },
+    {
+      "stage": "record",
+      "language": "multi",
+      "target": "qiong_tong_bao_jian",
+      "message": "zh/en 页面均抓取失败，已跳过该主题。"
+    },
+    {
+      "stage": "summary",
+      "language": "zh",
+      "target": "紫微斗数全书",
+      "message": "HTTPSConnectionPool(host='zh.wikipedia.org', port=443): Max retries exceeded with url: /api/rest_v1/page/summary/%E7%B4%AB%E5%BE%AE%E6%96%97%E6%95%B0%E5%85%A8%E4%B9%A6 (Caused by NameResolutionError(\"HTTPSConnection(host='zh.wikipedia.org', port=443): Failed to resolve 'zh.wikipedia.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    },
+    {
+      "stage": "summary",
+      "language": "en",
+      "target": "Complete Book of Zi Wei Dou Shu",
+      "message": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /api/rest_v1/page/summary/Complete%20Book%20of%20Zi%20Wei%20Dou%20Shu (Caused by NameResolutionError(\"HTTPSConnection(host='en.wikipedia.org', port=443): Failed to resolve 'en.wikipedia.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    },
+    {
+      "stage": "record",
+      "language": "multi",
+      "target": "ziwei_doushu_quanshu",
+      "message": "zh/en 页面均抓取失败，已跳过该主题。"
+    },
+    {
+      "stage": "summary",
+      "language": "zh",
+      "target": "紫微斗数命盘",
+      "message": "HTTPSConnectionPool(host='zh.wikipedia.org', port=443): Max retries exceeded with url: /api/rest_v1/page/summary/%E7%B4%AB%E5%BE%AE%E6%96%97%E6%95%B0%E5%91%BD%E7%9B%98 (Caused by NameResolutionError(\"HTTPSConnection(host='zh.wikipedia.org', port=443): Failed to resolve 'zh.wikipedia.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    },
+    {
+      "stage": "summary",
+      "language": "en",
+      "target": "Zi Wei Dou Shu Natal Chart",
+      "message": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /api/rest_v1/page/summary/Zi%20Wei%20Dou%20Shu%20Natal%20Chart (Caused by NameResolutionError(\"HTTPSConnection(host='en.wikipedia.org', port=443): Failed to resolve 'en.wikipedia.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    },
+    {
+      "stage": "record",
+      "language": "multi",
+      "target": "ziwei_doushu_mingpan",
+      "message": "zh/en 页面均抓取失败，已跳过该主题。"
+    },
+    {
+      "stage": "summary",
+      "language": "zh",
+      "target": "倪海厦天纪",
+      "message": "HTTPSConnectionPool(host='zh.wikipedia.org', port=443): Max retries exceeded with url: /api/rest_v1/page/summary/%E5%80%AA%E6%B5%B7%E5%8E%A6%E5%A4%A9%E7%BA%AA (Caused by NameResolutionError(\"HTTPSConnection(host='zh.wikipedia.org', port=443): Failed to resolve 'zh.wikipedia.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    },
+    {
+      "stage": "summary",
+      "language": "en",
+      "target": "Ni Haixia Tian Ji",
+      "message": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /api/rest_v1/page/summary/Ni%20Haixia%20Tian%20Ji (Caused by NameResolutionError(\"HTTPSConnection(host='en.wikipedia.org', port=443): Failed to resolve 'en.wikipedia.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    },
+    {
+      "stage": "record",
+      "language": "multi",
+      "target": "ni_haixia_tianji",
+      "message": "zh/en 页面均抓取失败，已跳过该主题。"
+    }
+  ],
+  "seed_keys": [],
+  "case_count": 3,
+  "case_types": {
+    "bazi": 1,
+    "ziwei": 1,
+    "fengshui": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "generated_at": "2026-03-15 10:55:48",
+  "mode": "smoke",
+  "focus": "scientists",
+  "min_total_people": 1,
+  "total_people": 101,
+  "chinese_people": 40,
+  "western_people": 40,
+  "global_extra_people": 40,
+  "validation": {
+    "total_people": 101,
+    "invalid_count": 0,
+    "invalid_ids": []
+  },
+  "pipeline": {
+    "candidate_pages": 24,
+    "failed_jobs": 0,
+    "ready_failed_jobs": 0
+  }
+}

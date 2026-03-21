@@ -1,0 +1,54 @@
+{
+  "total": 146,
+  "completeness": {
+    "complete_count": 146,
+    "complete_rate": 1.0,
+    "missing_fields": {},
+    "empty_fields": {}
+  },
+  "day_master_accuracy": {
+    "match": 0,
+    "mismatch": 0,
+    "unknown": 146,
+    "accuracy": null,
+    "mismatch_examples": []
+  },
+  "confidence": {
+    "average": 0.8461,
+    "distribution": {
+      "80-89%": 141,
+      "90-99%": 5
+    }
+  },
+  "career_match": {
+    "match": 0,
+    "no_match": 0,
+    "na": 146,
+    "match_rate": 0
+  },
+  "strength_distribution": {
+    "偏弱": 96,
+    "偏强": 50
+  },
+  "pattern_distribution": {
+    "正官格": 27,
+    "建禄格": 20,
+    "正财格": 16,
+    "食神格": 15,
+    "正印格": 15,
+    "七杀格": 13,
+    "伤官格": 12,
+    "偏财格": 12,
+    "偏印格": 7,
+    "羊刃格": 3,
+    "伤官生财格": 2,
+    "从财格": 1,
+    "财格": 1,
+    "食神生财格": 1,
+    "劫财格": 1
+  },
+  "source_distribution": {
+    "astrodatabank": 136,
+    "astrotheme": 10
+  }
+}

@@ -1,0 +1,518 @@
+{
+  "n_records": 12128,
+  "feature_dim": 62,
+  "feature_columns": [
+    "dm_element_wood",
+    "dm_element_fire",
+    "dm_element_earth",
+    "dm_element_metal",
+    "dm_element_water",
+    "dm_yang",
+    "season_spring",
+    "season_summer",
+    "season_autumn",
+    "season_winter",
+    "fe_wood",
+    "fe_fire",
+    "fe_earth",
+    "fe_metal",
+    "fe_water",
+    "strength",
+    "tg_比肩",
+    "tg_劫财",
+    "tg_食神",
+    "tg_伤官",
+    "tg_偏财",
+    "tg_正财",
+    "tg_偏官",
+    "tg_正官",
+    "tg_偏印",
+    "tg_正印",
+    "tg_entropy",
+    "dominant_比肩",
+    "dominant_劫财",
+    "dominant_食神",
+    "dominant_伤官",
+    "dominant_偏财",
+    "dominant_正财",
+    "dominant_偏官",
+    "dominant_正官",
+    "dominant_偏印",
+    "dominant_正印",
+    "sc_甲己",
+    "sc_乙庚",
+    "sc_丙辛",
+    "sc_丁壬",
+    "sc_戊癸",
+    "bc6_子丑",
+    "bc6_寅亥",
+    "bc6_卯戌",
+    "bc6_辰酉",
+    "bc6_巳申",
+    "bc6_午未",
+    "bc3_water",
+    "bc3_fire",
+    "bc3_metal",
+    "bc3_wood",
+    "clash_子午",
+    "clash_丑未",
+    "clash_寅申",
+    "clash_卯酉",
+    "clash_辰戌",
+    "clash_巳亥",
+    "star_tianyi",
+    "star_wenchang",
+    "star_yima",
+    "has_birth_time"
+  ],
+  "numeric_stats": {
+    "dm_element_wood": {
+      "min": 0,
+      "max": 1,
+      "mean": 0.2084,
+      "nonzero": 2527
+    },
+    "dm_element_fire": {
+      "min": 0,
+      "max": 1,
+      "mean": 0.1943,
+      "nonzero": 2357
+    },
+    "dm_element_earth": {
+      "min": 0,
+      "max": 1,
+      "mean": 0.2021,
+      "nonzero": 2451
+    },
+    "dm_element_metal": {
+      "min": 0,
+      "max": 1,
+      "mean": 0.1941,
+      "nonzero": 2354
+    },
+    "dm_element_water": {
+      "min": 0,
+      "max": 1,
+      "mean": 0.2011,
+      "nonzero": 2439
+    },
+    "dm_yang": {
+      "min": 0,
+      "max": 1,
+      "mean": 0.4983,
+      "nonzero": 6043
+    },
+    "season_spring": {
+      "min": 0,
+      "max": 1,
+      "mean": 0.246,
+      "nonzero": 2984
+    },
+    "season_summer": {
+      "min": 0,
+      "max": 1,
+      "mean": 0.2485,
+      "nonzero": 3014
+    },
+    "season_autumn": {
+      "min": 0,
+      "max": 1,
+      "mean": 0.2637,
+      "nonzero": 3198
+    },
+    "season_winter": {
+      "min": 0,
+      "max": 1,
+      "mean": 0.2418,
+      "nonzero": 2932
+    },
+    "fe_wood": {
+      "min": 0,
+      "max": 5,
+      "mean": 1.1084,
+      "nonzero": 8538
+    },
+    "fe_fire": {
+      "min": 0,
+      "max": 6,
+      "mean": 1.0871,
+      "nonzero": 8501
+    },
+    "fe_earth": {
+      "min": 0,
+      "max": 6,
+      "mean": 1.6031,
+      "nonzero": 10315
+    },
+    "fe_metal": {
+      "min": 0,
+      "max": 6,
+      "mean": 1.1238,
+      "nonzero": 8454
+    },
+    "fe_water": {
+      "min": 0,
+      "max": 6,
+      "mean": 1.1061,
+      "nonzero": 8523
+    },
+    "strength": {
+      "min": 0,
+      "max": 3,
+      "mean": 1.456,
+      "nonzero": 8587
+    },
+    "tg_比肩": {
+      "min": 0,
+      "max": 4,
+      "mean": 0.5468,
+      "nonzero": 5249
+    },
+    "tg_劫财": {
+      "min": 0,
+      "max": 4,
+      "mean": 0.4624,
+      "nonzero": 4514
+    },
+    "tg_食神": {
+      "min": 0,
+      "max": 4,
+      "mean": 0.531,
+      "nonzero": 5017
+    },
+    "tg_伤官": {
+      "min": 0,
+      "max": 3,
+      "mean": 0.4649,
+      "nonzero": 4549
+    },
+    "tg_偏财": {
+      "min": 0,
+      "max": 4,
+      "mean": 0.5404,
+      "nonzero": 5142
+    },
+    "tg_正财": {
+      "min": 0,
+      "max": 3,
+      "mean": 0.4674,
+      "nonzero": 4646
+    },
+    "tg_偏官": {
+      "min": 0,
+      "max": 4,
+      "mean": 0.5473,
+      "nonzero": 5209
+    },
+    "tg_正官": {
+      "min": 0,
+      "max": 3,
+      "mean": 0.4744,
+      "nonzero": 4690
+    },
+    "tg_偏印": {
+      "min": 0,
+      "max": 5,
+      "mean": 0.519,
+      "nonzero": 5005
+    },
+    "tg_正印": {
+      "min": 0,
+      "max": 3,
+      "mean": 0.475,
+      "nonzero": 4677
+    },
+    "tg_entropy": {
+      "min": 0.7219,
+      "max": 2.8074,
+      "mean": 1.9073,
+      "nonzero": 12128
+    },
+    "dominant_比肩": {
+      "min": 0,
+      "max": 1,
+      "mean": 0.1024,
+      "nonzero": 1242
+    },
+    "dominant_劫财": {
+      "min": 0,
+      "max": 1,
+      "mean": 0.0966,
+      "nonzero": 1172
+    },
+    "dominant_食神": {
+      "min": 0,
+      "max": 1,
+      "mean": 0.1055,
+      "nonzero": 1279
+    },
+    "dominant_伤官": {
+      "min": 0,
+      "max": 1,
+      "mean": 0.0968,
+      "nonzero": 1174
+    },
+    "dominant_偏财": {
+      "min": 0,
+      "max": 1,
+      "mean": 0.1074,
+      "nonzero": 1303
+    },
+    "dominant_正财": {
+      "min": 0,
+      "max": 1,
+      "mean": 0.092,
+      "nonzero": 1116
+    },
+    "dominant_偏官": {
+      "min": 0,
+      "max": 1,
+      "mean": 0.1081,
+      "nonzero": 1311
+    },
+    "dominant_正官": {
+      "min": 0,
+      "max": 1,
+      "mean": 0.0955,
+      "nonzero": 1158
+    },
+    "dominant_偏印": {
+      "min": 0,
+      "max": 1,
+      "mean": 0.101,
+      "nonzero": 1225
+    },
+    "dominant_正印": {
+      "min": 0,
+      "max": 1,
+      "mean": 0.0947,
+      "nonzero": 1148
+    },
+    "sc_甲己": {
+      "min": 0,
+      "max": 1,
+      "mean": 0.0524,
+      "nonzero": 636
+    },
+    "sc_乙庚": {
+      "min": 0,
+      "max": 1,
+      "mean": 0.0545,
+      "nonzero": 661
+    },
+    "sc_丙辛": {
+      "min": 0,
+      "max": 1,
+      "mean": 0.0562,
+      "nonzero": 681
+    },
+    "sc_丁壬": {
+      "min": 0,
+      "max": 1,
+      "mean": 0.0568,
+      "nonzero": 689
+    },
+    "sc_戊癸": {
+      "min": 0,
+      "max": 1,
+      "mean": 0.0522,
+      "nonzero": 633
+    },
+    "bc6_子丑": {
+      "min": 0,
+      "max": 1,
+      "mean": 0.0404,
+      "nonzero": 490
+    },
+    "bc6_寅亥": {
+      "min": 0,
+      "max": 1,
+      "mean": 0.0374,
+      "nonzero": 453
+    },
+    "bc6_卯戌": {
+      "min": 0,
+      "max": 1,
+      "mean": 0.0372,
+      "nonzero": 451
+    },
+    "bc6_辰酉": {
+      "min": 0,
+      "max": 1,
+      "mean": 0.0388,
+      "nonzero": 470
+    },
+    "bc6_巳申": {
+      "min": 0,
+      "max": 1,
+      "mean": 0.038,
+      "nonzero": 461
+    },
+    "bc6_午未": {
+      "min": 0,
+      "max": 1,
+      "mean": 0.0388,
+      "nonzero": 471
+    },
+    "bc3_water": {
+      "min": 0,
+      "max": 1,
+      "mean": 0.1118,
+      "nonzero": 1356
+    },
+    "bc3_fire": {
+      "min": 0,
+      "max": 1,
+      "mean": 0.1122,
+      "nonzero": 1361
+    },
+    "bc3_metal": {
+      "min": 0,
+      "max": 1,
+      "mean": 0.1069,
+      "nonzero": 1297
+    },
+    "bc3_wood": {
+      "min": 0,
+      "max": 1,
+      "mean": 0.1096,
+      "nonzero": 1329
+    },
+    "clash_子午": {
+      "min": 0,
+      "max": 1,
+      "mean": 0.04,
+      "nonzero": 485
+    },
+    "clash_丑未": {
+      "min": 0,
+      "max": 1,
+      "mean": 0.039,
+      "nonzero": 473
+    },
+    "clash_寅申": {
+      "min": 0,
+      "max": 1,
+      "mean": 0.0402,
+      "nonzero": 488
+    },
+    "clash_卯酉": {
+      "min": 0,
+      "max": 1,
+      "mean": 0.04,
+      "nonzero": 485
+    },
+    "clash_辰戌": {
+      "min": 0,
+      "max": 1,
+      "mean": 0.0409,
+      "nonzero": 496
+    },
+    "clash_巳亥": {
+      "min": 0,
+      "max": 1,
+      "mean": 0.0362,
+      "nonzero": 439
+    },
+    "star_tianyi": {
+      "min": 0,
+      "max": 1,
+      "mean": 0.3523,
+      "nonzero": 4273
+    },
+    "star_wenchang": {
+      "min": 0,
+      "max": 1,
+      "mean": 0.2434,
+      "nonzero": 2952
+    },
+    "star_yima": {
+      "min": 0,
+      "max": 1,
+      "mean": 0.164,
+      "nonzero": 1989
+    },
+    "has_birth_time": {
+      "min": 0,
+      "max": 1,
+      "mean": 0.0143,
+      "nonzero": 173
+    }
+  },
+  "categorical_distribution": {
+    "day_master": {
+      "甲": 1284,
+      "己": 1254,
+      "乙": 1243,
+      "壬": 1230,
+      "癸": 1209,
+      "丁": 1208,
+      "戊": 1197,
+      "庚": 1183,
+      "辛": 1171,
+      "丙": 1149
+    },
+    "element": {
+      "wood": 2527,
+      "earth": 2451,
+      "water": 2439,
+      "fire": 2357,
+      "metal": 2354
+    },
+    "polarity": {
+      "阴": 6085,
+      "阳": 6043
+    },
+    "season": {
+      "autumn": 3198,
+      "summer": 3014,
+      "spring": 2984,
+      "winter": 2932
+    },
+    "strength": {
+      "强": 4190,
+      "中偏弱": 3706,
+      "弱": 3541,
+      "中偏强": 691
+    },
+    "dominant_god": {
+      "偏官": 1311,
+      "偏财": 1303,
+      "食神": 1279,
+      "比肩": 1242,
+      "偏印": 1225,
+      "伤官": 1174,
+      "劫财": 1172,
+      "正官": 1158,
+      "正印": 1148,
+      "正财": 1116
+    }
+  },
+  "combination_frequency": {
+    "寅午戌三合fire": 1361,
+    "申子辰三合water": 1356,
+    "亥卯未三合wood": 1329,
+    "巳酉丑三合metal": 1297,
+    "丁壬合wood": 689,
+    "丙辛合water": 681,
+    "乙庚合metal": 661,
+    "甲己合earth": 636,
+    "戊癸合fire": 633,
+    "辰戌冲": 496,
+    "子丑六合": 490,
+    "寅申冲": 488,
+    "子午冲": 485,
+    "卯酉冲": 485,
+    "丑未冲": 473,
+    "午未六合": 471,
+    "辰酉六合": 470,
+    "巳申六合": 461,
+    "寅亥六合": 453,
+    "卯戌六合": 451
+  },
+  "special_star_frequency": {
+    "天乙贵人": 4273,
+    "文昌贵人": 2952,
+    "驿马": 1989
+  }
+}

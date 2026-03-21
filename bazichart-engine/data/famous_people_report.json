@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-03-15 14:32:08",
+  "generated_at": "2026-03-15 16:22:53",
   "mode": "full",
   "focus": "all",
   "min_total_people": 10000,
   "total_people": 14042,
-  "chinese_people": 1382,
-  "western_people": 9113,
-  "global_extra_people": 7395,
+  "chinese_people": 948,
+  "western_people": 7213,
+  "global_extra_people": 5881,
   "validation": {
     "total_people": 14042,
     "invalid_count": 0,
@@ -16,18 +16,5 @@
     "candidate_pages": 1344,
     "failed_jobs": 2,
     "ready_failed_jobs": 2
-  },
-  "cleaning": {
-    "cleaned_at": "2026-03-15 14:41:15",
-    "before_count": 14042,
-    "after_count": 13867,
-    "deleted_count": 175,
-    "deleted_by_category": {
-      "邪教与极端": 49,
-      "政治敏感": 75,
-      "战争与暴力": 43,
-      "心理不适": 2,
-      "犯罪类": 6
-    }
   }
 }

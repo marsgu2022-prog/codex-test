@@ -27,6 +27,16 @@ MAX_ACCEPTABLE_RETRY_AFTER = 30
 SMOKE_MIN_TOTAL_PEOPLE = 1
 FAILURE_RETRY_BASE_DELAY_SECONDS = 300
 FAILURE_RETRY_MAX_DELAY_SECONDS = 7200
+CATEGORY_MAX_PEOPLE = {
+    "china_like": 2000,
+    "western": 5000,
+    "global_extra": 5000,
+}
+CATEGORY_SMOKE_MAX_PEOPLE = {
+    "china_like": 20,
+    "western": 20,
+    "global_extra": 20,
+}
 
 CHINA_LIKE_QIDS = ["Q148", "Q865", "Q8646", "Q14773", "Q1054923", "Q3916279"]
 WESTERN_COUNTRY_QIDS = [
@@ -1223,6 +1233,11 @@ def parse_args() -> argparse.Namespace:
         default="all",
         help="all 为默认综合名人，scientists 只抓科学家与数学家",
     )
+    parser.add_argument(
+        "--include-categories",
+        action="store_true",
+        help="额外使用 Wikipedia 分类页补充候选人，扩大覆盖面",
+    )
     return parser.parse_args()
 
 
@@ -1249,15 +1264,26 @@ def build_runtime_configs(mode: str, focus: str = "all") -> tuple[dict[str, dict
     return configs, min_total_people, output_suffix
 
 
+def build_category_runtime_limits(mode: str, include_categories: bool) -> dict[str, int]:
+    if not include_categories:
+        return {}
+    if mode == "smoke":
+        return dict(CATEGORY_SMOKE_MAX_PEOPLE)
+    return dict(CATEGORY_MAX_PEOPLE)
+
+
 def main() -> int:
     args = parse_args()
     session = requests.Session()
     session.headers.update({"User-Agent": USER_AGENT})
     runtime_configs, min_total_people, output_suffix = build_runtime_configs(args.mode, args.focus)
+    category_limits = build_category_runtime_limits(args.mode, args.include_categories)
     pipeline_state = load_pipeline_state(output_suffix)
 
     print(f"运行模式：{args.mode}", flush=True)
     print(f"抓取焦点：{args.focus}", flush=True)
+    if args.include_categories:
+        print("补充来源：启用 Wikipedia 分类页", flush=True)
     if args.retry_failures:
         print("补跑模式：只处理失败队列", flush=True)
 
@@ -1296,6 +1322,15 @@ def main() -> int:
         )
         global_extra_people = fetch_cohort_from_countries(session, "global_extra", pipeline_state=pipeline_state, **global_extra_config)
         print(f"全球补充名人抓取完成：{len(global_extra_people)}", flush=True)
+
+        if category_limits:
+            print("抓取分类补充名人...", flush=True)
+            chinese_people.extend(fetch_cohort_from_categories(session, "china_like", category_limits["china_like"]))
+            print(f"中文分类补充完成：{len(chinese_people)}", flush=True)
+            western_people.extend(fetch_cohort_from_categories(session, "western", category_limits["western"]))
+            print(f"西方分类补充完成：{len(western_people)}", flush=True)
+            global_extra_people.extend(fetch_cohort_from_categories(session, "global_extra", category_limits["global_extra"]))
+            print(f"全球分类补充完成：{len(global_extra_people)}", flush=True)
 
         people = dedupe_people(chinese_people + western_people + global_extra_people)
     if len(people) < min_total_people:

@@ -95,7 +95,11 @@ def check_career_match(reading, source_data_map):
     """
     rid        = reading.get('id')
     r          = reading.get('reading', {})
-    career_txt = (r.get('career_tendency') or '') + ' ' + (r.get('career_reasoning') or '')
+    def _to_str(v):
+        if isinstance(v, list):
+            return ' '.join(str(x) for x in v)
+        return v or ''
+    career_txt = _to_str(r.get('career_tendency')) + ' ' + _to_str(r.get('career_reasoning'))
     career_txt = career_txt.lower()
 
     original = source_data_map.get(rid)

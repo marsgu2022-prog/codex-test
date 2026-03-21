@@ -5,6 +5,7 @@ import argparse
 import json
 import re
 import time
+from datetime import datetime, timedelta, UTC
 from pathlib import Path
 from typing import Any
 from urllib.parse import parse_qs, quote, unquote, urljoin, urlparse
@@ -19,11 +20,14 @@ COUNTRIES_PATH = DATA_DIR / "countries.json"
 DEFAULT_OUTPUT_A = DATA_DIR / "famous_people_astro.json"
 DEFAULT_OUTPUT_B = DATA_DIR / "famous_people_astro_b.json"
 DEFAULT_ERRORS = DATA_DIR / "crawl_errors.json"
+DEFAULT_STATE = DATA_DIR / "astro_crawl_state.json"
 
 BASE_URL = "https://www.astro.com"
 ALL_PAGES_URL = f"{BASE_URL}/wiki/astro-databank/index.php?title=Special:AllPages&from=A"
 USER_AGENT = "bazichart-engine/1.0 (astro databank crawler)"
 REQUEST_INTERVAL_SECONDS = 1.05
+REQUEST_MAX_RETRIES = 3
+BACKOFF_SECONDS = 300
 
 ALLOWED_RATINGS = {"AA", "A", "B"}
 HIGH_CONFIDENCE_RATINGS = {"AA", "A"}
@@ -54,11 +58,14 @@ TECH_KEYWORDS = ["technology", "computer", "software", "internet", "apple", "mic
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="抓取 Astro-Databank 高质量有时辰名人数据")
     parser.add_argument("--start-url", default=ALL_PAGES_URL)
+    parser.add_argument("--start-from", default=None)
     parser.add_argument("--max-pages", type=int, default=3)
     parser.add_argument("--max-records", type=int, default=30)
+    parser.add_argument("--request-interval", type=float, default=REQUEST_INTERVAL_SECONDS)
     parser.add_argument("--output-a", type=Path, default=DEFAULT_OUTPUT_A)
     parser.add_argument("--output-b", type=Path, default=DEFAULT_OUTPUT_B)
     parser.add_argument("--errors-output", type=Path, default=DEFAULT_ERRORS)
+    parser.add_argument("--state-output", type=Path, default=DEFAULT_STATE)
     return parser.parse_args()
 
 
@@ -74,11 +81,20 @@ def make_session() -> requests.Session:
     return session
 
 
-def fetch_text(session: requests.Session, url: str) -> str:
-    response = session.get(url, timeout=30)
-    response.raise_for_status()
-    time.sleep(REQUEST_INTERVAL_SECONDS)
-    return response.text
+def fetch_text(session: requests.Session, url: str, request_interval: float) -> str:
+    last_error: Exception | None = None
+    for attempt in range(1, REQUEST_MAX_RETRIES + 1):
+        try:
+            response = session.get(url, timeout=30)
+            response.raise_for_status()
+            time.sleep(request_interval)
+            return response.text
+        except Exception as exc:
+            last_error = exc
+            if attempt < REQUEST_MAX_RETRIES:
+                time.sleep(min(attempt * 2, 6))
+    assert last_error is not None
+    raise last_error
 
 
 def normalize_title_from_href(href: str) -> str:
@@ -97,6 +113,12 @@ def build_raw_url(title: str) -> str:
 
 def build_html_url(title: str) -> str:
     return f"{BASE_URL}/wiki/astro-databank/index.php?title={quote(title, safe=':_,-()')}"
+
+
+def build_start_url(start_url: str, start_from: str | None) -> str:
+    if not start_from:
+        return start_url
+    return f"{BASE_URL}/wiki/astro-databank/index.php?title=Special:AllPages&from={quote(start_from, safe=',._()- ')}"
 
 
 def parse_allpages(html: str) -> tuple[list[dict[str, str]], str | None]:
@@ -220,6 +242,35 @@ def short_bio(text: str) -> str:
     return sentence[:80]
 
 
+def infer_notable_events(bio: str) -> list[dict[str, Any]]:
+    events: list[dict[str, Any]] = []
+    clean = re.sub(r"\s+", " ", bio).strip()
+    year_matches = re.findall(r"\b(18|19|20)\d{2}\b", clean)
+    unique_years: list[int] = []
+    for year_text in re.finditer(r"\b((18|19|20)\d{2})\b", clean):
+        year = int(year_text.group(1))
+        if year not in unique_years:
+            unique_years.append(year)
+    for year in unique_years[:3]:
+        sentence_match = re.search(rf"([^.!?]*\b{year}\b[^.!?]*[.!?])", clean)
+        snippet = sentence_match.group(1).strip() if sentence_match else clean[:120]
+        lowered = snippet.lower()
+        if any(token in lowered for token in ("won", "award", "prize", "medal")):
+            event_type = "award"
+        elif any(token in lowered for token in ("died", "death", "dead")):
+            event_type = "death"
+        elif any(token in lowered for token in ("married", "marriage", "wedding")):
+            event_type = "marriage"
+        elif any(token in lowered for token in ("founded", "debut", "started", "began")):
+            event_type = "career_start"
+        elif any(token in lowered for token in ("became", "published", "released", "elected", "appointed", "joined")):
+            event_type = "career_peak"
+        else:
+            event_type = "other"
+        events.append({"year": year, "event": snippet[:120], "event_type": event_type})
+    return events
+
+
 def rating_metadata(rating: str) -> tuple[str, str, float]:
     if rating == "AA":
         return "astrodatabank_AA", "high", 0.95
@@ -251,6 +302,7 @@ def parse_person(raw_text: str, html_text: str, source_url: str, country_map: di
     birth_country = infer_country(fields, country_map)
     gender = normalize_gender(fields.get("Gender", ""))
     birth_time_source, reliability, score = rating_metadata(rating)
+    notable_events = infer_notable_events(biography)
     return {
         "name_en": fields.get("sflname") or fields.get("Name") or None,
         "name_zh": None,
@@ -263,11 +315,41 @@ def parse_person(raw_text: str, html_text: str, source_url: str, country_map: di
         "gender": gender,
         "occupation": occupations,
         "bio": short_bio(biography),
-        "notable_events": [],
+        "notable_events": notable_events,
         "source_urls": [source_url],
         "data_quality_score": score,
         "rodden_rating": rating,
     }
+
+
+def load_json_list(path: Path) -> list[dict[str, Any]]:
+    if not path.exists():
+        return []
+    with path.open("r", encoding="utf-8") as handle:
+        payload = json.load(handle)
+    return payload if isinstance(payload, list) else []
+
+
+def merge_people(existing: list[dict[str, Any]], incoming: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    merged: dict[tuple[str | None, str | None], dict[str, Any]] = {}
+    for item in existing + incoming:
+        key = (item.get("name_en"), item.get("birth_date"))
+        current = merged.get(key)
+        if current is None or item.get("data_quality_score", 0) >= current.get("data_quality_score", 0):
+            merged[key] = item
+    return list(merged.values())
+
+
+def load_state(path: Path) -> dict[str, Any]:
+    if not path.exists():
+        return {"last_next_url": None, "last_title": None, "updated_at": None}
+    with path.open("r", encoding="utf-8") as handle:
+        payload = json.load(handle)
+    return payload if isinstance(payload, dict) else {"last_next_url": None, "last_title": None, "updated_at": None}
+
+
+def write_state(path: Path, state: dict[str, Any]) -> None:
+    write_json(path, state)
 
 
 def write_json(path: Path, payload: Any) -> None:
@@ -277,19 +359,29 @@ def write_json(path: Path, payload: Any) -> None:
         handle.write("\n")
 
 
-def crawl(session: requests.Session, start_url: str, max_pages: int, max_records: int, country_map: dict[str, str]) -> tuple[list[dict[str, Any]], list[dict[str, Any]], list[dict[str, Any]]]:
+def crawl(
+    session: requests.Session,
+    start_url: str,
+    max_pages: int,
+    max_records: int,
+    country_map: dict[str, str],
+    request_interval: float,
+    state: dict[str, Any] | None = None,
+) -> tuple[list[dict[str, Any]], list[dict[str, Any]], list[dict[str, Any]], dict[str, Any]]:
     current_url = start_url
     page_count = 0
     high_confidence: list[dict[str, Any]] = []
     medium_confidence: list[dict[str, Any]] = []
     errors: list[dict[str, Any]] = []
     seen_titles: set[str] = set()
+    runtime_state = state or {"last_next_url": None, "last_title": None, "updated_at": None}
 
     while current_url and page_count < max_pages and len(high_confidence) < max_records:
         try:
-            index_html = fetch_text(session, current_url)
+            index_html = fetch_text(session, current_url, request_interval)
             links, next_url = parse_allpages(index_html)
         except Exception as exc:
+            runtime_state["blocked_until"] = (datetime.now(UTC) + timedelta(seconds=BACKOFF_SECONDS)).isoformat()
             errors.append({"url": current_url, "stage": "index", "error": str(exc)})
             break
 
@@ -308,8 +400,8 @@ def crawl(session: requests.Session, start_url: str, max_pages: int, max_records
             raw_url = build_raw_url(title)
             html_url = build_html_url(title)
             try:
-                raw_text = fetch_text(session, raw_url)
-                html_text = fetch_text(session, html_url)
+                raw_text = fetch_text(session, raw_url, request_interval)
+                html_text = fetch_text(session, html_url, request_interval)
                 person = parse_person(raw_text, html_text, html_url, country_map)
                 if person is None:
                     continue
@@ -317,31 +409,48 @@ def crawl(session: requests.Session, start_url: str, max_pages: int, max_records
                     high_confidence.append(person)
                 else:
                     medium_confidence.append(person)
+                runtime_state["last_title"] = title
             except Exception as exc:
                 errors.append({"url": html_url, "stage": "detail", "error": str(exc)})
 
+        runtime_state["last_next_url"] = next_url
+        runtime_state["updated_at"] = datetime.now(UTC).isoformat()
         current_url = next_url
 
-    return high_confidence, medium_confidence, errors
+    return high_confidence, medium_confidence, errors, runtime_state
 
 
 def main() -> None:
     args = parse_args()
     country_map = load_country_map(COUNTRIES_PATH)
     session = make_session()
-    high_confidence, medium_confidence, errors = crawl(
+    state = load_state(args.state_output)
+    start_url = state.get("last_next_url") or build_start_url(args.start_url, args.start_from)
+    existing_a = load_json_list(args.output_a)
+    existing_b = load_json_list(args.output_b)
+    existing_errors = load_json_list(args.errors_output)
+    high_confidence, medium_confidence, errors, runtime_state = crawl(
         session=session,
-        start_url=args.start_url,
+        start_url=start_url,
         max_pages=args.max_pages,
         max_records=args.max_records,
         country_map=country_map,
+        request_interval=args.request_interval,
+        state=state,
     )
-    write_json(args.output_a, high_confidence)
-    write_json(args.output_b, medium_confidence)
-    write_json(args.errors_output, errors)
-    print(f"astro_AA_A={len(high_confidence)}")
-    print(f"astro_B={len(medium_confidence)}")
-    print(f"errors={len(errors)}")
+    merged_a = merge_people(existing_a, high_confidence)
+    merged_b = merge_people(existing_b, medium_confidence)
+    merged_errors = existing_errors + errors
+    write_json(args.output_a, merged_a)
+    write_json(args.output_b, merged_b)
+    write_json(args.errors_output, merged_errors)
+    write_state(args.state_output, runtime_state)
+    print(f"astro_AA_A_total={len(merged_a)}")
+    print(f"astro_AA_A_added={len(high_confidence)}")
+    print(f"astro_B_total={len(merged_b)}")
+    print(f"astro_B_added={len(medium_confidence)}")
+    print(f"errors_added={len(errors)}")
+    print(f"next_url={runtime_state.get('last_next_url')}")
 
 
 if __name__ == "__main__":

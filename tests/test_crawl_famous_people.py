@@ -162,6 +162,12 @@ def test_build_runtime_configs_scientists_smoke_has_distinct_suffix():
     assert configs["global_extra"]["country_qids"] == MODULE.GLOBAL_EXTRA_COUNTRY_QIDS[:1]
 
 
+def test_build_category_runtime_limits_respects_mode_and_flag():
+    assert MODULE.build_category_runtime_limits("full", False) == {}
+    assert MODULE.build_category_runtime_limits("full", True) == MODULE.CATEGORY_MAX_PEOPLE
+    assert MODULE.build_category_runtime_limits("smoke", True) == MODULE.CATEGORY_SMOKE_MAX_PEOPLE
+
+
 def test_pipeline_state_records_cache_and_failure_queue(tmp_path):
     original_file = MODULE.__file__
     try:
