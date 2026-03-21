@@ -428,5 +428,30 @@
     "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beauvois,_Xavier",
     "stage": "detail",
     "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beauvois,_Xavier&action=raw (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Bellutti,_Antonella",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Bellutti,_Antonella&action=raw (Caused by NewConnectionError(\"HTTPSConnection(host='www.astro.com', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Belmadi,_Yasmine",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Belmadi,_Yasmine&action=raw (Caused by NewConnectionError(\"HTTPSConnection(host='www.astro.com', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Belmondo,_Jean-Paul",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Belmondo,_Jean-Paul&action=raw (Caused by NewConnectionError(\"HTTPSConnection(host='www.astro.com', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Belmondo,_Patricia",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Belmondo,_Patricia&action=raw (Caused by NewConnectionError(\"HTTPSConnection(host='www.astro.com', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Belmondo,_Paul",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Belmondo,_Paul&action=raw (Caused by NewConnectionError(\"HTTPSConnection(host='www.astro.com', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))"
   }
 ]

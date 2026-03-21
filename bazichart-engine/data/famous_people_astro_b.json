@@ -2823,5 +2823,274 @@
     ],
     "data_quality_score": 0.72,
     "rodden_rating": "B"
+  },
+  {
+    "name_en": "August Belmont",
+    "name_zh": null,
+    "birth_date": "1813-12-08",
+    "birth_time": "12:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Alzey",
+    "birth_country": "Germany",
+    "gender": "male",
+    "occupation": [
+      "企业家"
+    ],
+    "bio": "German-American financier and a thoroughbred racehorse owner, the founder and na",
+    "notable_events": [
+      {
+        "year": 1837,
+        "event": ", arriving on 14 May 1837, one day after the financial panic.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Belmont,_August"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "August Jr. Belmont",
+    "name_zh": null,
+    "birth_date": "1853-02-18",
+    "birth_time": "02:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "New York",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "运动员"
+    ],
+    "bio": "American financier, the builder of New York's Belmont Park racetrack, and a majo",
+    "notable_events": [
+      {
+        "year": 1895,
+        "event": "American financier, the builder of New York's Belmont Park racetrack, and a major owner/breeder of thoroughbred racehors",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Belmont,_August_Jr."
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Oliver Belmont",
+    "name_zh": null,
+    "birth_date": "1858-11-12",
+    "birth_time": "06:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "New York",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "American socialite and United States Representative from New York.",
+    "notable_events": [
+      {
+        "year": 1837,
+        "event": "Oliver Belmont's father was August Belmont, a Hessian Jew who came to the United States in 1837 as an agent for the Roth",
+        "event_type": "other"
+      },
+      {
+        "year": 1853,
+        "event": "His mother, Caroline Slidell (née Perry), was the daughter of Commodore Matthew Calbraith Perry, who was renowned for co",
+        "event_type": "other"
+      },
+      {
+        "year": 1880,
+        "event": "Belmont graduated from the United States Naval Academy on June 10, 1880.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Belmont,_Oliver"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Juan Belmonte",
+    "name_zh": null,
+    "birth_date": "1892-04-14",
+    "birth_time": "05:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Seville",
+    "birth_country": "Spain",
+    "gender": "male",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "Spanish bullfighter, considered by many to have been the greatest matador of all",
+    "notable_events": [
+      {
+        "year": 1908,
+        "event": "Belmonte began his bullfighting career in 1908, touring around Spain in a children's bullfighting group called Los Niños",
+        "event_type": "career_start"
+      },
+      {
+        "year": 1910,
+        "event": "He killed his firstbull on July 24, 1910.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Belmonte,_Juan"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Amos Ben Gurion",
+    "name_zh": null,
+    "birth_date": "1920-08-28",
+    "birth_time": "10:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "London",
+    "birth_country": "England",
+    "gender": "male",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "The son of David Ben-Gurion.",
+    "notable_events": [
+      {
+        "year": 2008,
+        "event": "He died 22 July 2008.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Ben_Gurion,_Amos"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Harold S. Bender",
+    "name_zh": null,
+    "birth_date": "1897-07-19",
+    "birth_time": "11:55",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Elkhart",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "Prominent professor of theology at Goshen College (Goshen, Indiana) and Goshen B",
+    "notable_events": [
+      {
+        "year": 1944,
+        "event": "Bender is perhaps best known for authoring The Anabaptist Vision in 1944.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bender,_Harold_S."
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Van Bennett",
+    "name_zh": null,
+    "birth_date": "1970-12-05",
+    "birth_time": "06:27",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Laconia",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "American author, a memoirist who chronicled his battle with schizophrenia in his",
+    "notable_events": [
+      {
+        "year": 2013,
+        "event": "American author, a memoirist who chronicled his battle with schizophrenia in his 2013 book “Lost in Schizophrenia: Memoi",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bennett,_Van"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "George Bentley",
+    "name_zh": null,
+    "birth_date": "1828-06-07",
+    "birth_time": "07:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "London",
+    "birth_country": "England",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "English publisher based in London, who represented Wilkie Collins, and during th",
+    "notable_events": [
+      {
+        "year": 1853,
+        "event": "James's, Westminster in 1853.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bentley,_George"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Phyllis Bentley",
+    "name_zh": null,
+    "birth_date": "1894-11-19",
+    "birth_time": "00:10",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Halifax",
+    "birth_country": "England",
+    "gender": "female",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "English novelist.",
+    "notable_events": [
+      {
+        "year": 1918,
+        "event": "In 1918, she published her first work, a collection of short stories entitled The World's Bane, after which she publishe",
+        "event_type": "career_peak"
+      },
+      {
+        "year": 1932,
+        "event": "In 1918, she published her first work, a collection of short stories entitled The World's Bane, after which she publishe",
+        "event_type": "career_peak"
+      },
+      {
+        "year": 1946,
+        "event": "In 1918, she published her first work, a collection of short stories entitled The World's Bane, after which she publishe",
+        "event_type": "career_peak"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bentley,_Phyllis"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
   }
 ]
