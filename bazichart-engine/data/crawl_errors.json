@@ -48,5 +48,10 @@
     "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Aas,_K%C3%A5re",
     "stage": "detail",
     "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Aas,_K%C3%A5re (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=AndyRoberts_Counterpart",
+    "stage": "detail",
+    "error": "404 Client Error: Not Found for url: https://www.astro.com/wiki/astro-databank/index.php?title=AndyRoberts_Counterpart&action=raw"
   }
 ]
