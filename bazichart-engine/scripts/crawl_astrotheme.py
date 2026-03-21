@@ -26,12 +26,20 @@ REQUEST_INTERVAL_SECONDS = 1.0
 REQUEST_MAX_RETRIES = 3
 
 CATEGORY_PAYLOADS = {
-    "entertainment": {"categorie[1]": "0|2|7", "categorie[2]": "4"},
+    "entertainment_stage": {"categorie[1]": "0|2|7"},
+    "music": {"categorie[2]": "4"},
     "politics": {"categorie[3]": "5"},
     "sports": {"categorie[5]": "6"},
     "writers": {"categorie[6]": "8"},
     "science": {"categorie[9]": "11"},
+    "media": {"categorie[4]": "1|3"},
+    "visual_arts": {"categorie[7]": "9"},
+    "spirituality": {"categorie[8]": "10"},
+    "world_events": {"categorie[10]": "12"},
 }
+STATE_LAYOUT_VERSION = 2
+LEGACY_COMPLETED_CATEGORY_INDEX = 5
+FIRST_NEW_CATEGORY_INDEX = 6
 
 
 def parse_args() -> argparse.Namespace:
@@ -156,10 +164,16 @@ def infer_gender(text: str) -> str | None:
 def classify_occupation(category_key: str, page_text: str) -> list[str]:
     mapping = {
         "entertainment": ["演员"],
+        "entertainment_stage": ["演员"],
+        "music": ["音乐家"],
         "politics": ["政治家"],
         "sports": ["运动员"],
         "writers": ["作家"],
+        "media": ["媒体人"],
+        "visual_arts": ["艺术家"],
+        "spirituality": ["占星/神秘学"],
         "science": ["科学家"],
+        "world_events": ["社会事件人物"],
     }
     occupations = list(mapping.get(category_key, []))
     lowered = page_text.lower()
@@ -258,11 +272,19 @@ def parse_person(html: str, url: str, category_key: str) -> dict[str, Any] | Non
 def merge_people(existing: list[dict[str, Any]], incoming: list[dict[str, Any]]) -> list[dict[str, Any]]:
     merged: dict[tuple[str | None, str | None], dict[str, Any]] = {}
     for item in existing + incoming:
-        key = (item.get("name_en"), item.get("birth_date"))
+        key = person_identity(item)
         current = merged.get(key)
         if current is None or item.get("data_quality_score", 0) >= current.get("data_quality_score", 0):
             merged[key] = item
     return list(merged.values())
+
+
+def person_identity(item: dict[str, Any]) -> tuple[str | None, str | None]:
+    return item.get("name_en"), item.get("birth_date")
+
+
+def build_identity_set(people: list[dict[str, Any]]) -> set[tuple[str | None, str | None]]:
+    return {person_identity(item) for item in people}
 
 
 def load_json_list(path: Path) -> list[dict[str, Any]]:
@@ -282,16 +304,22 @@ def write_json(path: Path, payload: Any) -> None:
 
 def load_state(path: Path) -> dict[str, Any]:
     if not path.exists():
-        return {"category_index": 0, "next_url": None}
+        return {"category_index": 0, "next_url": None, "layout_version": STATE_LAYOUT_VERSION}
     with path.open("r", encoding="utf-8") as handle:
         payload = json.load(handle)
     if not isinstance(payload, dict):
-        return {"category_index": 0, "next_url": None}
-    return {
+        return {"category_index": 0, "next_url": None, "layout_version": STATE_LAYOUT_VERSION}
+    state = {
         "category_index": int(payload.get("category_index", 0) or 0),
         "next_url": payload.get("next_url"),
         "updated_at": payload.get("updated_at"),
+        "layout_version": int(payload.get("layout_version", 1) or 1),
     }
+    if state["layout_version"] < STATE_LAYOUT_VERSION and state["next_url"] is None and state["category_index"] >= LEGACY_COMPLETED_CATEGORY_INDEX:
+        # 旧版 5 组职业已跑完时，从新增职业的第一组继续，避免重复扫旧分类。
+        state["category_index"] = FIRST_NEW_CATEGORY_INDEX
+        state["layout_version"] = STATE_LAYOUT_VERSION
+    return state
 
 
 def write_state(path: Path, state: dict[str, Any]) -> None:
@@ -304,12 +332,14 @@ def crawl(
     max_records: int,
     request_interval: float,
     state: dict[str, Any] | None = None,
+    existing_keys: set[tuple[str | None, str | None]] | None = None,
 ) -> tuple[list[dict[str, Any]], list[dict[str, Any]], dict[str, Any]]:
     people: list[dict[str, Any]] = []
     errors: list[dict[str, Any]] = []
     seen_urls: set[str] = set()
+    seen_people_keys = set(existing_keys or set())
     categories = list(CATEGORY_PAYLOADS.items())
-    runtime_state = state or {"category_index": 0, "next_url": None}
+    runtime_state = state or {"category_index": 0, "next_url": None, "layout_version": STATE_LAYOUT_VERSION}
     start_index = max(0, min(int(runtime_state.get("category_index", 0) or 0), len(categories)))
 
     for category_index in range(start_index, len(categories)):
@@ -342,6 +372,10 @@ def crawl(
                     person = parse_person(detail_html, detail_url, category_key)
                     if person is None:
                         continue
+                    identity = person_identity(person)
+                    if identity in seen_people_keys:
+                        continue
+                    seen_people_keys.add(identity)
                     people.append(person)
                 except Exception as exc:
                     errors.append({"source": "astrotheme", "stage": "detail", "category": category_key, "url": detail_url, "error": str(exc)})
@@ -349,6 +383,7 @@ def crawl(
             runtime_state = {
                 "category_index": category_index,
                 "next_url": next_url,
+                "layout_version": STATE_LAYOUT_VERSION,
             }
             if not next_url or page_no >= max_pages_per_category:
                 break
@@ -362,6 +397,7 @@ def crawl(
             runtime_state = {
                 "category_index": category_index + 1,
                 "next_url": None,
+                "layout_version": STATE_LAYOUT_VERSION,
             }
 
     runtime_state["updated_at"] = time.strftime("%Y-%m-%dT%H:%M:%S")
@@ -380,6 +416,7 @@ def main() -> None:
         args.max_records,
         args.request_interval,
         state=state,
+        existing_keys=build_identity_set(existing),
     )
     merged = merge_people(existing, people)
     write_json(args.output, merged)

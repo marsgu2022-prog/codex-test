@@ -74,3 +74,44 @@ def test_crawl_can_resume_from_saved_state(monkeypatch):
     assert [item["name_en"] for item in people] == ["Resume Person"]
     assert runtime_state["category_index"] == 0
     assert runtime_state["next_url"].endswith("page=3")
+
+
+def test_load_state_migrates_completed_legacy_layout(tmp_path):
+    state_path = tmp_path / "astrotheme_state.json"
+    state_path.write_text(
+        '{"category_index": 5, "next_url": null, "updated_at": "2026-03-21T22:56:29", "layout_version": 1}',
+        encoding="utf-8",
+    )
+
+    state = MODULE.load_state(state_path)
+
+    assert state["category_index"] == MODULE.FIRST_NEW_CATEGORY_INDEX
+    assert state["layout_version"] == MODULE.STATE_LAYOUT_VERSION
+
+
+def test_crawl_skips_existing_people_by_name_and_birth_date(monkeypatch):
+    responses = {
+        MODULE.SEARCH_URL: """
+<a href="https://www.astrotheme.com/astrology/Brad_Pitt">Brad Pitt Display his detailed birth chart</a>
+""",
+        "https://www.astrotheme.com/astrology/Brad_Pitt": SAMPLE_DETAIL,
+    }
+
+    def fake_fetch(session, url, *, data=None, request_interval):
+        if data is not None:
+            return responses[MODULE.SEARCH_URL]
+        return responses[url]
+
+    monkeypatch.setattr(MODULE, "fetch", fake_fetch)
+    people, errors, runtime_state = MODULE.crawl(
+        session=None,
+        max_pages_per_category=1,
+        max_records=5,
+        request_interval=0,
+        state={"category_index": 0, "next_url": None, "layout_version": MODULE.STATE_LAYOUT_VERSION},
+        existing_keys={("Brad Pitt", "1963-12-18")},
+    )
+
+    assert not errors
+    assert people == []
+    assert runtime_state["category_index"] == len(MODULE.CATEGORY_PAYLOADS)
