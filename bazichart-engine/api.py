@@ -1638,3 +1638,27 @@ def create_hehun_pdf_report(payload: HehunRequest):
         media_type="application/pdf",
         headers={"Content-Disposition": 'attachment; filename="hehun_report.pdf"'},
     )
+
+# === BaziChart.ai v2 前端 ===
+from fastapi.staticfiles import StaticFiles
+from fastapi.templating import Jinja2Templates
+
+try:
+    from routes.pages import router as pages_router
+    from routes.reading_api import router as reading_router
+    from routes.auth_api import router as auth_router
+    from routes.archive_api import router as archive_router
+    from routes.classic_api import router as classic_router
+
+    app.mount("/static", StaticFiles(directory=str(BASE_DIR / "static")), name="static")
+
+    app.include_router(pages_router)
+    app.include_router(reading_router, prefix="/api/v2")
+    app.include_router(auth_router, prefix="/api/v2/auth")
+    app.include_router(archive_router, prefix="/api/v2")
+    app.include_router(classic_router, prefix="/api/v2")
+
+except Exception as _v2_err:
+    import logging
+    logging.getLogger("bazichart_engine_api").warning(f"v2前端加载失败: {_v2_err}")
+# === v2 结束 ===

@@ -1,0 +1,281 @@
+{% extends "base.html" %}
+{% block title %}开始解读 — BaziChart.ai{% endblock %}
+
+{% block scripts %}
+<script src="/static/js/cities.js"></script>
+<script src="/static/js/reading.js"></script>
+{% endblock %}
+
+{% block content %}
+<div x-data="readingApp()" x-init="init()" class="min-h-screen px-4 py-8" style="max-width: 1200px; margin: 0 auto;">
+
+  <!-- ===== 状态1：输入 ===== -->
+  <div x-show="state === 'input'" x-transition>
+    <div style="max-width: 600px; margin: 0 auto;">
+      <h1 class="font-serif-sc text-center mb-8" style="font-size: 28px; color: var(--text-primary);">
+        告诉我你的出生信息
+      </h1>
+
+      <!-- 错误提示 -->
+      <div x-show="error" class="mb-6 p-4 rounded-lg" style="background: rgba(201,64,64,0.15); border: 1px solid rgba(201,64,64,0.3); color: #ff8080;">
+        <span x-text="error"></span>
+      </div>
+
+      <!-- 性别 -->
+      <div class="mb-6">
+        <label style="color: var(--text-muted); font-size: 13px; display: block; margin-bottom: 12px;">性别</label>
+        <div class="flex gap-4">
+          <button @click="setGender('男')" class="gender-btn flex-1" :class="form.gender === '男' ? 'active' : ''">
+            ♂ 男
+          </button>
+          <button @click="setGender('女')" class="gender-btn flex-1" :class="form.gender === '女' ? 'active' : ''">
+            ♀ 女
+          </button>
+        </div>
+      </div>
+
+      <!-- 历法切换 -->
+      <div class="mb-6">
+        <label style="color: var(--text-muted); font-size: 13px; display: block; margin-bottom: 12px;">历法</label>
+        <div class="flex gap-2">
+          <button @click="form.calendar = 'solar'" class="gender-btn flex-1 text-sm" :class="form.calendar === 'solar' ? 'active' : ''">
+            公历
+          </button>
+          <button @click="form.calendar = 'lunar'" class="gender-btn flex-1 text-sm" :class="form.calendar === 'lunar' ? 'active' : ''">
+            农历
+          </button>
+        </div>
+      </div>
+
+      <!-- 日期 -->
+      <div class="mb-6">
+        <label style="color: var(--text-muted); font-size: 13px; display: block; margin-bottom: 12px;">出生日期</label>
+        <div class="grid grid-cols-3 gap-3">
+          <div>
+            <select x-model="form.year">
+              <template x-for="y in Array.from({length: 100}, (_,i) => new Date().getFullYear() - i)" :key="y">
+                <option :value="y" x-text="y + '年'"></option>
+              </template>
+            </select>
+          </div>
+          <div>
+            <select x-model="form.month">
+              <template x-for="m in Array.from({length: 12}, (_,i) => i+1)" :key="m">
+                <option :value="m" x-text="m + '月'"></option>
+              </template>
+            </select>
+          </div>
+          <div>
+            <select x-model="form.day">
+              <template x-for="d in Array.from({length: 31}, (_,i) => i+1)" :key="d">
+                <option :value="d" x-text="d + '日'"></option>
+              </template>
+            </select>
+          </div>
+        </div>
+      </div>
+
+      <!-- 时辰 -->
+      <div class="mb-6">
+        <label style="color: var(--text-muted); font-size: 13px; display: block; margin-bottom: 12px;">出生时辰</label>
+        <select x-model.number="form.hour" @change="updateTrueSolarPreview()">
+          <template x-for="opt in shichen_options" :key="opt.label">
+            <option :value="opt.value" x-text="opt.label"></option>
+          </template>
+        </select>
+        <p class="mt-2" style="font-size: 12px; color: var(--text-muted);">有时辰会更精准，包含更深层的性格分析</p>
+      </div>
+
+      <!-- 出生地 -->
+      <div class="mb-6">
+        <label style="color: var(--text-muted); font-size: 13px; display: block; margin-bottom: 12px;">出生地（中国）</label>
+        <div class="grid gap-3">
+          <select x-model="form.province" @change="onProvinceChange()">
+            <option value="">选择省/直辖市</option>
+            <template x-for="p in provinces" :key="p">
+              <option :value="p" x-text="p"></option>
+            </template>
+          </select>
+          <select x-model="form.city" @change="onCityChange()" :disabled="!form.province">
+            <option value="">选择市</option>
+            <template x-for="c in cities" :key="c">
+              <option :value="c" x-text="c"></option>
+            </template>
+          </select>
+          <select x-model="form.county" :disabled="!form.city">
+            <option value="">选择区/县</option>
+            <template x-for="c in counties" :key="c.name">
+              <option :value="c.name" x-text="c.name"></option>
+            </template>
+          </select>
+        </div>
+
+        <!-- 真太阳时预览 -->
+        <div x-show="trueAolarPreview" class="mt-3 p-3 rounded" style="background: rgba(201,169,110,0.08); border: 1px solid rgba(201,169,110,0.2);">
+          <span style="color: var(--accent); font-size: 12px;">真太阳时预览：</span>
+          <span style="color: var(--text-secondary); font-size: 12px;" x-text="trueAolarPreview"></span>
+        </div>
+      </div>
+
+      <!-- 高级选项 -->
+      <div class="mb-6">
+        <button @click="showAdvanced = !showAdvanced" class="text-sm flex items-center gap-2" style="color: var(--text-muted);">
+          <span x-text="showAdvanced ? '▼' : '▶'"></span>
+          高级选项
+        </button>
+        <div x-show="showAdvanced" x-transition class="mt-3 p-4 rounded-lg" style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.06);">
+          <label class="flex items-center gap-3 mb-3 cursor-pointer">
+            <input type="checkbox" x-model="form.early_zi" class="w-4 h-4">
+            <span style="font-size: 14px; color: var(--text-secondary);">早子时（23:00-00:00 算前一天）</span>
+          </label>
+          <label class="flex items-center gap-3 cursor-pointer">
+            <input type="checkbox" x-model="form.dst" class="w-4 h-4">
+            <span style="font-size: 14px; color: var(--text-secondary);">
+              夏令时
+              <template x-if="form.year >= 1986 && form.year <= 1991">
+                <span style="color: var(--accent); font-size: 12px;">（已自动勾选，你出生的年份执行夏令时）</span>
+              </template>
+            </span>
+          </label>
+        </div>
+      </div>
+
+      <!-- 提交按钮 -->
+      <button @click="submitReading()" class="btn-accent w-full" style="font-size: 18px; padding: 18px;">
+        开始解读
+      </button>
+    </div>
+  </div>
+
+  <!-- ===== 状态2：Loading ===== -->
+  <div x-show="state === 'loading'" x-transition class="min-h-screen flex flex-col items-center justify-center text-center">
+    <div class="bagua-spin text-6xl mb-8">☯</div>
+    <h2 class="font-serif-sc mb-4" style="font-size: 24px; color: var(--accent);">正在为你解读</h2>
+    <p style="color: var(--text-secondary); font-size: 16px;" x-text="loadingSteps[loadingStep]"></p>
+    <p class="mt-4" style="color: var(--text-muted); font-size: 13px;">通常需要30-60秒，请耐心等待</p>
+  </div>
+
+  <!-- ===== 状态3：结果 ===== -->
+  <div x-show="state === 'result'" x-transition>
+    <template x-if="result">
+      <!-- 标题 -->
+      <div class="text-center mb-8">
+        <h1 class="font-serif-sc" style="font-size: 32px; color: var(--text-primary);">你的生命蓝图</h1>
+        <p style="color: var(--text-muted); font-size: 14px; margin-top: 8px;">
+          <span x-text="result.true_solar_time ? '真太阳时 ' + result.true_solar_time : ''"></span>
+        </p>
+      </div>
+
+      <!-- 左右分栏 -->
+      <div class="flex flex-col lg:flex-row gap-8">
+        <!-- 左侧：解读正文 (70%) -->
+        <div class="lg:flex-1">
+          <div class="card p-6 lg:p-8">
+            <div class="reading-text" x-html="renderMarkdown(result.reading_text)"></div>
+            <div class="mt-8 pt-6" style="border-top: 1px solid rgba(255,255,255,0.06); color: var(--text-muted); font-size: 13px; line-height: 1.6;">
+              以上分析基于命理学理论，仅供参考，不构成任何决策建议。
+            </div>
+          </div>
+        </div>
+
+        <!-- 右侧：排盘数据面板 (30%) -->
+        <div class="lg:w-80 space-y-4">
+          <!-- 四柱排盘 -->
+          <div class="card p-5">
+            <h3 style="color: var(--accent); font-size: 13px; margin-bottom: 16px; letter-spacing: 1px;">四柱排盘</h3>
+            <template x-if="result.bazi && result.bazi.pillars">
+              <div class="grid grid-cols-4 gap-2">
+                <template x-for="pillar in result.bazi.pillars" :key="pillar.label">
+                  <div class="pillar-cell">
+                    <div class="pillar-label" x-text="pillar.label"></div>
+                    <div class="pillar-stem" :style="stemColorStyle(pillar.stemColor)" x-text="pillar.stem"></div>
+                    <div class="pillar-branch" :style="stemColorStyle(pillar.branchColor)" x-text="pillar.branch"></div>
+                    <div class="pillar-shishen" x-text="pillar.shishen || ''"></div>
+                  </div>
+                </template>
+              </div>
+            </template>
+          </div>
+
+          <!-- 五行分布 -->
+          <div class="card p-5" x-show="result.bazi && result.bazi.wuxing">
+            <h3 style="color: var(--accent); font-size: 13px; margin-bottom: 16px; letter-spacing: 1px;">五行分布</h3>
+            <template x-if="result.bazi && result.bazi.wuxing">
+              <div class="space-y-2">
+                <template x-for="[elem, pct] in Object.entries(result.bazi.wuxing || {})" :key="elem">
+                  <div class="flex items-center gap-2">
+                    <span style="width: 16px; font-size: 13px; color: var(--text-muted);" x-text="elem"></span>
+                    <div class="flex-1 rounded-full overflow-hidden" style="height: 6px; background: rgba(255,255,255,0.08);">
+                      <div class="wuxing-bar rounded-full" :class="wuxingClass(elem)" :style="'width: ' + pct + '%'"></div>
+                    </div>
+                    <span style="font-size: 12px; color: var(--text-muted); width: 32px; text-align: right;" x-text="pct + '%'"></span>
+                  </div>
+                </template>
+              </div>
+            </template>
+          </div>
+
+          <!-- 格局 -->
+          <div class="card p-5" x-show="result.bazi">
+            <h3 style="color: var(--accent); font-size: 13px; margin-bottom: 12px; letter-spacing: 1px;">格局</h3>
+            <div class="space-y-1">
+              <div style="font-size: 16px; color: var(--text-primary); font-family: 'Noto Serif SC';" x-text="result.bazi?.pattern || '-'"></div>
+              <div style="font-size: 14px; color: var(--text-secondary);">
+                <span x-text="result.bazi?.day_master || ''"></span>
+                <span style="color: var(--text-muted);" x-text="result.bazi?.day_master_strength ? ' · ' + result.bazi.day_master_strength : ''"></span>
+              </div>
+            </div>
+          </div>
+
+          <!-- 大运 -->
+          <div class="card p-5" x-show="result.bazi && result.bazi.dayun && result.bazi.dayun.length > 0">
+            <h3 style="color: var(--accent); font-size: 13px; margin-bottom: 12px; letter-spacing: 1px;">大运走势</h3>
+            <div class="flex flex-wrap gap-2">
+              <template x-for="(dy, i) in (result.bazi?.dayun || []).slice(0, 6)" :key="i">
+                <div class="text-center rounded p-2" style="min-width: 44px;" :style="isCurrentDayun(dy) ? 'background: rgba(201,169,110,0.15); border: 1px solid rgba(201,169,110,0.4);' : 'background: rgba(255,255,255,0.04);'">
+                  <div style="font-size: 10px; color: var(--text-muted);" x-text="dy.age"></div>
+                  <div style="font-size: 15px; font-family: 'Noto Serif SC';" :style="isCurrentDayun(dy) ? 'color: var(--accent)' : 'color: var(--text-secondary)'" x-text="(dy.stem || '') + (dy.branch || '')"></div>
+                </div>
+              </template>
+            </div>
+          </div>
+
+          <!-- 交叉验证置信度 -->
+          <div class="card p-5">
+            <h3 style="color: var(--accent); font-size: 13px; margin-bottom: 12px; letter-spacing: 1px;">交叉验证</h3>
+            <div style="font-size: 18px; letter-spacing: 3px; color: var(--accent);" x-text="confidenceStars(result.confidence)"></div>
+            <div style="font-size: 12px; color: var(--text-muted); margin-top: 4px;" x-text="Math.round((result.confidence || 0.8) * 100) + '% 置信度'"></div>
+            <div class="mt-2 flex flex-wrap gap-1">
+              <span x-show="result.ziwei_used" style="font-size: 11px; padding: 2px 8px; border-radius: 10px; background: rgba(201,169,110,0.1); color: var(--accent);">紫微</span>
+              <span x-show="result.huangji_used" style="font-size: 11px; padding: 2px 8px; border-radius: 10px; background: rgba(201,169,110,0.1); color: var(--accent);">皇极</span>
+              <span x-show="result.cross_used" style="font-size: 11px; padding: 2px 8px; border-radius: 10px; background: rgba(201,169,110,0.1); color: var(--accent);">交叉验证</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 底部操作栏 -->
+      <div class="mt-8 p-6 rounded-xl" style="background: var(--bg-card); border: 1px solid rgba(255,255,255,0.06);">
+        <div class="flex flex-wrap gap-3 justify-center mb-6">
+          <button @click="downloadPDF()" class="btn-accent" style="font-size: 14px; padding: 10px 20px;">
+            下载PDF报告
+          </button>
+          <button @click="reset()" style="background: rgba(255,255,255,0.06); color: var(--text-secondary); border-radius: 8px; padding: 10px 20px; font-size: 14px; cursor: pointer; border: none;">
+            再来一次
+          </button>
+        </div>
+
+        <!-- 未登录：注册CTA -->
+        <template x-if="!isLoggedIn()">
+          <div class="text-center p-6 rounded-lg" style="background: rgba(201,169,110,0.06); border: 1px solid rgba(201,169,110,0.2);">
+            <p style="color: var(--text-primary); font-size: 16px; margin-bottom: 6px;">想要保存这份解读？</p>
+            <p style="color: var(--text-muted); font-size: 13px; margin-bottom: 16px;">注册免费获得2次深度解读额度，包含流年运势 · 事业详析 · 感情详析</p>
+            <a href="/dashboard#register" class="btn-accent inline-block">注册，免费保存</a>
+          </div>
+        </template>
+      </div>
+    </template>
+  </div>
+
+</div>
+{% endblock %}

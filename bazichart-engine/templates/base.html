@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% block title %}BaziChart.ai — 看见真实的你{% endblock %}</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700&family=Noto+Sans+SC:wght@300;400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/css/custom.css">
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            'bazi-bg': '#0F0F1A',
+            'bazi-card': '#1A1A2E',
+            'bazi-accent': '#C9A96E',
+            'bazi-wood': '#4A8C5C',
+            'bazi-fire': '#C94040',
+            'bazi-earth': '#D4A843',
+            'bazi-metal': '#C0C0C0',
+            'bazi-water': '#2B4C7E',
+          },
+          fontFamily: {
+            'serif-sc': ['"Noto Serif SC"', 'serif'],
+            'sans-sc': ['"Noto Sans SC"', 'sans-serif'],
+          }
+        }
+      }
+    }
+  </script>
+  {% block head %}{% endblock %}
+</head>
+<body class="bg-bazi-bg text-white font-sans-sc min-h-screen">
+  {% include "components/header.html" %}
+  <main class="pt-16">
+    {% block content %}{% endblock %}
+  </main>
+  {% include "components/footer.html" %}
+  {% block scripts %}{% endblock %}
+</body>
+</html>

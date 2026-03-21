@@ -1,0 +1,107 @@
+{% extends "base.html" %}
+{% block title %}BaziChart.ai — 看见真实的你{% endblock %}
+
+{% block content %}
+<!-- Hero 区 -->
+<section class="min-h-screen flex flex-col items-center justify-center px-4 text-center" style="padding-top: 80px; padding-bottom: 60px;">
+  <div class="fade-in" style="max-width: 640px;">
+    <div class="mb-4" style="color: var(--accent); font-size: 13px; letter-spacing: 3px; text-transform: uppercase;">
+      命理体验
+    </div>
+    <h1 class="font-serif-sc mb-4" style="font-size: clamp(40px, 8vw, 72px); font-weight: 700; line-height: 1.15; color: var(--text-primary);">
+      看见真实的你
+    </h1>
+    <p class="mb-8" style="font-size: 20px; color: var(--text-secondary); line-height: 1.6;">
+      不是算命，是理解
+    </p>
+    <a href="/reading" class="btn-accent inline-block" style="font-size: 18px; padding: 16px 48px; border-radius: 12px;">
+      输入生辰，开始解读
+    </a>
+    <p class="mt-6" style="font-size: 14px; color: var(--text-muted);">
+      已有 19,000+ 人获得了专属解读 · 无需注册
+    </p>
+  </div>
+</section>
+
+<!-- 案例展示区 -->
+<section class="px-4 pb-20" style="max-width: 1100px; margin: 0 auto;">
+  <div class="text-center mb-12">
+    <p style="color: var(--text-muted); font-size: 13px; letter-spacing: 2px;">真实解读片段</p>
+    <h2 class="font-serif-sc mt-2" style="font-size: 24px; color: var(--text-secondary);">这说的就是我</h2>
+  </div>
+
+  <div class="grid gap-6" style="grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));">
+    <!-- 案例1 -->
+    <div class="card p-6 fade-in" style="animation-delay: 0.1s;">
+      <div class="mb-3" style="color: var(--accent); font-size: 12px;">性格</div>
+      <p style="color: var(--text-secondary); font-size: 16px; line-height: 1.8;">
+        "你是那种表面随和但内心主见极强的人。你的主见不是通过争论表现出来的，而是通过最后的结果。"
+      </p>
+      <div class="mt-4 pt-4" style="border-top: 1px solid rgba(255,255,255,0.06); font-size: 12px; color: var(--text-muted);">
+        — 壬水日主，七杀格
+      </div>
+    </div>
+
+    <!-- 案例2 -->
+    <div class="card p-6 fade-in" style="animation-delay: 0.2s;">
+      <div class="mb-3" style="color: var(--accent); font-size: 12px;">人生节点</div>
+      <p style="color: var(--text-secondary); font-size: 16px; line-height: 1.8;">
+        "在35岁前后你可能感觉付出与回报不成比例，这不是命运的不公，是你选择了一条需要时间积累的路。"
+      </p>
+      <div class="mt-4 pt-4" style="border-top: 1px solid rgba(255,255,255,0.06); font-size: 12px; color: var(--text-muted);">
+        — 己土日主，食神格
+      </div>
+    </div>
+
+    <!-- 案例3 -->
+    <div class="card p-6 fade-in" style="animation-delay: 0.3s;">
+      <div class="mb-3" style="color: var(--accent); font-size: 12px;">运势转折</div>
+      <p style="color: var(--text-secondary); font-size: 16px; line-height: 1.8;">
+        "从2026年开始你会感觉到明显的转变，不是因为环境突然变好，而是你终于开始相信自己看到的。"
+      </p>
+      <div class="mt-4 pt-4" style="border-top: 1px solid rgba(255,255,255,0.06); font-size: 12px; color: var(--text-muted);">
+        — 甲木日主，正官格
+      </div>
+    </div>
+  </div>
+
+  <div class="text-center mt-8">
+    <a href="/reading" class="btn-accent inline-block">
+      看看我的是什么
+    </a>
+  </div>
+</section>
+
+<!-- 信任区 -->
+<section class="px-4 pb-20" style="border-top: 1px solid rgba(255,255,255,0.06); padding-top: 60px;">
+  <div style="max-width: 900px; margin: 0 auto;">
+    <div class="text-center mb-12">
+      <h2 class="font-serif-sc" style="font-size: 22px; color: var(--text-secondary);">不是算命，是理解</h2>
+    </div>
+    <div class="grid gap-8" style="grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));">
+      <div class="text-center">
+        <div style="font-size: 32px; margin-bottom: 12px;">🎯</div>
+        <div style="color: var(--accent); font-size: 15px; font-weight: 500; margin-bottom: 8px;">精确到县级</div>
+        <div style="color: var(--text-muted); font-size: 14px; line-height: 1.6;">精确到县级的真太阳时校正，1986-1991年出生自动处理夏令时</div>
+      </div>
+      <div class="text-center">
+        <div style="font-size: 32px; margin-bottom: 12px;">📚</div>
+        <div style="color: var(--accent); font-size: 15px; font-weight: 500; margin-bottom: 8px;">19,000+ 案例</div>
+        <div style="color: var(--text-muted); font-size: 14px; line-height: 1.6;">基于大量真实案例训练的分析引擎，不是套话，是真正的模式识别</div>
+      </div>
+      <div class="text-center">
+        <div style="font-size: 32px; margin-bottom: 12px;">⚖️</div>
+        <div style="color: var(--accent); font-size: 15px; font-weight: 500; margin-bottom: 8px;">多维度交叉验证</div>
+        <div style="color: var(--text-muted); font-size: 14px; line-height: 1.6;">多种经典命理体系交叉验证，每一个结论都有依据，不只是一种视角</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- 移动端固定底部CTA -->
+<div class="fixed bottom-0 left-0 right-0 p-4 md:hidden" style="background: linear-gradient(to top, rgba(15,15,26,1), rgba(15,15,26,0)); pointer-events: none;">
+  <a href="/reading" class="btn-accent block text-center" style="pointer-events: all;">
+    输入生辰，开始解读
+  </a>
+</div>
+{% endblock %}

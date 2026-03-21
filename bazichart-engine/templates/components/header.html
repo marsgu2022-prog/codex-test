@@ -1,0 +1,35 @@
+<nav class="fixed top-0 left-0 right-0 z-50 bg-opacity-90" style="background-color: rgba(15,15,26,0.95); backdrop-filter: blur(10px); border-bottom: 1px solid rgba(201,169,110,0.15);">
+  <div class="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
+    <a href="/" class="font-serif-sc text-xl font-bold" style="color: var(--accent);">
+      BaziChart.ai
+    </a>
+    <div class="flex items-center gap-4" x-data="authHeader()">
+      <template x-if="!isLoggedIn">
+        <div class="flex gap-3">
+          <a href="/dashboard#login" class="text-sm" style="color: var(--text-secondary);">登录</a>
+          <a href="/dashboard#register" class="text-sm btn-accent" style="padding: 6px 16px;">注册</a>
+        </div>
+      </template>
+      <template x-if="isLoggedIn">
+        <div class="flex items-center gap-3">
+          <a href="/dashboard" class="text-sm" style="color: var(--text-secondary);" x-text="nickname"></a>
+          <button @click="logout()" class="text-sm" style="color: var(--text-muted);">退出</button>
+        </div>
+      </template>
+    </div>
+  </div>
+</nav>
+
+<script>
+function authHeader() {
+  return {
+    isLoggedIn: !!localStorage.getItem('bazi_token'),
+    nickname: localStorage.getItem('bazi_nickname') || '我的档案',
+    logout() {
+      localStorage.removeItem('bazi_token');
+      localStorage.removeItem('bazi_nickname');
+      window.location.href = '/';
+    }
+  }
+}
+</script>

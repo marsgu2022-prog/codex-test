@@ -1,0 +1,182 @@
+{% extends "base.html" %}
+{% block title %}我的档案 — BaziChart.ai{% endblock %}
+
+{% block content %}
+<div class="px-4 py-8" style="max-width: 900px; margin: 0 auto;" x-data="dashboardApp()" x-init="init()">
+
+  <!-- 未登录：显示注册/登录表单 -->
+  <div x-show="!isLoggedIn && !showLogin" class="max-w-md mx-auto">
+    <h1 class="font-serif-sc text-center mb-8" style="font-size: 28px;">创建账号</h1>
+    <div class="card p-6 space-y-4">
+      <input type="email" x-model="regForm.email" placeholder="邮箱" style="display:block">
+      <input type="password" x-model="regForm.password" placeholder="密码（至少8位）" style="display:block">
+      <input type="text" x-model="regForm.nickname" placeholder="昵称（可选）" style="display:block">
+      <button @click="register()" class="btn-accent w-full">注册</button>
+      <div x-show="regError" style="color: #ff8080; font-size: 14px;" x-text="regError"></div>
+      <p class="text-center" style="font-size: 13px; color: var(--text-muted);">
+        已有账号？<button @click="showLogin = true" style="color: var(--accent); background: none; border: none; cursor: pointer;">登录</button>
+      </p>
+    </div>
+  </div>
+
+  <div x-show="!isLoggedIn && showLogin" class="max-w-md mx-auto">
+    <h1 class="font-serif-sc text-center mb-8" style="font-size: 28px;">登录</h1>
+    <div class="card p-6 space-y-4">
+      <input type="email" x-model="loginForm.email" placeholder="邮箱" style="display:block">
+      <input type="password" x-model="loginForm.password" placeholder="密码" style="display:block">
+      <button @click="login()" class="btn-accent w-full">登录</button>
+      <div x-show="loginError" style="color: #ff8080; font-size: 14px;" x-text="loginError"></div>
+      <p class="text-center" style="font-size: 13px; color: var(--text-muted);">
+        没有账号？<button @click="showLogin = false" style="color: var(--accent); background: none; border: none; cursor: pointer;">注册</button>
+      </p>
+    </div>
+  </div>
+
+  <!-- 已登录：用户中心 -->
+  <div x-show="isLoggedIn">
+    <!-- 欢迎语 -->
+    <div class="mb-8">
+      <h1 class="font-serif-sc" style="font-size: 28px;">欢迎回来，<span style="color: var(--accent);" x-text="userInfo.nickname"></span></h1>
+      <p style="color: var(--text-muted); font-size: 14px; margin-top: 4px;">
+        剩余深度解读次数：<strong style="color: var(--accent);" x-text="userInfo.remaining_readings"></strong> 次
+      </p>
+    </div>
+
+    <!-- 档案列表 -->
+    <div class="mb-8">
+      <h2 style="color: var(--text-secondary); font-size: 18px; margin-bottom: 16px;">我的档案</h2>
+      <div class="space-y-3">
+        <template x-for="archive in archives" :key="archive.id">
+          <div class="card p-4 flex items-center justify-between">
+            <div>
+              <div style="color: var(--text-primary); font-size: 15px;" x-text="archive.name"></div>
+              <div style="color: var(--text-muted); font-size: 13px; margin-top: 2px;" x-text="archive.gender + ' · ' + archive.created_at.split('T')[0]"></div>
+            </div>
+            <div class="flex gap-2">
+              <a href="/reading" class="btn-accent" style="padding: 6px 14px; font-size: 13px;">解读</a>
+              <button @click="deleteArchive(archive.id)" style="background: rgba(255,255,255,0.04); color: var(--text-muted); border-radius: 6px; padding: 6px 14px; font-size: 13px; cursor: pointer; border: none;">删除</button>
+            </div>
+          </div>
+        </template>
+        <div class="card p-4 cursor-pointer text-center" @click="showAddArchive = true" style="border: 1px dashed rgba(201,169,110,0.3); color: var(--accent); font-size: 14px;">
+          + 新增档案
+        </div>
+      </div>
+    </div>
+
+    <!-- 会员功能预告 -->
+    <div>
+      <h2 style="color: var(--text-secondary); font-size: 18px; margin-bottom: 16px;">更多功能</h2>
+      <div class="grid gap-4" style="grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));">
+        <div class="card p-5 text-center" style="opacity: 0.5;">
+          <div style="font-size: 28px; margin-bottom: 8px;">🔒</div>
+          <div style="color: var(--text-secondary); font-size: 14px;">流年运势</div>
+        </div>
+        <div class="card p-5 text-center" style="opacity: 0.5;">
+          <div style="font-size: 28px; margin-bottom: 8px;">🔒</div>
+          <div style="color: var(--text-secondary); font-size: 14px;">合盘分析</div>
+        </div>
+        <div class="card p-5 text-center" style="opacity: 0.5;">
+          <div style="font-size: 28px; margin-bottom: 8px;">🔒</div>
+          <div style="color: var(--text-secondary); font-size: 14px;">年度报告</div>
+        </div>
+      </div>
+      <p class="text-center mt-4" style="color: var(--text-muted); font-size: 13px;">会员功能即将推出</p>
+    </div>
+  </div>
+</div>
+
+<script>
+function dashboardApp() {
+  return {
+    isLoggedIn: false,
+    showLogin: false,
+    userInfo: {},
+    archives: [],
+    regForm: { email: '', password: '', nickname: '' },
+    loginForm: { email: '', password: '' },
+    regError: '',
+    loginError: '',
+    showAddArchive: false,
+
+    async init() {
+      const token = localStorage.getItem('bazi_token');
+      if (token) {
+        await this.loadProfile(token);
+      }
+      // URL hash 控制显示登录还是注册
+      if (window.location.hash === '#login') {
+        this.showLogin = true;
+      }
+    },
+
+    async loadProfile(token) {
+      try {
+        const resp = await fetch('/api/v2/auth/profile', {
+          headers: { 'Authorization': 'Bearer ' + token }
+        });
+        if (resp.ok) {
+          this.userInfo = await resp.json();
+          this.isLoggedIn = true;
+          await this.loadArchives(token);
+        } else {
+          localStorage.removeItem('bazi_token');
+        }
+      } catch (e) {}
+    },
+
+    async loadArchives(token) {
+      try {
+        const resp = await fetch('/api/v2/archives', {
+          headers: { 'Authorization': 'Bearer ' + (token || localStorage.getItem('bazi_token')) }
+        });
+        if (resp.ok) {
+          this.archives = await resp.json();
+        }
+      } catch (e) {}
+    },
+
+    async register() {
+      this.regError = '';
+      try {
+        const resp = await fetch('/api/v2/auth/register', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(this.regForm)
+        });
+        const data = await resp.json();
+        if (!resp.ok) { this.regError = data.detail || '注册失败'; return; }
+        localStorage.setItem('bazi_token', data.token);
+        localStorage.setItem('bazi_nickname', this.regForm.nickname || this.regForm.email.split('@')[0]);
+        await this.loadProfile(data.token);
+      } catch (e) { this.regError = '网络错误'; }
+    },
+
+    async login() {
+      this.loginError = '';
+      try {
+        const resp = await fetch('/api/v2/auth/login', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(this.loginForm)
+        });
+        const data = await resp.json();
+        if (!resp.ok) { this.loginError = data.detail || '登录失败'; return; }
+        localStorage.setItem('bazi_token', data.token);
+        localStorage.setItem('bazi_nickname', data.nickname);
+        await this.loadProfile(data.token);
+      } catch (e) { this.loginError = '网络错误'; }
+    },
+
+    async deleteArchive(id) {
+      if (!confirm('确认删除？')) return;
+      await fetch(`/api/v2/archives/${id}`, {
+        method: 'DELETE',
+        headers: { 'Authorization': 'Bearer ' + localStorage.getItem('bazi_token') }
+      });
+      await this.loadArchives();
+    }
+  }
+}
+</script>
+{% endblock %}
