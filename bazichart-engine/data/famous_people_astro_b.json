@@ -1422,5 +1422,319 @@
     ],
     "data_quality_score": 0.72,
     "rodden_rating": "B"
+  },
+  {
+    "name_en": "Anthony Ashley-Cooper",
+    "name_zh": null,
+    "birth_date": "1671-02-26",
+    "birth_time": "20:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "London",
+    "birth_country": "England",
+    "gender": "male",
+    "occupation": [
+      "政治家",
+      "作家"
+    ],
+    "bio": "English politician, philosopher and writer, styled 3rd Earl of Shaftesbury.",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Ashley-Cooper,_Anthony"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Radwa Ashour",
+    "name_zh": null,
+    "birth_date": "1946-05-26",
+    "birth_time": "06:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Cairo",
+    "birth_country": "Egypt",
+    "gender": "female",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "Egyptian novelist who won the 2007 Constantine Cavafy Prize for Literature.",
+    "notable_events": [
+      {
+        "year": 2007,
+        "event": "Egyptian novelist who won the 2007 Constantine Cavafy Prize for Literature.",
+        "event_type": "award"
+      },
+      {
+        "year": 1967,
+        "event": "Radwa Ashour graduated from Cairo University with a BA in 1967, and MA in 1972, and from University of Massachusetts Amh",
+        "event_type": "other"
+      },
+      {
+        "year": 1972,
+        "event": "Radwa Ashour graduated from Cairo University with a BA in 1967, and MA in 1972, and from University of Massachusetts Amh",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Ashour,_Radwa"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Sylvia Ashton-Warner",
+    "name_zh": null,
+    "birth_date": "1908-12-17",
+    "birth_time": "07:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Stratford",
+    "birth_country": "New Zealand",
+    "gender": "female",
+    "occupation": [
+      "演员",
+      "作家"
+    ],
+    "bio": "New Zealand writer, poet and educator.",
+    "notable_events": [
+      {
+        "year": 1963,
+        "event": "Ashton-Warner spent many years teaching Māori children, using stimulating and often pioneering techniques which she wrot",
+        "event_type": "other"
+      },
+      {
+        "year": 1958,
+        "event": "New Zealand writer, poet and educator. Ashton-Warner spent many years teaching Māori children, using stimulating and oft",
+        "event_type": "other"
+      },
+      {
+        "year": 1961,
+        "event": "New Zealand writer, poet and educator. Ashton-Warner spent many years teaching Māori children, using stimulating and oft",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Ashton-Warner,_Sylvia"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Lee Atwater",
+    "name_zh": null,
+    "birth_date": "1951-02-27",
+    "birth_time": "01:05",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Atlanta",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "American political consultant and strategist to the Republican Party.",
+    "notable_events": [
+      {
+        "year": 1990,
+        "event": "King and others on Curb Records in 1990 titled Red Hot & Blue.",
+        "event_type": "other"
+      },
+      {
+        "year": 1991,
+        "event": "He died on 29 March 1991, from a brain tumor.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Atwater,_Lee"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Brigitte Auber",
+    "name_zh": null,
+    "birth_date": "1925-04-27",
+    "birth_time": "03:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Paris Arrondissement 14",
+    "birth_country": "France",
+    "gender": "female",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "French actress who worked on stage, film and television in Europe.",
+    "notable_events": [
+      {
+        "year": 1949,
+        "event": "She began her film career with the leading role in Jacques Becker's Rendez-vous de juillet (Rendezvous in July, 1949), a",
+        "event_type": "career_start"
+      },
+      {
+        "year": 1951,
+        "event": "She began her film career with the leading role in Jacques Becker's Rendez-vous de juillet (Rendezvous in July, 1949), a",
+        "event_type": "career_start"
+      },
+      {
+        "year": 1955,
+        "event": "Auber played the role of Danielle Foussard opposite Cary Grant and Grace Kelly in Alfred Hitchcock's To Catch a Thief , ",
+        "event_type": "career_peak"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Auber,_Brigitte"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Gottlob Samuel Auberlen",
+    "name_zh": null,
+    "birth_date": "1758-11-23",
+    "birth_time": "10:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Fellbach",
+    "birth_country": "Germany",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "German musician and composer.",
+    "notable_events": [
+      {
+        "year": 1829,
+        "event": "He died 23 August 1829, Ulm.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Auberlen,_Gottlob_Samuel"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "John Aubrey",
+    "name_zh": null,
+    "birth_date": "1626-03-12",
+    "birth_time": "05:15",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Easton",
+    "birth_country": "England",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "British astrologer, biographer, author and antiquary.",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Aubrey,_John"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Rudolf Augstein",
+    "name_zh": null,
+    "birth_date": "1923-11-05",
+    "birth_time": "02:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Hannover",
+    "birth_country": "Germany",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "One of the most influential German journalists, founder and part-owner of Der Sp",
+    "notable_events": [
+      {
+        "year": 1981,
+        "event": "An amateur historian, Augstein published several successful books, among them Preußens Friedrich und die Deutschen (1981",
+        "event_type": "career_peak"
+      },
+      {
+        "year": 1990,
+        "event": "An amateur historian, Augstein published several successful books, among them Preußens Friedrich und die Deutschen (1981",
+        "event_type": "career_peak"
+      },
+      {
+        "year": 1983,
+        "event": "Ein Spiegelbild (1983).",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Augstein,_Rudolf"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Auguste Magdalene of Hessen-Darmstadt",
+    "name_zh": null,
+    "birth_date": "1657-03-06",
+    "birth_time": "18:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Darmstadt",
+    "birth_country": "Germany",
+    "gender": "female",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "German noblewoman and poet, and a daughter of Count Ludwig VI of Hesse-Darmstadt",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Auguste_Magdalene_of_Hessen-Darmstadt"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Elector of Saxony Augustus",
+    "name_zh": null,
+    "birth_date": "1526-07-31",
+    "birth_time": "05:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Freiberg",
+    "birth_country": "Germany",
+    "gender": "male",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "Elector of Saxony from 1553 to 1586.",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Augustus,_Elector_of_Saxony"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "3rd Earl of Bristol Augustus Hervey",
+    "name_zh": null,
+    "birth_date": "1724-05-19",
+    "birth_time": "13:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "London",
+    "birth_country": "England",
+    "gender": "male",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "British admiral and politician known as the English Casanova, due to his colourf",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Augustus_Hervey,_3rd_Earl_of_Bristol"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
   }
 ]
