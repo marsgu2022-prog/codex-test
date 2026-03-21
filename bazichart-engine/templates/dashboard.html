@@ -145,11 +145,11 @@ function dashboardApp() {
           body: JSON.stringify(this.regForm)
         });
         const data = await resp.json();
-        if (!resp.ok) { this.regError = data.detail || '注册失败'; return; }
+        if (!resp.ok) { this.regError = (window.t && t('errors.' + data.detail)) || data.detail || '注册失败'; return; }
         localStorage.setItem('bazi_token', data.token);
         localStorage.setItem('bazi_nickname', this.regForm.nickname || this.regForm.email.split('@')[0]);
         await this.loadProfile(data.token);
-      } catch (e) { this.regError = '网络错误'; }
+      } catch (e) { this.regError = (window.t && t('errors.NETWORK_ERROR')) || '网络错误'; }
     },
 
     async login() {
@@ -161,11 +161,11 @@ function dashboardApp() {
           body: JSON.stringify(this.loginForm)
         });
         const data = await resp.json();
-        if (!resp.ok) { this.loginError = data.detail || '登录失败'; return; }
+        if (!resp.ok) { this.loginError = (window.t && t('errors.' + data.detail)) || data.detail || '登录失败'; return; }
         localStorage.setItem('bazi_token', data.token);
         localStorage.setItem('bazi_nickname', data.nickname);
         await this.loadProfile(data.token);
-      } catch (e) { this.loginError = '网络错误'; }
+      } catch (e) { this.loginError = (window.t && t('errors.NETWORK_ERROR')) || '网络错误'; }
     },
 
     async deleteArchive(id) {
