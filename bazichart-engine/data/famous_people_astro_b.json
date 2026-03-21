@@ -2638,5 +2638,190 @@
     ],
     "data_quality_score": 0.72,
     "rodden_rating": "B"
+  },
+  {
+    "name_en": "Arnold Bax",
+    "name_zh": null,
+    "birth_date": "1883-11-08",
+    "birth_time": "08:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "London",
+    "birth_country": "England",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "English composer and poet.",
+    "notable_events": [
+      {
+        "year": 1953,
+        "event": "He died on 3 October 1953.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bax,_Arnold"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Mahmoud Baydoun",
+    "name_zh": null,
+    "birth_date": "1990-03-29",
+    "birth_time": "20:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Manaus (Amazonas)",
+    "birth_country": "Brazil",
+    "gender": "male",
+    "occupation": [
+      "演员",
+      "科学家"
+    ],
+    "bio": "Brazilian sexologist and media personality who gained five million followers on ",
+    "notable_events": [
+      {
+        "year": 2023,
+        "event": "Brazilian sexologist and media personality who gained five million followers on Instagram by 2023 after appearing as a c",
+        "event_type": "other"
+      },
+      {
+        "year": 2018,
+        "event": "Brazilian sexologist and media personality who gained five million followers on Instagram by 2023 after appearing as a c",
+        "event_type": "other"
+      },
+      {
+        "year": 2021,
+        "event": "In 2021, he appeared in No Limite 5 (the Brazilian version of the international reality game show franchise Survivor ).",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Baydoun,_Mahmoud"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Amy Beach",
+    "name_zh": null,
+    "birth_date": "1867-09-05",
+    "birth_time": "12:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "New York, NY",
+    "birth_country": "United States",
+    "gender": "female",
+    "occupation": [
+      "演员",
+      "作家"
+    ],
+    "bio": "American composer and pianist, a child prodigy who sang at age two and began com",
+    "notable_events": [
+      {
+        "year": 1883,
+        "event": "In 1883, at age 16, she made her professional debut as a pianist.",
+        "event_type": "career_start"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Beach,_Amy"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "John Beames",
+    "name_zh": null,
+    "birth_date": "1837-06-21",
+    "birth_time": "01:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Greenwich",
+    "birth_country": "England",
+    "gender": "male",
+    "occupation": [
+      "政治家",
+      "作家"
+    ],
+    "bio": "English civil servant in British India and an author.",
+    "notable_events": [
+      {
+        "year": 1858,
+        "event": "Thomas Beames, preacher of St James's Church, Piccadilly, Beames was educated at Merchant Taylors' School and Haileybury",
+        "event_type": "other"
+      },
+      {
+        "year": 1859,
+        "event": "He served in the Punjab from March 1859, to late 1861 and in Bengal from December 1861 until the conclusion of his servi",
+        "event_type": "other"
+      },
+      {
+        "year": 1861,
+        "event": "He served in the Punjab from March 1859, to late 1861 and in Bengal from December 1861 until the conclusion of his servi",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Beames,_John"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Johann Matthäus Bechstein",
+    "name_zh": null,
+    "birth_date": "1757-07-11",
+    "birth_time": "00:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Waltershausen",
+    "birth_country": "Germany",
+    "gender": "male",
+    "occupation": [
+      "科学家"
+    ],
+    "bio": "German naturalist, forester, ornithologist, entomologist, and herpetologist.",
+    "notable_events": [
+      {
+        "year": 1822,
+        "event": "He died on 23 February 1822.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bechstein,_Johann_Matth%C3%A4us"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Beck",
+    "name_zh": null,
+    "birth_date": "1970-07-08",
+    "birth_time": "23:59",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Los Angeles",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "American musician, singer-songwriter and multi-instrumentalist.",
+    "notable_events": [
+      {
+        "year": 1989,
+        "event": "American musician, singer-songwriter and multi-instrumentalist. Beck rose to fame in the early 1990s with his lo-fi, son",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Beck"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
   }
 ]

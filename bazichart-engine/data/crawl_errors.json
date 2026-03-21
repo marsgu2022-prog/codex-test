@@ -53,5 +53,380 @@
     "url": "https://www.astro.com/wiki/astro-databank/index.php?title=AndyRoberts_Counterpart",
     "stage": "detail",
     "error": "404 Client Error: Not Found for url: https://www.astro.com/wiki/astro-databank/index.php?title=AndyRoberts_Counterpart&action=raw"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Bayrou,_Maurice",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Bayrou,_Maurice (Caused by NameResolutionError(\"HTTPSConnection(host='www.astro.com', port=443): Failed to resolve 'www.astro.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Bays,_St%C3%A9fani",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Bays,_St%C3%A9fani&action=raw (Caused by NameResolutionError(\"HTTPSConnection(host='www.astro.com', port=443): Failed to resolve 'www.astro.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Bazan,_Jorge",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Bazan,_Jorge&action=raw (Caused by NewConnectionError(\"HTTPSConnection(host='www.astro.com', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Bazelaire,_Paul",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Bazelaire,_Paul&action=raw (Caused by NewConnectionError(\"HTTPSConnection(host='www.astro.com', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Bazeries,_Etienne",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Bazeries,_Etienne&action=raw (Caused by NewConnectionError(\"HTTPSConnection(host='www.astro.com', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Bazille,_Fr%C3%A9d%C3%A9ric",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Bazille,_Fr%C3%A9d%C3%A9ric&action=raw (Caused by NewConnectionError(\"HTTPSConnection(host='www.astro.com', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Bazin,_Andre",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Bazin,_Andre&action=raw (Caused by NewConnectionError(\"HTTPSConnection(host='www.astro.com', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Bazin,_Andr%C3%A9",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Bazin,_Andr%C3%A9&action=raw (Caused by NewConnectionError(\"HTTPSConnection(host='www.astro.com', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Bazin,_Francois",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Bazin,_Francois&action=raw (Caused by NewConnectionError(\"HTTPSConnection(host='www.astro.com', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Bazin,_Fran%C3%A7ois",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Bazin,_Fran%C3%A7ois&action=raw (Caused by NewConnectionError(\"HTTPSConnection(host='www.astro.com', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Bazin,_Henri-%C3%89mile",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Bazin,_Henri-%C3%89mile&action=raw (Caused by NewConnectionError(\"HTTPSConnection(host='www.astro.com', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Bazin,_Herve",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Bazin,_Herve&action=raw (Caused by NewConnectionError(\"HTTPSConnection(host='www.astro.com', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Bazin,_Herv%C3%A9",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Bazin,_Herv%C3%A9&action=raw (Caused by NewConnectionError(\"HTTPSConnection(host='www.astro.com', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Bazin,_Janine",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Bazin,_Janine&action=raw (Caused by NewConnectionError(\"HTTPSConnection(host='www.astro.com', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Bazin,_Rene",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Bazin,_Rene&action=raw (Caused by NewConnectionError(\"HTTPSConnection(host='www.astro.com', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Bazin,_Ren%C3%A9",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Bazin,_Ren%C3%A9&action=raw (Caused by NewConnectionError(\"HTTPSConnection(host='www.astro.com', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Bazin,_Sebastien",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Bazin,_Sebastien&action=raw (Caused by NewConnectionError(\"HTTPSConnection(host='www.astro.com', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Bazin,_S%C3%A9bastien",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Bazin,_S%C3%A9bastien&action=raw (Caused by NewConnectionError(\"HTTPSConnection(host='www.astro.com', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Bazire,_Jean-Michel",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Bazire,_Jean-Michel&action=raw (Caused by NewConnectionError(\"HTTPSConnection(host='www.astro.com', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Bazire,_Nicolas",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Bazire,_Nicolas&action=raw (Caused by NewConnectionError(\"HTTPSConnection(host='www.astro.com', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Bazlen,_Bobi",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Bazlen,_Bobi&action=raw (Caused by NewConnectionError(\"HTTPSConnection(host='www.astro.com', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Bazo,_Carolina",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Bazo,_Carolina&action=raw (Caused by NewConnectionError(\"HTTPSConnection(host='www.astro.com', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Bazot,_Alain",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Bazot,_Alain&action=raw (Caused by NewConnectionError(\"HTTPSConnection(host='www.astro.com', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Bazy,_Pierre",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Bazy,_Pierre&action=raw (Caused by NewConnectionError(\"HTTPSConnection(host='www.astro.com', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Bazzi,_Jonathan",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Bazzi,_Jonathan&action=raw (Caused by NewConnectionError(\"HTTPSConnection(host='www.astro.com', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Baz%C3%A1n,_Jorge",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Baz%C3%A1n,_Jorge&action=raw (Caused by NewConnectionError(\"HTTPSConnection(host='www.astro.com', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Baz%C3%A1n,_Mario",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Baz%C3%A1n,_Mario&action=raw (Caused by NewConnectionError(\"HTTPSConnection(host='www.astro.com', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Ba%C5%9Fak,_Chris",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Ba%C5%9Fak,_Chris&action=raw (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.astro.com', port=443) at 0x10439ac10>, 'Connection to www.astro.com timed out. (connect timeout=30)'))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beatie,_Susan",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beatie,_Susan (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [Errno 61] Connection refused\")))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beatie,_Thomas",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beatie,_Thomas&action=raw (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [Errno 61] Connection refused\")))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beaton,_Cecil",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beaton,_Cecil&action=raw (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [Errno 61] Connection refused\")))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beaton,_Morag",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beaton,_Morag&action=raw (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [Errno 61] Connection refused\")))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beatrice,_Princess_of_England",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beatrice,_Princess_of_England&action=raw (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [Errno 61] Connection refused\")))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beatrice,_Princess_of_Saxe-Coburg_and_Gotha",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beatrice,_Princess_of_Saxe-Coburg_and_Gotha&action=raw (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [Errno 61] Connection refused\")))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beatrice,_Princess_of_York",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beatrice,_Princess_of_York&action=raw (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [Errno 61] Connection refused\")))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beatrix,_Queen_of_Netherlands",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beatrix,_Queen_of_Netherlands&action=raw (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [Errno 61] Connection refused\")))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beatriz,_Infanta_of_Spain",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beatriz,_Infanta_of_Spain&action=raw (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [Errno 61] Connection refused\")))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beatriz_de_Borb%C3%B3n",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beatriz_de_Borb%C3%B3n&action=raw (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [Errno 61] Connection refused\")))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beattie,_Melody",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beattie,_Melody&action=raw (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [Errno 61] Connection refused\")))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beatty,_Blaine",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beatty,_Blaine&action=raw (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [Errno 61] Connection refused\")))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beatty,_George_Samuel",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beatty,_George_Samuel&action=raw (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [Errno 61] Connection refused\")))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beatty,_John_Lee",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beatty,_John_Lee&action=raw (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [Errno 61] Connection refused\")))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beatty,_Kathlyn_Bening",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beatty,_Kathlyn_Bening&action=raw (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [Errno 61] Connection refused\")))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beatty,_Ned",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beatty,_Ned&action=raw (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [Errno 61] Connection refused\")))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beatty,_Robert",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beatty,_Robert&action=raw (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [Errno 61] Connection refused\")))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beatty,_Stephen_Ira",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beatty,_Stephen_Ira&action=raw (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [Errno 61] Connection refused\")))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beatty,_Warren",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beatty,_Warren&action=raw (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [Errno 61] Connection refused\")))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beau_de_Rochas,_Alphonse",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beau_de_Rochas,_Alphonse&action=raw (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [Errno 61] Connection refused\")))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beaucamp,_Albert",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beaucamp,_Albert&action=raw (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [Errno 61] Connection refused\")))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beaucarne,_Julos",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beaucarne,_Julos&action=raw (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [Errno 61] Connection refused\")))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beaucarnot,_Jean-Louis",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beaucarnot,_Jean-Louis&action=raw (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [Errno 61] Connection refused\")))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beauchamp,_Bianca",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beauchamp,_Bianca&action=raw (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [Errno 61] Connection refused\")))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beauchamp,_D._D.",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beauchamp,_D._D.&action=raw (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [Errno 61] Connection refused\")))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beauchamp,_Edmond",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beauchamp,_Edmond&action=raw (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [Errno 61] Connection refused\")))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beauchamps,_Annick",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beauchamps,_Annick&action=raw (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [Errno 61] Connection refused\")))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beauchesne,_Roland_Jr.",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beauchesne,_Roland_Jr.&action=raw (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [Errno 61] Connection refused\")))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beauclair,_Henri",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beauclair,_Henri&action=raw (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [Errno 61] Connection refused\")))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beaucourt,_Georges",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beaucourt,_Georges&action=raw (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [Errno 61] Connection refused\")))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beaudin,_Andr%C3%A9",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beaudin,_Andr%C3%A9&action=raw (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [Errno 61] Connection refused\")))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beaudoin,_France",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beaudoin,_France&action=raw (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [Errno 61] Connection refused\")))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beaudouin,_Eug%C3%A8ne",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beaudouin,_Eug%C3%A8ne&action=raw (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [Errno 61] Connection refused\")))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beaufort,_Lieven_Ferdinand_de",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beaufort,_Lieven_Ferdinand_de&action=raw (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [Errno 61] Connection refused\")))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beaufrand,_Roger",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beaufrand,_Roger&action=raw (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [Errno 61] Connection refused\")))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beaufre,_Andre",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beaufre,_Andre&action=raw (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [Errno 61] Connection refused\")))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beaufre,_Andr%C3%A9",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beaufre,_Andr%C3%A9&action=raw (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [Errno 61] Connection refused\")))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beaugendre,_David",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beaugendre,_David&action=raw (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [Errno 61] Connection refused\")))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beauget,_Sylvie",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beauget,_Sylvie&action=raw (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [Errno 61] Connection refused\")))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beaugrand,_Christophe",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beaugrand,_Christophe&action=raw (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [Errno 61] Connection refused\")))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beauharnais,_Eugenie_de",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beauharnais,_Eugenie_de&action=raw (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [Errno 61] Connection refused\")))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beauharnais,_Eug%C3%A9nie_de",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beauharnais,_Eug%C3%A9nie_de&action=raw (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [Errno 61] Connection refused\")))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beauharnis,_Josephine",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beauharnis,_Josephine&action=raw (Caused by NewConnectionError(\"HTTPSConnection(host='www.astro.com', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beaulieu,_Henri",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beaulieu,_Henri&action=raw (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beaulieu-Marconnay,_Olivier_Freiherr_von",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beaulieu-Marconnay,_Olivier_Freiherr_von&action=raw (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beauvoir,_Simone_de",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beauvoir,_Simone_de&action=raw (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Beauvois,_Xavier",
+    "stage": "detail",
+    "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Beauvois,_Xavier&action=raw (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
   }
 ]
