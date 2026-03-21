@@ -1328,5 +1328,99 @@
     ],
     "data_quality_score": 0.72,
     "rodden_rating": "B"
+  },
+  {
+    "name_en": "John Arlott",
+    "name_zh": null,
+    "birth_date": "1914-02-25",
+    "birth_time": "04:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Basingstoke",
+    "birth_country": "England",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "演员",
+      "作家"
+    ],
+    "bio": "British sports commentator known as \"the voice of cricket\" for his coverage of e",
+    "notable_events": [
+      {
+        "year": 1980,
+        "event": "British sports commentator known as \"the voice of cricket\" for his coverage of every Test Match that England played up t",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Arlott,_John"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Ella Sophia Armitage",
+    "name_zh": null,
+    "birth_date": "1841-03-03",
+    "birth_time": "04:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Liverpool",
+    "birth_country": "England",
+    "gender": "female",
+    "occupation": [
+      "科学家",
+      "作家"
+    ],
+    "bio": "English historian and archaeologist.",
+    "notable_events": [
+      {
+        "year": 1871,
+        "event": "In October 1871 she was one of the first students to enter Newnham College, Cambridge, and in 1874 she became the colleg",
+        "event_type": "career_peak"
+      },
+      {
+        "year": 1874,
+        "event": "In October 1871 she was one of the first students to enter Newnham College, Cambridge, and in 1874 she became the colleg",
+        "event_type": "career_peak"
+      },
+      {
+        "year": 1877,
+        "event": "From 1877 to 1879 she taught history at Owens College, Manchester, and developed her interest in mediaeval earthworks an",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Armitage,_Ella_Sophia"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Joe Arroyo",
+    "name_zh": null,
+    "birth_date": "1955-11-01",
+    "birth_time": "14:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Cartagena",
+    "birth_country": "Colombia",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "Colombian salsa and tropical music singer, composer and songwriter.",
+    "notable_events": [
+      {
+        "year": 2011,
+        "event": "Colombian salsa and tropical music singer, composer and songwriter. He was considered one of the greatest performers of ",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Arroyo,_Joe"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
   }
 ]
