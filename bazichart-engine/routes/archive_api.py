@@ -23,7 +23,7 @@ def _get_user(authorization: Optional[str]):
     payload = verify_token(authorization[7:])
     if not payload:
         raise HTTPException(status_code=401, detail="Token无效")
-    user = get_user_by_id(payload["sub"])
+    user = get_user_by_id(int(payload["sub"]))
     if not user:
         raise HTTPException(status_code=404, detail="用户不存在")
     return user

@@ -86,7 +86,7 @@ async def profile(authorization: Optional[str] = Header(None)):
     payload = verify_token(token)
     if not payload:
         raise HTTPException(status_code=401, detail="Token无效或已过期")
-    user = get_user_by_id(payload["sub"])
+    user = get_user_by_id(int(payload["sub"]))
     if not user:
         raise HTTPException(status_code=404, detail="用户不存在")
     conn = sqlite3.connect(str(DB_FILE))

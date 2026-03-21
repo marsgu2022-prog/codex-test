@@ -10,3 +10,5 @@ timezonefinder
 ephem
 lunar_python
 slowapi
+bcrypt
+PyJWT

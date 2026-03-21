@@ -1,18 +1,28 @@
 """用户认证模块"""
 from __future__ import annotations
-import sqlite3
-import hashlib
-import hmac
 import os
-import time
-import json
-import base64
+import sqlite3
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from typing import Optional
 
+import bcrypt
+import jwt
+
 BASE_DIR = Path(__file__).resolve().parent.parent
 DB_FILE = BASE_DIR / "users.db"
-SECRET_KEY = os.environ.get("JWT_SECRET", "bazichart-secret-2026")
+
+_SECRET_KEY: Optional[str] = None
+
+
+def _get_secret() -> str:
+    global _SECRET_KEY
+    if _SECRET_KEY is None:
+        key = os.environ.get("JWT_SECRET")
+        if not key:
+            raise RuntimeError("JWT_SECRET 环境变量未设置，请在 .env 文件中配置")
+        _SECRET_KEY = key
+    return _SECRET_KEY
 
 
 def init_users_db():
@@ -53,50 +63,41 @@ def init_users_db():
 
 
 def hash_password(password: str) -> str:
-    salt = os.urandom(16).hex()
-    h = hashlib.pbkdf2_hmac("sha256", password.encode(), salt.encode(), 100000)
-    return f"{salt}:{h.hex()}"
+    """使用 bcrypt 哈希密码"""
+    return bcrypt.hashpw(password.encode("utf-8"), bcrypt.gensalt()).decode("utf-8")
 
 
 def verify_password(password: str, password_hash: str) -> bool:
+    """验证 bcrypt 密码"""
     try:
-        salt, h = password_hash.split(":", 1)
-        expected = hashlib.pbkdf2_hmac("sha256", password.encode(), salt.encode(), 100000)
-        return hmac.compare_digest(h, expected.hex())
+        return bcrypt.checkpw(password.encode("utf-8"), password_hash.encode("utf-8"))
     except Exception:
         return False
 
 
 def create_token(user_id: int, email: str) -> str:
-    """创建JWT-like token"""
-    payload = {"sub": user_id, "email": email, "exp": int(time.time()) + 7 * 24 * 3600}
-    encoded = base64.urlsafe_b64encode(json.dumps(payload).encode()).decode()
-    sig = hmac.new(SECRET_KEY.encode(), encoded.encode(), hashlib.sha256).hexdigest()
-    return f"{encoded}.{sig}"
+    """创建 PyJWT token，7天过期"""
+    payload = {
+        "sub": str(user_id),
+        "email": email,
+        "exp": datetime.now(tz=timezone.utc) + timedelta(days=7),
+    }
+    return jwt.encode(payload, _get_secret(), algorithm="HS256")
 
 
 def verify_token(token: str) -> Optional[dict]:
-    """验证token，返回payload或None"""
+    """验证 token，返回 payload 或 None"""
     try:
-        parts = token.split(".")
-        if len(parts) != 2:
-            return None
-        encoded, sig = parts
-        expected_sig = hmac.new(SECRET_KEY.encode(), encoded.encode(), hashlib.sha256).hexdigest()
-        if not hmac.compare_digest(sig, expected_sig):
-            return None
-        payload = json.loads(base64.urlsafe_b64decode(encoded).decode())
-        if payload.get("exp", 0) < time.time():
-            return None
-        return payload
-    except Exception:
+        return jwt.decode(token, _get_secret(), algorithms=["HS256"])
+    except jwt.ExpiredSignatureError:
+        return None
+    except jwt.InvalidTokenError:
         return None
 
 
 def get_user_by_id(user_id: int) -> Optional[dict]:
     conn = sqlite3.connect(str(DB_FILE))
     conn.row_factory = sqlite3.Row
-    cur = conn.cursor()
-    row = cur.execute("SELECT * FROM users WHERE id=?", (user_id,)).fetchone()
+    row = conn.execute("SELECT * FROM users WHERE id=?", (user_id,)).fetchone()
     conn.close()
     return dict(row) if row else None
