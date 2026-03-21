@@ -4,6 +4,14 @@ set -euo pipefail
 ROOT_DIR="$(cd "$(dirname "$0")/../.." && pwd)"
 cd "$ROOT_DIR"
 
+if [ -x "/opt/homebrew/bin/python3" ]; then
+  PYTHON_BIN="/opt/homebrew/bin/python3"
+elif [ -x "/usr/local/bin/python3" ]; then
+  PYTHON_BIN="/usr/local/bin/python3"
+else
+  PYTHON_BIN="$(command -v python3)"
+fi
+
 DATA_DIR="bazichart-engine/data"
 ASTRO_A="$DATA_DIR/famous_people_astro.json"
 ASTRO_B="$DATA_DIR/famous_people_astro_b.json"
@@ -24,7 +32,7 @@ ASTRO_MAX_PAGES="${4:-500}"
 ASTROTHEME_MAX_PAGES="${5:-15}"
 
 count_json_list() {
-  python3 - "$1" <<'PY'
+  "$PYTHON_BIN" - "$1" <<'PY'
 import json, sys
 from pathlib import Path
 path = Path(sys.argv[1])
@@ -38,7 +46,7 @@ PY
 }
 
 count_has_time() {
-  python3 - "$PIPELINE_REPORT" "$UNIFIED" <<'PY'
+  "$PYTHON_BIN" - "$PIPELINE_REPORT" "$UNIFIED" <<'PY'
 import json, sys
 from pathlib import Path
 report_path = Path(sys.argv[1])
@@ -63,6 +71,7 @@ PY
 idle_rounds=0
 
 echo "$(date '+%F %T') 双源批跑启动，目标有时辰=${TARGET_HAS_TIME}" | tee -a "$LOG_FILE"
+echo "$(date '+%F %T') 使用Python=${PYTHON_BIN}" | tee -a "$LOG_FILE"
 
 while true; do
   current_has_time="$(count_has_time)"
@@ -76,16 +85,16 @@ while true; do
 
   echo "$(date '+%F %T') 开始批次：AA/A=${before_astro} Astrotheme=${before_theme} 有时辰=${current_has_time}" | tee -a "$LOG_FILE"
 
-  python3 bazichart-engine/scripts/crawl_astro_databank.py \
+  "$PYTHON_BIN" bazichart-engine/scripts/crawl_astro_databank.py \
     --max-pages "$ASTRO_MAX_PAGES" \
     --max-records "$ASTRO_BATCH_SIZE" | tee -a "$LOG_FILE"
 
-  python3 bazichart-engine/scripts/crawl_astrotheme.py \
+  "$PYTHON_BIN" bazichart-engine/scripts/crawl_astrotheme.py \
     --max-pages-per-category "$ASTROTHEME_MAX_PAGES" \
     --max-records "$ASTROTHEME_BATCH_SIZE" \
     --state-output "$ASTROTHEME_STATE" | tee -a "$LOG_FILE"
 
-  python3 bazichart-engine/scripts/data_pipeline.py | tee -a "$LOG_FILE"
+  "$PYTHON_BIN" bazichart-engine/scripts/data_pipeline.py | tee -a "$LOG_FILE"
 
   after_astro="$(count_json_list "$ASTRO_A")"
   after_theme="$(count_json_list "$ASTROTHEME_DATA")"
