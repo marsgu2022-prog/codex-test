@@ -192,8 +192,8 @@ pipeline_loop() {
       return 0
     fi
 
-    if [ "$ASTRO_DONE_MARKER" -nt "$PIPELINE_DONE_MARKER" ] && [ "$ASTROTHEME_DONE_MARKER" -nt "$PIPELINE_DONE_MARKER" ]; then
-      log "Pipeline开始：检测到双源均有新数据"
+    if [ "$ASTRO_DONE_MARKER" -nt "$PIPELINE_DONE_MARKER" ] || [ "$ASTROTHEME_DONE_MARKER" -nt "$PIPELINE_DONE_MARKER" ]; then
+      log "Pipeline开始：检测到至少一侧有新数据"
       "$PYTHON_BIN" bazichart-engine/scripts/data_pipeline.py | tee -a "$LOG_FILE"
       touch "$PIPELINE_DONE_MARKER"
 
