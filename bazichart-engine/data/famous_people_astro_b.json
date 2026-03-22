@@ -4884,5 +4884,497 @@
     ],
     "data_quality_score": 0.72,
     "rodden_rating": "B"
+  },
+  {
+    "name_en": "Ianthe Brautigan",
+    "name_zh": null,
+    "birth_date": "1960-03-25",
+    "birth_time": "19:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "San Francisco",
+    "birth_country": "United States",
+    "gender": "female",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "American writer and educator from a noted family, also known by her married name",
+    "notable_events": [
+      {
+        "year": 2000,
+        "event": "Her first book You Can't Catch Death: A Daughter's Memoir was published in 2000.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Brautigan,_Ianthe"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Richard Brautigan",
+    "name_zh": null,
+    "birth_date": "1935-01-30",
+    "birth_time": "00:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Tacoma",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "American fiction writer and poet who published ten novels, two collections of sh",
+    "notable_events": [
+      {
+        "year": 1967,
+        "event": "He is best known for his novels Trout Fishing in America (1967), In Watermelon Sugar (1968) and The Abortion: An Histori",
+        "event_type": "other"
+      },
+      {
+        "year": 1968,
+        "event": "He is best known for his novels Trout Fishing in America (1967), In Watermelon Sugar (1968) and The Abortion: An Histori",
+        "event_type": "other"
+      },
+      {
+        "year": 1966,
+        "event": "He is best known for his novels Trout Fishing in America (1967), In Watermelon Sugar (1968) and The Abortion: An Histori",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Brautigan,_Richard"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Anna Eliza Bray",
+    "name_zh": null,
+    "birth_date": "1790-12-25",
+    "birth_time": "06:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Newington",
+    "birth_country": "England",
+    "gender": "female",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "British writer who produced at least a dozen historical novels from 1826 to 1874",
+    "notable_events": [
+      {
+        "year": 1826,
+        "event": "British writer who produced at least a dozen historical novels from 1826 to 1874.",
+        "event_type": "other"
+      },
+      {
+        "year": 1874,
+        "event": "British writer who produced at least a dozen historical novels from 1826 to 1874.",
+        "event_type": "other"
+      },
+      {
+        "year": 1851,
+        "event": ", and these were afterwards (1851) expanded into a life of that artist.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bray,_Anna_Eliza"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Donna Brazile",
+    "name_zh": null,
+    "birth_date": "1959-12-15",
+    "birth_time": "08:53",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "New Orleans",
+    "birth_country": "United States",
+    "gender": "female",
+    "occupation": [
+      "政治家",
+      "作家"
+    ],
+    "bio": "American author, academic, and political analyst who is Vice Chairwoman of the D",
+    "notable_events": [
+      {
+        "year": 2000,
+        "event": "She was the first African American to direct a major presidential campaign, acting as campaign manager for Al Gore in 20",
+        "event_type": "other"
+      },
+      {
+        "year": 2011,
+        "event": "She briefly served as interim Chair for the DNC in the spring of 2011.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Brazile,_Donna"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "John Brecknock",
+    "name_zh": null,
+    "birth_date": "1937-11-29",
+    "birth_time": "06:10",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Long Eaton",
+    "birth_country": "England",
+    "gender": "male",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "English opera tenor famed for his miraculous breath control and beautiful, gloss",
+    "notable_events": [
+      {
+        "year": 1974,
+        "event": "He made his Covent Garden debut in 1974 as Fenton in Verdi's Falstaff with Tito Gobbi.",
+        "event_type": "career_start"
+      },
+      {
+        "year": 1977,
+        "event": "In 1977 he co-starred at the Paris Opéra with Teresa Berganza in Rossini's La Cenerentola , and in 1978 sang Don Ottavio",
+        "event_type": "other"
+      },
+      {
+        "year": 1978,
+        "event": "In 1977 he co-starred at the Paris Opéra with Teresa Berganza in Rossini's La Cenerentola , and in 1978 sang Don Ottavio",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Brecknock,_John"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Anders Behring Breivik",
+    "name_zh": null,
+    "birth_date": "1979-02-13",
+    "birth_time": "12:50",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Utøya Island",
+    "birth_country": "Norway",
+    "gender": "male",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "Norwegian far-right domestic terrorist and the self-confessed perpetrator of the",
+    "notable_events": [
+      {
+        "year": 2011,
+        "event": "Norwegian far-right domestic terrorist and the self-confessed perpetrator of the 2011 attacks in Norway.",
+        "event_type": "other"
+      },
+      {
+        "year": 1946,
+        "event": "Breivik is the son of Wenche Behring Breivik (4 November 1946 – 22 March 2013), a nurse, and Jens David Breivik (b.",
+        "event_type": "other"
+      },
+      {
+        "year": 2013,
+        "event": "Breivik is the son of Wenche Behring Breivik (4 November 1946 – 22 March 2013), a nurse, and Jens David Breivik (b.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Breivik,_Anders_Behring"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Arthur Bremer",
+    "name_zh": null,
+    "birth_date": "1950-08-21",
+    "birth_time": "14:40",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Hagerstown",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "American psychotic, an attempted assassin who shot and paralyzed presidential ca",
+    "notable_events": [
+      {
+        "year": 1972,
+        "event": "American psychotic, an attempted assassin who shot and paralyzed presidential candidate George Wallace on 15 May 1972 at",
+        "event_type": "other"
+      },
+      {
+        "year": 2007,
+        "event": "After 35 years of incarceration, Bremer was released from prison on 9 November 2007.",
+        "event_type": "career_peak"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bremer,_Arthur"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "William J. Brennan",
+    "name_zh": null,
+    "birth_date": "1906-04-25",
+    "birth_time": "13:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Newark",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "American jurist called \"probably the most influential Justice of the [20th] cent",
+    "notable_events": [
+      {
+        "year": 1956,
+        "event": "\" He served as an Associate Justice of the United States Supreme Court from 1956 to 1990.",
+        "event_type": "other"
+      },
+      {
+        "year": 1990,
+        "event": "\" He served as an Associate Justice of the United States Supreme Court from 1956 to 1990.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Brennan,_William_J."
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Peter Bressan",
+    "name_zh": null,
+    "birth_date": "1663-05-27",
+    "birth_time": "01:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Bourg en Bresse",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "French woodwind maker, one of the most important baroque recorder makers.",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bressan,_Peter"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Karl Gottlieb Bretschneider",
+    "name_zh": null,
+    "birth_date": "1776-02-11",
+    "birth_time": "02:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Gersdorf (Sachsen)",
+    "birth_country": "Germany",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "German Protestant scholar and theologian noted for, among other things, having p",
+    "notable_events": [
+      {
+        "year": 1848,
+        "event": "He died on 22 January 1848 in Gotha, Thuringia.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bretschneider,_Karl_Gottlieb"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Charles Brett",
+    "name_zh": null,
+    "birth_date": "1928-10-30",
+    "birth_time": "00:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Holywood",
+    "birth_country": "Northern Ireland",
+    "gender": "male",
+    "occupation": [
+      "政治家",
+      "作家"
+    ],
+    "bio": "Northern Irish solicitor, journalist, author and founding member, and first chai",
+    "notable_events": [
+      {
+        "year": 2005,
+        "event": "Known to many simply as Charlie Brett, he died on 19 December 2005 aged 77.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Brett,_Charles"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Manuel Bretón de los Herreros",
+    "name_zh": null,
+    "birth_date": "1796-12-19",
+    "birth_time": "02:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Logroño",
+    "birth_country": "Spain",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "Spanish dramatist, who wrote some 360 original plays, twenty-three of which are ",
+    "notable_events": [
+      {
+        "year": 1824,
+        "event": "His first piece, Á la vejez viruelas , was produced on 4 October 1824, and proved the writer to be the legitimate succes",
+        "event_type": "other"
+      },
+      {
+        "year": 1828,
+        "event": "His industry was astonishing: between October 1824 and November 1828, he composed thirty-nine plays, six of them origina",
+        "event_type": "other"
+      },
+      {
+        "year": 1873,
+        "event": "He died on 8 November 1873, aged 76, in Madrid.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bret%C3%B3n_de_los_Herreros,_Manuel"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "David Brewster",
+    "name_zh": null,
+    "birth_date": "1781-12-11",
+    "birth_time": "12:15",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Jedburgh",
+    "birth_country": "Scotland",
+    "gender": "male",
+    "occupation": [
+      "科学家"
+    ],
+    "bio": "Scottish scientist, a famous Victorian who invented various optical instruments ",
+    "notable_events": [
+      {
+        "year": 1868,
+        "event": "Died on 10 February 1868.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Brewster,_David"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Gottfried Briemle",
+    "name_zh": null,
+    "birth_date": "1948-07-14",
+    "birth_time": "15:12",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Mengen",
+    "birth_country": "Germany",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "Qualified gardener and studied ecologist with several academic degrees, represen",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Briemle,_Gottfried"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Raymond Briggs",
+    "name_zh": null,
+    "birth_date": "1934-01-18",
+    "birth_time": "05:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Wimbledon",
+    "birth_country": "England",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "English illustrator, cartoonist, graphic novelist and author who achieved critic",
+    "notable_events": [
+      {
+        "year": 1978,
+        "event": "He is best known in Britain for his 1978 story The Snowman , a book without words whose cartoon adaptation is televised ",
+        "event_type": "other"
+      },
+      {
+        "year": 1966,
+        "event": "Briggs won the 1966 and 1973 Kate Greenaway Medals from the British Library Association, recognising the year's best chi",
+        "event_type": "award"
+      },
+      {
+        "year": 1973,
+        "event": "Briggs won the 1966 and 1973 Kate Greenaway Medals from the British Library Association, recognising the year's best chi",
+        "event_type": "award"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Briggs,_Raymond"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Jeronimo Brignone",
+    "name_zh": null,
+    "birth_date": "1962-06-07",
+    "birth_time": "08:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Buenos Aires",
+    "birth_country": "Argentina",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "演员"
+    ],
+    "bio": "Argenginian linguist, astrologer and theater and film director.",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Brignone,_Jeronimo"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
   }
 ]
