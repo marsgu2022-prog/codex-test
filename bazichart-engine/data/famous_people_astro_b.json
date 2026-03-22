@@ -6915,5 +6915,119 @@
     ],
     "data_quality_score": 0.72,
     "rodden_rating": "B"
+  },
+  {
+    "name_en": "Guy Béart",
+    "name_zh": null,
+    "birth_date": "1930-07-16",
+    "birth_time": "03:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Le Caire",
+    "birth_country": "Egypt",
+    "gender": "male",
+    "occupation": [
+      "演员",
+      "作家"
+    ],
+    "bio": "French singer, songwriter, poet, TV host, and engineer, born in a jewish family.",
+    "notable_events": [
+      {
+        "year": 2015,
+        "event": "\"The third B\" (refering to Georges Brassens and Jacques Brel) decided to retire on the stage of Paris Olympia (17 Januar",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=B%C3%A9art,_Guy"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "James Branch Cabell",
+    "name_zh": null,
+    "birth_date": "1879-04-14",
+    "birth_time": "06:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Richmond",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "American writer who was noted as a risqué novelist for his time.",
+    "notable_events": [
+      {
+        "year": 1919,
+        "event": "His fame rested largely on his attempts to suppress \"Jurgen,\" 1919, one of a series of novels he wrote between 1904 and ",
+        "event_type": "other"
+      },
+      {
+        "year": 1904,
+        "event": "His fame rested largely on his attempts to suppress \"Jurgen,\" 1919, one of a series of novels he wrote between 1904 and ",
+        "event_type": "other"
+      },
+      {
+        "year": 1929,
+        "event": "His fame rested largely on his attempts to suppress \"Jurgen,\" 1919, one of a series of novels he wrote between 1904 and ",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Cabell,_James_Branch"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Concepion Cabrera de Armida",
+    "name_zh": null,
+    "birth_date": "1862-12-08",
+    "birth_time": "10:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "San Luis Potosí",
+    "birth_country": "Mexico",
+    "gender": "female",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "Mexican Roman Catholic mystic and writer.",
+    "notable_events": [
+      {
+        "year": 1937,
+        "event": "Mexican Roman Catholic mystic and writer. She is also referred to as María Concepción Cabrera Arias de Armida, sometimes",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Cabrera_de_Armida,_Concepion"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Rufius Albinus Caeionius",
+    "name_zh": null,
+    "birth_date": "0303-03-14",
+    "birth_time": "23:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Rome",
+    "birth_country": "Italy",
+    "gender": "male",
+    "occupation": [
+      "政治家",
+      "作家"
+    ],
+    "bio": "Roman senator who was appointed consul in 335.",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Caeionius,_Rufius_Albinus"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
   }
 ]
