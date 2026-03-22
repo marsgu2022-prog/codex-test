@@ -114,16 +114,22 @@ astro_loop() {
       return 0
     fi
 
-    local before_count after_count added_count
-    before_count="$(count_json_list "$ASTRO_A")"
-    log "Astro-Databank批次开始：AA/A=${before_count}"
+    local before_count_a after_count_a added_count_a
+    local before_count_b after_count_b added_count_b
+    local added_count
+    before_count_a="$(count_json_list "$ASTRO_A")"
+    before_count_b="$(count_json_list "$ASTRO_B")"
+    log "Astro-Databank批次开始：AA/A=${before_count_a} B=${before_count_b}"
 
     "$PYTHON_BIN" bazichart-engine/scripts/crawl_astro_databank.py \
       --max-pages "$ASTRO_MAX_PAGES" \
       --max-records "$ASTRO_BATCH_SIZE" | tee -a "$LOG_FILE"
 
-    after_count="$(count_json_list "$ASTRO_A")"
-    added_count=$((after_count - before_count))
+    after_count_a="$(count_json_list "$ASTRO_A")"
+    after_count_b="$(count_json_list "$ASTRO_B")"
+    added_count_a=$((after_count_a - before_count_a))
+    added_count_b=$((after_count_b - before_count_b))
+    added_count=$((added_count_a + added_count_b))
 
     if [ "$added_count" -le 0 ]; then
       idle_rounds=$((idle_rounds + 1))
@@ -139,9 +145,9 @@ astro_loop() {
     idle_rounds=0
     touch "$ASTRO_DONE_MARKER"
     git_commit_push_if_needed \
-      "Astro-Databank扩充至${after_count}条AA/A" \
+      "Astro-Databank扩充至AA/A ${after_count_a}条 B ${after_count_b}条" \
       "$ASTRO_A" "$ASTRO_B" "$ASTRO_ERRORS" "$ASTRO_STATE"
-    log "Astro-Databank批次完成：新增=${added_count} 当前AA/A=${after_count}"
+    log "Astro-Databank批次完成：新增=${added_count} (AA/A=${added_count_a} B=${added_count_b}) 当前AA/A=${after_count_a} B=${after_count_b}"
   done
 }
 
