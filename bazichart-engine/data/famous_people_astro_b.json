@@ -9189,5 +9189,150 @@
     ],
     "data_quality_score": 0.72,
     "rodden_rating": "B"
+  },
+  {
+    "name_en": "Horatio Colony",
+    "name_zh": null,
+    "birth_date": "1900-09-22",
+    "birth_time": "17:15",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Keene",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "American novelist and poet who published eleven volumes of verse and a two-volum",
+    "notable_events": [
+      {
+        "year": 1977,
+        "event": "He died on 28 April 1977.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Colony,_Horatio"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Communications: Pearl St. Sta.",
+    "name_zh": null,
+    "birth_date": "1882-09-04",
+    "birth_time": "15:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Brooklyn Heights",
+    "birth_country": "United States",
+    "gender": null,
+    "occupation": [
+      "企业家"
+    ],
+    "bio": "American communications center, the Pearl Street Station was designed by Thomas ",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Communications:_Pearl_St._Sta."
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Maryse Condé",
+    "name_zh": null,
+    "birth_date": "1934-02-11",
+    "birth_time": "15:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Pointe a Pitre",
+    "birth_country": "Guadeloupe",
+    "gender": "female",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "French novelist, critic, and playwright from the French Overseas department and ",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Cond%C3%A9,_Maryse"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Bill Conley",
+    "name_zh": null,
+    "birth_date": "1950-10-22",
+    "birth_time": "06:46",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Paintsville",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "运动员",
+      "作家"
+    ],
+    "bio": "American football coach and motivational speaker.",
+    "notable_events": [
+      {
+        "year": 1984,
+        "event": "Bill Conley served as an assistant coach for Ohio State University 1984-2003.",
+        "event_type": "other"
+      },
+      {
+        "year": 2003,
+        "event": "Bill Conley served as an assistant coach for Ohio State University 1984-2003.",
+        "event_type": "other"
+      },
+      {
+        "year": 2004,
+        "event": "American football coach and motivational speaker. Bill Conley served as an assistant coach for Ohio State University 198",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Conley,_Bill"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Hans Conried",
+    "name_zh": null,
+    "birth_date": "1917-04-15",
+    "birth_time": "09:25",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Baltimore",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "American comedian, character actor and voice actor.",
+    "notable_events": [
+      {
+        "year": 1959,
+        "event": "Known as a wit and raconteur, he regularly appeared on NBC's Tonight Show with Jack Paar from 1959 until 1962.",
+        "event_type": "other"
+      },
+      {
+        "year": 1962,
+        "event": "Known as a wit and raconteur, he regularly appeared on NBC's Tonight Show with Jack Paar from 1959 until 1962.",
+        "event_type": "other"
+      },
+      {
+        "year": 1942,
+        "event": "He married Margaret Grant on January 29, 1942.",
+        "event_type": "marriage"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Conried,_Hans"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
   }
 ]
