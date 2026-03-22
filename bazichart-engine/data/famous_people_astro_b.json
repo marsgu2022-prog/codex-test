@@ -4302,5 +4302,150 @@
     ],
     "data_quality_score": 0.72,
     "rodden_rating": "B"
+  },
+  {
+    "name_en": "Isaac Adaka Boro",
+    "name_zh": null,
+    "birth_date": "1938-09-10",
+    "birth_time": "00:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Oloibiri",
+    "birth_country": "Nigeria",
+    "gender": "male",
+    "occupation": [
+      "政治家",
+      "科学家"
+    ],
+    "bio": "Nigerian nationalist, civil war hero and one of the pioneers of minority rights ",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Boro,_Isaac_Adaka"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Daniel Bosch",
+    "name_zh": null,
+    "birth_date": "1962-08-02",
+    "birth_time": "07:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Mountain View (Santa Clara County)",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "演员",
+      "作家"
+    ],
+    "bio": "American poet, editor, translator and teacher whose poems reflecting on Tom Hank",
+    "notable_events": [
+      {
+        "year": 1998,
+        "event": "American poet, editor, translator and teacher whose poems reflecting on Tom Hanks films won the initial Boston Review po",
+        "event_type": "award"
+      },
+      {
+        "year": 2002,
+        "event": "His books include the anthologies Crucible (2002) and Octaves (2014).",
+        "event_type": "other"
+      },
+      {
+        "year": 2014,
+        "event": "His books include the anthologies Crucible (2002) and Octaves (2014).",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bosch,_Daniel"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Khudiram Bose",
+    "name_zh": null,
+    "birth_date": "1889-12-03",
+    "birth_time": "17:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Muzaffarpur",
+    "birth_country": "India",
+    "gender": "male",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "Indian nationalist from Bengal Presidency who opposed British rule of India.",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bose,_Khudiram"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Miguel Bosé",
+    "name_zh": null,
+    "birth_date": "1956-04-03",
+    "birth_time": "14:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Panamá",
+    "birth_country": "Panama",
+    "gender": "male",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "Spanish/Italian musician and actor, born in Panama as the son of Italian actress",
+    "notable_events": [
+      {
+        "year": 2010,
+        "event": "Bosé became an honorary Colombian citizen in 2010.",
+        "event_type": "career_peak"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bos%C3%A9,_Miguel"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Chesa Boudin",
+    "name_zh": null,
+    "birth_date": "1980-08-20",
+    "birth_time": "06:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "New York",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "American lawyer, writer, and lecturer specializing in the U.S.",
+    "notable_events": [
+      {
+        "year": 2020,
+        "event": "He has served as the 29th district attorney of San Francisco since 8 January 2020.",
+        "event_type": "other"
+      },
+      {
+        "year": 2012,
+        "event": "He was admitted to the California Bar on 26 November 2012.",
+        "event_type": "other"
+      },
+      {
+        "year": 1981,
+        "event": "When Boudin was 14 months old, his parents, Kathy Boudin and David Gilbert, were arrested for their role as getaway car ",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Boudin,_Chesa"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
   }
 ]
