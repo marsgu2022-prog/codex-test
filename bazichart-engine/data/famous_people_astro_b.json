@@ -9334,5 +9334,129 @@
     ],
     "data_quality_score": 0.72,
     "rodden_rating": "B"
+  },
+  {
+    "name_en": "Alberto Cortez",
+    "name_zh": null,
+    "birth_date": "1940-03-11",
+    "birth_time": "08:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Rancul (La Pampa)",
+    "birth_country": "Argentina",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "Argentinian composer, singer and poet.",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Cortez,_Alberto"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Ana Paula Costa",
+    "name_zh": null,
+    "birth_date": "1994-11-19",
+    "birth_time": "07:45",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "São José (Santa Catarina)",
+    "birth_country": "Brazil",
+    "gender": "female",
+    "occupation": [
+      "演员",
+      "作家"
+    ],
+    "bio": "Brazilian journalism student who appeared on the 18th season of reality televisi",
+    "notable_events": [
+      {
+        "year": 2018,
+        "event": "Brazilian journalism student who appeared on the 18th season of reality television series Big Brother Brasil in 2018.",
+        "event_type": "other"
+      },
+      {
+        "year": 2025,
+        "event": "Nicknamed \"Bruxinha,\" as of 2025 she had 410,000 followers on Instagram.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Costa,_Ana_Paula"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Pascal Couchepin",
+    "name_zh": null,
+    "birth_date": "1942-04-05",
+    "birth_time": "04:25",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Martigny",
+    "birth_country": "Switzerland",
+    "gender": "male",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "Swiss politician, the President of Switzerland in 2003 and 2008.",
+    "notable_events": [
+      {
+        "year": 2003,
+        "event": "Swiss politician, the President of Switzerland in 2003 and 2008.",
+        "event_type": "other"
+      },
+      {
+        "year": 2008,
+        "event": "Swiss politician, the President of Switzerland in 2003 and 2008.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Couchepin,_Pascal"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Mary Coughlan",
+    "name_zh": null,
+    "birth_date": "1956-05-05",
+    "birth_time": "18:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Galway",
+    "birth_country": "Ireland",
+    "gender": "female",
+    "occupation": [
+      "演员",
+      "作家"
+    ],
+    "bio": "Irish singer, songwriter and actress, whose debut album, Tired and Emotional (19",
+    "notable_events": [
+      {
+        "year": 1985,
+        "event": "Irish singer, songwriter and actress, whose debut album, Tired and Emotional (1985) sold an unexpected 100,000 copies in",
+        "event_type": "career_start"
+      },
+      {
+        "year": 2000,
+        "event": "In June 2000, Coughlan presented a series of multimedia shows in Dublin and London celebrating Billie Holiday, a singer ",
+        "event_type": "other"
+      },
+      {
+        "year": 2018,
+        "event": "In 2018, Coughlan collaborated with the Brokentalkers and Valgeir Sigurðsson, to create Woman Undone , a fusion of theat",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Coughlan,_Mary"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
   }
 ]
