@@ -79,3 +79,9 @@
 - 当前仓库缺少可直接修改的独立前端工程，先在 `bazichart-engine/api.py` 内提供主页 HTML、管理员登录页和后台页
 - 管理员登录成功后写入 `HttpOnly` Cookie，会话可直接访问后台，同时对深度解盘与 PDF 报告接口免邀请码
 - 邀请码机制继续保留给普通用户；管理员接口同时兼容旧的 `admin_key` 调用方式，避免已有脚本失效
+
+## 2026-03-22 高置信研读结果每日回流自动规则
+
+- 新增 `bazichart-engine/scripts/rule_extractor.py`，每天从 `data/bazi_readings.json` 中筛选 `confidence >= 0.8` 的研读结果
+- 按日主聚合格局、用神、职业倾向和性格特质，输出到 `knowledge/auto_rules.md` 与 `knowledge/auto_rules_stats.json`
+- `auto_reader_cron.sh` 在研读成功后自动执行规则提炼，形成“研读 -> 规则回流 -> 知识沉淀”的每日闭环
