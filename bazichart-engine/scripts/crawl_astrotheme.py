@@ -5,6 +5,7 @@ import argparse
 import json
 import re
 import time
+import unicodedata
 from pathlib import Path
 from typing import Any
 from urllib.parse import urljoin
@@ -18,6 +19,7 @@ DATA_DIR = SCRIPT_DIR.parent / "data"
 DEFAULT_OUTPUT = DATA_DIR / "famous_people_astrotheme.json"
 DEFAULT_ERRORS = DATA_DIR / "crawl_errors_astrotheme.json"
 DEFAULT_STATE = DATA_DIR / "astrotheme_crawl_state.json"
+PARSE_ERROR_LOG = SCRIPT_DIR.parent.parent / "logs" / "parse_errors.log"
 
 BASE_URL = "https://www.astrotheme.com"
 SEARCH_URL = f"{BASE_URL}/celestar/horoscope_celebrity_search_by_filters.php"
@@ -40,6 +42,14 @@ CATEGORY_PAYLOADS = {
 STATE_LAYOUT_VERSION = 2
 LEGACY_COMPLETED_CATEGORY_INDEX = 5
 FIRST_NEW_CATEGORY_INDEX = 6
+LEGACY_CATEGORY_INDEX_MAP = {
+    0: 0,
+    1: 2,
+    2: 3,
+    3: 4,
+    4: 5,
+    5: FIRST_NEW_CATEGORY_INDEX,
+}
 
 
 def parse_args() -> argparse.Namespace:
@@ -108,6 +118,14 @@ def parse_result_page(html: str) -> tuple[list[str], str | None]:
             next_url = urljoin(BASE_URL, node.get("href", ""))
             break
     return urls, next_url
+
+
+def normalize_name(value: str | None) -> str | None:
+    if value is None:
+        return None
+    normalized = unicodedata.normalize("NFKC", value)
+    normalized = re.sub(r"\s+", "", normalized).casefold()
+    return normalized or None
 
 
 def normalize_birth_date(text: str) -> str | None:
@@ -237,20 +255,39 @@ def infer_notable_events(text: str) -> list[dict[str, Any]]:
     return events
 
 
-def parse_person(html: str, url: str, category_key: str) -> dict[str, Any] | None:
+def log_parse_error(category_key: str, url: str, reason: str, *, detail: str | None = None) -> None:
+    PARSE_ERROR_LOG.parent.mkdir(parents=True, exist_ok=True)
+    payload = {
+        "timestamp": time.strftime("%Y-%m-%dT%H:%M:%S"),
+        "source": "astrotheme",
+        "category": category_key,
+        "url": url,
+        "reason": reason,
+    }
+    if detail:
+        payload["detail"] = detail[:300]
+    with PARSE_ERROR_LOG.open("a", encoding="utf-8") as handle:
+        handle.write(json.dumps(payload, ensure_ascii=False) + "\n")
+
+
+def parse_person_with_reason(html: str, url: str, category_key: str) -> tuple[dict[str, Any] | None, str | None]:
     soup = BeautifulSoup(html, "html.parser")
     title = soup.title.get_text(strip=True) if soup.title else ""
     if "Astrological chart of" not in title:
-        return None
+        return None, "missing_astrological_title"
     page_text = soup.get_text("\n", strip=True)
     birth_date = normalize_birth_date(page_text)
     birth_time = normalize_birth_time(page_text)
-    if birth_date is None or birth_time is None:
-        return None
+    if birth_date is None:
+        return None, "missing_birth_date"
+    if birth_time is None:
+        return None, "missing_birth_time"
     birth_city, birth_country = parse_birth_place(page_text)
     source_text, reliability, score = parse_source_reliability(page_text)
     name_match = re.search(r"Astrological chart of (.*?), born", title)
     name_en = name_match.group(1).strip() if name_match else None
+    if not name_en:
+        return None, "missing_name"
     return {
         "name_en": name_en,
         "name_zh": None,
@@ -266,7 +303,12 @@ def parse_person(html: str, url: str, category_key: str) -> dict[str, Any] | Non
         "notable_events": infer_notable_events(page_text),
         "source_urls": [url],
         "data_quality_score": score,
-    }
+    }, None
+
+
+def parse_person(html: str, url: str, category_key: str) -> dict[str, Any] | None:
+    person, _ = parse_person_with_reason(html, url, category_key)
+    return person
 
 
 def merge_people(existing: list[dict[str, Any]], incoming: list[dict[str, Any]]) -> list[dict[str, Any]]:
@@ -280,11 +322,18 @@ def merge_people(existing: list[dict[str, Any]], incoming: list[dict[str, Any]])
 
 
 def person_identity(item: dict[str, Any]) -> tuple[str | None, str | None]:
-    return item.get("name_en"), item.get("birth_date")
+    raw_name = item.get("name_en") or item.get("name_zh") or item.get("name")
+    return normalize_name(raw_name), item.get("birth_date")
 
 
 def build_identity_set(people: list[dict[str, Any]]) -> set[tuple[str | None, str | None]]:
     return {person_identity(item) for item in people}
+
+
+def normalize_identity_keys(keys: set[tuple[str | None, str | None]] | None) -> set[tuple[str | None, str | None]]:
+    if not keys:
+        return set()
+    return {(normalize_name(name), birth_date) for name, birth_date in keys}
 
 
 def load_json_list(path: Path) -> list[dict[str, Any]]:
@@ -315,9 +364,11 @@ def load_state(path: Path) -> dict[str, Any]:
         "updated_at": payload.get("updated_at"),
         "layout_version": int(payload.get("layout_version", 1) or 1),
     }
-    if state["layout_version"] < STATE_LAYOUT_VERSION and state["next_url"] is None and state["category_index"] >= LEGACY_COMPLETED_CATEGORY_INDEX:
-        # 旧版 5 组职业已跑完时，从新增职业的第一组继续，避免重复扫旧分类。
-        state["category_index"] = FIRST_NEW_CATEGORY_INDEX
+    if state["layout_version"] < STATE_LAYOUT_VERSION:
+        state["category_index"] = LEGACY_CATEGORY_INDEX_MAP.get(
+            state["category_index"],
+            FIRST_NEW_CATEGORY_INDEX if state["category_index"] >= LEGACY_COMPLETED_CATEGORY_INDEX else 0,
+        )
         state["layout_version"] = STATE_LAYOUT_VERSION
     return state
 
@@ -337,7 +388,7 @@ def crawl(
     people: list[dict[str, Any]] = []
     errors: list[dict[str, Any]] = []
     seen_urls: set[str] = set()
-    seen_people_keys = set(existing_keys or set())
+    seen_people_keys = normalize_identity_keys(existing_keys)
     categories = list(CATEGORY_PAYLOADS.items())
     runtime_state = state or {"category_index": 0, "next_url": None, "layout_version": STATE_LAYOUT_VERSION}
     start_index = max(0, min(int(runtime_state.get("category_index", 0) or 0), len(categories)))
@@ -369,8 +420,10 @@ def crawl(
                 seen_urls.add(detail_url)
                 try:
                     detail_html = fetch(session, detail_url, request_interval=request_interval)
-                    person = parse_person(detail_html, detail_url, category_key)
+                    person, parse_reason = parse_person_with_reason(detail_html, detail_url, category_key)
                     if person is None:
+                        if parse_reason:
+                            log_parse_error(category_key, detail_url, parse_reason)
                         continue
                     identity = person_identity(person)
                     if identity in seen_people_keys:

@@ -89,6 +89,20 @@ def test_load_state_migrates_completed_legacy_layout(tmp_path):
     assert state["layout_version"] == MODULE.STATE_LAYOUT_VERSION
 
 
+def test_load_state_migrates_legacy_intermediate_layout(tmp_path):
+    state_path = tmp_path / "astrotheme_state.json"
+    state_path.write_text(
+        '{"category_index": 2, "next_url": "https://legacy.example/page3", "updated_at": "2026-03-21T20:00:00", "layout_version": 1}',
+        encoding="utf-8",
+    )
+
+    state = MODULE.load_state(state_path)
+
+    assert state["category_index"] == MODULE.LEGACY_CATEGORY_INDEX_MAP[2]
+    assert state["next_url"] == "https://legacy.example/page3"
+    assert state["layout_version"] == MODULE.STATE_LAYOUT_VERSION
+
+
 def test_crawl_skips_existing_people_by_name_and_birth_date(monkeypatch):
     responses = {
         MODULE.SEARCH_URL: """
@@ -115,3 +129,49 @@ def test_crawl_skips_existing_people_by_name_and_birth_date(monkeypatch):
     assert not errors
     assert people == []
     assert runtime_state["category_index"] == len(MODULE.CATEGORY_PAYLOADS)
+
+
+def test_person_identity_normalizes_spaces_and_case():
+    item = {"name_en": " Brad   Pitt ", "birth_date": "1963-12-18"}
+
+    assert MODULE.person_identity(item) == ("bradpitt", "1963-12-18")
+
+
+def test_crawl_logs_parse_errors_for_structure_changes(monkeypatch, tmp_path):
+    responses = {
+        MODULE.SEARCH_URL: """
+<a href="https://www.astrotheme.com/astrology/Broken_Person">Broken Person Display his detailed birth chart</a>
+""",
+        "https://www.astrotheme.com/astrology/Broken_Person": """
+<html>
+<head><title>Astrological chart of Broken Person, born 1963/12/18</title></head>
+<body>
+<div>Broken Person Birth data and astrological dominants</div>
+<div>Born: Wednesday, December 18 , 1963 In: Shawnee (OK) (United States)</div>
+</body>
+</html>
+""",
+    }
+
+    def fake_fetch(session, url, *, data=None, request_interval):
+        if data is not None:
+            return responses[MODULE.SEARCH_URL]
+        return responses[url]
+
+    monkeypatch.setattr(MODULE, "fetch", fake_fetch)
+    monkeypatch.setattr(MODULE, "PARSE_ERROR_LOG", tmp_path / "parse_errors.log")
+
+    people, errors, runtime_state = MODULE.crawl(
+        session=None,
+        max_pages_per_category=1,
+        max_records=5,
+        request_interval=0,
+        state={"category_index": 0, "next_url": None, "layout_version": MODULE.STATE_LAYOUT_VERSION},
+    )
+
+    assert not errors
+    assert people == []
+    assert runtime_state["category_index"] == len(MODULE.CATEGORY_PAYLOADS)
+    log_text = (tmp_path / "parse_errors.log").read_text(encoding="utf-8")
+    assert "missing_birth_time" in log_text
+    assert "Broken_Person" in log_text
