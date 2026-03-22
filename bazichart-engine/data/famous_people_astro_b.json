@@ -10274,5 +10274,104 @@
     ],
     "data_quality_score": 0.72,
     "rodden_rating": "B"
+  },
+  {
+    "name_en": "Scott Dannemiller",
+    "name_zh": null,
+    "birth_date": "1973-06-08",
+    "birth_time": "15:53",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Yukon",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "American blogger, worship leader, former missionary with the Presbyterian Church",
+    "notable_events": [
+      {
+        "year": 2015,
+        "event": "American blogger, worship leader, former missionary with the Presbyterian Church who served in Guatemala, and author of ",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Dannemiller,_Scott"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "David Danskin",
+    "name_zh": null,
+    "birth_date": "1863-01-09",
+    "birth_time": "23:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Burntisland",
+    "birth_country": "Scotland",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "演员",
+      "运动员"
+    ],
+    "bio": "Scottish mechanical engineer and soccer player notable as a principal founding m",
+    "notable_events": [
+      {
+        "year": 1885,
+        "event": "in 1885, renamed Royal Arsenal in 1886, the team that are today known as Arsenal.",
+        "event_type": "other"
+      },
+      {
+        "year": 1886,
+        "event": "in 1885, renamed Royal Arsenal in 1886, the team that are today known as Arsenal.",
+        "event_type": "other"
+      },
+      {
+        "year": 1891,
+        "event": "Arsenal turned professional in 1891, and although Danskin stood for election to the club's committee in 1892, he did not",
+        "event_type": "career_peak"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Danskin,_David"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Camille Dareste",
+    "name_zh": null,
+    "birth_date": "1822-11-23",
+    "birth_time": "03:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Paris",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "演员",
+      "科学家"
+    ],
+    "bio": "French zoologist and specialist in experimental embryology.",
+    "notable_events": [
+      {
+        "year": 1855,
+        "event": "Beginning in 1855, he purposely produced monstrous chick embryos by using \"indirect methods\" that exposed the egg to ter",
+        "event_type": "other"
+      },
+      {
+        "year": 1899,
+        "event": "He died on 9 January 1899 in Paris.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Dareste,_Camille"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
   }
 ]
