@@ -93,8 +93,13 @@ git_commit_push_if_needed() {
   acquire_git_lock
   git add "$@"
   if ! git diff --cached --quiet; then
-    git commit -m "$commit_message" | tee -a "$LOG_FILE"
-    GIT_TERMINAL_PROMPT=0 git push origin main | tee -a "$LOG_FILE"
+    if git commit -m "$commit_message" | tee -a "$LOG_FILE"; then
+      if ! GIT_TERMINAL_PROMPT=0 git push origin main | tee -a "$LOG_FILE"; then
+        log "Git push失败，已跳过远端推送并继续抓取"
+      fi
+    else
+      log "Git commit失败，已跳过本批提交并继续抓取"
+    fi
   fi
   release_git_lock
 }
