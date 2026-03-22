@@ -10950,5 +10950,159 @@
     ],
     "data_quality_score": 0.72,
     "rodden_rating": "B"
+  },
+  {
+    "name_en": "Sebastian Deisler",
+    "name_zh": null,
+    "birth_date": "1980-01-05",
+    "birth_time": "19:08",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Lörrach",
+    "birth_country": "Germany",
+    "gender": "male",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "German football/soccer player.",
+    "notable_events": [
+      {
+        "year": 2007,
+        "event": "Retired in January 2007.",
+        "event_type": "other"
+      },
+      {
+        "year": 1998,
+        "event": "1998 Bundesliga-Debüt für Gladbach, Wechsel zu Hertha BSC, dann 2002 für 9,5 Millionen Euro zu den Bayern.",
+        "event_type": "other"
+      },
+      {
+        "year": 2002,
+        "event": "1998 Bundesliga-Debüt für Gladbach, Wechsel zu Hertha BSC, dann 2002 für 9,5 Millionen Euro zu den Bayern.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Deisler,_Sebastian"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Andrea del Boca",
+    "name_zh": null,
+    "birth_date": "1965-10-18",
+    "birth_time": "05:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Buenos Aires",
+    "birth_country": "Argentina",
+    "gender": "female",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "Argentine and Italian soap opera actress. Link to Wikipedia biography",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Del_Boca,_Andrea"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Bessie Delany",
+    "name_zh": null,
+    "birth_date": "1891-09-03",
+    "birth_time": "09:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Raleigh",
+    "birth_country": "United States",
+    "gender": "female",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "American dentist, the second black woman ever licensed to practice dentistry in ",
+    "notable_events": [
+      {
+        "year": 1928,
+        "event": "She was one of ten kids who grew up in the turn of the century in North Carolina, the daughter of a dad who was born a s",
+        "event_type": "career_peak"
+      },
+      {
+        "year": 1919,
+        "event": "\" She went to Columbia in 1919 as one of 11 women and the only black woman (along with six black men) in a class of 170.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Delany,_Bessie"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Sadie Delany",
+    "name_zh": null,
+    "birth_date": "1889-09-19",
+    "birth_time": "19:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Mount Vernon (Westchester County)",
+    "birth_country": "United States",
+    "gender": "female",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "American educator, the first black teacher in New York, teaching Domestic Scienc",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Delany,_Sadie"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Jean-Charles Della Faille",
+    "name_zh": null,
+    "birth_date": "1597-03-01",
+    "birth_time": "22:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Antwerp",
+    "birth_country": "Belgium",
+    "gender": "male",
+    "occupation": [
+      "科学家"
+    ],
+    "bio": "Belgian Jesuit priest and mathematician of repute.",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Della_Faille,_Jean-Charles"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Joseph Solomon Delmedigo",
+    "name_zh": null,
+    "birth_date": "1591-06-16",
+    "birth_time": "08:48",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Heraklion/Kreta",
+    "birth_country": "Greece",
+    "gender": "male",
+    "occupation": [
+      "科学家",
+      "作家"
+    ],
+    "bio": "Rabbi, philosopher, mathematician, and astronomer, author, physician and music t",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Delmedigo,_Joseph_Solomon"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
   }
 ]
