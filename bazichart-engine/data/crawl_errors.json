@@ -483,5 +483,10 @@
     "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Celestial:_67PChuryumov-Gerasimenko_(Comet)",
     "stage": "detail",
     "error": "404 Client Error: Not Found for url: https://www.astro.com/wiki/astro-databank/index.php?title=Celestial:_67PChuryumov-Gerasimenko_(Comet)&action=raw"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Gasser-Langevin",
+    "stage": "detail",
+    "error": "404 Client Error: Not Found for url: https://www.astro.com/wiki/astro-databank/index.php?title=Gasser-Langevin&action=raw"
   }
 ]

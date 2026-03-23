@@ -16075,5 +16075,199 @@
     ],
     "data_quality_score": 0.72,
     "rodden_rating": "B"
+  },
+  {
+    "name_en": "Constance Garnett",
+    "name_zh": null,
+    "birth_date": "1861-12-19",
+    "birth_time": "11:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Brighton",
+    "birth_country": "England",
+    "gender": "female",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "English translator of 71 volumes of nineteenth-century Russian literature.",
+    "notable_events": [
+      {
+        "year": 1946,
+        "event": "She died on 17 December 1946 at The Cearne, Crockham Hill, Kent.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Garnett,_Constance"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Douglas Garrad",
+    "name_zh": null,
+    "birth_date": "1926-01-26",
+    "birth_time": "05:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Reigate",
+    "birth_country": "England",
+    "gender": "male",
+    "occupation": [
+      "企业家"
+    ],
+    "bio": "English school teacher who founded the boys’ school Hawford Lodge (now King's Ha",
+    "notable_events": [
+      {
+        "year": 1955,
+        "event": "English school teacher who founded the boys’ school Hawford Lodge (now King's Hawford) in Worcester in 1955.",
+        "event_type": "career_start"
+      },
+      {
+        "year": 2021,
+        "event": "He died on 3 March 2021 at age 95.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Garrad,_Douglas"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Leif Garrett",
+    "name_zh": null,
+    "birth_date": "1961-11-08",
+    "birth_time": "03:41",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Los Angeles",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "演员",
+      "作家"
+    ],
+    "bio": "American actor, singer and television personality, who made his screen debut at ",
+    "notable_events": [
+      {
+        "year": 1969,
+        "event": "American actor, singer and television personality, who made his screen debut at age five in Bob & Carol & Ted & Alice (1",
+        "event_type": "career_start"
+      },
+      {
+        "year": 1974,
+        "event": "His films included Macon County Line (1974), all three Walking Tall movies (1973, 1975, 1977) and Skateboard (1978).",
+        "event_type": "other"
+      },
+      {
+        "year": 1973,
+        "event": "His films included Macon County Line (1974), all three Walking Tall movies (1973, 1975, 1977) and Skateboard (1978).",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Garrett,_Leif"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Mary Garrett",
+    "name_zh": null,
+    "birth_date": "1854-03-05",
+    "birth_time": "03:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Baltimore",
+    "birth_country": "United States",
+    "gender": "female",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "American suffragist and philanthropist.",
+    "notable_events": [
+      {
+        "year": 1915,
+        "event": "At her death in 1915, she gave $15,000,000 to M.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Garrett,_Mary"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Count-Duke of Olivares Gaspar de Guzmán",
+    "name_zh": null,
+    "birth_date": "1587-01-06",
+    "birth_time": "12:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Rom",
+    "birth_country": "Italy",
+    "gender": "male",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "Spanish royal favourite of Philip IV and minister.",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Gaspar_de_Guzm%C3%A1n,_Count-Duke_of_Olivares"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Pierre Gassendi",
+    "name_zh": null,
+    "birth_date": "1592-01-22",
+    "birth_time": "06:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Champtercier",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "科学家"
+    ],
+    "bio": "French philosopher, priest, astronomer, and mathematician.",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Gassendi,_Pierre"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Françoise Gaudet-Smet",
+    "name_zh": null,
+    "birth_date": "1902-10-26",
+    "birth_time": "06:40",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Sainte Eulalie",
+    "birth_country": "Quebec (CAN)",
+    "gender": "female",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "French Canadian journalist and writer who worked mostly in Quebec.",
+    "notable_events": [
+      {
+        "year": 1986,
+        "event": "She died on 4 September 1986.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Gaudet-Smet,_Fran%C3%A7oise"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
   }
 ]
