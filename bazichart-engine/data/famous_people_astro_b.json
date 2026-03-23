@@ -11317,5 +11317,532 @@
     ],
     "data_quality_score": 0.72,
     "rodden_rating": "B"
+  },
+  {
+    "name_en": "Porfirio Diaz",
+    "name_zh": null,
+    "birth_date": "1830-09-14",
+    "birth_time": "23:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "La Borcelana",
+    "birth_country": "Mexico",
+    "gender": "male",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "Mexican general and politician who served seven terms as President of Mexico, a ",
+    "notable_events": [
+      {
+        "year": 1877,
+        "event": "Mexican general and politician who served seven terms as President of Mexico, a total of 31 years, from 17 February 1877",
+        "event_type": "other"
+      },
+      {
+        "year": 1880,
+        "event": "Mexican general and politician who served seven terms as President of Mexico, a total of 31 years, from 17 February 1877",
+        "event_type": "other"
+      },
+      {
+        "year": 1884,
+        "event": "Mexican general and politician who served seven terms as President of Mexico, a total of 31 years, from 17 February 1877",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Diaz,_Porfirio"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Tania Diaz Castro",
+    "name_zh": null,
+    "birth_date": "1939-04-30",
+    "birth_time": "18:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Camajuaní",
+    "birth_country": "Cuba",
+    "gender": "female",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "Cuban dissident writer, resided in Havana, frequently presence in the anti-Castr",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Diaz_Castro,_Tania"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Kate Dickens",
+    "name_zh": null,
+    "birth_date": "1839-10-29",
+    "birth_time": "20:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "London",
+    "birth_country": "England",
+    "gender": "female",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "English artist, socialite and daughter of noted author Charles Dickens.",
+    "notable_events": [
+      {
+        "year": 1873,
+        "event": "Widowed in 1873, she next married Italian artist Carlo Perugini.",
+        "event_type": "marriage"
+      },
+      {
+        "year": 1929,
+        "event": "She died May 9, 1929, nearly 90 years old.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Dickens,_Kate"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Charles Dickens Jr.",
+    "name_zh": null,
+    "birth_date": "1837-01-06",
+    "birth_time": "18:15",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "London",
+    "birth_country": "England",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "作家"
+    ],
+    "bio": "English writer from a noted family.",
+    "notable_events": [
+      {
+        "year": 1879,
+        "event": "He is now most remembered for his two 1879 books Dickens's Dictionary of London and Dickens's Dictionary of the Thames.",
+        "event_type": "other"
+      },
+      {
+        "year": 1896,
+        "event": "He died on July 20, 1896.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Dickens_Jr.,_Charles"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "John Dickerson",
+    "name_zh": null,
+    "birth_date": "1968-07-06",
+    "birth_time": "10:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Washington",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "政治家",
+      "演员",
+      "作家"
+    ],
+    "bio": "American journalist and a reporter for CBS News, his current assignment is 60 Mi",
+    "notable_events": [
+      {
+        "year": 2019,
+        "event": "He served as an interim anchor of the CBS Evening News until O'Donnell took over in the summer of 2019.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Dickerson,_John"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Emily Dickinson",
+    "name_zh": null,
+    "birth_date": "1830-12-10",
+    "birth_time": "04:40",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Amherst",
+    "birth_country": "United States",
+    "gender": "female",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "American writer, acclaimed as the greatest woman poet of the English language.",
+    "notable_events": [
+      {
+        "year": 1847,
+        "event": "American writer, acclaimed as the greatest woman poet of the English language. During her lifetime she had seven poems p",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Dickinson,_Emily"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Eliseo Diego",
+    "name_zh": null,
+    "birth_date": "1920-07-02",
+    "birth_time": "12:20",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Havana",
+    "birth_country": "Cuba",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "Cuban poet praised for his lyric poetry and short stories.",
+    "notable_events": [
+      {
+        "year": 1993,
+        "event": "Diego, the father of writer Eliseo Alberto, won the Mexican Juan Rulfo Prize in 1993.",
+        "event_type": "award"
+      },
+      {
+        "year": 1994,
+        "event": "Cuban poet praised for his lyric poetry and short stories. Diego, the father of writer Eliseo Alberto, won the Mexican J",
+        "event_type": "award"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Diego,_Eliseo"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Evart van Dieren",
+    "name_zh": null,
+    "birth_date": "1861-01-15",
+    "birth_time": "12:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Zutphen",
+    "birth_country": "Netherlands",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "Dutch physician and writer, subject of the 2008 biography, \"Evart van Dieren: ee",
+    "notable_events": [
+      {
+        "year": 2008,
+        "event": "Dutch physician and writer, subject of the 2008 biography, \"Evart van Dieren: een kroniek van het falen.",
+        "event_type": "other"
+      },
+      {
+        "year": 1940,
+        "event": "\" He died on 18 May 1940 in Amsterdam.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Dieren,_Evart_van"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Karen Dietrich",
+    "name_zh": null,
+    "birth_date": "1976-11-21",
+    "birth_time": "01:31",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Connellsville",
+    "birth_country": "United States",
+    "gender": "female",
+    "occupation": [
+      "演员",
+      "作家"
+    ],
+    "bio": "American writer and an adjunct English instructor at The University of Pittsburg",
+    "notable_events": [
+      {
+        "year": 2013,
+        "event": "Her memoir, Girl Factory , was published in 2013.",
+        "event_type": "career_peak"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Dietrich,_Karen"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Robert Diez",
+    "name_zh": null,
+    "birth_date": "1844-04-20",
+    "birth_time": "03:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Pössneck",
+    "birth_country": "Germany",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "政治家"
+    ],
+    "bio": "German sculptor known for his major works in the cities of Dresden ( Gänsediebbr",
+    "notable_events": [
+      {
+        "year": 1878,
+        "event": "German sculptor known for his major works in the cities of Dresden ( Gänsediebbrunnen / Goose-thief Fountain, 1878; Twin",
+        "event_type": "other"
+      },
+      {
+        "year": 1883,
+        "event": "German sculptor known for his major works in the cities of Dresden ( Gänsediebbrunnen / Goose-thief Fountain, 1878; Twin",
+        "event_type": "other"
+      },
+      {
+        "year": 1894,
+        "event": "German sculptor known for his major works in the cities of Dresden ( Gänsediebbrunnen / Goose-thief Fountain, 1878; Twin",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Diez,_Robert"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Ullrich Dießner",
+    "name_zh": null,
+    "birth_date": "1954-12-27",
+    "birth_time": "00:10",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Meissen",
+    "birth_country": "Germany",
+    "gender": "male",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "German rower who had his best achievements in the coxed fours for East Germany.",
+    "notable_events": [
+      {
+        "year": 1976,
+        "event": "In this event he won a silver and a gold medal at the 1976 and 1980 Olympics, respectively, as well as five world titles",
+        "event_type": "award"
+      },
+      {
+        "year": 1980,
+        "event": "In this event he won a silver and a gold medal at the 1976 and 1980 Olympics, respectively, as well as five world titles",
+        "event_type": "award"
+      },
+      {
+        "year": 1974,
+        "event": "In this event he won a silver and a gold medal at the 1976 and 1980 Olympics, respectively, as well as five world titles",
+        "event_type": "award"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Die%C3%9Fner,_Ullrich"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Walter Dießner",
+    "name_zh": null,
+    "birth_date": "1954-12-26",
+    "birth_time": "23:50",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Meissen",
+    "birth_country": "Germany",
+    "gender": "male",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "German rower who had his best achievements in the coxed fours for East Germany.",
+    "notable_events": [
+      {
+        "year": 1976,
+        "event": "In this event he won a silver and a gold medal at the 1976 and 1980 Olympics, respectively, as well as four world titles",
+        "event_type": "award"
+      },
+      {
+        "year": 1980,
+        "event": "In this event he won a silver and a gold medal at the 1976 and 1980 Olympics, respectively, as well as four world titles",
+        "event_type": "award"
+      },
+      {
+        "year": 1974,
+        "event": "In this event he won a silver and a gold medal at the 1976 and 1980 Olympics, respectively, as well as four world titles",
+        "event_type": "award"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Die%C3%9Fner,_Walter"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Arthur Orison Dillon",
+    "name_zh": null,
+    "birth_date": "1873-07-07",
+    "birth_time": "08:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Lexington (Le Sueur County)",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "American lawyer, poet, and genealogist.",
+    "notable_events": [
+      {
+        "year": 1958,
+        "event": "He died in Pomona, California, on 22 January 1958.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Dillon,_Arthur_Orison"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Paul Harper Dillon",
+    "name_zh": null,
+    "birth_date": "1947-10-10",
+    "birth_time": "02:47",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Los Angeles",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "American anthropologist in the field of Andean archaeology and ethnohistory, he ",
+    "notable_events": [
+      {
+        "year": 1983,
+        "event": ")--1765,\" was published in Investigations of the Andean Past: Papers from the First Annual Northeast Conference on Andea",
+        "event_type": "career_peak"
+      },
+      {
+        "year": 1984,
+        "event": "His PhD thesis was published as Below Tambrayco: The Articulation of Modes of Production in the Central Peruvian Andes (",
+        "event_type": "career_peak"
+      },
+      {
+        "year": 2014,
+        "event": "He died in the mountains of Peru in July 2014 at age 66.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Dillon,_Paul_Harper"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Ernie Dingo",
+    "name_zh": null,
+    "birth_date": "1956-07-31",
+    "birth_time": "07:10",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Mullewa",
+    "birth_country": "Australia",
+    "gender": "male",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "Australian Aboriginal actor and comedian with a magnetic screen presence who has",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Dingo,_Ernie"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "David Diop",
+    "name_zh": null,
+    "birth_date": "1927-07-09",
+    "birth_time": "03:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Bordeaux",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "French West African poet, one of the most promising in his field, known for his ",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Diop,_David"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Louella Carver Dirksen",
+    "name_zh": null,
+    "birth_date": "1899-03-27",
+    "birth_time": "21:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Pekin",
+    "birth_country": "United States",
+    "gender": "female",
+    "occupation": [
+      "政治家",
+      "作家"
+    ],
+    "bio": "American political wife.",
+    "notable_events": [
+      {
+        "year": 1927,
+        "event": "She married a local boy, Everett Dirksen on 24 December 1927; daughter Joy was born 10 February 1929.",
+        "event_type": "marriage"
+      },
+      {
+        "year": 1929,
+        "event": "She married a local boy, Everett Dirksen on 24 December 1927; daughter Joy was born 10 February 1929.",
+        "event_type": "marriage"
+      },
+      {
+        "year": 1932,
+        "event": "Her husband became a Congressman in November 1932 and never lost an election; a U.",
+        "event_type": "career_peak"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Dirksen,_Louella_Carver"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
   }
 ]
