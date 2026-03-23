@@ -14842,5 +14842,106 @@
     ],
     "data_quality_score": 0.72,
     "rodden_rating": "B"
+  },
+  {
+    "name_en": "Oliver Fox",
+    "name_zh": null,
+    "birth_date": "1885-11-30",
+    "birth_time": "09:10",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Southampton",
+    "birth_country": "England",
+    "gender": "male",
+    "occupation": [
+      "演员",
+      "作家"
+    ],
+    "bio": "English short story writer, poet and occultist, most well known for documenting ",
+    "notable_events": [
+      {
+        "year": 1920,
+        "event": "He had first published his OBE experiences in The Occult Review (1920, 1923).",
+        "event_type": "career_peak"
+      },
+      {
+        "year": 1923,
+        "event": "He had first published his OBE experiences in The Occult Review (1920, 1923).",
+        "event_type": "career_peak"
+      },
+      {
+        "year": 1939,
+        "event": "These formed the basis of his book A Record of Out-of-the-Body Experiences , published in 1939.",
+        "event_type": "career_peak"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Fox,_Oliver"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Saint Francis of Sales",
+    "name_zh": null,
+    "birth_date": "1567-08-21",
+    "birth_time": "21:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Lyon, France",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "French saint as he embodied the ideal of spiritual perfection, obedient and trut",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Francis_of_Sales,_Saint"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "1st Duke of Lerma Francisco Gómez de Sandoval",
+    "name_zh": null,
+    "birth_date": "1552-03-28",
+    "birth_time": "07:41",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Medina del Campo",
+    "birth_country": "Spain",
+    "gender": "male",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "Spanish favourite (intimate companion) of Philip III of Spain, the first of the ",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Francisco_G%C3%B3mez_de_Sandoval,_1st_Duke_of_Lerma"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Margot Frank",
+    "name_zh": null,
+    "birth_date": "1926-02-16",
+    "birth_time": "03:15",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Frankfurt am Main",
+    "birth_country": "Germany",
+    "gender": "female",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "German-Dutch teenager from a noted Jewish family, she was the elder daughter of ",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Frank,_Margot"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
   }
 ]
