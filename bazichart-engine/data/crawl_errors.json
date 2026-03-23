@@ -488,5 +488,15 @@
     "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Gasser-Langevin",
     "stage": "detail",
     "error": "404 Client Error: Not Found for url: https://www.astro.com/wiki/astro-databank/index.php?title=Gasser-Langevin&action=raw"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Historic:_Swiss_Confederation__Dreil%C3%A4nderbund_131",
+    "stage": "detail",
+    "error": "404 Client Error: Not Found for url: https://www.astro.com/wiki/astro-databank/index.php?title=Historic:_Swiss_Confederation__Dreil%C3%A4nderbund_131&action=raw"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Historic:_Swiss_Confederation_letter__Dreil%C3%A4nderb",
+    "stage": "detail",
+    "error": "404 Client Error: Not Found for url: https://www.astro.com/wiki/astro-databank/index.php?title=Historic:_Swiss_Confederation_letter__Dreil%C3%A4nderb&action=raw"
   }
 ]
