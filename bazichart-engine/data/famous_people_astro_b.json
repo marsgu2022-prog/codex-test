@@ -12854,5 +12854,259 @@
     ],
     "data_quality_score": 0.72,
     "rodden_rating": "B"
+  },
+  {
+    "name_en": "Entertainment: Movies",
+    "name_zh": null,
+    "birth_date": "1895-03-19",
+    "birth_time": "12:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Lyon",
+    "birth_country": "France",
+    "gender": null,
+    "occupation": [
+      "演员"
+    ],
+    "bio": "French filmmakers Louis and Auguste Lumiere began a photographic picture camera ",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Entertainment:_Movies"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Entertainment: Neighbours",
+    "name_zh": null,
+    "birth_date": "1985-03-18",
+    "birth_time": "17:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Sydney",
+    "birth_country": "Australia",
+    "gender": null,
+    "occupation": [
+      "企业家",
+      "演员"
+    ],
+    "bio": "Australian television soap opera, first broadcast on the Seven Network.",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Entertainment:_Neighbours"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Entertainment: One Direction",
+    "name_zh": null,
+    "birth_date": "2010-07-23",
+    "birth_time": "20:22",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "London",
+    "birth_country": "England",
+    "gender": null,
+    "occupation": [
+      "演员"
+    ],
+    "bio": "English-Irish pop boy band based in London, composed of Niall Horan, Liam Payne,",
+    "notable_events": [
+      {
+        "year": 2015,
+        "event": "English-Irish pop boy band based in London, composed of Niall Horan, Liam Payne, Harry Styles, Louis Tomlinson, and prev",
+        "event_type": "other"
+      },
+      {
+        "year": 2010,
+        "event": "The group signed with Simon Cowell's record label Syco Records after forming and finishing third in the seventh series o",
+        "event_type": "other"
+      },
+      {
+        "year": 2011,
+        "event": "English-Irish pop boy band based in London, composed of Niall Horan, Liam Payne, Harry Styles, Louis Tomlinson, and prev",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Entertainment:_One_Direction"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Entertainment: Tarzan",
+    "name_zh": null,
+    "birth_date": "1911-12-01",
+    "birth_time": "20:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Chicago",
+    "birth_country": "United States",
+    "gender": null,
+    "occupation": [
+      "演员"
+    ],
+    "bio": "American fictional character created by Edgar Rice Burroughs.",
+    "notable_events": [
+      {
+        "year": 1918,
+        "event": "The first film, \"Tarzan,\" was produced on 27 January 1918, and the comic strip began on 7 January 1929, with a come-back",
+        "event_type": "career_start"
+      },
+      {
+        "year": 1929,
+        "event": "The first film, \"Tarzan,\" was produced on 27 January 1918, and the comic strip began on 7 January 1929, with a come-back",
+        "event_type": "career_start"
+      },
+      {
+        "year": 1997,
+        "event": "The first film, \"Tarzan,\" was produced on 27 January 1918, and the comic strip began on 7 January 1929, with a come-back",
+        "event_type": "career_start"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Entertainment:_Tarzan"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Sven Erlandson",
+    "name_zh": null,
+    "birth_date": "1967-09-17",
+    "birth_time": "07:35",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Fargo",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "演员",
+      "作家"
+    ],
+    "bio": "American spiritual counselor and Wall Street performance coach, TV personality a",
+    "notable_events": [
+      {
+        "year": 2000,
+        "event": "He is credited with coining the phrase \"Spiritual but not religious\" and was the first theologian/author to name and del",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Erlandson,_Sven"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "John Erskine",
+    "name_zh": null,
+    "birth_date": "1879-10-05",
+    "birth_time": "00:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "New York",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "American educator and author, pianist and composer.",
+    "notable_events": [
+      {
+        "year": 1903,
+        "event": "He was first an English professor at Amherst College from 1903 to 1909, followed by Columbia University from 1909 and 19",
+        "event_type": "career_start"
+      },
+      {
+        "year": 1909,
+        "event": "He was first an English professor at Amherst College from 1903 to 1909, followed by Columbia University from 1909 and 19",
+        "event_type": "career_start"
+      },
+      {
+        "year": 1937,
+        "event": "He was first an English professor at Amherst College from 1903 to 1909, followed by Columbia University from 1909 and 19",
+        "event_type": "career_start"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Erskine,_John"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Norman Eschenfelder",
+    "name_zh": null,
+    "birth_date": "1987-06-19",
+    "birth_time": "13:08",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Worms",
+    "birth_country": "Germany",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "演员",
+      "作家"
+    ],
+    "bio": "German independent filmmaker (director of 2020 documentary Fandom Germany ), act",
+    "notable_events": [
+      {
+        "year": 2020,
+        "event": "German independent filmmaker (director of 2020 documentary Fandom Germany ), actor (2016 musical film Bedtime Story: Liv",
+        "event_type": "other"
+      },
+      {
+        "year": 2016,
+        "event": "German independent filmmaker (director of 2020 documentary Fandom Germany ), actor (2016 musical film Bedtime Story: Liv",
+        "event_type": "other"
+      },
+      {
+        "year": 2009,
+        "event": "German independent filmmaker (director of 2020 documentary Fandom Germany ), actor (2016 musical film Bedtime Story: Liv",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Eschenfelder,_Norman"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Pablo Escobar",
+    "name_zh": null,
+    "birth_date": "1949-12-01",
+    "birth_time": "11:50",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Medellín",
+    "birth_country": "Colombia",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "政治家"
+    ],
+    "bio": "Colombian drug lord and narcoterrorist who founded the Medellín Cartel in 1976 a",
+    "notable_events": [
+      {
+        "year": 1976,
+        "event": "Colombian drug lord and narcoterrorist who founded the Medellín Cartel in 1976 and became its sole leader.",
+        "event_type": "career_start"
+      },
+      {
+        "year": 2018,
+        "event": "Dubbed \"The King of Cocaine\", Escobar is the wealthiest criminal in history, having amassed an estimated net worth of US",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Escobar,_Pablo"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
   }
 ]
