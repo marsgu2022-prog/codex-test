@@ -18919,5 +18919,193 @@
     ],
     "data_quality_score": 0.72,
     "rodden_rating": "B"
+  },
+  {
+    "name_en": "Franz Joseph Haydn",
+    "name_zh": null,
+    "birth_date": "1732-03-31",
+    "birth_time": "15:56",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Rohrau",
+    "birth_country": "Austria",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "演员"
+    ],
+    "bio": "Austrian composer, a child prodigy and prolific composer.",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Haydn,_Franz_Joseph"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Laurence Hayek",
+    "name_zh": null,
+    "birth_date": "1934-07-15",
+    "birth_time": "16:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Vienna",
+    "birth_country": "Austria",
+    "gender": "male",
+    "occupation": [
+      "科学家"
+    ],
+    "bio": "English physician and microbiologist from a noted family, the son of Austrian-Br",
+    "notable_events": [
+      {
+        "year": 1899,
+        "event": "English physician and microbiologist from a noted family, the son of Austrian-British economist Friedrich Hayek (1899–19",
+        "event_type": "other"
+      },
+      {
+        "year": 1992,
+        "event": "English physician and microbiologist from a noted family, the son of Austrian-British economist Friedrich Hayek (1899–19",
+        "event_type": "other"
+      },
+      {
+        "year": 1961,
+        "event": "He married Esca Drury, a nurse, in 1961; they had three children, Ann, Catherine and Crispin.",
+        "event_type": "marriage"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Hayek,_Laurence"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Webb Hayes",
+    "name_zh": null,
+    "birth_date": "1856-03-20",
+    "birth_time": "17:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Cincinnati",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "企业家"
+    ],
+    "bio": "American businessman and soldier.",
+    "notable_events": [
+      {
+        "year": 1934,
+        "event": "He died on July 26, 1934 in Cincinnati, Ohio.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Hayes,_Webb"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Christiane Luise Hegel",
+    "name_zh": null,
+    "birth_date": "1773-04-07",
+    "birth_time": "01:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Stuttgart",
+    "birth_country": "Germany",
+    "gender": "female",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "German governess, the sister of philosopher Georg Wilhelm Friedrich Hegel.",
+    "notable_events": [
+      {
+        "year": 1832,
+        "event": "\" She died on February 2, 1832.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Hegel,_Christiane_Luise"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Fritz Heidegger",
+    "name_zh": null,
+    "birth_date": "1894-02-06",
+    "birth_time": "07:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Messkirch",
+    "birth_country": "Germany",
+    "gender": "male",
+    "occupation": [
+      "企业家"
+    ],
+    "bio": "German banker. Died 26 June 1980. Link to Wikipedia biography (German)",
+    "notable_events": [
+      {
+        "year": 1980,
+        "event": "Died 26 June 1980.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Heidegger,_Fritz"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Grace Kee Heifetz",
+    "name_zh": null,
+    "birth_date": "1975-03-10",
+    "birth_time": "03:42",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Sydney",
+    "birth_country": "Australia",
+    "gender": "female",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "Australian noted family member and actor also known as Grace Heifetz-Kee and Gra",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Heifetz,_Grace_Kee"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Nachum Heiman",
+    "name_zh": null,
+    "birth_date": "1934-05-06",
+    "birth_time": "04:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Riga",
+    "birth_country": "Latvia",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "Israeli songwriter and composer.",
+    "notable_events": [
+      {
+        "year": 2016,
+        "event": "He died 17 August 2016.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Heiman,_Nachum"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
   }
 ]
