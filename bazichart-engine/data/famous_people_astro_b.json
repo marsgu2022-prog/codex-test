@@ -15891,5 +15891,189 @@
     ],
     "data_quality_score": 0.72,
     "rodden_rating": "B"
+  },
+  {
+    "name_en": "Daniel V. Gallery",
+    "name_zh": null,
+    "birth_date": "1901-07-10",
+    "birth_time": "16:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Chicago",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "American navy officer who saw extensive action during World War II.",
+    "notable_events": [
+      {
+        "year": 1944,
+        "event": "He fought in the Battle of the Atlantic, his most notable achievement was the capture of the German submarine U-505 on J",
+        "event_type": "other"
+      },
+      {
+        "year": 1977,
+        "event": "He died on January 16, 1977.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Gallery,_Daniel_V."
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "John Galsworthy",
+    "name_zh": null,
+    "birth_date": "1867-08-14",
+    "birth_time": "14:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Kingston",
+    "birth_country": "England",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "作家"
+    ],
+    "bio": "British writer, a novelist, dramatist and playwright who was one of the most imp",
+    "notable_events": [
+      {
+        "year": 1906,
+        "event": "He was most noted for his series of novels about the Forsyte family from 1906-1928.",
+        "event_type": "other"
+      },
+      {
+        "year": 1928,
+        "event": "He was most noted for his series of novels about the Forsyte family from 1906-1928.",
+        "event_type": "other"
+      },
+      {
+        "year": 1890,
+        "event": "The son of a wealthy lawyer and businessman, he was educated at Oxford and called to the bar in 1890.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Galsworthy,_John"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Luís Gama",
+    "name_zh": null,
+    "birth_date": "1830-06-21",
+    "birth_time": "07:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Salvador (Bahia)",
+    "birth_country": "Brazil",
+    "gender": "male",
+    "occupation": [
+      "政治家",
+      "作家"
+    ],
+    "bio": "Brazilian Romantic poet, journalist, lawyer and a prominent abolitionist.",
+    "notable_events": [
+      {
+        "year": 1882,
+        "event": "He died of diabetes on August 24, 1882 in São Paulo.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Gama,_Lu%C3%ADs"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Gemini Ganesan",
+    "name_zh": null,
+    "birth_date": "1920-11-17",
+    "birth_time": "00:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Chennai",
+    "birth_country": "India",
+    "gender": "male",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "Indian film actor who worked mainly in Tamil cinema.",
+    "notable_events": [
+      {
+        "year": 1971,
+        "event": "Indian film actor who worked mainly in Tamil cinema. He was nicknamed \"Kadhal Mannan\" (King of Romance) for the romantic",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Ganesan,_Gemini"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Carlos Rene Garcia Escobar",
+    "name_zh": null,
+    "birth_date": "1948-12-23",
+    "birth_time": "16:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Guatemala",
+    "birth_country": "Guatemala",
+    "gender": "male",
+    "occupation": [
+      "科学家",
+      "作家"
+    ],
+    "bio": "Guatemalan anthropologist and writer, has dedicated his life to the study of tra",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Garcia_Escobar,_Carlos_Rene"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Gabriel García Márquez",
+    "name_zh": null,
+    "birth_date": "1927-03-06",
+    "birth_time": "09:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Aracataca",
+    "birth_country": "Colombia",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "Columbian novelist and short story writer who was awarded the Nobel Prize for Li",
+    "notable_events": [
+      {
+        "year": 1982,
+        "event": "Columbian novelist and short story writer who was awarded the Nobel Prize for Literature in 1982, and is best known for ",
+        "event_type": "award"
+      },
+      {
+        "year": 1967,
+        "event": "Columbian novelist and short story writer who was awarded the Nobel Prize for Literature in 1982, and is best known for ",
+        "event_type": "award"
+      },
+      {
+        "year": 1970,
+        "event": "Columbian novelist and short story writer who was awarded the Nobel Prize for Literature in 1982, and is best known for ",
+        "event_type": "award"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Garc%C3%ADa_M%C3%A1rquez,_Gabriel"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
   }
 ]
