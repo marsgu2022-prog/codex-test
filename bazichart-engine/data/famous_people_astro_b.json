@@ -13726,5 +13726,136 @@
     ],
     "data_quality_score": 0.72,
     "rodden_rating": "B"
+  },
+  {
+    "name_en": "Charles H. Featherstone",
+    "name_zh": null,
+    "birth_date": "1967-08-22",
+    "birth_time": "17:10",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Fort Lewis",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "American newspaper and wire service reporter, singer and songwriter, and author ",
+    "notable_events": [
+      {
+        "year": 2001,
+        "event": "He survived the 2001 attack on the World Trade Center in New York.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Featherstone,_Charles_H."
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Jacek Fedorowicz",
+    "name_zh": null,
+    "birth_date": "1937-07-18",
+    "birth_time": "00:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Gdynia",
+    "birth_country": "Poland",
+    "gender": "male",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "Polish satirist and actor.",
+    "notable_events": [
+      {
+        "year": 2009,
+        "event": "In 2009 he received the Gold Medal \"Merit of Culture Gloria Artis\".",
+        "event_type": "award"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Fedorowicz,_Jacek"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Lidiya Fedoseyeva-Shukshina",
+    "name_zh": null,
+    "birth_date": "1938-09-25",
+    "birth_time": "02:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Leningrad",
+    "birth_country": "Russian Federation",
+    "gender": "female",
+    "occupation": [
+      "演员",
+      "作家"
+    ],
+    "bio": "Russian actress and widow of writer, actor and director Vasily Shukshin.",
+    "notable_events": [
+      {
+        "year": 1984,
+        "event": "In 1984, the actress was awarded the title People’s Artist of the RSFSR.",
+        "event_type": "award"
+      },
+      {
+        "year": 1998,
+        "event": "She was awarded the Order \"For Merit to the Fatherland\", 4th Degree (1998) for her great personal contribution to the de",
+        "event_type": "award"
+      },
+      {
+        "year": 2009,
+        "event": "She was awarded the Order \"For Merit to the Fatherland\", 4th Degree (1998) for her great personal contribution to the de",
+        "event_type": "award"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Fedoseyeva-Shukshina,_Lidiya"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Jeff Fenech",
+    "name_zh": null,
+    "birth_date": "1964-05-28",
+    "birth_time": "19:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Sydney",
+    "birth_country": "Australia",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "运动员",
+      "作家"
+    ],
+    "bio": "Australian boxer of Maltese descent, nicknamed 'Brick Top,' who was an Olympics ",
+    "notable_events": [
+      {
+        "year": 1984,
+        "event": "Australian boxer of Maltese descent, nicknamed 'Brick Top,' who was an Olympics competitor in the sport in 1984 in Los A",
+        "event_type": "other"
+      },
+      {
+        "year": 1987,
+        "event": "In 1987, with a little more heft on his body, he competed in the junior featherweight class and became a two-time world ",
+        "event_type": "career_peak"
+      },
+      {
+        "year": 1988,
+        "event": "By 1988, Fenech had grown into a Featherweight, became a three time world champion, becoming one of very few boxers who ",
+        "event_type": "award"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Fenech,_Jeff"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
   }
 ]
