@@ -1649,7 +1649,6 @@ try:
     from routes.auth_api import router as auth_router
     from routes.archive_api import router as archive_router
     from routes.classic_api import router as classic_router
-    from routes.report_api import router as report_router
 
     app.mount("/static", StaticFiles(directory=str(BASE_DIR / "static")), name="static")
 
@@ -1658,7 +1657,6 @@ try:
     app.include_router(auth_router, prefix="/api/v2/auth")
     app.include_router(archive_router, prefix="/api/v2")
     app.include_router(classic_router, prefix="/api/v2")
-    app.include_router(report_router, prefix="/api/v2")
 
 except Exception as _v2_err:
     import logging

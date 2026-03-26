@@ -29,13 +29,3 @@ async def dashboard(request: Request):
 @router.get("/classic", response_class=HTMLResponse)
 async def classic(request: Request):
     return templates.TemplateResponse("classic.html", {"request": request})
-
-
-@router.get("/reports", response_class=HTMLResponse)
-async def reports(request: Request):
-    return templates.TemplateResponse("reports.html", {"request": request})
-
-
-@router.get("/reports/admin", response_class=HTMLResponse)
-async def reports_admin(request: Request):
-    return templates.TemplateResponse("reports_admin.html", {"request": request})
