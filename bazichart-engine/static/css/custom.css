@@ -18,6 +18,10 @@ body {
   background-color: var(--bg-primary);
   color: var(--text-primary);
   font-family: 'Noto Sans SC', sans-serif;
+  background-image:
+    radial-gradient(circle at top left, rgba(201, 169, 110, 0.16), transparent 28%),
+    radial-gradient(circle at top right, rgba(43, 76, 126, 0.18), transparent 24%);
+  background-attachment: fixed;
 }
 
 .card {
@@ -92,6 +96,64 @@ body {
   to { opacity: 1; transform: translateY(0); }
 }
 .fade-in { animation: fadeInUp 0.6s ease forwards; }
+
+.section-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 14px;
+  border: 1px solid rgba(201, 169, 110, 0.2);
+  border-radius: 999px;
+  background-color: rgba(255, 255, 255, 0.03);
+  color: var(--accent);
+  font-size: 12px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.section-label::before {
+  content: "";
+  width: 6px;
+  height: 6px;
+  border-radius: 999px;
+  background-color: currentColor;
+}
+
+.glass-card {
+  background: linear-gradient(180deg, rgba(26, 26, 46, 0.92), rgba(26, 26, 46, 0.72));
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  box-shadow: 0 24px 80px rgba(0, 0, 0, 0.24);
+}
+
+.metric-card {
+  border-radius: 18px;
+  padding: 20px;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.metric-value {
+  color: var(--text-primary);
+  font-size: clamp(28px, 4vw, 40px);
+  font-family: 'Noto Serif SC', serif;
+  line-height: 1;
+}
+
+.metric-label {
+  color: var(--text-muted);
+  font-size: 13px;
+  margin-top: 10px;
+}
+
+.nav-link {
+  color: var(--text-secondary);
+  font-size: 14px;
+  transition: color 0.2s ease;
+}
+
+.nav-link:hover {
+  color: var(--text-primary);
+}
 
 /* Form elements */
 select, input[type="number"] {

@@ -85,3 +85,10 @@
 - 新增 `bazichart-engine/scripts/rule_extractor.py`，每天从 `data/bazi_readings.json` 中筛选 `confidence >= 0.8` 的研读结果
 - 按日主聚合格局、用神、职业倾向和性格特质，输出到 `knowledge/auto_rules.md` 与 `knowledge/auto_rules_stats.json`
 - `auto_reader_cron.sh` 在研读成功后自动执行规则提炼，形成“研读 -> 规则回流 -> 知识沉淀”的每日闭环
+
+## 2026-03-26 产业报告中心
+
+- 现有项目运行栈为 FastAPI + SQLite，本次报告中心沿用 `bazichart-engine/users.db`，不引入 PostgreSQL。
+- `industry_tags`、`region_tags` 在 SQLite 中以 JSON 字符串保存，接口层负责序列化与反序列化。
+- 用户上传文件落在项目内目录 `bazichart-engine/data/user-reports/{user_id}/`，对应需求中的 `/data/user-reports/` 逻辑路径。
+- 管理员鉴权复用当前项目已有管理员口令与 cookie 规则，报告管理接口兼容管理员 cookie 会话。
