@@ -79,6 +79,7 @@ def load_country_map(path: Path) -> dict[str, str]:
 
 def make_session() -> requests.Session:
     session = requests.Session()
+    session.trust_env = False
     session.headers.update({
         "User-Agent": USER_AGENT,
         "Accept-Language": "en-US,en;q=0.9",
@@ -389,6 +390,7 @@ def crawl(
         try:
             index_html = fetch_text(session, current_url, request_interval)
             links, next_url = parse_allpages(index_html)
+            runtime_state.pop("blocked_until", None)
         except Exception as exc:
             runtime_state["blocked_until"] = (datetime.now(UTC) + timedelta(seconds=BACKOFF_SECONDS)).isoformat()
             errors.append({"url": current_url, "stage": "index", "error": str(exc)})

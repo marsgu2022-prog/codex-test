@@ -21,3 +21,9 @@
 - bug描述：`crawl_astro_databank.py` 在 `Special:AllPages` 游标页会间歇出现连接超时，导致整批 `0` 新增并停在同一 `next_url`
 - 复现方式：运行 `env -u http_proxy -u https_proxy -u HTTP_PROXY -u HTTPS_PROXY -u ALL_PROXY -u all_proxy bash bazichart-engine/scripts/run_dual_astro_pipeline.sh 30000 200 300 500 15`
 - 修复方案：提高 `crawl_astro_databank.py` 的重试次数，拆分连接/读取超时，并显式关闭连接复用以降低长连接抖动影响
+
+## 2026-03-26 AstroDatabank 抓取受环境代理和旧阻塞状态干扰
+
+- bug描述：`crawl_astro_databank.py` 会继承 shell 里的代理环境变量，导致请求误走本地代理；抓取恢复后旧的 `blocked_until` 也不会被清掉，容易误判任务仍被阻塞
+- 复现方式：在存在 `HTTP_PROXY`、`HTTPS_PROXY` 或 `ALL_PROXY` 的环境中运行 `python3 bazichart-engine/scripts/crawl_astro_databank.py --max-pages 1 --max-records 5`
+- 修复方案：在脚本里设置 `requests.Session.trust_env = False`，让抓取不依赖 shell 代理；索引页请求成功后主动清除 `blocked_until`
