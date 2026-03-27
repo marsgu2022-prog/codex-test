@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-27 23:09:31",
+  "generated_at": "2026-03-27 23:16:00",
   "raw_total": 46164,
   "unified_total": 42705,
   "timed_total": 21077,
@@ -12,8 +12,6 @@
   },
   "source_imported_counts": {
     "astrodatabank_a": 16260,
-    "astrodatabank_b": 744,
-    "astrotheme": 6838,
-    "wikipedia": 22322
+    "astrodatabank_b": 744
   }
 }

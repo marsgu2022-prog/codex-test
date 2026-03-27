@@ -103,3 +103,9 @@
 - 新增共享模块 `bazichart-engine/scripts/people_store.py`，统一维护 SQLite schema、upsert、统一导出和报告生成
 - `crawl_astro_databank.py` 与 `crawl_astrotheme.py` 在每次写完各自 JSON 后，默认同步到 `people_pipeline.db`
 - 这样现有抓取脚本无需改调用方式，就能持续刷新统一 SQLite 主库与 `unified_people_sqlite.json`
+
+## 2026-03-27 crawl_famous_people 改为分阶段增量落盘
+
+- `crawl_famous_people.py` 在中文、西方、全球三段 cohort 抓取完成后就写一次主产物，不再等整轮结束才落盘
+- 每次增量写盘时同步刷新 SQLite 主库与 `unified_people_sqlite.json`，保证长跑任务中途也能看到真实增长
+- 最终收尾仍保留完整校验与正式报告输出，兼容原有调用方式

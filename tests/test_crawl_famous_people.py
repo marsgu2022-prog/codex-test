@@ -325,3 +325,114 @@ def test_load_pipeline_state_migrates_legacy_failure_queue(tmp_path, monkeypatch
         assert item["next_retry_at"] == 1600
     finally:
         MODULE.__file__ = original_file
+
+
+def test_write_pipeline_outputs_syncs_sqlite(monkeypatch, tmp_path):
+    synced = {}
+    writes = []
+    monkeypatch.setattr(MODULE, "write_json", lambda path, payload: writes.append((path.name, payload)))
+    monkeypatch.setattr(
+        MODULE,
+        "sync_source_snapshots",
+        lambda db_path, source_records, **_kwargs: synced.update({"db": db_path, "sources": source_records}),
+    )
+
+    MODULE.write_pipeline_outputs(
+        {
+            "famous_people": tmp_path / "famous_people.json",
+            "day_pillar_index": tmp_path / "day_pillar_index.json",
+            "report": tmp_path / "famous_people_report.json",
+        },
+        [{
+            "id": "Q1",
+            "name_zh": "甲",
+            "name_en": "A",
+            "birth_date": "1900-01-01",
+            "day_pillar": "甲子",
+            "day_master": "甲",
+            "nationality_zh": "中国",
+            "field_zh": "政治家",
+            "summary": "简介",
+            "occupation": ["政治家"],
+        }],
+        mode="full",
+        focus="all",
+        min_total_people=100,
+        chinese_people=[{"id": "Q1"}],
+        western_people=[],
+        global_extra_people=[],
+        pipeline_state={"failure_queue": {"jobs": []}, "candidate_cache": {"pages": {}}},
+        sqlite_db=tmp_path / "people.db",
+        sqlite_export_unified=tmp_path / "unified.json",
+        sqlite_report_output=tmp_path / "report.json",
+        final=False,
+    )
+
+    assert synced["db"] == tmp_path / "people.db"
+    assert list(synced["sources"]) == ["wikipedia"]
+    assert [name for name, _payload in writes] == [
+        "famous_people.json",
+        "day_pillar_index.json",
+        "famous_people_report.json",
+    ]
+
+
+def test_main_writes_partial_snapshot_after_first_cohort(monkeypatch):
+    args = type(
+        "Args",
+        (),
+        {
+            "mode": "full",
+            "retry_failures": False,
+            "focus": "all",
+            "include_categories": False,
+            "sqlite_db": Path("people.db"),
+            "sqlite_export_unified": Path("unified.json"),
+            "sqlite_report_output": Path("report.json"),
+        },
+    )()
+    calls = []
+
+    monkeypatch.setattr(MODULE, "parse_args", lambda: args)
+    monkeypatch.setattr(MODULE.requests, "Session", lambda: type("S", (), {"headers": {}})())
+    monkeypatch.setattr(MODULE, "load_pipeline_state", lambda _suffix: {"paths": {"famous_people": Path("a"), "day_pillar_index": Path("b"), "report": Path("c")}, "candidate_cache": {"pages": {}}, "failure_queue": {"jobs": []}})
+    monkeypatch.setattr(
+        MODULE,
+        "build_runtime_configs",
+        lambda mode, focus="all": (
+            {
+                "china_like": {},
+                "western": {"country_qids": [], "extra_country_names": []},
+                "global_extra": {"country_qids": [], "extra_country_names": []},
+            },
+            1,
+            "",
+        ),
+    )
+    monkeypatch.setattr(MODULE, "build_category_runtime_limits", lambda mode, include: {})
+    monkeypatch.setattr(MODULE, "expand_country_qids", lambda session, qids, extra: qids)
+
+    def fake_fetch(_session, cohort, pipeline_state=None, **_kwargs):
+        if cohort == "china_like":
+            return [{
+                "id": "Q1",
+                "name_zh": "甲",
+                "name_en": "A",
+                "birth_date": "1900-01-01",
+                "day_pillar": "甲子",
+                "day_master": "甲",
+                "nationality_zh": "中国",
+                "field_zh": "政治家",
+                "summary": "简介",
+                "occupation": ["政治家"],
+            }]
+        return []
+
+    monkeypatch.setattr(MODULE, "fetch_cohort_from_countries", fake_fetch)
+    monkeypatch.setattr(MODULE, "dedupe_people", lambda people: people)
+    monkeypatch.setattr(MODULE, "validate_people", lambda people: {"total_people": len(people), "invalid_count": 0, "invalid_ids": []})
+    monkeypatch.setattr(MODULE, "write_pipeline_outputs", lambda paths, people, **kwargs: calls.append({"count": len(people), "final": kwargs["final"]}))
+
+    assert MODULE.main() == 0
+    assert calls[0] == {"count": 1, "final": False}
+    assert calls[-1] == {"count": 1, "final": True}

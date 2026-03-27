@@ -4,6 +4,7 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import sys
 import time
 from collections import defaultdict
 from pathlib import Path
@@ -13,6 +14,12 @@ import requests
 from lunar_python import Solar
 from opencc import OpenCC
 from requests import RequestException
+
+SCRIPT_DIR = Path(__file__).resolve().parent
+if str(SCRIPT_DIR) not in sys.path:
+    sys.path.insert(0, str(SCRIPT_DIR))
+
+from people_store import DEFAULT_DB, DEFAULT_REPORT_OUTPUT, DEFAULT_UNIFIED_OUTPUT, sync_source_snapshots
 
 
 WIKIDATA_SPARQL_URL = "https://query.wikidata.org/sparql"
@@ -1238,6 +1245,9 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
         help="额外使用 Wikipedia 分类页补充候选人，扩大覆盖面",
     )
+    parser.add_argument("--sqlite-db", type=Path, default=DEFAULT_DB)
+    parser.add_argument("--sqlite-export-unified", type=Path, default=DEFAULT_UNIFIED_OUTPUT)
+    parser.add_argument("--sqlite-report-output", type=Path, default=DEFAULT_REPORT_OUTPUT)
     return parser.parse_args()
 
 
@@ -1272,6 +1282,53 @@ def build_category_runtime_limits(mode: str, include_categories: bool) -> dict[s
     return dict(CATEGORY_MAX_PEOPLE)
 
 
+def write_pipeline_outputs(
+    paths: dict[str, Path],
+    people: list[dict[str, Any]],
+    *,
+    mode: str,
+    focus: str,
+    min_total_people: int,
+    chinese_people: list[dict[str, Any]],
+    western_people: list[dict[str, Any]],
+    global_extra_people: list[dict[str, Any]],
+    pipeline_state: dict[str, Any],
+    sqlite_db: Path,
+    sqlite_export_unified: Path,
+    sqlite_report_output: Path,
+    final: bool,
+) -> None:
+    validation = validate_people(people) if final else {
+        "total_people": len(people),
+        "invalid_count": 0,
+        "invalid_ids": [],
+    }
+    write_json(paths["famous_people"], people)
+    write_json(paths["day_pillar_index"], build_day_pillar_index(people))
+    write_json(
+        paths["report"],
+        {
+            "generated_at": time.strftime("%Y-%m-%d %H:%M:%S"),
+            "mode": mode,
+            "focus": focus,
+            "min_total_people": min_total_people,
+            "total_people": len(people),
+            "chinese_people": len(chinese_people),
+            "western_people": len(western_people),
+            "global_extra_people": len(global_extra_people),
+            "validation": validation,
+            "pipeline": build_pipeline_summary(pipeline_state),
+            "partial": not final,
+        },
+    )
+    sync_source_snapshots(
+        sqlite_db,
+        {"wikipedia": people},
+        unified_output=sqlite_export_unified,
+        report_output=sqlite_report_output,
+    )
+
+
 def main() -> int:
     args = parse_args()
     session = requests.Session()
@@ -1302,6 +1359,22 @@ def main() -> int:
         chinese_config = dict(runtime_configs["china_like"])
         chinese_people = fetch_cohort_from_countries(session, "china_like", pipeline_state=pipeline_state, **chinese_config)
         print(f"中文名人抓取完成：{len(chinese_people)}", flush=True)
+        people = dedupe_people(chinese_people)
+        write_pipeline_outputs(
+            pipeline_state["paths"],
+            people,
+            mode=args.mode,
+            focus=args.focus,
+            min_total_people=min_total_people,
+            chinese_people=chinese_people,
+            western_people=[],
+            global_extra_people=[],
+            pipeline_state=pipeline_state,
+            sqlite_db=args.sqlite_db,
+            sqlite_export_unified=args.sqlite_export_unified,
+            sqlite_report_output=args.sqlite_report_output,
+            final=False,
+        )
 
         print("抓取西方名人...", flush=True)
         western_config = dict(runtime_configs["western"])
@@ -1312,6 +1385,22 @@ def main() -> int:
         )
         western_people = fetch_cohort_from_countries(session, "western", pipeline_state=pipeline_state, **western_config)
         print(f"西方名人抓取完成：{len(western_people)}", flush=True)
+        people = dedupe_people(chinese_people + western_people)
+        write_pipeline_outputs(
+            pipeline_state["paths"],
+            people,
+            mode=args.mode,
+            focus=args.focus,
+            min_total_people=min_total_people,
+            chinese_people=chinese_people,
+            western_people=western_people,
+            global_extra_people=[],
+            pipeline_state=pipeline_state,
+            sqlite_db=args.sqlite_db,
+            sqlite_export_unified=args.sqlite_export_unified,
+            sqlite_report_output=args.sqlite_report_output,
+            final=False,
+        )
 
         print("抓取全球补充名人...", flush=True)
         global_extra_config = dict(runtime_configs["global_extra"])
@@ -1322,6 +1411,22 @@ def main() -> int:
         )
         global_extra_people = fetch_cohort_from_countries(session, "global_extra", pipeline_state=pipeline_state, **global_extra_config)
         print(f"全球补充名人抓取完成：{len(global_extra_people)}", flush=True)
+        people = dedupe_people(chinese_people + western_people + global_extra_people)
+        write_pipeline_outputs(
+            pipeline_state["paths"],
+            people,
+            mode=args.mode,
+            focus=args.focus,
+            min_total_people=min_total_people,
+            chinese_people=chinese_people,
+            western_people=western_people,
+            global_extra_people=global_extra_people,
+            pipeline_state=pipeline_state,
+            sqlite_db=args.sqlite_db,
+            sqlite_export_unified=args.sqlite_export_unified,
+            sqlite_report_output=args.sqlite_report_output,
+            final=False,
+        )
 
         if category_limits:
             print("抓取分类补充名人...", flush=True)
@@ -1345,22 +1450,20 @@ def main() -> int:
     day_pillar_index_path = paths["day_pillar_index"]
     report_path = paths["report"]
 
-    write_json(famous_people_path, people)
-    write_json(day_pillar_index_path, build_day_pillar_index(people))
-    write_json(
-        report_path,
-        {
-            "generated_at": time.strftime("%Y-%m-%d %H:%M:%S"),
-            "mode": args.mode,
-            "focus": args.focus,
-            "min_total_people": min_total_people,
-            "total_people": len(people),
-            "chinese_people": len(chinese_people),
-            "western_people": len(western_people),
-            "global_extra_people": len(global_extra_people),
-            "validation": validation,
-            "pipeline": build_pipeline_summary(pipeline_state),
-        },
+    write_pipeline_outputs(
+        paths,
+        people,
+        mode=args.mode,
+        focus=args.focus,
+        min_total_people=min_total_people,
+        chinese_people=chinese_people,
+        western_people=western_people,
+        global_extra_people=global_extra_people,
+        pipeline_state=pipeline_state,
+        sqlite_db=args.sqlite_db,
+        sqlite_export_unified=args.sqlite_export_unified,
+        sqlite_report_output=args.sqlite_report_output,
+        final=True,
     )
     print(f"输出完成：{famous_people_path}", flush=True)
     print(f"输出完成：{day_pillar_index_path}", flush=True)
