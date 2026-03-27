@@ -163,6 +163,45 @@ def test_crawl_resumes_from_saved_link_index():
     assert session.get.call_count == 3
 
 
+def test_crawl_invokes_batch_callback_per_page():
+    session = Mock()
+    country_map = {"US": "United States"}
+    detail_response = f"{SAMPLE_RAW}\n|sflname=Batch Person\n"
+    session.get.side_effect = [
+        Mock(text=SAMPLE_ALLPAGES, raise_for_status=Mock()),
+        Mock(text=detail_response, raise_for_status=Mock()),
+        Mock(text=SAMPLE_HTML, raise_for_status=Mock()),
+        Mock(text=detail_response.replace("Batch Person", "Batch Person B").replace("|sroddenrating=AA", "|sroddenrating=B"), raise_for_status=Mock()),
+        Mock(text=SAMPLE_HTML, raise_for_status=Mock()),
+    ]
+    captured = []
+
+    original_sleep = MODULE.time.sleep
+    MODULE.time.sleep = lambda *_args, **_kwargs: None
+    try:
+        high_confidence, medium_confidence, errors, runtime_state = MODULE.crawl(
+            session=session,
+            start_url="https://example.com/page",
+            max_pages=1,
+            max_records=5,
+            country_map=country_map,
+            request_interval=0,
+            state={},
+            batch_callback=lambda high, medium, state: captured.append((high, medium, state.copy())),
+        )
+    finally:
+        MODULE.time.sleep = original_sleep
+
+    assert len(high_confidence) == 1
+    assert len(medium_confidence) == 1
+    assert errors == []
+    assert len(captured) == 1
+    assert captured[0][0][0]["name_en"] == "Batch Person"
+    assert captured[0][1][0]["name_en"] == "Batch Person B"
+    assert captured[0][2]["current_url"].endswith("from=Ab")
+    assert runtime_state["current_url"].endswith("from=Ab")
+
+
 def test_main_syncs_sqlite_snapshot(monkeypatch, tmp_path):
     args = type(
         "Args",

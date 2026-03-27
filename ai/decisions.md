@@ -109,3 +109,9 @@
 - `crawl_famous_people.py` 在中文、西方、全球三段 cohort 抓取完成后就写一次主产物，不再等整轮结束才落盘
 - 每次增量写盘时同步刷新 SQLite 主库与 `unified_people_sqlite.json`，保证长跑任务中途也能看到真实增长
 - 最终收尾仍保留完整校验与正式报告输出，兼容原有调用方式
+
+## 2026-03-27 AstroDatabank 与 Astrotheme 改为页级实时写入 SQLite
+
+- `people_store.py` 新增 `PeopleStoreSession`，用于长跑抓取时复用同一个 SQLite 连接并按批次刷新统一导出
+- `crawl_astro_databank.py` 在每个索引页处理完成后，立刻把当页新增的 `AA/A` 与 `B` 记录写入 SQLite，再刷新统一 JSON 与报告
+- `crawl_astrotheme.py` 在每个分类页处理完成后，立刻把当页新增记录写入 SQLite，降低长跑任务中断时的产出损失

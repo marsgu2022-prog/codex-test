@@ -177,6 +177,42 @@ def test_crawl_logs_parse_errors_for_structure_changes(monkeypatch, tmp_path):
     assert "Broken_Person" in log_text
 
 
+def test_crawl_invokes_batch_callback_per_page(monkeypatch):
+    responses = {
+        MODULE.SEARCH_URL: """
+<a href="https://www.astrotheme.com/astrology/Brad_Pitt">Brad Pitt Display his detailed birth chart</a>
+<a href="https://www.astrotheme.com/astrology/Brad_Pitt_2">Brad Pitt 2 Display his detailed birth chart</a>
+""",
+        "https://www.astrotheme.com/astrology/Brad_Pitt": SAMPLE_DETAIL,
+        "https://www.astrotheme.com/astrology/Brad_Pitt_2": SAMPLE_DETAIL.replace("Brad Pitt", "Brad Pitt 2"),
+    }
+    captured = []
+
+    def fake_fetch(session, url, *, data=None, request_interval):
+        if data is not None:
+            return responses[MODULE.SEARCH_URL]
+        return responses[url]
+
+    monkeypatch.setattr(MODULE, "fetch", fake_fetch)
+    people, errors, runtime_state = MODULE.crawl(
+        session=None,
+        max_pages_per_category=1,
+        max_records=5,
+        request_interval=0,
+        state={"category_index": 0, "next_url": None, "layout_version": MODULE.STATE_LAYOUT_VERSION},
+        batch_callback=lambda page_people, state: captured.append((page_people, state.copy())),
+    )
+
+    non_empty_batches = [batch for batch in captured if batch[0]]
+
+    assert not errors
+    assert len(people) == 2
+    assert len(non_empty_batches) == 1
+    assert [item["name_en"] for item in non_empty_batches[0][0]] == ["Brad Pitt", "Brad Pitt 2"]
+    assert non_empty_batches[0][1]["category_index"] == 0
+    assert runtime_state["category_index"] == len(MODULE.CATEGORY_PAYLOADS)
+
+
 def test_main_syncs_sqlite_snapshot(monkeypatch, tmp_path):
     args = type(
         "Args",

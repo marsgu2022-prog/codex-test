@@ -19,7 +19,7 @@ SCRIPT_DIR = Path(__file__).resolve().parent
 if str(SCRIPT_DIR) not in sys.path:
     sys.path.insert(0, str(SCRIPT_DIR))
 
-from people_store import DEFAULT_DB, DEFAULT_REPORT_OUTPUT, DEFAULT_UNIFIED_OUTPUT, sync_source_snapshots
+from people_store import DEFAULT_DB, DEFAULT_REPORT_OUTPUT, DEFAULT_UNIFIED_OUTPUT, PeopleStoreSession, sync_source_snapshots
 
 DATA_DIR = SCRIPT_DIR.parent / "data"
 DEFAULT_OUTPUT = DATA_DIR / "famous_people_astrotheme.json"
@@ -393,6 +393,7 @@ def crawl(
     request_interval: float,
     state: dict[str, Any] | None = None,
     existing_keys: set[tuple[str | None, str | None]] | None = None,
+    batch_callback: Any | None = None,
 ) -> tuple[list[dict[str, Any]], list[dict[str, Any]], dict[str, Any]]:
     people: list[dict[str, Any]] = []
     errors: list[dict[str, Any]] = []
@@ -420,6 +421,7 @@ def crawl(
         page_no = 0
         while current_html and page_no < max_pages_per_category and len(people) < max_records:
             page_no += 1
+            page_people: list[dict[str, Any]] = []
             links, next_url = parse_result_page(current_html)
             for detail_url in links:
                 if len(people) >= max_records:
@@ -439,6 +441,7 @@ def crawl(
                         continue
                     seen_people_keys.add(identity)
                     people.append(person)
+                    page_people.append(person)
                 except Exception as exc:
                     errors.append({"source": "astrotheme", "stage": "detail", "category": category_key, "url": detail_url, "error": str(exc)})
 
@@ -447,6 +450,8 @@ def crawl(
                 "next_url": next_url,
                 "layout_version": STATE_LAYOUT_VERSION,
             }
+            if batch_callback:
+                batch_callback(page_people, runtime_state)
             if not next_url or page_no >= max_pages_per_category:
                 break
             try:
@@ -472,24 +477,39 @@ def main() -> None:
     existing = load_json_list(args.output)
     existing_errors = load_json_list(args.errors_output)
     state = load_state(args.state_output)
-    people, errors, runtime_state = crawl(
-        session,
-        args.max_pages_per_category,
-        args.max_records,
-        args.request_interval,
-        state=state,
-        existing_keys=build_identity_set(existing),
-    )
-    merged = merge_people(existing, people)
-    write_json(args.output, merged)
-    write_json(args.errors_output, existing_errors + errors)
-    write_state(args.state_output, runtime_state)
-    sync_source_snapshots(
-        args.sqlite_db,
-        {"astrotheme": merged},
-        unified_output=args.sqlite_export_unified,
-        report_output=args.sqlite_report_output,
-    )
+    store: PeopleStoreSession | None = None
+    try:
+        store = PeopleStoreSession(
+            args.sqlite_db,
+            unified_output=args.sqlite_export_unified,
+            report_output=args.sqlite_report_output,
+        )
+
+        def batch_callback(page_people: list[dict[str, Any]], _runtime_state: dict[str, Any]) -> None:
+            store.upsert("astrotheme", page_people, refresh_outputs=bool(page_people))
+
+        people, errors, runtime_state = crawl(
+            session,
+            args.max_pages_per_category,
+            args.max_records,
+            args.request_interval,
+            state=state,
+            existing_keys=build_identity_set(existing),
+            batch_callback=batch_callback,
+        )
+        merged = merge_people(existing, people)
+        write_json(args.output, merged)
+        write_json(args.errors_output, existing_errors + errors)
+        write_state(args.state_output, runtime_state)
+        sync_source_snapshots(
+            args.sqlite_db,
+            {"astrotheme": merged},
+            unified_output=args.sqlite_export_unified,
+            report_output=args.sqlite_report_output,
+        )
+    finally:
+        if store is not None:
+            store.close()
     print(f"astrotheme_total={len(merged)}")
     print(f"astrotheme_added={len(people)}")
     print(f"errors_added={len(errors)}")

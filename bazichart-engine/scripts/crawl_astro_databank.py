@@ -19,7 +19,7 @@ SCRIPT_DIR = Path(__file__).resolve().parent
 if str(SCRIPT_DIR) not in sys.path:
     sys.path.insert(0, str(SCRIPT_DIR))
 
-from people_store import DEFAULT_DB, DEFAULT_REPORT_OUTPUT, DEFAULT_UNIFIED_OUTPUT, sync_source_snapshots
+from people_store import DEFAULT_DB, DEFAULT_REPORT_OUTPUT, DEFAULT_UNIFIED_OUTPUT, PeopleStoreSession, sync_source_snapshots
 
 DATA_DIR = SCRIPT_DIR.parent / "data"
 COUNTRIES_PATH = DATA_DIR / "countries.json"
@@ -402,6 +402,7 @@ def crawl(
     country_map: dict[str, str],
     request_interval: float,
     state: dict[str, Any] | None = None,
+    batch_callback: Any | None = None,
 ) -> tuple[list[dict[str, Any]], list[dict[str, Any]], list[dict[str, Any]], dict[str, Any]]:
     current_url = start_url
     page_count = 0
@@ -428,6 +429,8 @@ def crawl(
             break
 
         page_count += 1
+        page_high_confidence: list[dict[str, Any]] = []
+        page_medium_confidence: list[dict[str, Any]] = []
         resume_index = 0
         if runtime_state.get("current_url") == current_url:
             resume_index = max(0, min(int(runtime_state.get("last_processed_index", 0) or 0), len(links)))
@@ -456,8 +459,10 @@ def crawl(
                     continue
                 if person["rodden_rating"] in HIGH_CONFIDENCE_RATINGS:
                     high_confidence.append(person)
+                    page_high_confidence.append(person)
                 else:
                     medium_confidence.append(person)
+                    page_medium_confidence.append(person)
                 runtime_state["last_title"] = title
             except Exception as exc:
                 errors.append({"url": html_url, "stage": "detail", "error": str(exc)})
@@ -469,6 +474,8 @@ def crawl(
         runtime_state["current_url"] = next_url
         runtime_state["last_processed_index"] = 0
         runtime_state["updated_at"] = datetime.now(UTC).isoformat()
+        if batch_callback:
+            batch_callback(page_high_confidence, page_medium_confidence, runtime_state)
         current_url = next_url
 
     return high_confidence, medium_confidence, errors, runtime_state
@@ -483,31 +490,49 @@ def main() -> None:
     existing_a = load_json_list(args.output_a)
     existing_b = load_json_list(args.output_b)
     existing_errors = load_json_list(args.errors_output)
-    high_confidence, medium_confidence, errors, runtime_state = crawl(
-        session=session,
-        start_url=start_url,
-        max_pages=args.max_pages,
-        max_records=args.max_records,
-        country_map=country_map,
-        request_interval=args.request_interval,
-        state=state,
-    )
-    merged_a = merge_people(existing_a, high_confidence)
-    merged_b = merge_people(existing_b, medium_confidence)
-    merged_errors = existing_errors + errors
-    write_json(args.output_a, merged_a)
-    write_json(args.output_b, merged_b)
-    write_json(args.errors_output, merged_errors)
-    write_state(args.state_output, runtime_state)
-    sync_source_snapshots(
-        args.sqlite_db,
-        {
-            "astrodatabank_a": merged_a,
-            "astrodatabank_b": merged_b,
-        },
-        unified_output=args.sqlite_export_unified,
-        report_output=args.sqlite_report_output,
-    )
+    store: PeopleStoreSession | None = None
+    try:
+        store = PeopleStoreSession(
+            args.sqlite_db,
+            unified_output=args.sqlite_export_unified,
+            report_output=args.sqlite_report_output,
+        )
+
+        def batch_callback(page_high_confidence: list[dict[str, Any]], page_medium_confidence: list[dict[str, Any]], _runtime_state: dict[str, Any]) -> None:
+            store.upsert("astrodatabank_a", page_high_confidence, refresh_outputs=False)
+            store.upsert("astrodatabank_b", page_medium_confidence, refresh_outputs=False)
+            if page_high_confidence or page_medium_confidence:
+                store.refresh_outputs()
+
+        high_confidence, medium_confidence, errors, runtime_state = crawl(
+            session=session,
+            start_url=start_url,
+            max_pages=args.max_pages,
+            max_records=args.max_records,
+            country_map=country_map,
+            request_interval=args.request_interval,
+            state=state,
+            batch_callback=batch_callback,
+        )
+        merged_a = merge_people(existing_a, high_confidence)
+        merged_b = merge_people(existing_b, medium_confidence)
+        merged_errors = existing_errors + errors
+        write_json(args.output_a, merged_a)
+        write_json(args.output_b, merged_b)
+        write_json(args.errors_output, merged_errors)
+        write_state(args.state_output, runtime_state)
+        sync_source_snapshots(
+            args.sqlite_db,
+            {
+                "astrodatabank_a": merged_a,
+                "astrodatabank_b": merged_b,
+            },
+            unified_output=args.sqlite_export_unified,
+            report_output=args.sqlite_report_output,
+        )
+    finally:
+        if store is not None:
+            store.close()
     print(f"astro_AA_A_total={len(merged_a)}")
     print(f"astro_AA_A_added={len(high_confidence)}")
     print(f"astro_B_total={len(merged_b)}")

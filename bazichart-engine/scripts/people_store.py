@@ -213,6 +213,42 @@ def build_report(
     }
 
 
+class PeopleStoreSession:
+    def __init__(
+        self,
+        db_path: Path,
+        *,
+        unified_output: Path = DEFAULT_UNIFIED_OUTPUT,
+        report_output: Path = DEFAULT_REPORT_OUTPUT,
+    ) -> None:
+        self.db_path = db_path
+        self.unified_output = unified_output
+        self.report_output = report_output
+        self.conn = connect_database(db_path)
+        create_schema(self.conn)
+        self.source_imported_counts: dict[str, int] = {}
+
+    def upsert(self, source: str, records: list[dict[str, Any]], *, refresh_outputs: bool = False) -> int:
+        if not records:
+            return 0
+        count = upsert_records(self.conn, source, records)
+        self.conn.commit()
+        self.source_imported_counts[source] = self.source_imported_counts.get(source, 0) + count
+        if refresh_outputs:
+            self.refresh_outputs()
+        return count
+
+    def refresh_outputs(self) -> dict[str, Any]:
+        unified_records = export_unified(self.conn)
+        write_json(self.unified_output, unified_records)
+        report = build_report(self.conn, unified_records, dict(self.source_imported_counts))
+        write_json(self.report_output, report)
+        return report
+
+    def close(self) -> None:
+        self.conn.close()
+
+
 def sync_source_snapshots(
     db_path: Path,
     source_records: dict[str, list[dict[str, Any]]],
