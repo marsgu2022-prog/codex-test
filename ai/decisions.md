@@ -97,3 +97,9 @@
 - 新增 `bazichart-engine/scripts/people_pipeline_sqlite.py`，把 `astrodatabank`、`astrotheme`、`wikipedia` 三路产物统一导入 SQLite
 - 主库按 `规范化姓名 + 出生日期` 去重，优先保留 `data_quality_score` 更高的记录，并保留 `source_count`
 - 继续导出 JSON 兼容现有前台与脚本，但后续增量抓取、并发 worker 和失败重试统一以 SQLite 为主存储层
+
+## 2026-03-27 AstroDatabank 与 Astrotheme 默认同步 SQLite 主库
+
+- 新增共享模块 `bazichart-engine/scripts/people_store.py`，统一维护 SQLite schema、upsert、统一导出和报告生成
+- `crawl_astro_databank.py` 与 `crawl_astrotheme.py` 在每次写完各自 JSON 后，默认同步到 `people_pipeline.db`
+- 这样现有抓取脚本无需改调用方式，就能持续刷新统一 SQLite 主库与 `unified_people_sqlite.json`

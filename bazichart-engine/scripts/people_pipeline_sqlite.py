@@ -3,19 +3,29 @@ from __future__ import annotations
 
 import argparse
 import json
-import sqlite3
 import unicodedata
 import uuid
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
 
+import sys
 
 SCRIPT_DIR = Path(__file__).resolve().parent
+if str(SCRIPT_DIR) not in sys.path:
+    sys.path.insert(0, str(SCRIPT_DIR))
+
+from people_store import (
+    DEFAULT_DB,
+    DEFAULT_REPORT_OUTPUT,
+    DEFAULT_UNIFIED_OUTPUT,
+    build_report,
+    connect_database,
+    create_schema,
+    export_unified,
+    write_json,
+)
 DATA_DIR = SCRIPT_DIR.parent / "data"
-DEFAULT_DB = DATA_DIR / "people_pipeline.db"
-DEFAULT_UNIFIED_OUTPUT = DATA_DIR / "unified_people_sqlite.json"
-DEFAULT_REPORT_OUTPUT = DATA_DIR / "people_pipeline_sqlite_report.json"
 
 
 @dataclass(frozen=True)
@@ -39,48 +49,6 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--export-unified", type=Path, default=DEFAULT_UNIFIED_OUTPUT)
     parser.add_argument("--report-output", type=Path, default=DEFAULT_REPORT_OUTPUT)
     return parser.parse_args()
-
-
-def connect_database(path: Path) -> sqlite3.Connection:
-    path.parent.mkdir(parents=True, exist_ok=True)
-    conn = sqlite3.connect(path)
-    conn.row_factory = sqlite3.Row
-    conn.execute("PRAGMA journal_mode=WAL")
-    conn.execute("PRAGMA synchronous=NORMAL")
-    return conn
-
-
-def create_schema(conn: sqlite3.Connection) -> None:
-    conn.executescript(
-        """
-        CREATE TABLE IF NOT EXISTS people_raw (
-            source TEXT NOT NULL,
-            source_key TEXT NOT NULL,
-            identity_key TEXT NOT NULL,
-            name_en TEXT,
-            name_zh TEXT,
-            birth_date TEXT,
-            birth_time TEXT,
-            birth_time_reliability TEXT,
-            birth_time_source TEXT,
-            birth_city TEXT,
-            birth_country TEXT,
-            gender TEXT,
-            occupation_json TEXT NOT NULL,
-            bio TEXT,
-            notable_events_json TEXT NOT NULL,
-            source_url TEXT,
-            data_quality_score REAL NOT NULL,
-            rodden_rating TEXT,
-            raw_json TEXT NOT NULL,
-            updated_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
-            PRIMARY KEY (source, source_key)
-        );
-
-        CREATE INDEX IF NOT EXISTS idx_people_raw_identity
-        ON people_raw(identity_key, data_quality_score DESC);
-        """
-    )
 
 
 def normalize_name(value: str | None) -> str:
@@ -289,11 +257,6 @@ def build_report(conn: sqlite3.Connection, unified_records: list[dict[str, Any]]
         "source_raw_counts": source_counts,
         "source_imported_counts": imported_counts,
     }
-
-
-def write_json(path: Path, payload: Any) -> None:
-    path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
 def main() -> None:

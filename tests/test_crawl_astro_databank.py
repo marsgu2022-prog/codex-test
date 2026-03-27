@@ -161,3 +161,52 @@ def test_crawl_resumes_from_saved_link_index():
     assert runtime_state["current_url"].endswith("from=Ab")
     assert runtime_state["last_processed_index"] == 0
     assert session.get.call_count == 3
+
+
+def test_main_syncs_sqlite_snapshot(monkeypatch, tmp_path):
+    args = type(
+        "Args",
+        (),
+        {
+            "start_url": MODULE.ALL_PAGES_URL,
+            "start_from": None,
+            "max_pages": 1,
+            "max_records": 1,
+            "request_interval": 0,
+            "output_a": tmp_path / "astro_a.json",
+            "output_b": tmp_path / "astro_b.json",
+            "errors_output": tmp_path / "errors.json",
+            "state_output": tmp_path / "state.json",
+            "sqlite_db": tmp_path / "people.db",
+            "sqlite_export_unified": tmp_path / "unified.json",
+            "sqlite_report_output": tmp_path / "report.json",
+        },
+    )()
+    synced = {}
+
+    monkeypatch.setattr(MODULE, "parse_args", lambda: args)
+    monkeypatch.setattr(MODULE, "make_session", lambda: object())
+    monkeypatch.setattr(MODULE, "load_state", lambda _path: {})
+    monkeypatch.setattr(MODULE, "load_json_list", lambda _path: [])
+    monkeypatch.setattr(
+        MODULE,
+        "crawl",
+        lambda **_kwargs: (
+            [{"name_en": "Alpha", "birth_date": "2000-01-01", "birth_time": "10:00", "source_urls": ["a"], "occupation": [], "notable_events": [], "data_quality_score": 0.9, "rodden_rating": "AA"}],
+            [{"name_en": "Beta", "birth_date": "2000-01-02", "birth_time": "11:00", "source_urls": ["b"], "occupation": [], "notable_events": [], "data_quality_score": 0.7, "rodden_rating": "B"}],
+            [],
+            {"last_next_url": "next"},
+        ),
+    )
+    monkeypatch.setattr(MODULE, "write_json", lambda *_args, **_kwargs: None)
+    monkeypatch.setattr(MODULE, "write_state", lambda *_args, **_kwargs: None)
+    monkeypatch.setattr(
+        MODULE,
+        "sync_source_snapshots",
+        lambda db_path, source_records, **_kwargs: synced.update({"db": db_path, "sources": source_records}),
+    )
+
+    MODULE.main()
+
+    assert synced["db"] == args.sqlite_db
+    assert set(synced["sources"]) == {"astrodatabank_a", "astrodatabank_b"}

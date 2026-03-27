@@ -175,3 +175,48 @@ def test_crawl_logs_parse_errors_for_structure_changes(monkeypatch, tmp_path):
     log_text = (tmp_path / "parse_errors.log").read_text(encoding="utf-8")
     assert "missing_birth_time" in log_text
     assert "Broken_Person" in log_text
+
+
+def test_main_syncs_sqlite_snapshot(monkeypatch, tmp_path):
+    args = type(
+        "Args",
+        (),
+        {
+            "max_pages_per_category": 1,
+            "max_records": 1,
+            "request_interval": 0,
+            "output": tmp_path / "astrotheme.json",
+            "errors_output": tmp_path / "errors.json",
+            "state_output": tmp_path / "state.json",
+            "sqlite_db": tmp_path / "people.db",
+            "sqlite_export_unified": tmp_path / "unified.json",
+            "sqlite_report_output": tmp_path / "report.json",
+        },
+    )()
+    synced = {}
+
+    monkeypatch.setattr(MODULE, "parse_args", lambda: args)
+    monkeypatch.setattr(MODULE, "make_session", lambda: object())
+    monkeypatch.setattr(MODULE, "load_json_list", lambda _path: [])
+    monkeypatch.setattr(MODULE, "load_state", lambda _path: {})
+    monkeypatch.setattr(
+        MODULE,
+        "crawl",
+        lambda *_args, **_kwargs: (
+            [{"name_en": "Gamma", "birth_date": "1999-01-01", "birth_time": "08:00", "source_urls": ["g"], "occupation": [], "notable_events": [], "data_quality_score": 0.8}],
+            [],
+            {"category_index": 1, "next_url": None},
+        ),
+    )
+    monkeypatch.setattr(MODULE, "write_json", lambda *_args, **_kwargs: None)
+    monkeypatch.setattr(MODULE, "write_state", lambda *_args, **_kwargs: None)
+    monkeypatch.setattr(
+        MODULE,
+        "sync_source_snapshots",
+        lambda db_path, source_records, **_kwargs: synced.update({"db": db_path, "sources": source_records}),
+    )
+
+    MODULE.main()
+
+    assert synced["db"] == args.sqlite_db
+    assert set(synced["sources"]) == {"astrotheme"}

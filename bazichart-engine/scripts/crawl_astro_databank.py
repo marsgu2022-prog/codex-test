@@ -4,6 +4,7 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import sys
 import time
 from datetime import datetime, timedelta, UTC
 from pathlib import Path
@@ -15,6 +16,11 @@ from bs4 import BeautifulSoup, Tag
 
 
 SCRIPT_DIR = Path(__file__).resolve().parent
+if str(SCRIPT_DIR) not in sys.path:
+    sys.path.insert(0, str(SCRIPT_DIR))
+
+from people_store import DEFAULT_DB, DEFAULT_REPORT_OUTPUT, DEFAULT_UNIFIED_OUTPUT, sync_source_snapshots
+
 DATA_DIR = SCRIPT_DIR.parent / "data"
 COUNTRIES_PATH = DATA_DIR / "countries.json"
 DEFAULT_OUTPUT_A = DATA_DIR / "famous_people_astro.json"
@@ -69,6 +75,9 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--output-b", type=Path, default=DEFAULT_OUTPUT_B)
     parser.add_argument("--errors-output", type=Path, default=DEFAULT_ERRORS)
     parser.add_argument("--state-output", type=Path, default=DEFAULT_STATE)
+    parser.add_argument("--sqlite-db", type=Path, default=DEFAULT_DB)
+    parser.add_argument("--sqlite-export-unified", type=Path, default=DEFAULT_UNIFIED_OUTPUT)
+    parser.add_argument("--sqlite-report-output", type=Path, default=DEFAULT_REPORT_OUTPUT)
     return parser.parse_args()
 
 
@@ -490,6 +499,15 @@ def main() -> None:
     write_json(args.output_b, merged_b)
     write_json(args.errors_output, merged_errors)
     write_state(args.state_output, runtime_state)
+    sync_source_snapshots(
+        args.sqlite_db,
+        {
+            "astrodatabank_a": merged_a,
+            "astrodatabank_b": merged_b,
+        },
+        unified_output=args.sqlite_export_unified,
+        report_output=args.sqlite_report_output,
+    )
     print(f"astro_AA_A_total={len(merged_a)}")
     print(f"astro_AA_A_added={len(high_confidence)}")
     print(f"astro_B_total={len(merged_b)}")
