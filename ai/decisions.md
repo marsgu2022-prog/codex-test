@@ -91,3 +91,9 @@
 - `crawl_astro_databank.py` 状态文件新增 `current_url` 和 `last_processed_index`，断点不再只停留在 `next_url` 级别
 - 索引页请求单独提高重试次数，失败回退时间从 300 秒缩短到 45 秒，降低网络抖动对整批吞吐的影响
 - 默认抓取批次提升到 `--max-pages 10 --max-records 120`，优先提高单位轮次产出
+
+## 2026-03-27 名人抓取主库存储切到 SQLite 第一版
+
+- 新增 `bazichart-engine/scripts/people_pipeline_sqlite.py`，把 `astrodatabank`、`astrotheme`、`wikipedia` 三路产物统一导入 SQLite
+- 主库按 `规范化姓名 + 出生日期` 去重，优先保留 `data_quality_score` 更高的记录，并保留 `source_count`
+- 继续导出 JSON 兼容现有前台与脚本，但后续增量抓取、并发 worker 和失败重试统一以 SQLite 为主存储层
