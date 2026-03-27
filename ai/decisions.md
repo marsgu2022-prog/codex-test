@@ -85,3 +85,9 @@
 - 新增 `bazichart-engine/scripts/rule_extractor.py`，每天从 `data/bazi_readings.json` 中筛选 `confidence >= 0.8` 的研读结果
 - 按日主聚合格局、用神、职业倾向和性格特质，输出到 `knowledge/auto_rules.md` 与 `knowledge/auto_rules_stats.json`
 - `auto_reader_cron.sh` 在研读成功后自动执行规则提炼，形成“研读 -> 规则回流 -> 知识沉淀”的每日闭环
+
+## 2026-03-27 AstroDatabank 抓取改为页内断点续跑
+
+- `crawl_astro_databank.py` 状态文件新增 `current_url` 和 `last_processed_index`，断点不再只停留在 `next_url` 级别
+- 索引页请求单独提高重试次数，失败回退时间从 300 秒缩短到 45 秒，降低网络抖动对整批吞吐的影响
+- 默认抓取批次提升到 `--max-pages 10 --max-records 120`，优先提高单位轮次产出

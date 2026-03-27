@@ -109,3 +109,55 @@ def test_fetch_text_retries_until_success():
 
     assert text == "ok"
     assert session.get.call_count == 2
+
+
+def test_load_state_backfills_new_resume_fields(tmp_path):
+    state_path = tmp_path / "astro_state.json"
+    state_path.write_text('{"last_next_url":"https://example.com/page","last_title":"Jobs,_Steve"}', encoding="utf-8")
+
+    state = MODULE.load_state(state_path)
+
+    assert state["current_url"] is None
+    assert state["last_next_url"] == "https://example.com/page"
+    assert state["last_title"] == "Jobs,_Steve"
+    assert state["last_processed_index"] == 0
+
+
+def test_crawl_resumes_from_saved_link_index():
+    session = Mock()
+    country_map = {"US": "United States"}
+    detail_response = f"{SAMPLE_RAW}\n|sflname=Resume Person\n"
+    session.get.side_effect = [
+        Mock(text=SAMPLE_ALLPAGES, raise_for_status=Mock()),
+        Mock(text=detail_response, raise_for_status=Mock()),
+        Mock(text=SAMPLE_HTML, raise_for_status=Mock()),
+    ]
+
+    original_sleep = MODULE.time.sleep
+    MODULE.time.sleep = lambda *_args, **_kwargs: None
+    try:
+        high_confidence, medium_confidence, errors, runtime_state = MODULE.crawl(
+            session=session,
+            start_url="https://example.com/page",
+            max_pages=1,
+            max_records=5,
+            country_map=country_map,
+            request_interval=0,
+            state={
+                "current_url": "https://example.com/page",
+                "last_next_url": "https://example.com/page",
+                "last_title": "Aaliyah",
+                "last_processed_index": 1,
+                "updated_at": None,
+            },
+        )
+    finally:
+        MODULE.time.sleep = original_sleep
+
+    assert len(high_confidence) == 1
+    assert medium_confidence == []
+    assert errors == []
+    assert high_confidence[0]["name_en"] == "Resume Person"
+    assert runtime_state["current_url"].endswith("from=Ab")
+    assert runtime_state["last_processed_index"] == 0
+    assert session.get.call_count == 3

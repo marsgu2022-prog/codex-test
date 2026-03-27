@@ -27,9 +27,10 @@ ALL_PAGES_URL = f"{BASE_URL}/wiki/astro-databank/index.php?title=Special:AllPage
 USER_AGENT = "bazichart-engine/1.0 (astro databank crawler)"
 REQUEST_INTERVAL_SECONDS = 1.05
 REQUEST_MAX_RETRIES = 5
+INDEX_REQUEST_MAX_RETRIES = 10
 REQUEST_CONNECT_TIMEOUT_SECONDS = 10
 REQUEST_READ_TIMEOUT_SECONDS = 30
-BACKOFF_SECONDS = 300
+BACKOFF_SECONDS = 45
 
 ALLOWED_RATINGS = {"AA", "A", "B"}
 HIGH_CONFIDENCE_RATINGS = {"AA", "A"}
@@ -61,8 +62,8 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="抓取 Astro-Databank 高质量有时辰名人数据")
     parser.add_argument("--start-url", default=ALL_PAGES_URL)
     parser.add_argument("--start-from", default=None)
-    parser.add_argument("--max-pages", type=int, default=3)
-    parser.add_argument("--max-records", type=int, default=30)
+    parser.add_argument("--max-pages", type=int, default=10)
+    parser.add_argument("--max-records", type=int, default=120)
     parser.add_argument("--request-interval", type=float, default=REQUEST_INTERVAL_SECONDS)
     parser.add_argument("--output-a", type=Path, default=DEFAULT_OUTPUT_A)
     parser.add_argument("--output-b", type=Path, default=DEFAULT_OUTPUT_B)
@@ -88,9 +89,15 @@ def make_session() -> requests.Session:
     return session
 
 
-def fetch_text(session: requests.Session, url: str, request_interval: float) -> str:
+def fetch_text(
+    session: requests.Session,
+    url: str,
+    request_interval: float,
+    *,
+    max_retries: int = REQUEST_MAX_RETRIES,
+) -> str:
     last_error: Exception | None = None
-    for attempt in range(1, REQUEST_MAX_RETRIES + 1):
+    for attempt in range(1, max_retries + 1):
         try:
             response = session.get(
                 url,
@@ -101,7 +108,7 @@ def fetch_text(session: requests.Session, url: str, request_interval: float) -> 
             return response.text
         except Exception as exc:
             last_error = exc
-            if attempt < REQUEST_MAX_RETRIES:
+            if attempt < max_retries:
                 time.sleep(min(attempt * 3, 12))
     assert last_error is not None
     raise last_error
@@ -352,10 +359,19 @@ def merge_people(existing: list[dict[str, Any]], incoming: list[dict[str, Any]])
 
 def load_state(path: Path) -> dict[str, Any]:
     if not path.exists():
-        return {"last_next_url": None, "last_title": None, "updated_at": None}
+        return {"current_url": None, "last_next_url": None, "last_title": None, "last_processed_index": 0, "updated_at": None}
     with path.open("r", encoding="utf-8") as handle:
         payload = json.load(handle)
-    return payload if isinstance(payload, dict) else {"last_next_url": None, "last_title": None, "updated_at": None}
+    if not isinstance(payload, dict):
+        return {"current_url": None, "last_next_url": None, "last_title": None, "last_processed_index": 0, "updated_at": None}
+    return {
+        "current_url": payload.get("current_url"),
+        "last_next_url": payload.get("last_next_url"),
+        "last_title": payload.get("last_title"),
+        "last_processed_index": int(payload.get("last_processed_index", 0) or 0),
+        "updated_at": payload.get("updated_at"),
+        "blocked_until": payload.get("blocked_until"),
+    }
 
 
 def write_state(path: Path, state: dict[str, Any]) -> None:
@@ -384,27 +400,40 @@ def crawl(
     medium_confidence: list[dict[str, Any]] = []
     errors: list[dict[str, Any]] = []
     seen_titles: set[str] = set()
-    runtime_state = state or {"last_next_url": None, "last_title": None, "updated_at": None}
+    runtime_state = state or {"current_url": None, "last_next_url": None, "last_title": None, "last_processed_index": 0, "updated_at": None}
 
     while current_url and page_count < max_pages and len(high_confidence) < max_records:
         try:
-            index_html = fetch_text(session, current_url, request_interval)
+            index_html = fetch_text(
+                session,
+                current_url,
+                request_interval,
+                max_retries=INDEX_REQUEST_MAX_RETRIES,
+            )
             links, next_url = parse_allpages(index_html)
             runtime_state.pop("blocked_until", None)
         except Exception as exc:
             runtime_state["blocked_until"] = (datetime.now(UTC) + timedelta(seconds=BACKOFF_SECONDS)).isoformat()
+            runtime_state["current_url"] = current_url
             errors.append({"url": current_url, "stage": "index", "error": str(exc)})
             break
 
         page_count += 1
-        for link in links:
+        resume_index = 0
+        if runtime_state.get("current_url") == current_url:
+            resume_index = max(0, min(int(runtime_state.get("last_processed_index", 0) or 0), len(links)))
+        for link_index, link in enumerate(links[resume_index:], start=resume_index):
             if len(high_confidence) >= max_records:
                 break
             if not is_target_page(link):
+                runtime_state["current_url"] = current_url
+                runtime_state["last_processed_index"] = link_index + 1
                 continue
 
             title = normalize_title_from_href(link["href"])
             if not title or title in seen_titles:
+                runtime_state["current_url"] = current_url
+                runtime_state["last_processed_index"] = link_index + 1
                 continue
             seen_titles.add(title)
 
@@ -423,8 +452,13 @@ def crawl(
                 runtime_state["last_title"] = title
             except Exception as exc:
                 errors.append({"url": html_url, "stage": "detail", "error": str(exc)})
+            finally:
+                runtime_state["current_url"] = current_url
+                runtime_state["last_processed_index"] = link_index + 1
 
         runtime_state["last_next_url"] = next_url
+        runtime_state["current_url"] = next_url
+        runtime_state["last_processed_index"] = 0
         runtime_state["updated_at"] = datetime.now(UTC).isoformat()
         current_url = next_url
 
@@ -436,7 +470,7 @@ def main() -> None:
     country_map = load_country_map(COUNTRIES_PATH)
     session = make_session()
     state = load_state(args.state_output)
-    start_url = state.get("last_next_url") or build_start_url(args.start_url, args.start_from)
+    start_url = state.get("current_url") or state.get("last_next_url") or build_start_url(args.start_url, args.start_from)
     existing_a = load_json_list(args.output_a)
     existing_b = load_json_list(args.output_b)
     existing_errors = load_json_list(args.errors_output)
