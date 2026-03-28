@@ -24965,5 +24965,601 @@
     ],
     "data_quality_score": 0.72,
     "rodden_rating": "B"
+  },
+  {
+    "name_en": "Alice Roosevelt Longworth",
+    "name_zh": null,
+    "birth_date": "1884-02-12",
+    "birth_time": "20:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "New York",
+    "birth_country": "United States",
+    "gender": "female",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "American noted family, the daughter of President Teddy Roosevelt, she was known ",
+    "notable_events": [
+      {
+        "year": 1931,
+        "event": "As an author, her book \"Crowded Hours\" written in 1931, was not remarkably successful.",
+        "event_type": "other"
+      },
+      {
+        "year": 1906,
+        "event": "Longworth married in 1906, she had one daughter and was widowed after 25 years.",
+        "event_type": "marriage"
+      },
+      {
+        "year": 1980,
+        "event": "She died of pneumonia on 20 February 1980.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Longworth,_Alice_Roosevelt"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Vivienne Loomis",
+    "name_zh": null,
+    "birth_date": "1959-08-14",
+    "birth_time": "14:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Winchendon",
+    "birth_country": "United States",
+    "gender": "female",
+    "occupation": [
+      "科学家",
+      "作家"
+    ],
+    "bio": "American teenage suicide; 14 when she hanged herself in the basement of her home",
+    "notable_events": [
+      {
+        "year": 1973,
+        "event": "American teenage suicide; 14 when she hanged herself in the basement of her home the evening of 21 December 1973.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Loomis,_Vivienne"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Carl Albert Loosli",
+    "name_zh": null,
+    "birth_date": "1877-04-05",
+    "birth_time": "17:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Bern",
+    "birth_country": "Switzerland",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "Swiss writer and journalist.",
+    "notable_events": [
+      {
+        "year": 1959,
+        "event": "He died 22 May 1959.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Loosli,_Carl_Albert"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Ricardo Lopez",
+    "name_zh": null,
+    "birth_date": "1966-06-25",
+    "birth_time": "04:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Mexico City",
+    "birth_country": "Mexico",
+    "gender": "male",
+    "occupation": [
+      "演员",
+      "运动员"
+    ],
+    "bio": "Mexican boxer who was world champion minimum weight of the World Boxing Council ",
+    "notable_events": [
+      {
+        "year": 1990,
+        "event": "Mexican boxer who was world champion minimum weight of the World Boxing Council from 1990 until his retirement.",
+        "event_type": "other"
+      },
+      {
+        "year": 2007,
+        "event": "Ricardo entered the Hall of Fame in New York on 7 June 2007 by a unanimous vote.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Lopez,_Ricardo"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Gonzalo Lopez Abente",
+    "name_zh": null,
+    "birth_date": "1878-03-24",
+    "birth_time": "16:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "La Coruña",
+    "birth_country": "Spain",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "Spanish writer in Galician.",
+    "notable_events": [
+      {
+        "year": 1963,
+        "event": "Spanish writer in Galician. He was a member of the da Fala Irmandades and Galician Studies Seminar. He cultivated journa",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Lopez_Abente,_Gonzalo"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Percy Loraine",
+    "name_zh": null,
+    "birth_date": "1880-11-05",
+    "birth_time": "17:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "London",
+    "birth_country": "England",
+    "gender": "male",
+    "occupation": [
+      "政治家",
+      "运动员"
+    ],
+    "bio": "British diplomat, who served as British High Commissioner to Egypt from 1929 to ",
+    "notable_events": [
+      {
+        "year": 1929,
+        "event": "British diplomat, who served as British High Commissioner to Egypt from 1929 to 1933, British Ambassador to Turkey from ",
+        "event_type": "other"
+      },
+      {
+        "year": 1933,
+        "event": "British diplomat, who served as British High Commissioner to Egypt from 1929 to 1933, British Ambassador to Turkey from ",
+        "event_type": "other"
+      },
+      {
+        "year": 1939,
+        "event": "British diplomat, who served as British High Commissioner to Egypt from 1929 to 1933, British Ambassador to Turkey from ",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Loraine,_Percy"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Bette Bao Lord",
+    "name_zh": null,
+    "birth_date": "1938-11-03",
+    "birth_time": "03:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Shanghai",
+    "birth_country": "China",
+    "gender": "female",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "Chinese-American writer.",
+    "notable_events": [
+      {
+        "year": 1946,
+        "event": "in 1946.",
+        "event_type": "other"
+      },
+      {
+        "year": 1962,
+        "event": ", separated from a younger sister until 1962.",
+        "event_type": "other"
+      },
+      {
+        "year": 1973,
+        "event": "\" In 1973, she went back to China with her husband, Winston, and her reunion there with her kin led to a second book, \"S",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Lord,_Bette_Bao"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Loriot",
+    "name_zh": null,
+    "birth_date": "1923-11-12",
+    "birth_time": "21:50",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Brandenburg",
+    "birth_country": "Germany",
+    "gender": "male",
+    "occupation": [
+      "演员",
+      "作家"
+    ],
+    "bio": "German comedian, humorist, cartoonist, film director, actor and writer.",
+    "notable_events": [
+      {
+        "year": 1976,
+        "event": "He is best known for his cartoons, the sketches from his 1976 television series Loriot, alongside Evelyn Hamann, and his",
+        "event_type": "other"
+      },
+      {
+        "year": 1988,
+        "event": "He is best known for his cartoons, the sketches from his 1976 television series Loriot, alongside Evelyn Hamann, and his",
+        "event_type": "other"
+      },
+      {
+        "year": 1991,
+        "event": "He is best known for his cartoons, the sketches from his 1976 television series Loriot, alongside Evelyn Hamann, and his",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Loriot"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Samuel Kirkland Lothrop",
+    "name_zh": null,
+    "birth_date": "1804-10-13",
+    "birth_time": "20:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Utica",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "American clergyman.",
+    "notable_events": [
+      {
+        "year": 1825,
+        "event": "He graduated at Harvard in 1825, and at the Harvard Divinity School in 1828.",
+        "event_type": "other"
+      },
+      {
+        "year": 1828,
+        "event": "He graduated at Harvard in 1825, and at the Harvard Divinity School in 1828.",
+        "event_type": "other"
+      },
+      {
+        "year": 1829,
+        "event": "In 1829 he was ordained pastor of the Unitarian church in Dover, New Hampshire, and on 17 June 1834, took charge of the ",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Lothrop,_Samuel_Kirkland"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Petrus Lotichius Secundus",
+    "name_zh": null,
+    "birth_date": "1528-11-02",
+    "birth_time": "07:20",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Schlüchtern",
+    "birth_country": "Germany",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "German poet, one of the most important of his time.",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Lotichius_Secundus,_Petrus"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Henrique Teixeira Lott",
+    "name_zh": null,
+    "birth_date": "1894-11-16",
+    "birth_time": "11:20",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Antônio Carlos (Minas Gerais)",
+    "birth_country": "Brazil",
+    "gender": "male",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "Brazilian military and political figure; a Field Marshal who served as Minister ",
+    "notable_events": [
+      {
+        "year": 1954,
+        "event": "Brazilian military and political figure; a Field Marshal who served as Minister of War from 25 August 1954 to 15 Februar",
+        "event_type": "other"
+      },
+      {
+        "year": 1960,
+        "event": "Brazilian military and political figure; a Field Marshal who served as Minister of War from 25 August 1954 to 15 Februar",
+        "event_type": "other"
+      },
+      {
+        "year": 1984,
+        "event": "Lott died on May 19, 1984.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Lott,_Henrique_Teixeira"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Tim Lott",
+    "name_zh": null,
+    "birth_date": "1956-01-23",
+    "birth_time": "08:05",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "London",
+    "birth_country": "England",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "政治家",
+      "作家"
+    ],
+    "bio": "British author, who worked as a music journalist and ran a magazine publishing b",
+    "notable_events": [
+      {
+        "year": 1986,
+        "event": "British author, who worked as a music journalist and ran a magazine publishing business, before graduating as a mature s",
+        "event_type": "other"
+      },
+      {
+        "year": 1996,
+        "event": "His first book, a memoir, The Scent of Dried Roses (1996) won the PEN/J.",
+        "event_type": "award"
+      },
+      {
+        "year": 1999,
+        "event": "British author, who worked as a music journalist and ran a magazine publishing business, before graduating as a mature s",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Lott,_Tim"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "King of France Louis XV",
+    "name_zh": null,
+    "birth_date": "1710-02-15",
+    "birth_time": "08:18",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Versailles",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "French royalty, the son of Louis, Duc de Bourgogne, grandson of Louis le Grand D",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Louis_XV,_King_of_France"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Ada Lovelace",
+    "name_zh": null,
+    "birth_date": "1815-12-10",
+    "birth_time": "13:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "London",
+    "birth_country": "England",
+    "gender": "female",
+    "occupation": [
+      "科学家"
+    ],
+    "bio": "British noted family, the Countess of Lovelace.",
+    "notable_events": [
+      {
+        "year": 1833,
+        "event": "British noted family, the Countess of Lovelace. She is the daughter and only legitimate child of the sixth Lord Byron, w",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Lovelace,_Ada"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "James Lovelock",
+    "name_zh": null,
+    "birth_date": "1919-07-26",
+    "birth_time": "14:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Abbotsbury",
+    "birth_country": "England",
+    "gender": "male",
+    "occupation": [
+      "科学家",
+      "作家"
+    ],
+    "bio": "British independent scientist, environmentalist and futurologist who lives in De",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Lovelock,_James"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Henry Lowenfeld",
+    "name_zh": null,
+    "birth_date": "1859-09-01",
+    "birth_time": "02:53",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Warsaw",
+    "birth_country": "Poland",
+    "gender": "male",
+    "occupation": [
+      "企业家"
+    ],
+    "bio": "Polish-British industrialist and art collector.",
+    "notable_events": [
+      {
+        "year": 1931,
+        "event": "He died on 4 November 1931, Paris.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Lowenfeld,_Henry"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Frank Lowenstein",
+    "name_zh": null,
+    "birth_date": "1967-08-16",
+    "birth_time": "21:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "New York",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "American lawyer, diplomat and former government official, he served as United St",
+    "notable_events": [
+      {
+        "year": 2013,
+        "event": "American lawyer, diplomat and former government official, he served as United States Special Envoy for Middle East Peace",
+        "event_type": "other"
+      },
+      {
+        "year": 2014,
+        "event": "American lawyer, diplomat and former government official, he served as United States Special Envoy for Middle East Peace",
+        "event_type": "other"
+      },
+      {
+        "year": 2017,
+        "event": "American lawyer, diplomat and former government official, he served as United States Special Envoy for Middle East Peace",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Lowenstein,_Frank"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Antoni Benedykt Lubomirski",
+    "name_zh": null,
+    "birth_date": "1718-06-04",
+    "birth_time": "17:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Radom",
+    "birth_country": "Poland",
+    "gender": "male",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "Polish Swordfish of the Crown in 1754, Major General of the royal army in 1753, ",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Lubomirski,_Antoni_Benedykt"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Jerzy Sabastian Lubomirski",
+    "name_zh": null,
+    "birth_date": "1616-01-20",
+    "birth_time": "07:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Wisnicz",
+    "birth_country": "Poland",
+    "gender": "male",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "Polish noble (szlachcic), magnate, outstanding politician and military commander",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Lubomirski,_Jerzy_Sabastian"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Peter Lucas",
+    "name_zh": null,
+    "birth_date": "1962-06-02",
+    "birth_time": "02:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Wrzesnia",
+    "birth_country": "Poland",
+    "gender": "male",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "Polish and American actor. Link to Wikipedia biography",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Lucas,_Peter"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
   }
 ]
