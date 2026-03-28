@@ -23781,5 +23781,257 @@
     ],
     "data_quality_score": 0.72,
     "rodden_rating": "B"
+  },
+  {
+    "name_en": "Carl Laemmle",
+    "name_zh": null,
+    "birth_date": "1867-01-17",
+    "birth_time": "09:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Laupheim",
+    "birth_country": "Germany",
+    "gender": "male",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "American pioneer filmmaker and founder of one of the original major Hollywood mo",
+    "notable_events": [
+      {
+        "year": 1871,
+        "event": "Regarded as one of the most important of the early film pioneers, Laemmle was born in the Kingdom of Württemberg, at tha",
+        "event_type": "other"
+      },
+      {
+        "year": 1884,
+        "event": "He emigrated to the United States in 1884, working in Chicago as a bookkeeper or office manager for 20 years.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Laemmle,_Carl"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "August Lafontaine",
+    "name_zh": null,
+    "birth_date": "1758-10-05",
+    "birth_time": "04:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Braunschweig",
+    "birth_country": "Germany",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "German novelist, the most popular in his lifetime, his works surpassing by far t",
+    "notable_events": [
+      {
+        "year": 1831,
+        "event": "August Lafontaine died on 20 April 1831.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Lafontaine,_August"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Oskar Lafontaine",
+    "name_zh": null,
+    "birth_date": "1943-09-16",
+    "birth_time": "06:45",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Dillingen/Saar",
+    "birth_country": "Germany",
+    "gender": "male",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "German politician who served in the government of Germany as Minister of Finance",
+    "notable_events": [
+      {
+        "year": 1998,
+        "event": "German politician who served in the government of Germany as Minister of Finance from 1998 to 1999.",
+        "event_type": "other"
+      },
+      {
+        "year": 1999,
+        "event": "German politician who served in the government of Germany as Minister of Finance from 1998 to 1999.",
+        "event_type": "other"
+      },
+      {
+        "year": 1985,
+        "event": "Previously he was Minister-President of the state of Saarland from 1985 to 1998, and he was also Chairman of the Social ",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Lafontaine,_Oskar"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Jérôme Lalande",
+    "name_zh": null,
+    "birth_date": "1732-07-11",
+    "birth_time": "01:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Bourg en Bresse",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "科学家",
+      "作家"
+    ],
+    "bio": "French astronomer, freemason and writer, who published a corrected edition of Ed",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Lalande,_J%C3%A9r%C3%B4me"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Charles Lamb",
+    "name_zh": null,
+    "birth_date": "1775-02-10",
+    "birth_time": "12:20",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "London",
+    "birth_country": "England",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "作家"
+    ],
+    "bio": "British essayist, poet and critic who wrote for magazines and papers while worki",
+    "notable_events": [
+      {
+        "year": 1825,
+        "event": "Lamb first became a clerk in South Sea House in 1789 and from there moved to East India House, where he remained 1792-18",
+        "event_type": "career_peak"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Lamb,_Charles"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Curly Lambeau",
+    "name_zh": null,
+    "birth_date": "1898-04-09",
+    "birth_time": "12:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Green Bay",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "American professional football player and coach in the National Football League ",
+    "notable_events": [
+      {
+        "year": 1919,
+        "event": "Lambeau, along with his friend and fellow Green Bay, Wisconsin native George Whitney Calhoun, founded the Green Bay Pack",
+        "event_type": "career_start"
+      },
+      {
+        "year": 1920,
+        "event": "Lambeau, along with his friend and fellow Green Bay, Wisconsin native George Whitney Calhoun, founded the Green Bay Pack",
+        "event_type": "career_start"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Lambeau,_Curly"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Günter Lamprecht",
+    "name_zh": null,
+    "birth_date": "1930-01-21",
+    "birth_time": "17:15",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Berlin",
+    "birth_country": "Germany",
+    "gender": "male",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "German actor, known for the films The Marriage of Maria Braun (1979), Das Boot (",
+    "notable_events": [
+      {
+        "year": 1979,
+        "event": "German actor, known for the films The Marriage of Maria Braun (1979), Das Boot (1981) and Berlin Alexanderplatz (1980).",
+        "event_type": "marriage"
+      },
+      {
+        "year": 1981,
+        "event": "German actor, known for the films The Marriage of Maria Braun (1979), Das Boot (1981) and Berlin Alexanderplatz (1980).",
+        "event_type": "marriage"
+      },
+      {
+        "year": 1980,
+        "event": "German actor, known for the films The Marriage of Maria Braun (1979), Das Boot (1981) and Berlin Alexanderplatz (1980).",
+        "event_type": "marriage"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Lamprecht,_G%C3%BCnter"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Walter Savage Landor",
+    "name_zh": null,
+    "birth_date": "1775-01-30",
+    "birth_time": "15:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Warwick",
+    "birth_country": "England",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "English writer and poet.",
+    "notable_events": [
+      {
+        "year": 1824,
+        "event": "His best known works were the prose Imaginary Conversations (1824-1853), and the poem Rose Aylmer, but the critical accl",
+        "event_type": "other"
+      },
+      {
+        "year": 1853,
+        "event": "His best known works were the prose Imaginary Conversations (1824-1853), and the poem Rose Aylmer, but the critical accl",
+        "event_type": "other"
+      },
+      {
+        "year": 1864,
+        "event": "He died on 17 September 1864.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Landor,_Walter_Savage"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
   }
 ]
