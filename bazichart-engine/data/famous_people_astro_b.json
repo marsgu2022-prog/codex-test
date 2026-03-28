@@ -28029,5 +28029,505 @@
     ],
     "data_quality_score": 0.72,
     "rodden_rating": "B"
+  },
+  {
+    "name_en": "Rinus Michels",
+    "name_zh": null,
+    "birth_date": "1928-02-09",
+    "birth_time": "06:15",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Amsterdam",
+    "birth_country": "Netherlands",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "运动员",
+      "作家"
+    ],
+    "bio": "Dutch footballer and coach, who played as a forward throughout his career, and b",
+    "notable_events": [
+      {
+        "year": 1945,
+        "event": "He played his entire career for Ajax (1945–1958), which he later managed (1965–1971), and also managed the Netherlands n",
+        "event_type": "other"
+      },
+      {
+        "year": 1958,
+        "event": "He played his entire career for Ajax (1945–1958), which he later managed (1965–1971), and also managed the Netherlands n",
+        "event_type": "other"
+      },
+      {
+        "year": 1965,
+        "event": "He played his entire career for Ajax (1945–1958), which he later managed (1965–1971), and also managed the Netherlands n",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Michels,_Rinus"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Izabella Miko",
+    "name_zh": null,
+    "birth_date": "1981-01-21",
+    "birth_time": "03:15",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Lódz",
+    "birth_country": "Poland",
+    "gender": "female",
+    "occupation": [
+      "企业家",
+      "演员"
+    ],
+    "bio": "Polish actress, dancer, producer, and environmental activist.",
+    "notable_events": [
+      {
+        "year": 2000,
+        "event": "She made her American film debut in Coyote Ugly (2000), followed by a starring part in the vampire thriller The Forsaken",
+        "event_type": "career_start"
+      },
+      {
+        "year": 2001,
+        "event": "She made her American film debut in Coyote Ugly (2000), followed by a starring part in the vampire thriller The Forsaken",
+        "event_type": "career_start"
+      },
+      {
+        "year": 2006,
+        "event": "She has also had recurring roles on the television series Deadwood, The Cape, and Chicago Fire, in addition to roles in ",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Miko,_Izabella"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Emanuel Milchevski",
+    "name_zh": null,
+    "birth_date": "1984-07-07",
+    "birth_time": "05:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "São Bento do Sul (Santa Catarina)",
+    "birth_country": "Brazil",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "演员"
+    ],
+    "bio": "Brazilian management student who appeared as a contestant on the 9th season of t",
+    "notable_events": [
+      {
+        "year": 2009,
+        "event": "Brazilian management student who appeared as a contestant on the 9th season of the reality television series Big Brother",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Milchevski,_Emanuel"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Ed Miliband",
+    "name_zh": null,
+    "birth_date": "1969-12-24",
+    "birth_time": "14:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "London",
+    "birth_country": "England",
+    "gender": "male",
+    "occupation": [
+      "政治家",
+      "演员",
+      "作家"
+    ],
+    "bio": "British politician.",
+    "notable_events": [
+      {
+        "year": 2005,
+        "event": "He has been the Member of Parliament (MP) for Doncaster North since 2005 and served in the Cabinet from 2007 to 2010 und",
+        "event_type": "other"
+      },
+      {
+        "year": 2007,
+        "event": "He has been the Member of Parliament (MP) for Doncaster North since 2005 and served in the Cabinet from 2007 to 2010 und",
+        "event_type": "other"
+      },
+      {
+        "year": 2010,
+        "event": "He has been the Member of Parliament (MP) for Doncaster North since 2005 and served in the Cabinet from 2007 to 2010 und",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Miliband,_Ed"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Military: Battle of Waterloo",
+    "name_zh": null,
+    "birth_date": "1815-06-18",
+    "birth_time": "11:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Waterloo",
+    "birth_country": "Belgium",
+    "gender": null,
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "Belgian famed battle of Napoleon Bonaparte, perhaps one of the best-known dates ",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Military:_Battle_of_Waterloo"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Military: November Uprising",
+    "name_zh": null,
+    "birth_date": "1830-11-29",
+    "birth_time": "18:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Warszawa",
+    "birth_country": "Poland",
+    "gender": null,
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "Polish national uprising against Russia , which broke out on the night of 29 Nov",
+    "notable_events": [
+      {
+        "year": 1830,
+        "event": "Polish national uprising against Russia , which broke out on the night of 29 November 1830, and ended on October 21, 183",
+        "event_type": "other"
+      },
+      {
+        "year": 1831,
+        "event": "Polish national uprising against Russia , which broke out on the night of 29 November 1830, and ended on October 21, 183",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Military:_November_Uprising"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Military: Persian Gulf Strike",
+    "name_zh": null,
+    "birth_date": "1991-01-17",
+    "birth_time": "02:13",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Al-Kuwayt",
+    "birth_country": "Kuwait",
+    "gender": null,
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "American Operation Desert Storm, the first missile strike of Iraq from nine U.S.",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Military:_Persian_Gulf_Strike"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Military: WW II",
+    "name_zh": null,
+    "birth_date": "1939-09-01",
+    "birth_time": "04:17",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Danzig",
+    "birth_country": "Poland",
+    "gender": null,
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "European military action that commenced when German forces opened fire on Polish",
+    "notable_events": [
+      {
+        "year": 1940,
+        "event": "The invasion of Europe began on 10 May 1940, 4:35 AM from Berlin.",
+        "event_type": "career_start"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Military:_WW_II"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Military: Wannsee Conference",
+    "name_zh": null,
+    "birth_date": "1942-01-20",
+    "birth_time": "11:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Berlin-Spandau",
+    "birth_country": "Germany",
+    "gender": null,
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "A meeting of senior officials of Nazi Germany, held in the Berlin suburb of Wann",
+    "notable_events": [
+      {
+        "year": 1942,
+        "event": "A meeting of senior officials of Nazi Germany, held in the Berlin suburb of Wannsee on 20 January 1942 during World War ",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Military:_Wannsee_Conference"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Edna St. Vincent Millay",
+    "name_zh": null,
+    "birth_date": "1892-02-22",
+    "birth_time": "06:05",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Rockland",
+    "birth_country": "United States",
+    "gender": "female",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "American poet whose fourth volume \"The Harp Weaver,\" won the Pulitzer Prize in 1",
+    "notable_events": [
+      {
+        "year": 1923,
+        "event": "American poet whose fourth volume \"The Harp Weaver,\" won the Pulitzer Prize in 1923.",
+        "event_type": "award"
+      },
+      {
+        "year": 1917,
+        "event": "She was first published in 1917 with \"Renascence,\" and graduated from Vassar shortly after.",
+        "event_type": "career_peak"
+      },
+      {
+        "year": 1950,
+        "event": "Millay died on 19 October 1950, Austerlitz, NY.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Millay,_Edna_St._Vincent"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Harry M. Miller",
+    "name_zh": null,
+    "birth_date": "1934-01-06",
+    "birth_time": "06:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Sydney",
+    "birth_country": "New Zealand",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "科技",
+      "作家"
+    ],
+    "bio": "Australian show business entrepreneur, celebrity agent and impresario, born to E",
+    "notable_events": [
+      {
+        "year": 1935,
+        "event": "His father, a travelling haberdashery salesman of German-Jewish origins, slipped on a plum stone in 1935 and never walke",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Miller,_Harry_M."
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Lee Miller",
+    "name_zh": null,
+    "birth_date": "1907-04-23",
+    "birth_time": "16:15",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Poughkeepsie",
+    "birth_country": "United States",
+    "gender": "female",
+    "occupation": [
+      "企业家"
+    ],
+    "bio": "American photographer who began her career as a model.",
+    "notable_events": [
+      {
+        "year": 1929,
+        "event": "In 1929 she moved to Paris where she met and worked for Man Ray.",
+        "event_type": "other"
+      },
+      {
+        "year": 1932,
+        "event": "Returning to New York in 1932, she opened a successful studio there.",
+        "event_type": "other"
+      },
+      {
+        "year": 1937,
+        "event": "On a trip to Paris in 1937 she met surrealist artist Roland Penrose and eventually moved in with him in London.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Miller,_Lee"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Spike Milligan",
+    "name_zh": null,
+    "birth_date": "1918-04-16",
+    "birth_time": "02:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Ahmadnagar",
+    "birth_country": "India",
+    "gender": "male",
+    "occupation": [
+      "演员",
+      "作家"
+    ],
+    "bio": "British director and writer best known for \"The Goon Show,\" which began as a rad",
+    "notable_events": [
+      {
+        "year": 1951,
+        "event": "British director and writer best known for \"The Goon Show,\" which began as a radio series on 28 May 1951 with Spike Mill",
+        "event_type": "career_start"
+      },
+      {
+        "year": 1933,
+        "event": "The son of a British military man, he was raised in India, Burma and Ceylon, arriving in England in 1933.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Milligan,_Spike"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Dan Millman",
+    "name_zh": null,
+    "birth_date": "1946-02-22",
+    "birth_time": "01:20",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Los Angeles",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "演员",
+      "作家"
+    ],
+    "bio": "American author and lecturer in the self-help field.",
+    "notable_events": [
+      {
+        "year": 2006,
+        "event": "In 2006, his first book, Way of the Peaceful Warrior (1980), was adapted to a film, \"Peaceful Warrior,\" with Nick Nolte,",
+        "event_type": "career_peak"
+      },
+      {
+        "year": 1980,
+        "event": "In 2006, his first book, Way of the Peaceful Warrior (1980), was adapted to a film, \"Peaceful Warrior,\" with Nick Nolte,",
+        "event_type": "career_peak"
+      },
+      {
+        "year": 2007,
+        "event": "In 2006, his first book, Way of the Peaceful Warrior (1980), was adapted to a film, \"Peaceful Warrior,\" with Nick Nolte,",
+        "event_type": "career_peak"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Millman,_Dan"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Hayley Mills",
+    "name_zh": null,
+    "birth_date": "1946-04-18",
+    "birth_time": "23:40",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "London",
+    "birth_country": "England",
+    "gender": "female",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "British actress, an appealing juvenile who charmed audiences as the bubbly teena",
+    "notable_events": [
+      {
+        "year": 1960,
+        "event": "British actress, an appealing juvenile who charmed audiences as the bubbly teenage star of such '60s Disney classics as ",
+        "event_type": "award"
+      },
+      {
+        "year": 1964,
+        "event": "British actress, an appealing juvenile who charmed audiences as the bubbly teenage star of such '60s Disney classics as ",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Mills,_Hayley"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Christopher Robin Milne",
+    "name_zh": null,
+    "birth_date": "1920-08-21",
+    "birth_time": "08:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Chelsea",
+    "birth_country": "England",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "作家"
+    ],
+    "bio": "American noted family, the son of A.A Milne, the creator of \"Winnie The Pooh.\" H",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Milne,_Christopher_Robin"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
   }
 ]
