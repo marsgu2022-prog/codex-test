@@ -31654,5 +31654,269 @@
     ],
     "data_quality_score": 0.72,
     "rodden_rating": "B"
+  },
+  {
+    "name_en": "George Sessions Perry",
+    "name_zh": null,
+    "birth_date": "1910-05-05",
+    "birth_time": "11:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Rockdale (Milam County)",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "演员",
+      "作家"
+    ],
+    "bio": "American novelist, World War II correspondent and one of the highest paid popula",
+    "notable_events": [
+      {
+        "year": 1941,
+        "event": "He is remembered best for his 1941 novel 'Hold Autumn in Your Hand,' which won the National Book Award.",
+        "event_type": "award"
+      },
+      {
+        "year": 1945,
+        "event": "In 1945, French film director Jean Renoir made 'The Southerner,' based on Perry's book, starring Zachary Scott and Beula",
+        "event_type": "other"
+      },
+      {
+        "year": 1956,
+        "event": "He disappeared on December 13, 1956 after walking into a river near his home in Guilford, Connecticut; a coroner's inque",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Perry,_George_Sessions"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Mikael Persbrandt",
+    "name_zh": null,
+    "birth_date": "1963-09-25",
+    "birth_time": "22:18",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Stockholm",
+    "birth_country": "Sweden",
+    "gender": "male",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "Swedish actor perhaps best known in Swedish films for playing Gunvald Larsson in",
+    "notable_events": [
+      {
+        "year": 2011,
+        "event": "His performance earned him a 2011 European Film Award nomination for Best Actor.",
+        "event_type": "award"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Persbrandt,_Mikael"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Eva Perón",
+    "name_zh": null,
+    "birth_date": "1919-05-07",
+    "birth_time": "05:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Buenos Aires",
+    "birth_country": "Argentina",
+    "gender": "female",
+    "occupation": [
+      "政治家",
+      "演员"
+    ],
+    "bio": "Argentine actress in radio and movies before her marriage to Juan Peron on 21 Oc",
+    "notable_events": [
+      {
+        "year": 1945,
+        "event": "Argentine actress in radio and movies before her marriage to Juan Peron on 21 October 1945.",
+        "event_type": "marriage"
+      },
+      {
+        "year": 1946,
+        "event": "As the First Lady from 1946 she helped him to rise to power and became one of the most influential women of her time.",
+        "event_type": "career_peak"
+      },
+      {
+        "year": 1952,
+        "event": "Beloved by her people, she was mourned by the nation at her death in 1952.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Per%C3%B3n,_Eva"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Russell Peters",
+    "name_zh": null,
+    "birth_date": "1970-09-29",
+    "birth_time": "10:14",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Toronto",
+    "birth_country": "Ontario (CAN)",
+    "gender": "male",
+    "occupation": [
+      "演员",
+      "作家"
+    ],
+    "bio": "Canadian comedian, he has toured internationally giving sold-out performances.",
+    "notable_events": [
+      {
+        "year": 2010,
+        "event": "His memoir was released in 2010.",
+        "event_type": "career_peak"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Peters,_Russell"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Petrarch",
+    "name_zh": null,
+    "birth_date": "1304-07-20",
+    "birth_time": "04:33",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Arezzo",
+    "birth_country": "Italy",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "Italian poet and scholar, whose works marked the beginning of the Renaissance.",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Petrarch"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Sándor Petőfi",
+    "name_zh": null,
+    "birth_date": "1823-01-01",
+    "birth_time": "00:05",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Segesvár",
+    "birth_country": "Hungary",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "Hungarian poet and liberal revolutionary, considered Hungary's national poet, an",
+    "notable_events": [
+      {
+        "year": 1848,
+        "event": "Hungarian poet and liberal revolutionary, considered Hungary's national poet, and one of the key figures of the Hungaria",
+        "event_type": "other"
+      },
+      {
+        "year": 1844,
+        "event": "He gained notoriety with his publication of \"Versek\" in 1844.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Pet%C5%91fi,_S%C3%A1ndor"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Georg Peurbach",
+    "name_zh": null,
+    "birth_date": "1423-05-30",
+    "birth_time": "15:05",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Linz",
+    "birth_country": "Austria",
+    "gender": "male",
+    "occupation": [
+      "科学家",
+      "作家"
+    ],
+    "bio": "Austrian mathematician and astronomer instrumental in the European revival of th",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Peurbach,_Georg"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Adam Friedrich Pezoldt",
+    "name_zh": null,
+    "birth_date": "1679-05-24",
+    "birth_time": "05:45",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Sayda",
+    "birth_country": "Germany",
+    "gender": "male",
+    "occupation": [
+      "科学家"
+    ],
+    "bio": "German physician and professor of chemistry at the University of Leipzig.",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Pezoldt,_Adam_Friedrich"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Enrique Peña Nieto",
+    "name_zh": null,
+    "birth_date": "1966-07-20",
+    "birth_time": "06:20",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Mexico City",
+    "birth_country": "Mexico",
+    "gender": "male",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "Mexican politician, commonly referred to by his initials EPN, who served as the ",
+    "notable_events": [
+      {
+        "year": 2012,
+        "event": "Mexican politician, commonly referred to by his initials EPN, who served as the 57th President of Mexico from 2012 to 20",
+        "event_type": "other"
+      },
+      {
+        "year": 2018,
+        "event": "Mexican politician, commonly referred to by his initials EPN, who served as the 57th President of Mexico from 2012 to 20",
+        "event_type": "other"
+      },
+      {
+        "year": 2000,
+        "event": "He previously served in the State of Mexico as Secretary of Administration (2000–2002), Representative (2003–2004), and ",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Pe%C3%B1a_Nieto,_Enrique"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
   }
 ]
