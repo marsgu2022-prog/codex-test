@@ -25774,5 +25774,381 @@
     ],
     "data_quality_score": 0.72,
     "rodden_rating": "B"
+  },
+  {
+    "name_en": "Mario Magnozzi",
+    "name_zh": null,
+    "birth_date": "1902-03-20",
+    "birth_time": "14:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Livorno",
+    "birth_country": "Italy",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "运动员"
+    ],
+    "bio": "Italian soccer player who competed in the 1928 Summer Olympics.",
+    "notable_events": [
+      {
+        "year": 1928,
+        "event": "Italian soccer player who competed in the 1928 Summer Olympics.",
+        "event_type": "other"
+      },
+      {
+        "year": 1971,
+        "event": "He died on 25 June 1971.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Magnozzi,_Mario"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Dominik Magnuszewski",
+    "name_zh": null,
+    "birth_date": "1810-06-21",
+    "birth_time": "20:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Warszawa",
+    "birth_country": "Poland",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "Polish playwright, poet and prose writer.",
+    "notable_events": [
+      {
+        "year": 1845,
+        "event": "He died 27 February 1845.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Magnuszewski,_Dominik"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Naguib Mahfouz",
+    "name_zh": null,
+    "birth_date": "1911-12-10",
+    "birth_time": "02:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Cairo",
+    "birth_country": "Egypt",
+    "gender": "male",
+    "occupation": [
+      "演员",
+      "作家"
+    ],
+    "bio": "Egyptian writer who won the 1988 Nobel Prize for Literature.",
+    "notable_events": [
+      {
+        "year": 1988,
+        "event": "Egyptian writer who won the 1988 Nobel Prize for Literature.",
+        "event_type": "award"
+      },
+      {
+        "year": 1994,
+        "event": "Egyptian writer who won the 1988 Nobel Prize for Literature. He is regarded as one of the first contemporary writers of ",
+        "event_type": "award"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Mahfouz,_Naguib"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Alcides Maia",
+    "name_zh": null,
+    "birth_date": "1877-10-15",
+    "birth_time": "07:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "São Gabriel (Rio Grande do Sul)",
+    "birth_country": "Brazil",
+    "gender": "male",
+    "occupation": [
+      "政治家",
+      "作家"
+    ],
+    "bio": "Brazilian journalist, politician, short story writer, novelist and essayist.",
+    "notable_events": [
+      {
+        "year": 1944,
+        "event": "He died on 2 October 1944 in Rio de Janeiro.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Maia,_Alcides"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Moses Ben Maimon",
+    "name_zh": null,
+    "birth_date": "1135-03-30",
+    "birth_time": "12:57",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Córdoba",
+    "birth_country": "Spain",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "Spanish-Jewish philosopher, physician and linguist who is a master of Rabbinic l",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Maimon,_Moses_Ben"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Nicole Maines",
+    "name_zh": null,
+    "birth_date": "1997-10-07",
+    "birth_time": "12:21",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Gloversville",
+    "birth_country": "United States",
+    "gender": null,
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "American 'trans activist,' who ran a successful campaign to allow transgender sc",
+    "notable_events": [
+      {
+        "year": 2007,
+        "event": "She took action after she was denied use of the girls' restroom at her school in September 2007.",
+        "event_type": "other"
+      },
+      {
+        "year": 2014,
+        "event": "After six years of campaigning, on 30 January 2014, in a 5-1 decision, the Maine Supreme Judicial Court ruled that Regio",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Maines,_Nicole"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Rafe Mair",
+    "name_zh": null,
+    "birth_date": "1931-12-31",
+    "birth_time": "14:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Vancouver",
+    "birth_country": "British Columbia (CAN)",
+    "gender": "male",
+    "occupation": [
+      "政治家",
+      "演员"
+    ],
+    "bio": "Canadian lawyer, political commentator and former radio personality.",
+    "notable_events": [
+      {
+        "year": 1975,
+        "event": "His political career began in 1975, when he was elected as a Member of the Legislative Assembly (MLA) of the British Col",
+        "event_type": "career_start"
+      },
+      {
+        "year": 1981,
+        "event": "He held that seat until retiring from politics in 1981.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Mair,_Rafe"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Philip Mairet",
+    "name_zh": null,
+    "birth_date": "1886-04-27",
+    "birth_time": "01:43",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "London",
+    "birth_country": "England",
+    "gender": "male",
+    "occupation": [
+      "政治家",
+      "演员",
+      "作家"
+    ],
+    "bio": "English actor, designer, writer, journalist, translator and biographer.",
+    "notable_events": [
+      {
+        "year": 1975,
+        "event": "English actor, designer, writer, journalist, translator and biographer. He died on 9 February 1975, aged 88, in Seaford,",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Mairet,_Philip"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Clarence Major",
+    "name_zh": null,
+    "birth_date": "1936-12-31",
+    "birth_time": "07:33",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Atlanta",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "American poet, painter and novelist.",
+    "notable_events": [
+      {
+        "year": 1966,
+        "event": "After a stint in the Air Force, two marriages, children, and two divorces, he left the Midwest and moved to New York in ",
+        "event_type": "marriage"
+      },
+      {
+        "year": 1969,
+        "event": "His first novel, All Night Visitors (1969), was followed by his first collection of poems, Swallow the Lake (1970), and ",
+        "event_type": "other"
+      },
+      {
+        "year": 1970,
+        "event": "His first novel, All Night Visitors (1969), was followed by his first collection of poems, Swallow the Lake (1970), and ",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Major,_Clarence"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Ettore Majorana",
+    "name_zh": null,
+    "birth_date": "1906-08-05",
+    "birth_time": "20:15",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Palermo",
+    "birth_country": "Italy",
+    "gender": "male",
+    "occupation": [
+      "科学家"
+    ],
+    "bio": "Italian theoretical physicist who began work on neutrino masses.",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Majorana,_Ettore"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Andrei Nikolaevich Malakhov",
+    "name_zh": null,
+    "birth_date": "1972-01-11",
+    "birth_time": "17:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Apatity",
+    "birth_country": "Russian Federation",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "演员",
+      "作家"
+    ],
+    "bio": "Russian television journalist, showman, producer, actor and TV presenter on the ",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Malakhov,_Andrei_Nikolaevich"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Pawel Malaszynski",
+    "name_zh": null,
+    "birth_date": "1976-06-26",
+    "birth_time": "05:20",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Szczecinek",
+    "birth_country": "Poland",
+    "gender": "male",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "Polish TV and film actor.",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Malaszynski,_Pawel"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Hema Malini",
+    "name_zh": null,
+    "birth_date": "1948-10-16",
+    "birth_time": "00:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Ammankudi",
+    "birth_country": "India",
+    "gender": "female",
+    "occupation": [
+      "政治家",
+      "演员"
+    ],
+    "bio": "Indian actress, director, producer, dancer and politician.",
+    "notable_events": [
+      {
+        "year": 1977,
+        "event": "Malini was initially promoted as the \"Dream Girl\", and in 1977 starred in a film of the same name.",
+        "event_type": "other"
+      },
+      {
+        "year": 2003,
+        "event": "From 2003 to 2009, Malini was elected to the Rajya Sabha, the upper House of parliament, as a representative of the Bhar",
+        "event_type": "career_peak"
+      },
+      {
+        "year": 2009,
+        "event": "From 2003 to 2009, Malini was elected to the Rajya Sabha, the upper House of parliament, as a representative of the Bhar",
+        "event_type": "career_peak"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Malini,_Hema"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
   }
 ]
