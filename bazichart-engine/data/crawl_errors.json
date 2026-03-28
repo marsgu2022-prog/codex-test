@@ -16393,5 +16393,15 @@
     "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Special:AllPages&from=Kerns%2C+Russ",
     "stage": "index",
     "error": "HTTPSConnectionPool(host='www.astro.com', port=443): Max retries exceeded with url: /wiki/astro-databank/index.php?title=Special:AllPages&from=Kerns%2C+Russ (Caused by NameResolutionError(\"HTTPSConnection(host='www.astro.com', port=443): Failed to resolve 'www.astro.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Law:_Am.RecoveryReinvestment",
+    "stage": "detail",
+    "error": "404 Client Error: Not Found for url: https://www.astro.com/wiki/astro-databank/index.php?title=Law:_Am.RecoveryReinvestment&action=raw"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Law:_Financial_ReformConsumer",
+    "stage": "detail",
+    "error": "404 Client Error: Not Found for url: https://www.astro.com/wiki/astro-databank/index.php?title=Law:_Financial_ReformConsumer&action=raw"
   }
 ]
