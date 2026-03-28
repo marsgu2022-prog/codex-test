@@ -26150,5 +26150,239 @@
     ],
     "data_quality_score": 0.72,
     "rodden_rating": "B"
+  },
+  {
+    "name_en": "Diego Jr. Maradona",
+    "name_zh": null,
+    "birth_date": "1986-09-20",
+    "birth_time": "11:15",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Naples",
+    "birth_country": "Italy",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "运动员"
+    ],
+    "bio": "Italian soccer coach, former player, and professional beach soccer player, nickn",
+    "notable_events": [
+      {
+        "year": 1993,
+        "event": "In 1993, he was legally recognized as Maradona's son by the Court of Naples, and took his father's last name as a conseq",
+        "event_type": "other"
+      },
+      {
+        "year": 2003,
+        "event": "Despite that, he did not meet his natural father until 2003, during a golf tournament in Fiuggi.",
+        "event_type": "other"
+      },
+      {
+        "year": 2007,
+        "event": "It was only in 2007 that Maradona publicly recognised Diego Jr.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Maradona,_Diego_Jr."
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Peggy March",
+    "name_zh": null,
+    "birth_date": "1948-03-08",
+    "birth_time": "20:24",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Lansdale",
+    "birth_country": "United States",
+    "gender": "female",
+    "occupation": [
+      "演员",
+      "作家"
+    ],
+    "bio": "American pop singer, primarily known for her million-selling song \"I Will Follow",
+    "notable_events": [
+      {
+        "year": 1963,
+        "event": "American pop singer, primarily known for her million-selling song \"I Will Follow Him\" which soared to number one on the ",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=March,_Peggy"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "William March",
+    "name_zh": null,
+    "birth_date": "1893-09-18",
+    "birth_time": "15:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Mobile",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "American writer of psychological fiction and a highly decorated US Marine.",
+    "notable_events": [
+      {
+        "year": 1917,
+        "event": "American writer of psychological fiction and a highly decorated US Marine. The author of six novels and four short-story",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=March,_William"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Duchess of Savoy Margarete of Austria",
+    "name_zh": null,
+    "birth_date": "1480-01-10",
+    "birth_time": "11:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Brussels",
+    "birth_country": "Belgium",
+    "gender": "female",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "Austrian princess as the daughter of Maximilian (the future Maximilian I, Holy R",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Margarete_of_Austria,_Duchess_of_Savoy"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Archduchess of Austria (1738) Maria Anna",
+    "name_zh": null,
+    "birth_date": "1738-10-06",
+    "birth_time": "09:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Vienna",
+    "birth_country": "Austria",
+    "gender": "female",
+    "occupation": [
+      "政治家",
+      "科学家",
+      "作家"
+    ],
+    "bio": "Austrian royalty, the second but eldest surviving daughter of Maria Theresa, Que",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Maria_Anna,_Archduchess_of_Austria_(1738)"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Archduchess of Austria (1680) Maria Elisabeth",
+    "name_zh": null,
+    "birth_date": "1680-12-13",
+    "birth_time": "06:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Linz",
+    "birth_country": "Austria",
+    "gender": "female",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "Archduchess of Austria who served as the governor of the Austrian Netherlands be",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Maria_Elisabeth,_Archduchess_of_Austria_(1680)"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Queen of Spain Mariana",
+    "name_zh": null,
+    "birth_date": "1634-12-22",
+    "birth_time": "23:59",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Wiener Neustadt",
+    "birth_country": "Austria",
+    "gender": "female",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "Austrian archduchess who reigned as Queen of Spain from 1649, when she married h",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Mariana,_Queen_of_Spain"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Princess of France Marie Clotilde",
+    "name_zh": null,
+    "birth_date": "1759-09-23",
+    "birth_time": "05:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Versailles",
+    "birth_country": "France",
+    "gender": "female",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "French princess who became Queen of Sardinia as Clotilda in 1796.",
+    "notable_events": [
+      {
+        "year": 1802,
+        "event": "Marie Clotilde died on 7 March 1802 in Naples, Italy.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Marie_Clotilde,_Princess_of_France"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Paul Marin",
+    "name_zh": null,
+    "birth_date": "1927-01-20",
+    "birth_time": "19:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Williamsburg",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "演员",
+      "作家"
+    ],
+    "bio": "American actor, born as Solomon Schneider in Brooklyn, NY.",
+    "notable_events": [
+      {
+        "year": 2009,
+        "event": "In 2009 he published an autobiography \"21 Allen Street: and Other Tales From the Life of Actor Paul Marin\".",
+        "event_type": "career_peak"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Marin,_Paul"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
   }
 ]
