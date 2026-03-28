@@ -483,10 +483,13 @@ def main() -> None:
             args.sqlite_db,
             unified_output=args.sqlite_export_unified,
             report_output=args.sqlite_report_output,
+            refresh_interval_seconds=20.0,
         )
 
         def batch_callback(page_people: list[dict[str, Any]], _runtime_state: dict[str, Any]) -> None:
-            store.upsert("astrotheme", page_people, refresh_outputs=bool(page_people))
+            store.upsert("astrotheme", page_people, refresh_outputs=False)
+            if page_people:
+                store.refresh_outputs()
 
         people, errors, runtime_state = crawl(
             session,
@@ -509,6 +512,7 @@ def main() -> None:
         )
     finally:
         if store is not None:
+            store.refresh_outputs(force=True)
             store.close()
     print(f"astrotheme_total={len(merged)}")
     print(f"astrotheme_added={len(people)}")

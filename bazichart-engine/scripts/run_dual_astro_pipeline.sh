@@ -30,11 +30,12 @@ ASTRO_DONE_MARKER="$RUNTIME_DIR/astro.last_done"
 ASTROTHEME_DONE_MARKER="$RUNTIME_DIR/astrotheme.last_done"
 PIPELINE_DONE_MARKER="$RUNTIME_DIR/pipeline.last_done"
 
-TARGET_HAS_TIME="${1:-10000}"
-ASTRO_BATCH_SIZE="${2:-200}"
-ASTROTHEME_BATCH_SIZE="${3:-300}"
-ASTRO_MAX_PAGES="${4:-500}"
-ASTROTHEME_MAX_PAGES="${5:-15}"
+TARGET_HAS_TIME="${1:-70000}"
+ASTRO_BATCH_SIZE="${2:-240}"
+ASTROTHEME_BATCH_SIZE="${3:-400}"
+ASTRO_MAX_PAGES="${4:-20}"
+ASTROTHEME_MAX_PAGES="${5:-8}"
+IDLE_SLEEP_SECONDS="${6:-60}"
 
 mkdir -p "$RUNTIME_DIR"
 touch "$ASTRO_DONE_MARKER" "$ASTROTHEME_DONE_MARKER" "$PIPELINE_DONE_MARKER"
@@ -138,7 +139,7 @@ astro_loop() {
         log "Astro-Databank连续3轮无新增，停止抓取"
         return 0
       fi
-      sleep 300
+      sleep "$IDLE_SLEEP_SECONDS"
       continue
     fi
 
@@ -180,7 +181,7 @@ astrotheme_loop() {
         log "Astrotheme连续3轮无新增，停止抓取"
         return 0
       fi
-      sleep 300
+      sleep "$IDLE_SLEEP_SECONDS"
       continue
     fi
 
@@ -217,7 +218,7 @@ pipeline_loop() {
       last_seen_has_time="$after_has_time"
     fi
 
-    sleep 30
+    sleep 15
   done
 }
 

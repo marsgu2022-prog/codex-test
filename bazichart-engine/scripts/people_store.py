@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import json
 import sqlite3
+import time
 import unicodedata
 from datetime import datetime
 from pathlib import Path
@@ -220,13 +221,17 @@ class PeopleStoreSession:
         *,
         unified_output: Path = DEFAULT_UNIFIED_OUTPUT,
         report_output: Path = DEFAULT_REPORT_OUTPUT,
+        refresh_interval_seconds: float = 30.0,
     ) -> None:
         self.db_path = db_path
         self.unified_output = unified_output
         self.report_output = report_output
+        self.refresh_interval_seconds = refresh_interval_seconds
         self.conn = connect_database(db_path)
         create_schema(self.conn)
         self.source_imported_counts: dict[str, int] = {}
+        self.last_refresh_monotonic: float | None = None
+        self.has_pending_changes = False
 
     def upsert(self, source: str, records: list[dict[str, Any]], *, refresh_outputs: bool = False) -> int:
         if not records:
@@ -234,15 +239,27 @@ class PeopleStoreSession:
         count = upsert_records(self.conn, source, records)
         self.conn.commit()
         self.source_imported_counts[source] = self.source_imported_counts.get(source, 0) + count
+        self.has_pending_changes = True
         if refresh_outputs:
-            self.refresh_outputs()
+            self.refresh_outputs(force=True)
         return count
 
-    def refresh_outputs(self) -> dict[str, Any]:
+    def refresh_outputs(self, *, force: bool = False) -> dict[str, Any]:
+        if not self.has_pending_changes and not force:
+            return {}
+        now = time.monotonic()
+        if (
+            not force
+            and self.last_refresh_monotonic is not None
+            and (now - self.last_refresh_monotonic) < self.refresh_interval_seconds
+        ):
+            return {}
         unified_records = export_unified(self.conn)
         write_json(self.unified_output, unified_records)
         report = build_report(self.conn, unified_records, dict(self.source_imported_counts))
         write_json(self.report_output, report)
+        self.last_refresh_monotonic = now
+        self.has_pending_changes = False
         return report
 
     def close(self) -> None:

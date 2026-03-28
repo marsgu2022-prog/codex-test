@@ -496,6 +496,7 @@ def main() -> None:
             args.sqlite_db,
             unified_output=args.sqlite_export_unified,
             report_output=args.sqlite_report_output,
+            refresh_interval_seconds=20.0,
         )
 
         def batch_callback(page_high_confidence: list[dict[str, Any]], page_medium_confidence: list[dict[str, Any]], _runtime_state: dict[str, Any]) -> None:
@@ -532,6 +533,7 @@ def main() -> None:
         )
     finally:
         if store is not None:
+            store.refresh_outputs(force=True)
             store.close()
     print(f"astro_AA_A_total={len(merged_a)}")
     print(f"astro_AA_A_added={len(high_confidence)}")

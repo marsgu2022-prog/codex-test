@@ -115,3 +115,9 @@
 - `people_store.py` 新增 `PeopleStoreSession`，用于长跑抓取时复用同一个 SQLite 连接并按批次刷新统一导出
 - `crawl_astro_databank.py` 在每个索引页处理完成后，立刻把当页新增的 `AA/A` 与 `B` 记录写入 SQLite，再刷新统一 JSON 与报告
 - `crawl_astrotheme.py` 在每个分类页处理完成后，立刻把当页新增记录写入 SQLite，降低长跑任务中断时的产出损失
+
+## 2026-03-28 SQLite 主库导出改为节流刷新
+
+- `PeopleStoreSession` 新增刷新节流，默认按时间窗口合并多页增量，避免每页都重写 `unified_people_sqlite.json`
+- `crawl_astro_databank.py` 与 `crawl_astrotheme.py` 仍保持页级写库，但统一导出改为定时刷新并在结束时强制收口
+- `run_dual_astro_pipeline.sh` 默认目标提升到 `70000`，并把 AstroDatabank 与 Astrotheme 的批次参数调大，降低旧的 `3/30` 小批次循环开销

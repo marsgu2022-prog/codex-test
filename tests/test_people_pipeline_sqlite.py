@@ -114,3 +114,58 @@ def test_people_store_session_updates_outputs(tmp_path):
     report = json.loads((tmp_path / "report.json").read_text(encoding="utf-8"))
     assert report["raw_total"] == 1
     assert report["unified_total"] == 1
+
+
+def test_people_store_session_throttles_refresh_until_forced(tmp_path):
+    store_module_path = Path(__file__).resolve().parents[1] / "bazichart-engine" / "scripts" / "people_store.py"
+    spec = spec_from_file_location("people_store", store_module_path)
+    store_module = module_from_spec(spec)
+    sys.modules["people_store"] = store_module
+    assert spec and spec.loader
+    spec.loader.exec_module(store_module)
+
+    original_monotonic = store_module.time.monotonic
+    ticks = iter([100.0, 101.0, 102.0, 103.0])
+    store_module.time.monotonic = lambda: next(ticks)
+    store = store_module.PeopleStoreSession(
+        tmp_path / "people.db",
+        unified_output=tmp_path / "unified.json",
+        report_output=tmp_path / "report.json",
+        refresh_interval_seconds=30.0,
+    )
+    try:
+        store.upsert(
+            "astrotheme",
+            [{
+                "name_en": "First Person",
+                "birth_date": "2001-02-03",
+                "birth_time": "09:00",
+                "source_urls": ["https://example.com/first"],
+                "occupation": ["作家"],
+                "notable_events": [],
+                "data_quality_score": 0.8,
+            }],
+        )
+        first_report = store.refresh_outputs()
+        store.upsert(
+            "astrotheme",
+            [{
+                "name_en": "Second Person",
+                "birth_date": "2001-02-04",
+                "birth_time": "10:00",
+                "source_urls": ["https://example.com/second"],
+                "occupation": ["演员"],
+                "notable_events": [],
+                "data_quality_score": 0.8,
+            }],
+        )
+        skipped_report = store.refresh_outputs()
+        forced_report = store.refresh_outputs(force=True)
+    finally:
+        store.close()
+        store_module.time.monotonic = original_monotonic
+
+    assert first_report["raw_total"] == 1
+    assert skipped_report == {}
+    assert forced_report["raw_total"] == 2
+    assert forced_report["unified_total"] == 2
