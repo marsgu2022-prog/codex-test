@@ -24675,5 +24675,295 @@
     ],
     "data_quality_score": 0.72,
     "rodden_rating": "B"
+  },
+  {
+    "name_en": "Lil' Mo",
+    "name_zh": null,
+    "birth_date": "1978-11-19",
+    "birth_time": "23:49",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Long Island",
+    "birth_country": "United States",
+    "gender": "female",
+    "occupation": [
+      "企业家",
+      "演员",
+      "作家"
+    ],
+    "bio": "American R&B singer, radio personality, songwriter, and record producer.",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Lil%27_Mo"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Ana Clara Lima",
+    "name_zh": null,
+    "birth_date": "1997-04-11",
+    "birth_time": "12:15",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Rio de Janeiro (Rio de Janeiro)",
+    "birth_country": "Brazil",
+    "gender": "female",
+    "occupation": [
+      "演员",
+      "作家"
+    ],
+    "bio": "Brazilian reporter and presenter, best known for being a finalist on Big Brother",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Lima,_Ana_Clara"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Ayrton Lima",
+    "name_zh": null,
+    "birth_date": "1961-12-17",
+    "birth_time": "12:45",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Rio de Janeiro (Rio de Janeiro)",
+    "birth_country": "Brazil",
+    "gender": "male",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "Brazilian systems analyst who placed third, alongside his daughter Ana Clara Lim",
+    "notable_events": [
+      {
+        "year": 2018,
+        "event": "Brazilian systems analyst who placed third, alongside his daughter Ana Clara Lima, on the 18th season of reality televis",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Lima,_Ayrton"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Junior Lima",
+    "name_zh": null,
+    "birth_date": "1984-04-11",
+    "birth_time": "10:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Campinas (São Paulo)",
+    "birth_country": "Brazil",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "演员",
+      "作家"
+    ],
+    "bio": "Brazilian pop-rock singer-songwriter, drummer, guitarist, actor and record produ",
+    "notable_events": [
+      {
+        "year": 1991,
+        "event": "In 1991 the duo released their debut album, Aniversário do Tatu , which sold over 300,000 copies, and as the 1990s and 2",
+        "event_type": "career_start"
+      },
+      {
+        "year": 1999,
+        "event": "In 1991 the duo released their debut album, Aniversário do Tatu , which sold over 300,000 copies, and as the 1990s and 2",
+        "event_type": "career_start"
+      },
+      {
+        "year": 2002,
+        "event": "In 1991 the duo released their debut album, Aniversário do Tatu , which sold over 300,000 copies, and as the 1990s and 2",
+        "event_type": "career_start"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Lima,_Junior"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Bobby Limb",
+    "name_zh": null,
+    "birth_date": "1924-11-10",
+    "birth_time": "08:05",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Adelaide",
+    "birth_country": "Australia",
+    "gender": "male",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "Australian TV entertainer of the 1960s and 1970s he won several awards for his w",
+    "notable_events": [
+      {
+        "year": 1946,
+        "event": "A saxophonist, he joined an Australian big band in 1946 and four years later became the country's youngest band leader.",
+        "event_type": "career_peak"
+      },
+      {
+        "year": 1958,
+        "event": "After his 1958 marriage to a talented singer, he and his wife moved to England where he made a name for himself on telev",
+        "event_type": "marriage"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Limb,_Bobby"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Abraham Lincoln",
+    "name_zh": null,
+    "birth_date": "1809-02-12",
+    "birth_time": "06:54",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Washington",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "政治家",
+      "作家"
+    ],
+    "bio": "American lawyer and politician who served as the 16th U.S.",
+    "notable_events": [
+      {
+        "year": 1861,
+        "event": "As one of the most respected figures in history and most famous leaders of the United States, he held the presidential o",
+        "event_type": "other"
+      },
+      {
+        "year": 1865,
+        "event": "As one of the most respected figures in history and most famous leaders of the United States, he held the presidential o",
+        "event_type": "other"
+      },
+      {
+        "year": 1834,
+        "event": "Lincoln was a member of the Legislature from 1834 to 1841, a U.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Lincoln,_Abraham"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Denise Linn",
+    "name_zh": null,
+    "birth_date": "1950-04-16",
+    "birth_time": "02:20",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Corvallis",
+    "birth_country": "United States",
+    "gender": "female",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "American healer, writer, lecturer and member of the Cherokee Nation, who has wri",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Linn,_Denise"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Rodrigo Lira",
+    "name_zh": null,
+    "birth_date": "1949-12-26",
+    "birth_time": "11:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Santiago",
+    "birth_country": "Chile",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "Chilean poet.",
+    "notable_events": [
+      {
+        "year": 1981,
+        "event": "He committed suicide on 26 December 1981 age of thirty-two years.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Lira,_Rodrigo"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Lita",
+    "name_zh": null,
+    "birth_date": "1975-04-14",
+    "birth_time": "10:36",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Fort Lauderdale",
+    "birth_country": "United States",
+    "gender": "female",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "American professional wrestler and World Wrestling Entertainment (WWE) Diva acti",
+    "notable_events": [
+      {
+        "year": 1999,
+        "event": "American professional wrestler and World Wrestling Entertainment (WWE) Diva active from 1999 to 2006.",
+        "event_type": "other"
+      },
+      {
+        "year": 2006,
+        "event": "American professional wrestler and World Wrestling Entertainment (WWE) Diva active from 1999 to 2006.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Lita"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Beverly Little Thunder",
+    "name_zh": null,
+    "birth_date": "1947-12-31",
+    "birth_time": "23:47",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Los Angeles",
+    "birth_country": "United States",
+    "gender": "female",
+    "occupation": [
+      "政治家",
+      "作家"
+    ],
+    "bio": "American indigenous women's activist, a two-spirit Standing Rock Lakota woman, w",
+    "notable_events": [
+      {
+        "year": 2016,
+        "event": "American indigenous women's activist, a two-spirit Standing Rock Lakota woman, whose oral memoir One Bead at a Time , re",
+        "event_type": "career_peak"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Little_Thunder,_Beverly"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
   }
 ]
