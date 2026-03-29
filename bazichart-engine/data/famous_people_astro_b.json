@@ -44970,5 +44970,58 @@
     ],
     "data_quality_score": 0.72,
     "rodden_rating": "B"
+  },
+  {
+    "name_en": "Aniruddha Bapu",
+    "name_zh": null,
+    "birth_date": "1956-11-18",
+    "birth_time": "04:35",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Mumbai",
+    "birth_country": "India",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "Indian physician; rheumatologist; editor of the widely read Indian daily, Pratya",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bapu,_Aniruddha"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Uzi Baram",
+    "name_zh": null,
+    "birth_date": "1937-04-06",
+    "birth_time": "06:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Jerusalem",
+    "birth_country": "Israel",
+    "gender": "male",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "Israeli former politician, who served as a member of the Knesset between 1977 an",
+    "notable_events": [
+      {
+        "year": 1977,
+        "event": "Israeli former politician, who served as a member of the Knesset between 1977 and 2001, and was Minister of Tourism and ",
+        "event_type": "other"
+      },
+      {
+        "year": 2001,
+        "event": "Israeli former politician, who served as a member of the Knesset between 1977 and 2001, and was Minister of Tourism and ",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Baram,_Uzi"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
   }
 ]
