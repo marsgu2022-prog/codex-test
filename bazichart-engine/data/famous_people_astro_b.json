@@ -44403,5 +44403,60 @@
     ],
     "data_quality_score": 0.72,
     "rodden_rating": "B"
+  },
+  {
+    "name_en": "Ignacio Aldecoa",
+    "name_zh": null,
+    "birth_date": "1925-07-24",
+    "birth_time": "02:45",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Vitoria",
+    "birth_country": "Spain",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "Spanish author.",
+    "notable_events": [
+      {
+        "year": 1969,
+        "event": "Spanish author. Aldecoa was a fairly prolific writer, he produced about half a dozen novels and as many books of short s",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Aldecoa,_Ignacio"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Rod Aldridge",
+    "name_zh": null,
+    "birth_date": "1947-11-07",
+    "birth_time": "16:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Hove",
+    "birth_country": "England",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "作家"
+    ],
+    "bio": "English founder and former executive chairman of Capita, a British company speci",
+    "notable_events": [
+      {
+        "year": 2006,
+        "event": "In July 2006 Aldridge resigned as executive chairman of Capita after it was revealed that he had lent the Labour Party £",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Aldridge,_Rod"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
   }
 ]
