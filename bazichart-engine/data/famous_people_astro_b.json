@@ -45349,5 +45349,151 @@
     ],
     "data_quality_score": 0.72,
     "rodden_rating": "B"
+  },
+  {
+    "name_en": "George Boole",
+    "name_zh": null,
+    "birth_date": "1815-11-02",
+    "birth_time": "16:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Lincoln",
+    "birth_country": "England",
+    "gender": "male",
+    "occupation": [
+      "科学家",
+      "作家"
+    ],
+    "bio": "English mathematician, philosopher and logician.",
+    "notable_events": [
+      {
+        "year": 1864,
+        "event": "He died of an attack of fever, ending in pleural effusion on 8 December 1864, at Ballintemple, County Cork, Ireland.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Boole,_George"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Martin Boos",
+    "name_zh": null,
+    "birth_date": "1762-12-25",
+    "birth_time": "00:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Augsburg",
+    "birth_country": "Germany",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "German Roman Catholic theologian.",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Boos,_Martin"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Edwina Booth",
+    "name_zh": null,
+    "birth_date": "1861-12-09",
+    "birth_time": "04:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Fulham",
+    "birth_country": "England",
+    "gender": "female",
+    "occupation": [
+      "演员",
+      "作家"
+    ],
+    "bio": "American biographer and memoirist.",
+    "notable_events": [
+      {
+        "year": 1885,
+        "event": "On 16 May 1885, she married Ignatius R.",
+        "event_type": "marriage"
+      },
+      {
+        "year": 1895,
+        "event": "In 1895, after her father's death, she published \"Edwin Booth: Recollections by His Daughter, Edwina Booth Grossmann, an",
+        "event_type": "death"
+      },
+      {
+        "year": 1938,
+        "event": "\" Edwina died on 26 December 1938 at the age of 77.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Booth,_Edwina"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Junius Brutus Booth",
+    "name_zh": null,
+    "birth_date": "1796-05-01",
+    "birth_time": "13:45",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "London",
+    "birth_country": "England",
+    "gender": "male",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "British-American actor who came to the U.S.",
+    "notable_events": [
+      {
+        "year": 1821,
+        "event": "in 1821 with an already-established reputation as a Shakespearean actor of great talent.",
+        "event_type": "other"
+      },
+      {
+        "year": 1852,
+        "event": "He died November 30, 1852 at age 56.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Booth,_Junius_Brutus"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Lauro de Andrade Borba",
+    "name_zh": null,
+    "birth_date": "1892-02-08",
+    "birth_time": "05:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Timbaúba (Pernambuco)",
+    "birth_country": "Brazil",
+    "gender": "male",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "Brazilian civil engineer who served as Director of the School of Engineering of ",
+    "notable_events": [
+      {
+        "year": 1967,
+        "event": "He died on 8 August 1967.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Borba,_Lauro_de_Andrade"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
   }
 ]
