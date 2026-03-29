@@ -41206,5 +41206,116 @@
     ],
     "data_quality_score": 0.72,
     "rodden_rating": "B"
+  },
+  {
+    "name_en": "Immanuel Velikovsky",
+    "name_zh": null,
+    "birth_date": "1895-06-10",
+    "birth_time": "14:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Vitebsk",
+    "birth_country": "Belarus",
+    "gender": "male",
+    "occupation": [
+      "科学家",
+      "作家"
+    ],
+    "bio": "Russian-American writer who, after moving to the U.S.",
+    "notable_events": [
+      {
+        "year": 1929,
+        "event": "in 1929 as a writer and researcher, was controversial for 37 years for his scientific theories.",
+        "event_type": "other"
+      },
+      {
+        "year": 1950,
+        "event": "His books included \"Worlds In Collision,\" 1950 and \"Ages In Chaos,\" 1952.",
+        "event_type": "other"
+      },
+      {
+        "year": 1952,
+        "event": "His books included \"Worlds In Collision,\" 1950 and \"Ages In Chaos,\" 1952.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Velikovsky,_Immanuel"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Paul (film director) Verhoeven",
+    "name_zh": null,
+    "birth_date": "1938-07-18",
+    "birth_time": "01:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Venice",
+    "birth_country": "Netherlands",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "演员",
+      "作家"
+    ],
+    "bio": "Dutch film director, screenwriter, and producer.",
+    "notable_events": [
+      {
+        "year": 1901,
+        "event": "He was the only child of the teacher Wilem Hendrik Verhoeven (30 April 1901, Dordrecht) and Neeltje van Schaardenburg (1",
+        "event_type": "other"
+      },
+      {
+        "year": 1902,
+        "event": "He was the only child of the teacher Wilem Hendrik Verhoeven (30 April 1901, Dordrecht) and Neeltje van Schaardenburg (1",
+        "event_type": "other"
+      },
+      {
+        "year": 1926,
+        "event": "They married 26 May 1926 in Dordrecht.",
+        "event_type": "marriage"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Verhoeven,_Paul_(film_director)"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Marco Vianello-Chiodo",
+    "name_zh": null,
+    "birth_date": "1932-03-21",
+    "birth_time": "16:45",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Venice",
+    "birth_country": "Italy",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "政治家",
+      "演员"
+    ],
+    "bio": "Italian international lawyer who served as Deputy Executive Director (external r",
+    "notable_events": [
+      {
+        "year": 1987,
+        "event": "Italian international lawyer who served as Deputy Executive Director (external relations) at UNICEF, 1987-1993.",
+        "event_type": "other"
+      },
+      {
+        "year": 1993,
+        "event": "Italian international lawyer who served as Deputy Executive Director (external relations) at UNICEF, 1987-1993.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Vianello-Chiodo,_Marco"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
   }
 ]
