@@ -44328,5 +44328,80 @@
     ],
     "data_quality_score": 0.72,
     "rodden_rating": "B"
+  },
+  {
+    "name_en": "Ansel Adams",
+    "name_zh": null,
+    "birth_date": "1902-02-20",
+    "birth_time": "03:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "San Francisco",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "作家"
+    ],
+    "bio": "American photographic artist, the most significant figure in photography in the ",
+    "notable_events": [
+      {
+        "year": 1930,
+        "event": "American photographic artist, the most significant figure in photography in the 20th century and one of the finest techn",
+        "event_type": "other"
+      },
+      {
+        "year": 1918,
+        "event": "He was sent to Yosemite Valley to recover after nearly dying from influenza during the pandemic of 1918-1919, and it was",
+        "event_type": "career_peak"
+      },
+      {
+        "year": 1919,
+        "event": "He was sent to Yosemite Valley to recover after nearly dying from influenza during the pandemic of 1918-1919, and it was",
+        "event_type": "career_peak"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Adams,_Ansel"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Nicola Adams",
+    "name_zh": null,
+    "birth_date": "1982-10-26",
+    "birth_time": "07:20",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Leeds",
+    "birth_country": "England",
+    "gender": "female",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "British boxer nicknamed 'The Lioness' or 'Babyface' who competed from 2017 to 20",
+    "notable_events": [
+      {
+        "year": 2017,
+        "event": "British boxer nicknamed 'The Lioness' or 'Babyface' who competed from 2017 to 2019, retiring with an undefeated record a",
+        "event_type": "other"
+      },
+      {
+        "year": 2019,
+        "event": "British boxer nicknamed 'The Lioness' or 'Babyface' who competed from 2017 to 2019, retiring with an undefeated record a",
+        "event_type": "other"
+      },
+      {
+        "year": 2012,
+        "event": "As an amateur, she became the first female boxer to become an Olympic champion after winning gold at London 2012, and th",
+        "event_type": "award"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Adams,_Nicola"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
   }
 ]
