@@ -37244,5 +37244,471 @@
     ],
     "data_quality_score": 0.72,
     "rodden_rating": "B"
+  },
+  {
+    "name_en": "Bedrich Smetana",
+    "name_zh": null,
+    "birth_date": "1824-03-02",
+    "birth_time": "10:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Litomysl",
+    "birth_country": "Czech Republic",
+    "gender": "male",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "Czechoslovakian composer, the acknowledged founder of a Czechoslovakian national",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Smetana,_Bedrich"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Al E. Smith",
+    "name_zh": null,
+    "birth_date": "1873-12-30",
+    "birth_time": "03:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "New York",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "政治家"
+    ],
+    "bio": "American politician, four-term governor of New York and US Presidential candidat",
+    "notable_events": [
+      {
+        "year": 1928,
+        "event": "American politician, four-term governor of New York and US Presidential candidate in 1928 whom Franklin Roosevelt called",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Smith,_Al_E."
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "David Hyrum Smith",
+    "name_zh": null,
+    "birth_date": "1844-11-17",
+    "birth_time": "09:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Nauvoo",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "American religious leader, poet, painter, singer, philosopher, and naturalist.",
+    "notable_events": [
+      {
+        "year": 1847,
+        "event": "Beginning in December 1847, he was raised by his mother and her second husband, Lewis C.",
+        "event_type": "other"
+      },
+      {
+        "year": 1865,
+        "event": "American religious leader, poet, painter, singer, philosopher, and naturalist. The youngest son of Joseph Smith, Jr. and",
+        "event_type": "other"
+      },
+      {
+        "year": 1873,
+        "event": "American religious leader, poet, painter, singer, philosopher, and naturalist. The youngest son of Joseph Smith, Jr. and",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Smith,_David_Hyrum"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Gerald L. K. Smith",
+    "name_zh": null,
+    "birth_date": "1898-02-27",
+    "birth_time": "11:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Pardeeville",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "American clergyman and political organizer, who became a leader of the Share Our",
+    "notable_events": [
+      {
+        "year": 1944,
+        "event": "He founded the America First Party in 1944, for which he was a presidential candidate in the election that year.",
+        "event_type": "career_start"
+      },
+      {
+        "year": 1976,
+        "event": "Smith died on April 15, 1976 of pneumonia.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Smith,_Gerald_L._K."
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Gregory Smith",
+    "name_zh": null,
+    "birth_date": "1956-11-16",
+    "birth_time": "06:15",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Phoenixville",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "政治家",
+      "作家"
+    ],
+    "bio": "American social worker, writer and advocate for the disabled.",
+    "notable_events": [
+      {
+        "year": 2003,
+        "event": "His 2003 memoir \"Those Are the Breaks\" is about living with his medical condition: Osteogenesis Imperfecta, also known a",
+        "event_type": "other"
+      },
+      {
+        "year": 1988,
+        "event": "He graduated from West Chester University in 1988, with a BA in Social Work, and later completed a PhD.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Smith,_Gregory"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Jim Smith",
+    "name_zh": null,
+    "birth_date": "1901-04-07",
+    "birth_time": "12:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Bailieborough",
+    "birth_country": "Ireland",
+    "gender": "male",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "Irish Gaelic footballer, a centre-back whose championship career at senior level",
+    "notable_events": [
+      {
+        "year": 1918,
+        "event": "Irish Gaelic footballer, a centre-back whose championship career at senior level with the Cavan county team spanned nine",
+        "event_type": "other"
+      },
+      {
+        "year": 1937,
+        "event": "Irish Gaelic footballer, a centre-back whose championship career at senior level with the Cavan county team spanned nine",
+        "event_type": "other"
+      },
+      {
+        "year": 1970,
+        "event": "He died on 20 July 1970 at age 69 in Stoneybatter, Dublin, Ireland.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Smith,_Jim"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Red Smith",
+    "name_zh": null,
+    "birth_date": "1905-09-25",
+    "birth_time": "06:15",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Green Bay",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "运动员",
+      "作家"
+    ],
+    "bio": "American sportswriter; a humorous, famed and Pulitzer Prize winning columnist fo",
+    "notable_events": [
+      {
+        "year": 1927,
+        "event": "Walter Wellesley \"Red\" Smith, a Green Bay, Wisconsin native, graduated from Notre Dame University in 1927.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Smith,_Red"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Robert Smith",
+    "name_zh": null,
+    "birth_date": "1959-04-21",
+    "birth_time": "01:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Blackpool",
+    "birth_country": "England",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "English singer, songwriter and musician.",
+    "notable_events": [
+      {
+        "year": 1976,
+        "event": "He is the band's only constant member since its formation in 1976.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Smith,_Robert"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "William Jay Smith",
+    "name_zh": null,
+    "birth_date": "1918-04-22",
+    "birth_time": "09:45",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Winnfield",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "American poet.",
+    "notable_events": [
+      {
+        "year": 1968,
+        "event": "He was appointed the nineteenth Poet Laureate Consultant in Poetry to the Library of Congress from 1968 to 1970.",
+        "event_type": "career_peak"
+      },
+      {
+        "year": 1970,
+        "event": "He was appointed the nineteenth Poet Laureate Consultant in Poetry to the Library of Congress from 1968 to 1970.",
+        "event_type": "career_peak"
+      },
+      {
+        "year": 1947,
+        "event": "In 1947 he married the poet Barbara Howes, and they lived for a time in England and Italy.",
+        "event_type": "marriage"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Smith,_William_Jay"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Brix Smith Start",
+    "name_zh": null,
+    "birth_date": "1962-11-12",
+    "birth_time": "08:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Los Angeles Cedars of Lebanon",
+    "birth_country": "United States",
+    "gender": "female",
+    "occupation": [
+      "演员",
+      "作家"
+    ],
+    "bio": "American singer, guitarist and television presenter, best known for being a memb",
+    "notable_events": [
+      {
+        "year": 1979,
+        "event": "Studying theatre and literature at Bennington College in Vermont in the 1970s, Smith Start formed a group, \"Banda Dratsi",
+        "event_type": "other"
+      },
+      {
+        "year": 1983,
+        "event": "American singer, guitarist and television presenter, best known for being a member of post-punk band The Fall (named aft",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Smith_Start,_Brix"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Gerald Donald Smoot",
+    "name_zh": null,
+    "birth_date": "1938-03-24",
+    "birth_time": "17:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Detroit",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "American disabled writer whose book, I'm Handicapped for Life: The Story of an 1",
+    "notable_events": [
+      {
+        "year": 1958,
+        "event": "American disabled writer whose book, I'm Handicapped for Life: The Story of an 18-year-old's Fight Against Cerebral Pals",
+        "event_type": "career_peak"
+      },
+      {
+        "year": 2007,
+        "event": "He died on 25 February 2007 at age 68.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Smoot,_Gerald_Donald"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Garry Sobers",
+    "name_zh": null,
+    "birth_date": "1936-07-28",
+    "birth_time": "03:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Bridgetown",
+    "birth_country": "Barbados",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "运动员",
+      "作家"
+    ],
+    "bio": "West Indies sports figure, a cricketing legend known as the greatest all-rounder",
+    "notable_events": [
+      {
+        "year": 2002,
+        "event": "The legendary batsman published his autobiography in 2002, telling of his upbringing and the tragic accident that inspir",
+        "event_type": "career_peak"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Sobers,_Garry"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Jakub Ludwik Sobieski",
+    "name_zh": null,
+    "birth_date": "1667-11-02",
+    "birth_time": "06:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Paris",
+    "birth_country": "France",
+    "gender": "male",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "Polish prince, nobleman, politician, diplomat, scholar, traveller and the eldest",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Sobieski,_Jakub_Ludwik"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Konstanty Władysław Sobieski",
+    "name_zh": null,
+    "birth_date": "1680-05-01",
+    "birth_time": "07:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Warsaw",
+    "birth_country": "Poland",
+    "gender": "male",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "Polish prince, nobleman, politician, diplomat, scholar and the son of John (Jan)",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Sobieski,_Konstanty_W%C5%82adys%C5%82aw"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Fernando Solana",
+    "name_zh": null,
+    "birth_date": "1931-02-08",
+    "birth_time": "15:55",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Mexico City",
+    "birth_country": "Mexico",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "政治家"
+    ],
+    "bio": "Mexican diplomat, politician and businessman.",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Solana,_Fernando"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Xul Solar",
+    "name_zh": null,
+    "birth_date": "1887-12-14",
+    "birth_time": "11:20",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "San Fernando (Buenos Aires)",
+    "birth_country": "Argentina",
+    "gender": "male",
+    "occupation": [
+      "科学家",
+      "作家"
+    ],
+    "bio": "Argentine painter, sculptor, writer, and inventor of imaginary languages.",
+    "notable_events": [
+      {
+        "year": 1916,
+        "event": "In 1916, he first signed his work “Xul Solar,” ostensibly for the purposes to simplify the phonetics of his name, but an",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Solar,_Xul"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
   }
 ]
