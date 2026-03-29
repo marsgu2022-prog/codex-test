@@ -39829,5 +39829,135 @@
     ],
     "data_quality_score": 0.72,
     "rodden_rating": "B"
+  },
+  {
+    "name_en": "Dick Thornburgh",
+    "name_zh": null,
+    "birth_date": "1932-07-16",
+    "birth_time": "18:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Pittsburgh",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "American lawyer and Republican politician who served as the 41st Governor of Pen",
+    "notable_events": [
+      {
+        "year": 1979,
+        "event": "American lawyer and Republican politician who served as the 41st Governor of Pennsylvania from 1979 to 1987, and then as",
+        "event_type": "other"
+      },
+      {
+        "year": 1987,
+        "event": "American lawyer and Republican politician who served as the 41st Governor of Pennsylvania from 1979 to 1987, and then as",
+        "event_type": "other"
+      },
+      {
+        "year": 1988,
+        "event": "Attorney General from 1988 to 1991.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Thornburgh,_Dick"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Phyllis Tickle",
+    "name_zh": null,
+    "birth_date": "1934-03-12",
+    "birth_time": "16:50",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Johnson City",
+    "birth_country": "United States",
+    "gender": "female",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "American author and lecturer whose work focuses on spirituality and religion iss",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Tickle,_Phyllis"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Oleg Tinkov",
+    "name_zh": null,
+    "birth_date": "1967-12-25",
+    "birth_time": "14:45",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Polysajevo",
+    "birth_country": "Russian Federation",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "演员",
+      "运动员",
+      "作家"
+    ],
+    "bio": "Russian entrepreneur and cycling sponsor, ranked 1210 in the 2014 Forbes list of",
+    "notable_events": [
+      {
+        "year": 2014,
+        "event": "Russian entrepreneur and cycling sponsor, ranked 1210 in the 2014 Forbes list of the wealthiest people in the world, and",
+        "event_type": "other"
+      },
+      {
+        "year": 2016,
+        "event": "Russian entrepreneur and cycling sponsor, ranked 1210 in the 2014 Forbes list of the wealthiest people in the world, and",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Tinkov,_Oleg"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Ariarne Titmus",
+    "name_zh": null,
+    "birth_date": "2000-09-07",
+    "birth_time": "02:50",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Tokyo",
+    "birth_country": "Australia",
+    "gender": "female",
+    "occupation": [
+      "运动员"
+    ],
+    "bio": "Australian swimmer, the reigning Olympic champion in the women's 200-metre and 4",
+    "notable_events": [
+      {
+        "year": 2020,
+        "event": "Australian swimmer, the reigning Olympic champion in the women's 200-metre and 400-metre freestyle, having won both even",
+        "event_type": "award"
+      },
+      {
+        "year": 2024,
+        "event": "Australian swimmer, the reigning Olympic champion in the women's 200-metre and 400-metre freestyle, having won both even",
+        "event_type": "award"
+      },
+      {
+        "year": 2022,
+        "event": "' She was awarded a Medal of the Order of Australia in 2022.",
+        "event_type": "award"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Titmus,_Ariarne"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
   }
 ]
