@@ -45322,5 +45322,32 @@
     ],
     "data_quality_score": 0.72,
     "rodden_rating": "B"
+  },
+  {
+    "name_en": "Thomas Bernhard",
+    "name_zh": null,
+    "birth_date": "1931-02-09",
+    "birth_time": "20:45",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Vienna",
+    "birth_country": "Netherlands",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "Austrian novelist, playwright and poet, whose body of work has been called \"the ",
+    "notable_events": [
+      {
+        "year": 1989,
+        "event": "He died on 12 February 1989 at age 58 in Gmünden, Austria.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Bernhard,_Thomas"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
   }
 ]
