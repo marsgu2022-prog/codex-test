@@ -44294,5 +44294,39 @@
     ],
     "data_quality_score": 0.72,
     "rodden_rating": "B"
+  },
+  {
+    "name_en": "Maarten ‘t Hart",
+    "name_zh": null,
+    "birth_date": "1944-11-25",
+    "birth_time": "17:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Maassluis",
+    "birth_country": "Netherlands",
+    "gender": "male",
+    "occupation": [
+      "政治家",
+      "演员",
+      "作家"
+    ],
+    "bio": "Dutch author, who trained as a biologist in zoology and ethology at the Universi",
+    "notable_events": [
+      {
+        "year": 1971,
+        "event": "Dutch author, who trained as a biologist in zoology and ethology at the University of Leiden, then taught that subject b",
+        "event_type": "career_start"
+      },
+      {
+        "year": 1986,
+        "event": "Dutch author, who trained as a biologist in zoology and ethology at the University of Leiden, then taught that subject b",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=%E2%80%98t_Hart,_Maarten"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
   }
 ]
