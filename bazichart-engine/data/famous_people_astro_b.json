@@ -44518,5 +44518,64 @@
     ],
     "data_quality_score": 0.72,
     "rodden_rating": "B"
+  },
+  {
+    "name_en": "Hal Ashby",
+    "name_zh": null,
+    "birth_date": "1929-09-02",
+    "birth_time": "00:10",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Ogden",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "企业家",
+      "演员"
+    ],
+    "bio": "American film director and editor associated with the New Hollywood wave of film",
+    "notable_events": [
+      {
+        "year": 1966,
+        "event": "Before his career as a director Ashby edited films for Norman Jewison, notably \"The Russians Are Coming, the Russians Ar",
+        "event_type": "other"
+      },
+      {
+        "year": 1967,
+        "event": "Before his career as a director Ashby edited films for Norman Jewison, notably \"The Russians Are Coming, the Russians Ar",
+        "event_type": "other"
+      },
+      {
+        "year": 1978,
+        "event": "Ashby received a third Oscar nomination; this time for Best Director for \"Coming Home\" (1978).",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Ashby,_Hal"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Matthew Ashimolowo",
+    "name_zh": null,
+    "birth_date": "1952-03-17",
+    "birth_time": "09:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Zaria",
+    "birth_country": "Nigeria",
+    "gender": "male",
+    "occupation": [
+      "演员"
+    ],
+    "bio": "Nigerian-British media personality.",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Ashimolowo,_Matthew"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
   }
 ]
