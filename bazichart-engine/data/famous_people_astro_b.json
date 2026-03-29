@@ -44458,5 +44458,65 @@
     ],
     "data_quality_score": 0.72,
     "rodden_rating": "B"
+  },
+  {
+    "name_en": "B. R. Ambedkar",
+    "name_zh": null,
+    "birth_date": "1891-04-14",
+    "birth_time": "12:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Mhow",
+    "birth_country": "India",
+    "gender": "male",
+    "occupation": [
+      "政治家",
+      "科学家"
+    ],
+    "bio": "Indian jurist, politician, philosopher, anthropologist, historian and economist,",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Ambedkar,_B._R."
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Julian Amery",
+    "name_zh": null,
+    "birth_date": "1919-03-27",
+    "birth_time": "17:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "London",
+    "birth_country": "England",
+    "gender": "male",
+    "occupation": [
+      "政治家",
+      "作家"
+    ],
+    "bio": "British politician of the Conservative Party, Baron Amery of Lustleigh, who serv",
+    "notable_events": [
+      {
+        "year": 1950,
+        "event": "British politician of the Conservative Party, Baron Amery of Lustleigh, who served as a Member of Parliament for 39 of t",
+        "event_type": "other"
+      },
+      {
+        "year": 1992,
+        "event": "British politician of the Conservative Party, Baron Amery of Lustleigh, who served as a Member of Parliament for 39 of t",
+        "event_type": "other"
+      },
+      {
+        "year": 1960,
+        "event": "He was appointed to the Privy Council in 1960.",
+        "event_type": "career_peak"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Amery,_Julian"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
   }
 ]
