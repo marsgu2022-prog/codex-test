@@ -34756,5 +34756,236 @@
     ],
     "data_quality_score": 0.72,
     "rodden_rating": "B"
+  },
+  {
+    "name_en": "Prince of the Rhine Ruprecht",
+    "name_zh": null,
+    "birth_date": "1619-12-17",
+    "birth_time": "21:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Prague",
+    "birth_country": "Czech Republic",
+    "gender": "male",
+    "occupation": [
+      "政治家",
+      "科学家"
+    ],
+    "bio": "German soldier, admiral, scientist, sportsman, colonial governor and amateur art",
+    "notable_events": [],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Ruprecht,_Prince_of_the_Rhine"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Athol Rusden",
+    "name_zh": null,
+    "birth_date": "1918-09-15",
+    "birth_time": "10:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Auckland",
+    "birth_country": "New Zealand",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "New Zealand seafarer who titled his autobiography \"Rascal of the South Pacific.\"",
+    "notable_events": [
+      {
+        "year": 2012,
+        "event": "Captain Rusden died on 19 June 2012 at the Gold Coast, Queensland, Australia, aged 93.",
+        "event_type": "death"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Rusden,_Athol"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "John Ruskin",
+    "name_zh": null,
+    "birth_date": "1819-02-08",
+    "birth_time": "07:30",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "London",
+    "birth_country": "England",
+    "gender": "male",
+    "occupation": [
+      "政治家",
+      "作家"
+    ],
+    "bio": "British writer and art critic with the voice of a Puritan and idealist.",
+    "notable_events": [
+      {
+        "year": 1842,
+        "event": "He received an Oxford degree in 1842 and won the Newdigate prize in 1839.",
+        "event_type": "award"
+      },
+      {
+        "year": 1839,
+        "event": "He received an Oxford degree in 1842 and won the Newdigate prize in 1839.",
+        "event_type": "award"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Ruskin,_John"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Bertrand Russell",
+    "name_zh": null,
+    "birth_date": "1872-05-18",
+    "birth_time": "17:45",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Trellech",
+    "birth_country": "Wales",
+    "gender": "male",
+    "occupation": [
+      "政治家",
+      "科学家",
+      "作家"
+    ],
+    "bio": "British-Welsh writer, mathematician, logician, philosopher, social critic, one o",
+    "notable_events": [
+      {
+        "year": 1910,
+        "event": "With Alfred Whitehead, he wrote \"The Principia Mathematica,\" 1910-1913, a treatise on mathematical logic.",
+        "event_type": "other"
+      },
+      {
+        "year": 1913,
+        "event": "With Alfred Whitehead, he wrote \"The Principia Mathematica,\" 1910-1913, a treatise on mathematical logic.",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Russell,_Bertrand"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Gianni Russo",
+    "name_zh": null,
+    "birth_date": "1943-12-12",
+    "birth_time": "03:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Manhattan",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "演员",
+      "作家"
+    ],
+    "bio": "American actor and singer best known for his role as Carlo Rizzi in the 1972 fil",
+    "notable_events": [
+      {
+        "year": 1972,
+        "event": "American actor and singer best known for his role as Carlo Rizzi in the 1972 film The Godfather .",
+        "event_type": "other"
+      },
+      {
+        "year": 1975,
+        "event": "After reprising the Rizzi character in a brief flashback scene at the end of The Godfather Part II , Russo went on to ac",
+        "event_type": "other"
+      },
+      {
+        "year": 1978,
+        "event": "After reprising the Rizzi character in a brief flashback scene at the end of The Godfather Part II , Russo went on to ac",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Russo,_Gianni"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Vito Russo",
+    "name_zh": null,
+    "birth_date": "1946-07-11",
+    "birth_time": "07:49",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "New York",
+    "birth_country": "United States",
+    "gender": "male",
+    "occupation": [
+      "政治家",
+      "演员",
+      "作家"
+    ],
+    "bio": "American LGBT activist, film historian and author who is best remembered as the ",
+    "notable_events": [
+      {
+        "year": 1981,
+        "event": "American LGBT activist, film historian and author who is best remembered as the author of the book The Celluloid Closet ",
+        "event_type": "other"
+      },
+      {
+        "year": 1987,
+        "event": "American LGBT activist, film historian and author who is best remembered as the author of the book The Celluloid Closet ",
+        "event_type": "other"
+      },
+      {
+        "year": 1985,
+        "event": "American LGBT activist, film historian and author who is best remembered as the author of the book The Celluloid Closet ",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Russo,_Vito"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Agnieszka Rylik",
+    "name_zh": null,
+    "birth_date": "1974-01-21",
+    "birth_time": "00:50",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Kolobrzeg",
+    "birth_country": "Poland",
+    "gender": "female",
+    "occupation": [
+      "演员",
+      "运动员"
+    ],
+    "bio": "Polish boxer, world champion, TVN reporter.",
+    "notable_events": [
+      {
+        "year": 2000,
+        "event": "In the years 2000-2005 she fought a total of 18 duels in the professional boxing, winning 17.",
+        "event_type": "other"
+      },
+      {
+        "year": 2005,
+        "event": "In the years 2000-2005 she fought a total of 18 duels in the professional boxing, winning 17.",
+        "event_type": "other"
+      },
+      {
+        "year": 2012,
+        "event": "From November 3, 2012, together with Paweł Nastula, she ran an entertainment program entitled MMAster, broadcast by TVN ",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Rylik,_Agnieszka"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
   }
 ]
