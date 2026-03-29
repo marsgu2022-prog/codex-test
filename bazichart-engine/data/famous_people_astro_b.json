@@ -45650,5 +45650,72 @@
     ],
     "data_quality_score": 0.72,
     "rodden_rating": "B"
+  },
+  {
+    "name_en": "Mariah Carey",
+    "name_zh": null,
+    "birth_date": "1969-03-27",
+    "birth_time": "07:27",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Santa Monica, CA",
+    "birth_country": "United States",
+    "gender": "female",
+    "occupation": [
+      "企业家",
+      "演员",
+      "作家"
+    ],
+    "bio": "American singer, songwriter, record producer, and actress, a superstar at the tu",
+    "notable_events": [
+      {
+        "year": 2001,
+        "event": "Her single, \"Loverboy,\" released in mid-July 2001, the first cut off the Glitter soundtrack, has remained at No.",
+        "event_type": "career_peak"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Carey,_Mariah"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Lewis Carroll",
+    "name_zh": null,
+    "birth_date": "1832-01-27",
+    "birth_time": "03:45",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Guildford",
+    "birth_country": "England",
+    "gender": "male",
+    "occupation": [
+      "科学家",
+      "作家"
+    ],
+    "bio": "English writer, mathematician, logician, Anglican deacon, and photographer, cons",
+    "notable_events": [
+      {
+        "year": 1865,
+        "event": "He is particularly remembered for his children’s books, \"Alice’s Adventures in Wonderland, \"1865, and its sequel, \"Throu",
+        "event_type": "award"
+      },
+      {
+        "year": 1871,
+        "event": "He is particularly remembered for his children’s books, \"Alice’s Adventures in Wonderland, \"1865, and its sequel, \"Throu",
+        "event_type": "award"
+      },
+      {
+        "year": 1827,
+        "event": "His father, Reverend Charles Dodgson, was the perpetual curate at the old parsonage at Daresbury from 1827-43, and his m",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Carroll,_Lewis"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
   }
 ]
