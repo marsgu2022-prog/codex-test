@@ -45495,5 +45495,65 @@
     ],
     "data_quality_score": 0.72,
     "rodden_rating": "B"
+  },
+  {
+    "name_en": "Kenneth E. Boulding",
+    "name_zh": null,
+    "birth_date": "1910-01-18",
+    "birth_time": "11:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Liverpool",
+    "birth_country": "England",
+    "gender": "male",
+    "occupation": [
+      "政治家",
+      "作家"
+    ],
+    "bio": "English-born American economist, educator, peace activist, and interdisciplinary",
+    "notable_events": [
+      {
+        "year": 1956,
+        "event": "Boulding was the author of two citation classics: The Image: Knowledge in Life and Society (1956) and Conflict and Defen",
+        "event_type": "other"
+      },
+      {
+        "year": 1962,
+        "event": "Boulding was the author of two citation classics: The Image: Knowledge in Life and Society (1956) and Conflict and Defen",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Boulding,_Kenneth_E."
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
+  },
+  {
+    "name_en": "Pattie Boyd",
+    "name_zh": null,
+    "birth_date": "1944-03-17",
+    "birth_time": "04:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Taunton",
+    "birth_country": "England",
+    "gender": "female",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "English model, photographer, and author, also note as the first wife of both Geo",
+    "notable_events": [
+      {
+        "year": 2007,
+        "event": "In August 2007, she published her autobiography Wonderful Today (titled Wonderful Tonight in the United States).",
+        "event_type": "award"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Boyd,_Pattie"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
   }
 ]
