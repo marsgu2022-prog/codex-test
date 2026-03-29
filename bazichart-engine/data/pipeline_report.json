@@ -1,55 +1,55 @@
 {
   "summary": {
-    "total_records": 48354,
-    "has_birth_time": 35256,
-    "bazi_calculated": 40578,
-    "bazi_with_birth_time": 29394
+    "total_records": 48378,
+    "has_birth_time": 35280,
+    "bazi_calculated": 40598,
+    "bazi_with_birth_time": 29414
   },
   "source_distribution": {
-    "astrodatabank": 31394,
+    "astrodatabank": 31424,
     "wikipedia": 13098,
-    "astrotheme": 3862
+    "astrotheme": 3856
   },
   "five_elements_total": {
-    "earth": 80108,
-    "fire": 56097,
-    "wood": 55692,
-    "metal": 55543,
-    "water": 54816
+    "earth": 80157,
+    "fire": 56128,
+    "wood": 55710,
+    "metal": 55575,
+    "water": 54846
   },
   "day_master_distribution": {
-    "癸": 4167,
-    "己": 4149,
-    "庚": 4127,
-    "甲": 4108,
-    "壬": 4068,
+    "癸": 4170,
+    "己": 4150,
+    "庚": 4129,
+    "甲": 4110,
+    "壬": 4069,
     "戊": 4044,
-    "乙": 4030,
-    "丁": 3967,
-    "辛": 3959,
-    "丙": 3959
+    "乙": 4033,
+    "丁": 3970,
+    "辛": 3963,
+    "丙": 3960
   },
   "day_master_element_distribution": {
-    "water": 8235,
-    "earth": 8193,
-    "wood": 8138,
-    "metal": 8086,
-    "fire": 7926
+    "water": 8239,
+    "earth": 8194,
+    "wood": 8143,
+    "metal": 8092,
+    "fire": 7930
   },
   "day_master_strength": {
-    "强": 13015,
-    "弱": 13008,
-    "中偏弱": 11279,
-    "中偏强": 3276
+    "强": 13020,
+    "弱": 13013,
+    "中偏弱": 11286,
+    "中偏强": 3279
   },
   "top_occupations": {
-    "演员": 18076,
-    "作家": 15847,
-    "企业家": 14520,
-    "政治家": 10365,
-    "运动员": 8016,
-    "音乐家": 6795,
-    "科学家": 4142,
+    "演员": 18084,
+    "作家": 15860,
+    "企业家": 14521,
+    "政治家": 10369,
+    "运动员": 8022,
+    "音乐家": 6789,
+    "科学家": 4144,
     "科技": 291,
     "艺术家": 236,
     "占星/神秘学": 157,
