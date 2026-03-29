@@ -45613,5 +45613,42 @@
     ],
     "data_quality_score": 0.72,
     "rodden_rating": "B"
+  },
+  {
+    "name_en": "José Canalejas",
+    "name_zh": null,
+    "birth_date": "1854-07-31",
+    "birth_time": "03:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Madrid",
+    "birth_country": "Spain",
+    "gender": "male",
+    "occupation": [
+      "政治家"
+    ],
+    "bio": "Spanish lawyer and liberal politician.",
+    "notable_events": [
+      {
+        "year": 1912,
+        "event": "Being president of the Council of Ministers, was killed in a terrorist attack on 12 November 1912.",
+        "event_type": "other"
+      },
+      {
+        "year": 1906,
+        "event": "He was elected president of the Congress of Deputies of Spain during the 1906-1907 Legislature.",
+        "event_type": "career_peak"
+      },
+      {
+        "year": 1907,
+        "event": "He was elected president of the Congress of Deputies of Spain during the 1906-1907 Legislature.",
+        "event_type": "career_peak"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Canalejas,_Jos%C3%A9"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
   }
 ]
