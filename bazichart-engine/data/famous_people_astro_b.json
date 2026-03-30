@@ -45717,5 +45717,42 @@
     ],
     "data_quality_score": 0.72,
     "rodden_rating": "B"
+  },
+  {
+    "name_en": "Alejandro Casona",
+    "name_zh": null,
+    "birth_date": "1903-03-23",
+    "birth_time": "06:00",
+    "birth_time_source": "astrodatabank_B",
+    "birth_time_reliability": "medium",
+    "birth_city": "Cangas de Narcea",
+    "birth_country": "Spain",
+    "gender": "male",
+    "occupation": [
+      "作家"
+    ],
+    "bio": "Spanish poet and playwright, a member of the Generation of '27.",
+    "notable_events": [
+      {
+        "year": 1936,
+        "event": "After Franco's rise in 1936, He was forced, like many Spanish Intellectuals, to leave Spain.",
+        "event_type": "other"
+      },
+      {
+        "year": 1962,
+        "event": "He lived in Buenos Aires until April 1962 When he returned to Spain.",
+        "event_type": "other"
+      },
+      {
+        "year": 1965,
+        "event": "Spanish poet and playwright, a member of the Generation of '27. After Franco's rise in 1936, He was forced, like many Sp",
+        "event_type": "other"
+      }
+    ],
+    "source_urls": [
+      "https://www.astro.com/wiki/astro-databank/index.php?title=Casona,_Alejandro"
+    ],
+    "data_quality_score": 0.72,
+    "rodden_rating": "B"
   }
 ]
