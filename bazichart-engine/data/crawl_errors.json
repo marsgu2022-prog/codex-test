@@ -16423,5 +16423,10 @@
     "url": "https://www.astro.com/wiki/astro-databank/index.php?title=AndyRoberts_Counterpart",
     "stage": "detail",
     "error": "404 Client Error: Not Found for url: https://www.astro.com/wiki/astro-databank/index.php?title=AndyRoberts_Counterpart&action=raw"
+  },
+  {
+    "url": "https://www.astro.com/wiki/astro-databank/index.php?title=Charles_XIII,_King_SwedenNorw",
+    "stage": "detail",
+    "error": "404 Client Error: Not Found for url: https://www.astro.com/wiki/astro-databank/index.php?title=Charles_XIII,_King_SwedenNorw&action=raw"
   }
 ]
